@@ -100,7 +100,7 @@ async function scrapeINISS(page) {
                 /Super\s*Speciali[sz]ation/i
             ];
 
-            headings.forEach(h6 => {
+            headings.forEach((h6, index) => {
                 const text = h6.innerText.trim();
                 if (text.length > 10 && patterns.some(p => p.test(text))) {
                     // Try to find a link nearby
@@ -108,7 +108,7 @@ async function scrapeINISS(page) {
                     const link = card?.querySelector('a')?.href || 'https://www.aiimsexams.ac.in/landingpage/notice';
 
                     items.push({
-                        id: `iniss-${Date.now()}-${text.substring(0, 10).replace(/\s/g, '')}`,
+                        id: `iniss-${currentYear}-${index}-${text.substring(0, 20).replace(/[^a-zA-Z0-9]/g, '')}`,
                         examType: 'INI-SS',
                         title: text,
                         year: currentYear.toString(),

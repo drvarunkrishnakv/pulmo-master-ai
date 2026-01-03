@@ -69,10 +69,7 @@ const ExamNotificationBanner: React.FC<ExamNotificationBannerProps> = ({ onNotif
 
     const handleCloseModal = () => {
         setShowModal(false);
-        if (notifications.length > 0) {
-            markAllAsRead();
-            setNotifications([]);
-        }
+        // Don't auto-mark as read - user must explicitly click "Mark All as Read"
     };
 
     // Mark all as seen directly from banner (without modal)
@@ -402,6 +399,28 @@ const ExamNotificationBanner: React.FC<ExamNotificationBannerProps> = ({ onNotif
                             <RefreshCw className={`w-4 h-4 ${isChecking ? 'animate-spin' : ''}`} />
                             {isChecking ? 'Checking...' : 'Check for Updates'}
                         </button>
+
+                        {/* Mark All as Read button - only show when there are notifications */}
+                        {notifications.length > 0 && (
+                            <button
+                                onClick={() => {
+                                    markAllAsRead();
+                                    setNotifications([]);
+                                    setShowModal(false);
+                                }}
+                                className={`
+                                    w-full mt-2 py-3 rounded-xl font-bold flex items-center justify-center gap-2
+                                    transition-all duration-300
+                                    ${isDark
+                                        ? 'bg-emerald-600 text-white hover:bg-emerald-500'
+                                        : 'bg-emerald-500 text-white hover:bg-emerald-600'
+                                    }
+                                `}
+                            >
+                                <Check className="w-4 h-4" />
+                                Mark All as Read
+                            </button>
+                        )}
                     </div>
                 </div>
             )}
