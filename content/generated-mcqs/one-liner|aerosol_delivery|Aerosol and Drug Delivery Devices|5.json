@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the optimal aerodynamic particle size (MMAD) for maximal peripheral lung deposition of inhaled aerosols?",
+    "options": {
+      "A": ">10 µm",
+      "B": "5-10 µm",
+      "C": "1-5 µm",
+      "D": "<1 µm"
+    },
+    "correctAnswer": "C",
+    "topic": "aerosol_delivery",
+    "deepDiveExplanation": "The optimal mass median aerodynamic diameter (MMAD) for maximal deposition in the peripheral lung (small airways and alveoli) is generally 1-5 µm. Particles larger than 5 µm tend to deposit in the oropharynx and large airways due to inertial impaction. Particles smaller than 1 µm may be exhaled before depositing due to their low mass and susceptibility to Brownian diffusion rather than sedimentation.",
+    "highYieldPearl": "Aerosol particles with MMAD 1-5 µm are ideal for deep lung penetration; >5 µm for upper airways, <1 µm often exhaled.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Students might confuse optimal size for large airway deposition (>5µm) or think smaller is always better (<1µm) which leads to exhalation. The key is 'peripheral lung deposition'.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|aerosol_delivery|Aerosol and Drug Delivery Devices|5_yrq7at31"
+  },
+  {
+    "question": "The primary benefit of using a valved holding chamber (VHC) with a metered-dose inhaler (MDI) is to reduce:",
+    "options": {
+      "A": "Drug particle aggregation",
+      "B": "Oropharyngeal drug deposition",
+      "C": "Systemic drug absorption",
+      "D": "Inspiratory flow rate requirement"
+    },
+    "correctAnswer": "B",
+    "topic": "aerosol_delivery",
+    "deepDiveExplanation": "Valved holding chambers (VHCs) reduce the velocity of the aerosol plume from an MDI, allowing larger particles to 'rain out' in the chamber, and the smaller, more respirable particles to be inhaled. This significantly reduces oropharyngeal deposition, which is a major source of side effects and inefficient drug delivery with MDIs. It also helps with coordination, but the direct physiological benefit is reduced impaction in the upper airways.",
+    "highYieldPearl": "VHCs decrease oropharyngeal deposition and improve lung delivery of MDI drugs by reducing aerosol velocity and particle size at the mouth.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While VHCs indirectly help with coordination (reducing the 'timing' pressure), the primary *mechanism* by which they improve delivery and reduce side effects is by minimizing drug impaction in the oropharynx. Systemic absorption might increase due to better lung delivery, not decrease.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|aerosol_delivery|Aerosol and Drug Delivery Devices|5_awr08l8z"
+  },
+  {
+    "question": "Which drug delivery device type inherently requires minimal patient coordination between actuation and inspiration?",
+    "options": {
+      "A": "Metered-dose inhaler (MDI)",
+      "B": "Dry powder inhaler (DPI)",
+      "C": "Breath-actuated MDI (BAI)",
+      "D": "Jet nebulizer"
+    },
+    "correctAnswer": "C",
+    "topic": "aerosol_delivery",
+    "deepDiveExplanation": "Breath-actuated MDIs (BAIs) automatically release the drug when the patient initiates inspiration, thus eliminating the need for precise coordination between actuation and inhalation, a common difficulty with standard MDIs. DPIs require a forceful and rapid inspiration, while jet nebulizers are passive and do not require specific coordination during inhalation, but they are not 'inhalers' in the same class as MDIs/DPIs in terms of patient maneuver.",
+    "highYieldPearl": "Breath-actuated MDIs (BAIs) simplify MDI use by eliminating the need for hand-breath coordination.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Students might consider DPIs easy to use, but they require a strong inspiratory effort, which is a different challenge than coordination. Jet nebulizers are passive, but the question implies an 'inhaler' type device.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|aerosol_delivery|Aerosol and Drug Delivery Devices|5_b3po9glo"
+  },
+  {
+    "question": "Which type of nebulizer primarily generates aerosols using a high-frequency vibrating mesh with multiple apertures?",
+    "options": {
+      "A": "Jet nebulizer",
+      "B": "Ultrasonic nebulizer",
+      "C": "Vibrating mesh nebulizer",
+      "D": "Spinning disk nebulizer"
+    },
+    "correctAnswer": "C",
+    "topic": "aerosol_delivery",
+    "deepDiveExplanation": "Vibrating mesh nebulizers (VMNs) utilize a plate or mesh with thousands of laser-drilled holes that vibrates at a high frequency, pushing liquid medication through the apertures to create a fine aerosol. Jet nebulizers use compressed gas, and ultrasonic nebulizers use a piezoelectric crystal to generate high-frequency sound waves.",
+    "highYieldPearl": "Vibrating mesh nebulizers offer efficient drug delivery with minimal residual volume and operate quietly, using a vibrating mesh.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "This is a direct recall question. The main trap would be confusing 'vibrating mesh' with 'ultrasonic' nebulizers, as both involve vibration, but the mechanism of aerosol generation is distinct.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|aerosol_delivery|Aerosol and Drug Delivery Devices|5_on6xywpq"
+  },
+  {
+    "question": "What is the predominant mechanism of aerosol particle deposition in the large airways (trachea, bronchi) at high inspiratory flow rates?",
+    "options": {
+      "A": "Brownian diffusion",
+      "B": "Gravitational sedimentation",
+      "C": "Inertial impaction",
+      "D": "Electrostatic precipitation"
+    },
+    "correctAnswer": "C",
+    "topic": "aerosol_delivery",
+    "deepDiveExplanation": "Inertial impaction is the predominant mechanism for depositing larger particles (typically >5 µm) or particles inhaled at high flow rates, especially in the upper airways and larger conducting airways. These particles have sufficient momentum to overcome changes in airflow direction and impact the airway walls. Gravitational sedimentation is important for particles 1-5 µm in smaller airways during breath-holding, while Brownian diffusion is for very small particles (<0.1 µm) in the alveoli.",
+    "highYieldPearl": "Large particles and high inspiratory flow rates primarily lead to aerosol deposition in large airways via inertial impaction.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Students might confuse the mechanisms. Sedimentation is for smaller particles in slower air, diffusion for very small particles. The key here is 'large airways' and 'high inspiratory flow rates' which strongly points to impaction.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|aerosol_delivery|Aerosol and Drug Delivery Devices|5_e67q3kds"
+  }
+]

@@ -1,0 +1,1134 @@
+[
+  {
+    "id": "rag_cystic_fibrosis_aac4a2e7",
+    "question": "A 68-year-old male with a history of severe COPD presents to the emergency department with increasing dyspnea, cough, and confusion for the past 24 hours. He is afebrile, blood pressure 130/80 mmHg, heart rate 98 bpm, respiratory rate 28 breaths/min. On examination, he has prolonged expiration, diminished breath sounds bilaterally, and coarse crackles at the bases. ABG on room air shows: pH 7.28, PaCO2 70 mmHg, PaO2 55 mmHg, HCO3- 32 mEq/L, SaO2 88%.",
+    "options": {
+      "A": "Acute-on-chronic respiratory acidosis with partial metabolic compensation, severe hypoxemia.",
+      "B": "Chronic respiratory acidosis with full metabolic compensation, moderate hypoxemia.",
+      "C": "Acute respiratory acidosis with partial metabolic compensation, severe hypoxemia.",
+      "D": "Metabolic alkalosis with respiratory compensation, severe hypoxemia."
+    },
+    "correctAnswer": "A",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "The patient's pH of 7.28 indicates acidemia. The elevated PaCO2 of 70 mmHg suggests a primary respiratory acidosis. The HCO3- of 32 mEq/L is elevated, indicating metabolic compensation. To determine the chronicity and extent of compensation:\n1.  **Acute Respiratory Acidosis Compensation:** For every 10 mmHg increase in PaCO2 above 40 mmHg, HCO3- should increase by 1 mEq/L. For a PaCO2 of 70 mmHg (a 30 mmHg increase), expected HCO3- would be 24 + 3 = 27 mEq/L.\n2.  **Chronic Respiratory Acidosis Compensation:** For every 10 mmHg increase in PaCO2 above 40 mmHg, HCO3- should increase by 3-4 mEq/L. For a PaCO2 of 70 mmHg, expected HCO3- would be 24 + (3 to 4 * 3) = 33 to 36 mEq/L.\n\nThe observed HCO3- of 32 mEq/L is higher than expected for acute compensation (27 mEq/L) but slightly lower than typical for full chronic compensation, and the pH is still significantly acidemic (not fully compensated). This indicates an acute exacerbation superimposed on a background of chronic CO2 retention, hence 'acute-on-chronic respiratory acidosis'. The PaO2 of 55 mmHg on room air signifies severe hypoxemia.",
+    "highYieldPearl": "Rio's Take: Always assess both the primary disorder and the appropriateness of compensation. In COPD, a significantly elevated bicarbonate in the presence of respiratory acidosis often points to a chronic compensated state, and an acute drop in pH on top of this suggests an acute-on-chronic exacerbation. Use compensation formulas to distinguish acute from chronic and partial from full compensation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correctly identifies the acute-on-chronic nature by recognizing the HCO3- elevation is too high for pure acute compensation but the pH is too low for full chronic compensation.",
+      "B": "Incorrect. The pH of 7.28 is frankly acidemic, indicating partial, not full, metabolic compensation. Full compensation would bring the pH closer to normal (e.g., 7.35-7.45).",
+      "C": "Incorrect. While there is an acute component, the HCO3- of 32 mEq/L is too high for *purely* acute respiratory acidosis compensation (expected 27 mEq/L), implying an underlying chronic component.",
+      "D": "Incorrect. The pH is 7.28 (acidemic), not alkalotic. This option misidentifies the primary acid-base derangement."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_742cbfaf",
+    "question": "A 28-year-old female with Type 1 Diabetes Mellitus presents to the emergency department with nausea, vomiting, polyuria, polydipsia, and severe abdominal pain for 12 hours. Her blood glucose is 550 mg/dL, and urine ketones are strongly positive. She is tachypneic (respiratory rate 32 breaths/min) with deep, rapid breaths (Kussmaul breathing). ABG shows: pH 7.15, PaCO2 25 mmHg, PaO2 95 mmHg, HCO3- 8 mEq/L, Na+ 135 mEq/L, K+ 4.8 mEq/L, Cl- 100 mEq/L.",
+    "options": {
+      "A": "High anion gap metabolic acidosis with appropriate respiratory compensation.",
+      "B": "High anion gap metabolic acidosis with inadequate respiratory compensation.",
+      "C": "Mixed respiratory alkalosis and metabolic acidosis.",
+      "D": "High anion gap metabolic acidosis with excessive respiratory compensation."
+    },
+    "correctAnswer": "B",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "1.  **Determine Primary Disorder:** pH 7.15 indicates severe acidemia. HCO3- 8 mEq/L is severely low, confirming a primary metabolic acidosis.\n2.  **Calculate Anion Gap (AG):** AG = Na+ - (Cl- + HCO3-) = 135 - (100 + 8) = 135 - 108 = 27 mEq/L. A normal AG is typically 8-12 mEq/L, so 27 mEq/L indicates a high anion gap metabolic acidosis, consistent with diabetic ketoacidosis (DKA).\n3.  **Assess Respiratory Compensation:** The low PaCO2 of 25 mmHg indicates respiratory compensation. To determine if it's appropriate, use Winter's Formula: Expected PaCO2 = (1.5 * HCO3-) + 8 ± 2.\n    *   Expected PaCO2 = (1.5 * 8) + 8 ± 2 = 12 + 8 ± 2 = 20 ± 2 = 18-22 mmHg.\n4.  **Compare Observed vs. Expected PaCO2:** The patient's observed PaCO2 is 25 mmHg. This is higher than the expected range (18-22 mmHg). Therefore, the patient is not hyperventilating as much as expected for the degree of metabolic acidosis, indicating inadequate respiratory compensation.",
+    "highYieldPearl": "Rio's Take: Winter's formula is crucial for assessing respiratory compensation in metabolic acidosis. If the observed PaCO2 is higher than the calculated range, compensation is inadequate (or there's a co-existing respiratory acidosis). If it's lower, compensation is excessive (or there's a co-existing respiratory alkalosis). Don't forget to calculate the anion gap in metabolic acidosis!",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. This is a common trap if Winter's formula is not applied accurately or if 25 mmHg is incorrectly assumed to be within the appropriate compensatory range. The calculated expected PaCO2 (18-22 mmHg) indicates that 25 mmHg is too high for appropriate compensation.",
+      "B": "Correct. The calculations show a high anion gap metabolic acidosis and that the respiratory compensation is inadequate.",
+      "C": "Incorrect. While there is metabolic acidosis, a mixed respiratory alkalosis would mean the PaCO2 is *lower* than the expected compensatory range, implying an independent primary respiratory alkalosis. Here, the PaCO2 is *higher* than expected for compensation, not lower.",
+      "D": "Incorrect. Excessive respiratory compensation would mean the PaCO2 is *lower* than the calculated expected range (e.g., <18 mmHg), which is the opposite of what is observed."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_0865856e",
+    "question": "A 72-year-old male with a history of chronic kidney disease (CKD stage 3) is admitted with sepsis from a urinary tract infection. On day 3, he develops acute kidney injury (creatinine 3.5 mg/dL from baseline 1.8 mg/dL) and becomes hypotensive. He is mechanically ventilated. His ABG values are: pH 7.50, PaCO2 30 mmHg, PaO2 85 mmHg, HCO3- 22 mEq/L, Na+ 140 mEq/L, K+ 4.0 mEq/L, Cl- 105 mEq/L.",
+    "options": {
+      "A": "Primary respiratory alkalosis with full metabolic compensation.",
+      "B": "Mixed respiratory alkalosis and high anion gap metabolic acidosis.",
+      "C": "Mixed respiratory alkalosis and normal anion gap metabolic acidosis.",
+      "D": "Respiratory alkalosis and metabolic alkalosis."
+    },
+    "correctAnswer": "C",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "1.  **Determine Primary Disorder:** The pH of 7.50 indicates alkalemia. The PaCO2 of 30 mmHg (low) is consistent with respiratory alkalosis as the primary driver of alkalemia.\n2.  **Assess Compensation for Respiratory Alkalosis:**\n    *   **Acute:** For every 10 mmHg decrease in PaCO2 from 40 mmHg, HCO3- decreases by 2 mEq/L, and pH increases by 0.08 units. Here, PaCO2 decreased by 10 mmHg (40 to 30), so expected HCO3- = 24 - 2 = 22 mEq/L. Expected pH = 7.40 + 0.08 = 7.48.\n    *   **Chronic:** For every 10 mmHg decrease in PaCO2, HCO3- decreases by 4-5 mEq/L.\n3.  **Evaluate for Mixed Disorder:**\n    *   The observed HCO3- of 22 mEq/L is exactly what is expected for acute respiratory alkalosis compensation. However, the observed pH of 7.50 is slightly higher than the expected 7.48 for pure acute respiratory alkalosis. This slight discrepancy can suggest a mixed disorder or that the body is not just acutely compensating.\n    *   The clinical context is critical: The patient has CKD (predisposing to metabolic acidosis) and AKI/sepsis (which can cause various forms of metabolic acidosis, including normal or high anion gap). A metabolic acidosis is therefore highly likely to be present.\n    *   **Anion Gap (AG):** AG = Na+ - (Cl- + HCO3-) = 140 - (105 + 22) = 140 - 127 = 13 mEq/L. This is borderline elevated (normal AG is 8-12 mEq/L). While technically elevated, it is not a significantly high anion gap typically seen in severe lactic acidosis or DKA. Given the CKD and AKI, a normal anion gap metabolic acidosis (hyperchloremic acidosis) is a common manifestation due to impaired renal acid excretion. The HCO3- of 22 mEq/L, while within the normal range, is lower than a 'pure' respiratory alkalosis might achieve if acting on a completely healthy individual and is consistent with the presence of an underlying metabolic acidosis being partially masked by the dominant respiratory alkalosis.\n\nTherefore, the most accurate interpretation is a mixed disorder where the predominant respiratory alkalosis (due to mechanical ventilation or sepsis-induced hyperventilation) is occurring concurrently with an underlying normal anion gap metabolic acidosis (from CKD/AKI).",
+    "highYieldPearl": "Rio's Take: Always consider the clinical context and patient comorbidities when interpreting ABGs, especially for suspected mixed disorders. If the ABG values don't fit a single primary disorder with appropriate compensation, or if the clinical picture suggests multiple derangements, a mixed disorder is likely. A borderline anion gap with renal failure often points to a normal anion gap metabolic acidosis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. The pH of 7.50 is significantly alkalemic, indicating incomplete (partial) compensation, not full compensation. Full compensation would bring the pH closer to normal.",
+      "B": "Plausible, but less likely. While sepsis can cause high anion gap acidosis (lactic acidosis), the calculated AG of 13 mEq/L is only borderline high, not definitively a severe high anion gap acidosis that would typically significantly depress HCO3-.",
+      "C": "Correct. This accurately identifies the dominant respiratory alkalosis causing the alkalemia, and the co-existing normal anion gap metabolic acidosis, which is highly probable given the patient's CKD, AKI, and sepsis. The HCO3- of 22 mEq/L, while seemingly 'normal,' is low enough to suggest an underlying acidosis in the context of dominant alkalemia and renal dysfunction.",
+      "D": "Incorrect. While there is respiratory alkalosis, metabolic alkalosis would be indicated by an elevated HCO3- (above 26 mEq/L), which is not present here (HCO3- is 22 mEq/L)."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_7c704e03",
+    "question": "A 65-year-old male with a history of hypertension presents to the emergency department with altered mental status, tachypnea, and fever for 2 days. Sepsis is suspected, and he is intubated due to worsening hypoxemia and respiratory distress. \n\nInitial ABG on 100% FiO2:\npH 7.28\nPaCO2 30 mmHg\nPaO2 70 mmHg\nHCO3- 14 mEq/L\nSaO2 92%\nNa+ 140 mEq/L\nCl- 105 mEq/L\nLactate 6.5 mmol/L\n\nWhich of the following statements best characterizes the patient's acid-base status and primary oxygenation defect?",
+    "options": {
+      "A": "Mixed metabolic acidosis and respiratory alkalosis, primarily due to shunt.",
+      "B": "Compensated metabolic acidosis with a superimposed respiratory alkalosis, primarily due to diffusion limitation.",
+      "C": "Uncompensated respiratory acidosis and metabolic acidosis, primarily due to V/Q mismatch.",
+      "D": "Primary metabolic acidosis with appropriate respiratory compensation, primarily due to hypoventilation."
+    },
+    "correctAnswer": "A",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "First, analyze the acid-base status:\n1.  **pH 7.28:** Acidemia.\n2.  **PaCO2 30 mmHg:** Low, indicating hyperventilation or respiratory alkalosis.\n3.  **HCO3- 14 mEq/L:** Low, indicating metabolic acidosis.\n4.  **Anion Gap (AG):** Na+ - (Cl- + HCO3-) = 140 - (105 + 14) = 140 - 119 = 21 mEq/L. This is elevated (>12), indicating a High Anion Gap Metabolic Acidosis (HAGMA). The elevated lactate (6.5 mmol/L) confirms lactic acidosis.\n5.  **Compensation:** For metabolic acidosis, the expected compensatory PaCO2 can be calculated using Winter's formula: PaCO2 = (1.5 * HCO3-) + 8 ± 2. In this case, (1.5 * 14) + 8 = 21 + 8 = 29 ± 2. So, the expected PaCO2 is 27-31 mmHg. The measured PaCO2 of 30 mmHg falls within this range. While this indicates appropriate respiratory compensation, the pH remains significantly acidemic (7.28), meaning the metabolic acidosis is severe and the compensation is incomplete. In the context of severe sepsis and acute respiratory distress, the patient is likely hyperventilating vigorously due to multiple stimuli (acidosis, hypoxemia, inflammatory mediators). This physiological hyperventilation, driving PaCO2 below 40 mmHg, constitutes a respiratory alkalosis component, even if it's compensatory for the metabolic acidosis. Thus, describing it as a mixed metabolic acidosis and respiratory alkalosis reflects the clinical reality of coexisting disturbances and physiological responses.\n\nNext, analyze the oxygenation defect:\n1.  **PaO2 70 mmHg on 100% FiO2:** This indicates severe hypoxemia (P/F ratio = 70/1.0 = 70).\n2.  **Calculate Alveolar-arterial (A-a) gradient:** \n    PAO2 = [FiO2 * (Atmospheric Pressure - Water Vapor Pressure)] - (PaCO2 / Respiratory Quotient)\n    Assuming atmospheric pressure = 760 mmHg, water vapor pressure = 47 mmHg, and respiratory quotient (R) = 0.8:\n    PAO2 = [1.0 * (760 - 47)] - (30 / 0.8) = 713 - 37.5 = 675.5 mmHg.\n    A-a Gradient = PAO2 - PaO2 = 675.5 - 70 = 605.5 mmHg. \n    An extremely high A-a gradient, particularly when the PaO2 remains very low despite 100% FiO2, is characteristic of a severe intrapulmonary shunt (e.g., due to ARDS or severe pulmonary edema). Shunt is refractory to oxygen therapy, which explains the persistent hypoxemia despite a high FiO2.",
+    "highYieldPearl": "Rio's Take: In septic shock with ARDS, a mixed metabolic acidosis (often lactic) and a compensatory/driven respiratory alkalosis (due to hyperventilation) is a common acid-base profile. Severe hypoxemia with an extremely high A-a gradient on high FiO2 is pathognomonic for a significant intrapulmonary shunt.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "While the PaCO2 is within the calculated compensatory range for metabolic acidosis, the patient's severe clinical state (sepsis, ARDS, tachypnea) suggests a strong respiratory drive beyond simple compensation, contributing a 'respiratory alkalosis' component by blowing off CO2. The primary oxygenation defect (shunt) is unequivocally correct and points to this option over others with fundamentally incorrect oxygenation diagnoses.",
+      "B": "Superimposed respiratory alkalosis implies PaCO2 is *lower* than expected for compensation, which is not the case here (30 mmHg vs. expected 27-31 mmHg). Diffusion limitation as a primary cause of severe hypoxemia (PaO2 70 on 100% FiO2) is incorrect, as diffusion defects are typically correctable with high FiO2 and are worsened by exercise, not the primary mechanism of such profound hypoxemia.",
+      "C": "PaCO2 of 30 mmHg indicates hyperventilation, not uncompensated respiratory acidosis. While V/Q mismatch is present in ARDS, a PaO2 of 70 on 100% FiO2 points to a predominant shunt, which is an extreme form of V/Q mismatch and is refractory to oxygen, distinguishing it from general V/Q mismatch that typically improves with oxygen.",
+      "D": "PaCO2 of 30 mmHg indicates hyperventilation, not hypoventilation. Hypoventilation would cause hypercapnia (high PaCO2) and hypoxemia that is responsive to oxygen."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_25af68d6",
+    "question": "A patient with severe ARDS is receiving mechanical ventilation with a high PEEP strategy. Which of the following statements regarding the expected arterial blood gas findings or their physiological determinants is LEAST accurate?",
+    "options": {
+      "A": "An elevated A-a gradient is expected, primarily reflecting increased intrapulmonary shunt.",
+      "B": "Increased PaCO2 may occur due to increased physiological dead space from alveolar overdistension.",
+      "C": "Oxygenation Index (OI) is often calculated to assess severity and response to therapy, considering PaO2, FiO2, and mean airway pressure.",
+      "D": "PEEP typically improves PaO2 by recruiting collapsed alveoli, but excessive PEEP can decrease PaO2 by reducing cardiac output and worsening V/Q mismatch."
+    },
+    "correctAnswer": "D",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "Let's analyze each statement for its accuracy:\n*   **A) An elevated A-a gradient is expected, primarily reflecting increased intrapulmonary shunt.** This is highly accurate. Severe ARDS is characterized by significant intrapulmonary shunt, where blood flows through non-ventilated lung units, leading to profound hypoxemia and a markedly elevated A-a gradient.\n*   **B) Increased PaCO2 may occur due to increased physiological dead space from alveolar overdistension.** This is accurate. High PEEP can overdistend healthy or already recruited alveoli, compressing surrounding capillaries and leading to increased physiological dead space (high V/Q areas). This 'wasted ventilation' contributes to CO2 retention and increased PaCO2.\n*   **C) Oxygenation Index (OI) is often calculated to assess severity and response to therapy, considering PaO2, FiO2, and mean airway pressure.** This is accurate. The Oxygenation Index (OI = (Mean Airway Pressure * FiO2 * 100) / PaO2) is a validated metric for assessing the severity of ARDS, particularly in pediatric patients, and is used to guide therapy and prognosticate, including decisions for ECMO.\n*   **D) PEEP typically improves PaO2 by recruiting collapsed alveoli, but excessive PEEP can decrease PaO2 by reducing cardiac output and worsening V/Q mismatch.** This statement is the LEAST accurate, primarily due to the specific phrasing regarding \"worsening V/Q mismatch\" as a mechanism for decreased PaO2 due to *excessive* PEEP. \n    *   The first part, \"PEEP typically improves PaO2 by recruiting collapsed alveoli,\" is accurate. PEEP reduces shunt by opening collapsed alveoli.\n    *   The second part, \"excessive PEEP can decrease PaO2 by reducing cardiac output,\" is also accurate. High intrathoracic pressure from PEEP can impede venous return, decrease cardiac output, and thus lower mixed venous oxygen saturation (SvO2), leading to a decreased PaO2 for a given shunt fraction.\n    *   However, the third part, \"and worsening V/Q mismatch,\" is less precise as a *direct cause of decreased PaO2* compared to the other accurate statements. While excessive PEEP can lead to increased V/Q heterogeneity (by creating dead space from overdistension and potentially diverting blood to less ventilated areas), the predominant direct mechanism by which *worsening V/Q mismatch* causes decreased PaO2 is primarily due to increased *shunt* or shunt-like effect (low V/Q areas). If excessive PEEP leads to overdistension, it mainly creates high V/Q (dead space), which primarily affects PaCO2 rather than PaO2. While redistribution of blood flow to non-recruitable, poorly ventilated areas (effectively increasing shunt) is a mechanism for hypoxemia, the general term \"worsening V/Q mismatch\" can be less specific or considered less accurate than the precise mechanisms of reduced cardiac output or persistent/increased shunt. In essence, PEEP aims to improve V/Q matching by reducing shunt, and while *excessive* PEEP can have adverse effects on gas exchange, framing it as a generic \"worsening V/Q mismatch\" for PaO2 reduction is less precise than the other options. The other options are robustly and unequivocally accurate. The nuance in option D makes it the 'least accurate' among very strong contenders.",
+    "highYieldPearl": "Rio's Take: Excessive PEEP's main adverse effects on oxygenation are via reducing cardiac output (impairing mixed venous O2) and potentially increasing shunt (blood diversion to non-recruitable areas). While it also creates dead space (high V/Q mismatch), this primarily impacts CO2, not directly PaO2. Be precise about the type of V/Q mismatch and its gas exchange impact.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is a fundamental truth in ARDS pathophysiology and ABG interpretation. It is highly accurate.",
+      "B": "This describes a well-known consequence of high PEEP and its effect on PaCO2. It is highly accurate.",
+      "C": "This accurately defines and describes the utility of the Oxygenation Index, a key metric in ARDS. It is highly accurate.",
+      "D": "This option is plausible on the surface. The first two parts are accurate. The subtlety lies in 'worsening V/Q mismatch' as a specific mechanism for decreased PaO2 due to *excessive* PEEP. While excessive PEEP *does* cause V/Q heterogeneity, the primary hypoxemic effect (beyond reduced cardiac output) is often more precisely attributed to increased shunt or blood flow redistribution to non-recruitable units, rather than a generic 'worsening V/Q mismatch' which might also imply increased dead space, a problem primarily for CO2. Given the high accuracy of the other options, this statement is the 'least accurate' in its overall precision and emphasis for PaO2 reduction."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_394f1dd3",
+    "question": "A 70-year-old male with severe COPD (baseline FEV1 30%) is admitted with acute exacerbation characterized by increased dyspnea and cough. His baseline ABG typically shows pH 7.36, PaCO2 55 mmHg, HCO3- 30 mEq/L, PaO2 65 mmHg on room air. \n\nUpon admission, his ABG on 2 L/min oxygen shows:\npH 7.30\nPaCO2 68 mmHg\nPaO2 55 mmHg\nHCO3- 32 mEq/L\n\nWhich of the following interventions is most urgently indicated based on these findings?",
+    "options": {
+      "A": "Increase oxygen supplementation to 4 L/min via nasal cannula.",
+      "B": "Initiate non-invasive positive pressure ventilation (NIPPV).",
+      "C": "Administer a high-dose nebulized bronchodilator and systemic corticosteroids.",
+      "D": "Prepare for emergent endotracheal intubation."
+    },
+    "correctAnswer": "B",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "1.  **Analyze Baseline ABG:** pH 7.36 (mild acidemia, near normal), PaCO2 55 mmHg (elevated), HCO3- 30 mEq/L (elevated, indicating renal compensation), PaO2 65 mmHg (hypoxemia). This is consistent with compensated chronic respiratory acidosis and chronic hypoxemia, typical for severe COPD.\n2.  **Analyze Current ABG on Admission:**\n    *   **pH 7.30:** Significantly more acidemic than baseline, indicating acute worsening.\n    *   **PaCO2 68 mmHg:** Significantly elevated from baseline (55 mmHg), indicating acute hypercapnia.\n    *   **PaO2 55 mmHg (on 2 L/min O2):** More hypoxemic than baseline (65 mmHg on room air), despite supplemental oxygen.\n    *   **HCO3- 32 mEq/L:** Slightly elevated from baseline, but the acute drop in pH with a significant rise in PaCO2 points to acute-on-chronic respiratory failure.\n\n    The current ABG demonstrates acute exacerbation of COPD with acute hypercapnic respiratory failure (pH < 7.35 and PaCO2 > 50 mmHg), necessitating ventilatory support.\n\n3.  **Evaluate Interventions:**\n    *   **A) Increase oxygen supplementation to 4 L/min via nasal cannula:** While increasing oxygen might improve hypoxemia, it does not address the worsening hypercapnia and acidosis, which is the immediate life-threatening problem. In fact, aggressive oxygen in COPD can sometimes worsen CO2 retention by suppressing hypoxic drive or altering V/Q matching.\n    *   **B) Initiate non-invasive positive pressure ventilation (NIPPV):** This is the most appropriate and urgently indicated intervention. NIPPV is the standard of care for acute exacerbations of COPD with acute hypercapnic respiratory failure. It offloads respiratory muscles, improves alveolar ventilation, reduces work of breathing, and effectively corrects hypercapnia and acidosis, thereby preventing the need for invasive mechanical ventilation in many patients.\n    *   **C) Administer a high-dose nebulized bronchodilator and systemic corticosteroids:** These medications are crucial for treating the underlying bronchospasm and inflammation of a COPD exacerbation. They are part of comprehensive management but will not provide immediate ventilatory support or rapidly correct the severe acute acid-base derangement indicated by the ABG. They work over a longer timeframe.\n    *   **D) Prepare for emergent endotracheal intubation:** Endotracheal intubation is reserved for patients who fail NIPPV, develop severe encephalopathy/coma, have hemodynamic instability, or are unable to protect their airway. In the absence of these severe signs (which are not specified in the scenario, implying the patient is still responsive and can cooperate), NIPPV should be attempted first as it has been shown to reduce mortality and intubation rates in this population.",
+    "highYieldPearl": "Rio's Take: For acute exacerbations of COPD with acute hypercapnic respiratory failure (pH < 7.35 with elevated PaCO2), NIPPV is the first-line and most urgent intervention to improve ventilation and correct acidosis, unless there are immediate contraindications or signs of impending respiratory arrest.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This option targets hypoxemia but fails to address the critical issue of worsening hypercapnia and acidosis, which is the primary indication for urgent intervention. Excessive oxygen could also paradoxically worsen hypercapnia in some COPD patients.",
+      "B": "This is the correct answer. The ABG criteria (pH < 7.35, PaCO2 > 45-50 mmHg) for NIPPV in COPD exacerbation are clearly met.",
+      "C": "These are appropriate medical therapies for COPD exacerbation but are not the most urgent intervention to correct the acute ventilatory failure, which requires immediate mechanical support.",
+      "D": "This is an over-escalation of care. While intubation might eventually be needed if NIPPV fails or clinical deterioration is severe, NIPPV is the preferred initial ventilatory support strategy in acute-on-chronic COPD patients who are awake and cooperative."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_a1d3b570",
+    "question": "A 55-year-old male presents to the emergency department with altered mental status. An arterial blood gas (ABG) analysis reveals the following values: pH 7.22, PaCO2 65 mmHg, HCO3- 25 mEq/L, and PaO2 70 mmHg on room air. Which of the following best describes the primary acid-base disturbance?",
+    "options": {
+      "A": "Metabolic acidosis",
+      "B": "Respiratory acidosis",
+      "C": "Metabolic alkalosis",
+      "D": "Respiratory alkalosis"
+    },
+    "correctAnswer": "B",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "The pH of 7.22 is below the normal range (7.35-7.45), indicating acidosis. The PaCO2 of 65 mmHg is above the normal range (35-45 mmHg), which would cause a decrease in pH (acidosis). The HCO3- of 25 mEq/L is within the normal range (22-26 mEq/L). Since the pH is low and the PaCO2 is high, with a normal bicarbonate, the primary disturbance is acute respiratory acidosis. The elevated PaCO2 is the direct cause of the acidemia.",
+    "highYieldPearl": "Rio's Take: Always assess pH first to determine acidosis or alkalosis. Then, check PaCO2 and HCO3- to see which primary component (respiratory or metabolic) aligns with the pH change. If pH is low and PaCO2 is high, it's respiratory acidosis. If pH is low and HCO3- is low, it's metabolic acidosis.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This would be indicated by a low pH and a low HCO3-. While the pH is low, the HCO3- is within the normal range, ruling out primary metabolic acidosis.",
+      "B": "Correct. The low pH (acidosis) and high PaCO2 (respiratory component causing acidosis) with a normal HCO3- are characteristic of acute respiratory acidosis.",
+      "C": "This would involve a high pH and a high HCO3-, which is the opposite of the given values.",
+      "D": "This would involve a high pH and a low PaCO2, which is the opposite of the given values."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_b473ba35",
+    "question": "In a patient experiencing uncompensated metabolic acidosis, the body's primary compensatory mechanism to restore pH balance is through which of the following systems?",
+    "options": {
+      "A": "Increased renal bicarbonate reabsorption",
+      "B": "Increased alveolar ventilation",
+      "C": "Decreased renal acid excretion",
+      "D": "Decreased alveolar ventilation"
+    },
+    "correctAnswer": "B",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "Metabolic acidosis is characterized by a decrease in bicarbonate (HCO3-). The body's immediate compensatory response to acidosis, regardless of cause, is often respiratory. To counteract the acidosis, the respiratory system attempts to increase pH by blowing off CO2 (an acid). This is achieved through increased alveolar ventilation (hyperventilation), which reduces the PaCO2 and shifts the bicarbonate buffer system towards a higher pH. Renal compensation (option A) is a slower process, typically taking hours to days.",
+    "highYieldPearl": "Rio's Take: The lungs compensate for metabolic disturbances, and the kidneys compensate for respiratory disturbances. In metabolic acidosis, the lungs hyperventilate to reduce CO2 and raise pH.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is a renal compensatory mechanism, which is slower and primarily compensates for respiratory acidosis, or contributes to metabolic alkalosis. It's not the primary *immediate* compensation for metabolic acidosis.",
+      "B": "Correct. Increased alveolar ventilation (hyperventilation) reduces PaCO2, thereby increasing pH and compensating for metabolic acidosis.",
+      "C": "Decreased renal acid excretion would worsen acidosis, not compensate for it. The kidneys would typically *increase* acid excretion in acidosis.",
+      "D": "Decreased alveolar ventilation would lead to an accumulation of CO2, causing respiratory acidosis and worsening the overall acidosis."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_01ff17ba",
+    "question": "According to the provided context regarding the clinical interpretation of blood-gas values, which of the following factors is explicitly stated as the *most important* to note at the time of sampling?",
+    "options": {
+      "A": "The patient's position",
+      "B": "The patient's activity level",
+      "C": "The inspired oxygen pressure",
+      "D": "The patient's habitus"
+    },
+    "correctAnswer": "C",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "The provided text explicitly states: 'Most important is a description of the **inspired oxygen pressure**, but position, activity level, habitus, diet, and other factors can also influence arterial blood-gas values.' This highlights the crucial role of knowing the FiO2 (Fraction of Inspired Oxygen) for accurate interpretation of oxygenation parameters like PaO2 and calculating the PaO2/FiO2 ratio, which is vital in conditions like ARDS.",
+    "highYieldPearl": "Rio's Take: Always document the FiO2 or oxygen delivery method when drawing an ABG. Without this, interpreting PaO2 and oxygenation status is severely limited, especially for calculating the P/F ratio.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "The patient's position is mentioned as a factor that 'can also influence' ABG values, but not as the 'most important'.",
+      "B": "The patient's activity level is mentioned as a factor that 'can also influence' ABG values, but not as the 'most important'.",
+      "C": "Correct. The text explicitly identifies 'inspired oxygen pressure' as 'most important' for ABG interpretation.",
+      "D": "The patient's habitus is mentioned as a factor that 'can also influence' ABG values, but not as the 'most important'."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_9236123e",
+    "question": "A 70-year-old male with severe COPD is admitted with worsening dyspnea and somnolence. He has a history of chronic diuretic use for pedal edema. His arterial blood gas (ABG) on 4L O2 via nasal cannula shows: pH 7.22, PaCO2 80 mmHg, PaO2 60 mmHg, HCO3 38 mEq/L. Serum electrolytes: Na 138 mEq/L, K 3.2 mEq/L, Cl 90 mEq/L.\n\nWhich of the following best describes the patient's acid-base status?",
+    "options": {
+      "A": "Acute-on-chronic respiratory acidosis with superimposed metabolic alkalosis.",
+      "B": "Acute-on-chronic respiratory acidosis with appropriate metabolic compensation.",
+      "C": "Primary chronic respiratory acidosis with superimposed acute metabolic acidosis.",
+      "D": "Mixed respiratory and metabolic alkalosis."
+    },
+    "correctAnswer": "A",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "1.  **Analyze pH:** The pH of 7.22 is significantly acidemic, indicating a primary acid-base disturbance. \n2.  **Analyze PaCO2:** The PaCO2 of 80 mmHg is very high, indicating respiratory acidosis. Given the patient's history of severe COPD, a chronic respiratory acidosis is expected.\n3.  **Analyze HCO3:** The HCO3 of 38 mEq/L is significantly elevated. This could be due to metabolic compensation for chronic respiratory acidosis or a superimposed metabolic alkalosis.\n4.  **Evaluate for Acute-on-Chronic Respiratory Acidosis:** For chronic respiratory acidosis, the expected HCO3 increase is 3-4 mEq/L for every 10 mmHg increase in PaCO2 above 40 mmHg. For a PaCO2 of 80 mmHg (40 mmHg above normal), the expected HCO3 would be 24 + (3-4)*4 = 36-40 mEq/L. The measured HCO3 of 38 mEq/L falls within this range. However, a pH of 7.22 with a PaCO2 of 80 mmHg is too low for a purely compensated chronic respiratory acidosis (which usually has a pH closer to 7.30-7.35). This suggests an acute worsening on top of a chronic condition, hence 'acute-on-chronic respiratory acidosis'.\n5.  **Evaluate for Superimposed Metabolic Alkalosis:** Although the HCO3 of 38 mEq/L is within the expected range for chronic compensation of a PaCO2 of 80 mmHg, the patient's history of chronic diuretic use and hypokalemia (K 3.2 mEq/L) strongly predisposes to metabolic alkalosis. A very high HCO3 value, even within the compensatory range, especially with these predisposing factors, should raise suspicion for a coexisting metabolic alkalosis. The respiratory acidosis is severe enough to lower the pH despite this metabolic alkalosis. Therefore, the most comprehensive description is acute-on-chronic respiratory acidosis with a superimposed metabolic alkalosis.",
+    "highYieldPearl": "Rio's Take: In patients with chronic lung disease and elevated bicarbonate, always consider a superimposed metabolic alkalosis, especially with a history of diuretics or vomiting. Even if the bicarbonate is within the expected compensatory range, clinical context and the actual pH value can reveal a mixed disorder. A pH that is 'too low' despite 'appropriate' high bicarbonate for the PaCO2 in chronic respiratory acidosis indicates an acute worsening, while a bicarbonate that is 'too high' might indicate an additional metabolic alkalosis.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This correctly identifies the mixed disorder: chronic respiratory acidosis with an acute exacerbation, combined with metabolic alkalosis likely due to diuretics and hypokalemia. The high HCO3 (38) and hypokalemia support metabolic alkalosis, even as the severe respiratory acidosis dominates the pH.",
+      "B": "While the HCO3 of 38 mEq/L is within the range of chronic compensation for a PaCO2 of 80 mmHg, the patient's severe acidemia (pH 7.22) and history of diuretic use make a superimposed metabolic alkalosis highly likely. Simply labeling it 'appropriate compensation' overlooks the metabolic component and the reason for the unusually high HCO3 for the given pH.",
+      "C": "This is incorrect. The HCO3 is very high (38 mEq/L), not low, ruling out a superimposed acute metabolic acidosis.",
+      "D": "This is incorrect. The pH is frankly acidemic (7.22), ruling out any primary or mixed alkalosis."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_20f7323a",
+    "question": "A 55-year-old female presents to the emergency department with acute onset dyspnea and pleuritic chest pain. Her SpO2 is 88% on room air. Arterial blood gas (ABG) on room air shows: pH 7.48, PaCO2 32 mmHg, PaO2 55 mmHg. She is immediately placed on 100% oxygen via non-rebreather mask, and repeat ABG shows: PaO2 80 mmHg.\n\nWhich of the following is the most likely primary cause of her hypoxemia based on the ABG response?",
+    "options": {
+      "A": "Pure shunt",
+      "B": "Alveolar hypoventilation",
+      "C": "Severe V/Q mismatch",
+      "D": "Diffusion limitation"
+    },
+    "correctAnswer": "A",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "1.  **Initial ABG Interpretation:** The initial ABG shows pH 7.48 (alkalemia), PaCO2 32 mmHg (low), and PaO2 55 mmHg (hypoxemia). This pattern of hypoxemia with respiratory alkalosis (hyperventilation) is typical for conditions causing V/Q mismatch like pulmonary embolism (consistent with pleuritic chest pain and dyspnea), early pneumonia, or anxiety with hypoxemia.\n2.  **Response to 100% Oxygen:** This is the critical piece of information. The PaO2 improved from 55 mmHg on room air (FiO2 ~0.21) to only 80 mmHg on 100% oxygen (FiO2 1.0). \n3.  **Distinguishing Hypoxemia Mechanisms:**\n    *   **Alveolar Hypoventilation:** Characterized by hypercapnia (high PaCO2), which is not present here (PaCO2 is low).\n    *   **Diffusion Limitation:** Typically responds very well to supplemental oxygen, often correcting PaO2 to high levels. A PaO2 of 80 mmHg on 100% O2 is a poor response, ruling this out as the primary cause.\n    *   **V/Q Mismatch (low V/Q areas):** Responds well to supplemental oxygen, often raising PaO2 significantly (e.g., to >300-500 mmHg). The poorly ventilated but perfused areas can pick up more oxygen from the high FiO2. A PaO2 of only 80 mmHg on 100% O2 indicates a *very poor* response for V/Q mismatch alone.\n    *   **Pure Shunt (intrapulmonary or intracardiac):** Represents blood flow that bypasses ventilated alveoli completely. This blood does not participate in gas exchange, and therefore, supplemental oxygen has minimal effect on its oxygen content. A PaO2 of 80 mmHg on 100% O2 is a classic indicator of a significant shunt fraction (typically >15-20%). \n4.  **Conclusion:** While pulmonary embolism often primarily causes V/Q mismatch, a severe presentation that results in such refractory hypoxemia (PaO2 80 on 100% O2) suggests that a significant component of the hypoxemia is now due to a shunt. This shunt could be due to extensive alveolar collapse, a right-to-left intracardiac shunt through a patent foramen ovale (PFO) triggered by right heart strain from the PE, or other mechanisms of severe lung injury. Given the options, 'Pure shunt' best describes the *physiological mechanism* of refractory hypoxemia indicated by the poor response to 100% oxygen.",
+    "highYieldPearl": "Rio's Take: The response of PaO2 to 100% oxygen is a key diagnostic tool. A significant improvement (e.g., PaO2 >300 mmHg) points to V/Q mismatch or diffusion limitation. Minimal improvement (e.g., PaO2 <150-200 mmHg) strongly indicates a significant shunt. Don't just look at the absolute value, but the *change* relative to the FiO2.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Correct. The failure of PaO2 to significantly rise above 80 mmHg despite 100% oxygen is the hallmark of a significant shunt, meaning blood is bypassing ventilated alveoli. This physiological shunt can occur in severe PE due to areas of atelectasis or right-to-left intracardiac shunting through a PFO.",
+      "B": "Incorrect. Alveolar hypoventilation is characterized by hypercapnia (elevated PaCO2), whereas this patient has hypocapnia (low PaCO2) due to hyperventilation.",
+      "C": "Incorrect. While pulmonary embolism is a common cause of V/Q mismatch, a severe V/Q mismatch typically shows a much better response to 100% oxygen, with PaO2 values usually correcting to much higher levels (>300 mmHg). A PaO2 of 80 mmHg on 100% O2 is too low for primary V/Q mismatch.",
+      "D": "Incorrect. Diffusion limitation usually causes hypoxemia that responds well to supplemental oxygen. The poor response observed (PaO2 80 mmHg on 100% O2) argues against diffusion limitation as the primary mechanism."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_e38f13f2",
+    "question": "A 45-year-old male with severe sepsis develops ARDS. He is mechanically ventilated with initial settings of FiO2 0.8, PEEP 10 cmH2O. Arterial blood gas (ABG) shows: pH 7.30, PaCO2 55 mmHg, PaO2 80 mmHg. His predicted body weight (PBW) is 70 kg, and his tidal volume is currently set at 6 mL/kg PBW.\n\nWhich of the following changes to his ventilator settings would be most appropriate *next* to improve gas exchange while adhering to ARDSNet principles?",
+    "options": {
+      "A": "Increase FiO2 to 1.0, maintain PEEP.",
+      "B": "Increase PEEP to 15 cmH2O, maintain FiO2.",
+      "C": "Increase tidal volume to 8 mL/kg PBW, decrease respiratory rate.",
+      "D": "Decrease respiratory rate, maintain tidal volume."
+    },
+    "correctAnswer": "B",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "1.  **Patient Status and Goals:** The patient has ARDS. His ABG shows mild acidemia (pH 7.30), hypercapnia (PaCO2 55 mmHg), and hypoxemia (PaO2 80 mmHg) on a high FiO2 of 0.8. The current tidal volume of 6 mL/kg PBW is consistent with lung-protective ventilation in ARDS.\n2.  **ARDSNet Principles:** The ARDSNet strategy prioritizes lung-protective ventilation (low tidal volume, plateau pressure <30 cmH2O) and a higher PEEP/lower FiO2 strategy to minimize oxygen toxicity while maintaining adequate oxygenation and ventilation. Permissive hypercapnia is generally accepted if the pH remains >7.15-7.20.\n3.  **Evaluate Current ABG:**\n    *   **pH 7.30:** This is within the acceptable range for permissive hypercapnia (above 7.15-7.20).\n    *   **PaCO2 55 mmHg:** Elevated, but the pH is acceptable. Improving oxygenation takes priority over strict normalization of PaCO2 if the pH is acceptable.\n    *   **PaO2 80 mmHg on FiO2 0.8:** This indicates significant hypoxemia relative to the inspired oxygen. The PaO2/FiO2 ratio is 80/0.8 = 100, consistent with severe ARDS (PaO2/FiO2 <100).\n4.  **Assessing Options:**\n    *   **A) Increase FiO2 to 1.0, maintain PEEP:** While this might transiently increase PaO2, ARDSNet guidelines emphasize using the lowest possible FiO2 to avoid oxygen toxicity. FiO2 0.8 is already very high. The preferred approach to improve oxygenation in ARDS, especially with a PaO2/FiO2 of 100, is to increase PEEP to recruit more alveoli and reduce shunt, which may then allow a reduction in FiO2.\n    *   **B) Increase PEEP to 15 cmH2O, maintain FiO2:** This aligns with ARDSNet strategy. Increasing PEEP helps to recruit collapsed alveoli, improve V/Q matching, and reduce shunt, thereby enhancing oxygenation and potentially allowing for a reduction in FiO2 later. This is the recommended strategy when hypoxemia persists despite high FiO2 and adequate PEEP, assuming plateau pressures remain safe (<30 cmH2O).\n    *   **C) Increase tidal volume to 8 mL/kg PBW, decrease respiratory rate:** Increasing tidal volume from 6 mL/kg to 8 mL/kg, while within the broader ARDSNet range (4-8 mL/kg), is generally avoided if 6 mL/kg is maintaining plateau pressures and ventilation is acceptable (pH >7.15). The primary concern for this patient is oxygenation. Furthermore, decreasing the respiratory rate would worsen his hypercapnia and acidemia, which is undesirable even with permissive hypercapnia.\n    *   **D) Decrease respiratory rate, maintain tidal volume:** This would predictably worsen hypercapnia (PaCO2 55 mmHg is already high) and further decrease pH, which is contrary to maintaining acceptable acid-base balance.",
+    "highYieldPearl": "Rio's Take: In ARDS, when hypoxemia persists on high FiO2, the priority is to increase PEEP to recruit lung units and reduce shunt, rather than immediately escalating FiO2 to 1.0. The ARDSNet PEEP/FiO2 table guides this strategy, aiming for optimal PEEP to achieve a target oxygen saturation (e.g., 88-95%) with the lowest possible FiO2. Always confirm plateau pressure remains below 30 cmH2O.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is a common temptation. While increasing FiO2 to 1.0 would transiently raise PaO2, ARDSNet guidelines emphasize minimizing oxygen toxicity. At FiO2 0.8, the oxygen toxicity risk is already high. The preferred method for improving oxygenation in ARDS when on high FiO2 is to increase PEEP to recruit lung and reduce shunt, making this a less optimal initial choice compared to increasing PEEP.",
+      "B": "Correct. Increasing PEEP is the primary strategy to improve oxygenation in ARDS when hypoxemia persists despite high FiO2. It helps recruit collapsed alveoli, reduce intrapulmonary shunt, and improve the PaO2/FiO2 ratio, consistent with ARDSNet principles.",
+      "C": "Incorrect. While 8 mL/kg is within the ARDSNet range, the goal is often to maintain 6 mL/kg if feasible to minimize VILI. Furthermore, decreasing the respiratory rate would worsen the existing hypercapnia and acidemia, which is not appropriate given the current pH.",
+      "D": "Incorrect. Decreasing the respiratory rate would lead to a further increase in PaCO2 and a drop in pH, exacerbating the respiratory acidosis beyond acceptable permissive hypercapnia limits."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_879c5222",
+    "question": "A 55-year-old male with severe sepsis and ARDS is intubated and mechanically ventilated. His arterial blood gas results are: pH 7.38, PaCO2 28 mmHg, PaO2 75 mmHg, HCO3 16 mEq/L. Serum electrolytes are Na 140 mEq/L, Cl 100 mEq/L. Which of the following best describes this patient's acid-base status?",
+    "options": {
+      "A": "Anion Gap Metabolic Acidosis with appropriate respiratory compensation",
+      "B": "Anion Gap Metabolic Acidosis and primary Respiratory Alkalosis",
+      "C": "Mixed Respiratory Acidosis and Metabolic Alkalosis",
+      "D": "Non-anion gap Metabolic Acidosis and primary Respiratory Alkalosis"
+    },
+    "correctAnswer": "B",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "1.  **pH (7.38):** This value is within the normal range, but given other abnormalities, it suggests a mixed acid-base disorder where opposing disturbances might be balancing the pH, or a fully compensated state.\n2.  **PaCO2 (28 mmHg):** This is lower than the normal range (35-45 mmHg), indicating a respiratory alkalosis.\n3.  **HCO3 (16 mEq/L):** This is lower than the normal range (22-26 mEq/L), indicating a metabolic acidosis.\n4.  **Anion Gap (AG):** Calculate AG = Na - (Cl + HCO3) = 140 - (100 + 16) = 140 - 116 = 24 mEq/L. A normal AG is 8-12 mEq/L. An AG of 24 mEq/L is significantly elevated, confirming the presence of an Anion Gap Metabolic Acidosis (AGMA).\n5.  **Expected Respiratory Compensation for AGMA:** Use Winters' formula: Expected PaCO2 = (1.5 * HCO3) + 8 ± 2. For HCO3 = 16 mEq/L, the expected PaCO2 = (1.5 * 16) + 8 ± 2 = 24 + 8 ± 2 = 32 ± 2 mmHg. This means the expected compensatory range for PaCO2 is 30-34 mmHg.\n6.  **Comparison:** The patient's measured PaCO2 is 28 mmHg, which is lower than the expected compensatory range (30-34 mmHg). A PaCO2 lower than expected for compensation signifies an additional primary respiratory alkalosis, likely due to ventilator settings (e.g., high minute ventilation) or hypoxemia stimulating hyperventilation in ARDS. \n7.  Therefore, the patient has a mixed acid-base disorder: Anion Gap Metabolic Acidosis AND a primary Respiratory Alkalosis.",
+    "highYieldPearl": "Rio's Take: Always calculate the Anion Gap first in metabolic acidosis. If elevated, use Winters' formula to determine if the respiratory response is appropriate compensation. A PaCO2 outside the expected range indicates an additional primary respiratory disturbance. A near-normal pH with both low PaCO2 and low HCO3 is a classic presentation of AGMA + Respiratory Alkalosis.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option is incorrect because the patient's PaCO2 (28 mmHg) is lower than the calculated expected compensatory range (30-34 mmHg) for the metabolic acidosis. If it were appropriate compensation, the PaCO2 would fall within this range.",
+      "B": "This is the correct diagnosis. The elevated anion gap points to AGMA, and the PaCO2 being lower than expected for compensation indicates a coexisting primary respiratory alkalosis.",
+      "C": "This option is incorrect. The PaCO2 (28 mmHg) indicates alkalosis, not acidosis, and the HCO3 (16 mEq/L) indicates acidosis, not alkalosis. The direction of these disturbances is opposite to what is stated.",
+      "D": "This option is incorrect because the calculated Anion Gap (24 mEq/L) is significantly elevated, ruling out a non-anion gap metabolic acidosis as the *sole* metabolic disturbance. While a delta-delta could potentially reveal a non-anion gap component if the delta-delta ratio was <1, the primary metabolic acidosis is clearly of the anion gap type."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_1ce5b5ad",
+    "question": "A 70-year-old male with a known history of severe COPD presents to the emergency department with acute worsening of dyspnea, increased cough, and lethargy. His baseline PaCO2 is usually around 55 mmHg with a compensated pH. His current arterial blood gas on room air shows: pH 7.25, PaCO2 70 mmHg, PaO2 55 mmHg, HCO3 34 mEq/L. Which of the following is the most likely acid-base diagnosis?",
+    "options": {
+      "A": "Acute Respiratory Acidosis",
+      "B": "Fully Compensated Chronic Respiratory Acidosis",
+      "C": "Acute-on-Chronic Respiratory Acidosis",
+      "D": "Mixed Metabolic Alkalosis and Acute Respiratory Acidosis"
+    },
+    "correctAnswer": "C",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "1.  **pH (7.25):** The pH is acidemic, indicating an overall acidosis.\n2.  **PaCO2 (70 mmHg):** This is significantly elevated, indicating respiratory acidosis as the primary driver of the acidemia.\n3.  **HCO3 (34 mEq/L):** This is significantly elevated, indicating metabolic alkalosis. In the context of respiratory acidosis, this is the kidney's compensatory response to retain bicarbonate.\n4.  **Analysis of Compensation & Clinical Context:** The patient has a known history of severe COPD with chronic hypercapnia (baseline PaCO2 ~55 mmHg) and a compensated pH. This implies he has chronic respiratory acidosis with significant metabolic compensation (elevated HCO3, likely around 30 mEq/L).\n    *   The current PaCO2 of 70 mmHg is significantly higher than his baseline of 55 mmHg, representing an acute increase of 15 mmHg.\n    *   The current HCO3 of 34 mEq/L is consistent with chronic compensation for a PaCO2 in the range of 65-70 mmHg (For every 10 mmHg increase in PaCO2 above 40, HCO3 increases by approximately 3.5-4 mEq/L in chronic settings. A 30 mmHg rise from 40 to 70 mmHg would increase HCO3 by ~10.5-12 mEq/L, resulting in HCO3 of 34.5-36 mEq/L, which matches well).\n    *   However, despite this substantial chronic compensation, the pH is still significantly acidemic (7.25). This indicates that the compensation is insufficient for the *current* level of hypercapnia. The acute rise in PaCO2 (from 55 to 70 mmHg) has overwhelmed the existing chronic compensation, leading to a further drop in pH. This clinical picture is characteristic of an acute exacerbation superimposed on chronic respiratory acidosis (acute-on-chronic respiratory acidosis).",
+    "highYieldPearl": "Rio's Take: In patients with known chronic hypercapnia (e.g., severe COPD), always compare the current ABG to their baseline if available. If the pH is significantly acidemic and PaCO2 is higher than their usual baseline, even with a high bicarbonate, suspect acute-on-chronic respiratory acidosis. The kidneys take days to fully compensate; an acute rise in PaCO2 will outpace this compensation, leading to a drop in pH.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is incorrect. While there is an acute component, the very high HCO3 (34 mEq/L) clearly indicates chronic metabolic compensation, which would not be present in a *purely* acute respiratory acidosis (where HCO3 would typically be around 25-27 mEq/L for PaCO2 70).",
+      "B": "This is incorrect. While chronic compensation is evident, the pH of 7.25 is significantly acidemic, indicating that the acidosis is *not* fully compensated. Full compensation would mean the pH is within the normal range (e.g., 7.35-7.40).",
+      "C": "This is the correct diagnosis. The patient's history of chronic hypercapnia with compensatory metabolic alkalosis, combined with an acute rise in PaCO2 above baseline and persistent acidemia, perfectly fits the definition of acute-on-chronic respiratory acidosis.",
+      "D": "This option, while technically describing two present components (metabolic alkalosis as compensation and acute respiratory acidosis as the primary issue), is less precise than 'acute-on-chronic respiratory acidosis' for this specific clinical scenario. The metabolic alkalosis is a *compensatory* mechanism for the chronic hypercapnia, not a primary mixed disorder in itself, even though it contributes to buffering the overall pH."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_bc7f053f",
+    "question": "A 68-year-old female with a history of chronic heart failure on daily furosemide presents with increasing generalized weakness, fatigue, and muscle cramps. Her vital signs are stable. Arterial blood gas results show: pH 7.52, PaCO2 48 mmHg, PaO2 85 mmHg, HCO3 38 mEq/L. Her serum electrolytes are Na 135 mEq/L, K 2.8 mEq/L, and Cl 90 mEq/L. Which of the following is the most appropriate initial management step for her acid-base disturbance?",
+    "options": {
+      "A": "Administer intravenous sodium bicarbonate",
+      "B": "Initiate mechanical ventilation to increase PaCO2",
+      "C": "Provide intravenous potassium chloride supplementation",
+      "D": "Administer acetazolamide"
+    },
+    "correctAnswer": "C",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "1.  **ABG Interpretation:**\n    *   **pH (7.52):** Alkalemic.\n    *   **PaCO2 (48 mmHg):** Elevated, indicating respiratory acidosis. This is an appropriate compensatory response to the alkalemia (hypoventilation to retain CO2).\n    *   **HCO3 (38 mEq/L):** Significantly elevated, indicating metabolic alkalosis as the primary disorder driving the alkalemia.\n    *   **Compensation check:** For metabolic alkalosis, the expected PaCO2 = (0.7 * HCO3) + 20 ± 5. For HCO3 = 38 mEq/L, the expected PaCO2 = (0.7 * 38) + 20 ± 5 = 26.6 + 20 ± 5 = 46.6 ± 5 mmHg (range 41.6 - 51.6 mmHg). The patient's PaCO2 of 48 mmHg falls within this range, indicating appropriate respiratory compensation.\n2.  **Electrolyte Analysis:** The patient has significant hypokalemia (K 2.8 mEq/L) and hypochloremia (Cl 90 mEq/L).\n3.  **Clinical Context:** The patient is on furosemide (a loop diuretic) for heart failure. Diuretic use is a very common cause of metabolic alkalosis, often accompanied by hypokalemia and hypochloremia due to increased renal losses of these electrolytes and volume contraction. Hypochloremia perpetuates metabolic alkalosis by impairing renal bicarbonate excretion (reduced filtered load of chloride leads to increased reabsorption of bicarbonate in the renal tubules).\n4.  **Management:** The most appropriate initial step is to address the underlying cause and associated electrolyte imbalances. Intravenous potassium chloride (KCl) supplementation is crucial for several reasons:\n    *   It corrects the severe hypokalemia, which directly contributes to the metabolic alkalosis by promoting intracellular shift of H+ in exchange for K+.\n    *   It corrects the hypochloremia, which is critical for resolving 'chloride-responsive' metabolic alkalosis by allowing the kidneys to excrete bicarbonate more effectively.\n    *   Chloride is essential for renal bicarbonate excretion; replacing chloride allows for reversal of the pathological mechanisms sustaining the alkalosis.",
+    "highYieldPearl": "Rio's Take: Chloride-responsive metabolic alkalosis (e.g., from diuretics or vomiting) is characterized by low urine chloride and effectively treated with chloride repletion. Hypokalemia often coexists and exacerbates the alkalosis. Correcting hypokalemia and hypochloremia with KCl is a cornerstone of management, often along with judicious volume repletion with saline if indicated.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is incorrect. The patient has severe metabolic alkalosis (pH 7.52, HCO3 38 mEq/L). Administering bicarbonate would worsen the alkalemia and is indicated for acidosis, not alkalosis.",
+      "B": "This is incorrect and potentially harmful. The elevated PaCO2 is a *compensatory* mechanism to reduce the pH. Forcing further hypoventilation through mechanical ventilation without addressing the primary metabolic issue is inappropriate and could lead to severe hypoxemia or adverse cardiovascular effects if not carefully managed.",
+      "C": "This is the correct initial management. Correcting hypokalemia and hypochloremia with potassium chloride is fundamental in resolving diuretic-induced metabolic alkalosis. These electrolyte imbalances directly contribute to and perpetuate the alkalosis, and correcting them is key to restoring acid-base balance.",
+      "D": "Acetazolamide, a carbonic anhydrase inhibitor, can be used to treat metabolic alkalosis, particularly in patients who cannot tolerate saline repletion (e.g., severe heart failure). However, it is generally considered a second-line agent. Correcting the severe hypokalemia and hypochloremia, which are directly perpetuating the alkalosis and contributing to the patient's symptoms, is a more fundamental and *initial* step than symptomatic treatment with acetazolamide. Acetazolamide can also worsen hypokalemia."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_a60060f4",
+    "question": "A 68-year-old male with a history of type 2 diabetes and chronic kidney disease presents to the emergency department with altered mental status and rapid, deep breathing (Kussmaul respiration). His vital signs are stable except for a respiratory rate of 30 breaths/min. Arterial blood gas analysis on room air reveals:\n\npH: 7.18\nPaCO2: 25 mmHg\nPaO2: 85 mmHg\nHCO3: 10 mEq/L\n\nElectrolytes: Na+: 140 mEq/L, K+: 5.0 mEq/L, Cl-: 104 mEq/L.\n\nWhat is the most appropriate primary interpretation of these arterial blood gas values?",
+    "options": {
+      "A": "High anion gap metabolic acidosis with appropriate respiratory compensation.",
+      "B": "Mixed metabolic and respiratory acidosis.",
+      "C": "Normal anion gap metabolic acidosis with respiratory alkalosis.",
+      "D": "Metabolic acidosis with inadequate respiratory compensation."
+    },
+    "correctAnswer": "A",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "1. **Assess pH:** 7.18 is acidemic.\n2. **Assess PaCO2 and HCO3:** PaCO2 (25 mmHg) is low, HCO3 (10 mEq/L) is low. Since the pH is acidemic and HCO3 is significantly low, the primary disturbance is metabolic acidosis.\n3. **Calculate Anion Gap (AG):** AG = Na+ - (Cl- + HCO3-) = 140 - (104 + 10) = 140 - 114 = 26 mEq/L. A normal AG is typically 8-12 mEq/L. An AG of 26 mEq/L indicates a high anion gap metabolic acidosis.\n4. **Check for respiratory compensation (Winter's formula):** Expected PaCO2 = (1.5 * HCO3) + 8 ± 2.\n   Expected PaCO2 = (1.5 * 10) + 8 ± 2 = 15 + 8 ± 2 = 23 ± 2 mmHg. The range is 21-25 mmHg.\n   The patient's PaCO2 of 25 mmHg falls within this expected range, indicating appropriate respiratory compensation for the metabolic acidosis. The clinical picture of Kussmaul breathing supports this compensatory hyperventilation.",
+    "highYieldPearl": "Rio's Take: Always calculate the Anion Gap in metabolic acidosis. Then, use Winter's formula (Expected PaCO2 = 1.5[HCO3] + 8 ± 2) to assess for appropriate respiratory compensation. If the actual PaCO2 is higher than expected, there's a superimposed respiratory acidosis. If lower, there's a superimposed respiratory alkalosis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option correctly identifies the high anion gap, the primary metabolic acidosis, and the appropriate respiratory compensation. It requires calculation of the anion gap and application of Winter's formula.",
+      "B": "This is a trap for misinterpreting the low PaCO2. While the pH is low, the low PaCO2 is a compensatory response, not a primary respiratory acidosis. A mixed metabolic and respiratory acidosis would typically show a low pH with low HCO3 and an *elevated* PaCO2.",
+      "C": "This option incorrectly identifies a normal anion gap and a primary respiratory alkalosis. The anion gap is clearly high (26 mEq/L), ruling out a normal anion gap metabolic acidosis. The primary disturbance is metabolic acidosis, with respiratory alkalosis being the compensatory response.",
+      "D": "This is a trap for incorrect calculation of compensation. The PaCO2 of 25 mmHg is within the expected range (21-25 mmHg) predicted by Winter's formula for a HCO3 of 10 mEq/L, indicating appropriate, not inadequate, compensation."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_d6fecd02",
+    "question": "A 72-year-old male with a known history of severe COPD is admitted to the Intensive Care Unit due to worsening dyspnea and somnolence after developing a respiratory infection. He is on 2 L/min oxygen via nasal cannula. His initial arterial blood gas analysis reveals:\n\npH: 7.28\nPaCO2: 70 mmHg\nPaO2: 60 mmHg\nHCO3: 35 mEq/L\n\nWhich of the following describes the most likely acid-base disturbance and the most appropriate immediate management consideration?",
+    "options": {
+      "A": "Acute respiratory acidosis on chronic respiratory acidosis; consider non-invasive ventilation.",
+      "B": "Chronic respiratory acidosis with appropriate metabolic compensation; optimize bronchodilators.",
+      "C": "Acute respiratory alkalosis with hypoxemia; consider decreasing oxygen supplementation.",
+      "D": "Mixed respiratory and metabolic acidosis; assess lactate levels."
+    },
+    "correctAnswer": "A",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "1. **Assess pH:** 7.28 is acidemic.\n2. **Assess PaCO2 and HCO3:** PaCO2 (70 mmHg) is significantly high, HCO3 (35 mEq/L) is significantly high. The high PaCO2 indicates a primary respiratory acidosis. The elevated HCO3 is a metabolic compensatory response.\n3. **Acute vs. Chronic Respiratory Acidosis:**\n   - **Acute:** For every 10 mmHg rise in PaCO2 above 40 mmHg, HCO3 increases by approximately 1 mEq/L. Here, PaCO2 rose by 30 mmHg (70-40). Expected acute HCO3 = 24 + 3 = 27 mEq/L.\n   - **Chronic:** For every 10 mmHg rise in PaCO2 above 40 mmHg, HCO3 increases by approximately 3-4 mEq/L. Expected chronic HCO3 = 24 + (3-4)*3 = 24 + 9-12 = 33-36 mEq/L.\n   The patient's HCO3 (35 mEq/L) is consistent with chronic compensation. However, the pH (7.28) is still significantly acidemic, indicating that the chronic compensation is insufficient to normalize the pH, likely due to an acute worsening (e.g., respiratory infection causing further hypoventilation) on top of his chronic condition. Therefore, it's an acute on chronic respiratory acidosis.\n4. **Management:** Given the severe COPD exacerbation with hypercapnic respiratory failure (high PaCO2, low pH, somnolence), non-invasive ventilation (NIV) is the most appropriate immediate intervention to improve ventilation, reduce work of breathing, and correct the hypercapnia and acidosis.",
+    "highYieldPearl": "Rio's Take: Differentiating acute vs. chronic respiratory acidosis involves examining the degree of metabolic compensation. Acute respiratory acidosis shows minimal HCO3 rise (1 mEq/L per 10 mmHg PaCO2 increase), while chronic shows greater compensation (3-4 mEq/L per 10 mmHg PaCO2 increase). If HCO3 is chronically high but pH is still significantly acidemic, suspect an acute on chronic exacerbation. NIV is often first-line for acute hypercapnic respiratory failure in COPD.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option correctly identifies the acute on chronic respiratory acidosis and suggests the most appropriate immediate intervention (NIV) for hypercapnic respiratory failure in this context. It requires understanding the nuances of compensation.",
+      "B": "This is a trap. While there is chronic metabolic compensation, the pH of 7.28 is still markedly acidemic, indicating an uncompensated acute component. Optimizing bronchodilators is part of COPD exacerbation management but does not directly address the acute ventilatory failure as effectively as NIV in a patient with somnolence and severe acidosis.",
+      "C": "This is incorrect. The high PaCO2 clearly indicates acidosis, not alkalosis. The patient is hypoxemic, and decreasing oxygen supplementation without addressing the hypercapnia would be harmful.",
+      "D": "This is a trap for misinterpreting the elevated HCO3. While an infection can cause metabolic acidosis, the significantly elevated HCO3 primarily reflects chronic compensation for respiratory acidosis, not a primary metabolic acidosis. There is no clear evidence of a significant metabolic acidosis component beyond the chronic compensation."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_b29d19ee",
+    "question": "A 45-year-old female presents to the emergency department with sudden onset of dyspnea, pleuritic chest pain, and anxiety. Her vital signs include HR 110 bpm, RR 28/min, BP 130/80 mmHg, SpO2 90% on room air.\n\nArterial blood gas analysis on room air shows:\n\npH: 7.50\nPaCO2: 30 mmHg\nPaO2: 65 mmHg\nHCO3: 22 mEq/L\n\nWhich of the following is the most likely cause of this patient's acid-base disturbance and hypoxemia?",
+    "options": {
+      "A": "Pulmonary embolism.",
+      "B": "Panic attack with hyperventilation.",
+      "C": "Acute severe asthma exacerbation.",
+      "D": "Opioid overdose."
+    },
+    "correctAnswer": "A",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "1. **Assess pH:** 7.50 is alkalemic.\n2. **Assess PaCO2 and HCO3:** PaCO2 (30 mmHg) is low, HCO3 (22 mEq/L) is normal/slightly low. The low PaCO2 indicates a primary respiratory alkalosis. The HCO3 is consistent with acute compensation (for every 10 mmHg decrease in PaCO2, HCO3 decreases by approx. 2 mEq/L; here, 10 mmHg decrease from 40 to 30, so HCO3 decreases by ~2 mEq/L from 24 to 22).\n3. **Assess Oxygenation:** PaO2 of 65 mmHg on room air (FiO2 0.21) indicates hypoxemia. This is a crucial point.\n4. **Calculate A-a Gradient:**\n   - PAO2 = (FiO2 * (Pb - PH2O)) - (PaCO2 / R)\n   - Assuming Pb = 760 mmHg, PH2O = 47 mmHg, R = 0.8\n   - PAO2 = (0.21 * (760 - 47)) - (30 / 0.8) = (0.21 * 713) - 37.5 = 149.73 - 37.5 = 112.23 mmHg.\n   - A-a gradient = PAO2 - PaO2 = 112.23 - 65 = 47.23 mmHg.\n   - Normal A-a gradient for a 45-year-old is < (45/4 + 4) = 15.25 mmHg. A gradient of 47.23 mmHg is significantly elevated.\n5. **Synthesize clinical picture and ABG:** The patient has acute respiratory alkalosis, hypoxemia, and a significantly elevated A-a gradient, along with sudden onset dyspnea, pleuritic chest pain, anxiety, and tachycardia. This constellation of findings strongly points to pulmonary embolism (PE), which causes V/Q mismatch leading to hypoxemia and reflex hyperventilation resulting in respiratory alkalosis and an elevated A-a gradient.",
+    "highYieldPearl": "Rio's Take: When interpreting ABGs with hypoxemia, always consider the A-a gradient. An elevated A-a gradient suggests a V/Q mismatch, shunt, or diffusion defect as the cause of hypoxemia. In the setting of respiratory alkalosis and hypoxemia with an elevated A-a gradient, consider pulmonary embolism, interstitial lung disease, or pneumonia. A normal A-a gradient with hypoxemia points towards hypoventilation or high altitude.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. Pulmonary embolism classically presents with sudden dyspnea, pleuritic chest pain, anxiety, and tachycardia. It causes V/Q mismatch leading to hypoxemia and an elevated A-a gradient, while reflex tachypnea results in respiratory alkalosis.",
+      "B": "This is a plausible trap. A panic attack can cause hyperventilation and respiratory alkalosis due to anxiety. However, a panic attack alone does not typically cause hypoxemia or a significantly elevated A-a gradient. The PaO2 would usually be normal or even supranormal due to increased alveolar ventilation.",
+      "C": "Acute severe asthma exacerbation can cause dyspnea and hypoxemia. While mild/moderate asthma might initially show respiratory alkalosis, a *severe* exacerbation, especially with such significant hypoxemia, typically leads to respiratory acidosis due to impending respiratory failure and fatigue. The sudden onset and pleuritic pain are also less typical for asthma compared to PE.",
+      "D": "Opioid overdose causes respiratory depression, which would lead to hypoventilation, respiratory acidosis (high PaCO2, low pH), and hypoxemia, not respiratory alkalosis."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_ffb39111",
+    "question": "A 65-year-old male with a history of COPD presents to the ICU with severe sepsis and pneumonia, requiring intubation and mechanical ventilation. Despite mechanical support (FiO2 0.8, PEEP 10 cmH2O), his condition remains critical. His vital signs are BP 90/60 mmHg, HR 120 bpm, RR 28 breaths/min (ventilator rate), Temp 39.5°C. An arterial blood gas (ABG) analysis shows: pH 7.28, PaCO2 55 mmHg, PaO2 70 mmHg, HCO3- 24 mEq/L, SaO2 92%. Serum electrolytes: Na+ 138 mEq/L, Cl- 102 mEq/L, K+ 4.0 mEq/L. Serum lactate is 3.5 mEq/L.",
+    "options": {
+      "A": "Acute Respiratory Acidosis with compensatory Metabolic Alkalosis.",
+      "B": "Mixed Respiratory and Metabolic Acidosis, likely due to severe lung injury and hypoperfusion.",
+      "C": "Primary Metabolic Acidosis due to hyperlactatemia, with partial respiratory compensation.",
+      "D": "Chronic Respiratory Acidosis with superimposed Acute Respiratory Alkalosis."
+    },
+    "correctAnswer": "B",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "1. **Assess pH:** The pH is 7.28, indicating acidemia.\n2. **Assess PaCO2 and HCO3-:** PaCO2 is 55 mmHg (elevated), suggesting a respiratory acidosis. HCO3- is 24 mEq/L (normal). \n3. **Identify primary disorder and compensation:** With an elevated PaCO2 and acidemia, a respiratory acidosis is present. For acute respiratory acidosis, HCO3- is expected to rise by approximately 1 mEq/L for every 10 mmHg increase in PaCO2 above 40 mmHg. Here, PaCO2 increased by 15 mmHg (55-40). Thus, expected HCO3- would be 24 + 1.5 = 25.5 mEq/L. The actual HCO3- of 24 mEq/L is slightly lower than expected, suggesting a concurrent metabolic acidosis is preventing the bicarbonate from rising as anticipated.\n4. **Calculate Anion Gap (AG):** AG = Na+ - (Cl- + HCO3-) = 138 - (102 + 24) = 138 - 126 = 12 mEq/L. This value is at the upper limit of normal or slightly elevated, depending on the lab's normal range (typically 8-12 mEq/L). The elevated lactate of 3.5 mEq/L (normal < 2 mEq/L) strongly indicates a high anion gap metabolic acidosis (lactic acidosis).\n5. **Assess Oxygenation:** PaO2 is 70 mmHg on FiO2 0.8, indicating severe hypoxemia. \n   *   Calculate alveolar PaO2 (PAO2): PAO2 = (FiO2 * (Patm - PH2O)) - (PaCO2 / R). Assuming Patm = 760 mmHg, PH2O = 47 mmHg, R = 0.8. PAO2 = (0.8 * (760 - 47)) - (55 / 0.8) = (0.8 * 713) - 68.75 = 570.4 - 68.75 = 501.65 mmHg.\n   *   Calculate A-a gradient: A-a = PAO2 - PaO2 = 501.65 - 70 = 431.65 mmHg. This is a markedly elevated A-a gradient, indicating severe V/Q mismatch or shunt, consistent with severe lung injury (e.g., ARDS from pneumonia/sepsis).\n\n**Conclusion:** The patient has a mixed acid-base disorder: Acute Respiratory Acidosis (due to insufficient ventilation or increased dead space from lung injury) and a High Anion Gap Metabolic Acidosis (lactic acidosis from hypoperfusion/shock related to sepsis). The severe hypoxemia with a very high A-a gradient indicates significant lung pathology (severe pneumonia/ARDS). Therefore, 'Mixed Respiratory and Metabolic Acidosis, likely due to severe lung injury and hypoperfusion' best describes the situation.",
+    "highYieldPearl": "In critically ill patients, a normal or near-normal bicarbonate level in the presence of an elevated PaCO2 and acidemia, especially with elevated lactate, points towards a mixed respiratory and metabolic acidosis where the metabolic acidosis is masking the expected compensatory rise in bicarbonate for respiratory acidosis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This option misinterprets the HCO3- as representing metabolic alkalosis or adequate compensation. The acidemia (pH 7.28) contradicts a compensatory metabolic alkalosis, and the elevated lactate points away from it. The normal HCO3- in this context actually suggests a concurrent metabolic acidosis preventing its rise.",
+      "B": "This is the correct answer. It accurately identifies both the respiratory acidosis (high PaCO2 contributing to acidemia) and metabolic acidosis (indicated by high lactate and the relatively low HCO3- for the degree of hypercapnia) and links them to the underlying clinical conditions of severe lung injury and hypoperfusion in sepsis.",
+      "C": "While hyperlactatemia causes a metabolic acidosis, this option incorrectly states it's the *primary* disorder with *partial respiratory compensation*. The PaCO2 of 55 mmHg is high, indicating a significant primary respiratory acidosis component, not a compensatory lowering for metabolic acidosis. If it were primary metabolic acidosis, PaCO2 would be expected to be lower (Winter's formula: ~1.5*HCO3 + 8 +/- 2 = 1.5*24 + 8 +/- 2 = 44 +/- 2 mmHg), but it's higher than that.",
+      "D": "This option is incorrect. The HCO3- of 24 mEq/L is not significantly elevated to suggest chronic respiratory acidosis (where HCO3- would typically be >30 mEq/L for PaCO2 55). Furthermore, the pH is acidic, ruling out a superimposed acute respiratory alkalosis."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_f6e32af5",
+    "question": "A 72-year-old male with a history of advanced dementia and chronic kidney disease (CKD) is brought to the Emergency Department by his family due to increasing lethargy and confusion over the past two days. On examination, he is somnolent with a shallow respiratory rate of 8 breaths/min. Auscultation of the chest reveals clear lung fields bilaterally. He is on room air (FiO2 0.21). An ABG is drawn, showing: pH 7.18, PaCO2 78 mmHg, PaO2 60 mmHg, HCO3- 28 mEq/L, SaO2 88%. Serum electrolytes: Na+ 140 mEq/L, Cl- 105 mEq/L, K+ 5.2 mEq/L, BUN 80 mg/dL, Cr 4.5 mg/dL.",
+    "options": {
+      "A": "Acute Respiratory Acidosis due to central hypoventilation.",
+      "B": "Chronic Respiratory Acidosis with superimposed Metabolic Alkalosis.",
+      "C": "Mixed Metabolic Acidosis (from CKD) and Respiratory Acidosis (from hypoventilation).",
+      "D": "Respiratory Acidosis with severe ventilation-perfusion mismatch."
+    },
+    "correctAnswer": "A",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "1. **Assess pH:** The pH is 7.18, indicating severe acidemia.\n2. **Assess PaCO2 and HCO3-:** PaCO2 is 78 mmHg (markedly elevated), suggesting respiratory acidosis. HCO3- is 28 mEq/L (elevated).\n3. **Identify primary disorder and compensation:** The severe acidemia coupled with a high PaCO2 confirms a primary respiratory acidosis. To determine chronicity, we check compensation: For acute respiratory acidosis, HCO3- rises by approximately 1 mEq/L for every 10 mmHg increase in PaCO2 above 40 mmHg. Here, PaCO2 increased by 38 mmHg (78-40). Expected HCO3- = 24 + (3.8 * 1) = 27.8 mEq/L. The actual HCO3- of 28 mEq/L is consistent with acute respiratory acidosis. If it were chronic, HCO3- would be significantly higher (e.g., rising by 3-5 mEq/L per 10 mmHg PaCO2 increase).\n4. **Calculate Anion Gap (AG):** AG = Na+ - (Cl- + HCO3-) = 140 - (105 + 28) = 140 - 133 = 7 mEq/L. This is within the normal range (8-12 mEq/L). Despite CKD, there is no significant anion gap metabolic acidosis present, and the elevated HCO3- is due to compensation for the respiratory acidosis.\n5. **Assess Oxygenation and A-a gradient:** PaO2 is 60 mmHg on FiO2 0.21 (room air), indicating hypoxemia. \n   *   Calculate alveolar PaO2 (PAO2): PAO2 = (FiO2 * (Patm - PH2O)) - (PaCO2 / R). Assuming Patm = 760 mmHg, PH2O = 47 mmHg, R = 0.8. PAO2 = (0.21 * (760 - 47)) - (78 / 0.8) = (0.21 * 713) - 97.5 = 149.73 - 97.5 = 52.23 mmHg.\n   *   Calculate A-a gradient: A-a = PAO2 - PaO2 = 52.23 - 60 = -7.77 mmHg. A negative A-a gradient is physiologically impossible and typically signifies a calculation error or, more commonly, that the A-a gradient is *normal* (within measurement variability). A normal A-a gradient in the presence of hypoxemia is the hallmark of *pure hypoventilation* (or breathing low FiO2, which is not the case here). \n6. **Integrate clinical context:** The patient's somnolence and shallow respiratory rate of 8 breaths/min strongly suggest central hypoventilation as the cause of the severe hypercapnia and hypoxemia. Clear lung fields support the absence of primary lung pathology leading to V/Q mismatch.\n\n**Conclusion:** The ABG findings, particularly the acute respiratory acidosis with a normal A-a gradient and the clinical picture of depressed respiratory drive, are most consistent with acute respiratory acidosis due to central hypoventilation.",
+    "highYieldPearl": "When hypoxemia is present with a normal A-a gradient, the cause is invariably hypoventilation or low inspired oxygen (low FiO2). Look for clinical signs of depressed respiratory drive.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is the correct answer. The ABG shows acute respiratory acidosis, and the normal A-a gradient indicates the hypoxemia is due to hypoventilation. The clinical picture of somnolence and a low respiratory rate directly points to central hypoventilation.",
+      "B": "This option is incorrect. While HCO3- is elevated, it is consistent with acute compensation for severe hypercapnia, not chronic respiratory acidosis. The pH is severely acidemic (7.18), ruling out a superimposed metabolic alkalosis, which would tend to normalize or elevate the pH.",
+      "C": "This option is incorrect. Despite a history of CKD, the anion gap (AG = 7 mEq/L) is normal, indicating no significant high anion gap metabolic acidosis. The elevated HCO3- is solely due to compensation for the respiratory acidosis, not an independent metabolic component.",
+      "D": "This option is incorrect because the calculated A-a gradient is normal (or slightly negative, indicating normal), which rules out severe V/Q mismatch as the cause of hypoxemia. In V/Q mismatch, the A-a gradient would be significantly elevated."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_72ce084e",
+    "question": "A 45-year-old male with poorly controlled type 1 diabetes presents to the emergency department with altered mental status, Kussmaul respirations (RR 35/min), and abdominal pain. He is hypotensive. Initial ABG on room air (FiO2 0.21) shows: pH 7.10, PaCO2 25 mmHg, PaO2 95 mmHg, HCO3- 8 mEq/L, SaO2 98%. Serum Na+ 135 mEq/L, Cl- 98 mEq/L, K+ 5.5 mEq/L, Glucose 650 mg/dL, Ketones strongly positive. \n\nDespite initial fluid resuscitation and an insulin drip, his mentation deteriorates further, and he develops acute respiratory distress. A repeat ABG on mechanical ventilation (FiO2 0.6, PEEP 8 cmH2O) after 6 hours shows: pH 7.25, PaCO2 40 mmHg, PaO2 80 mmHg, HCO3- 15 mEq/L, SaO2 95%. Serum Na+ 132 mEq/L, Cl- 95 mEq/L, K+ 4.8 mEq/L, Glucose 400 mg/dL, Ketones still positive.",
+    "options": {
+      "A": "Improvement in metabolic acidosis with worsening hypoxemia and evidence of new pulmonary shunt.",
+      "B": "Resolution of DKA and onset of pure respiratory acidosis.",
+      "C": "Persistent mixed metabolic and respiratory acidosis with improved ventilation-perfusion matching.",
+      "D": "Development of acute hypercapnic respiratory failure due to ventilator malfunction."
+    },
+    "correctAnswer": "A",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "Let's analyze both ABGs:\n\n**Initial ABG (on room air):**\n1.  **pH 7.10 (severe acidemia), PaCO2 25 mmHg (low), HCO3- 8 mEq/L (very low).** This indicates a primary metabolic acidosis (pH driven by low HCO3-). The low PaCO2 is compensatory respiratory alkalosis.\n2.  **Anion Gap (AG):** Na+ - (Cl- + HCO3-) = 135 - (98 + 8) = 135 - 106 = 29 mEq/L. This is a very high anion gap, consistent with Diabetic Ketoacidosis (DKA).\n3.  **Compensation Check (Winter's formula):** Expected PaCO2 = (1.5 * HCO3-) + 8 +/- 2 = (1.5 * 8) + 8 +/- 2 = 12 + 8 +/- 2 = 20 +/- 2 mmHg (i.e., 18-22 mmHg). Actual PaCO2 is 25 mmHg. This means the respiratory compensation is inadequate; there is a *relative* respiratory acidosis superimposed on the metabolic acidosis.\n4.  **Oxygenation and A-a gradient:** PaO2 95 mmHg on FiO2 0.21. \n    *   PAO2 = (0.21 * 713) - (25 / 0.8) = 149.73 - 31.25 = 118.48 mmHg.\n    *   A-a = 118.48 - 95 = 23.48 mmHg. This is mildly elevated (normal for 45yo is ~15 mmHg), possibly due to dehydration or stress, but not indicating primary severe lung pathology.\n\n**Follow-up ABG (on mechanical ventilation, FiO2 0.6):**\n1.  **pH 7.25 (still acidemic, but improved), PaCO2 40 mmHg (normal), HCO3- 15 mEq/L (low, but improved).** The primary disorder remains metabolic acidosis (pH driven by low HCO3-).\n2.  **Anion Gap (AG):** Na+ - (Cl- + HCO3-) = 132 - (95 + 15) = 132 - 110 = 22 mEq/L. The AG is still high, indicating ongoing DKA, though it has improved (from 29 to 22).\n3.  **Compensation Check (Winter's formula):** Expected PaCO2 = (1.5 * HCO3-) + 8 +/- 2 = (1.5 * 15) + 8 +/- 2 = 22.5 + 8 +/- 2 = 30.5 +/- 2 mmHg (i.e., 28.5-32.5 mmHg). Actual PaCO2 is 40 mmHg. This is significantly *higher* than expected for compensation, indicating a severe superimposed respiratory acidosis.\n4.  **Oxygenation and A-a gradient:** PaO2 80 mmHg on FiO2 0.6. \n    *   PAO2 = (0.6 * 713) - (40 / 0.8) = 427.8 - 50 = 377.8 mmHg.\n    *   A-a = 377.8 - 80 = 297.8 mmHg. This is a *markedly* elevated A-a gradient, indicating severe V/Q mismatch or shunt, consistent with the clinical development of acute respiratory distress (ARDS).\n\n**Comparison and Conclusion:**\nBetween the two ABGs, the metabolic acidosis has shown improvement (HCO3- increased from 8 to 15, AG decreased from 29 to 22). However, the patient's respiratory status has significantly worsened. Initially, he was hyperventilating (PaCO2 25 mmHg) to compensate. In the follow-up, despite being on a ventilator with high FiO2, his PaCO2 is 'normal' (40 mmHg) but inappropriately high given the ongoing metabolic acidosis, indicating a new, superimposed respiratory acidosis. Crucially, his oxygenation has deteriorated (PaO2 80 on FiO2 0.6 compared to PaO2 95 on FiO2 0.21), and the A-a gradient has dramatically increased from mildly elevated (23 mmHg) to severely elevated (297 mmHg), signifying severe new lung pathology, likely ARDS, consistent with the development of 'acute respiratory distress'. Therefore, the most significant change is the worsening hypoxemia with evidence of a new pulmonary shunt, while the metabolic acidosis is improving.",
+    "highYieldPearl": "When evaluating serial ABGs in critically ill patients, always calculate and compare A-a gradients, especially if oxygenation status changes on varying FiO2. A dramatic increase in A-a gradient in the setting of acute respiratory distress suggests new severe lung injury, such as ARDS.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is the correct answer. The HCO3- (8 to 15) and AG (29 to 22) show improvement in metabolic acidosis. However, the PaO2 drops from 95 mmHg on room air to 80 mmHg on 60% FiO2, and the A-a gradient dramatically increases from 23 mmHg to 297 mmHg. This signifies profound worsening of oxygenation due to a new and severe pulmonary shunt, consistent with ARDS.",
+      "B": "This option is incorrect. DKA is not resolved (HCO3- is still low at 15 mEq/L, and AG is still high at 22 mEq/L, with positive ketones). While there is a significant respiratory acidosis component (PaCO2 40 mmHg is too high for compensation), it's not a 'pure' respiratory acidosis due to the persistent metabolic component.",
+      "C": "This option is incorrect. While there is persistent mixed metabolic and respiratory acidosis, the ventilation-perfusion matching has significantly *worsened*, not improved. The massive increase in the A-a gradient (from 23 to 297 mmHg) is clear evidence of worsening V/Q mismatch/shunt.",
+      "D": "This option is incorrect. While the PaCO2 of 40 mmHg is higher than ideal for compensation (indicating a respiratory acidosis), the *most significant* and life-threatening change is the severe hypoxemia with an extremely elevated A-a gradient, pointing to severe lung injury (ARDS) rather than solely a ventilator malfunction causing hypercapnic failure."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_f6997399",
+    "question": "A 65-year-old male with a history of COPD is admitted to the emergency department with increasing shortness of breath and cough for the past 2 days. He is lethargic. On examination, he has tachypnea, accessory muscle use, and bilateral wheezing. Arterial blood gas analysis on room air shows:\npH: 7.28\nPaCO2: 60 mmHg\nPaO2: 55 mmHg\nHCO3-: 30 mEq/L\nSaO2: 88%\n\nWhich of the following best describes the acid-base disturbance in this patient?",
+    "options": {
+      "A": "Acute respiratory acidosis",
+      "B": "Chronic respiratory acidosis with partial metabolic compensation",
+      "C": "Acute respiratory alkalosis with metabolic compensation",
+      "D": "Metabolic acidosis with respiratory compensation"
+    },
+    "correctAnswer": "B",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "The patient's pH (7.28) is acidic. The PaCO2 (60 mmHg) is elevated, indicating a primary respiratory acidosis. The HCO3- (30 mEq/L) is also elevated, which suggests metabolic compensation. In an acute respiratory acidosis, for every 10 mmHg increase in PaCO2, the pH typically decreases by 0.08 and HCO3- increases by 1 mEq/L. Here, with a PaCO2 increase of 20 mmHg (from normal 40 to 60), the expected acute HCO3- would be 24 + 2 = 26 mEq/L. However, in chronic respiratory acidosis (common in COPD patients), for every 10 mmHg increase in PaCO2, the pH typically decreases by 0.03 and HCO3- increases by 3-4 mEq/L. With a 20 mmHg increase in PaCO2, the expected chronic HCO3- would be 24 + (2 * 3 to 4) = 30-32 mEq/L. The patient's HCO3- of 30 mEq/L is consistent with chronic compensation. Since the pH is still below 7.35, the compensation is partial. The history of COPD strongly supports a chronic condition. Therefore, the disturbance is best described as chronic respiratory acidosis with partial metabolic compensation.",
+    "highYieldPearl": "Rio's Take: Elevated PaCO2 and low pH indicate respiratory acidosis. If HCO3- is also elevated, metabolic compensation is occurring. The extent of HCO3- elevation helps distinguish acute from chronic respiratory acidosis, with chronic states having higher HCO3- compensation for a given PaCO2.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "While there is respiratory acidosis, the elevated bicarbonate (30 mEq/L) is too high for an acute process. Acute compensation would typically see HCO3- around 25-26 mEq/L for a PaCO2 of 60 mmHg. This option misses the chronic aspect and compensation.",
+      "B": "This is the correct description. The pH is acidic, PaCO2 is high, and HCO3- is significantly elevated, consistent with chronic compensation in a patient with COPD. The pH is not yet normalized, indicating partial compensation.",
+      "C": "This is incorrect. The pH is acidic, not alkaline, and PaCO2 is high, not low.",
+      "D": "This is incorrect. The primary disturbance is respiratory (high PaCO2), not metabolic (low HCO3- as the primary cause). The HCO3- is high, not low."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_b5d6acb7",
+    "question": "A 28-year-old female presents to the emergency department with sudden onset of severe chest pain and palpitations after a stressful event. She appears anxious and is hyperventilating at a rate of 30 breaths/min. Her blood pressure is 130/80 mmHg, heart rate is 110 bpm, and SpO2 is 99% on room air. An arterial blood gas analysis is performed:\npH: 7.52\nPaCO2: 28 mmHg\nPaO2: 105 mmHg\nHCO3-: 22 mEq/L\n\nWhat is the primary acid-base disturbance in this patient?",
+    "options": {
+      "A": "Acute respiratory alkalosis",
+      "B": "Acute metabolic acidosis",
+      "C": "Chronic respiratory alkalosis",
+      "D": "Compensated metabolic alkalosis"
+    },
+    "correctAnswer": "A",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "The patient's pH (7.52) is alkaline. The PaCO2 (28 mmHg) is low, indicating a primary respiratory alkalosis. The HCO3- (22 mEq/L) is within the normal range or only slightly decreased, suggesting minimal to no metabolic compensation has occurred yet. The clinical context of sudden onset anxiety and hyperventilation strongly points to an acute process where the kidneys have not had time to compensate significantly. In acute respiratory alkalosis, for every 10 mmHg decrease in PaCO2, the pH typically increases by 0.08 and HCO3- decreases by 1-2 mEq/L. With a PaCO2 decrease of 12 mmHg (from normal 40 to 28), the expected pH would be 7.40 + (0.08 * 1.2) = 7.496, and HCO3- would be 24 - (1 to 2 * 1.2) = 22.8 to 21.6 mEq/L. These values align perfectly with acute respiratory alkalosis.",
+    "highYieldPearl": "Rio's Take: High pH and low PaCO2 indicate respiratory alkalosis. If HCO3- is normal or only slightly reduced, the condition is acute, as renal compensation takes time. Anxiety and hyperventilation are classic causes.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct diagnosis. The elevated pH, decreased PaCO2, and near-normal HCO3- in the context of acute hyperventilation are classic for acute respiratory alkalosis.",
+      "B": "This is incorrect. The pH is alkaline, not acidic, and HCO3- is normal, not low.",
+      "C": "While there is respiratory alkalosis, the HCO3- (22 mEq/L) is not low enough for chronic compensation. In chronic respiratory alkalosis, HCO3- would typically decrease by 4-5 mEq/L for every 10 mmHg decrease in PaCO2, leading to a more significantly reduced HCO3-.",
+      "D": "This is incorrect. The primary driver is respiratory (low PaCO2), not metabolic (high HCO3-). The HCO3- is normal."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_580749f3",
+    "question": "A 45-year-old male with a history of poorly controlled type 2 diabetes mellitus is brought to the emergency department in a confused state. He has Kussmaul respirations (deep and rapid breathing). His blood glucose is 450 mg/dL. Arterial blood gas analysis shows:\npH: 7.18\nPaCO2: 25 mmHg\nPaO2: 90 mmHg\nHCO3-: 10 mEq/L\nAnion Gap: 20 mEq/L (Normal 8-12 mEq/L)\n\nWhat is the primary acid-base disorder and the compensatory response observed?",
+    "options": {
+      "A": "Metabolic acidosis with partial respiratory compensation",
+      "B": "Respiratory acidosis with complete metabolic compensation",
+      "C": "Acute respiratory alkalosis with metabolic acidosis",
+      "D": "Mixed metabolic and respiratory acidosis"
+    },
+    "correctAnswer": "A",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "The patient's pH (7.18) is severely acidic. The HCO3- (10 mEq/L) is markedly low, indicating a primary metabolic acidosis. This is further supported by the elevated blood glucose and Kussmaul respirations, classic signs of diabetic ketoacidosis (DKA), which is a high anion gap metabolic acidosis (confirmed by the Anion Gap of 20 mEq/L). The PaCO2 (25 mmHg) is low, which represents the compensatory response (hyperventilation/Kussmaul breathing) to blow off CO2 and reduce carbonic acid, thereby raising the pH towards normal. Using Winter's formula to determine if the respiratory compensation is appropriate: Expected PaCO2 = (1.5 × HCO3-) + 8 ± 2. In this case, (1.5 × 10) + 8 = 15 + 8 = 23. So, the expected PaCO2 is 21-25 mmHg. The patient's PaCO2 of 25 mmHg falls within this expected range, indicating an appropriate respiratory compensation. Since the pH is still significantly low (acidic), the compensation is partial.",
+    "highYieldPearl": "Rio's Take: Low pH and low HCO3- indicate metabolic acidosis. Look for the anion gap (if provided) to classify. Kussmaul respirations are the classic respiratory compensation. Winter's formula helps assess if compensation is appropriate.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct diagnosis. The low pH and HCO3- are primary, the low PaCO2 is compensatory, and the pH is not normalized, indicating partial compensation. The clinical picture (DKA) also aligns.",
+      "B": "This is incorrect. The primary problem is not high PaCO2; rather, PaCO2 is low due to compensation. The pH is still acidic, so compensation is not complete.",
+      "C": "This is incorrect. While there is a low PaCO2 (respiratory component), it is a compensation, not the primary acute disorder. The primary problem is acidosis, not alkalosis.",
+      "D": "While the patient is acidotic, the low PaCO2 indicates respiratory *compensation*, not an additional respiratory acidosis. If there were a mixed respiratory acidosis, the PaCO2 would be inappropriately high for the degree of metabolic acidosis or even normal/elevated. The calculated Winter's formula confirms appropriate compensation."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_1fa9df2d",
+    "question": "A 65-year-old male with a history of COPD presents to the emergency department with acute worsening of dyspnea and cough. His arterial blood gas results are pH 7.28, PaCO2 65 mmHg, PaO2 55 mmHg, and HCO3 28 mEq/L. Which of the following best describes the primary acid-base disorder?",
+    "options": {
+      "A": "Partially compensated respiratory acidosis",
+      "B": "Uncompensated respiratory acidosis",
+      "C": "Compensated metabolic alkalosis",
+      "D": "Mixed respiratory and metabolic acidosis"
+    },
+    "correctAnswer": "A",
+    "topic": "Arterial Blood Gas Interpretation",
+    "deepDiveExplanation": "1.  **Assess pH:** The pH of 7.28 is below the normal range (7.35-7.45), indicating acidosis.\n2.  **Identify Primary Disorder (Respiratory or Metabolic):**\n    *   **PaCO2:** 65 mmHg is above the normal range (35-45 mmHg). An elevated PaCO2 directly causes acidosis by increasing carbonic acid, suggesting a respiratory component.\n    *   **HCO3:** 28 mEq/L is above the normal range (22-26 mEq/L). An elevated HCO3 typically causes alkalosis or acts as compensation for acidosis.\n3.  **Determine Compensation:** Since the primary disturbance (high PaCO2) is respiratory and leads to acidosis, the body attempts to compensate by retaining bicarbonate (metabolic compensation). The elevated HCO3 (28 mEq/L) confirms that metabolic compensation is occurring.\n4.  **Degree of Compensation:** The pH is still acidic (7.28), meaning the compensation is not complete. If compensation were complete, the pH would be within the normal range, albeit at the acidic end (e.g., 7.35-7.39). Therefore, it is a partially compensated respiratory acidosis.",
+    "highYieldPearl": "Rio's Take: Always begin ABG interpretation by assessing the pH (acidosis/alkalosis). Next, determine if PaCO2 (respiratory) or HCO3 (metabolic) is the primary driver. Finally, check if the other parameter is attempting to compensate, and if the pH is still abnormal, it signifies partial compensation.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct interpretation. The pH is acidic, the PaCO2 is high (indicating a primary respiratory acidosis), and the HCO3 is elevated (indicating metabolic compensation), but the pH remains outside the normal range, signifying partial compensation.",
+      "B": "Incorrect. For uncompensated respiratory acidosis, the HCO3 would be in the normal range (22-26 mEq/L). Here, the HCO3 is elevated at 28 mEq/L, indicating active metabolic compensation.",
+      "C": "Incorrect. Metabolic alkalosis would present with an elevated pH (alkalemia). In this case, the pH is acidic (7.28), ruling out a primary alkalosis.",
+      "D": "Incorrect. A mixed respiratory and metabolic acidosis would typically present with a low pH, high PaCO2 (respiratory acidosis), and a *low* HCO3 (as the metabolic component would also be acidifying). The elevated HCO3 here indicates compensation, not a primary metabolic acidosis."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_b3721ec4",
+    "question": "A 68-year-old male with a history of severe COPD presents to the emergency department with acute worsening of dyspnea and cough. On examination, he is tachypneic (RR 32/min) with accessory muscle use, and bilateral expiratory wheezes. ABG shows pH 7.28, PaCO₂ 65 mmHg, PaO₂ 58 mmHg on 2L O₂. His respiratory effort appears significantly elevated. Chest X-ray shows hyperinflation. The respiratory therapist suspects dynamic hyperinflation and auto-PEEP. Which of the following is the *most direct* physiological consequence of auto-PEEP contributing to his increased work of breathing and potential respiratory muscle fatigue?",
+    "options": {
+      "A": "Requirement for a larger negative inspiratory pressure to initiate airflow.",
+      "B": "Reduced venous return leading to decreased cardiac output.",
+      "C": "Increased risk of barotrauma and pneumothorax.",
+      "D": "Direct depression of the medullary respiratory centers by hypercapnia."
+    },
+    "correctAnswer": "A",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The provided context explicitly details that in COPD with auto-PEEP, the intra-alveolar pressure remains positive at end-expiration (e.g., +2 cm H₂O). To initiate inspiratory airflow from the atmosphere (0 cm H₂O), the patient must generate a negative pressure not just to overcome airway resistance but also to counterbalance this auto-PEEP. The text illustrates this: 'Effort required is to generate 4 cm H₂O' in COPD with auto-PEEP, compared to '2 cm H₂O' in normal conditions. This 'more WOB to overcome AutoPEEP' directly translates to a requirement for a larger negative inspiratory pressure, leading to increased respiratory muscle fatigue.",
+    "highYieldPearl": "Rio's Take: Auto-PEEP creates an 'inspiratory threshold load,' forcing the patient to generate a greater negative intrathoracic pressure to overcome the intrinsic PEEP before any inspiratory flow can begin. This dramatically increases the work of breathing and is a major contributor to respiratory muscle fatigue in conditions like COPD exacerbations.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option directly reflects the physiological mechanism described in the text where auto-PEEP increases the inspiratory effort needed to overcome the positive end-expiratory pressure, thus increasing the work of breathing.",
+      "B": "Reduced venous return and decreased cardiac output are listed disadvantages of auto-PEEP, but they are hemodynamic consequences, not the *most direct* physiological consequence contributing to *increased work of breathing* specifically. While they contribute to overall deterioration, they do not explain the increased effort of breathing itself.",
+      "C": "Barotrauma is another listed disadvantage of auto-PEEP. While a serious complication, it is a structural injury risk and not the primary mechanism by which auto-PEEP increases the *work of breathing* at an immediate physiological level.",
+      "D": "Hypercapnia, a consequence of respiratory failure, can indeed depress respiratory centers. However, the question asks for the consequence of *auto-PEEP* contributing to *increased work of breathing*. Auto-PEEP mechanically increases WOB, often leading to fatigue and subsequent hypercapnia. The direct depression is a separate, downstream effect of severe hypercapnia, not a direct mechanical effect of auto-PEEP on WOB."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_0ede60bc",
+    "question": "A 72-year-old male with a long history of COPD presents with acute exacerbation characterized by increased dyspnea, purulent sputum, and drowsiness. ABG reveals pH 7.25, PaCO₂ 70 mmHg, PaO₂ 55 mmHg on room air. He is currently receiving oxygen via nasal cannula. Based on the provided context, which of the following statements regarding the management of this patient's respiratory failure is MOST accurate?",
+    "options": {
+      "A": "High-frequency oscillatory ventilation is a recommended initial intervention given his severe hypoxemia.",
+      "B": "The patient meets criteria for a mild COPD exacerbation, which typically responds to SABDs alone.",
+      "C": "Non-invasive ventilation (NIV) is a highly recommended intervention that can reduce the risk of pneumothorax and VAP in this setting.",
+      "D": "Systemic corticosteroids are contraindicated as per current guidelines for COPD exacerbations due to their immunosuppressive effects."
+    },
+    "correctAnswer": "C",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The patient's ABG (pH 7.25, PaCO₂ 70 mmHg) indicates acute respiratory acidosis with hypercapnia, meeting the criteria for a severe COPD exacerbation with Type II respiratory failure (PaCO₂ > 45 mmHg, pH < 7.35, requiring hospitalization). The provided text explicitly states that NIV is a 'gamechanger' in COPD, '↓ RISK of Pneumothorax ↓ VAP.' This highlights its strong recommendation and benefits in this specific clinical scenario.",
+    "highYieldPearl": "Rio's Take: Non-invasive ventilation (NIV) is a cornerstone of management for acute exacerbations of COPD with Type II respiratory failure. It improves gas exchange, reduces work of breathing, and significantly lowers the rates of intubation, pneumothorax, and ventilator-associated pneumonia (VAP) compared to invasive mechanical ventilation.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "The 'Therapies Under Investigation' graph explicitly labels 'High Frequency Oscillatory Ventilation' with a 'Red' bar, indicating 'Strong Recommendation Against' as per the legend. Therefore, this option is incorrect.",
+      "B": "The patient's ABG (PaCO₂ > 45 mmHg, pH < 7.35) directly meets the definition for a 'Severe' COPD exacerbation requiring hospitalization or with respiratory failure, not a mild one. Mild exacerbations require only SABDs, which is insufficient for this patient's condition.",
+      "C": "This statement is directly supported by the provided text, which refers to NIV as a 'gamechanger' in COPD, specifically noting its benefits in reducing the risk of pneumothorax and VAP. The clinical scenario (severe COPD exacerbation with Type II respiratory failure) is a classic indication for NIV.",
+      "D": "Systemic corticosteroids are a standard and recommended treatment for moderate to severe COPD exacerbations, as indicated in the text under the 'Classification' section ('Moderate: SABDs + steroid ± antibiotics'). They are not contraindicated; rather, they are a key component of management. The mention of 'Steroids *Excluding COVID-19' in the graph refers to general ARF, not specifically COPD exacerbations where their role is well-established."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cystic_fibrosis_d0e6a61e",
+    "question": "A 55-year-old patient is admitted with severe ARDS, presenting with hypoxemic respiratory failure. Initially, their PaO₂/FiO₂ ratio is 180 mmHg. Despite optimization, their condition deteriorates, and the PaO₂/FiO₂ ratio drops to 90 mmHg. According to the provided 'Therapies Under Investigation' graph and its legend, which of the following statements is INCORRECT regarding the management approach as the patient's respiratory failure worsens?",
+    "options": {
+      "A": "Prone positioning, a recommended therapy, becomes more critical as the PaO₂/FiO₂ ratio decreases.",
+      "B": "Non-invasive ventilation (NIV) is generally considered for less severe respiratory failure, implying its utility decreases at a PaO₂/FiO₂ of 90 mmHg.",
+      "C": "For a PaO₂/FiO₂ of 90 mmHg, VV-ECMO represents a therapy of significantly higher intensity compared to strategies like recruitment maneuvers.",
+      "D": "High PEEP strategy is strongly recommended across all severities of acute respiratory failure, including when PaO₂/FiO₂ drops to 90 mmHg."
+    },
+    "correctAnswer": "D",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The 'Therapies Under Investigation' graph lists 'High Peep Strategy' as a therapy. However, unlike other therapies which have colored bars indicating recommendations (e.g., green for recommended, red for not recommended), the 'High Peep Strategy' box lacks any such explicit color bar or recommendation marker in the graph. According to the legend, the absence of a colored bar (or a dotted/white bar, if present) signifies 'No Recommendation' or 'No Recommendation More Research Needed.' Therefore, stating that a High PEEP strategy is 'strongly recommended across all severities' is an INCORRECT interpretation of the provided graphic.",
+    "highYieldPearl": "Rio's Take: When analyzing graphical guidelines, carefully observe the specific recommendation markers. The absence of a strong recommendation (e.g., a specific color-coded bar) for a listed therapy implies 'no recommendation' or 'more research needed,' not a default strong endorsement.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "The graph shows 'Prone Positioning' with a 'Green bar: Recommended'. It is a key therapy for ARDS, particularly as hypoxemia worsens (i.e., PaO₂/FiO₂ decreases), so this statement is consistent with general ARDS management and the graph's overall message of increasing intensity for worsening disease.",
+      "B": "NIV is positioned at the lowest intensity on the graph, typically for higher PaO₂/FiO₂ values (less severe ARF). As the PaO₂/FiO₂ drops to 90 mmHg (severe ARDS), patients are usually intubated, making NIV less useful or contraindicated. This statement is accurate.",
+      "C": "The graph orders therapies by 'Increasing Intensity of Treatment.' 'VV-ECMO' is at the very top, representing the highest intensity. 'Recruitment Maneuvers' are placed lower on the intensity scale. Thus, VV-ECMO is indeed of significantly higher intensity. This statement is accurate.",
+      "D": "The box for 'High Peep Strategy' in the graph *does not contain any colored bar or specific recommendation marker* (green, red, light green, light red, dotted, or white) as per the legend. Therefore, it cannot be concluded from this graph that it is 'strongly recommended.' This makes the statement INCORRECT."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "The primary genetic defect in Cystic Fibrosis involves which gene?",
+    "options": {
+      "A": "SCN5A",
+      "B": "CFTR",
+      "C": "ENaC",
+      "D": "Alpha-1 antitrypsin"
+    },
+    "correctAnswer": "B",
+    "topic": "cystic_fibrosis",
+    "deepDiveExplanation": "Cystic Fibrosis (CF) is an autosomal recessive disorder caused by mutations in the Cystic Fibrosis Transmembrane conductance Regulator (CFTR) gene, located on chromosome 7. This gene encodes a protein that functions as a chloride channel, primarily in epithelial cells, and its dysfunction leads to the characteristic thick, sticky secretions.",
+    "highYieldPearl": "CFTR gene mutation is the root cause of Cystic Fibrosis, leading to defective chloride transport.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "SCN5A and ENaC are related to ion channels but are not the primary genetic defect in CF. Alpha-1 antitrypsin deficiency causes a distinct lung and liver disease.",
+    "isOneLiner": true,
+    "id": "one_liner_cystic_fibrosis_wziopxuw"
+  },
+  {
+    "question": "Class II CFTR mutations, like F508del, primarily result in which cellular defect?",
+    "options": {
+      "A": "Reduced protein synthesis",
+      "B": "Defective processing and trafficking",
+      "C": "Impaired channel gating",
+      "D": "Accelerated protein degradation"
+    },
+    "correctAnswer": "B",
+    "topic": "cystic_fibrosis",
+    "deepDiveExplanation": "CFTR mutations are classified into six main classes based on their functional consequences. Class II mutations (e.g., F508del, the most common mutation) lead to misfolding of the CFTR protein, causing it to be retained in the endoplasmic reticulum and subsequently degraded. This prevents the protein from reaching the cell surface.",
+    "highYieldPearl": "F508del (Class II) means the CFTR protein never makes it to the cell membrane due to misfolding and premature degradation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Reduced synthesis (Class I), impaired gating (Class III), and reduced conductance (Class IV) are other classes of CFTR mutations, but Class II specifically relates to processing and trafficking defects.",
+    "isOneLiner": true,
+    "id": "one_liner_cystic_fibrosis_ie4mfa4z"
+  },
+  {
+    "question": "Which test is considered the gold standard for diagnosing Cystic Fibrosis?",
+    "options": {
+      "A": "Immunoreactive trypsinogen (IRT) screening",
+      "B": "Genetic testing for CFTR mutations",
+      "C": "Quantitative pilocarpine iontophoresis sweat chloride test",
+      "D": "Nasal potential difference (NPD) measurement"
+    },
+    "correctAnswer": "C",
+    "topic": "cystic_fibrosis",
+    "deepDiveExplanation": "The quantitative pilocarpine iontophoresis sweat chloride test is the gold standard for CF diagnosis. A chloride concentration ≥ 60 mmol/L (in adults and children) is diagnostic of CF, while values between 30-59 mmol/L are intermediate and require further testing. This test directly measures the functional defect in chloride transport.",
+    "highYieldPearl": "Sweat chloride test is the definitive diagnostic test for CF, reflecting abnormal chloride transport.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "IRT is a newborn screen, not a definitive diagnostic test. Genetic testing confirms the mutation but is not the sole diagnostic gold standard as some mutations have varying clinical significance or are not always detected. NPD is a specialized research or confirmatory test, not typically first-line for diagnosis.",
+    "isOneLiner": true,
+    "id": "one_liner_cystic_fibrosis_1ukv780k"
+  },
+  {
+    "question": "In adults with Cystic Fibrosis, which pathogen is most commonly associated with chronic lung infection?",
+    "options": {
+      "A": "Staphylococcus aureus",
+      "B": "Haemophilus influenzae",
+      "C": "Pseudomonas aeruginosa",
+      "D": "Aspergillus fumigatus"
+    },
+    "correctAnswer": "C",
+    "topic": "cystic_fibrosis",
+    "deepDiveExplanation": "While *Staphylococcus aureus* and *Haemophilus influenzae* are common in early childhood CF, *Pseudomonas aeruginosa* becomes the predominant pathogen in older children and adults. It establishes chronic infection, forms biofilms, and contributes significantly to progressive lung damage and decline in lung function.",
+    "highYieldPearl": "*Pseudomonas aeruginosa* is the leading cause of chronic lung infection and morbidity in adult CF patients.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "*S. aureus* and *H. influenzae* are common in younger CF patients. *Aspergillus fumigatus* can cause allergic bronchopulmonary aspergillosis (ABPA) in CF, but *Pseudomonas* is the most common chronic bacterial pathogen overall in adults.",
+    "isOneLiner": true,
+    "id": "one_liner_cystic_fibrosis_qy1f671j"
+  },
+  {
+    "question": "Ivacaftor, a CFTR modulator, primarily functions as which type of agent?",
+    "options": {
+      "A": "Corrector",
+      "B": "Potentiator",
+      "C": "Amplifier",
+      "D": "Stabilizer"
+    },
+    "correctAnswer": "B",
+    "topic": "cystic_fibrosis",
+    "deepDiveExplanation": "CFTR modulators are drugs that target specific CFTR protein defects. Ivacaftor is a potentiator, meaning it binds to the CFTR protein at the cell surface and increases the opening probability (gating) of the chloride channel, thereby enhancing chloride transport. It is particularly effective for Class III (gating) mutations.",
+    "highYieldPearl": "Ivacaftor 'potentiates' existing CFTR channels, improving their function, especially in gating mutations.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Correctors (e.g., Lumacaftor, Tezacaftor, Elexacaftor) help misfolded Class II CFTR proteins reach the cell surface. Amplifiers and Stabilizers are not standard classifications for CFTR modulators.",
+    "isOneLiner": true,
+    "id": "one_liner_cystic_fibrosis_8ja4vfjz"
+  },
+  {
+    "question": "The primary genetic defect in Cystic Fibrosis involves which gene?",
+    "options": {
+      "A": "SCN5A",
+      "B": "CFTR",
+      "C": "ENaC",
+      "D": "Alpha-1 antitrypsin"
+    },
+    "correctAnswer": "B",
+    "topic": "cystic_fibrosis",
+    "deepDiveExplanation": "Cystic Fibrosis (CF) is an autosomal recessive disorder caused by mutations in the Cystic Fibrosis Transmembrane conductance Regulator (CFTR) gene, located on chromosome 7. This gene encodes a protein that functions as a chloride channel, primarily in epithelial cells, and its dysfunction leads to the characteristic thick, sticky secretions.",
+    "highYieldPearl": "CFTR gene mutation is the root cause of Cystic Fibrosis, leading to defective chloride transport.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "SCN5A and ENaC are related to ion channels but are not the primary genetic defect in CF. Alpha-1 antitrypsin deficiency causes a distinct lung and liver disease.",
+    "isOneLiner": true,
+    "id": "one_liner_cystic_fibrosis_72rqdbnt"
+  },
+  {
+    "question": "Class II CFTR mutations, like F508del, primarily result in which cellular defect?",
+    "options": {
+      "A": "Reduced protein synthesis",
+      "B": "Defective processing and trafficking",
+      "C": "Impaired channel gating",
+      "D": "Accelerated protein degradation"
+    },
+    "correctAnswer": "B",
+    "topic": "cystic_fibrosis",
+    "deepDiveExplanation": "CFTR mutations are classified into six main classes based on their functional consequences. Class II mutations (e.g., F508del, the most common mutation) lead to misfolding of the CFTR protein, causing it to be retained in the endoplasmic reticulum and subsequently degraded. This prevents the protein from reaching the cell surface.",
+    "highYieldPearl": "F508del (Class II) means the CFTR protein never makes it to the cell membrane due to misfolding and premature degradation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Reduced synthesis (Class I), impaired gating (Class III), and reduced conductance (Class IV) are other classes of CFTR mutations, but Class II specifically relates to processing and trafficking defects.",
+    "isOneLiner": true,
+    "id": "one_liner_cystic_fibrosis_sru5gb4d"
+  },
+  {
+    "question": "Which test is considered the gold standard for diagnosing Cystic Fibrosis?",
+    "options": {
+      "A": "Immunoreactive trypsinogen (IRT) screening",
+      "B": "Genetic testing for CFTR mutations",
+      "C": "Quantitative pilocarpine iontophoresis sweat chloride test",
+      "D": "Nasal potential difference (NPD) measurement"
+    },
+    "correctAnswer": "C",
+    "topic": "cystic_fibrosis",
+    "deepDiveExplanation": "The quantitative pilocarpine iontophoresis sweat chloride test is the gold standard for CF diagnosis. A chloride concentration ≥ 60 mmol/L (in adults and children) is diagnostic of CF, while values between 30-59 mmol/L are intermediate and require further testing. This test directly measures the functional defect in chloride transport.",
+    "highYieldPearl": "Sweat chloride test is the definitive diagnostic test for CF, reflecting abnormal chloride transport.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "IRT is a newborn screen, not a definitive diagnostic test. Genetic testing confirms the mutation but is not the sole diagnostic gold standard as some mutations have varying clinical significance or are not always detected. NPD is a specialized research or confirmatory test, not typically first-line for diagnosis.",
+    "isOneLiner": true,
+    "id": "one_liner_cystic_fibrosis_64ymyblc"
+  },
+  {
+    "question": "In adults with Cystic Fibrosis, which pathogen is most commonly associated with chronic lung infection?",
+    "options": {
+      "A": "Staphylococcus aureus",
+      "B": "Haemophilus influenzae",
+      "C": "Pseudomonas aeruginosa",
+      "D": "Aspergillus fumigatus"
+    },
+    "correctAnswer": "C",
+    "topic": "cystic_fibrosis",
+    "deepDiveExplanation": "While *Staphylococcus aureus* and *Haemophilus influenzae* are common in early childhood CF, *Pseudomonas aeruginosa* becomes the predominant pathogen in older children and adults. It establishes chronic infection, forms biofilms, and contributes significantly to progressive lung damage and decline in lung function.",
+    "highYieldPearl": "*Pseudomonas aeruginosa* is the leading cause of chronic lung infection and morbidity in adult CF patients.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "*S. aureus* and *H. influenzae* are common in younger CF patients. *Aspergillus fumigatus* can cause allergic bronchopulmonary aspergillosis (ABPA) in CF, but *Pseudomonas* is the most common chronic bacterial pathogen overall in adults.",
+    "isOneLiner": true,
+    "id": "one_liner_cystic_fibrosis_d9fat6ir"
+  },
+  {
+    "question": "Ivacaftor, a CFTR modulator, primarily functions as which type of agent?",
+    "options": {
+      "A": "Corrector",
+      "B": "Potentiator",
+      "C": "Amplifier",
+      "D": "Stabilizer"
+    },
+    "correctAnswer": "B",
+    "topic": "cystic_fibrosis",
+    "deepDiveExplanation": "CFTR modulators are drugs that target specific CFTR protein defects. Ivacaftor is a potentiator, meaning it binds to the CFTR protein at the cell surface and increases the opening probability (gating) of the chloride channel, thereby enhancing chloride transport. It is particularly effective for Class III (gating) mutations.",
+    "highYieldPearl": "Ivacaftor 'potentiates' existing CFTR channels, improving their function, especially in gating mutations.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Correctors (e.g., Lumacaftor, Tezacaftor, Elexacaftor) help misfolded Class II CFTR proteins reach the cell surface. Amplifiers and Stabilizers are not standard classifications for CFTR modulators.",
+    "isOneLiner": true,
+    "id": "one_liner_cystic_fibrosis_8n7m5vty"
+  }
+]

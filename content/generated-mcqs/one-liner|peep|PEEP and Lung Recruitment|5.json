@@ -1,0 +1,92 @@
+[
+  {
+    "question": "The primary physiological effect of positive end-expiratory pressure (PEEP) on lung mechanics is to increase what?",
+    "options": {
+      "A": "Airway resistance",
+      "B": "Functional residual capacity",
+      "C": "Peak inspiratory pressure",
+      "D": "Dynamic compliance"
+    },
+    "correctAnswer": "B",
+    "topic": "peep",
+    "deepDiveExplanation": "PEEP maintains alveolar patency at end-expiration, preventing collapse and increasing the volume of gas remaining in the lungs after a normal exhalation (Functional Residual Capacity). This improves oxygenation by increasing the surface area for gas exchange and reducing intrapulmonary shunting.",
+    "highYieldPearl": "PEEP primarily recruits collapsed alveoli and prevents derecruitment, thereby increasing FRC and improving V/Q matching.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Options A, C, D are incorrect. PEEP generally decreases airway resistance if it opens collapsed airways, but its primary effect is on volume. It can increase PIP if compliance is low, but that's not its primary effect on lung mechanics. It can decrease dynamic compliance if overdistension occurs, but its goal is to improve static compliance by recruiting.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|peep|PEEP and Lung Recruitment|5_faqgka2r"
+  },
+  {
+    "question": "In acute respiratory distress syndrome (ARDS), optimal PEEP titration often aims to minimize which parameter?",
+    "options": {
+      "A": "Mean airway pressure",
+      "B": "Driving pressure",
+      "C": "Plateau pressure",
+      "D": "Peak inspiratory pressure"
+    },
+    "correctAnswer": "B",
+    "topic": "peep",
+    "deepDiveExplanation": "Driving pressure (Plateau Pressure - PEEP) is a surrogate for lung strain and has been strongly associated with mortality in ARDS. Titrating PEEP to minimize driving pressure, often while maintaining an acceptable SpO2, aims to achieve the best balance between alveolar recruitment and overdistension, indicating optimal lung mechanical stress.",
+    "highYieldPearl": "Minimizing driving pressure is a key strategy for lung-protective ventilation in ARDS, often achieved by careful PEEP titration.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While plateau pressure and mean airway pressure are important, driving pressure is the specific parameter that reflects the tidal stretch of the lung and is a strong predictor of outcome. Peak inspiratory pressure is less reliable due to resistance.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|peep|PEEP and Lung Recruitment|5_gn1txu08"
+  },
+  {
+    "question": "A lung recruitment maneuver primarily aims to reverse which of the following pulmonary pathologies?",
+    "options": {
+      "A": "Bronchospasm",
+      "B": "Pulmonary edema",
+      "C": "Alveolar collapse",
+      "D": "Increased airway resistance"
+    },
+    "correctAnswer": "C",
+    "topic": "peep",
+    "deepDiveExplanation": "Lung recruitment maneuvers involve transiently increasing transpulmonary pressure to open collapsed, non-aerated lung units (atelectasis). This is particularly relevant in ARDS where significant alveolar collapse contributes to hypoxemia.",
+    "highYieldPearl": "Recruitment maneuvers are high-pressure, short-duration interventions designed to open up collapsed alveoli, but their overall benefit in ARDS is still debated and requires careful patient selection.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While pulmonary edema might be present, the maneuver directly targets collapse. Bronchospasm and increased airway resistance are not directly reversed by recruitment maneuvers, though improved lung volume might indirectly affect resistance.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|peep|PEEP and Lung Recruitment|5_gl4ebfft"
+  },
+  {
+    "question": "Which of the following conditions is a relative contraindication to high levels of PEEP or lung recruitment?",
+    "options": {
+      "A": "Severe hypoxemia",
+      "B": "Acute severe asthma",
+      "C": "Obesity",
+      "D": "Unilateral lung injury"
+    },
+    "correctAnswer": "B",
+    "topic": "peep",
+    "deepDiveExplanation": "In acute severe asthma, patients often have dynamic hyperinflation and significant air trapping (auto-PEEP). High external PEEP can worsen hyperinflation, increase total PEEP, lead to barotrauma, and severely impair hemodynamics by increasing intrathoracic pressure and reducing venous return. While not an absolute contraindication, it requires extreme caution.",
+    "highYieldPearl": "Patients with obstructive lung diseases like severe asthma or COPD are prone to auto-PEEP; external PEEP must be used cautiously to avoid further hyperinflation and hemodynamic compromise.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Severe hypoxemia is an indication for PEEP. Obesity often benefits from higher PEEP due to increased chest wall weight. Unilateral lung injury requires careful PEEP management to avoid overdistending the healthy lung, but it's not a contraindication to PEEP itself. Severe asthma is a classic relative contraindication for high PEEP/recruitment.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|peep|PEEP and Lung Recruitment|5_udc0itli"
+  },
+  {
+    "question": "The most significant adverse hemodynamic effect of high PEEP levels is primarily due to a reduction in which parameter?",
+    "options": {
+      "A": "Systemic vascular resistance",
+      "B": "Myocardial contractility",
+      "C": "Venous return",
+      "D": "Pulmonary vascular resistance"
+    },
+    "correctAnswer": "C",
+    "topic": "peep",
+    "deepDiveExplanation": "High PEEP increases intrathoracic pressure, which impedes venous return to the right atrium by compressing the great veins and reducing the pressure gradient for blood flow from the periphery to the heart. This leads to a decrease in preload and subsequently, cardiac output.",
+    "highYieldPearl": "Always monitor hemodynamics (MAP, CVP, urine output) when applying moderate to high PEEP, especially in hypovolemic patients, as reduced venous return can lead to hypotension.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While PEEP can slightly affect myocardial contractility (often a decrease due to reduced preload rather than direct effect) and can increase pulmonary vascular resistance (if overdistension occurs), the primary mechanism for decreased cardiac output is reduced venous return. SVR is usually maintained or increased as a compensatory mechanism.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|peep|PEEP and Lung Recruitment|5_xayo0po6"
+  }
+]

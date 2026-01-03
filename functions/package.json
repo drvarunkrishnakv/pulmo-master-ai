@@ -1,0 +1,29 @@
+{
+    "name": "functions",
+    "scripts": {
+        "build": "tsc",
+        "build:watch": "tsc --watch",
+        "serve": "npm run build && firebase emulators:start --only functions",
+        "shell": "npm run build && firebase functions:shell",
+        "start": "npm run shell",
+        "deploy": "firebase deploy --only functions",
+        "logs": "firebase functions:log"
+    },
+    "engines": {
+        "node": "20"
+    },
+    "main": "lib/index.js",
+    "dependencies": {
+        "@sparticuz/chromium": "^143.0.4",
+        "@types/cors": "^2.8.19",
+        "cors": "^2.8.5",
+        "firebase-admin": "^12.0.0",
+        "firebase-functions": "^5.0.0",
+        "puppeteer-core": "^23.0.0"
+    },
+    "devDependencies": {
+        "@types/node": "^20.0.0",
+        "typescript": "^5.0.0"
+    },
+    "private": true
+}

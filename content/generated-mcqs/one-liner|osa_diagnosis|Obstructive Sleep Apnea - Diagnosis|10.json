@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What is the gold standard diagnostic test for Obstructive Sleep Apnea?",
+    "options": {
+      "A": "Home Sleep Apnea Test (HSAT)",
+      "B": "Polysomnography (PSG)",
+      "C": "Nocturnal Oximetry",
+      "D": "Multiple Sleep Latency Test (MSLT)"
+    },
+    "correctAnswer": "B",
+    "topic": "osa_diagnosis",
+    "deepDiveExplanation": "Polysomnography (Type I PSG) is considered the gold standard as it provides a comprehensive assessment of sleep architecture, respiratory events, cardiac activity, and oxygenation by simultaneously recording multiple physiological parameters in an attended setting.",
+    "highYieldPearl": "PSG offers the most complete picture of sleep and respiratory disturbances, crucial for complex cases or when other sleep disorders are suspected.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "HSATs (Type III/IV) are increasingly common for diagnosis, but they are not the 'gold standard' as they lack full sleep staging and are less comprehensive than attended PSG.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|osa_diagnosis|Obstructive Sleep Apnea - Diagnosis|10_qz0i93ek"
+  },
+  {
+    "question": "An Apnea-Hypopnea Index (AHI) greater than 30 events per hour of sleep indicates which severity of Obstructive Sleep Apnea?",
+    "options": {
+      "A": "Mild",
+      "B": "Moderate",
+      "C": "Severe",
+      "D": "Very Severe"
+    },
+    "correctAnswer": "C",
+    "topic": "osa_diagnosis",
+    "deepDiveExplanation": "The severity of OSA is classified based on the AHI: Mild (5-15 events/hour), Moderate (15-30 events/hour), and Severe (>30 events/hour). These thresholds are critical for guiding management decisions.",
+    "highYieldPearl": "Memorize the AHI thresholds for mild, moderate, and severe OSA.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Confusing the numerical thresholds for different severity categories is a common mistake. 'Very Severe' is not a standard classification.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|osa_diagnosis|Obstructive Sleep Apnea - Diagnosis|10_e3dcvf2p"
+  },
+  {
+    "question": "According to AASM 2012 criteria, a hypopnea is defined by a 30% airflow reduction accompanied by what?",
+    "options": {
+      "A": "3% oxygen desaturation or arousal",
+      "B": "4% oxygen desaturation",
+      "C": "5% oxygen desaturation and arousal",
+      "D": "10% oxygen desaturation"
+    },
+    "correctAnswer": "A",
+    "topic": "osa_diagnosis",
+    "deepDiveExplanation": "The AASM 2012 scoring criteria define a hypopnea as a discernable decrease in airflow by ≥30% of pre-event baseline, lasting ≥10 seconds, associated with either a ≥3% oxygen desaturation from pre-event baseline OR an arousal.",
+    "highYieldPearl": "Key numbers for hypopnea are 30% airflow reduction and 3% desaturation OR arousal.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The main trap is distinguishing between older (e.g., 4% desaturation) and current (AASM 2012, 3% desaturation or arousal) hypopnea scoring criteria.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|osa_diagnosis|Obstructive Sleep Apnea - Diagnosis|10_5zwmdukl"
+  },
+  {
+    "question": "Which type of Polysomnography (PSG) is generally considered a Home Sleep Apnea Test (HSAT)?",
+    "options": {
+      "A": "Type I",
+      "B": "Type II",
+      "C": "Type III",
+      "D": "Type IV"
+    },
+    "correctAnswer": "C",
+    "topic": "osa_diagnosis",
+    "deepDiveExplanation": "Type III PSG is a modified portable sleep apnea test that uses at least four channels: two respiratory movement channels, one airflow channel, and one oximetry channel. This configuration is commonly employed for HSATs.",
+    "highYieldPearl": "Type III PSG is synonymous with most common HSATs.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Knowing the different PSG types and their characteristics is crucial. Type I is attended in-lab, Type II is unattended comprehensive, Type IV is limited (e.g., just oximetry).",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|osa_diagnosis|Obstructive Sleep Apnea - Diagnosis|10_ejc8m3dd"
+  },
+  {
+    "question": "A STOP-BANG questionnaire score of 3 or more in a patient suggests what?",
+    "options": {
+      "A": "High risk for narcolepsy",
+      "B": "Low risk for OSA",
+      "C": "High risk for moderate to severe OSA",
+      "D": "Need for immediate CPAP initiation"
+    },
+    "correctAnswer": "C",
+    "topic": "osa_diagnosis",
+    "deepDiveExplanation": "The STOP-BANG questionnaire is a validated screening tool. A score of 0-2 indicates low risk of moderate-severe OSA, while a score of ≥3 indicates high risk. It is used to identify patients who should undergo further diagnostic testing.",
+    "highYieldPearl": "STOP-BANG ≥3 indicates high risk of moderate-severe OSA, warranting a sleep study.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Confusing the interpretation of the score or assuming it's a definitive diagnosis or treatment indicator rather than a screening tool.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|osa_diagnosis|Obstructive Sleep Apnea - Diagnosis|10_vi8vhuz5"
+  },
+  {
+    "question": "An Epworth Sleepiness Scale (ESS) score greater than 10 typically suggests which of the following?",
+    "options": {
+      "A": "Normal daytime alertness",
+      "B": "Mild subjective sleepiness",
+      "C": "Excessive daytime sleepiness",
+      "D": "Primary Insomnia"
+    },
+    "correctAnswer": "C",
+    "topic": "osa_diagnosis",
+    "deepDiveExplanation": "The ESS is a self-administered questionnaire assessing subjective daytime sleepiness. Scores range from 0-24. A score of 0-9 is considered normal, while a score of ≥10 suggests excessive daytime sleepiness, a common symptom of OSA.",
+    "highYieldPearl": "ESS > 10 points to excessive daytime sleepiness, a strong indicator for sleep disorder evaluation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Misinterpreting the ESS score threshold or confusing subjective sleepiness with objective measures.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|osa_diagnosis|Obstructive Sleep Apnea - Diagnosis|10_59n0j00b"
+  },
+  {
+    "question": "Home Sleep Apnea Testing (HSAT) is generally indicated for patients with which of the following characteristics?",
+    "options": {
+      "A": "Suspected central sleep apnea",
+      "B": "Significant comorbidities (e.g., severe heart failure)",
+      "C": "High pretest probability of uncomplicated OSA",
+      "D": "Suspected narcolepsy"
+    },
+    "correctAnswer": "C",
+    "topic": "osa_diagnosis",
+    "deepDiveExplanation": "HSAT is appropriate for patients with a high pretest probability of moderate to severe OSA, who do not have significant comorbidities (e.g., chronic lung disease, severe heart failure, neuromuscular disease) or suspicion of other sleep disorders (e.g., central sleep apnea, insomnia, parasomnias).",
+    "highYieldPearl": "HSAT is suitable for uncomplicated, high-probability OSA cases.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "HSAT is less suitable for complex cases where other sleep disorders or significant comorbidities might confound the diagnosis or require comprehensive PSG.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|osa_diagnosis|Obstructive Sleep Apnea - Diagnosis|10_nuni02vu"
+  },
+  {
+    "question": "A Respiratory Effort Related Arousal (RERA) is characterized by increasing respiratory effort leading to what, without meeting apnea or hypopnea criteria?",
+    "options": {
+      "A": "Oxygen desaturation below 90%",
+      "B": "Bradycardia",
+      "C": "An arousal from sleep",
+      "D": "Sudden snoring cessation"
+    },
+    "correctAnswer": "C",
+    "topic": "osa_diagnosis",
+    "deepDiveExplanation": "RERAs are a sequence of breaths lasting at least 10 seconds, characterized by increasing respiratory effort (e.g., flattening of the inspiratory airflow waveform) that terminates with an arousal from sleep, but do not meet the criteria for an apnea or hypopnea. They contribute to the Respiratory Disturbance Index (RDI).",
+    "highYieldPearl": "RERA = increased respiratory effort + arousal, without meeting apnea/hypopnea criteria.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The key distinction for RERA is the arousal due to effort, without necessarily meeting desaturation or airflow reduction thresholds for hypopnea/apnea.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|osa_diagnosis|Obstructive Sleep Apnea - Diagnosis|10_7882quzc"
+  },
+  {
+    "question": "The Oxygen Desaturation Index (ODI) typically measures the number of oxygen desaturations per hour of sleep by at least what percentage?",
+    "options": {
+      "A": "2%",
+      "B": "3%",
+      "C": "4%",
+      "D": "5%"
+    },
+    "correctAnswer": "B",
+    "topic": "osa_diagnosis",
+    "deepDiveExplanation": "The ODI is a common metric in sleep studies, representing the number of times per hour of sleep that the oxygen saturation drops by a specified percentage. The AASM 2012 criteria commonly use a ≥3% desaturation threshold for scoring respiratory events, and this is often applied to ODI calculations as well.",
+    "highYieldPearl": "ODI often uses a ≥3% desaturation threshold per hour.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Similar to hypopnea criteria, the exact percentage (3% vs 4%) can be a point of confusion depending on the specific guidelines cited.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|osa_diagnosis|Obstructive Sleep Apnea - Diagnosis|10_y7sue5md"
+  },
+  {
+    "question": "A significant limitation of Home Sleep Apnea Testing (HSAT) compared to full Polysomnography (PSG) is its inability to accurately determine what?",
+    "options": {
+      "A": "Respiratory event frequency",
+      "B": "Oxygen desaturation severity",
+      "C": "Sleep architecture and total sleep time",
+      "D": "Heart rate abnormalities"
+    },
+    "correctAnswer": "C",
+    "topic": "osa_diagnosis",
+    "deepDiveExplanation": "HSATs typically do not include electroencephalography (EEG), electrooculography (EOG), or electromyography (EMG) channels, which are essential for objectively determining sleep stages (REM, NREM stages) and thus accurate total sleep time. This means AHI from HSAT is often an RDI (Respiratory Disturbance Index) based on recording time, not actual sleep time.",
+    "highYieldPearl": "HSATs cannot reliably stage sleep or determine total sleep time.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While HSATs can detect respiratory events and desaturations, their primary limitation is the lack of comprehensive sleep staging, which impacts the accuracy of AHI calculation and understanding of sleep quality.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|osa_diagnosis|Obstructive Sleep Apnea - Diagnosis|10_fn7ie83q"
+  }
+]

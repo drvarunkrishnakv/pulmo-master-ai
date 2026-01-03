@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Which immune checkpoint protein on tumor cells binds to PD-1 on T-cells to inhibit their activity?",
+    "options": {
+      "A": "CTLA-4",
+      "B": "LAG-3",
+      "C": "PD-L1",
+      "D": "TIM-3"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_immuno",
+    "deepDiveExplanation": "PD-L1 (Programmed Death-Ligand 1) is expressed on tumor cells and antigen-presenting cells. It binds to PD-1 (Programmed Death-1) receptors on activated T-cells, leading to T-cell anergy, exhaustion, and suppression of anti-tumor immunity. Blocking this interaction with anti-PD-1 or anti-PD-L1 antibodies restores T-cell function and promotes tumor cell killing.",
+    "highYieldPearl": "The PD-1/PD-L1 axis is a critical target for immunotherapy in various cancers, including lung cancer, by preventing immune evasion.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While CTLA-4, LAG-3, and TIM-3 are also immune checkpoints, PD-L1 is the specific ligand for PD-1 that is commonly expressed by tumor cells to evade T-cell attack.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_cancer_immuno|Lung Cancer - Immunotherapy|10_yonu803u"
+  },
+  {
+    "question": "High PD-L1 expression in NSCLC is a strong predictive biomarker for monotherapy response to which class of drugs?",
+    "options": {
+      "A": "EGFR Tyrosine Kinase Inhibitors",
+      "B": "ALK Inhibitors",
+      "C": "PD-1/PD-L1 Checkpoint Inhibitors",
+      "D": "CTLA-4 Inhibitors"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_immuno",
+    "deepDiveExplanation": "High PD-L1 expression (typically Tumor Proportion Score (TPS) ≥ 50%) in tumor cells is a well-established predictive biomarker for improved objective response rates and progression-free survival with anti-PD-1 or anti-PD-L1 monotherapy in the first-line setting for metastatic non-small cell lung cancer (NSCLC).",
+    "highYieldPearl": "PD-L1 TPS ≥ 50% is a key criterion for selecting first-line anti-PD-1 monotherapy in NSCLC without actionable mutations.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "EGFR and ALK inhibitors target specific oncogenic drivers, not related to PD-L1. While CTLA-4 inhibitors are immunotherapies, their efficacy is less directly correlated with PD-L1 expression compared to PD-1/PD-L1 inhibitors.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_cancer_immuno|Lung Cancer - Immunotherapy|10_w2f0mxqh"
+  },
+  {
+    "question": "Which immunotherapy agent is approved as consolidation therapy for unresectable Stage III NSCLC after chemoradiation?",
+    "options": {
+      "A": "Pembrolizumab",
+      "B": "Nivolumab",
+      "C": "Durvalumab",
+      "D": "Ipilimumab"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_immuno",
+    "deepDiveExplanation": "Durvalumab, an anti-PD-L1 antibody, is approved based on the PACIFIC trial for patients with unresectable Stage III NSCLC who have completed definitive platinum-based chemoradiation and have not progressed. It significantly improved progression-free survival and overall survival in this setting.",
+    "highYieldPearl": "Durvalumab consolidation is the standard of care for eligible patients with unresectable Stage III NSCLC post-chemoradiation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While Pembrolizumab and Nivolumab are also anti-PD-1 antibodies used in lung cancer, and Ipilimumab is an anti-CTLA-4, Durvalumab is specifically indicated and proven for the consolidation phase of unresectable Stage III NSCLC.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_cancer_immuno|Lung Cancer - Immunotherapy|10_ws6ni84q"
+  },
+  {
+    "question": "The most common immune-related adverse event (irAE) affecting the endocrine system due to checkpoint inhibitors is?",
+    "options": {
+      "A": "Immune Colitis",
+      "B": "Immune Pneumonitis",
+      "C": "Hypophysitis",
+      "D": "Immune Dermatitis"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_immuno",
+    "deepDiveExplanation": "Hypophysitis (inflammation of the pituitary gland) is the most frequent endocrine irAE, often leading to deficiencies in various pituitary hormones (e.g., ACTH, TSH, growth hormone). Other common endocrine irAEs include thyroiditis and adrenal insufficiency.",
+    "highYieldPearl": "Endocrine irAEs, especially hypophysitis and thyroiditis, often require lifelong hormone replacement therapy, even after immunotherapy discontinuation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Colitis, pneumonitis, and dermatitis are common irAEs but affect the gastrointestinal, respiratory, and integumentary systems, respectively, not primarily the endocrine system.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_cancer_immuno|Lung Cancer - Immunotherapy|10_i60l3qcp"
+  },
+  {
+    "question": "Which dual immunotherapy combination targets both PD-1 and CTLA-4 pathways?",
+    "options": {
+      "A": "Pembrolizumab + Atezolizumab",
+      "B": "Nivolumab + Ipilimumab",
+      "C": "Durvalumab + Tremelimumab",
+      "D": "Atezolizumab + Bevacizumab"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_cancer_immuno",
+    "deepDiveExplanation": "Nivolumab is an anti-PD-1 antibody, and Ipilimumab is an anti-CTLA-4 antibody. Their combination provides a synergistic blockade of two distinct immune checkpoints, leading to enhanced T-cell activation and anti-tumor responses, albeit with increased toxicity.",
+    "highYieldPearl": "Dual checkpoint inhibition with anti-PD-1 and anti-CTLA-4 agents is used in NSCLC (e.g., Nivolumab + Ipilimumab) and other cancers like melanoma and renal cell carcinoma.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Pembrolizumab and Atezolizumab are both PD-1/PD-L1 inhibitors (not dual pathway). Durvalumab (anti-PD-L1) + Tremelimumab (anti-CTLA-4) is another dual checkpoint combination but Nivolumab + Ipilimumab is the most commonly recognized example. Atezolizumab + Bevacizumab combines immunotherapy with an anti-VEGF agent.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_cancer_immuno|Lung Cancer - Immunotherapy|10_uwe2r4yk"
+  },
+  {
+    "question": "For first-line metastatic NSCLC with PD-L1 TPS < 1%, which immunotherapy strategy is generally preferred?",
+    "options": {
+      "A": "Pembrolizumab monotherapy",
+      "B": "Nivolumab monotherapy",
+      "C": "Chemotherapy alone",
+      "D": "Chemo-immunotherapy combination"
+    },
+    "correctAnswer": "D",
+    "topic": "lung_cancer_immuno",
+    "deepDiveExplanation": "For patients with metastatic NSCLC and low (TPS < 1%) or negative PD-L1 expression, combining immunotherapy (e.g., pembrolizumab or atezolizumab) with platinum-based chemotherapy has demonstrated superior overall survival and progression-free survival compared to chemotherapy alone. Monotherapy with PD-1/PD-L1 inhibitors is less effective in this PD-L1 low/negative subgroup.",
+    "highYieldPearl": "PD-L1 expression is a critical determinant for first-line treatment selection in advanced NSCLC without actionable mutations.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "Monotherapy with PD-1 inhibitors (A, B) is primarily reserved for high PD-L1 expressors. Chemotherapy alone (C) is now considered suboptimal for most patients due to the improved outcomes with chemo-immunotherapy combinations.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_cancer_immuno|Lung Cancer - Immunotherapy|10_gyyqk21e"
+  },
+  {
+    "question": "The initial increase in tumor size or appearance of new lesions, followed by subsequent tumor regression on immunotherapy, is termed?",
+    "options": {
+      "A": "Tumor flare",
+      "B": "Hyperprogressive disease",
+      "C": "Pseudo-progression",
+      "D": "Immune escape"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_immuno",
+    "deepDiveExplanation": "Pseudo-progression is a phenomenon observed in patients treated with immunotherapy where an initial increase in tumor size or the development of new lesions is attributed to immune cell infiltration into the tumor, rather than actual tumor growth. This is followed by eventual tumor shrinkage. It highlights the need for continued treatment beyond initial radiographic progression if the patient is clinically stable.",
+    "highYieldPearl": "Pseudo-progression necessitates careful clinical judgment and often a confirmatory scan before discontinuing effective immunotherapy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Hyperprogressive disease involves an accelerated rate of tumor growth compared to baseline. Tumor flare refers to a temporary worsening of symptoms or radiographic findings, often seen with targeted therapies. Immune escape refers to mechanisms by which tumors evade immune surveillance.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_cancer_immuno|Lung Cancer - Immunotherapy|10_xz50wucq"
+  },
+  {
+    "question": "Beyond PD-L1, which biomarker is increasingly recognized for predicting immunotherapy response in NSCLC?",
+    "options": {
+      "A": "EGFR mutation status",
+      "B": "ALK rearrangement",
+      "C": "Tumor Mutational Burden (TMB)",
+      "D": "KRAS mutation status"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_immuno",
+    "deepDiveExplanation": "Tumor Mutational Burden (TMB), defined as the total number of somatic mutations per megabase of sequenced DNA, correlates with the number of neoantigens presented by tumor cells. Higher TMB is generally associated with improved response rates and survival benefit from immune checkpoint inhibitors across various cancers, including NSCLC.",
+    "highYieldPearl": "High TMB can predict response to immunotherapy, especially in PD-L1 low/negative tumors, suggesting it's an independent biomarker.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "EGFR, ALK, and KRAS mutations are oncogenic drivers and predictive biomarkers for targeted therapies, not directly for immunotherapy response in the same way as TMB or PD-L1. In fact, EGFR-mutated NSCLC typically responds poorly to immunotherapy.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_cancer_immuno|Lung Cancer - Immunotherapy|10_b6eccobt"
+  },
+  {
+    "question": "Which immunotherapy agent is approved for extensive-stage Small Cell Lung Cancer (ES-SCLC) in combination with chemotherapy?",
+    "options": {
+      "A": "Pembrolizumab",
+      "B": "Nivolumab",
+      "C": "Atezolizumab",
+      "D": "Ipilimumab"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_immuno",
+    "deepDiveExplanation": "Atezolizumab (anti-PD-L1) was the first immunotherapy approved for first-line treatment of extensive-stage SCLC in combination with carboplatin and etoposide, based on the IMpower133 trial. Durvalumab (anti-PD-L1) has also since been approved for this indication based on the CASPIAN trial.",
+    "highYieldPearl": "Immunotherapy has revolutionized the treatment landscape for ES-SCLC, offering a modest but significant survival benefit over chemotherapy alone.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While Pembrolizumab, Nivolumab, and Ipilimumab are used in NSCLC and other cancers, Atezolizumab (and Durvalumab) are the specific anti-PD-L1 agents established for first-line ES-SCLC in combination with chemotherapy.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_cancer_immuno|Lung Cancer - Immunotherapy|10_estr0kvl"
+  },
+  {
+    "question": "First-line treatment for Grade 3/4 immune-related pneumonitis due to checkpoint inhibitors typically involves?",
+    "options": {
+      "A": "Bronchodilators",
+      "B": "High-dose systemic corticosteroids",
+      "C": "Anti-fibrotic agents",
+      "D": "Broad-spectrum antibiotics"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_cancer_immuno",
+    "deepDiveExplanation": "For severe (Grade 3 or 4) immune-related adverse events (irAEs) like pneumonitis, the standard first-line management involves holding the immunotherapy and initiating high-dose systemic corticosteroids (e.g., prednisone 1-2 mg/kg/day). If there's no improvement, other immunosuppressants like infliximab or mycophenolate mofetil may be considered.",
+    "highYieldPearl": "Early recognition and aggressive immunosuppression with corticosteroids are crucial for managing severe irAEs and preventing permanent organ damage.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Bronchodilators might be used symptomatically but don't address the underlying immune inflammation. Anti-fibrotic agents are for established fibrosis, not acute inflammation. Antibiotics are for infection, not immune-mediated inflammation, unless a secondary infection is suspected.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_cancer_immuno|Lung Cancer - Immunotherapy|10_ejmqnp1q"
+  }
+]

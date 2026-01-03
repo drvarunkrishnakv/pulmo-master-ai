@@ -1,0 +1,1332 @@
+[
+  {
+    "id": "rag_lam_5ce6fc6b",
+    "question": "A 45-year-old obese male with a history of poorly controlled hypertension and obstructive sleep apnea presents with progressive dyspnea on exertion, fatigue, and occasional syncopal episodes over the past 6 months. Physical examination reveals an elevated JVP, pedal edema, and a loud P2. ECG shows P pulmonale, right axis deviation, and RV strain pattern. Transthoracic echocardiography estimates a pulmonary artery systolic pressure of 65 mmHg and reveals moderate RV dysfunction, with normal left ventricular ejection fraction. Right heart catheterization is performed, revealing mean pulmonary artery pressure (mPAP) of 32 mmHg, pulmonary artery wedge pressure (PAWP) of 18 mmHg, cardiac output (CO) of 4.5 L/min, and pulmonary vascular resistance (PVR) of 3.1 Wood units.",
+    "options": {
+      "A": "Pulmonary Arterial Hypertension (PAH)",
+      "B": "Pulmonary Hypertension due to Left Heart Disease (PH-LHD)",
+      "C": "Chronic Thromboembolic Pulmonary Hypertension (CTEPH)",
+      "D": "Pulmonary Hypertension due to Pulmonary Venoocclusive Disease (PVOD)"
+    },
+    "correctAnswer": "B",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The patient's right heart catheterization (RHC) findings are crucial for classifying pulmonary hypertension. The mean pulmonary artery pressure (mPAP) of 32 mmHg confirms the presence of pulmonary hypertension (mPAP >= 25 mmHg). The pulmonary artery wedge pressure (PAWP) of 18 mmHg, which is greater than 15 mmHg, indicates a post-capillary component. According to the provided text, a diagnosis of PAH requires a mean PA pressure >= 25 mmHg AND an adequately measured PAWP or LVEDP <= 15 mmHg. Since the PAWP is elevated (> 15 mmHg), the most appropriate diagnosis is Pulmonary Hypertension due to Left Heart Disease (PH-LHD). The history of hypertension and obesity with normal LVEF suggests underlying left ventricular diastolic dysfunction, which is a common cause of PH-LHD and can lead to elevated PAWP.",
+    "highYieldPearl": "Rio's Take: The pulmonary artery wedge pressure (PAWP) is the definitive hemodynamic parameter that differentiates pre-capillary pulmonary hypertension (PAWP <= 15 mmHg) from post-capillary pulmonary hypertension due to left heart disease (PAWP > 15 mmHg).",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Pulmonary Arterial Hypertension (PAH): This is a common trap because the patient has classic symptoms and signs of pulmonary hypertension and right heart strain. However, the RHC findings, specifically the elevated PAWP (>15 mmHg), definitively rule out PAH based on diagnostic criteria.",
+      "B": "Pulmonary Hypertension due to Left Heart Disease (PH-LHD): This is the correct answer. The elevated PAWP of 18 mmHg is the key diagnostic criterion for PH-LHD, despite a normal LVEF, suggesting underlying diastolic dysfunction.",
+      "C": "Chronic Thromboembolic Pulmonary Hypertension (CTEPH): While CTEPH is a type of PH, it is generally a pre-capillary condition with a normal PAWP. The given RHC data, particularly the elevated PAWP, does not support CTEPH as the primary diagnosis. CTEPH would also typically involve specific imaging like a V/Q scan.",
+      "D": "Pulmonary Hypertension due to Pulmonary Venoocclusive Disease (PVOD): PVOD is a rare form of PH and is typically considered within Group 1 PAH, meaning it should meet the PAH hemodynamic criteria of PAWP <= 15 mmHg. Thus, the elevated PAWP here rules out PVOD as well by the strict definition provided."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_4139f3fe",
+    "question": "A 58-year-old morbidly obese female (BMI 45 kg/m²) presents with chronic daytime sleepiness, loud snoring, episodes of observed apnea, and morning headaches. She also reports progressive shortness of breath on exertion and occasional pedal edema. Her arterial blood gas shows pH 7.32, PaCO2 58 mmHg, PaO2 62 mmHg, and HCO3 34 mEq/L. Chest X-ray is clear. ECG reveals P pulmonale and right axis deviation. Polysomnography demonstrates an AHI of 55 events/hour with numerous obstructive apneas and hypopneas, accompanied by several episodes of deep non-obstructive desaturations, and a lack of SpO2 recovery after some obstructive events.",
+    "options": {
+      "A": "Oral Phosphodiesterase-5 Inhibitor",
+      "B": "Nocturnal Oxygen Therapy",
+      "C": "Continuous Positive Airway Pressure (CPAP)",
+      "D": "Non-Invasive Ventilation (NIV)"
+    },
+    "correctAnswer": "C",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The patient's clinical presentation (morbid obesity, daytime sleepiness, snoring, apnea, morning headaches), ABG (chronic hypercapnia with compensation), and polysomnography findings (high AHI with deep non-obstructive desaturations and lack of SpO2 recovery after obstructive events) are highly characteristic of Obesity Hypoventilation Syndrome (OHS). The ECG (P pulmonale, right axis deviation) and symptoms (SOB, pedal edema) indicate associated pulmonary hypertension and cor pulmonale, which are common in OHS. The provided text explicitly states that 'Per ATS guideline on OHS, CPAP is recommended (rather than NIV) as first-line therapy for stable ambulatory patients with OHS.' CPAP effectively treats the underlying obstructive sleep apnea, which in turn can improve wake hypercarbia and subsequently the pulmonary hypertension by unloading CO2 buildup.",
+    "highYieldPearl": "Rio's Take: In patients with Obesity Hypoventilation Syndrome (OHS) and associated pulmonary hypertension, CPAP is the first-line treatment for stable ambulatory patients, as it addresses the core issue of obstructive sleep apnea and improves hypercapnia.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Oral Phosphodiesterase-5 Inhibitor: While PDE5 inhibitors are used for primary Pulmonary Arterial Hypertension (PAH), this patient's PH is secondary to OHS. The most effective first-line treatment for OHS-related PH is to treat the underlying respiratory disorder, not just the PH symptomatically.",
+      "B": "Nocturnal Oxygen Therapy: Oxygen therapy may improve hypoxemia but does not address the underlying hypoventilation or upper airway obstruction, and can sometimes worsen hypercapnia in patients with chronic CO2 retention. It is not the first-line treatment for OHS.",
+      "C": "Continuous Positive Airway Pressure (CPAP): This is the correct answer. The text explicitly states CPAP as the first-line therapy for stable OHS patients, emphasizing its role in treating OSA and improving hypercarbia and related complications like PH.",
+      "D": "Non-Invasive Ventilation (NIV): While NIV (often BiPAP) is used in OHS, the text specifies it 'may be required if intolerance at high pressures or persistent hypoxemia or hypercapnia or in OHS with mild OSA.' For a stable ambulatory patient, CPAP is recommended as first-line, making NIV a plausible but not the *initial* first-line choice."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_eeb5c9c1",
+    "question": "A 38-year-old female presents with progressive shortness of breath, chronic cough, and intermittent hemoptysis. She also reports diffuse, ill-defined chest pain and occasional skin lesions on her face, described as persistent, purplish plaques on her nose and cheeks. Physical examination reveals these facial lesions and bilateral ankle swelling. ECG shows right bundle branch block (RBBB) and an RV strain pattern. Transthoracic echocardiography reveals an estimated pulmonary artery systolic pressure of 70 mmHg and moderate right ventricular enlargement. Her initial laboratory tests show elevated ACE levels and hypercalcemia.",
+    "options": {
+      "A": "Right Heart Catheterization",
+      "B": "Ventilation-Perfusion (V/Q) Scan",
+      "C": "High-Resolution Computed Tomography (HRCT) of the Chest",
+      "D": "Gallium-67 Scintigraphy"
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The patient's presentation with progressive dyspnea, cough, hemoptysis, ill-defined chest pain, specific facial skin lesions (purplish plaques on nose and cheeks, consistent with Lupus Pernio), elevated ACE, and hypercalcemia are all highly suggestive of Sarcoidosis. The ECG findings (RBBB, RV strain) and echocardiography (PASP 70 mmHg, RV enlargement) confirm severe pulmonary hypertension with right heart involvement. Sarcoidosis is a known cause of pulmonary hypertension. The question asks for the most appropriate next step in her diagnostic workup *for pulmonary hypertension* given the probable underlying condition. The provided text states, 'Right heart cardiac catheterization is required to confirm the diagnosis of pulmonary hypertension' and for classifying it hemodynamically. While other tests might diagnose sarcoidosis or its pulmonary manifestations, RHC is indispensable for definitive PH diagnosis and management planning.",
+    "highYieldPearl": "Rio's Take: Even in cases of secondary pulmonary hypertension with a clear underlying cause (like sarcoidosis) and strong non-invasive evidence, right heart catheterization remains the gold standard for definitive hemodynamic confirmation and classification of pulmonary hypertension.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Right Heart Catheterization: This is the correct answer. The text explicitly states RHC is required to confirm the diagnosis of pulmonary hypertension and to measure critical parameters (mPAP, PAWP, CO) for classification. This is the definitive diagnostic step for PH.",
+      "B": "Ventilation-Perfusion (V/Q) Scan: A V/Q scan is primarily used to screen for Chronic Thromboembolic Pulmonary Hypertension (CTEPH) by identifying unmatched perfusion defects. While sarcoidosis can cause PH, there's nothing in this vignette to specifically suggest CTEPH. The focus here is on confirming PH and its hemodynamics in the context of known sarcoidosis.",
+      "C": "High-Resolution Computed Tomography (HRCT) of the Chest: HRCT is crucial for staging pulmonary sarcoidosis, identifying interstitial lung disease, lymphadenopathy, and bronchiectasis which can all contribute to PH. However, it does not directly diagnose pulmonary hypertension or provide the hemodynamic measurements required for its classification.",
+      "D": "Gallium-67 Scintigraphy: Gallium scan (e.g., 'Panda sign', 'Lambda sign') is used to assess active inflammatory lesions in sarcoidosis. While relevant for diagnosing and monitoring sarcoidosis activity, it does not provide diagnostic information or hemodynamic classification for pulmonary hypertension itself."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_e0b1c215",
+    "question": "A 45-year-old female presents with progressive shortness of breath on exertion. An echocardiogram estimates a high right ventricular systolic pressure, raising suspicion of pulmonary hypertension. She has no significant history of lung disease or left heart dysfunction on initial evaluation.",
+    "options": {
+      "A": "Right heart cardiac catheterization",
+      "B": "High-resolution computed tomography (HRCT) of the chest",
+      "C": "Ventilation-perfusion (V/Q) scan",
+      "D": "Pulmonary function tests (PFTs)"
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "Right heart cardiac catheterization is the gold standard for confirming the diagnosis of pulmonary hypertension and is essential for accurately measuring hemodynamic parameters such as mean pulmonary artery pressure (mPAP), pulmonary artery wedge pressure (PAWP), and cardiac output (CO), which are crucial for classification and guiding therapy. The text explicitly states, 'Right heart cardiac catheterization is required to confirm the diagnosis of pulmonary hypertension.'",
+    "highYieldPearl": "Rio's Take: While echocardiography can screen for PH, right heart catheterization is mandatory for definitive diagnosis and classification, especially differentiating between pre-capillary and post-capillary PH.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the definitive diagnostic procedure for pulmonary hypertension and its classification, as required by guidelines.",
+      "B": "HRCT is important for identifying underlying lung pathologies (e.g., ILD, emphysema) that might cause PH, but it does not confirm PH or measure hemodynamics.",
+      "C": "V/Q scan is primarily used to screen for chronic thromboembolic pulmonary hypertension (CTEPH), a specific cause of PH, but it is not the universal confirmatory test for PH itself.",
+      "D": "PFTs help assess lung volumes, airflow obstruction, and gas exchange, providing insight into lung disease that might contribute to PH, but they do not diagnose PH directly."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_651f7e6e",
+    "question": "A 60-year-old patient with long-standing dyspnea and fatigue undergoes an ECG as part of their workup for suspected pulmonary hypertension. The ECG shows specific findings suggestive of right heart strain.",
+    "options": {
+      "A": "RV strain pattern (ST depression/T-wave inversion in V1-4 and inferior leads)",
+      "B": "P mitrale (notched P wave in lead II)",
+      "C": "Left axis deviation",
+      "D": "Tall R wave in V6 with deep S wave in V1"
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The text lists several typical ECG abnormalities in PH, including 'RV strain pattern (ST depression/T-wave inversion in the right precordial V1–4 and inferior II, III, aVF leads)'. This pattern reflects severe right ventricular pressure overload and ischemia.",
+    "highYieldPearl": "Rio's Take: The RV strain pattern on ECG is a strong indicator of significant right ventricular dysfunction due to pulmonary hypertension, suggesting advanced disease.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is a classic ECG finding directly mentioned in the text for pulmonary hypertension, indicating right ventricular strain.",
+      "B": "P mitrale is indicative of left atrial enlargement, typically seen in conditions like mitral valve disease, not directly associated with PH.",
+      "C": "Left axis deviation is more commonly associated with left ventricular hypertrophy or certain conduction abnormalities, whereas PH often leads to right axis deviation.",
+      "D": "Tall R wave in V6 with a deep S wave in V1 is a characteristic pattern of left ventricular hypertrophy, not right ventricular hypertrophy seen in PH."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_f9ecd556",
+    "question": "A pulmonologist is reviewing the right heart catheterization results for a patient suspected of having Pulmonary Arterial Hypertension (PAH). The mean pulmonary artery pressure (mPAP) is 30 mmHg.",
+    "options": {
+      "A": "PAWP ≤ 15 mm Hg",
+      "B": "PAWP > 20 mm Hg",
+      "C": "PAWP between 16-20 mm Hg",
+      "D": "PAWP is not a criterion for PAH diagnosis"
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The diagnostic criteria for Pulmonary Arterial Hypertension (PAH) require a mean pulmonary artery pressure greater than or equal to 25 mm Hg AND an adequately measured pulmonary artery wedge pressure (PAWP) or directly recorded left ventricular end-diastolic pressure (LVEDP) of less than or equal to 15 mm Hg. This differentiates pre-capillary PAH (Group 1) from post-capillary PH (Group 2, due to left heart disease).",
+    "highYieldPearl": "Rio's Take: The PAWP value is critical in distinguishing between pre-capillary (PAH) and post-capillary pulmonary hypertension. A low PAWP (<15mmHg) with elevated mPAP defines pre-capillary PH.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct criterion for PAWP in the diagnosis of pre-capillary PAH, as stated in the text.",
+      "B": "A PAWP > 20 mm Hg would indicate post-capillary pulmonary hypertension, specifically 'isolated post-capillary PH' (Ipc-PH), where the elevated pressure is primarily due to left heart disease.",
+      "C": "A PAWP between 16-20 mm Hg, especially with an elevated PVR, might suggest 'combined pre- and post-capillary PH' (Cpc-PH) in the context of left heart disease, not pure pre-capillary PAH.",
+      "D": "PAWP is a crucial criterion for diagnosing and classifying pulmonary hypertension, particularly for distinguishing between pre-capillary and post-capillary forms."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_944a9e91",
+    "question": "A 55-year-old female presents with progressive dyspnea and fatigue. Echocardiography suggests pulmonary hypertension. A right heart catheterization is performed for confirmation and classification. Which of the following findings from the right heart catheterization would be LEAST consistent with a diagnosis of Pulmonary Arterial Hypertension (PAH) according to current diagnostic criteria?",
+    "options": {
+      "A": "Mean pulmonary artery pressure (mPAP) of 28 mmHg",
+      "B": "Pulmonary artery wedge pressure (PAWP) of 18 mmHg",
+      "C": "Cardiac output (CO) of 4.0 L/min",
+      "D": "Pulmonary vascular resistance (PVR) of 6 Wood units"
+    },
+    "correctAnswer": "B",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The diagnosis of Pulmonary Arterial Hypertension (PAH), a subgroup of pre-capillary pulmonary hypertension, requires a mean pulmonary artery pressure (mPAP) of greater than or equal to 25 mmHg, combined with a pulmonary artery wedge pressure (PAWP) or left ventricular end-diastolic pressure (LVEDP) of less than or equal to 15 mmHg. A PAWP of 18 mmHg indicates elevated left-sided filling pressures, which would classify the pulmonary hypertension as Group 2 (due to left heart disease), rather than PAH (Group 1). While mPAP of 28 mmHg confirms PH, and PVR of 6 Wood units is high (calculated as (mPAP - PAWP)/CO, which would be (28-18)/4 = 2.5 if PAWP was 18, so 6 wood units with mPAP 28 would require a lower PAWP, this is a distractor). The key discriminant between pre-capillary (PAH) and post-capillary (left heart disease) PH is the PAWP/LVEDP.",
+    "highYieldPearl": "Rio's Take: The defining feature differentiating pre-capillary pulmonary hypertension (like PAH) from post-capillary pulmonary hypertension (Group 2, left heart disease) on right heart catheterization is the pulmonary artery wedge pressure (PAWP). A PAWP > 15 mmHg points towards left heart disease.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "An mPAP of 28 mmHg confirms pulmonary hypertension, aligning with the criterion of mPAP ≥ 25 mmHg. This is consistent with a PH diagnosis, but does not specify the type of PH without PAWP.",
+      "B": "A PAWP of 18 mmHg is greater than the 15 mmHg threshold. This finding strongly suggests pulmonary hypertension due to left heart disease (Group 2) and excludes a diagnosis of PAH (Group 1), making it the least consistent option.",
+      "C": "A cardiac output of 4.0 L/min is within a normal range and does not directly confirm or exclude PAH on its own. It's a parameter used for PVR calculation.",
+      "D": "A PVR of 6 Wood units is indicative of significantly elevated pulmonary vascular resistance, which is characteristic of PAH. This value (if PAWP were low) would support a PAH diagnosis. The PVR calculation in the text for PAH requires (mPAP - PCWP)/CO. If mPAP=28, and PAWP<15, then PVR would be > (28-15)/4 = 3.25, so 6 Wood units would be consistent with high PVR in PAH."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_4b8909f6",
+    "question": "A 60-year-old male with a history of scleroderma presents with increasing exertional dyspnea. Echocardiography reveals severe right ventricular dysfunction and an elevated pulmonary artery pressure. Which of the following ECG findings would be LEAST characteristic of pulmonary hypertension in this patient?",
+    "options": {
+      "A": "P pulmonale in lead II",
+      "B": "Right axis deviation (QRS axis > 90°)",
+      "C": "R/S ratio < 1 with R wave > 0.5 mV in V1",
+      "D": "ST depression and T-wave inversion in leads V5-V6 and aVL"
+    },
+    "correctAnswer": "D",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "Typical ECG abnormalities in pulmonary hypertension reflect right ventricular hypertrophy and strain. These include P pulmonale (P > 0.25 mV in lead II), right or sagittal axis deviation (QRS axis > 90°), RV hypertrophy (R/S < 1 with R > 0.5 mV in V1; R in V1 + S in lead V5 > 1 mV), right bundle branch block, and RV strain pattern (ST depression/T-wave inversion in the right precordial leads V1–4 and inferior leads II, III, aVF). ST depression and T-wave inversion in leads V5-V6 and aVL are typically associated with left ventricular strain or ischemia, making this finding the least characteristic for pulmonary hypertension.",
+    "highYieldPearl": "Rio's Take: ECG in PH primarily shows signs of right heart overload (RVH, RV strain, RAD, P pulmonale), reflecting the increased workload on the right ventricle.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "P pulmonale (P wave > 0.25 mV in lead II) is a classic sign of right atrial enlargement, often seen in pulmonary hypertension, making this characteristic.",
+      "B": "Right axis deviation (QRS axis > 90°) indicates right ventricular hypertrophy, a common finding in pulmonary hypertension, making this characteristic.",
+      "C": "R/S ratio < 1 with R wave > 0.5 mV in V1 is one of the criteria for right ventricular hypertrophy, a characteristic finding in pulmonary hypertension. The text states RVH criteria are R/S < 1 with R > 0.5 mV in V1; R in V1 + S in lead V5 > 1 mV, so this partially describes RVH.",
+      "D": "ST depression and T-wave inversion in leads V5-V6 and aVL are indicative of left ventricular strain or ischemia, not typically associated with the ECG changes of pulmonary hypertension, which primarily affects the right ventricle. The typical RV strain pattern involves right precordial and inferior leads."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_ac02fbd6",
+    "question": "A 40-year-old male with a history of HIV infection presents with progressive shortness of breath, chest pain, and occasional syncope. Echocardiography shows severe pulmonary hypertension. A subsequent right heart catheterization confirms a mean pulmonary artery pressure of 42 mmHg and a pulmonary artery wedge pressure of 10 mmHg. Which of the following is the MOST appropriate next diagnostic step in the workup of his pulmonary hypertension?",
+    "options": {
+      "A": "Cardiac MRI for advanced assessment of right ventricular function.",
+      "B": "Ventilation-perfusion (V/Q) scan.",
+      "C": "Liver function tests and abdominal ultrasound to screen for portal hypertension.",
+      "D": "Pulmonary angiography."
+    },
+    "correctAnswer": "B",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The right heart catheterization findings (mPAP > 25 mmHg, PAWP <= 15 mmHg) confirm pre-capillary pulmonary hypertension. While HIV infection is a known cause of Pulmonary Arterial Hypertension (PAH, Group 1), it is crucial to systematically rule out other treatable causes of pre-capillary PH, especially Chronic Thromboembolic Pulmonary Hypertension (CTEPH, Group 4), which is curable with surgery in eligible patients. A ventilation-perfusion (V/Q) scan is the recommended initial screening test for CTEPH due to its high sensitivity for detecting unmatched perfusion defects. Cardiac MRI, while useful for RV assessment, is not the primary step to classify the *etiology* beyond Group 1 vs. 4. Screening for portal hypertension (another associated condition with PAH) or other Group 1 PAH etiologies is part of a complete workup but takes lower priority than ruling out CTEPH. Pulmonary angiography is a more invasive test performed if the V/Q scan is positive, or if CTEPH is highly suspected despite a non-diagnostic V/Q scan.",
+    "highYieldPearl": "Rio's Take: In any patient with confirmed pre-capillary pulmonary hypertension (mPAP >25, PAWP <=15), regardless of known risk factors for Group 1 PAH, a V/Q scan is an obligatory next step to rule out CTEPH (Group 4) due to its specific and potentially curative treatment.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Cardiac MRI can provide detailed information about right ventricular function and morphology, which is valuable in PH management. However, it is not the *most appropriate next diagnostic step* to *classify* the type of PH (i.e., ruling out Group 4 vs. Group 1) after initial RHC, especially when a treatable cause like CTEPH needs to be excluded.",
+      "B": "A V/Q scan is the gold standard screening tool for Chronic Thromboembolic Pulmonary Hypertension (CTEPH), which is a distinct, potentially curable form of pre-capillary PH (Group 4). Given the RHC confirms pre-capillary PH, ruling out CTEPH is a critical next step regardless of the HIV status (which predisposes to Group 1 PAH).",
+      "C": "Portal hypertension is another condition associated with PAH (Group 1). While screening for associated conditions is part of a comprehensive workup, it is generally performed to identify a specific etiology within Group 1 PAH. Ruling out CTEPH (Group 4) takes precedence due to its specific treatment.",
+      "D": "Pulmonary angiography is a more invasive procedure and is typically reserved for cases where the V/Q scan suggests CTEPH or if there's a strong clinical suspicion despite a negative or indeterminate V/Q scan. It is not the *initial* next step after RHC for all pre-capillary PH patients."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_90b60eb2",
+    "question": "A 45-year-old female presents with progressive shortness of breath, fatigue, and occasional syncope. On examination, she has an accentuated P2, tricuspid regurgitation murmur, and mild peripheral edema. Her ECG shows P pulmonale and right axis deviation. Echocardiography estimates a high pulmonary artery systolic pressure but also reveals moderate left ventricular hypertrophy with preserved ejection fraction and mildly elevated left atrial pressure. Which of the following is the most definitive diagnostic step to confirm pulmonary hypertension and accurately classify it as pre-capillary or post-capillary?",
+    "options": {
+      "A": "Right heart cardiac catheterization",
+      "B": "High-resolution computed tomography (HRCT) of the chest",
+      "C": "Ventilation-perfusion (V/Q) scan",
+      "D": "Exercise stress echocardiography"
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "Right heart cardiac catheterization (RHCC) is the gold standard for confirming the diagnosis of pulmonary hypertension and accurately classifying it. It directly measures pulmonary artery pressures, pulmonary artery wedge pressure (PAWP), cardiac output, and calculates pulmonary vascular resistance. A mean pulmonary artery pressure ≥ 25 mmHg combined with a PAWP/LVEDP ≤ 15 mmHg confirms pre-capillary pulmonary arterial hypertension (PAH), while a PAWP/LVEDP > 15 mmHg suggests post-capillary PH due to left heart disease. The presence of 'mildly elevated left atrial pressure' on echo in the vignette indicates the need for definitive pressure measurements to differentiate precisely.",
+    "highYieldPearl": "Rio's Take: Always remember that while echocardiography can estimate pulmonary pressures and provide clues, right heart catheterization is indispensable for definitive diagnosis and precise hemodynamic classification of pulmonary hypertension, especially when differentiating pre-capillary from post-capillary forms.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. This is the definitive test for confirmation and classification as per the text. It provides direct hemodynamic measurements including PAWP/LVEDP which are crucial for classification.",
+      "B": "HRCT is useful for identifying underlying lung parenchymal diseases (e.g., ILD) or vascular abnormalities, but it does not directly assess hemodynamics or classify PH based on pressure measurements.",
+      "C": "V/Q scan is primarily used to screen for chronic thromboembolic pulmonary hypertension (CTEPH) by detecting unmatched perfusion defects. It does not provide hemodynamic classification of pre-capillary versus post-capillary PH.",
+      "D": "Exercise stress echocardiography can assess the dynamic response of pulmonary pressures to exertion but is not the primary diagnostic tool for confirming and classifying PH at rest, particularly when resting echo already suggests PH."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_0d955b84",
+    "question": "A 62-year-old male with long-standing pulmonary hypertension undergoes an electrocardiogram as part of his routine evaluation. Which of the following ECG findings, if present, would be considered least specific for directly reflecting the severity or presence of right ventricular pressure overload in pulmonary hypertension?",
+    "options": {
+      "A": "P pulmonale (P wave amplitude >0.25 mV in lead II)",
+      "B": "Right axis deviation (QRS axis >90°)",
+      "C": "RV strain pattern (ST depression/T-wave inversion in V1-4 and inferior leads)",
+      "D": "Prolonged QTc interval"
+    },
+    "correctAnswer": "D",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The provided text lists typical ECG abnormalities in PH, including P pulmonale, right or sagittal axis deviation, RV hypertrophy (e.g., dominant R wave in V1), right bundle branch block, and RV strain pattern. These findings directly reflect right atrial enlargement, right ventricular hypertrophy, or right ventricular ischemia/strain due to pressure overload. The text specifically mentions 'Prolonged QTc interval (unspecific)', indicating that while it may be observed in PH, it is not a specific marker for right ventricular pressure overload, unlike the other options.",
+    "highYieldPearl": "Rio's Take: While many ECG changes indicate right heart strain in PH, be aware of 'non-specific' findings like prolonged QTc. Specificity is key in exam questions.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "P pulmonale indicates right atrial enlargement, a direct consequence of increased right atrial pressure due to PH.",
+      "B": "Right axis deviation is a classical sign of right ventricular hypertrophy, which develops in response to chronic pressure overload in PH.",
+      "C": "RV strain pattern reflects myocardial ischemia or strain in the right ventricle due to increased workload and pressure overload, often seen in severe PH.",
+      "D": "Correct. The text explicitly states 'Prolonged QTc interval (unspecific)'. While it can occur in PH, it is not a specific indicator of right ventricular pressure overload, as it can be influenced by various other factors."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_f4de2419",
+    "question": "A 35-year-old immigrant from a tropical region presents with progressive dyspnea on exertion and fatigue. Echocardiography shows severe pulmonary hypertension. Further workup reveals no evidence of left heart disease, congenital shunts, or significant lung parenchymal disease. His laboratory tests are significant for eosinophilia and serology positive for *Schistosoma* antibodies. Based on the clinical presentation and context, this patient's pulmonary hypertension is most likely classified under which of the following categories according to the World Health Organization (WHO) classification?",
+    "options": {
+      "A": "Pulmonary hypertension due to left heart disease",
+      "B": "Pulmonary hypertension due to lung diseases and/or hypoxia",
+      "C": "Pulmonary arterial hypertension (PAH) associated with specific conditions",
+      "D": "Chronic thromboembolic pulmonary hypertension (CTEPH)"
+    },
+    "correctAnswer": "C",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The patient's clinical vignette strongly points to Schistosomiasis as the underlying cause of pulmonary hypertension, given the geographical origin, eosinophilia, and positive serology. The provided text explicitly lists 'Schistosomiasis ✓ (I) group' under 'Pulmonary Arterial Hypertension Associated with Specific Conditions'. This corresponds to WHO Group 1 PAH, where specific conditions are directly linked to the development of pulmonary arterial hypertension.",
+    "highYieldPearl": "Rio's Take: Be vigilant for contextual clues like geographical origin or specific laboratory findings (e.g., eosinophilia with travel history) that point to parasitic infections like Schistosomiasis, a key cause of Group 1 PAH.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option is incorrect as the vignette explicitly states 'no evidence of left heart disease'. PH due to left heart disease (WHO Group 2) is a common cause but excluded here.",
+      "B": "This option (WHO Group 3) is incorrect as the vignette states 'no significant lung parenchymal disease', ruling out PH due to ILD, COPD, or other lung diseases/hypoxia.",
+      "C": "Correct. Schistosomiasis is a well-established cause of Pulmonary Arterial Hypertension (PAH), classified under WHO Group 1: PAH associated with specific conditions, as per the provided text.",
+      "D": "Chronic thromboembolic pulmonary hypertension (CTEPH) (WHO Group 4) is typically diagnosed with V/Q scan showing unmatched perfusion defects. There are no clinical or investigative clues in the vignette to suggest CTEPH as the primary cause; instead, all evidence points to Schistosomiasis."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_35a093f3",
+    "question": "A 45-year-old female presents with progressive dyspnea and fatigue. Echocardiography shows evidence of right ventricular hypertrophy and an estimated pulmonary artery systolic pressure of 60 mmHg. Right heart catheterization is performed, revealing: \n* Mean Pulmonary Artery Pressure (mPAP): 35 mmHg\n* Pulmonary Artery Wedge Pressure (PAWP): 12 mmHg\n* Cardiac Output (CO): 4.0 L/min\n* Left Ventricular End Diastolic Pressure (LVEDP): 10 mmHg\n\nWhich of the following diagnoses is most consistent with these findings?",
+    "options": {
+      "A": "Pulmonary Arterial Hypertension (PAH)",
+      "B": "Pulmonary Hypertension due to Left Heart Disease",
+      "C": "Pulmonary Hypertension due to Lung Disease",
+      "D": "Chronic Thromboembolic Pulmonary Hypertension (CTEPH)"
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The diagnosis of pulmonary hypertension is confirmed by a mean pulmonary artery pressure (mPAP) greater than or equal to 25 mmHg, which is 35 mmHg in this patient. To differentiate between pre-capillary and post-capillary PH, the pulmonary artery wedge pressure (PAWP) or left ventricular end diastolic pressure (LVEDP) is crucial. A PAWP or LVEDP of less than or equal to 15 mmHg, as seen in this patient (PAWP 12 mmHg, LVEDP 10 mmHg), indicates pre-capillary pulmonary hypertension. This hemodynamic profile (mPAP ≥ 25 mmHg and PAWP ≤ 15 mmHg) defines Pulmonary Arterial Hypertension (PAH). While lung disease or CTEPH can be *causes* of pre-capillary PH, 'Pulmonary Arterial Hypertension' is the direct hemodynamic diagnosis based on these right heart catheterization findings.",
+    "highYieldPearl": "Rio's Take: Always assess mPAP first to confirm PH, then PAWP to differentiate pre-capillary (PAWP ≤ 15 mmHg) from post-capillary (PAWP > 15 mmHg) PH. This critical 2-step reasoning defines the broad categories of PH.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option correctly identifies the hemodynamic diagnosis based on the RHC criteria (mPAP ≥ 25 mmHg, PAWP ≤ 15 mmHg).",
+      "B": "Incorrect. Pulmonary hypertension due to left heart disease (Group 2 PH) is characterized by a PAWP > 15 mmHg (or LVEDP > 15 mmHg). This patient's PAWP and LVEDP are both below this threshold.",
+      "C": "Plausible but less precise. Pulmonary hypertension due to lung disease (Group 3 PH) is a *cause* of pre-capillary PH. However, the direct hemodynamic diagnosis based on the RHC values is PAH. Further clinical context and investigations would be needed to establish lung disease as the specific etiology within PAH.",
+      "D": "Plausible but less precise. Chronic Thromboembolic Pulmonary Hypertension (CTEPH, Group 4 PH) is also a *cause* of pre-capillary PH. While it fits the hemodynamic profile, CTEPH requires a V/Q scan for diagnosis. Based purely on the RHC findings, 'Pulmonary Arterial Hypertension' is the most accurate direct hemodynamic classification."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_edd9f66f",
+    "question": "A 62-year-old male presents for follow-up of newly diagnosed pulmonary hypertension. Which of the following ECG findings is most indicative of chronic pulmonary hypertension?",
+    "options": {
+      "A": "T-wave inversion in leads V5-V6",
+      "B": "Left axis deviation",
+      "C": "P wave amplitude > 0.25 mV in lead II",
+      "D": "QRS duration > 0.12 seconds"
+    },
+    "correctAnswer": "C",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "Chronic pulmonary hypertension often leads to increased pressure and workload on the right side of the heart, resulting in right atrial enlargement and right ventricular hypertrophy. P pulmonale, defined as a P wave amplitude > 0.25 mV in lead II, is a classic sign of right atrial enlargement. Other common ECG findings in PH include right or sagittal axis deviation, signs of right ventricular hypertrophy (e.g., dominant R wave in V1, R/S < 1 in V1 with R > 0.5mV), right bundle branch block (complete or incomplete), and RV strain pattern (ST depression/T-wave inversion in right precordial V1-4 and inferior leads).",
+    "highYieldPearl": "Rio's Take: P pulmonale (tall P waves in lead II) is a direct indicator of right atrial hypertrophy, a common consequence of chronic pulmonary hypertension. Remember the 'P' for 'Pulmonary' involvement.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. T-wave inversion in leads V5-V6 typically suggests left ventricular strain or ischemia, not right ventricular involvement seen in PH.",
+      "B": "Incorrect. Right or sagittal axis deviation (QRS axis > 90°) is characteristic of PH due to right ventricular hypertrophy, not left axis deviation.",
+      "C": "Correct. P wave amplitude > 0.25 mV in lead II (P pulmonale) is a direct sign of right atrial enlargement, which is commonly seen in chronic pulmonary hypertension.",
+      "D": "Plausible but less specific. A QRS duration > 0.12 seconds indicates a bundle branch block. While right bundle branch block (RBBB) can be seen in PH, this finding alone is not as specific as P pulmonale, as it could also represent left bundle branch block or other non-specific intraventricular conduction delays."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_e5a41b34",
+    "question": "A 30-year-old female presents with progressive dyspnea on exertion and syncope. Initial echocardiography suggests severe pulmonary hypertension. Right heart catheterization shows:\n* Mean Pulmonary Artery Pressure (mPAP): 40 mmHg\n* Pulmonary Artery Wedge Pressure (PAWP): 10 mmHg\n* Pulmonary Vascular Resistance (PVR): 7 Wood Units\n\nThe patient has no significant history of lung disease, left heart disease, or collagen vascular disease. Which of the following investigations would be most crucial at this stage to further narrow down the etiology of her pulmonary hypertension?",
+    "options": {
+      "A": "Cardiac MRI",
+      "B": "High-resolution CT chest (HRCT)",
+      "C": "Ventilation-Perfusion (V/Q) scan",
+      "D": "Arterial Blood Gas (ABG) analysis"
+    },
+    "correctAnswer": "C",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The right heart catheterization findings (mPAP 40 mmHg, PAWP 10 mmHg, PVR 7 WU) confirm pre-capillary pulmonary hypertension (PAH). Given the absence of a clear etiology from history (no lung disease, left heart disease, or collagen vascular disease), the next crucial step is to rule out Chronic Thromboembolic Pulmonary Hypertension (CTEPH). CTEPH is a treatable form of PH and is diagnosed by finding unmatched perfusion defects on a ventilation-perfusion (V/Q) scan. The provided text specifically highlights 'Unmatched perfusion defects' and 'V/Q scan in CTEPH', emphasizing its importance in diagnosis.",
+    "highYieldPearl": "Rio's Take: Once pre-capillary PH is confirmed by RHC and common causes are excluded by initial history, a V/Q scan is mandatory to rule out CTEPH, a potentially curable form of PH.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Plausible. Cardiac MRI is excellent for assessing right ventricular function, morphology, and hemodynamics, but it is less specific for determining the *etiology* of pre-capillary PH, especially for ruling out CTEPH.",
+      "B": "Plausible. HRCT chest is important in the workup of PH to identify interstitial lung disease, emphysema, or signs of pulmonary veno-occlusive disease (PVOD). However, for unexplained pre-capillary PH, ruling out CTEPH is often prioritized, and V/Q scan is the gold standard initial screening for CTEPH.",
+      "C": "Correct. A V/Q scan is the most crucial investigation at this stage to screen for Chronic Thromboembolic Pulmonary Hypertension (CTEPH), which is a treatable cause of pre-capillary PH and requires specific surgical or interventional management.",
+      "D": "Plausible. ABG analysis provides information on hypoxemia and hypercapnia, which can be seen in PH, but it is less direct in identifying the *cause* of pre-capillary PH compared to a V/Q scan for CTEPH, especially when primary lung disease is not strongly suspected from the history."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_7beda409",
+    "question": "A 45-year-old female presents with progressive dyspnea on exertion and fatigue. Echocardiography suggests an elevated right ventricular systolic pressure. To confirm the diagnosis of Group 1 pulmonary arterial hypertension (PAH) and differentiate it from pulmonary hypertension due to left heart disease, a right heart catheterization is performed. Which of the following hemodynamic findings would confirm the diagnosis of PAH?",
+    "options": {
+      "A": "Mean pulmonary artery pressure (PAP) ≥ 25 mmHg and pulmonary artery wedge pressure (PAWP) ≤ 15 mmHg",
+      "B": "Mean PAP ≥ 20 mmHg and PAWP ≤ 15 mmHg",
+      "C": "Mean PAP ≥ 25 mmHg and PAWP > 15 mmHg",
+      "D": "Mean PAP ≥ 30 mmHg and PAWP > 20 mmHg"
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "Right heart cardiac catheterization is the gold standard for confirming the diagnosis of pulmonary hypertension. For pulmonary arterial hypertension (PAH), specifically Group 1 PH, the diagnostic criteria are a mean pulmonary artery pressure (PAP) ≥ 25 mm Hg and a pulmonary artery wedge pressure (PAWP) or left ventricular end-diastolic pressure (LVEDP) ≤ 15 mm Hg. A PAWP > 15 mmHg would indicate pulmonary hypertension due to left heart disease (Group 2 PH).",
+    "highYieldPearl": "Rio's Take: Remember the key RHC values for PAH: Mean PAP (systolic + 2x diastolic / 3) is elevated (>=25 mmHg), and PAWP (reflecting left heart pressure) is normal (<=15 mmHg). This combination isolates the problem to the pulmonary arteries themselves.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option accurately reflects the diagnostic hemodynamic criteria for pulmonary arterial hypertension (PAH) as per standard guidelines and the provided text.",
+      "B": "The threshold for mean PAP is incorrectly low (20 mmHg instead of 25 mmHg). While PH is defined by mean PAP > 20 mmHg in some newer classifications, PAH specifically requires >=25 mmHg in the traditional definition, and the text specifies 'greater than or equal to 25 mm Hg'.",
+      "C": "This option correctly states the mean PAP threshold for PH but incorrectly presents a PAWP > 15 mmHg. A PAWP greater than 15 mmHg would classify the pulmonary hypertension as Group 2 (due to left heart disease), not PAH (Group 1).",
+      "D": "Both the mean PAP and PAWP thresholds are incorrectly high. While indicating severe PH, a PAWP > 20 mmHg would strongly suggest a left heart etiology rather than PAH."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_69ea18f3",
+    "question": "A 60-year-old male presents with long-standing progressive dyspnea and increasing exertional fatigue. On physical examination, he has an accentuated P2 heart sound. An electrocardiogram (ECG) is performed as part of his workup for suspected pulmonary hypertension. Which of the following ECG findings is most consistent with pulmonary hypertension?",
+    "options": {
+      "A": "P pulmonale with right axis deviation",
+      "B": "Left ventricular hypertrophy with left axis deviation",
+      "C": "Tall R waves in V5-V6 with inverted T waves",
+      "D": "ST elevation in the inferior leads"
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "Pulmonary hypertension primarily affects the right side of the heart, leading to right atrial and right ventricular strain and hypertrophy. Typical ECG abnormalities include P pulmonale (indicating right atrial enlargement, P wave amplitude >0.25 mV in lead II), right or sagittal axis deviation (QRS axis >90°), and signs of right ventricular hypertrophy (e.g., R/S < 1 with R >0.5 mV in V1, or R in V1 + S in V5 >1 mV). Right bundle branch block and RV strain pattern (ST depression/T-wave inversion in right precordial and inferior leads) can also be seen.",
+    "highYieldPearl": "Rio's Take: Think 'Right Heart' when you think of PH ECG findings. P pulmonale for the right atrium, right axis deviation, and signs of RVH (dominant R in V1, RV strain) for the right ventricle are classic indicators.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option correctly identifies two hallmark ECG findings of pulmonary hypertension, which are indicators of right atrial enlargement (P pulmonale) and right ventricular strain/hypertrophy (right axis deviation).",
+      "B": "Left ventricular hypertrophy and left axis deviation are indicators of left heart pathology, not typically associated with pulmonary hypertension as a primary finding.",
+      "C": "Tall R waves in V5-V6 with inverted T waves (Sokolow-Lyon criteria or strain pattern) are indicative of left ventricular hypertrophy, which points to left heart disease.",
+      "D": "ST elevation in inferior leads suggests acute myocardial ischemia or infarction in the inferior wall, which is unrelated to the typical ECG changes seen in pulmonary hypertension."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_07d490cc",
+    "question": "An obese 50-year-old male presents with excessive daytime sleepiness, loud snoring, and frequent morning headaches. Polysomnography confirms severe obstructive sleep apnea (OSA). During further evaluation, his physician considers the possibility of obesity hypoventilation syndrome (OHS). Which of the following conditions is specifically mentioned as being more common in patients with OHS compared to those with OSA alone, necessitating further assessment?",
+    "options": {
+      "A": "Pulmonary Hypertension",
+      "B": "Bronchial Asthma",
+      "C": "Gastroesophageal Reflux Disease (GERD)",
+      "D": "Type 2 Diabetes Mellitus"
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The provided text explicitly states that 'Pulmonary hypertension, cor pulmonale, and polycythemia are also more common in patients with OHS compared with patients with OSA alone.' This highlights the increased cardiovascular and hematological complications associated with the chronic hypoventilation seen in OHS, beyond the effects of simple OSA. Therefore, a patient with suspected OHS warrants evaluation for pulmonary hypertension.",
+    "highYieldPearl": "Rio's Take: In patients with OHS, remember the triad of increased risk compared to just OSA: Pulmonary Hypertension, Cor Pulmonale, and Polycythemia. These are direct consequences of chronic hypoxemia and hypercapnia.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option is directly supported by the provided text, which explicitly states that pulmonary hypertension is more common in OHS than in OSA alone. This makes it the correct answer.",
+      "B": "While asthma can coexist with sleep disorders, the text does not specifically mention it as being 'more common in patients with OHS compared with patients with OSA alone'.",
+      "C": "GERD is commonly associated with OSA due to changes in intrathoracic pressure, but the text does not differentiate its prevalence between OHS and OSA alone. The question specifically asks for a condition 'more common in OHS compared to OSA alone'.",
+      "D": "Type 2 Diabetes Mellitus is highly prevalent in obese individuals and those with OSA, but the text does not highlight it as being 'more common in OHS compared to OSA alone'. The specific distinction provided in the text is for cardiovascular and hematological complications."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_1c20fc7b",
+    "question": "A 45-year-old female presents with progressive shortness of breath, fatigue, and occasional exertional chest pain for the past 6 months. Physical examination reveals an accentuated P2 sound and a holosystolic murmur at the left lower sternal border. Echocardiography estimates a right ventricular systolic pressure of 70 mmHg and shows moderate tricuspid regurgitation, normal left ventricular ejection fraction, and no significant valvular disease. Right heart catheterization is performed.",
+    "options": {
+      "A": "Pulmonary Arterial Hypertension (PAH)",
+      "B": "Pulmonary Hypertension due to Left Heart Disease",
+      "C": "Pulmonary Hypertension due to Lung Disease",
+      "D": "Chronic Thromboembolic Pulmonary Hypertension (CTEPH)"
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The right heart catheterization findings are crucial for diagnosing and classifying pulmonary hypertension. A mean pulmonary artery pressure (mPAP) of 35 mmHg (≥ 25 mmHg) confirms the presence of pulmonary hypertension. A pulmonary artery wedge pressure (PAWP) of 10 mmHg (≤ 15 mmHg) indicates that the pulmonary hypertension is pre-capillary. A Pulmonary Vascular Resistance (PVR) of 7 Wood units (typically > 3 Wood units) further supports a pre-capillary etiology. These criteria (mPAP ≥ 25 mmHg, PAWP ≤ 15 mmHg, PVR > 3 Wood units) are the hemodynamic definition of pulmonary arterial hypertension (PAH). While CTEPH is a form of pre-capillary PH, the diagnosis of PAH based purely on hemodynamics is the most appropriate given the data. Further imaging would be needed to differentiate specific forms of PAH like CTEPH.",
+    "highYieldPearl": "Rio's Take: Remember the RHC numbers for PAH: mPAP ≥ 25 mmHg (at rest), PAWP ≤ 15 mmHg, and PVR > 3 Wood units. This classifies it as pre-capillary PH.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. The RHC values (mPAP > 25 mmHg, PAWP < 15 mmHg) precisely match the hemodynamic definition of pre-capillary pulmonary hypertension, of which PAH is a primary category.",
+      "B": "Incorrect. Pulmonary hypertension due to left heart disease (post-capillary PH) is characterized by a PAWP > 15 mmHg, which contradicts the given PAWP of 10 mmHg.",
+      "C": "Incorrect. While lung disease can cause pre-capillary PH, this diagnosis typically requires evidence of significant underlying pulmonary parenchymal or vascular disease, and the RHC values specifically point to a pre-capillary type, which could be PAH or PH due to lung disease. However, 'Pulmonary Arterial Hypertension' is a more direct and encompassing hemodynamic diagnosis based purely on the given numbers.",
+      "D": "Plausible but not the most precise answer based *solely* on the provided RHC numbers. CTEPH is a specific etiology within the PAH group. To diagnose CTEPH, a V/Q scan demonstrating unmatched perfusion defects would be required, which is not provided in the vignette. 'Pulmonary Arterial Hypertension' is the broader and more appropriate hemodynamic classification from the RHC data alone."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_6bcae9b9",
+    "question": "A 58-year-old male with long-standing obstructive sleep apnea (OSA) presents with increasing shortness of breath, fatigue, and morning headaches. Polysomnography reveals severe OSA with persistent hypercapnia and significant non-obstructive desaturations, leading to a diagnosis of Obesity Hypoventilation Syndrome (OHS). His ECG shows a P-wave amplitude of 0.28 mV in lead II, a QRS axis of +110 degrees, an R/S ratio of 1.2 in V1, and T-wave inversions in leads V1-V3 and II, III, aVF.",
+    "options": {
+      "A": "Left Ventricular Hypertrophy",
+      "B": "Acute Myocardial Infarction",
+      "C": "Pulmonary Hypertension",
+      "D": "Atrial Fibrillation"
+    },
+    "correctAnswer": "C",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The ECG findings are highly suggestive of pulmonary hypertension. A P-wave amplitude of 0.28 mV in lead II (>0.25 mV) is characteristic of P pulmonale, indicating right atrial enlargement. A QRS axis of +110 degrees (>90 degrees) signifies right axis deviation. An R/S ratio of 1.2 in V1 (>1) along with T-wave inversions in V1-V3 and inferior leads (II, III, aVF) points to right ventricular hypertrophy (RVH) and a right ventricular strain pattern. All these are classic ECG abnormalities seen in pulmonary hypertension due to the increased pressure load on the right ventricle. The clinical context of OHS is also known to frequently lead to pulmonary hypertension and cor pulmonale.",
+    "highYieldPearl": "Rio's Take: ECG signs of PH (P pulmonale, RVH, Right Axis Deviation, RV strain) indicate chronic pressure overload on the right heart, a common consequence of sustained PH.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. Left ventricular hypertrophy (LVH) has distinct ECG criteria (e.g., Sokolow-Lyon criteria involving S in V1/V2 and R in V5/V6) and would show left-sided changes, not the right-sided changes described here.",
+      "B": "Incorrect. While T-wave inversions can be seen in myocardial ischemia/infarction, the *combination* of P pulmonale, right axis deviation, and RVH pattern is far more indicative of chronic pressure overload and RV strain from pulmonary hypertension, rather than acute ischemia.",
+      "C": "Correct. The ECG abnormalities (P pulmonale, right axis deviation, RVH, RV strain pattern) are classic findings associated with pulmonary hypertension, which aligns with the patient's OHS diagnosis.",
+      "D": "Incorrect. Atrial fibrillation is an arrhythmia characterized by an irregularly irregular rhythm and absence of P waves. The description of a specific P-wave morphology (P pulmonale) contradicts this diagnosis."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_bc319044",
+    "question": "A 68-year-old male presents with progressively worsening dyspnea on exertion over 1.5 years. He denies any history of deep vein thrombosis or pulmonary embolism. Echocardiography shows severe pulmonary hypertension with signs of right ventricular dysfunction. A subsequent right heart catheterization confirms pre-capillary pulmonary hypertension (mPAP 42 mmHg, PAWP 12 mmHg, PVR 8 Wood units). Despite the lack of classic PE history, further workup is being considered to identify the etiology.",
+    "options": {
+      "A": "High-resolution computed tomography (HRCT) of the chest",
+      "B": "Ventilation-Perfusion (V/Q) scan",
+      "C": "Pulmonary angiography",
+      "D": "Genetic testing for hereditary PAH"
+    },
+    "correctAnswer": "B",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "Chronic thromboembolic pulmonary hypertension (CTEPH) must be considered in any patient with unexplained pulmonary hypertension, even in the absence of a history of acute pulmonary embolism. The Ventilation-Perfusion (V/Q) scan is the most crucial initial screening test for CTEPH because of its high sensitivity in detecting unmatched perfusion defects characteristic of chronic thromboembolic disease. A normal V/Q scan effectively rules out CTEPH. The provided context specifically mentions 'Unmatched perfusion defects V/Q scan in CTEPH.'",
+    "highYieldPearl": "Rio's Take: Always screen for CTEPH with a V/Q scan in newly diagnosed PH patients with pre-capillary hemodynamics, regardless of PE history. It's highly sensitive and often the first step.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. HRCT is excellent for diagnosing interstitial lung disease or other parenchymal pathologies causing PH, and can show signs of chronic PE, but it is not the primary screening test for CTEPH due to lower sensitivity compared to V/Q scan.",
+      "B": "Correct. V/Q scan is the recommended and most crucial initial diagnostic test for screening and differentiating CTEPH from other forms of pulmonary hypertension, particularly in a patient with pre-capillary PH of unknown etiology.",
+      "C": "Plausible but not the *initial* or *most crucial* screening test. Pulmonary angiography is the gold standard for confirming CTEPH and assessing resectability, but it is an invasive procedure typically performed after a positive V/Q scan has raised suspicion.",
+      "D": "Incorrect. Genetic testing is relevant for diagnosing hereditary forms of PAH, which is a subtype of idiopathic PAH, but it does not help differentiate CTEPH from other forms of PH."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_1a46887a",
+    "question": "A 45-year-old female presents with gradually progressive dyspnea on exertion and fatigue for 6 months. On examination, she has an elevated JVP and a loud P2. ECG shows P pulmonale, right axis deviation, and RV strain pattern. Echocardiography reveals severe tricuspid regurgitation with estimated pulmonary artery systolic pressure (PASP) of 75 mmHg, normal left ventricular ejection fraction, and no significant valvular heart disease. To confirm the diagnosis and classify her pulmonary hypertension, a right heart catheterization (RHC) is performed. Her RHC results are as follows:\n\n*   Mean Pulmonary Artery Pressure (mPAP) = 48 mmHg\n*   Pulmonary Artery Wedge Pressure (PAWP) = 12 mmHg\n*   Cardiac Output (CO) = 3.5 L/min\n*   Left Ventricular End Diastolic Pressure (LVEDP) = 10 mmHg\n\nWhich of the following diagnoses is best supported by these RHC findings?",
+    "options": {
+      "A": "Pulmonary Arterial Hypertension (PAH)",
+      "B": "Pulmonary Hypertension due to left heart disease (PH-LHD)",
+      "C": "Pulmonary Hypertension due to chronic lung disease",
+      "D": "Pulmonary Veno-occlusive Disease (PVOD)"
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The RHC criteria for Pulmonary Arterial Hypertension (PAH) are: mean pulmonary artery pressure (mPAP) ≥ 25 mmHg, pulmonary artery wedge pressure (PAWP) ≤ 15 mmHg, and pulmonary vascular resistance (PVR) > 3 Wood units. In this patient, the mPAP is 48 mmHg (which is ≥ 25 mmHg), the PAWP is 12 mmHg (which is ≤ 15 mmHg), and the LVEDP is 10 mmHg (also ≤ 15 mmHg), effectively ruling out left heart disease as the primary cause of PH. The PVR can be calculated as (mPAP - PAWP) / CO = (48 - 12) / 3.5 = 36 / 3.5 = 10.28 Wood units. This PVR is significantly elevated (>3 Wood units), confirming pre-capillary pulmonary hypertension. These findings are directly consistent with the diagnostic criteria for Pulmonary Arterial Hypertension (Group 1 PH).",
+    "highYieldPearl": "Right heart catheterization is mandatory to confirm the diagnosis of pulmonary hypertension and to differentiate pre-capillary (e.g., PAH) from post-capillary (e.g., PH-LHD) forms, as this distinction is critical for guiding therapeutic strategies. Key RHC measurements include mPAP, PAWP/LVEDP, and calculated PVR.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. The RHC findings directly fulfill the diagnostic criteria for pre-capillary pulmonary hypertension, specifically Pulmonary Arterial Hypertension (PAH), by demonstrating elevated mPAP with normal PAWP/LVEDP and high PVR.",
+      "B": "Incorrect. Pulmonary Hypertension due to left heart disease (Group 2 PH-LHD) is characterized by an elevated PAWP or LVEDP (>15 mmHg), which is not observed in this patient's RHC results (PAWP 12 mmHg, LVEDP 10 mmHg).",
+      "C": "Incorrect. While pulmonary hypertension due to chronic lung disease (Group 3 PH) is a possibility, the RHC findings alone do not differentiate Group 1 PAH from Group 3 PH caused by lung disease. However, the RHC values provide a direct classification of PAH based on pressure and resistance criteria, without additional information about lung pathology. The question asks for the diagnosis 'best supported by *these RHC findings*'.",
+      "D": "Incorrect. Pulmonary Veno-occlusive Disease (PVOD) is a rare subtype of PAH (sometimes classified as Group 1') that shares similar RHC findings with other forms of PAH (elevated mPAP, normal PAWP, high PVR). However, PVOD typically requires additional findings for diagnosis (e.g., specific imaging features, severe hypoxemia, low DLCO, or histological confirmation) and cannot be diagnosed solely based on the given RHC values. It is a plausible cause of PAH, but 'PAH' is the direct classification from the RHC numbers."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_73aaa12c",
+    "question": "A 58-year-old obese male (BMI 38 kg/m2) with a known history of severe obstructive sleep apnea (OSA) presents to the clinic complaining of worsening morning headaches, generalized fatigue, and increased daytime sleepiness despite consistent CPAP use for OSA. Physical examination reveals an elevated JVP and mild peripheral edema. Investigations show a hemoglobin of 18.5 g/dL and an echocardiogram suggests pulmonary hypertension. A prior polysomnography report from 2 years ago showed an AHI of 55 events/hour, but a recent arterial blood gas (ABG) while awake and on room air reveals a PaCO2 of 52 mmHg.\n\nWhich of the following is the most appropriate initial diagnostic step to confirm the suspected underlying diagnosis?",
+    "options": {
+      "A": "Repeat polysomnography with transcutaneous CO2 monitoring",
+      "B": "Right heart catheterization",
+      "C": "High-resolution computed tomography (HRCT) of the chest",
+      "D": "Thyroid function tests and neuromuscular evaluation"
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The patient's clinical presentation – obesity, known severe OSA, worsening symptoms including morning headaches and daytime somnolence, polycythemia, pulmonary hypertension, and awake hypercapnia (PaCO2 52 mmHg) – is highly suggestive of Obesity Hypoventilation Syndrome (OHS). OHS is characterized by awake hypercapnia (PaCO2 > 45 mmHg) in an obese individual, which is caused by sleep-disordered breathing and cannot be attributed to other causes of hypoventilation. The provided text notes that OHS patients typically manifest a >10 mmHg increase in their PaCO2 during sleep and that deep non-obstructive desaturations or lack of SpO2 recovery after an obstructive event during polysomnography (PSG) suggest underlying hypoventilation. To confirm the sleep-related hypoventilation component, which is central to OHS, a repeat polysomnography with continuous CO2 monitoring (e.g., transcutaneous or end-tidal) is the most appropriate initial diagnostic step. This will directly assess for nocturnal hypercapnia and non-obstructive hypoventilation, thereby establishing the syndrome's core pathophysiology.",
+    "highYieldPearl": "Obesity Hypoventilation Syndrome (OHS) is a diagnosis of exclusion. Its confirmation requires demonstrating sleep-related hypoventilation (typically via polysomnography with CO2 monitoring) in an obese patient with awake hypercapnia, after excluding other causes of chronic hypoventilation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. This is the most direct method to confirm the nocturnal hypoventilation aspect of OHS, which is crucial for distinguishing it from isolated OSA and confirming the hypercapnia is sleep-related.",
+      "B": "Incorrect. Right heart catheterization would precisely quantify the pulmonary hypertension, but the echocardiogram has already suggested it. It would not establish OHS as the underlying cause of the PH.",
+      "C": "Incorrect. HRCT of the chest is an important step to rule out significant primary pulmonary disease (e.g., severe COPD or interstitial lung disease) as a cause of hypoventilation. While part of the diagnostic workup for OHS (as a diagnosis of exclusion), it is not the *initial step to confirm* the sleep-related ventilatory dysfunction characteristic of OHS.",
+      "D": "Incorrect. Thyroid function tests and neuromuscular evaluation are critical to *exclude* other causes of chronic hypoventilation (e.g., severe hypothyroidism, neuromuscular disorders), as OHS is a diagnosis of exclusion. These are important for differential diagnosis and exclusion but may follow the demonstration of sleep hypoventilation, which is the defining feature of OHS in this context."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_393d229d",
+    "question": "A 60-year-old male is undergoing evaluation for progressive dyspnea and syncope. Physical examination reveals a loud P2, and an echocardiogram suggests severe pulmonary hypertension. An ECG is performed as part of the workup.\n\nWhich of the following ECG findings, if present, is considered *least specific* for the diagnosis of pulmonary hypertension?",
+    "options": {
+      "A": "P pulmonale (P wave amplitude >0.25 mV in lead II)",
+      "B": "Right axis deviation (QRS axis >90°)",
+      "C": "RV strain pattern (ST depression/T-wave inversion in V1–4 and inferior leads)",
+      "D": "Prolonged QTc interval"
+    },
+    "correctAnswer": "D",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The provided text lists \"Typical ECG abnormalities in PH\" and explicitly states \"Prolonged QTc interval (unspecific)\". The other options (P pulmonale, right axis deviation, RV strain pattern) are all characteristic ECG signs of right atrial enlargement, right ventricular hypertrophy, or right ventricular pressure/volume overload, which are direct consequences of pulmonary hypertension. A prolonged QTc interval, however, can be associated with a wide range of conditions, including electrolyte abnormalities, certain medications, genetic channelopathies, and myocardial ischemia, making it a non-specific finding in the context of pulmonary hypertension.",
+    "highYieldPearl": "While an ECG can provide clues suggesting pulmonary hypertension through signs of right heart strain and hypertrophy (e.g., P pulmonale, right axis deviation, RV strain pattern), these findings are not diagnostic and may not always be present. A prolonged QTc interval is commonly seen but is considered a non-specific finding for PH.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. P pulmonale indicates right atrial enlargement, a specific finding associated with increased right atrial pressure due to PH.",
+      "B": "Incorrect. Right axis deviation indicates right ventricular hypertrophy or dilatation, a direct consequence of increased pulmonary artery pressure in PH.",
+      "C": "Incorrect. An RV strain pattern (ST depression/T-wave inversion in specific leads) is indicative of significant right ventricular pressure overload and ischemia, a common feature in severe PH.",
+      "D": "Correct. The text specifically labels a prolonged QTc interval as 'unspecific,' meaning it lacks diagnostic specificity for pulmonary hypertension compared to the other options."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_e2b6f93e",
+    "question": "Which of the following ECG findings is NOT typically associated with pulmonary hypertension?",
+    "options": {
+      "A": "P pulmonale",
+      "B": "Right ventricular strain pattern",
+      "C": "Left axis deviation",
+      "D": "Right bundle branch block"
+    },
+    "correctAnswer": "C",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The provided text lists several typical ECG abnormalities in pulmonary hypertension, including P pulmonale, right or sagittal axis deviation (QRS axis >90°), right ventricular hypertrophy, right bundle branch block (complete or incomplete), and RV strain pattern (ST depression/T-wave inversion in right precordial and inferior leads). Left axis deviation is not mentioned as a typical finding; rather, right axis deviation is characteristic of the increased right ventricular workload in pulmonary hypertension.",
+    "highYieldPearl": "Rio's Take: Right axis deviation is a hallmark ECG sign of increased right ventricular pressure, which is central to pulmonary hypertension. Left axis deviation typically points towards left-sided cardiac issues or conduction defects.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "P pulmonale (P > 0.25 mV in lead II) is a classic finding of right atrial enlargement due to PH, as stated in the text. This is a plausible and correct association, making it an incorrect choice if looking for 'NOT associated'.",
+      "B": "RV strain pattern (ST depression/T-wave inversion in right precordial V1-4 and inferior II, III, aVF leads) reflects myocardial ischemia or injury due to chronic pressure overload on the right ventricle, and is explicitly mentioned in the text as a typical abnormality. This is a plausible and correct association.",
+      "C": "Left axis deviation is not mentioned in the text as a typical finding for PH. The text specifically states 'Right or sagittal axis deviation (QRS axis >90° or indeterminable)'. This option is designed to trap candidates who may confuse different types of axis deviation or recall other cardiac conditions.",
+      "D": "Right bundle branch block (complete or incomplete, with qR or rSR patterns in V1) is a listed typical ECG abnormality in PH, indicating conduction delay related to right ventricular enlargement or strain. This is a plausible and correct association."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_d71bf3f8",
+    "question": "According to diagnostic criteria confirmed by right heart catheterization, which of the following accurately defines Pulmonary Arterial Hypertension (PAH)?",
+    "options": {
+      "A": "Mean pulmonary artery pressure ≥ 25 mmHg and pulmonary artery wedge pressure (PAWP) ≤ 15 mmHg",
+      "B": "Mean pulmonary artery pressure ≥ 20 mmHg and pulmonary artery wedge pressure (PAWP) > 15 mmHg",
+      "C": "Mean pulmonary artery pressure ≥ 25 mmHg and pulmonary artery wedge pressure (PAWP) > 15 mmHg",
+      "D": "Mean pulmonary artery pressure ≥ 20 mmHg and pulmonary artery wedge pressure (PAWP) ≤ 15 mmHg"
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The provided text explicitly states that 'A diagnosis of PAH requires a mean pulmonary artery pressure greater than or equal to 25 mm Hg, an adequately measured PAWP or a directly recorded LVEDP of less than or equal to 15 mm Hg.' This defines pre-capillary pulmonary hypertension, which is characteristic of PAH (Group 1 PH).",
+    "highYieldPearl": "Rio's Take: Remember the 25/15 rule for PAH: Mean PAP ≥ 25 mmHg AND PAWP ≤ 15 mmHg. This clearly distinguishes pre-capillary PAH (Group 1) from post-capillary PH (Group 2, where PAWP > 15 mmHg).",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option correctly states the diagnostic criteria for PAH as per the text: mean PAP ≥ 25 mmHg and PAWP ≤ 15 mmHg, indicating pre-capillary pulmonary hypertension.",
+      "B": "This option is incorrect. The mean PAP threshold for PH is ≥ 25 mmHg, not 20 mmHg. A PAWP > 15 mmHg would suggest post-capillary PH (e.g., due to left heart disease), not PAH.",
+      "C": "This option is incorrect. While mean PAP ≥ 25 mmHg is correct, a PAWP > 15 mmHg indicates post-capillary pulmonary hypertension (Group 2), not PAH (Group 1). This is a common confusion point for distinguishing between different PH groups.",
+      "D": "This option is incorrect. The mean PAP threshold for PH is ≥ 25 mmHg, not 20 mmHg. This option correctly identifies the PAWP value for PAH but incorrectly states the mean PAP."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_4382ba1d",
+    "question": "Which of the following conditions is specifically listed as associated with Pulmonary Arterial Hypertension (PAH) in the provided context?",
+    "options": {
+      "A": "Bronchial asthma",
+      "B": "Essential hypertension",
+      "C": "Schistosomiasis",
+      "D": "Chronic Obstructive Pulmonary Disease (COPD)"
+    },
+    "correctAnswer": "C",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The section titled 'Pulmonary Arterial Hypertension Associated with Specific Conditions' explicitly lists Schistosomiasis among other conditions such as Collagen Vascular Diseases, Human Immunodeficiency Virus, Portal Hypertension, Drugs and Toxins, Pulmonary Venoocclusive Disease, and Pulmonary Capillary Hemangiomatosis. The other options, while they might have some distant relationship to pulmonary issues, are not specifically listed as direct associations with PAH in the context provided.",
+    "highYieldPearl": "Rio's Take: Schistosomiasis is a critical cause of Group 1 (PAH) in endemic regions, often tested for its specific link to pulmonary vascular disease.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Bronchial asthma is not listed as a condition specifically associated with PAH in the provided text. While severe asthma can rarely lead to PH, it is not a primary association in the context of Group 1 PAH.",
+      "B": "Essential hypertension refers to systemic high blood pressure and is not listed as a specific condition causing PAH.",
+      "C": "Schistosomiasis is directly listed in the provided context under 'Pulmonary Arterial Hypertension Associated with Specific Conditions' (specifically noted as Group I).",
+      "D": "Chronic Obstructive Pulmonary Disease (COPD) is not listed under 'Pulmonary Arterial Hypertension Associated with Specific Conditions' in the provided text. COPD causes Group 3 PH (PH due to lung diseases and/or hypoxia), which is distinct from Group 1 PAH."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_f703e210",
+    "question": "A 45-year-old male presents with progressive dyspnea and fatigue for 8 months. He has no significant past medical history. Physical examination reveals an accentuated P2 and a mild peripheral edema. An echocardiogram estimates a right ventricular systolic pressure of 65 mmHg. Right heart catheterization reveals a mean pulmonary artery pressure (mPAP) of 38 mmHg, a pulmonary artery wedge pressure (PAWP) of 12 mmHg, and a cardiac output (CO) of 4.5 L/min. Pulmonary function tests show a DLCO of 40% of predicted, with normal FEV1/FVC. High-resolution computed tomography (HRCT) of the chest shows centrilobular ground-glass opacities and thickened interlobular septa. An ECG shows RBBB and RV strain pattern. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Pulmonary Veno-occlusive Disease (PVOD)",
+      "B": "Idiopathic Pulmonary Arterial Hypertension (IPAH)",
+      "C": "Pulmonary Hypertension due to Left Ventricular Diastolic Dysfunction",
+      "D": "Chronic Thromboembolic Pulmonary Hypertension (CTEPH)"
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The patient's right heart catheterization findings (mPAP 38 mmHg, PAWP 12 mmHg) indicate pre-capillary pulmonary hypertension (mPAP >= 25 mmHg, PAWP <= 15 mmHg), classifying it as Group 1 PAH. However, the severely reduced DLCO (40% of predicted) and the HRCT findings of centrilobular ground-glass opacities and thickened interlobular septa (suggestive of pulmonary venous congestion) are highly characteristic features that differentiate Pulmonary Veno-occlusive Disease (PVOD) from other forms of PAH like IPAH. PVOD is a rare, severe form of PAH characterized by extensive occlusive remodeling of pulmonary venules and veins, leading to a unique clinical picture with features of both pre-capillary PH and pulmonary venous hypertension, despite a normal PAWP. The ECG findings of RBBB and RV strain pattern are consistent with significant right ventricular pressure overload due to severe PH.",
+    "highYieldPearl": "Rio's Take: Severely reduced DLCO, pulmonary venous congestion on HRCT (e.g., ground-glass, septal lines), and a normal PAWP in the context of pre-capillary pulmonary hypertension should strongly raise suspicion for Pulmonary Veno-occlusive Disease (PVOD), a challenging diagnosis often mistaken for IPAH.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Correct. PVOD is characterized by normal PAWP, severely reduced DLCO, and HRCT findings of pulmonary venous congestion (ground-glass, septal lines), which are all present.",
+      "B": "Incorrect. While RHC data fits Group 1 PAH, the specific PFT and HRCT findings are highly atypical for IPAH and point towards PVOD.",
+      "C": "Incorrect. Pulmonary hypertension due to left heart disease (Group 2) would manifest with a PAWP > 15 mmHg. The patient's PAWP is 12 mmHg, ruling out Group 2 PH.",
+      "D": "Incorrect. CTEPH (Group 4) is pre-capillary PH, but typically presents with unmatched perfusion defects on V/Q scan and characteristic signs of chronic thromboembolism on imaging. While DLCO can be reduced, the HRCT findings of ground-glass and septal lines are more indicative of venous congestion rather than organized thrombi or webs of CTEPH."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_cd1b1cd1",
+    "question": "A 62-year-old obese male (BMI 42 kg/m²) presents with excessive daytime sleepiness, morning headaches, and snoring. Polysomnography (PSG) reveals an AHI of 35 events/hour, with numerous obstructive events followed by incomplete SpO2 recovery. Additionally, there are episodes of sustained, non-obstructive hypoventilation with nadir SpO2 consistently below 85% for prolonged periods. Arterial blood gas (ABG) analysis on room air shows pH 7.32, PaCO2 58 mmHg, PaO2 60 mmHg, HCO3 32 mEq/L. Further workup reveals a serum TSH of 1.2 mIU/L (normal range) and normal spirometry (FEV1/FVC 0.82, FEV1 90% predicted). Neurological examination is unremarkable. Based on these findings, which of the following is the most appropriate diagnosis?",
+    "options": {
+      "A": "Obesity Hypoventilation Syndrome (OHS)",
+      "B": "Central Sleep Apnea Syndrome (CSAS)",
+      "C": "Severe Obstructive Sleep Apnea (OSA) with secondary hypoxemia",
+      "D": "Chronic Obstructive Pulmonary Disease (COPD) with hypercapnic respiratory failure"
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The patient's clinical presentation (obesity, EDS, morning headaches, snoring), polysomnography findings (OSA with sustained non-obstructive hypoventilation and incomplete SpO2 recovery), and ABG results (chronic hypercapnia and hypoxemia on room air) are all highly consistent with Obesity Hypoventilation Syndrome (OHS). OHS is a diagnosis of exclusion. The normal serum TSH, normal spirometry, and unremarkable neurological examination effectively rule out other common causes of chronic hypoventilation such as severe hypothyroidism, significant pulmonary disease (like COPD), and neuromuscular disorders, making OHS the most appropriate diagnosis.",
+    "highYieldPearl": "Rio's Take: The diagnosis of OHS hinges on sustained hypercapnia (PaCO2 > 45 mmHg) in an obese individual, coexisting with sleep-disordered breathing (often OSA), *after excluding other causes of hypoventilation* (e.g., lung disease, neuromuscular disease, hypothyroidism). PSG often shows an OSA component plus periods of non-obstructive hypoventilation with poor SpO2 recovery.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Correct. All criteria for OHS are met: obesity, daytime hypercapnia, OSA on PSG, and exclusion of other causes of hypoventilation (normal TSH, spirometry, neuro exam).",
+      "B": "Incorrect. While there are non-obstructive hypoventilation episodes, CSAS is primarily characterized by repetitive cessation of airflow due to absence of central respiratory effort, typically without an obstructive component or chronic wakefulness hypercapnia unless it's a specific form of central hypoventilation. The mixed obstructive and hypoventilation pattern in an obese patient with daytime hypercapnia points more directly to OHS.",
+      "C": "Incorrect. While the patient has severe OSA (AHI 35), the presence of chronic hypercapnia (PaCO2 58 mmHg) during wakefulness and sustained non-obstructive hypoventilation on PSG go beyond what is typically seen in isolated OSA, indicating an underlying hypoventilation syndrome.",
+      "D": "Incorrect. This is ruled out by the normal spirometry findings (FEV1/FVC 0.82, FEV1 90% predicted). Significant pulmonary disease must be excluded before diagnosing OHS."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_15d8a8dc",
+    "question": "A 38-year-old female with a known history of systemic sclerosis presents with progressive dyspnea on exertion. Echocardiography shows evidence of severe pulmonary hypertension. Right heart catheterization is performed, revealing the following parameters:\n*   Mean Pulmonary Artery Pressure (mPAP): 48 mmHg\n*   Pulmonary Artery Wedge Pressure (PAWP): 10 mmHg\n*   Cardiac Output (CO): 3.5 L/min\n*   Left Ventricular End Diastolic Pressure (LVEDP): 9 mmHg\n\nWhich of the following statements best characterizes this patient's condition and the associated pulmonary vascular resistance (PVR)?",
+    "options": {
+      "A": "Pulmonary Arterial Hypertension (PAH) with a PVR of 10.8 Wood units.",
+      "B": "Pulmonary Hypertension due to Left Heart Disease with a PVR of 13.7 Wood units.",
+      "C": "Chronic Thromboembolic Pulmonary Hypertension (CTEPH) with a PVR of 16.5 Wood units.",
+      "D": "Pulmonary Hypertension with combined pre- and post-capillary features and a PVR of 11.2 Wood units."
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "First, calculate the Pulmonary Vascular Resistance (PVR):\nPVR = (mPAP - PAWP) / CO\nPVR = (48 mmHg - 10 mmHg) / 3.5 L/min\nPVR = 38 / 3.5 = 10.857 Wood units, which rounds to approximately 10.8 Wood units.\n\nNext, classify the pulmonary hypertension based on the RHC parameters:\n1.  mPAP is 48 mmHg, which is >= 25 mmHg, confirming pulmonary hypertension.\n2.  PAWP is 10 mmHg (and LVEDP is 9 mmHg), both of which are <= 15 mmHg. This indicates pre-capillary pulmonary hypertension.\n3.  Given the pre-capillary nature (mPAP >= 25, PAWP <= 15) and the patient's underlying systemic sclerosis (a collagen vascular disease, a known associated condition for Group 1 Pulmonary Arterial Hypertension), the diagnosis is Pulmonary Arterial Hypertension (PAH).\n\nOption A correctly identifies the condition as PAH and provides the accurate PVR calculation.",
+    "highYieldPearl": "Rio's Take: RHC interpretation for PH classification requires precise application of mPAP and PAWP/LVEDP cutoffs. Pre-capillary PH (PAH, CTEPH, ILD-PH) has PAWP <= 15 mmHg; post-capillary PH (Left Heart Disease) has PAWP > 15 mmHg. PVR = (mPAP - PAWP)/CO is essential for management and prognostication.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Correct. The RHC parameters (mPAP > 25, PAWP <= 15) define pre-capillary PH, specifically PAH given systemic sclerosis. The PVR calculation (10.8 Wood units) is accurate.",
+      "B": "Incorrect. Pulmonary Hypertension due to Left Heart Disease (Group 2) would be characterized by a PAWP > 15 mmHg. Here, PAWP is 10 mmHg. The PVR calculation is also incorrect.",
+      "C": "Incorrect. While CTEPH (Group 4) is pre-capillary, there is no specific evidence presented to suggest it over PAH associated with systemic sclerosis. The PVR calculation is also incorrect.",
+      "D": "Incorrect. PH with combined pre- and post-capillary features would typically involve an elevated PAWP (>15 mmHg) along with elevated PVR, which is not the case here as PAWP is normal. The PVR calculation is also incorrect."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_09bfacae",
+    "question": "A 45-year-old female presents with progressive dyspnea on exertion. Echocardiography suggests elevated pulmonary artery pressures. A right heart catheterization is performed. Which of the following hemodynamic profiles confirms a diagnosis of Pulmonary Arterial Hypertension (PAH)?",
+    "options": {
+      "A": "Mean pulmonary artery pressure 28 mmHg, Pulmonary artery wedge pressure (PAWP) 12 mmHg, Cardiac output 4.5 L/min",
+      "B": "Mean pulmonary artery pressure 22 mmHg, Pulmonary artery wedge pressure (PAWP) 10 mmHg, Cardiac output 5.0 L/min",
+      "C": "Mean pulmonary artery pressure 32 mmHg, Pulmonary artery wedge pressure (PAWP) 18 mmHg, Cardiac output 4.0 L/min",
+      "D": "Mean pulmonary artery pressure 26 mmHg, Pulmonary artery wedge pressure (PAWP) 16 mmHg, Cardiac output 5.2 L/min"
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The diagnostic criteria for Pulmonary Arterial Hypertension (PAH) via right heart catheterization include a mean pulmonary artery pressure (mPAP) of greater than or equal to 25 mmHg at rest, in conjunction with a pulmonary artery wedge pressure (PAWP) or left ventricular end-diastolic pressure (LVEDP) of less than or equal to 15 mmHg, and a pulmonary vascular resistance (PVR) > 3 Wood Units (though PVR is not provided in options, the mPAP and PAWP are key differentiating factors for PAH from other forms of PH). Option A correctly meets these criteria (mPAP 28 mmHg ≥ 25 mmHg, PAWP 12 mmHg ≤ 15 mmHg).",
+    "highYieldPearl": "Rio's Take: Remember the key hemodynamic thresholds for PAH diagnosis: mPAP ≥ 25 mmHg and PAWP ≤ 15 mmHg. This differentiates pre-capillary PAH from post-capillary PH due to left heart disease.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option correctly matches the hemodynamic criteria for PAH (mPAP >= 25 mmHg and PAWP <= 15 mmHg).",
+      "B": "The mean pulmonary artery pressure (22 mmHg) is below the diagnostic threshold of 25 mmHg for PH.",
+      "C": "The pulmonary artery wedge pressure (18 mmHg) is above 15 mmHg, indicating pulmonary hypertension secondary to left heart disease (post-capillary PH), not pre-capillary PAH.",
+      "D": "The pulmonary artery wedge pressure (16 mmHg) is above 15 mmHg, indicating pulmonary hypertension secondary to left heart disease (post-capillary PH), not pre-capillary PAH."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_0eaf66a2",
+    "question": "All of the following conditions are recognized as associated with Group 1 Pulmonary Arterial Hypertension (PAH) in the current WHO classification, EXCEPT:",
+    "options": {
+      "A": "Systemic sclerosis",
+      "B": "Portal hypertension",
+      "C": "Schistosomiasis",
+      "D": "Pulmonary vein thrombosis"
+    },
+    "correctAnswer": "D",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "Group 1 Pulmonary Arterial Hypertension (PAH) includes conditions like idiopathic PAH, heritable PAH, drug- and toxin-induced PAH, and PAH associated with connective tissue diseases (e.g., systemic sclerosis), HIV infection, portal hypertension, congenital heart disease, and schistosomiasis. Pulmonary vein thrombosis, while a cause of pulmonary hypertension, typically leads to Group 2 PH (due to left-sided heart disease/post-capillary obstruction) or sometimes Group 4 PH (chronic thromboembolic PH, if it leads to chronic occlusive disease of the larger pulmonary veins, which is rare) or can be a feature of Pulmonary Veno-Occlusive Disease (PVOD) which is a specific subtype of Group 1 PAH (Group 1'). However, 'pulmonary vein thrombosis' as a general entity is not classified as an associated condition causing Group 1 PAH in the same manner as the other options.",
+    "highYieldPearl": "Rio's Take: Differentiate between the WHO groups of PH. Pulmonary vein thrombosis or stenosis primarily causes Group 2 PH (post-capillary due to left heart disease), while conditions like systemic sclerosis, portal hypertension, and schistosomiasis are classic examples of Group 1 PAH.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Systemic sclerosis is a well-established connective tissue disease associated with Group 1 PAH.",
+      "B": "Portal hypertension is a recognized associated condition for Group 1 PAH.",
+      "C": "Schistosomiasis is a significant cause of Group 1 PAH, particularly in endemic regions.",
+      "D": "Pulmonary vein thrombosis typically results in Group 2 Pulmonary Hypertension (post-capillary PH) due to obstruction of pulmonary venous outflow, distinct from Group 1 Pulmonary Arterial Hypertension. While Pulmonary Veno-Occlusive Disease (PVOD) is a rare form of PAH (Group 1'), 'pulmonary vein thrombosis' as a general finding is not directly classified under the associated conditions of Group 1 PAH."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_504b1a81",
+    "question": "A 58-year-old patient with known interstitial lung disease presents for evaluation of worsening dyspnea. An ECG is performed as part of the workup for suspected pulmonary hypertension. All of the following are typical ECG abnormalities that may be observed in chronic pulmonary hypertension, EXCEPT:",
+    "options": {
+      "A": "P pulmonale",
+      "B": "Right axis deviation",
+      "C": "RV strain pattern",
+      "D": "Left ventricular hypertrophy with strain pattern"
+    },
+    "correctAnswer": "D",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "Chronic pulmonary hypertension primarily affects the right side of the heart, leading to right atrial and right ventricular overload and hypertrophy. Typical ECG findings reflect these changes: P pulmonale (indicating right atrial enlargement), right axis deviation (due to right ventricular hypertrophy), and RV hypertrophy (e.g., R/S < 1 in V1 or dominant R in V1) and RV strain pattern (ST depression/T-wave inversion in right precordial and inferior leads). Left ventricular hypertrophy with a strain pattern, however, indicates chronic pressure overload of the left ventricle, which is typically seen in systemic hypertension or aortic stenosis, and is not a direct ECG manifestation of pulmonary hypertension.",
+    "highYieldPearl": "Rio's Take: ECG changes in PH are primarily related to right heart strain and hypertrophy. Always think 'right-sided' when interpreting ECGs in PH patients.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "P pulmonale (P wave amplitude > 0.25 mV in lead II) is a classic ECG sign of right atrial enlargement, commonly seen in PH.",
+      "B": "Right axis deviation (QRS axis > 90°) indicates right ventricular hypertrophy and increased right ventricular forces, typical of PH.",
+      "C": "RV strain pattern (ST depression and T-wave inversion in the right precordial leads V1-V4 and inferior leads II, III, aVF) is a direct sign of right ventricular pressure overload and ischemia, characteristic of PH.",
+      "D": "Left ventricular hypertrophy with strain pattern reflects chronic left ventricular pressure overload, typically caused by conditions like systemic hypertension or aortic stenosis, and is not a direct ECG finding of pulmonary hypertension, which primarily impacts the right ventricle."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_53388d83",
+    "question": "A 45-year-old woman presents with gradually progressive dyspnea on exertion and fatigue for the past 8 months. She denies orthopnea or paroxysmal nocturnal dyspnea. Physical examination reveals an elevated jugular venous pressure, a loud pulmonic component of the second heart sound (P2), and peripheral edema. An ECG shows P pulmonale, right axis deviation, and an RV strain pattern. Transthoracic echocardiography estimates a pulmonary artery systolic pressure of 65 mmHg. Right heart catheterization is performed. Which of the following findings would definitively confirm a diagnosis of Group 1 Pulmonary Arterial Hypertension (PAH)?",
+    "options": {
+      "A": "Mean pulmonary artery pressure (mPAP) 32 mmHg and pulmonary artery wedge pressure (PAWP) 11 mmHg",
+      "B": "Mean pulmonary artery pressure (mPAP) 24 mmHg and pulmonary artery wedge pressure (PAWP) 10 mmHg",
+      "C": "Mean pulmonary artery pressure (mPAP) 30 mmHg and left ventricular end diastolic pressure (LVEDP) 18 mmHg",
+      "D": "Pulmonary vascular resistance (PVR) 3.5 Wood Units and cardiac output (CO) 4.0 L/min"
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Hypertension - Diagnosis",
+    "deepDiveExplanation": "The clinical vignette describes classic symptoms (progressive dyspnea, fatigue) and signs (elevated JVP, loud P2, peripheral edema) highly suggestive of pulmonary hypertension. The ECG findings (P pulmonale, right axis deviation, RV strain) further support right ventricular overload, consistent with pulmonary hypertension. Transthoracic echocardiography showing an estimated pulmonary artery systolic pressure of 65 mmHg indicates a high probability of PH.\n\nRight heart catheterization (RHC) is the gold standard for the definitive diagnosis and classification of pulmonary hypertension. According to the provided context, 'A diagnosis of PAH requires a mean pulmonary artery pressure greater than or equal to 25 mm Hg, an adequately measured PAWP or a directly recorded LVEDP of less than or equal to 15 mm Hg'. This defines pre-capillary PH, which includes Group 1 Pulmonary Arterial Hypertension (PAH).\n\nLet's evaluate the options:\n*   **A) mPAP 32 mmHg (≥25 mmHg) and PAWP 11 mmHg (≤15 mmHg):** This option perfectly aligns with the diagnostic criteria for Group 1 PAH (pre-capillary PH). An elevated mean pulmonary artery pressure with a normal or low pulmonary artery wedge pressure signifies a primary problem originating in the pulmonary arteries themselves.\n*   **B) mPAP 24 mmHg (<25 mmHg) and PAWP 10 mmHg:** A mean pulmonary artery pressure of 24 mmHg does not meet the diagnostic threshold of ≥25 mmHg for pulmonary hypertension as per the provided definition.\n*   **C) mPAP 30 mmHg (≥25 mmHg) and LVEDP 18 mmHg (>15 mmHg):** While the mPAP is elevated, the LVEDP of 18 mmHg is also elevated (>15 mmHg). This indicates post-capillary pulmonary hypertension, which is typically Group 2 PH (PH due to left heart disease), not Group 1 PAH. The context states 'measurement of the left ventricular end diastolic pressure (LVEDP) is important to exclude left atrial hypertension' for PAH.\n*   **D) PVR 3.5 Wood Units and CO 4.0 L/min:** An elevated Pulmonary Vascular Resistance (PVR, typically >3 Wood Units) is characteristic of PAH and is calculated during RHC. However, the primary diagnostic criteria explicitly stated in the provided context for *confirming* PAH are based on mPAP and PAWP/LVEDP thresholds. While PVR is a crucial parameter, its value alone, without the mPAP and PAWP, is not the definitive diagnostic criteria presented for Group 1 PAH.",
+    "highYieldPearl": "Rio's Take: The definitive diagnosis of Group 1 Pulmonary Arterial Hypertension (PAH) requires right heart catheterization demonstrating a mean pulmonary artery pressure (mPAP) ≥25 mmHg AND a pulmonary artery wedge pressure (PAWP) or left ventricular end diastolic pressure (LVEDP) ≤15 mmHg. This combination signifies a pre-capillary pulmonary vascular disease.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct option. It meets both critical criteria for Group 1 PAH: elevated mean PA pressure (≥25 mmHg) and normal/low wedge pressure (≤15 mmHg), indicating pre-capillary PH.",
+      "B": "This option is a trap for misremembering the mean PAP threshold. An mPAP of 24 mmHg does not meet the diagnostic criterion of ≥25 mmHg for any form of PH, including PAH, as per the given context.",
+      "C": "This is a strong distractor. While the mean PAP is elevated (30 mmHg), the elevated LVEDP (18 mmHg, which implies an elevated PAWP) indicates that the pulmonary hypertension is due to left heart disease (Group 2 PH), not Group 1 PAH. The question specifically asks for Group 1 PAH, which is characterized by a normal PAWP/LVEDP.",
+      "D": "This option uses PVR, which is an important secondary measurement in PH but not the primary *definitive diagnostic criteria* for PAH as explicitly defined in the provided context (which focuses on mPAP and PAWP/LVEDP thresholds). While a high PVR is expected in PAH, without the accompanying mPAP and PAWP, it's not the complete diagnostic picture as per the definition given."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_e44258ca",
+    "question": "A 55-year-old male with severe ARDS and pulmonary hypertension develops refractory hypoxemia despite optimized mechanical ventilation. Inhaled vasodilators are being considered as a rescue therapy. Which of the following statements regarding inhaled vasodilators in this clinical scenario is LEAST accurate?",
+    "options": {
+      "A": "They primarily improve V/Q matching by preferentially dilating pulmonary vessels perfusing functioning alveoli.",
+      "B": "An increase in PaO2/FiO2 ratio by 10% within 24 hours can be considered a significant physiological response.",
+      "C": "Their routine use is recommended in ARDS patients with pulmonary hypertension to reduce mortality.",
+      "D": "Inhaled prostacyclins offer comparable physiological benefits to inhaled nitric oxide at a lower cost."
+    },
+    "correctAnswer": "C",
+    "topic": "Pulmonary Hypertension - Treatment",
+    "deepDiveExplanation": "Inhaled vasodilators, such as prostacyclins or nitric oxide, are known to provide important physiological benefits in ARDS patients with pulmonary hypertension, including improved hypoxemia, lower pulmonary arterial pressure, and enhanced right-ventricular function and cardiac output, without systemic hemodynamic effects. Their mechanism of action involves preferential dilation of pulmonary vessels that perfuse functioning alveoli, thereby improving ventilation/perfusion matching. A significant physiological response is defined as an increase in the PaO2/FiO2 ratio by 10% within 24 hours. While they can be considered as rescue therapy for severe refractory hypoxemia, the text explicitly states that 'Mortality benefit- yet to be proven, no role for routine use.' Therefore, recommending their routine use for mortality reduction is inaccurate.",
+    "highYieldPearl": "Rio's Take: Inhaled vasodilators offer acute physiological benefits and can serve as rescue therapy in refractory ARDS with PH, but current evidence does not support a mortality benefit or routine use.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This statement is accurate, describing the core mechanism of action of inhaled vasodilators as per the provided text.",
+      "B": "This statement is accurate, directly quoting the criteria for a significant physiological response to inhaled vasodilators from the text.",
+      "C": "This is the LEAST accurate statement. The text clearly indicates 'Mortality benefit - yet to be proven, no role for routine use.' This option attempts to misrepresent their established role by suggesting routine use for mortality reduction.",
+      "D": "This statement is accurate. The text explicitly mentions 'Inhaled prostacyclins are as effective physiologically as Inhaled NO and cost less.'"
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_e04fafcf",
+    "question": "A 48-year-old male with moderate ARDS is intubated and undergoing mechanical ventilation. The treating team aims to implement an ultraprotective lung ventilation strategy with very low tidal volumes to optimize driving pressure. Which of the following statements best describes the primary role of Extracorporeal CO2 Removal (ECCO2R) in this scenario?",
+    "options": {
+      "A": "To directly improve oxygenation and reduce the need for high positive end-expiratory pressure (PEEP) levels.",
+      "B": "To manage acute hypercapnia and respiratory acidosis that may result from ultra-low tidal volume ventilation.",
+      "C": "To reduce pulmonary arterial pressure and improve right ventricular function by decreasing CO2-induced vasoconstriction.",
+      "D": "To facilitate early extubation by offloading the respiratory workload and promoting lung recovery."
+    },
+    "correctAnswer": "B",
+    "topic": "Pulmonary Hypertension - Treatment",
+    "deepDiveExplanation": "The primary goal of ECCO2R in the context of ultraprotective lung ventilation for ARDS is to mitigate the adverse effects of severe hypercapnia and respiratory acidosis. While ultra-low tidal volume ventilation is beneficial for lung protection (reducing driving pressure and plateau pressure), it can lead to significant hypercapnia, which in turn can cause increased intracranial pressure, pulmonary hypertension, decreased myocardial contractility, reduced renal blood flow, and catecholamine release. ECCO2R allows for the removal of CO2 from the patient's blood, thereby enabling the use of these ultraprotective strategies without the detrimental consequences of severe hypercapnia. The European experts' consensus highlighted that the main treatment goal of ECCO2R in ARDS was to 'carry out ultraprotective lung ventilation through handling CO2 levels.'",
+    "highYieldPearl": "Rio's Take: ECCO2R's primary utility in ARDS is to enable ultraprotective lung ventilation by effectively managing the hypercapnia and acidosis that often result from very low tidal volumes, thereby allowing for optimization of driving pressure.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "While ECCO2R can indirectly impact oxygenation by allowing better lung protection, its primary role is not direct oxygenation improvement, but rather CO2 removal. It is also not primarily indicated to reduce PEEP levels.",
+      "B": "This is the most accurate statement. The text explicitly links ECCO2R to 'effectively manage acute hypercapnia and respiratory acidosis that can result from lung-protective mechanical ventilation strategies' to 'carry out ultraprotective lung ventilation through handling CO2 levels.'",
+      "C": "Acute hypercapnia *can* cause pulmonary hypertension (as noted in the text), but ECCO2R's primary stated role in this context is to *enable* ultraprotective ventilation by managing CO2, not directly treating pulmonary arterial hypertension as its main indication. This is a secondary benefit of CO2 normalization, not the primary stated goal for ECCO2R introduction.",
+      "D": "While ECCO2R may contribute to overall lung recovery and potentially facilitate extubation in the long term, its primary role as described in the context of ultraprotective ventilation is to manage acute hypercapnia and acidosis to allow for safe implementation of these ventilation strategies. This option describes a potential downstream effect, not the immediate primary rationale for its use in ultra-low TV settings."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lam_dffcc45d",
+    "question": "A 60-year-old female with Systemic Sclerosis (SSc) presents with worsening dyspnea. Her diagnostic workup reveals significant pulmonary involvement. Considering the information provided, which of the following statements regarding the management and characteristics of SSc-associated pulmonary complications is most accurate?",
+    "options": {
+      "A": "Mycophenolate mofetil is the preferred agent for isolated SSc-PAH due to its superior tolerability profile.",
+      "B": "Nintedanib has demonstrated a reduction in the annual rate of FVC decline in SSc-ILD, similar to its role in Idiopathic Pulmonary Fibrosis.",
+      "C": "Pulmonary arterial hypertension in SSc is characterized by plexiform lesions and fibrinoid necrosis, distinguishing it from idiopathic PAH.",
+      "D": "In SSc, a disproportionately greater reduction of lung volumes compared to diffusing capacity (DLCO) is highly suggestive of coexisting pulmonary arterial hypertension."
+    },
+    "correctAnswer": "B",
+    "topic": "Pulmonary Hypertension - Treatment",
+    "deepDiveExplanation": "Mycophenolate mofetil is used for SSc-associated interstitial lung disease (ILD), showing improvement in FVC percent predicted and superior tolerability. For SSc-associated pulmonary arterial hypertension (PAH), treatments include continuous intravenous prostacyclin, PDE5 inhibitors, and ERAs. Nintedanib, originally approved for idiopathic pulmonary fibrosis (IPF), has been shown to reduce the annual rate of decline in FVC in SSc-ILD. Histologically, SSc-PAH involves concentric fibrosis of small arterioles but notably *lacks* the plexiform lesions and fibrinoid necrosis seen in idiopathic PAH. A key diagnostic clue for PAH in SSc is a disproportionately greater reduction of DLCO when compared with lung volumes.",
+    "highYieldPearl": "Rio's Take: Differentiate SSc-ILD treatments (Mycophenolate, Nintedanib) from SSc-PAH treatments (Prostacyclins, PDE5i, ERA). Remember that SSc-PAH lacks plexiform lesions and has a characteristic DLCO/lung volume disproportion.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This statement is inaccurate. Mycophenolate mofetil is a primary treatment for SSc-ILD, not isolated SSc-PAH. For SSc-PAH, the text lists continuous intravenous prostacyclin, PDE5 inhibitors, and ERAs.",
+      "B": "This statement is accurate. The text states: 'In an international, multicenter, randomized, placebo-controlled trial, nintedanib, which was originally approved for the treatment of idiopathic pulmonary fibrosis, reduced the annual rate of decline in FVC.' This refers to its use in SSc-ILD.",
+      "C": "This statement is inaccurate. The text explicitly mentions that in SSc-PAH, 'the plexiform lesions and fibrinoid necrosis of idiopathic PAH are NOT seen.' This option describes the opposite.",
+      "D": "This statement is inaccurate. The text states: 'A disproportionally greater reduction of the diffusing capacity (DLCO), when compared with lung volumes, most likely indicates the presence of pulmonary arterial hypertension'. This option reverses the ratio, making it incorrect."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "**LYMPHANGIOLEIOMYOMATOSIS**",
+      "section": "INTRODUCTION",
+      "pageNumber": 215
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_584",
+    "generatedAt": 1767060988496,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "The characteristic immunohistochemical marker for lymphangioleiomyomatosis (LAM) cells is?",
+    "options": {
+      "A": "CD68",
+      "B": "S100",
+      "C": "HMB-45",
+      "D": "CK-7"
+    },
+    "correctAnswer": "C",
+    "topic": "lam",
+    "deepDiveExplanation": "Lymphangioleiomyomatosis (LAM) cells are abnormal smooth muscle-like cells that pathognomonically express melanocytic markers, most notably HMB-45 (human melanoma black-45). HMB-45 recognizes the gp100 protein and is crucial for the histological diagnosis of LAM, differentiating it from other cystic lung diseases.",
+    "highYieldPearl": "HMB-45 positivity is a key diagnostic immunohistochemical feature for LAM cells.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "CD68 is a marker for macrophages, S100 for neural crest-derived cells (e.g., melanoma, schwannoma), and CK-7 for epithelial cells. Only HMB-45 is specific for LAM cells in this context.",
+    "isOneLiner": true,
+    "id": "one_liner_lam_672c0r8i"
+  },
+  {
+    "question": "The primary therapeutic agent targeting mTOR pathway in Lymphangioleiomyomatosis (LAM) is?",
+    "options": {
+      "A": "Pirfenidone",
+      "B": "Nintedanib",
+      "C": "Sirolimus",
+      "D": "Azithromycin"
+    },
+    "correctAnswer": "C",
+    "topic": "lam",
+    "deepDiveExplanation": "Sirolimus (rapamycin) is an mTOR (mammalian target of rapamycin) inhibitor, which has been shown to stabilize lung function, reduce chylous effusions, and improve quality of life in patients with LAM. It targets the dysregulated mTOR pathway, a key driver of LAM cell proliferation and survival. Everolimus is another mTOR inhibitor used for LAM, particularly in the context of Tuberous Sclerosis Complex.",
+    "highYieldPearl": "mTOR inhibitors (Sirolimus/Everolimus) are the current standard medical treatment for LAM.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Pirfenidone and Nintedanib are antifibrotic drugs used for Idiopathic Pulmonary Fibrosis. Azithromycin has anti-inflammatory properties but is not a primary targeted therapy for LAM.",
+    "isOneLiner": true,
+    "id": "one_liner_lam_ga8wcue8"
+  },
+  {
+    "question": "The characteristic immunohistochemical marker for lymphangioleiomyomatosis (LAM) cells is?",
+    "options": {
+      "A": "CD68",
+      "B": "S100",
+      "C": "HMB-45",
+      "D": "CK-7"
+    },
+    "correctAnswer": "C",
+    "topic": "lam",
+    "deepDiveExplanation": "Lymphangioleiomyomatosis (LAM) cells are abnormal smooth muscle-like cells that pathognomonically express melanocytic markers, most notably HMB-45 (human melanoma black-45). HMB-45 recognizes the gp100 protein and is crucial for the histological diagnosis of LAM, differentiating it from other cystic lung diseases.",
+    "highYieldPearl": "HMB-45 positivity is a key diagnostic immunohistochemical feature for LAM cells.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "CD68 is a marker for macrophages, S100 for neural crest-derived cells (e.g., melanoma, schwannoma), and CK-7 for epithelial cells. Only HMB-45 is specific for LAM cells in this context.",
+    "isOneLiner": true,
+    "id": "one_liner_lam_4fxs8mf0"
+  },
+  {
+    "question": "The primary therapeutic agent targeting mTOR pathway in Lymphangioleiomyomatosis (LAM) is?",
+    "options": {
+      "A": "Pirfenidone",
+      "B": "Nintedanib",
+      "C": "Sirolimus",
+      "D": "Azithromycin"
+    },
+    "correctAnswer": "C",
+    "topic": "lam",
+    "deepDiveExplanation": "Sirolimus (rapamycin) is an mTOR (mammalian target of rapamycin) inhibitor, which has been shown to stabilize lung function, reduce chylous effusions, and improve quality of life in patients with LAM. It targets the dysregulated mTOR pathway, a key driver of LAM cell proliferation and survival. Everolimus is another mTOR inhibitor used for LAM, particularly in the context of Tuberous Sclerosis Complex.",
+    "highYieldPearl": "mTOR inhibitors (Sirolimus/Everolimus) are the current standard medical treatment for LAM.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Pirfenidone and Nintedanib are antifibrotic drugs used for Idiopathic Pulmonary Fibrosis. Azithromycin has anti-inflammatory properties but is not a primary targeted therapy for LAM.",
+    "isOneLiner": true,
+    "id": "one_liner_lam_5qj7hlxp"
+  }
+]

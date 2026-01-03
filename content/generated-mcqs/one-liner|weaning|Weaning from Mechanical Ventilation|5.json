@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Which index is calculated as respiratory frequency divided by tidal volume (f/VT) during a spontaneous breathing trial?",
+    "options": {
+      "A": "CROP index",
+      "B": "RSBI",
+      "C": "P0.1",
+      "D": "NIF"
+    },
+    "correctAnswer": "B",
+    "topic": "weaning",
+    "deepDiveExplanation": "The Rapid Shallow Breathing Index (RSBI), calculated as respiratory rate (f) divided by tidal volume (VT) in liters, is a widely used predictor of extubation success. A value < 105 breaths/min/L during a spontaneous breathing trial suggests a higher likelihood of successful extubation as it reflects the efficiency of breathing.",
+    "highYieldPearl": "An RSBI < 105 is one of the strongest predictors for successful extubation in many patient populations.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Distractors like CROP index (Compliance, Rate, Oxygenation, Pressure) and NIF (Negative Inspiratory Force) are also weaning predictors but are calculated using different parameters. P0.1 measures respiratory drive, not directly f/VT.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|weaning|Weaning from Mechanical Ventilation|5_w48lyn8r"
+  },
+  {
+    "question": "What is the typical minimum duration for a spontaneous breathing trial (SBT) to assess extubation readiness?",
+    "options": {
+      "A": "15 minutes",
+      "B": "30 minutes",
+      "C": "60 minutes",
+      "D": "120 minutes"
+    },
+    "correctAnswer": "B",
+    "topic": "weaning",
+    "deepDiveExplanation": "A spontaneous breathing trial (SBT) is the gold standard for assessing readiness for extubation. While protocols vary, a minimum duration of 30 minutes (often up to 120 minutes) is commonly used. Shorter trials may miss patients who fail later due to respiratory muscle fatigue, while excessively long trials may unnecessarily exhaust the patient.",
+    "highYieldPearl": "The optimal SBT duration balances sensitivity for failure detection with avoiding unnecessary patient distress; 30-120 minutes is the generally accepted range.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Shorter durations (e.g., 15 minutes) are often considered insufficient, while 60 or 120 minutes are also used, but 30 minutes is widely accepted as a minimum for a robust assessment of readiness.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|weaning|Weaning from Mechanical Ventilation|5_isxe9g90"
+  },
+  {
+    "question": "Weaning failure is defined as reintubation within how many hours of planned extubation?",
+    "options": {
+      "A": "12",
+      "B": "24",
+      "C": "48",
+      "D": "72"
+    },
+    "correctAnswer": "C",
+    "topic": "weaning",
+    "deepDiveExplanation": "Weaning failure is conventionally defined as the need for reintubation within 48-72 hours of planned extubation. While some studies use 72 hours, 48 hours is a commonly cited and stricter definition that helps standardize research and clinical practice regarding extubation outcomes.",
+    "highYieldPearl": "Reintubation within 48-72 hours post-extubation is the standard definition of weaning failure.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Other timeframes might seem plausible, but 48-72 hours (with 48 hours being a very common benchmark) is the most widely accepted standard in critical care literature for defining weaning failure.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|weaning|Weaning from Mechanical Ventilation|5_27eud5rq"
+  },
+  {
+    "question": "An elevated P0.1 (airway occlusion pressure at 0.1 seconds) during an SBT indicates which of the following?",
+    "options": {
+      "A": "Increased respiratory drive",
+      "B": "Reduced respiratory drive",
+      "C": "Increased respiratory muscle strength",
+      "D": "Decreased work of breathing"
+    },
+    "correctAnswer": "A",
+    "topic": "weaning",
+    "deepDiveExplanation": "P0.1, or airway occlusion pressure at 0.1 seconds, is a non-invasive measure of central respiratory drive and inspiratory effort. It is measured by briefly occluding the airway at the beginning of inspiration. An elevated P0.1 (typically >4-6 cmH2O) during an SBT indicates increased respiratory drive, suggesting a high work of breathing or respiratory muscle fatigue, and is a predictor of SBT failure.",
+    "highYieldPearl": "A high P0.1 indicates increased respiratory drive and inspiratory effort, often predictive of SBT failure due to excessive load or inadequate muscle capacity.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "Students might confuse P0.1 with measures of muscle strength (e.g., NIF/MIP) or directly with work of breathing. While related to work of breathing, it directly reflects the *drive* to breathe. A low P0.1 suggests insufficient drive, while a high P0.1 suggests an excessive drive for the current load or muscle capacity, predicting failure.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|weaning|Weaning from Mechanical Ventilation|5_8nnaoq7q"
+  },
+  {
+    "question": "Prophylactic systemic corticosteroids are generally recommended for which patient group to prevent post-extubation stridor?",
+    "options": {
+      "A": "All patients",
+      "B": "Patients with COPD",
+      "C": "Patients with traumatic or prolonged intubation",
+      "D": "Patients with asthma"
+    },
+    "correctAnswer": "C",
+    "topic": "weaning",
+    "deepDiveExplanation": "Prophylactic systemic corticosteroids (e.g., methylprednisolone or dexamethasone) are recommended for patients at high risk of post-extubation stridor due to laryngeal edema. High-risk factors include prolonged intubation (>6 days), traumatic intubation, multiple intubation attempts, small ETT size relative to trachea, female gender, and pre-existing airway pathology. They work by reducing airway inflammation and edema.",
+    "highYieldPearl": "Corticosteroids prevent post-extubation stridor specifically in high-risk patients, mainly those with prolonged or traumatic intubation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While COPD and asthma patients might receive steroids for their underlying conditions, the prophylactic use for *post-extubation stridor* is specifically targeted at those with increased risk of laryngeal edema due to the intubation process itself, not their primary lung disease. It is not a routine recommendation for 'all' patients.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|weaning|Weaning from Mechanical Ventilation|5_lmau75q6"
+  }
+]

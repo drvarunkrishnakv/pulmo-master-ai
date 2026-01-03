@@ -1,0 +1,182 @@
+[
+  {
+    "question": "The current gold standard imaging modality for diagnosing acute pulmonary embolism is?",
+    "options": {
+      "A": "Pulmonary angiography",
+      "B": "CT Pulmonary Angiography (CTPA)",
+      "C": "Ventilation-Perfusion (V/Q) scan",
+      "D": "MRI Chest"
+    },
+    "correctAnswer": "B",
+    "topic": "pe_diagnosis",
+    "deepDiveExplanation": "CT Pulmonary Angiography (CTPA) has largely replaced conventional pulmonary angiography as the definitive gold standard due to its non-invasiveness, speed, wide availability, and high sensitivity and specificity for acute PE, even for segmental and subsegmental emboli. It is the first-line imaging for hemodynamically stable patients with suspected PE.",
+    "highYieldPearl": "CTPA is the first-line and current gold standard imaging for stable PE diagnosis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Conventional pulmonary angiography was historically the gold standard but is invasive and rarely performed for diagnosis now. V/Q scan has limitations with abnormal chest X-ray. MRI is less commonly used due to availability, cost, and motion artifacts.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|pe_diagnosis|Pulmonary Embolism - Diagnosis|10_6wynl6ol"
+  },
+  {
+    "question": "In a hemodynamically unstable patient with suspected acute pulmonary embolism, the most appropriate initial diagnostic test is?",
+    "options": {
+      "A": "CT Pulmonary Angiography (CTPA)",
+      "B": "Transthoracic Echocardiography (TTE)",
+      "C": "Lower limb Doppler ultrasound",
+      "D": "D-dimer assay"
+    },
+    "correctAnswer": "B",
+    "topic": "pe_diagnosis",
+    "deepDiveExplanation": "For hemodynamically unstable patients, Transthoracic Echocardiography (TTE) can rapidly identify signs of right ventricular (RV) dysfunction/strain, estimate pulmonary artery pressures, and exclude other causes of shock (e.g., tamponade, severe LV dysfunction). If TTE shows RV strain and no other cause of shock, empiric PE treatment can be initiated while definitive imaging (if feasible) is considered. CTPA is often too time-consuming or risky for an unstable patient.",
+    "highYieldPearl": "TTE for unstable PE to assess RV function and rule out other causes of shock rapidly.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While CTPA is the gold standard for stable PE, an unstable patient may not tolerate transport or the time required. D-dimer is for exclusion in low probability, not for unstable patients. Lower limb Doppler confirms DVT but doesn't directly diagnose PE or RV strain.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|pe_diagnosis|Pulmonary Embolism - Diagnosis|10_6uije15e"
+  },
+  {
+    "question": "A normal D-dimer level reliably excludes pulmonary embolism in patients with which clinical probability?",
+    "options": {
+      "A": "High",
+      "B": "Intermediate",
+      "C": "Low or Intermediate",
+      "D": "Low"
+    },
+    "correctAnswer": "C",
+    "topic": "pe_diagnosis",
+    "deepDiveExplanation": "D-dimer is a highly sensitive but non-specific test. A normal D-dimer (below an age-adjusted threshold) can safely rule out PE in patients with a low or low-to-intermediate pre-test probability, as determined by clinical prediction rules (e.g., Wells' or revised Geneva score). It has a high negative predictive value. It should not be used to rule out PE in patients with a high clinical probability.",
+    "highYieldPearl": "Normal D-dimer safely excludes PE in low/intermediate probability patients (high NPV).",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Many might exclusively choose 'D: Low'. However, current guidelines often extend its utility to intermediate probability when using age-adjusted cut-offs or specific algorithms (e.g., PERC rule). Choosing 'C' is more comprehensive and accurate based on modern algorithms.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|pe_diagnosis|Pulmonary Embolism - Diagnosis|10_1hc96ei5"
+  },
+  {
+    "question": "Ventilation-perfusion (V/Q) scanning is most useful for diagnosing pulmonary embolism in patients with what feature?",
+    "options": {
+      "A": "Abnormal chest X-ray",
+      "B": "Chronic obstructive pulmonary disease (COPD)",
+      "C": "Normal chest X-ray",
+      "D": "Severe renal impairment precluding contrast"
+    },
+    "correctAnswer": "C",
+    "topic": "pe_diagnosis",
+    "deepDiveExplanation": "V/Q scanning is most accurate and interpretable when the chest X-ray is normal, as a normal CXR allows for better assessment of V/Q mismatches without confounding from underlying parenchymal lung disease. In patients with an abnormal CXR or significant lung disease like COPD, V/Q scans are often non-diagnostic (intermediate probability). While severe renal impairment (D) is a reason to *choose* V/Q over CTPA, the *usefulness* and diagnostic yield of the V/Q scan itself are highest with a normal CXR.",
+    "highYieldPearl": "V/Q scan is most diagnostically useful with a normal chest X-ray.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Severe renal impairment (D) is a common contraindication for CTPA, making V/Q a preferred alternative, but it doesn't inherently make the V/Q scan *more useful* in terms of interpretability; a normal CXR does. COPD (B) would lead to multiple V/Q defects, making interpretation difficult.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|pe_diagnosis|Pulmonary Embolism - Diagnosis|10_bllcw0od"
+  },
+  {
+    "question": "Which classic electrocardiogram (ECG) finding is associated with acute right heart strain in pulmonary embolism?",
+    "options": {
+      "A": "S1Q3T3 pattern",
+      "B": "Left bundle branch block",
+      "C": "ST elevation in V1-V3",
+      "D": "Prolonged PR interval"
+    },
+    "correctAnswer": "A",
+    "topic": "pe_diagnosis",
+    "deepDiveExplanation": "The S1Q3T3 pattern (prominent S wave in lead I, Q wave in lead III, and inverted T wave in lead III) is a classic but relatively uncommon finding in acute massive PE, indicating acute right ventricular strain and dilatation. Other common ECG findings, though non-specific, include sinus tachycardia, incomplete right bundle branch block (RBBB), and T-wave inversions in V1-V4.",
+    "highYieldPearl": "S1Q3T3: classic ECG for acute RV strain in PE, indicative of severity.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Other options are not specifically indicative of PE or RV strain. ST elevation suggests myocardial infarction. LBBB is a conduction defect. Prolonged PR interval suggests AV block.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|pe_diagnosis|Pulmonary Embolism - Diagnosis|10_s3lhlr57"
+  },
+  {
+    "question": "The most common arterial blood gas (ABG) abnormality observed in acute pulmonary embolism is?",
+    "options": {
+      "A": "Respiratory acidosis",
+      "B": "Metabolic alkalosis",
+      "C": "Respiratory alkalosis with hypoxemia",
+      "D": "Normal ABG"
+    },
+    "correctAnswer": "C",
+    "topic": "pe_diagnosis",
+    "deepDiveExplanation": "Acute PE typically causes a ventilation-perfusion (V/Q) mismatch, leading to hypoxemia. The hypoxemia stimulates peripheral chemoreceptors, increasing respiratory drive and causing hyperventilation, which results in a low PaCO2 (respiratory alkalosis). While some patients may have normal ABGs, respiratory alkalosis with hypoxemia is the most common and characteristic abnormality.",
+    "highYieldPearl": "PE often presents with hypoxemia and compensatory respiratory alkalosis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Respiratory acidosis is less common and usually indicates severe respiratory compromise or co-existing conditions. Metabolic alkalosis is unrelated. While ABGs can be normal in small PEs, 'most common abnormality' points to C.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|pe_diagnosis|Pulmonary Embolism - Diagnosis|10_6grnzkwb"
+  },
+  {
+    "question": "For diagnosing pulmonary embolism in pregnant patients, which imaging modality is generally preferred due to radiation exposure concerns?",
+    "options": {
+      "A": "CT Pulmonary Angiography (CTPA)",
+      "B": "Ventilation-Perfusion (V/Q) scan",
+      "C": "Conventional pulmonary angiography",
+      "D": "Gadolinium-enhanced MRI"
+    },
+    "correctAnswer": "B",
+    "topic": "pe_diagnosis",
+    "deepDiveExplanation": "V/Q scanning is often preferred in pregnant patients because it delivers a lower radiation dose to the breasts (compared to CTPA), which is a significant concern during pregnancy due to the risk of radiation-induced breast cancer. While fetal radiation dose is comparable for both, breast dose often tips the balance towards V/Q, especially if the chest X-ray is normal. Gadolinium is generally avoided in pregnancy due to potential fetal risks.",
+    "highYieldPearl": "V/Q scan preferred in pregnancy due to lower breast radiation dose.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "CTPA is also used in pregnancy, and some centers might prefer it if V/Q is inconclusive or CXR is abnormal. However, the question specifically asks for the 'generally preferred' option due to 'radiation exposure concerns' (implying breast dose), making V/Q the better answer.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|pe_diagnosis|Pulmonary Embolism - Diagnosis|10_cnr6bsfj"
+  },
+  {
+    "question": "Clinical prediction rules like the Wells' or revised Geneva scores are primarily used in suspected PE to determine the?",
+    "options": {
+      "A": "Severity of PE",
+      "B": "Patient prognosis",
+      "C": "Pre-test probability of PE",
+      "D": "Optimal anticoagulant dose"
+    },
+    "correctAnswer": "C",
+    "topic": "pe_diagnosis",
+    "deepDiveExplanation": "These scores stratify patients into low, intermediate, or high pre-test probability categories based on clinical factors. This stratification is crucial for guiding subsequent diagnostic steps, such as whether to perform a D-dimer test or proceed directly to imaging (e.g., CTPA). They are not designed for assessing severity, prognosis, or determining treatment dosing.",
+    "highYieldPearl": "Wells/Geneva scores determine pre-test probability for PE, guiding further diagnostics.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While severity and prognosis are important aspects of PE, these scores specifically address the *likelihood* of PE *before* definitive testing. Other scores (e.g., PESI, sPESI) are used for prognosis.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|pe_diagnosis|Pulmonary Embolism - Diagnosis|10_pelrutyl"
+  },
+  {
+    "question": "Elevated cardiac troponins and brain natriuretic peptide (BNP) in acute pulmonary embolism primarily indicate what?",
+    "options": {
+      "A": "Concomitant myocardial infarction",
+      "B": "Increased bleeding risk",
+      "C": "Right ventricular dysfunction and strain",
+      "D": "Left ventricular failure"
+    },
+    "correctAnswer": "C",
+    "topic": "pe_diagnosis",
+    "deepDiveExplanation": "In acute PE, increased pulmonary vascular resistance and right ventricular (RV) afterload lead to RV wall stress, ischemia, and dysfunction. This RV strain can cause the release of cardiac biomarkers like troponins (due to myocyte injury) and BNP (due to wall stretch). These biomarkers are crucial for risk stratification, indicating higher mortality risk and often guiding management decisions (e.g., thrombolysis consideration).",
+    "highYieldPearl": "Troponins/BNP in PE signal RV dysfunction and higher risk, not necessarily MI.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While troponins are primarily associated with MI, in the context of PE, their elevation signifies RV strain, not necessarily an MI. BNP is also associated with heart failure, but in PE, it's specific to RV stress rather than primary LV failure.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|pe_diagnosis|Pulmonary Embolism - Diagnosis|10_td3unh12"
+  },
+  {
+    "question": "When is lower limb compression ultrasonography most indicated in the diagnostic workup for suspected pulmonary embolism?",
+    "options": {
+      "A": "As a first-line test in all patients",
+      "B": "When CTPA is equivocal or non-diagnostic",
+      "C": "High clinical suspicion with contraindications to CTPA",
+      "D": "To assess bleeding risk before anticoagulation"
+    },
+    "correctAnswer": "C",
+    "topic": "pe_diagnosis",
+    "deepDiveExplanation": "Lower limb compression ultrasonography (CUS) is not a direct diagnostic test for PE. However, it is highly indicated when there is high clinical suspicion for PE, but CTPA is contraindicated (e.g., severe renal failure, contrast allergy, pregnancy where V/Q is inconclusive or non-diagnostic). If a deep vein thrombosis (DVT) is found by CUS in this scenario, treating the DVT is equivalent to treating PE, allowing therapeutic anticoagulation without needing further PE imaging. It can also be useful in unstable patients where CTPA is not feasible, and TTE shows RV strain.",
+    "highYieldPearl": "CUS for DVT is crucial in suspected PE when CTPA is contraindicated/unfeasible, allowing treatment initiation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "Option B (CTPA equivocal) is a plausible scenario, but finding a DVT doesn't directly diagnose PE; it identifies the source and allows for empiric treatment. Option C is stronger because finding a DVT allows for *treatment initiation* in situations where PE imaging is problematic, effectively managing the underlying condition without direct PE visualization.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|pe_diagnosis|Pulmonary Embolism - Diagnosis|10_3qclokhg"
+  }
+]

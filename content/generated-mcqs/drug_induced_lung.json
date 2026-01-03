@@ -1,0 +1,1236 @@
+[
+  {
+    "id": "rag_drug_induced_lung_38c37b60",
+    "question": "A pulmonologist is reviewing cases related to occupational diving. All of the following statements about diving physiology and practices are accurate, EXCEPT:",
+    "options": {
+      "A": "In saturation diving, once a steady state of inert gas absorption is reached, the duration of the dive at depth has no further impact on the required decompression time.",
+      "B": "A relatively small change in depth (e.g., 33 feet of seawater) leads to a substantial pressure increase (doubling), whereas a much larger change in altitude (e.g., 16,000 feet) is required to achieve a comparable relative pressure decrease (halving).",
+      "C": "Hookah diving support systems, despite their improvised nature, are generally considered safer than traditional scuba diving due to the continuous gas supply from the surface.",
+      "D": "Commercial divers engaged in saturation diving routinely spend periods of days to weeks 'at depth' within a living habitat maintained at working-depth pressure."
+    },
+    "correctAnswer": "C",
+    "topic": "Altitude and Diving Medicine",
+    "deepDiveExplanation": "Option C is incorrect. The provided text explicitly states that improvised surface-supplied setups, such as hookah diving systems, 'have the same risks as scuba diving with tanks' and 'can expose divers to unsafe gas pressures or hazardous gases (e.g., compressed carbon monoxide from an air compressor intake placed near the...)'. Therefore, they are not generally considered safer than traditional scuba diving; in fact, their improvised nature can introduce unique and significant risks related to gas quality and pressure regulation.\n\nOption A is correct. The text states, 'Once saturation is reached, the decompression time (which may last days or weeks) is the same for any duration of dive.' This is a fundamental principle of saturation diving, indicating that beyond the point of saturation, the body's inert gas burden does not significantly increase further.\n\nOption B is correct. The text highlights this comparison: 'Relatively small changes in depth cause large changes in pressure, whereas extremely large changes in altitude are required for significant pressure changes. For example, descending from sea level to 33 feet of seawater (fsw) doubles the pressure, while one must ascend to nearly 16,000 feet to halve atmospheric pressure.' This accurately reflects the disparity in environmental changes required to achieve significant relative pressure effects.\n\nOption D is correct. The text notes that saturation divers 'routinely spend 2 weeks “at depth,” although saturation periods of up to 1 month have been reported' and that their 'living habitat may remain at depth or be transported to the surface; in either scenario, the habitat remains compressed at the working‑depth pressure.'",
+    "highYieldPearl": "Rio's Take: Remember the key distinction for saturation diving: once saturated, the *duration* of the dive no longer increases decompression time. Also, do not confuse the apparent simplicity of hookah systems with safety; their improvised nature introduces specific and significant risks, including hazardous gas contamination.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option could be a trap if one assumes that any additional time spent at depth *must* prolong decompression, irrespective of saturation. However, the definition of saturation diving explicitly contradicts this common misconception.",
+      "B": "The trap lies in misinterpreting 'comparable relative pressure decrease' as 'equivalent absolute pressure change'. While doubling (1 ATA change) and halving (0.5 ATA change) are not numerically equivalent in absolute pressure units, the option correctly frames the comparison as the environmental scale (small depth vs. large altitude) required for these significant *relative* pressure effects, as emphasized in the text.",
+      "C": "This is a strong trap because a continuous gas supply *sounds* intuitively safer than finite tank gas. The trap is to fall for this surface-level reasoning without recalling the text's explicit mention of 'same risks as scuba diving' and additional hazards like 'unsafe gas pressures or hazardous gases' in improvised hookah systems.",
+      "D": "This option is a direct factual recall from the description of saturation diving. A trap might be to consider such long durations implausible without referring to the text, which explicitly states these practices."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_289710f3",
+    "question": "A 35-year-old male is admitted after a penetrating stab wound to the left chest. A chest tube is inserted, and the initial output is 1200 mL of blood. His vital signs are HR 110/min, BP 100/70 mmHg, RR 24/min, SpO2 96% on 4L O2. Over the next 3 hours, chest tube output is 180 mL, 190 mL, and 170 mL respectively. On reassessment, his BP drops to 80/50 mmHg, HR increases to 130/min, and he becomes progressively less responsive, despite receiving 2 liters of crystalloids. What is the most appropriate immediate management?",
+    "options": {
+      "A": "Monitor chest tube output closely and prepare for transfusion.",
+      "B": "Perform an urgent diagnostic thoracoscopy.",
+      "C": "Expedite transfer to the operating room for emergent thoracotomy.",
+      "D": "Insert a second chest tube to improve drainage."
+    },
+    "correctAnswer": "C",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "The patient initially had a significant hemothorax (1200 mL) but not immediately meeting the initial 1500 mL urgent thoracotomy criterion. The subsequent chest tube output (180, 190, 170 mL/hr) also did not meet the criterion of more than 200 mL/hr for 3 consecutive hours. However, the critical indicator here is the progressive hemodynamic instability (BP drop to 80/50 mmHg, HR increase to 130/min, decreased responsiveness despite fluid resuscitation). Hemodynamic instability is an absolute indication for urgent thoracotomy in the setting of significant thoracic trauma, suggesting ongoing hemorrhage that cannot be controlled non-operatively.",
+    "highYieldPearl": "Rio's Take: Hemodynamic instability in a patient with thoracic trauma, especially with evidence of intrathoracic hemorrhage, is a paramount indication for urgent thoracotomy, often overriding specific chest tube output criteria if present. Rapid clinical deterioration dictates immediate surgical intervention.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This option delays definitive treatment and is inappropriate for a patient with worsening hemodynamic instability. Close monitoring is insufficient when active life-threatening bleeding is suspected.",
+      "B": "Urgent diagnostic thoracoscopy is a less invasive procedure, but it is typically performed in stable patients or as part of a delayed intervention. An unstable patient with ongoing hemorrhage requires open, emergent thoracotomy for rapid control of bleeding.",
+      "C": "This is the correct answer. The patient's profound and worsening hemodynamic instability in the context of a penetrating chest injury and ongoing blood loss is a clear indication for emergent thoracotomy to identify and control the source of bleeding.",
+      "D": "Inserting a second chest tube might improve drainage if the first tube is clogged or malpositioned, but it does not address the underlying cause of severe hemorrhage and hemodynamic collapse. It's a temporizing measure at best and inappropriate as the primary immediate management for an unstable patient with suspected major bleeding."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_21922279",
+    "question": "A 50-year-old male was admitted 5 days ago following a fall, sustaining multiple rib fractures and a right hemopneumothorax. A chest tube was inserted. Initial drainage was 600 mL, and subsequent daily outputs have been minimal. He has remained hemodynamically stable throughout his admission. A chest X-ray on day 5 shows persistent opacification occupying approximately 30% of the right hemithorax, with persistent bubbling in the chest tube, although the lung appears mostly re-expanded. His oxygen requirements are minimal, and he is ambulating. What is the most appropriate next step in his management?",
+    "options": {
+      "A": "Remove the chest tube as the patient is stable and ambulating.",
+      "B": "Consider VATS or open thoracotomy for retained hemothorax and persistent air leak.",
+      "C": "Increase chest tube suction and observe for another 24-48 hours.",
+      "D": "Start broad-spectrum antibiotics to prevent empyema."
+    },
+    "correctAnswer": "B",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "This patient is hemodynamically stable several days after injury. The chest X-ray shows persistent opacification (suggesting retained hemothorax) and there is persistent bubbling in the chest tube (indicating a persistent air leak). Both retained hemothorax and persistent air leak in a stable patient several days after injury are established indications for delayed thoracotomy, which often involves video-assisted thoracoscopic surgery (VATS) or open thoracotomy, to evacuate the retained blood/clot and address the air leak.",
+    "highYieldPearl": "Rio's Take: In stable patients, retained hemothorax and persistent air leak (typically defined as lasting >5-7 days) are key indications for delayed surgical intervention, such as VATS, to prevent complications like empyema, fibrothorax, or trapped lung.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Removing the chest tube would be inappropriate given the presence of a persistent air leak and retained hemothorax. This would likely lead to recurrence of pneumothorax and worsening of the retained hemothorax.",
+      "B": "This is the correct answer. The presence of retained hemothorax (30% opacification) and a persistent air leak in a stable patient who is 5 days post-injury are classic indications for a delayed surgical intervention, typically VATS, to clear the hemothorax and address the air leak.",
+      "C": "While increasing suction might be considered for a persistent air leak, it is unlikely to resolve a significant retained hemothorax or a long-standing air leak after 5 days. Observing for another 24-48 hours delays definitive treatment for clear indications.",
+      "D": "While retained hemothorax can be a nidus for infection leading to empyema, starting empirical antibiotics is not the most appropriate *next step* for managing the retained hemothorax or persistent air leak. Surgical evacuation of the retained blood is crucial to prevent infection, and prophylactic antibiotics alone are not sufficient treatment."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_38dfe04c",
+    "question": "A 28-year-old male is brought to the emergency department after a motor vehicle collision. He is conscious but shows signs of significant respiratory distress, tachypnea, and hypotension. On examination, there is absent breath sounds on the right, hyper-resonance to percussion, and tracheal deviation to the left. Peripheral pulses are weak. Suspecting a tension pneumothorax, the emergency physician decides to perform a needle thoracostomy as an immediate life-saving measure. According to current Advanced Trauma Life Support (ATLS) guidelines, which of the following is the most appropriate site and needle length for this procedure?",
+    "options": {
+      "A": "Right 2nd intercostal space, mid-clavicular line, with a 5 cm angiocatheter.",
+      "B": "Right 4th intercostal space, mid-axillary line, with a 5 cm angiocatheter.",
+      "C": "Right 4th-5th intercostal space, mid-axillary line, with an 8 cm angiocatheter.",
+      "D": "Right 6th intercostal space, anterior axillary line, with an 8 cm angiocatheter."
+    },
+    "correctAnswer": "C",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "The clinical presentation is classic for a tension pneumothorax, requiring immediate decompression. Current ATLS recommendations (as highlighted in the text) advocate for needle insertion between the fourth and fifth intercostal space at the mid-axillary line. This site has a higher likelihood of entering the thoracic cavity due to decreased chest-wall thickness and greater needle stability. Furthermore, ATLS guidelines recommend using 'longer needles' than the traditional 5 cm angiocatheter, as systematic reviews have indicated that a 5 cm catheter may be insufficient to reach the pleural space in a significant number of patients. An 8 cm angiocatheter is a commonly used 'longer needle' that effectively addresses this concern.",
+    "highYieldPearl": "Rio's Take: Always stay updated with ATLS guidelines. For needle thoracostomy, the current recommended site is the 4th-5th intercostal space, mid-axillary line, using a longer needle (e.g., 8 cm) to ensure pleural space access, moving away from the traditional 2nd intercostal, mid-clavicular approach with a 5 cm needle.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This represents the traditional, older ATLS recommendation for both site (2nd ICS, mid-clavicular) and needle length (5 cm). Current guidelines have shifted due to anatomical studies showing better success rates with longer needles and a more lateral approach.",
+      "B": "While the 4th intercostal space, mid-axillary line, is closer to the current recommended site, the 5 cm angiocatheter is often insufficient, as highlighted by the literature review mentioned in the text (indicating 'longer needles' are needed). The text specifies 'between the fourth and fifth intercostal space'.",
+      "C": "This is the correct answer. The site (4th-5th intercostal space, mid-axillary line) aligns precisely with current ATLS recommendations. The use of an 8 cm angiocatheter satisfies the requirement for 'longer needles' as studies have shown 5 cm catheters can be too short.",
+      "D": "The 6th intercostal space is too low and not the recommended site for needle decompression of a tension pneumothorax. While an 8 cm needle might be of appropriate length, the location is incorrect and carries a higher risk of injuring abdominal structures or being ineffective."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_1bf3ae6b",
+    "question": "A 45-year-old male presents to the emergency department after a high-speed motor vehicle accident. He has significant chest trauma. Following resuscitation, a chest tube is inserted, and the initial drainage is 1600 mL of blood. The patient's vitals are currently stable after initial fluid boluses. Which of the following is the most appropriate next step?",
+    "options": {
+      "A": "Prepare for urgent thoracotomy.",
+      "B": "Observe the patient closely and monitor further chest tube output.",
+      "C": "Administer a blood transfusion and continue conservative management.",
+      "D": "Repeat chest X-ray to confirm tube position and lung re-expansion."
+    },
+    "correctAnswer": "A",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "The immediate drainage of 1600 mL of blood from a chest tube is a clear indication for urgent thoracotomy. The provided text states that an 'Initial chest drain output of 1500 mL' is one of the commonly accepted indications for urgent thoracotomy. This volume signifies significant ongoing hemorrhage or major vessel injury requiring immediate surgical exploration, regardless of temporary hemodynamic stability achieved through initial fluid resuscitation.",
+    "highYieldPearl": "Rio's Take: In chest trauma, an initial chest tube output of 1500 mL or more of blood is a critical threshold for urgent thoracotomy. Do not delay surgical intervention based solely on transient hemodynamic stability.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct. This directly follows the guideline for urgent thoracotomy based on the initial chest drain output exceeding 1500 mL.",
+      "B": "Incorrect. While monitoring is always part of patient care, observing without preparing for surgery in the face of massive initial hemorrhage is inappropriate and delays definitive management. The volume itself is an indication for intervention.",
+      "C": "Incorrect. A blood transfusion is likely needed, but it addresses the consequence (blood loss) rather than the cause. Continuing conservative management with such a high initial output is dangerous as it indicates a significant uncontained bleed.",
+      "D": "Incorrect. A repeat chest X-ray is useful for confirming tube position or lung re-expansion, but it is a delay when the primary concern is massive ongoing hemorrhage. The tube is presumably functioning given the output."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_a2691eaf",
+    "question": "A 30-year-old male involved in a motorcycle accident presents with acute shortness of breath, tracheal deviation, absent breath sounds on the right, and hypotension. A diagnosis of tension pneumothorax is made. According to current Advanced Trauma Life Support (ATLS) guidelines, which is the most recommended site for immediate needle decompression?",
+    "options": {
+      "A": "Second intercostal space, mid-clavicular line.",
+      "B": "Fourth or fifth intercostal space, mid-axillary line.",
+      "C": "Fifth or sixth intercostal space, anterior axillary line.",
+      "D": "Third intercostal space, mid-scapular line."
+    },
+    "correctAnswer": "B",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "Current Advanced Trauma Life Support (ATLS) guidelines recommend a shift from the traditional needle decompression site. The text explicitly states: 'Current recommendations from the Advanced Trauma Life Support (ATLS) program are to use longer needles and to insert the needle between the fourth and fifth intercostal space, the mid-axillary line, instead of the traditional mid-clavicular line at the second intercostal space.' This change is based on studies showing a higher likelihood of successfully entering the thoracic cavity at this site due to decreased chest-wall thickness and greater needle stability.",
+    "highYieldPearl": "Rio's Take: Stay updated with ATLS! The preferred site for needle decompression of tension pneumothorax is now the 4th/5th intercostal space, mid-axillary line, not the traditional 2nd intercostal space, mid-clavicular line.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. This is the traditional, older ATLS recommendation, but current guidelines have shifted. This is a common trap for those not aware of the updated recommendations.",
+      "B": "Correct. This is the current ATLS recommended site for needle decompression of tension pneumothorax.",
+      "C": "Incorrect. While in the lateral chest, it specifies 'anterior axillary line' and slightly different intercostal spaces. The specific ATLS recommendation from the text is 'mid-axillary line' at the 4th/5th intercostal space.",
+      "D": "Incorrect. This site is anatomically incorrect and unsafe for needle decompression of an anterior tension pneumothorax. It would be difficult to access and unlikely to decompress effectively."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_2e31f246",
+    "question": "A 28-year-old male suffered a stab wound to the left chest. A chest tube was inserted, draining 500 mL of blood initially. Over the next 3 hours, the chest tube output was recorded as 220 mL, 230 mL, and 210 mL respectively. The patient remains hemodynamically stable. What is the most appropriate management?",
+    "options": {
+      "A": "Continue monitoring and administer crystalloids as needed.",
+      "B": "Prepare for urgent thoracotomy.",
+      "C": "Clamp the chest tube intermittently to assess for cessation of bleeding.",
+      "D": "Order a CT angiogram of the chest to identify the bleeding source."
+    },
+    "correctAnswer": "B",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "The patient's chest tube output of 220 mL, 230 mL, and 210 mL over three consecutive hours exceeds the threshold for urgent thoracotomy. The provided text states that 'More than 200 mL bloody output per hour for 3 consecutive hours' is an indication for urgent thoracotomy. Even in a hemodynamically stable patient, this persistent rate of significant blood loss suggests a major injury (e.g., arterial, major venous, or hilar vessel injury) that is unlikely to stop spontaneously and requires surgical intervention to control.",
+    "highYieldPearl": "Rio's Take: Hemodynamic stability can be deceptive in ongoing hemorrhage. An hourly chest tube output of >200 mL for three consecutive hours is a clear-cut indication for urgent thoracotomy, signaling a significant active bleed.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. While the patient is currently stable, the rate of blood loss is a clear indication for surgical intervention. Continued observation without preparing for surgery risks further deterioration and delays definitive management of the hemorrhage.",
+      "B": "Correct. The chest tube output meets the criteria for urgent thoracotomy (more than 200 mL/hour for 3 consecutive hours).",
+      "C": "Incorrect. Clamping a chest tube in the setting of ongoing hemorrhage is contraindicated. It can lead to re-accumulation of blood in the pleural space, potentially causing a tension hemothorax or worsening respiratory distress.",
+      "D": "Incorrect. While a CT angiogram can help identify bleeding sources, in the presence of an active, significant hemorrhage meeting surgical criteria, delaying surgery for imaging is inappropriate and can be detrimental. The priority is to control the bleeding surgically."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_ca90afa5",
+    "question": "A 35-year-old male presents to the emergency department after a penetrating chest injury. A chest tube is inserted, and the initial drainage is 1550 mL of blood. The patient's vital signs are stable for the moment. Based on current guidelines, what is the most appropriate immediate management?",
+    "options": {
+      "A": "Prepare for urgent thoracotomy.",
+      "B": "Monitor chest tube output hourly for the next 3 hours.",
+      "C": "Administer 2 units of packed red blood cells and observe.",
+      "D": "Perform a repeat chest X-ray to assess chest tube position."
+    },
+    "correctAnswer": "A",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "The provided text explicitly states that an 'Initial chest drain output of 1500 mL' is a commonly accepted indication for urgent thoracotomy. In this clinical scenario, the initial output of 1550 mL exceeds this threshold, necessitating immediate surgical intervention regardless of temporary hemodynamic stability.",
+    "highYieldPearl": "Rio's Take: Always remember the specific thresholds for urgent thoracotomy in thoracic trauma. Initial chest tube output > 1500 mL is a critical indicator for immediate surgical exploration, even if the patient appears transiently stable.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct. This aligns directly with the urgent thoracotomy criteria listed: 'Initial chest drain output of 1500 mL'.",
+      "B": "Trap. While monitoring is part of management, an initial output of 1550 mL alone triggers the need for thoracotomy, not just continued observation. The criterion for monitoring (>200 mL/hr for 3 consecutive hours) applies to ongoing bleeding, not initial massive drainage.",
+      "C": "Trap. Blood product administration might be necessary for hemodynamic support, but it does not replace the definitive surgical intervention indicated by the massive initial blood loss. The cause of bleeding needs to be addressed surgically.",
+      "D": "Trap. A chest X-ray is routine after chest tube insertion to confirm position and lung re-expansion, but it would not supersede a clear indication for thoracotomy based on the critical drainage volume."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_ed30b205",
+    "question": "A 28-year-old male involved in a high-speed motor vehicle collision presents with signs and symptoms consistent with a tension pneumothorax. According to the Advanced Trauma Life Support (ATLS) program recommendations mentioned in the provided text, which site is currently preferred for needle thoracostomy?",
+    "options": {
+      "A": "Second intercostal space, mid-clavicular line.",
+      "B": "Fourth or fifth intercostal space, mid-axillary line.",
+      "C": "Third intercostal space, anterior axillary line.",
+      "D": "Sixth intercostal space, posterior axillary line."
+    },
+    "correctAnswer": "B",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "The text clearly states, 'Current recommendations from the Advanced Trauma Life Support (ATLS) program are to use longer needles and to insert the needle between the fourth and fifth intercostal space, the mid-axillary line, instead of the traditional mid-clavicular line at the second intercostal space.' This new recommendation is based on studies showing higher success rates due to decreased chest-wall thickness in this area and greater needle stability.",
+    "highYieldPearl": "Rio's Take: Be updated on ATLS guidelines! The traditional second intercostal space, mid-clavicular line, has been largely replaced by the fourth or fifth intercostal space, mid-axillary line, for needle thoracostomy in tension pneumothorax.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Trap. This is the *traditional* site for needle thoracostomy but is explicitly stated in the text as being superseded by the new recommendation, making it a strong distractor for those not updated on current ATLS guidelines.",
+      "B": "Correct. This option directly matches the ATLS recommendation for needle thoracostomy site as described in the provided text.",
+      "C": "Trap. A plausible but incorrect alternative location that is not supported by the provided text for ATLS recommendations.",
+      "D": "Trap. A plausible but incorrect alternative location that is not supported by the provided text for ATLS recommendations."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_32c033f0",
+    "question": "A 50-year-old patient who suffered severe blunt chest trauma is now hemodynamically stable several days after the initial injury. However, the patient continues to have a persistent air leak and evidence of a trapped lung on imaging despite appropriate chest tube management. What surgical intervention would typically be indicated in this scenario?",
+    "options": {
+      "A": "Resuscitative thoracotomy.",
+      "B": "Urgent thoracotomy.",
+      "C": "Delayed thoracotomy.",
+      "D": "Diagnostic bronchoscopy."
+    },
+    "correctAnswer": "C",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "The text defines delayed thoracotomy as an intervention performed 'several days after injury in stable patients, usually for retained hemothorax, trapped lung, persistent air leak, or rib fixation.' The clinical vignette describes a stable patient, several days post-injury, with a persistent air leak and trapped lung, matching the indications for a delayed thoracotomy precisely.",
+    "highYieldPearl": "Rio's Take: Differentiate between the timing and indications for urgent, resuscitative, and delayed thoracotomy. Delayed thoracotomy is for stable patients with specific complications like retained hemothorax, trapped lung, or persistent air leak occurring days after the initial trauma.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Trap. Resuscitative thoracotomy is indicated for patients in extremis or cardiac arrest due to trauma, which does not fit the description of a hemodynamically stable patient several days post-injury.",
+      "B": "Trap. Urgent thoracotomy is indicated for immediate life-threatening conditions like massive initial or ongoing hemorrhage, or acute hemodynamic instability, which is not the case for a stable patient days after injury.",
+      "C": "Correct. This option precisely matches the indications and timing for a delayed thoracotomy as described in the text.",
+      "D": "Trap. While diagnostic bronchoscopy might be considered as part of the workup for a persistent air leak, it is a diagnostic procedure, not the definitive *surgical intervention* indicated for a trapped lung and persistent air leak as described in the context of thoracotomy."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_72ab2f5c",
+    "question": "A 45-year-old male presents to the emergency department after a high-speed motor vehicle accident. He has multiple left-sided rib fractures and a left hemothorax. A chest tube was inserted, draining 800 mL of dark blood immediately. Over the next 3 hours, the drain consistently shows 250 mL of bloody output per hour. His blood pressure is 90/60 mmHg, heart rate 120 bpm, respiratory rate 28/min, and SpO2 is 92% on 6L oxygen via nasal cannula. What is the most appropriate immediate next step in his management?",
+    "options": {
+      "A": "Urgent thoracotomy",
+      "B": "Administer 1 liter of crystalloids and reassess vital signs",
+      "C": "Obtain a CT scan of the chest to localize the bleeding",
+      "D": "Transfuse 2 units of packed red blood cells and repeat chest X-ray"
+    },
+    "correctAnswer": "A",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "The patient meets two distinct criteria for urgent thoracotomy based on the provided text. First, ongoing blood loss exceeding 200 mL/hour for 3 consecutive hours (250 mL/hour x 3 hours = 750 mL total, clearly meeting the hourly rate criterion). Second, the patient exhibits signs of hemodynamic instability (BP 90/60 mmHg, HR 120 bpm), which is a direct indication for urgent thoracotomy in the setting of significant thoracic trauma and ongoing bleeding. Either of these indications alone would warrant immediate surgical intervention.",
+    "highYieldPearl": "Rio's Take: Remember the key criteria for urgent thoracotomy in thoracic trauma: initial chest drain output of 1500 mL, OR >200 mL/hour for 3 consecutive hours, OR hemodynamic instability. Other indications include massive air leak or suspected air embolism.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. The patient meets criteria for urgent thoracotomy due to ongoing significant bleeding and hemodynamic instability.",
+      "B": "While fluid resuscitation is part of initial trauma management, the patient's bleeding rate and instability mandate a more definitive surgical intervention to stop the source of hemorrhage, not just observation after fluids. Delaying definitive management could be fatal.",
+      "C": "A CT scan is not indicated in an unstable patient with clear indications for urgent surgical intervention. It would cause a critical delay in life-saving surgery.",
+      "D": "Blood transfusion is necessary for hemorrhagic shock, but it is not a substitute for stopping the source of bleeding. The patient requires urgent surgical exploration to control the hemorrhage. A repeat chest X-ray would not provide sufficient information to delay surgery."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_316d9aa5",
+    "question": "A 28-year-old male presents to the emergency department after a stab wound to the right chest. He is acutely dyspneic, cyanotic, and hypotensive (BP 70/40 mmHg). Physical examination reveals tracheal deviation to the left, distended neck veins, and absent breath sounds over the right hemithorax. An immediate life-saving intervention is required. According to current Advanced Trauma Life Support (ATLS) guidelines, what is the most appropriate site for rapid decompression?",
+    "options": {
+      "A": "Second intercostal space, mid-clavicular line, using a 3.5 cm angiocatheter.",
+      "B": "Fourth or fifth intercostal space, mid-axillary line, using a 5 cm angiocatheter.",
+      "C": "Second intercostal space, anterior axillary line, using a large bore needle.",
+      "D": "Sixth intercostal space, mid-clavicular line, for immediate tube thoracostomy."
+    },
+    "correctAnswer": "B",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "The patient presents with classical signs of tension pneumothorax (acute dyspnea, cyanosis, hypotension, tracheal deviation, jugular venous distention, and absent breath sounds over the affected hemithorax). Immediate thoracic decompression is critical. Current Advanced Trauma Life Support (ATLS) guidelines recommend needle thoracostomy at the fourth or fifth intercostal space in the mid-axillary line. This site is preferred over the traditional second intercostal space, mid-clavicular line, due to decreased chest wall thickness, a higher likelihood of successful pleural entry, and greater needle stability. A 5 cm angiocatheter is often recommended to ensure adequate length for effective decompression.",
+    "highYieldPearl": "Rio's Take: ATLS guidelines have shifted the preferred site for needle decompression of tension pneumothorax to the 4th/5th intercostal space, mid-axillary line, utilizing a longer angiocatheter (e.g., 5 cm) for improved success rates and safety.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the traditional site for needle decompression, but current ATLS guidelines recommend the mid-axillary line. Additionally, a 3.5 cm angiocatheter may be too short, especially in adults, to reliably reach the pleural space.",
+      "B": "Correct. This is the current ATLS recommended site for needle decompression, favoring a longer needle (like a 5 cm angiocatheter) due to better penetration and stability at this location.",
+      "C": "While the anterior axillary line is more lateral, the specific intercostal space is critical. The 4th/5th ICS mid-axillary is specifically highlighted by ATLS. The phrase 'large bore needle' without specific length could be ambiguous regarding its effectiveness.",
+      "D": "While tube thoracostomy is the definitive treatment for pneumothorax, needle decompression is the *immediate* life-saving measure for tension pneumothorax to relieve pressure quickly. Furthermore, the 6th intercostal space mid-clavicular line is not the primary recommended site for immediate decompression."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_de93033a",
+    "question": "A 55-year-old male was admitted with multiple left-sided rib fractures and a hemopneumothorax after a fall. A chest tube was successfully inserted, draining 700 mL of blood initially, with subsequent drainage tapering off over 24 hours. He remained hemodynamically stable throughout his hospitalization. On day 5, a routine chest X-ray shows a persistent large left pleural effusion occupying approximately 40% of the hemithorax, and the left lung remains partially collapsed despite a patent chest tube with no active air leak or further fluid drainage. Which of the following is the most appropriate indication for a delayed thoracotomy in this patient?",
+    "options": {
+      "A": "Initial chest drain output exceeding 1500 mL",
+      "B": "Development of a massive air leak",
+      "C": "Hemodynamic instability due to continued bleeding",
+      "D": "Retained hemothorax with trapped lung"
+    },
+    "correctAnswer": "D",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "The patient is stable and several days post-injury. The chest X-ray findings of a persistent large pleural effusion (retained hemothorax) and a partially collapsed lung (trapped lung), despite a patent chest tube and no further drainage, are classic indications for a delayed thoracotomy. Delayed thoracotomy is performed in stable patients, usually several days after injury, to address complications that have not resolved with initial conservative management, such as retained hemothorax, trapped lung, or persistent air leak.",
+    "highYieldPearl": "Rio's Take: Delayed thoracotomy is indicated for stable patients, typically days after injury, when complications like retained hemothorax, trapped lung, or persistent air leak fail to resolve with non-operative management. It's distinct from urgent thoracotomy for acute, life-threatening issues.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "An initial chest drain output exceeding 1500 mL is an indication for *urgent* thoracotomy, not delayed. The patient's initial output was 700 mL.",
+      "B": "A massive air leak is an indication for *urgent* thoracotomy. The vignette explicitly states 'no active air leak'. While persistent air leak can be an indication for delayed thoracotomy, it's not the primary issue described in this scenario.",
+      "C": "Hemodynamic instability due to continued bleeding is an indication for *urgent* thoracotomy. The patient is explicitly described as 'hemodynamically stable' throughout his hospitalization.",
+      "D": "Correct. Retained hemothorax with associated trapped lung are primary indications for delayed thoracotomy in a stable patient where conservative management has failed to achieve lung re-expansion and resolution of the effusion."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_aa88cb0c",
+    "question": "A 45-year-old male presents to the emergency department after a high-speed motor vehicle collision. He has multiple rib fractures and a left-sided hemopneumothorax. A chest tube is inserted, and initial output is 1200 mL of blood. Over the next 3 hours, the output is recorded as 180 mL, 210 mL, and 190 mL, respectively. His blood pressure is 100/60 mmHg, heart rate 110 bpm, and he requires continuous vasopressor support for maintaining mean arterial pressure >65 mmHg, despite adequate fluid resuscitation. Chest X-ray shows the left lung is partially expanded, but there is persistent dependent opacity. What is the MOST appropriate next step in management?",
+    "options": {
+      "A": "Immediate urgent thoracotomy",
+      "B": "Observe for another 3 hours, re-evaluate chest tube output",
+      "C": "Insert a second chest tube on the left side",
+      "D": "Perform a CT angiography to identify bleeding source"
+    },
+    "correctAnswer": "A",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "The patient exhibits clear signs of hemodynamic instability, requiring continuous vasopressor support despite adequate fluid resuscitation. According to the provided text, 'Hemodynamic instability' is a commonly accepted indication for urgent thoracotomy. While the initial chest drain output (1200 mL) is below the 1500 mL threshold and the hourly output (180, 210, 190 mL) does not meet the 'more than 200 mL bloody output per hour for 3 consecutive hours' criterion, hemodynamic instability alone is a sufficient and critical indication for immediate surgical intervention.",
+    "highYieldPearl": "Rio's Take: Hemodynamic instability in thoracic trauma patients, especially when requiring vasopressors despite fluid resuscitation, trumps borderline numerical criteria for chest tube output and mandates urgent surgical exploration (thoracotomy) to control bleeding.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is the correct answer. The patient's persistent hemodynamic instability, requiring vasopressor support despite fluid resuscitation, is a direct and critical indication for urgent thoracotomy, overriding the borderline nature of the blood output criteria.",
+      "B": "This is a plausible trap. One might consider observing further if solely focusing on the hourly output criteria (which are not strictly met for 3 consecutive hours). However, the patient's hemodynamic instability makes delaying intervention dangerous and inappropriate.",
+      "C": "This is a plausible trap. A second chest tube might be considered for a large, loculated, or incompletely drained collection. However, it will not address ongoing surgical bleeding leading to hemodynamic instability and is unlikely to be sufficient for a patient requiring vasopressor support.",
+      "D": "This is a plausible trap. Identifying a bleeding source with CT angiography is a valuable step in *stable* patients with persistent bleeding. However, in a hemodynamically unstable patient requiring continuous vasopressor support, immediate surgical control of hemorrhage takes precedence over diagnostic imaging, which would cause critical delays."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_4d0798f8",
+    "question": "A 62-year-old male on mechanical ventilation for ARDS after severe pneumonia develops sudden worsening hypoxia and tachycardia. His peak airway pressures dramatically increase, and he becomes hypotensive. Physical examination reveals absent breath sounds and hyperresonance on the right side, with tracheal deviation to the left. The attending physician prepares for immediate decompression of a tension pneumothorax. According to current Advanced Trauma Life Support (ATLS) recommendations, which of the following is the MOST appropriate site for needle thoracostomy?",
+    "options": {
+      "A": "Right second intercostal space, mid-clavicular line",
+      "B": "Right fourth or fifth intercostal space, mid-axillary line",
+      "C": "Right second intercostal space, anterior axillary line",
+      "D": "Right sixth intercostal space, mid-clavicular line"
+    },
+    "correctAnswer": "B",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "The clinical scenario is classic for a tension pneumothorax requiring immediate decompression. According to the provided text, 'Current recommendations from the Advanced Trauma Life Support (ATLS) program are to use longer needles and to insert the needle between the fourth and fifth intercostal space, the mid-axillary line, instead of the traditional mid-clavicular line at the second intercostal space.' This recommendation is based on studies showing a higher likelihood of successful entry into the thoracic cavity due to decreased chest wall thickness and greater needle stability in this location.",
+    "highYieldPearl": "Rio's Take: The latest ATLS guidelines for needle thoracostomy in tension pneumothorax recommend the 4th or 5th intercostal space in the mid-axillary line over the traditional 2nd intercostal space, mid-clavicular line, for improved success rates due to thinner chest walls in this location.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This represents the traditional site for needle thoracostomy. It is a significant trap because many clinicians were trained using this site. However, current ATLS guidelines, as stated in the text, recommend a different site due to concerns about chest wall thickness and success rates.",
+      "B": "This is the correct answer. The provided text explicitly states that current ATLS recommendations advise inserting the needle between the fourth and fifth intercostal space, mid-axillary line, for needle thoracostomy.",
+      "C": "This is a plausible sounding but incorrect variation. While in the anterior chest, this specific combination of intercostal space and line is not the currently recommended ATLS site for needle decompression.",
+      "D": "This option combines a lower intercostal space with the mid-clavicular line. While lower intercostal spaces (e.g., 5th) are commonly used for tube thoracostomy, this specific combination is not the recommended site for needle decompression of a tension pneumothorax."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_869222d4",
+    "question": "A 58-year-old male sustained multiple anterior chest wall fractures and a right hemopneumothorax after a fall from height. A chest tube was inserted. He initially stabilized well, and his chest tube output decreased over 2 days. On day 5 of hospitalization, he remains stable without fever or signs of infection. However, a chest X-ray and subsequent CT scan show a persistent, loculated right-sided hemothorax occupying approximately 30% of the hemithorax, with associated atelectasis and a collapsed portion of the lung (trapped lung appearance). His chest tube has been removed as it was no longer draining, and he is asymptomatic. What is the MOST appropriate next step in his management?",
+    "options": {
+      "A": "Perform a fibrinolytic instillation into the chest cavity via a newly placed pigtail catheter.",
+      "B": "Re-insert a new, larger bore chest tube into the loculated collection under CT guidance.",
+      "C": "Schedule for delayed thoracotomy (e.g., VATS or open thoracotomy).",
+      "D": "Continue observation with serial chest X-rays as he is currently asymptomatic."
+    },
+    "correctAnswer": "C",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "The patient is stable and several days post-injury (day 5), presenting with a persistent, loculated hemothorax and features of a 'trapped lung'. The provided text clearly states that 'Delayed thoracotomy is performed several days after injury in stable patients, usually for retained hemothorax, trapped lung, persistent air leak, or rib fixation.' Both 'retained hemothorax' and 'trapped lung' are present in this scenario, making delayed thoracotomy (often performed via VATS initially) the most appropriate and definitive management as per the provided guidelines.",
+    "highYieldPearl": "Rio's Take: In a stable patient several days after thoracic trauma, persistent complications like retained hemothorax or trapped lung, not resolving with conservative measures, are definitive indications for delayed surgical intervention (thoracotomy/VATS) rather than prolonged observation or less invasive drainage attempts.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is a plausible trap. Fibrinolytic therapy can be used for retained hemothorax, especially if loculated. However, the presence of 'trapped lung' (implying a non-re-expandable lung due to chronic inflammation/fibrosis, typically requiring decortication) and the explicit listing of 'retained hemothorax' and 'trapped lung' as indications for delayed thoracotomy in the text make surgery the more definitive answer. Fibrinolysis is less likely to resolve a trapped lung.",
+      "B": "This is a plausible trap. Re-inserting a chest tube into a loculated collection under guidance might drain some fluid. However, it is often insufficient to fully resolve a significant, loculated hemothorax with trapped lung, which requires surgical removal of the organizing clot and peel to allow lung re-expansion.",
+      "C": "This is the correct answer. The patient is stable, several days post-injury, and has both retained hemothorax and trapped lung. The provided text explicitly lists both conditions as indications for delayed thoracotomy in stable patients several days after injury.",
+      "D": "This is a trap. While the patient is currently asymptomatic, a significant retained hemothorax and trapped lung are not benign conditions. They can lead to long-term complications such as empyema, fibrothorax, persistent restrictive lung disease, and impaired lung function. Continued observation is inappropriate when definitive treatment is indicated."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_5cf7777e",
+    "question": "A 30-year-old male presents with a penetrating chest injury. Following chest tube insertion, an immediate drainage of 1600 mL of blood is observed. The patient's blood pressure is 100/60 mmHg, and heart rate is 110 bpm. Which of the following management steps is indicated at this point?",
+    "options": {
+      "A": "Urgent thoracotomy",
+      "B": "Transfusion of packed red blood cells and close observation",
+      "C": "Repeat chest radiograph to assess lung re-expansion",
+      "D": "Placement of a second chest tube in a different location"
+    },
+    "correctAnswer": "A",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "An initial chest drain output of 1500 mL or more is a commonly accepted indication for urgent thoracotomy in thoracic trauma. In this patient, the initial drainage is 1600 mL, exceeding this threshold. Additionally, the patient's vital signs (BP 100/60 mmHg, HR 110 bpm) suggest hemodynamic compromise, further supporting the need for immediate surgical intervention to control the hemorrhage.",
+    "highYieldPearl": "Rio's Take: The 'rule of 1500' is critical: any initial chest tube output of 1500 mL or greater mandates urgent thoracotomy to address potentially life-threatening hemorrhage.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct answer. An initial chest tube output of 1500 mL or more is a clear indication for urgent thoracotomy as per the provided text.",
+      "B": "Transfusion is likely needed for this patient, but it addresses the consequence of blood loss, not the ongoing source. Delaying surgical intervention in the face of massive bleeding can lead to worse outcomes. While part of resuscitation, it is not the definitive management when an urgent surgical indication is present.",
+      "C": "A repeat chest radiograph is important after chest tube insertion to confirm placement and lung re-expansion, but it is not the priority when there is massive ongoing hemorrhage requiring immediate surgical intervention.",
+      "D": "While a second chest tube might be considered for a complex pneumo-hemothorax, it will not address the source of massive bleeding that triggered the initial high output, which is the primary concern here."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_d3d0fdf5",
+    "question": "A 40-year-old male sustains blunt chest trauma and develops sudden severe dyspnea, tachycardia, and hypotension with absent breath sounds on the left. Tracheal deviation to the right is noted. A tension pneumothorax is diagnosed. According to current Advanced Trauma Life Support (ATLS) recommendations, which of the following is the most appropriate site for immediate needle decompression?",
+    "options": {
+      "A": "Second intercostal space, mid-clavicular line",
+      "B": "Fourth or fifth intercostal space, mid-axillary line",
+      "C": "Sixth intercostal space, anterior axillary line",
+      "D": "Third intercostal space, paravertebral line"
+    },
+    "correctAnswer": "B",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "The provided text explicitly states, 'Current recommendations from the Advanced Trauma Life Support (ATLS) program are to use longer needles and to insert the needle between the fourth and fifth intercostal space, the mid-axillary line, instead of the traditional mid-clavicular line at the second intercostal space.' This updated site is favored due to a higher likelihood of entering the thoracic cavity (decreased chest-wall thickness) and greater needle stability.",
+    "highYieldPearl": "Rio's Take: Be aware of the updated ATLS guidelines for needle decompression in tension pneumothorax. The preferred site is the 4th-5th intercostal space in the mid-axillary line, superseding the traditional 2nd intercostal space, mid-clavicular line.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the traditional, older recommendation for needle decompression, but current ATLS guidelines, as stated in the text, have shifted away from this site in favor of the mid-axillary approach due to efficacy and safety concerns. This is a common and strong distractor.",
+      "B": "This is the correct answer, directly from the provided text and current ATLS recommendations for needle decompression of a tension pneumothorax.",
+      "C": "While in the lateral chest, the 6th intercostal space is generally too low and may be below the diaphragm in many individuals, making it less suitable for pneumothorax decompression. The anterior axillary line is also not the specifically recommended approach in the text.",
+      "D": "The paravertebral line is an anatomically incorrect and unsafe location for needle decompression of a tension pneumothorax."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_53fe6507",
+    "question": "A 50-year-old male sustained a fall resulting in multiple rib fractures and a pneumothorax, treated with a chest tube. Five days later, he remains hemodynamically stable, but a significant air leak persists despite suction and chest tube repositioning. His lung on chest X-ray is not fully re-expanded. Which of the following surgical interventions is most likely to be considered at this stage?",
+    "options": {
+      "A": "Urgent thoracotomy",
+      "B": "Delayed thoracotomy",
+      "C": "Tracheostomy for prolonged ventilation",
+      "D": "Placement of a second large-bore chest tube"
+    },
+    "correctAnswer": "B",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "The text states that 'Delayed thoracotomy is performed several days after injury in stable patients, usually for retained hemothorax, trapped lung, persistent air leak, or rib fixation.' This patient fits all the criteria: stable, five days post-injury, and experiencing a persistent air leak with a non-re-expanded lung (suggesting a trapped lung). This scenario is a direct indication for delayed thoracotomy.",
+    "highYieldPearl": "Rio's Take: Differentiate urgent from delayed thoracotomy based on patient stability and timing. Persistent air leak or trapped lung in a *stable patient* *several days* after injury points towards delayed thoracotomy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Urgent thoracotomy is indicated for immediate life-threatening conditions such as massive hemorrhage or massive air leak severely affecting ventilation and hemodynamics. This patient is described as stable, and the issue is persistent over several days, making urgent thoracotomy inappropriate.",
+      "B": "This is the correct answer. The patient's presentation (stable, several days post-injury, persistent air leak, non-re-expanded lung) directly matches the indications for delayed thoracotomy as outlined in the text.",
+      "C": "Tracheostomy is primarily for long-term airway management or to facilitate weaning from mechanical ventilation, not directly for resolving a persistent air leak from a pneumothorax in a stable patient.",
+      "D": "While placement of a second chest tube might be considered in some complex cases or for inadequate drainage, the vignette implies conservative chest tube management (including repositioning) has already been attempted over several days. In this scenario, where a persistent air leak and trapped lung are the issue, a more definitive surgical intervention like delayed thoracotomy is indicated."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_b8f01755",
+    "question": "A 55-year-old male presents to the emergency department after a stab wound to the left chest. A chest tube is inserted, and an initial output of 1300 mL of blood is noted. Over the next three consecutive hours, the chest tube drains 240 mL, 210 mL, and 230 mL of blood, respectively. The patient's blood pressure is 110/70 mmHg, heart rate 95 bpm, respiratory rate 20 bpm, and oxygen saturation 96% on room air. He is conscious and oriented. What is the most appropriate next step in the management of this patient?",
+    "options": {
+      "A": "Urgent thoracotomy",
+      "B": "Continue monitoring chest tube output and vital signs",
+      "C": "Perform a CT scan of the chest with angiography",
+      "D": "Administer fresh frozen plasma and recheck coagulation parameters"
+    },
+    "correctAnswer": "A",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "The patient's condition meets a clear indication for urgent thoracotomy as per the provided text: 'More than 200 mL bloody output per hour for 3 consecutive hours'. In this case, the outputs were 240 mL, 210 mL, and 230 mL over three hours, all exceeding 200 mL/hour. While the initial output of 1300 mL is significant, it does not meet the 'initial chest drain output of 1500 mL' criterion in isolation. However, the continuous high output is the definitive trigger for immediate surgical intervention, even in a hemodynamically stable patient.",
+    "highYieldPearl": "Rio's Take: Hemodynamic stability alone does not negate the need for urgent thoracotomy if specific high-volume bleeding criteria are met from the chest tube. Persistent high output (>200 mL/hr for 3 consecutive hours) signifies ongoing, significant intrathoracic hemorrhage requiring surgical control.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct answer. The cumulative hourly output criteria for urgent thoracotomy (more than 200 mL/hour for 3 consecutive hours) are met, indicating ongoing significant hemorrhage requiring surgical exploration.",
+      "B": "This is a plausible option for a patient who is hemodynamically stable and not meeting immediate surgical criteria. However, the hourly output criteria clearly indicate the need for urgent intervention despite current stability, as ongoing significant bleeding carries a high risk of deterioration.",
+      "C": "A CT scan with angiography is a useful diagnostic tool for stable patients with chest trauma to identify bleeding sources or other injuries. However, in the setting of active, high-volume bleeding meeting thoracotomy criteria, delaying definitive surgical management for imaging is inappropriate and could worsen outcomes.",
+      "D": "While managing coagulopathy and providing blood products are crucial components of trauma resuscitation, they do not address the source of ongoing, high-volume bleeding from a penetrating chest injury that meets surgical criteria. Administering plasma alone without addressing the surgical indication would be inadequate."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_0a79fe4a",
+    "question": "A 30-year-old male sustains blunt chest trauma in a motor vehicle accident. He develops sudden onset of severe dyspnea, hypotension, and his trachea is deviated to the right. Physical examination reveals absent breath sounds and hyperresonance over the left hemithorax. A diagnosis of tension pneumothorax is made. According to current Advanced Trauma Life Support (ATLS) recommendations, which anatomical landmark is the most appropriate site for immediate needle decompression?",
+    "options": {
+      "A": "Second intercostal space, mid-clavicular line",
+      "B": "Fourth or fifth intercostal space, mid-axillary line",
+      "C": "Eighth intercostal space, anterior axillary line",
+      "D": "Third intercostal space, anterior axillary line"
+    },
+    "correctAnswer": "B",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "The provided text explicitly states, 'Current recommendations from the Advanced Trauma Life Support (ATLS) program are to use longer needles and to insert the needle between the fourth and fifth intercostal space, the mid-axillary line, instead of the traditional mid-clavicular line at the second intercostal space.' This recommendation is based on studies showing a higher likelihood of successful entry into the thoracic cavity due to decreased chest-wall thickness and greater needle stability in this location.",
+    "highYieldPearl": "Rio's Take: Stay updated with ATLS guidelines. While the second intercostal space, mid-clavicular line was traditionally taught, the current ATLS recommendation for needle decompression of tension pneumothorax favors the fourth or fifth intercostal space in the mid-axillary line.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the traditional, widely taught site for needle decompression, which makes it a very plausible distractor. However, the question specifically asks for *current ATLS recommendations*, which have updated this site due to concerns about chest wall thickness and success rates.",
+      "B": "Correct answer. This site is specifically highlighted in the text as the current ATLS recommendation for needle decompression, offering a higher success rate for pleural space access.",
+      "C": "The eighth intercostal space is too low and typically used for chest tube insertion for effusion or hemothorax drainage, not for needle decompression of pneumothorax, and carries a higher risk of abdominal organ injury.",
+      "D": "While the anterior axillary line is a general region for chest tube insertion, the third intercostal space in this line is not the currently recommended or optimal site for needle decompression, which specifically targets the mid-axillary line for better access."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_9c4def1b",
+    "question": "A 40-year-old construction worker presented with a fall from height, sustaining multiple rib fractures and a left hemopneumothorax. A chest tube was inserted, which initially drained 800 mL of blood, followed by minimal output. The air leak resolved after 3 days, and the patient was clinically stable. However, a chest X-ray on day 5 showed a significant residual hemothorax occupying about 30% of the left hemithorax, and the lung failed to fully re-expand, appearing 'trapped' posteriorly. He remains hemodynamically stable and afebrile. What is the most appropriate next step in management?",
+    "options": {
+      "A": "Urgent thoracotomy",
+      "B": "Reinsertion of another large-bore chest tube",
+      "C": "Delayed thoracotomy",
+      "D": "Observation with serial chest X-rays"
+    },
+    "correctAnswer": "C",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "This patient presents with 'retained hemothorax' and 'trapped lung' several days after the initial injury, in a stable condition. The text explicitly lists 'retained hemothorax' and 'trapped lung' as indications for 'Delayed Thoracotomy' performed 'several days after injury in stable patients'. Urgent thoracotomy criteria (initial output, hourly output, hemodynamic instability, massive air leak affecting ventilation, or air embolism) are not met.",
+    "highYieldPearl": "Rio's Take: Differentiate between urgent and delayed indications for thoracotomy. Retained hemothorax and trapped lung in a stable patient, days after injury, warrant a planned, 'delayed' thoracotomy rather than emergent intervention.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Urgent thoracotomy is indicated for immediate life-threatening conditions (e.g., massive initial or ongoing hemorrhage, hemodynamic instability, massive air leak affecting ventilation, air embolism). This patient is stable, and the indications for urgent thoracotomy are not met, making this an incorrect and overly aggressive approach.",
+      "B": "While reinsertion of a chest tube might seem intuitive to drain fluid, for a significant and organized 'retained hemothorax' or a 'trapped lung' that has failed to re-expand after several days, simply placing another tube is often ineffective. The pathology (clotted blood, pleural peel preventing expansion) typically requires surgical intervention for successful resolution.",
+      "C": "Correct answer. The presence of significant 'retained hemothorax' and 'trapped lung' in a hemodynamically stable patient, several days after the initial trauma, are classic indications for a 'delayed thoracotomy' (or VATS, which is a minimally invasive form of delayed surgical intervention) to evacuate clots and allow lung re-expansion.",
+      "D": "Observation with serial imaging for significant retained hemothorax or trapped lung is generally not recommended as it can lead to complications such as empyema, fibrothorax, or persistent lung collapse, which can impair lung function long-term. Definitive management is preferred once these complications are identified."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_1ca29b36",
+    "question": "A 32-year-old male presents to the emergency department after a high-speed motor vehicle collision, sustaining blunt chest trauma. A right-sided chest tube is inserted, yielding an initial output of 750 mL of blood. Over the subsequent three consecutive hours, the chest tube drainage is measured as 230 mL, 210 mL, and 240 mL per hour, respectively. His vital signs are stable (BP 110/70 mmHg, HR 95 bpm, RR 18/min, SpO2 96% on room air). Physical examination reveals clear lung sounds bilaterally and no external signs of active bleeding. What is the most appropriate next step in his management?",
+    "options": {
+      "A": "Proceed with urgent thoracotomy.",
+      "B": "Obtain a CT angiogram of the chest to identify the source of bleeding.",
+      "C": "Continue observation with hourly chest tube output monitoring.",
+      "D": "Administer a unit of packed red blood cells and re-assess hemodynamics."
+    },
+    "correctAnswer": "A",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "The patient meets a specific criterion for urgent thoracotomy as outlined in the text: 'More than 200 mL bloody output per hour for 3 consecutive hours.' Despite his current hemodynamic stability, the rate of ongoing blood loss (230, 210, and 240 mL/hour for three consecutive hours) signifies a significant and potentially life-threatening intrathoracic hemorrhage that requires immediate surgical exploration and control. Delaying intervention for further imaging or non-definitive measures could lead to rapid deterioration.",
+    "highYieldPearl": "Rio's Take: Hemodynamic stability alone does not negate the need for urgent surgical intervention in cases of significant ongoing intrathoracic hemorrhage. Specific output criteria, such as >200 mL/hour for 3 consecutive hours, are critical indicators for urgent thoracotomy, independent of initial total volume.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is the correct answer. The critical trap here is to be swayed by the patient's hemodynamic stability, overlooking the strict quantitative criteria for urgent thoracotomy (200 mL/hour for 3 consecutive hours). This requires precise recall of guidelines.",
+      "B": "This is a plausible option for a hemodynamically stable patient with bleeding. However, with an active bleeding rate meeting urgent thoracotomy criteria, delaying for imaging could be detrimental. Imaging is typically used when the bleeding is slower, or the source is unclear, and time permits.",
+      "C": "This is a trap for those who might underestimate the significance of the bleeding rate or prioritize stability over the established thresholds. Continued observation would be inappropriate as it delays definitive treatment for a life-threatening condition.",
+      "D": "Administering blood products is supportive care for blood loss, but it does not address the underlying source of the bleeding. Relying solely on transfusion delays definitive surgical control, which is mandated by the rate of hemorrhage in this scenario."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_c1454348",
+    "question": "A 28-year-old male, involved in a high-impact industrial accident, is brought to the emergency department with severe blunt chest trauma. During initial assessment, he rapidly develops acute respiratory distress, cyanosis, distended neck veins, tracheal deviation to the left, and profound hypotension. Auscultation reveals absent breath sounds over the right hemithorax. A clinical diagnosis of tension pneumothorax is made. According to current Advanced Trauma Life Support (ATLS) guidelines, what is the most appropriate site for initial needle decompression?",
+    "options": {
+      "A": "Right second intercostal space, mid-clavicular line.",
+      "B": "Right fourth intercostal space, mid-axillary line.",
+      "C": "Right fifth intercostal space, anterior axillary line.",
+      "D": "Right third intercostal space, parasternal line."
+    },
+    "correctAnswer": "B",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "The scenario describes classic signs of a tension pneumothorax requiring immediate decompression. According to the provided text, 'Current recommendations from the Advanced Trauma Life Support (ATLS) program are to use longer needles and to insert the needle between the fourth and fifth intercostal space, the mid‑axillary line, instead of the traditional mid‑clavicular line at the second intercostal space.' This recommendation is based on studies showing a higher likelihood of successful pleural entry due to decreased chest-wall thickness and greater needle stability in this location.",
+    "highYieldPearl": "Rio's Take: Stay updated on ATLS guidelines! The traditional 2nd ICS mid-clavicular line for needle decompression has been superseded by the 4th-5th ICS mid-axillary line due to improved success rates, especially with longer needles.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is the classic, *traditional* site for needle decompression and is a strong distractor. However, the text explicitly states that current ATLS recommendations have moved away from this site in favor of a more lateral approach due to better success rates.",
+      "B": "This is the correct answer. It directly reflects the current ATLS recommendations for needle decompression as cited in the provided text, specifying the intercostal space and anatomical line.",
+      "C": "While in the general lateral chest, this option specifies the anterior axillary line at the 5th intercostal space. The ATLS guideline specifies the *mid-axillary* line between the 4th and 5th intercostal spaces. This is a plausible but incorrect variant of the recommended site.",
+      "D": "This site is too medial and generally not recommended for needle decompression due to the increased risk of injuring mediastinal structures, including the heart and great vessels. It's an incorrect and potentially dangerous option."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_65c1ac95",
+    "question": "A 55-year-old male sustained a fall from height, resulting in multiple rib fractures and a right-sided hemopneumothorax. A chest tube was placed, which initially drained 1000 mL of blood, and then slowed to minimal output. Over the next 24 hours, the total output was 1300 mL. Five days later, despite being hemodynamically stable, he continues to have significant dyspnea, a persistent large air leak, and a CT scan of the chest reveals a large retained hemothorax preventing full lung re-expansion (trapped lung). What is the most appropriate management strategy?",
+    "options": {
+      "A": "Immediate exploratory thoracotomy.",
+      "B": "Delayed thoracotomy for definitive management.",
+      "C": "Placement of a second chest tube and intrapleural fibrinolytic therapy.",
+      "D": "Bronchoscopy to identify and seal the source of the air leak."
+    },
+    "correctAnswer": "B",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "The patient is hemodynamically stable and several days post-injury (5 days). He presents with a combination of 'retained hemothorax,' 'persistent air leak,' and 'trapped lung' (inability to re-expand the lung). The text specifically lists these as indications for 'Delayed Thoracotomy... performed several days after injury in stable patients'. This surgical approach allows for complete evacuation of the retained hemothorax (decortication), identification and repair of the source of the air leak, and re-expansion of the trapped lung, providing a definitive solution to his ongoing pulmonary issues.",
+    "highYieldPearl": "Rio's Take: Differentiate urgent from delayed thoracotomy. Urgent is for immediate life threats (massive hemorrhage, hemodynamic instability, massive air embolism), while delayed is for stable patients with unresolved complications after several days (retained hemothorax, persistent air leak, trapped lung).",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is a trap based on the term 'thoracotomy'. 'Immediate exploratory thoracotomy' implies an urgent, emergent procedure for acute, life-threatening conditions (e.g., massive ongoing hemorrhage, profound instability). This patient is stable and several days out from injury, making an 'immediate' intervention incorrect based on the timing and urgency.",
+      "B": "This is the correct answer. The patient is stable, several days post-injury, and presents with a combination of retained hemothorax, persistent air leak, and trapped lung. These are all clear indications for 'Delayed Thoracotomy' as per the provided text.",
+      "C": "While placement of a second chest tube and intrapleural fibrinolytic therapy can be considered for retained hemothorax, it may not be sufficient for a persistent large air leak or a truly trapped lung that requires decortication. Given the multiple, combined issues, a surgical approach offers a more definitive and comprehensive solution as per the text's guidance.",
+      "D": "Bronchoscopy is useful for identifying and potentially treating the source of an air leak, especially if it's bronchial. However, it does not address the retained hemothorax or the trapped lung. For this combination of problems, a surgical approach (delayed thoracotomy) is more comprehensive and definitive."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_bdb5b3ba",
+    "question": "A 45-year-old male presents to the emergency department after a high-speed motor vehicle collision. He is intubated due to severe respiratory distress and decreased level of consciousness. Initial chest X-ray reveals multiple rib fractures, bilateral pulmonary contusions, and a right-sided hemopneumothorax. A chest tube is inserted on the right, draining 800 mL of blood immediately. Over the subsequent 4 hours, the drainage is recorded as 180 mL, 220 mL, 250 mL, and 200 mL, respectively. His blood pressure remains 90/60 mmHg, and heart rate is 120 bpm, despite ongoing fluid resuscitation efforts. His Glasgow Coma Scale (GCS) is 7T.",
+    "options": {
+      "A": "Initial chest tube output of 800 mL.",
+      "B": "Persistent bloody output exceeding 200 mL per hour for 3 consecutive hours.",
+      "C": "Bilateral pulmonary contusions requiring mechanical ventilation.",
+      "D": "Hemodynamic instability unresponsive to initial fluid resuscitation."
+    },
+    "correctAnswer": "D",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "The patient exhibits several indicators related to severe chest trauma. While an initial chest tube output of 800 mL is significant, the threshold for urgent thoracotomy based on initial output is 1500 mL. The drainage of 220 mL, 250 mL, and 200 mL over three consecutive hours meets the criterion of 'more than 200 mL bloody output per hour for 3 consecutive hours', which is indeed an indication for urgent thoracotomy. However, the patient's persistent hypotension (90/60 mmHg) and tachycardia (120 bpm) despite ongoing fluid resuscitation signify hemodynamic instability, which is explicitly listed as a critical and often overriding indication for urgent thoracotomy. In the context of multiple concurrent severe indications, hemodynamic instability failing resuscitation typically represents the most immediate and life-threatening issue requiring surgical intervention.",
+    "highYieldPearl": "Rio's Take: When multiple criteria for urgent thoracotomy are met, persistent hemodynamic instability unresponsive to initial resuscitation is often the most compelling and immediate indication, indicating uncontrolled hemorrhage or other critical pathology requiring definitive surgical exploration.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This option is plausible but incorrect. The threshold for initial chest drain output requiring urgent thoracotomy is 1500 mL, not 800 mL.",
+      "B": "This is a strong distractor. The drainage rates of 220 mL, 250 mL, and 200 mL over three consecutive hours indeed meet the criterion for 'more than 200 mL bloody output per hour for 3 consecutive hours'. However, the question asks for the 'most compelling' indication. While this is a valid indication, hemodynamic instability often takes precedence as it represents a more immediate threat to life when resuscitation is failing.",
+      "C": "Bilateral pulmonary contusions requiring mechanical ventilation are common in severe blunt chest trauma but are not, by themselves, an indication for urgent thoracotomy. They contribute to the patient's critical condition but are managed primarily non-surgically, unless complications such as massive air leak arise.",
+      "D": "This is the correct answer. Hemodynamic instability (hypotension and tachycardia) unresponsive to fluid resuscitation is a primary and often the most critical indication for urgent thoracotomy, signaling ongoing, life-threatening hemorrhage or other profound physiological derangement requiring immediate surgical intervention."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_0e34c13f",
+    "question": "A 28-year-old male sustains a stab wound to the right hemithorax. Shortly after arrival, he develops acute onset of severe dyspnea, progressive tachycardia, hypotension, and the trachea is noted to be deviated to the left. Breath sounds are absent over the right lung fields. A diagnosis of tension pneumothorax is made, and the emergency physician prepares for immediate needle decompression.",
+    "options": {
+      "A": "Insertion of a 5-cm angiocatheter in the second intercostal space at the mid-clavicular line.",
+      "B": "Insertion of a longer needle in the fourth or fifth intercostal space at the mid-axillary line.",
+      "C": "Insertion of a 5-cm angiocatheter in the fourth or fifth intercostal space at the mid-clavicular line.",
+      "D": "Insertion of a longer needle in the second intercostal space at the mid-scapular line."
+    },
+    "correctAnswer": "B",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "Current recommendations from the Advanced Trauma Life Support (ATLS) program emphasize using longer needles and inserting them between the fourth and fifth intercostal space, at the mid-axillary line. This approach is preferred over the traditional mid-clavicular line at the second intercostal space because cadaver studies have shown a higher likelihood of entering the thoracic cavity, primarily due to decreased chest-wall thickness in this location and greater needle stability during patient transport. A 5-cm angiocatheter may often be insufficient to traverse the chest wall in many adult patients.",
+    "highYieldPearl": "Rio's Take: The ATLS update for needle thoracostomy favors the 4th/5th ICS at the mid-axillary line with a longer needle, moving away from the traditional 2nd ICS mid-clavicular approach due to better anatomical success rates and stability.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This represents the traditional approach for needle decompression. However, it is no longer the preferred method according to recent ATLS guidelines, which cite issues with needle length efficacy and anatomical success rates compared to the updated site.",
+      "B": "This is the correct answer. The ATLS guidelines now recommend using longer needles and inserting them in the fourth or fifth intercostal space, at the mid-axillary line, due to higher success rates in penetrating the pleural cavity and decreased chest wall thickness at this site.",
+      "C": "While the fourth or fifth intercostal space is part of the updated recommendation, the mid-clavicular line is not the preferred anatomical landmark. Also, a 5-cm angiocatheter may be too short to adequately decompress a tension pneumothorax in many adults.",
+      "D": "This option presents an incorrect anatomical location (mid-scapular line) and an incorrect intercostal space for the preferred ATLS approach to needle thoracostomy."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_16ab51a8",
+    "question": "A 35-year-old male presented to the trauma bay three days ago following a fall from scaffolding, sustaining blunt chest trauma. He initially had a right-sided hemothorax, which was managed with a chest tube that drained 700 mL over the first 24 hours, followed by minimal serosanguinous fluid. He is currently hemodynamically stable, afebrile, and maintaining an oxygen saturation of 96% on room air. A follow-up CT scan of the chest now reveals a significant organized hemothorax occupying approximately 40% of the right hemithorax, with the underlying lung remaining partially collapsed despite ongoing negative suction through the chest tube.",
+    "options": {
+      "A": "Urgent thoracotomy due to persistent air leak.",
+      "B": "Delayed thoracotomy for retained hemothorax and trapped lung.",
+      "C": "Increase chest tube suction and continue observation for another 24 hours.",
+      "D": "Initiate broad-spectrum antibiotics and await spontaneous resolution of the hemothorax."
+    },
+    "correctAnswer": "B",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "The patient's clinical picture, presenting several days after injury with a significant organized hemothorax and a trapped lung (indicated by partial collapse despite suction), in a hemodynamically stable state, perfectly aligns with the indications for a delayed thoracotomy. Delayed thoracotomy is performed in stable patients for conditions like retained hemothorax and trapped lung, typically several days after the initial injury. Urgent thoracotomy criteria (initial output >1500 mL, >200 mL/hr for 3 consecutive hours, or hemodynamic instability) are not met. Increasing chest tube suction is unlikely to resolve an organized hemothorax, and while antibiotics may be considered to prevent empyema, they do not address the mechanical problem of retained blood and trapped lung, which requires surgical evacuation.",
+    "highYieldPearl": "Rio's Take: Retained hemothorax or trapped lung, occurring days after initial trauma in a stable patient, are classic indications for a delayed thoracotomy, differentiating it from urgent indications driven by active bleeding or hemodynamic compromise.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is incorrect. There is no mention of a persistent air leak in the vignette. Furthermore, the patient is hemodynamically stable, and the event occurred three days prior, making 'urgent' thoracotomy based on criteria for acute, life-threatening situations inappropriate here.",
+      "B": "This is the correct answer. The presence of a significant organized hemothorax and a partially collapsed (trapped) lung, occurring days after injury in a hemodynamically stable patient, are classic indications for a delayed thoracotomy to evacuate the clot and allow lung re-expansion.",
+      "C": "Increasing chest tube suction is unlikely to be effective for an organized hemothorax that has persisted for several days and is causing lung trapping. While suction is part of chest tube management, it's insufficient to resolve this specific problem, which requires more definitive intervention.",
+      "D": "While retained hemothorax does carry a risk of infection (empyema), simply administering antibiotics and observing is not the most appropriate definitive management for a significant retained hemothorax with trapped lung. The mechanical problem requires surgical resolution to prevent long-term complications like fibrothorax and lung restriction."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_2a5359ea",
+    "question": "A 45-year-old male presents to the emergency department after a high-speed motor vehicle accident. He has significant chest trauma. A chest tube is inserted, and the initial output is 1600 mL of blood. His vital signs are currently stable. Based on current guidelines, which of the following is the most appropriate next step in management for this patient?",
+    "options": {
+      "A": "Urgent thoracotomy",
+      "B": "Observe for 24 hours and monitor output closely",
+      "C": "Perform a CT angiography of the chest to identify the bleeding source",
+      "D": "Administer factor VIIa to achieve hemostasis"
+    },
+    "correctAnswer": "A",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "The immediate indication for an urgent thoracotomy in a patient with thoracic trauma includes an initial chest drain output of 1500 mL or more. While other investigations like CT angiography might be part of a comprehensive workup, the sheer volume of initial blood loss directly mandates surgical exploration to control the hemorrhage, even if the patient is temporarily hemodynamically stable.",
+    "highYieldPearl": "Rio's Take: Remember the 'rule of 1500' – an initial chest tube output of 1500 mL or more is a critical threshold for urgent surgical intervention in thoracic trauma, often irrespective of immediate hemodynamic status.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct answer. An initial chest drain output of 1500 mL or more is a direct indication for urgent thoracotomy as per the text provided.",
+      "B": "This is a plausible option but incorrect for *initial* massive output. Monitoring output of >200 mL/hour for 3 consecutive hours, or >1500 mL total in the first 24 hours *after* injury, are indications for urgent thoracotomy, but the question specifies *initial* output which has a different threshold.",
+      "C": "While imaging is important, a CT angiography is not the *most appropriate next step* when there is an immediate surgical indication based on the quantity of initial blood loss. Delaying surgery for imaging in this scenario could be detrimental.",
+      "D": "Administering factor VIIa is not a primary or standalone treatment for massive hemorrhage from a traumatic chest injury; surgical control of the bleeding source is paramount."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_12280542",
+    "question": "A 30-year-old male sustains a stab wound to the left chest and rapidly develops signs of tension pneumothorax, including hypotension, tracheal deviation, and absent breath sounds on the left. The medical team prepares for immediate needle decompression. According to current Advanced Trauma Life Support (ATLS) recommendations, which of the following is the most appropriate site for needle decompression?",
+    "options": {
+      "A": "Second intercostal space, mid-clavicular line",
+      "B": "Fourth or fifth intercostal space, mid-axillary line",
+      "C": "Sixth intercostal space, anterior axillary line",
+      "D": "Seventh intercostal space, posterior axillary line"
+    },
+    "correctAnswer": "B",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "Current ATLS guidelines recommend a shift from the traditional second intercostal space, mid-clavicular line, to the fourth or fifth intercostal space in the mid-axillary line for needle decompression of tension pneumothorax. This revised recommendation is based on studies showing a higher likelihood of successful pleural space entry and reduced chest wall thickness at this site, leading to greater effectiveness and safety, particularly when using longer needles.",
+    "highYieldPearl": "Rio's Take: The ATLS recommendation for needle decompression has evolved. Remember the new landmark: mid-axillary line, 4th or 5th intercostal space, offering better success rates due to thinner chest walls.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the traditional site for needle decompression, but current ATLS recommendations have updated this. This is a common trap as many clinicians are still taught the older method.",
+      "B": "This is the correct answer. The provided text explicitly states that current ATLS recommendations are to insert the needle between the fourth and fifth intercostal space, the mid-axillary line.",
+      "C": "While anatomically plausible for other procedures, this is not the recommended site for needle decompression of tension pneumothorax by ATLS.",
+      "D": "This location is too low and posterior for effective needle decompression of a tension pneumothorax, and it is not an ATLS-recommended site."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_drug_induced_lung_71266bf7",
+    "question": "A 50-year-old stable patient, 5 days post-thoracic trauma with multiple rib fractures, continues to have a persistent air leak from his chest tube despite optimal suction, and a chest X-ray shows the lung remains partially collapsed. He is hemodynamically stable and afebrile. Which of the following conditions would typically indicate a 'delayed thoracotomy' in this patient?",
+    "options": {
+      "A": "Initial chest drain output of 1500 mL",
+      "B": "Massive air leak present during all phases of respiration affecting ventilation",
+      "C": "Persistent air leak and trapped lung",
+      "D": "New onset of hemodynamic instability"
+    },
+    "correctAnswer": "C",
+    "topic": "Trauma and Blast Injuries to Chest",
+    "deepDiveExplanation": "Delayed thoracotomy is performed in hemodynamically stable patients, typically several days after injury, for specific unresolved issues. Indications include retained hemothorax, trapped lung, or persistent air leak. The patient in the vignette fits the description of a persistent air leak and a partially collapsed (potentially trapped) lung, in a stable condition and after several days, making delayed thoracotomy an appropriate consideration.",
+    "highYieldPearl": "Rio's Take: Differentiate urgent vs. delayed thoracotomy based on patient stability and chronicity of the problem. Delayed is for stable patients with unresolved issues like persistent air leak, trapped lung, or retained hemothorax, several days post-injury.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is an indication for *urgent* thoracotomy, typically within the immediate post-injury period, not for a delayed procedure in a stable patient 5 days later.",
+      "B": "A massive air leak that affects ventilation is an indication for *urgent* thoracotomy due to acute respiratory compromise, not a delayed procedure. The vignette describes a 'persistent' air leak in a stable patient.",
+      "C": "This is the correct answer. The text explicitly lists 'persistent air leak' and 'trapped lung' as indications for delayed thoracotomy in stable patients several days after injury.",
+      "D": "New onset of hemodynamic instability in a trauma patient would generally necessitate immediate investigation and potential *urgent* intervention, not a 'delayed' thoracotomy."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "SPECIFIC CAUSES OF SMALL AIRWAYS DISEASES [Bronchiolar involvement]",
+      "section": null,
+      "pageNumber": 47
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988495,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "The most characteristic pulmonary toxicity pattern associated with amiodarone is:",
+    "options": {
+      "A": "Acute eosinophilic pneumonia",
+      "B": "Bronchiolitis obliterans",
+      "C": "Chronic interstitial pneumonitis",
+      "D": "Pulmonary alveolar proteinosis"
+    },
+    "correctAnswer": "C",
+    "topic": "drug_induced_lung",
+    "deepDiveExplanation": "Amiodarone-induced pulmonary toxicity (AIPT) can manifest in various ways, but chronic interstitial pneumonitis/fibrosis, often with an organizing pneumonia component, is the most common and characteristic. Histologically, it often shows interstitial inflammation, fibrosis, and foamy macrophages (containing phospholipid inclusions).",
+    "highYieldPearl": "Amiodarone toxicity is dose and duration-dependent, but can occur at any dose. Foamy macrophages are a key histological clue.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Distractors represent other types of lung injury, some drug-induced, but not characteristic of amiodarone. Acute eosinophilic pneumonia is seen with drugs like minocycline, daptomycin. Bronchiolitis obliterans with penicillamine, gold. Pulmonary alveolar proteinosis is rare and not typically drug-induced.",
+    "isOneLiner": true,
+    "id": "one_liner_drug_induced_lung_rhhhli8v"
+  },
+  {
+    "question": "Which factor is the strongest predictor of bleomycin-induced pulmonary fibrosis risk?",
+    "options": {
+      "A": "Prior radiation therapy",
+      "B": "Cumulative lifetime dose",
+      "C": "Age over 70 years",
+      "D": "Pre-existing asthma"
+    },
+    "correctAnswer": "B",
+    "topic": "drug_induced_lung",
+    "deepDiveExplanation": "Bleomycin-induced lung injury (BILI) is a severe, potentially fatal complication. The risk is strongly correlated with the cumulative lifetime dose, typically exceeding 200-300 mg. Other significant risk factors include advanced age, pre-existing lung disease, prior or concurrent radiation to the chest, and high inspired oxygen concentrations.",
+    "highYieldPearl": "Cumulative dose is paramount for bleomycin-induced lung injury. Avoid high FiO2 in patients with prior bleomycin exposure.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "All options are potential risk factors for pulmonary fibrosis or lung injury in general. However, for bleomycin, the cumulative dose is the most consistently and strongly correlated factor. Prior radiation is also a significant risk, but cumulative dose is specific to bleomycin itself.",
+    "isOneLiner": true,
+    "id": "one_liner_drug_induced_lung_pdikvfbg"
+  },
+  {
+    "question": "Methotrexate-induced pneumonitis typically presents with which predominant histopathological pattern?",
+    "options": {
+      "A": "Diffuse alveolar damage",
+      "B": "Non-specific interstitial pneumonia",
+      "C": "Organizing pneumonia",
+      "D": "Lymphocytic interstitial pneumonia"
+    },
+    "correctAnswer": "C",
+    "topic": "drug_induced_lung",
+    "deepDiveExplanation": "Methotrexate-induced pneumonitis is an acute, often severe, hypersensitivity-mediated reaction. Histologically, it frequently presents with features of organizing pneumonia (BOOP/COP-like pattern), interstitial inflammation, and often eosinophilic infiltration. Granulomas can also be seen.",
+    "highYieldPearl": "Methotrexate pneumonitis is a hypersensitivity reaction, not direct toxicity, and can occur at any dose, even low doses for rheumatologic conditions.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Diffuse alveolar damage (DAD) is characteristic of ARDS. Non-specific interstitial pneumonia (NSIP) and Lymphocytic interstitial pneumonia (LIP) are distinct patterns. Organizing pneumonia is highly characteristic for methotrexate pneumonitis.",
+    "isOneLiner": true,
+    "id": "one_liner_drug_induced_lung_ladbeecz"
+  },
+  {
+    "question": "Acute nitrofurantoin-induced lung injury is predominantly characterized by which mechanism?",
+    "options": {
+      "A": "Direct cytotoxicity",
+      "B": "Oxidative stress",
+      "C": "Hypersensitivity reaction",
+      "D": "Immune checkpoint activation"
+    },
+    "correctAnswer": "C",
+    "topic": "drug_induced_lung",
+    "deepDiveExplanation": "Nitrofurantoin can cause acute or chronic lung injury. Acute reactions (occurring within days to weeks of initiation) are typically hypersensitivity-mediated, often presenting with fever, cough, dyspnea, and peripheral eosinophilia. Chronic reactions (occurring after months to years) are more often fibrotic.",
+    "highYieldPearl": "Acute nitrofurantoin reaction = hypersensitivity (often with eosinophilia). Chronic nitrofurantoin reaction = fibrosis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Oxidative stress is relevant for some drug toxicities (e.g., paraquat), but not the primary mechanism for acute nitrofurantoin. Direct cytotoxicity is a less specific mechanism. Immune checkpoint activation is specific to immune checkpoint inhibitors.",
+    "isOneLiner": true,
+    "id": "one_liner_drug_induced_lung_9tfxptva"
+  },
+  {
+    "question": "Which radiological pattern is most frequently observed in immune checkpoint inhibitor-related pneumonitis?",
+    "options": {
+      "A": "Typical usual interstitial pneumonia",
+      "B": "Cryptogenic organizing pneumonia (COP)",
+      "C": "Lymphangitic carcinomatosis",
+      "D": "Ground-glass opacities with honeycombing"
+    },
+    "correctAnswer": "B",
+    "topic": "drug_induced_lung",
+    "deepDiveExplanation": "Immune checkpoint inhibitor (ICI)-related pneumonitis is an increasingly recognized adverse event. The most common radiological patterns include organizing pneumonia (COP-like), non-specific interstitial pneumonia (NSIP-like), and hypersensitivity pneumonitis-like. COP is frequently observed radiologically, characterized by peribronchovascular consolidations or ground-glass opacities.",
+    "highYieldPearl": "ICI pneumonitis can mimic various interstitial lung diseases; prompt recognition and steroid initiation are crucial for management.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Typical usual interstitial pneumonia (UIP) is characteristic of idiopathic pulmonary fibrosis (IPF). Lymphangitic carcinomatosis describes a malignant infiltration pattern. Ground-glass opacities with honeycombing typically suggest fibrotic changes, which can be seen in chronic forms or severe DAD, but COP is a very common initial presentation pattern.",
+    "isOneLiner": true,
+    "id": "one_liner_drug_induced_lung_m0diwdav"
+  },
+  {
+    "question": "The most characteristic pulmonary toxicity pattern associated with amiodarone is:",
+    "options": {
+      "A": "Acute eosinophilic pneumonia",
+      "B": "Bronchiolitis obliterans",
+      "C": "Chronic interstitial pneumonitis",
+      "D": "Pulmonary alveolar proteinosis"
+    },
+    "correctAnswer": "C",
+    "topic": "drug_induced_lung",
+    "deepDiveExplanation": "Amiodarone-induced pulmonary toxicity (AIPT) can manifest in various ways, but chronic interstitial pneumonitis/fibrosis, often with an organizing pneumonia component, is the most common and characteristic. Histologically, it often shows interstitial inflammation, fibrosis, and foamy macrophages (containing phospholipid inclusions).",
+    "highYieldPearl": "Amiodarone toxicity is dose and duration-dependent, but can occur at any dose. Foamy macrophages are a key histological clue.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Distractors represent other types of lung injury, some drug-induced, but not characteristic of amiodarone. Acute eosinophilic pneumonia is seen with drugs like minocycline, daptomycin. Bronchiolitis obliterans with penicillamine, gold. Pulmonary alveolar proteinosis is rare and not typically drug-induced.",
+    "isOneLiner": true,
+    "id": "one_liner_drug_induced_lung_tdqpging"
+  },
+  {
+    "question": "Which factor is the strongest predictor of bleomycin-induced pulmonary fibrosis risk?",
+    "options": {
+      "A": "Prior radiation therapy",
+      "B": "Cumulative lifetime dose",
+      "C": "Age over 70 years",
+      "D": "Pre-existing asthma"
+    },
+    "correctAnswer": "B",
+    "topic": "drug_induced_lung",
+    "deepDiveExplanation": "Bleomycin-induced lung injury (BILI) is a severe, potentially fatal complication. The risk is strongly correlated with the cumulative lifetime dose, typically exceeding 200-300 mg. Other significant risk factors include advanced age, pre-existing lung disease, prior or concurrent radiation to the chest, and high inspired oxygen concentrations.",
+    "highYieldPearl": "Cumulative dose is paramount for bleomycin-induced lung injury. Avoid high FiO2 in patients with prior bleomycin exposure.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "All options are potential risk factors for pulmonary fibrosis or lung injury in general. However, for bleomycin, the cumulative dose is the most consistently and strongly correlated factor. Prior radiation is also a significant risk, but cumulative dose is specific to bleomycin itself.",
+    "isOneLiner": true,
+    "id": "one_liner_drug_induced_lung_e0axlq1y"
+  },
+  {
+    "question": "Methotrexate-induced pneumonitis typically presents with which predominant histopathological pattern?",
+    "options": {
+      "A": "Diffuse alveolar damage",
+      "B": "Non-specific interstitial pneumonia",
+      "C": "Organizing pneumonia",
+      "D": "Lymphocytic interstitial pneumonia"
+    },
+    "correctAnswer": "C",
+    "topic": "drug_induced_lung",
+    "deepDiveExplanation": "Methotrexate-induced pneumonitis is an acute, often severe, hypersensitivity-mediated reaction. Histologically, it frequently presents with features of organizing pneumonia (BOOP/COP-like pattern), interstitial inflammation, and often eosinophilic infiltration. Granulomas can also be seen.",
+    "highYieldPearl": "Methotrexate pneumonitis is a hypersensitivity reaction, not direct toxicity, and can occur at any dose, even low doses for rheumatologic conditions.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Diffuse alveolar damage (DAD) is characteristic of ARDS. Non-specific interstitial pneumonia (NSIP) and Lymphocytic interstitial pneumonia (LIP) are distinct patterns. Organizing pneumonia is highly characteristic for methotrexate pneumonitis.",
+    "isOneLiner": true,
+    "id": "one_liner_drug_induced_lung_hi3adtul"
+  },
+  {
+    "question": "Acute nitrofurantoin-induced lung injury is predominantly characterized by which mechanism?",
+    "options": {
+      "A": "Direct cytotoxicity",
+      "B": "Oxidative stress",
+      "C": "Hypersensitivity reaction",
+      "D": "Immune checkpoint activation"
+    },
+    "correctAnswer": "C",
+    "topic": "drug_induced_lung",
+    "deepDiveExplanation": "Nitrofurantoin can cause acute or chronic lung injury. Acute reactions (occurring within days to weeks of initiation) are typically hypersensitivity-mediated, often presenting with fever, cough, dyspnea, and peripheral eosinophilia. Chronic reactions (occurring after months to years) are more often fibrotic.",
+    "highYieldPearl": "Acute nitrofurantoin reaction = hypersensitivity (often with eosinophilia). Chronic nitrofurantoin reaction = fibrosis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Oxidative stress is relevant for some drug toxicities (e.g., paraquat), but not the primary mechanism for acute nitrofurantoin. Direct cytotoxicity is a less specific mechanism. Immune checkpoint activation is specific to immune checkpoint inhibitors.",
+    "isOneLiner": true,
+    "id": "one_liner_drug_induced_lung_54m83up0"
+  },
+  {
+    "question": "Which radiological pattern is most frequently observed in immune checkpoint inhibitor-related pneumonitis?",
+    "options": {
+      "A": "Typical usual interstitial pneumonia",
+      "B": "Cryptogenic organizing pneumonia (COP)",
+      "C": "Lymphangitic carcinomatosis",
+      "D": "Ground-glass opacities with honeycombing"
+    },
+    "correctAnswer": "B",
+    "topic": "drug_induced_lung",
+    "deepDiveExplanation": "Immune checkpoint inhibitor (ICI)-related pneumonitis is an increasingly recognized adverse event. The most common radiological patterns include organizing pneumonia (COP-like), non-specific interstitial pneumonia (NSIP-like), and hypersensitivity pneumonitis-like. COP is frequently observed radiologically, characterized by peribronchovascular consolidations or ground-glass opacities.",
+    "highYieldPearl": "ICI pneumonitis can mimic various interstitial lung diseases; prompt recognition and steroid initiation are crucial for management.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Typical usual interstitial pneumonia (UIP) is characteristic of idiopathic pulmonary fibrosis (IPF). Lymphangitic carcinomatosis describes a malignant infiltration pattern. Ground-glass opacities with honeycombing typically suggest fibrotic changes, which can be seen in chronic forms or severe DAD, but COP is a very common initial presentation pattern.",
+    "isOneLiner": true,
+    "id": "one_liner_drug_induced_lung_eotjfh3u"
+  }
+]

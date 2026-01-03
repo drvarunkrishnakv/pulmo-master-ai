@@ -1,0 +1,24 @@
+{
+  "name": "projects/154344292422/locations/us-central1/batchPredictionJobs/3909918100614545408",
+  "displayName": "one-liner-generation-1767166957425",
+  "model": "publishers/google/models/gemini-2.5-flash",
+  "inputConfig": {
+    "instancesFormat": "jsonl",
+    "gcsSource": {
+      "uris": [
+        "gs://pulmo-master.firebasestorage.app/batch-jobs/one-liner-input-1767166953731.jsonl"
+      ]
+    }
+  },
+  "outputConfig": {
+    "predictionsFormat": "jsonl",
+    "gcsDestination": {
+      "outputUriPrefix": "gs://pulmo-master.firebasestorage.app/batch-jobs/one-liner-output-1767166957425/"
+    }
+  },
+  "state": "JOB_STATE_PENDING",
+  "createTime": "2025-12-31T07:42:40.161320Z",
+  "updateTime": "2025-12-31T07:42:40.161320Z",
+  "encryptionSpec": {},
+  "modelVersionId": "1"
+}

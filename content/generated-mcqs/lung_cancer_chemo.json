@@ -1,0 +1,1824 @@
+[
+  {
+    "id": "rag_lung_cancer_chemo_0e8fc550",
+    "question": "A 28-year-old male with a long-standing history of cystic fibrosis presents with increasing dyspnea on exertion, fatigue, and peripheral edema. His pulmonary function tests show a severe obstructive pattern with reduced diffusing capacity. HRCT chest demonstrates extensive bronchiectasis, mucous plugging, and areas of parenchymal scarring, predominantly in the upper lobes. Echocardiography reveals right ventricular hypertrophy and elevated pulmonary artery pressures.",
+    "options": {
+      "A": "Pulmonary hypertension",
+      "B": "Acute respiratory distress syndrome",
+      "C": "Idiopathic pulmonary fibrosis",
+      "D": "Pulmonary veno-occlusive disease"
+    },
+    "correctAnswer": "A",
+    "topic": "Cystic Fibrosis",
+    "deepDiveExplanation": "Cystic Fibrosis is a multisystem genetic disorder, and pulmonary complications are a major cause of morbidity and mortality. As the disease progresses, chronic hypoxemia, inflammation, and structural lung damage (bronchiectasis, fibrosis) can lead to pulmonary vascular remodeling and the development of pulmonary hypertension (PH). The clinical vignette describes classic symptoms of right heart failure (dyspnea, fatigue, peripheral edema) and objective findings of elevated pulmonary artery pressures and right ventricular hypertrophy on echocardiography, all indicative of pulmonary hypertension, a known complication of advanced cystic fibrosis lung disease. The provided text explicitly mentions PH as a complication of cystic fibrosis associated with worse outcomes.",
+    "highYieldPearl": "Rio's Take: Progressive lung disease in Cystic Fibrosis, particularly with chronic hypoxemia and extensive parenchymal damage, frequently culminates in pulmonary hypertension, which significantly impacts prognosis. Early recognition through symptoms like increasing dyspnea, fatigue, and signs of right heart failure, confirmed by echocardiography, is crucial for management.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct answer. Symptoms (dyspnea, fatigue, edema) and echocardiographic findings (RV hypertrophy, elevated PA pressures) directly point to pulmonary hypertension, a recognized complication of advanced CF.",
+      "B": "ARDS is an acute, severe inflammatory lung injury typically characterized by rapid onset hypoxemia and bilateral infiltrates. It is not a chronic, progressive complication presenting with long-standing fatigue and edema, and the imaging described (bronchiectasis, scarring) is not typical for ARDS.",
+      "C": "While CF can lead to lung fibrosis (scarring), idiopathic pulmonary fibrosis (IPF) is a distinct entity with specific histological and imaging patterns (UIP) and does not typically present with the primary echocardiographic signs of pulmonary hypertension in this manner. The patient's underlying diagnosis is CF, not IPF, and the symptoms specifically lead to PH as the complication.",
+      "D": "Pulmonary veno-occlusive disease (PVOD) is a rare cause of pulmonary hypertension, distinct from secondary PH due to lung disease. It is characterized by specific imaging features (centrilobular ground-glass opacities, septal lines, lymph node enlargement) and is not a common or direct complication of cystic fibrosis described in the given context. The clinical picture is more consistent with PH secondary to underlying lung disease."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_31f39cb9",
+    "question": "A 30-year-old patient with confirmed cystic fibrosis and chronic bronchorrhea reports a 4-month history of worsening cough, increased purulent sputum, and persistent low-grade fever despite optimized mucolytic and bronchodilator therapy. He has completed several courses of broad-spectrum antibiotics for suspected bacterial exacerbations without significant improvement. Sputum cultures for common bacteria have been repeatedly negative. HRCT shows stable diffuse bronchiectasis.",
+    "options": {
+      "A": "Empiric trial of systemic corticosteroids",
+      "B": "High-dose inhaled corticosteroids",
+      "C": "Sputum culture for Non-Tuberculous Mycobacteria (NTM)",
+      "D": "Genetic testing for uncommon CFTR mutations"
+    },
+    "correctAnswer": "C",
+    "topic": "Cystic Fibrosis",
+    "deepDiveExplanation": "Cystic fibrosis patients are particularly susceptible to pulmonary infections due to impaired mucociliary clearance and chronic inflammation. While bacterial infections (e.g., Pseudomonas aeruginosa, Staphylococcus aureus) are common, the scenario of worsening symptoms despite appropriate antibiotic therapy for bacterial exacerbations, persistent low-grade fever, and negative routine bacterial cultures should raise suspicion for less common pathogens. The provided text explicitly lists cystic fibrosis as a genetic risk factor for pulmonary Non-Tuberculous Mycobacteria (NTM) infection. NTM infections in CF patients can lead to chronic, progressive lung disease and often do not respond to standard broad-spectrum antibiotics, necessitating specific diagnostic testing and treatment.",
+    "highYieldPearl": "Rio's Take: In CF patients with chronic respiratory symptoms refractory to standard antibiotic therapy and negative routine bacterial cultures, always consider Non-Tuberculous Mycobacteria (NTM) infection. Sputum cultures for NTM are essential for diagnosis and guiding specific treatment.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Empiric systemic corticosteroids are generally not the first line when an infection is still suspected and the patient is not improving with antibiotics. Steroids could potentially worsen an undiagnosed NTM infection, and the primary issue appears infectious rather than purely inflammatory.",
+      "B": "High-dose inhaled corticosteroids are used for asthma or allergic bronchopulmonary aspergillosis in CF, but they are unlikely to resolve symptoms stemming from an undiagnosed infection and again, may not be appropriate without a specific diagnosis given the persistent fever and purulent sputum.",
+      "C": "Correct answer. Cystic fibrosis is a known risk factor for NTM infection. The patient's worsening symptoms, persistent fever, negative bacterial cultures, and lack of response to broad-spectrum antibiotics strongly suggest NTM as a potential underlying pathogen, making NTM sputum culture the most crucial next diagnostic step.",
+      "D": "The patient already has 'confirmed cystic fibrosis.' Genetic testing for uncommon CFTR mutations would be primarily for diagnostic confirmation or specific modulator therapy eligibility, not for investigating an acute worsening clinical picture unresponsive to conventional therapy for exacerbations."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_889f3981",
+    "question": "A 15-year-old male with a known history of cystic fibrosis presents for routine evaluation. His pulmonary function tests consistently demonstrate a reduced FEV1/FVC ratio, decreased FEV1, and an elevated residual volume (RV) and residual volume/total lung capacity (RV/TLC) ratio. HRCT chest shows evidence of small airway thickening, peribronchial cuffing, and mosaic attenuation indicative of air trapping.",
+    "options": {
+      "A": "Diffuse alveolar damage and subsequent fibrosis",
+      "B": "Primary vascular remodeling leading to pulmonary hypertension",
+      "C": "Chronic inflammation and obstruction of small airways",
+      "D": "Acute bronchoconstriction in response to allergens"
+    },
+    "correctAnswer": "C",
+    "topic": "Cystic Fibrosis",
+    "deepDiveExplanation": "Cystic fibrosis is characterized by defective CFTR protein function, leading to dehydrated and viscous mucus that clogs small airways. This initiates a vicious cycle of chronic inflammation, infection, and progressive damage predominantly affecting the small airways (bronchioles) and subsequently the larger airways (bronchiectasis). The provided text states that 'Bronchiolar involvement... including cystic fibrosis' is a cause of small airways disease, and that 'Small airways obstruction may lead to: A reduction in airflow, Increased airways resistance, Gas trapping, Inhomogeneity of ventilation.' The PFT findings (reduced FEV1/FVC, decreased FEV1) indicate airflow obstruction, while elevated RV and RV/TLC ratios signify air trapping. The HRCT findings (small airway thickening, peribronchial cuffing, mosaic attenuation) are direct radiological correlates of small airways inflammation and obstruction, precisely matching the core pathophysiology of CF lung disease.",
+    "highYieldPearl": "Rio's Take: The cardinal pulmonary manifestations of Cystic Fibrosis, including obstructive PFTs and air trapping on imaging, stem directly from chronic inflammation and viscous mucus obstruction primarily within the small airways. This is the fundamental mechanism driving lung pathology in CF.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "While advanced CF can lead to fibrosis and architectural distortion, diffuse alveolar damage is typically an acute process, and fibrosis is a later sequela. It is not the *primary* pathophysiological mechanism explaining the *initial* and predominant obstructive PFT pattern and air trapping in CF.",
+      "B": "Pulmonary hypertension (PH) due to vascular remodeling is a complication of advanced CF, but it is not the primary mechanism responsible for obstructive PFTs (FEV1/FVC ratio) and air trapping. PH affects the vasculature, not directly the airways in a way that causes primary airflow obstruction.",
+      "C": "Correct answer. The thick, tenacious mucus in CF leads to chronic inflammation, infection, and obstruction within the small airways. This directly causes reduced airflow (low FEV1/FVC, low FEV1) and gas trapping (high RV, RV/TLC) as observed in the PFTs, and manifests as small airway thickening and mosaic attenuation on HRCT.",
+      "D": "Acute bronchoconstriction (as seen in asthma) can cause obstructive PFTs, but the chronic nature of the patient's history, the specific HRCT findings of structural changes (small airway thickening, peribronchial cuffing), and the underlying genetic defect of CF point to persistent, progressive disease beyond acute, reversible bronchoconstriction."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_8d67ecc9",
+    "question": "A 6-month-old infant is diagnosed with Cystic Fibrosis after presenting with recurrent respiratory infections and failure to thrive. Which of the following is considered the earliest and primary pathological change in the lungs of a patient with Cystic Fibrosis?",
+    "options": {
+      "A": "Bronchiectasis of large airways",
+      "B": "Obliterative bronchiolitis",
+      "C": "Chronic infection with Pseudomonas aeruginosa",
+      "D": "Mucus plugging and inflammation of small airways"
+    },
+    "correctAnswer": "D",
+    "topic": "Cystic Fibrosis",
+    "deepDiveExplanation": "The fundamental defect in Cystic Fibrosis (CF) involves the CFTR protein, leading to dehydrated, viscous mucus. This highly viscous mucus primarily obstructs the small airways (bronchioles) first, impeding mucociliary clearance. This mucus plugging creates an environment conducive to chronic inflammation and subsequent infection, which then progresses to structural damage like bronchiectasis. Therefore, mucus plugging and the associated inflammation in the small airways represent the earliest pathological changes.",
+    "highYieldPearl": "Rio's Take: The core problem in CF's lung pathology begins with thick, dehydrated mucus in the small airways, leading to a cascade of inflammation, infection, and ultimately, structural damage like bronchiectasis.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Bronchiectasis of large airways: While bronchiectasis is a hallmark of CF lung disease, it is a later consequence of chronic inflammation, infection, and airway remodeling, not the earliest pathological change. Small airways are affected before large airways manifest overt bronchiectasis.",
+      "B": "Obliterative bronchiolitis: This is a specific pattern of small airway disease characterized by fibrotic occlusion of the bronchioles, typically seen in conditions like post-viral bronchiolitis, transplant rejection (bronchiolitis obliterans), or certain connective tissue diseases. It is not the primary or typical initial pathology in CF, though CF does involve bronchiolar inflammation.",
+      "C": "Chronic infection with Pseudomonas aeruginosa: Infection with *Pseudomonas aeruginosa* is a very common and significant complication in CF, but it is a secondary event. The initial mucus plugging and impaired mucociliary clearance create the favorable environment for bacterial colonization and chronic infection.",
+      "D": "Mucus plugging and inflammation of small airways: This option correctly identifies the direct consequence of the CFTR defect (viscous mucus) and the immediate host response (inflammation) occurring initially in the small airways, preceding infection and structural damage."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_424cdca6",
+    "question": "A 28-year-old male with a known history of Cystic Fibrosis (CF) presents with worsening cough, increased sputum production, and occasional hemoptysis. His HRCT chest shows extensive cylindrical and varicose bronchiectasis predominantly in the upper lobes, mucoid impaction, and scattered cystic lesions. Which of the following findings is LEAST likely to be specifically associated with his advanced lung disease due to Cystic Fibrosis?",
+    "options": {
+      "A": "Pulmonary hypertension",
+      "B": "Nontuberculous mycobacterial (NTM) infection",
+      "C": "Obliterative bronchiolitis as the primary fibrotic pattern",
+      "D": "Traction bronchiectasis and honeycombing"
+    },
+    "correctAnswer": "C",
+    "topic": "Cystic Fibrosis",
+    "deepDiveExplanation": "Pulmonary hypertension (PH) is a known complication of advanced lung diseases, including CF, and is associated with worse outcomes. Nontuberculous mycobacterial (NTM) infections are a recognized genetic risk factor and common complication in CF patients. Advanced CF lung disease, characterized by chronic inflammation and fibrosis, can lead to significant architectural distortion, including traction bronchiectasis and honeycombing (features seen in various fibrotic lung diseases). However, obliterative bronchiolitis, which involves fibrotic occlusion of the bronchioles, is a distinct pathological pattern typically associated with conditions like post-viral infection, toxic inhalations, or chronic rejection in lung transplant recipients (bronchiolitis obliterans syndrome), rather than the primary or typical fibrotic pattern observed in CF.",
+    "highYieldPearl": "Rio's Take: While CF is a small airways disease, the specific fibrotic pattern of 'obliterative bronchiolitis' is generally not considered the primary or characteristic fibrotic manifestation of CF, unlike PH, NTM, and traction bronchiectasis which are common.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Pulmonary hypertension: This is a well-documented complication of advanced CF lung disease, contributing to increased morbidity and mortality. It is plausible and expected.",
+      "B": "Nontuberculous mycobacterial (NTM) infection: CF is a significant genetic risk factor for NTM infections, which are common in patients with structural lung abnormalities like bronchiectasis. This is plausible and expected.",
+      "C": "Obliterative bronchiolitis as the primary fibrotic pattern: While CF involves bronchioles and inflammation, the specific histological pattern of 'obliterative bronchiolitis' (concentric fibrotic narrowing or occlusion) is more characteristic of other conditions (e.g., post-transplant, post-viral) than the typical end-stage fibrotic process of CF. CF lung disease predominantly involves inflammation, mucus plugging, and progressive bronchiectasis rather than widespread obliterative fibrosis of the bronchioles themselves.",
+      "D": "Traction bronchiectasis and honeycombing: These are features of advanced pulmonary fibrosis and architectural distortion, which can certainly occur in the setting of long-standing, severe CF lung disease, especially in areas with significant scarring and volume loss. These are plausible and expected findings in advanced fibrotic lung disease."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_a43881a5",
+    "question": "A 12-year-old girl with Cystic Fibrosis, homozygous for the F508del mutation, presents for routine follow-up. Her lung function has been stable with standard supportive care. Her physician discusses starting a CFTR modulator therapy. Which of the following statements regarding CFTR modulator therapy is INCORRECT?",
+    "options": {
+      "A": "Ivacaftor is a CFTR potentiator, enhancing channel opening frequency.",
+      "B": "Lumacaftor, a CFTR corrector, improves the processing and trafficking of mutant CFTR protein to the cell surface.",
+      "C": "Elexacaftor/Tezacaftor/Ivacaftor triple therapy is indicated for patients with at least one F508del allele.",
+      "D": "These therapies primarily target the downstream effects of CFTR dysfunction, such as inflammation and infection."
+    },
+    "correctAnswer": "D",
+    "topic": "Cystic Fibrosis",
+    "deepDiveExplanation": "CFTR modulator therapies are revolutionary disease-modifying treatments for Cystic Fibrosis. They work by directly addressing the underlying defect of the CFTR protein itself. Potentiators (like ivacaftor) improve the function of CFTR proteins that reach the cell surface, enhancing their channel opening. Correctors (like lumacaftor, tezacaftor, elexacaftor) help misfolded CFTR proteins (such as those with the F508del mutation) fold correctly and traffic to the cell surface. Combination therapies, especially triple therapy (elexacaftor/tezacaftor/ivacaftor), are highly effective for patients with at least one F508del allele because they both increase the amount of CFTR protein at the cell surface and improve its function. They do not primarily target the downstream effects like inflammation and infection; rather, by correcting the CFTR protein dysfunction, they *indirectly* reduce these downstream consequences.",
+    "highYieldPearl": "Rio's Take: CFTR modulators are disease-modifying, attacking the root cause (CFTR protein defect) directly, not just managing symptoms. This distinction is crucial for understanding their impact.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Ivacaftor is a CFTR potentiator, enhancing channel opening frequency: This statement is correct. Potentiators work by increasing the time CFTR channels spend in an open state once they are at the cell surface.",
+      "B": "Lumacaftor, a CFTR corrector, improves the processing and trafficking of mutant CFTR protein to the cell surface: This statement is correct. Correctors help mutant CFTR proteins (e.g., F508del) to fold correctly and be transported to the cell membrane, increasing their cellular abundance.",
+      "C": "Elexacaftor/Tezacaftor/Ivacaftor triple therapy is indicated for patients with at least one F508del allele: This statement is correct. This triple combination, often referred to as 'Trikafta' or 'Kaftrio', is highly effective for a large majority of CF patients, including those with at least one F508del allele, as it includes multiple correctors and a potentiator.",
+      "D": "These therapies primarily target the downstream effects of CFTR dysfunction, such as inflammation and infection: This statement is INCORRECT. CFTR modulators are designed to correct the underlying CFTR protein defect. While improving CFTR function can secondarily reduce inflammation and infection by restoring mucociliary clearance, their primary mechanism is upstream, at the level of the CFTR protein itself. Supportive therapies (e.g., antibiotics, anti-inflammatories) directly target the downstream effects."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_4e17f0d6",
+    "question": "A 10-year-old boy diagnosed with cystic fibrosis a year ago presents for a routine follow-up. He has a history of recurrent cough and wheezing. Pulmonary function tests show mild obstructive pattern with increased residual volume. High-resolution CT (HRCT) chest reveals diffuse bronchial wall thickening and mild peribronchial cuffing, primarily in the upper lobes, without significant saccular bronchiectasis or honeycombing. Which of the following statements best describes the primary lung pathology driving early disease progression in this patient's condition?",
+    "options": {
+      "A": "Early and progressive small airways obstruction",
+      "B": "Development of large airway saccular bronchiectasis",
+      "C": "Onset of pulmonary hypertension secondary to chronic hypoxia",
+      "D": "Extensive lung parenchymal fibrosis and architectural distortion"
+    },
+    "correctAnswer": "A",
+    "topic": "Cystic Fibrosis",
+    "deepDiveExplanation": "In Cystic Fibrosis (CF), the defect in the CFTR protein leads to dehydrated and viscous airway secretions, primarily affecting the small airways (bronchioles) early in the disease course. This thick mucus causes obstruction, inflammation, and infection in these small airways. This 'small airways disease' is considered the earliest and primary driver of lung pathology and progression in CF, leading to reduced airflow, increased airways resistance, gas trapping, and inhomogeneity of ventilation. Early diagnosis and targeted treatment aimed at clearing these small airways are crucial to prevent the progression to more severe complications like large airway bronchiectasis, fibrosis, and eventual respiratory failure.",
+    "highYieldPearl": "Rio's Take: Small airways obstruction is the earliest and most critical pulmonary pathology in cystic fibrosis, initiating the cycle of inflammation, infection, and damage that eventually leads to the characteristic bronchiectasis and fibrosis. Early intervention targeting these small airways is paramount.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option correctly identifies small airways obstruction as the primary and early driver of disease progression, aligning with the understanding that CF initially impacts bronchioles.",
+      "B": "While bronchiectasis is a hallmark of CF lung disease, the vignette describes 'mild peribronchial cuffing...without significant saccular bronchiectasis,' indicating an early stage. Saccular bronchiectasis usually develops as a *consequence* of chronic small airway inflammation and obstruction, not as the primary *initial* pathology driving progression.",
+      "C": "Pulmonary hypertension (PH) is a known complication of advanced CF, typically occurring secondary to chronic hypoxia and extensive lung damage. It is not the primary pathology driving *early* disease progression.",
+      "D": "Extensive lung parenchymal fibrosis and architectural distortion (e.g., honeycombing) are features of *advanced* or 'stage IV' fibrotic lung disease in CF, not the primary pathology driving early progression."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_660aef90",
+    "question": "A 25-year-old female with cystic fibrosis and a history of chronic *Pseudomonas aeruginosa* infection presents with a persistent productive cough, new onset hemoptysis, and weight loss over the past three months. Her recent sputum cultures, despite intensified antibiotic therapy for *Pseudomonas*, repeatedly show acid-fast bacilli on microscopy and subsequently grow *Mycobacterium avium complex*. Which of the following underlying factors most directly predisposed her to this new infection?",
+    "options": {
+      "A": "Chronic *Pseudomonas aeruginosa* colonization",
+      "B": "Structural lung abnormalities, particularly bronchiectasis",
+      "C": "Genetic predisposition inherent to cystic fibrosis",
+      "D": "Immunosuppression due to long-term corticosteroid use"
+    },
+    "correctAnswer": "C",
+    "topic": "Cystic Fibrosis",
+    "deepDiveExplanation": "The provided context explicitly lists 'cystic fibrosis' under 'Genetic' risk factors for Pulmonary Non-Tuberculous Mycobacteria (NTM) infection. While chronic *Pseudomonas* infection (option A) and structural lung abnormalities like bronchiectasis (option B, a common consequence of CF) are also associated with increased risk of NTM, the genetic defect inherent to cystic fibrosis itself is a fundamental underlying predisposition, as highlighted by its specific categorization as a genetic risk factor alongside α1-antitrypsin deficiency. The genetic basis of CF leads to the dysfunctional CFTR protein, abnormal mucus clearance, and a pro-inflammatory environment that makes individuals highly susceptible to various infections, including NTM.",
+    "highYieldPearl": "Rio's Take: Cystic Fibrosis is a direct genetic risk factor for pulmonary NTM infection, a critical distinction from the structural lung damage (like bronchiectasis) that CF causes, which further exacerbates this risk. Remember that the genetic basis is the root cause.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Chronic *Pseudomonas* infection is common in CF and can contribute to lung damage, but it is not listed as a *direct* genetic or structural risk factor for NTM in the provided text. While it creates an environment conducive to other infections, it's not the 'most direct underlying factor' from the given categories.",
+      "B": "Structural lung abnormalities, including bronchiectasis, are indeed listed as risk factors for NTM, and CF patients inevitably develop bronchiectasis. This is a strong distractor. However, the context *separates* 'Structural Lung Abnormalities' and 'Genetic' factors, with 'cystic fibrosis' explicitly listed under 'Genetic.' The genetic basis of CF is the fundamental, inherent predisposition, which then *leads* to structural changes like bronchiectasis that further increase susceptibility.",
+      "C": "This option directly reflects the context which categorizes cystic fibrosis as a 'Genetic' risk factor for NTM infection, making it the most direct underlying predisposing factor mentioned.",
+      "D": "Immunosuppression is a general risk factor for NTM, but the vignette does not mention corticosteroid use or any other form of immunosuppression in this patient."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_5699f46d",
+    "question": "A 35-year-old male with long-standing cystic fibrosis and severe obstructive lung disease presents with increasing dyspnea, peripheral edema, and exertional syncope. Echocardiography reveals right ventricular hypertrophy and elevated pulmonary artery pressures. A diagnosis of pulmonary hypertension is made. Based on current understanding, what is the most significant clinical implication of this new diagnosis in the context of his cystic fibrosis?",
+    "options": {
+      "A": "It necessitates immediate initiation of specific pulmonary vasodilator therapy.",
+      "B": "It indicates advanced liver disease and portal hypertension.",
+      "C": "It is associated with a significantly worse prognosis.",
+      "D": "It suggests a new bacterial or fungal superinfection."
+    },
+    "correctAnswer": "C",
+    "topic": "Cystic Fibrosis",
+    "deepDiveExplanation": "The provided context explicitly states that 'development of PH in all of these conditions [including cystic fibrosis] is associated with worse outcomes.' Pulmonary hypertension (PH) in CF typically develops as Group 3 PH, secondary to chronic lung disease and hypoxia. The clinical presentation with dyspnea, edema, and syncope, along with echocardiographic findings of right ventricular hypertrophy and elevated pulmonary artery pressures, confirms the diagnosis. The most significant implication from a clinical perspective, as highlighted in the given information, is the detrimental effect on the patient's survival and overall prognosis.",
+    "highYieldPearl": "Rio's Take: Pulmonary hypertension in CF, typically Group 3, is a marker of severe disease and is consistently associated with significantly worse outcomes and reduced survival. Prognostic implications outweigh initial treatment considerations in terms of 'most significant implication.'",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "While specific pulmonary vasodilator therapy might be considered in some cases of Group 3 PH, it's not universally indicated or the primary treatment approach (which focuses on the underlying lung disease). More importantly, the question asks for the 'most significant clinical implication,' which, according to the text, is prognostic rather than immediate therapeutic action.",
+      "B": "Although liver disease and portal hypertension can occur in CF, the clinical picture described (dyspnea, edema, syncope, RV hypertrophy, elevated PAP) points directly to cardiac and pulmonary involvement, not primarily liver disease.",
+      "C": "This option directly aligns with the information in the provided context, which emphasizes that PH in conditions like CF is associated with 'worse outcomes,' indicating a significantly poorer prognosis.",
+      "D": "While new infections are common in CF and can worsen lung function, the specific symptoms and echocardiographic findings (right ventricular hypertrophy, elevated PAP) are characteristic of pulmonary hypertension, not directly a new superinfection, although an exacerbation could precipitate PH symptoms."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_c78f4b64",
+    "question": "A 28-year-old male with a history of cystic fibrosis (CF), on chronic inhaled hypertonic saline and dornase alfa, presents with a 3-month history of worsening cough, hemoptysis, and weight loss. His sputum cultures persistently grow *Pseudomonas aeruginosa* but show incomplete response to intravenous antibiotics. A recent HRCT chest reveals multifocal bronchiectasis, multiple tree-in-bud opacities, and a new 2 cm cavitary lesion in the right upper lobe. Which of the following is the most appropriate next diagnostic step to identify the likely etiology of his clinical deterioration?",
+    "options": {
+      "A": "Right heart catheterization",
+      "B": "Serum IgE and Aspergillus precipitins",
+      "C": "Sputum culture for acid-fast bacilli",
+      "D": "Alpha-1 antitrypsin phenotype testing"
+    },
+    "correctAnswer": "C",
+    "topic": "Cystic Fibrosis",
+    "deepDiveExplanation": "The patient's history of cystic fibrosis, coupled with chronic *Pseudomonas* infection that is incompletely responsive to antibiotics, worsening respiratory symptoms (cough, hemoptysis), constitutional symptoms (weight loss), and specific HRCT findings (multifocal bronchiectasis, tree-in-bud opacities, and a new cavitary lesion), strongly suggests a Non-Tuberculous Mycobacterial (NTM) infection. The provided context explicitly lists cystic fibrosis as a genetic risk factor for pulmonary NTM infection. NTM infections are known to cause chronic, progressive lung disease, often presenting with features like bronchiectasis, cavitary lesions, and persistent cough with sputum production, which may be resistant to standard antibiotics targeting other common CF pathogens like *Pseudomonas*. Therefore, a sputum culture for acid-fast bacilli (AFB) is the most appropriate next diagnostic step to confirm or rule out NTM.",
+    "highYieldPearl": "Rio's Take: Worsening respiratory symptoms, constitutional signs, and specific HRCT findings (bronchiectasis, tree-in-bud, cavitary lesions) in a CF patient, especially with recalcitrant *Pseudomonas* infection, should raise high suspicion for NTM. Always screen for AFB in such cases.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Right heart catheterization is indicated for diagnosing pulmonary hypertension (PH), which can complicate CF and is associated with worse outcomes, as mentioned in the context. However, the constellation of symptoms (especially weight loss, hemoptysis) and imaging findings (cavitary lesion, tree-in-bud) points more strongly towards an infection, rather than isolated PH as the primary cause of acute deterioration.",
+      "B": "Allergic Bronchopulmonary Aspergillosis (ABPA) is a common complication in CF patients and can cause worsening respiratory symptoms and bronchiectasis. However, cavitary lesions and tree-in-bud opacities, while possible, are less typical primary features of ABPA compared to mucoid impaction, consolidation, and central bronchiectasis. NTM presents a stronger differential in this specific clinical and radiological scenario, making AFB culture a more immediate diagnostic priority given the symptom profile.",
+      "C": "Correct. This targets NTM, which fits the clinical picture and is a known risk in CF.",
+      "D": "Alpha-1 antitrypsin (A1AT) deficiency is a separate genetic condition that can lead to emphysema and bronchiectasis. While A1AT deficiency is also listed as a genetic risk factor for NTM, it is not the underlying disease in this patient who has cystic fibrosis. Performing this test would not explain his current clinical deterioration related to CF."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_5d6f49ce",
+    "question": "Regarding the pulmonary manifestations and complications of Cystic Fibrosis, all of the following statements are generally true, EXCEPT:",
+    "options": {
+      "A": "It is characterized by small airways obstruction leading to gas trapping and inhomogeneity of ventilation.",
+      "B": "Patients are at increased risk for developing Non-Tuberculous Mycobacterial infections.",
+      "C": "Development of pulmonary hypertension in these patients is associated with worse clinical outcomes.",
+      "D": "Pulmonary fibrosis with architectural distortion and honeycombing is an early and predominant feature of the disease."
+    },
+    "correctAnswer": "D",
+    "topic": "Cystic Fibrosis",
+    "deepDiveExplanation": "Option D is the least accurate statement. While advanced cystic fibrosis can eventually lead to extensive lung damage, including fibrosis, architectural distortion, and even honeycombing, these are typically features of late-stage, severe disease, not early or predominant manifestations. Early CF lung disease is characterized by chronic inflammation, infection, and progressive bronchiectasis, primarily driven by thick, viscous mucus leading to small airways obstruction and subsequent damage. Significant fibrotic changes like honeycombing usually represent end-stage lung disease. The context mentions 'Lung architectural distortion is constant in stage IV disease' and 'traction bronchiectasis, honeycombing... are encountered, mainly in mid/upper areas' in advanced fibrotic sarcoidosis, which generally applies to severe fibrotic lung disease across etiologies, but not as an *early and predominant* feature of CF.",
+    "highYieldPearl": "Rio's Take: Early CF lung disease primarily involves small airways obstruction, inflammation, infection, and bronchiectasis. While fibrosis and architectural distortion occur, they are hallmarks of advanced, not early or predominant, disease.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This statement is true. The provided context explicitly lists 'Bronchiolar involvement' including cystic fibrosis, and describes small airways obstruction leading to 'A reduction in airflow', 'Increased airways resistance', 'Gas trapping', and 'Inhomogeneity of ventilation'.",
+      "B": "This statement is true. The context lists cystic fibrosis under 'Genetic' risk factors for 'Pulmonary NTM Infection'.",
+      "C": "This statement is true. The context states that for 'Other Lung Diseases' (which includes cystic fibrosis), 'Limited published data suggest that development of PH in all of these conditions is associated with worse outcomes.'",
+      "D": "Correct. This statement is false because while fibrosis and architectural distortion can occur in advanced CF, they are not early or predominant features. The initial and persistent pathology is chronic infection and inflammation leading to bronchiectasis and small airways disease."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_f9513059",
+    "question": "Assertion (A): Patients with cystic fibrosis often exhibit features of small airways obstruction.\nReason (R): Early diagnosis and treatment of small airways obstruction in cystic fibrosis are crucial to prevent progressive lung architectural distortion and irreversible changes.",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation for A.",
+      "B": "Both A and R are true, but R is NOT the correct explanation for A.",
+      "C": "A is true, but R is false.",
+      "D": "A is false, but R is true."
+    },
+    "correctAnswer": "B",
+    "topic": "Cystic Fibrosis",
+    "deepDiveExplanation": "The Assertion (A) is true. The provided context includes 'Bronchiectasis, including cystic fibrosis' as a disease with 'Bronchiolar involvement' and states that 'Small airways obstruction may lead to' various physiological derangements. This clearly indicates that CF is associated with small airways obstruction. \n\nThe Reason (R) is also true. The context emphasizes that 'Early diagnosis and treatment is needed to prevent disease progression' concerning small airways obstruction. Preventing progressive lung architectural distortion and irreversible changes (such as fibrosis and extensive bronchiectasis) is indeed a major goal of early intervention in CF.\n\nHowever, Reason (R) is not the correct explanation for Assertion (A). The assertion describes *what* happens in CF (small airways obstruction). The reason describes the *importance of addressing* this obstruction (to prevent progression). The reason does not explain *why* patients with CF develop small airways obstruction (i.e., the underlying genetic defect, abnormal mucus production, recurrent infections, and inflammation). Therefore, both statements are true, but R does not explain A.",
+    "highYieldPearl": "Rio's Take: In Assertion-Reason questions, ensure the Reason directly explains *why* the Assertion is true, not just states another true fact related to the Assertion. CF causes small airways obstruction due to thick mucus and inflammation; early treatment prevents progression.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is incorrect because while both statements are true, the reason describes the *implication* or *goal* of treatment for small airways obstruction, rather than the *cause* or *mechanism* of the obstruction in CF.",
+      "B": "Correct. Both the assertion and the reason are factually correct statements. However, the reason explains the importance of early intervention for small airways disease progression, not the underlying etiology of why CF patients develop small airways obstruction.",
+      "C": "Incorrect, as both statements are true.",
+      "D": "Incorrect, as both statements are true."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_2210ac81",
+    "question": "A 28-year-old male presents with a 5-year history of chronic productive cough, recurrent sinusitis, and progressive dyspnea. He has a history of childhood pancreatitis requiring enzyme supplementation, previously diagnosed as idiopathic. Pulmonary function tests show severe mixed obstructive and restrictive pattern (FEV1 45% predicted, RV/TLC 0.65). HRCT chest reveals extensive upper lobe predominant bronchiectasis, mucoid impaction, and features of diffuse panbronchiolitis. A sweat chloride test performed 10 years prior yielded a borderline result of 55 mmol/L (normal < 40, borderline 40-59, positive >= 60). Given this clinical scenario, which of the following is the most appropriate next step to establish a definitive diagnosis?",
+    "options": {
+      "A": "Genetic testing for common CFTR mutations.",
+      "B": "Repeat sweat chloride test with pilocarpine iontophoresis.",
+      "C": "Measurement of nasal potential difference.",
+      "D": "Sputum culture for *Pseudomonas aeruginosa* and non-tuberculous mycobacteria."
+    },
+    "correctAnswer": "A",
+    "topic": "Cystic Fibrosis",
+    "deepDiveExplanation": "This patient presents with a classic clinical phenotype highly suggestive of Cystic Fibrosis (CF), including chronic sinopulmonary disease (bronchiectasis, sinusitis, chronic cough), exocrine pancreatic insufficiency (childhood pancreatitis requiring enzyme supplementation), and a previously borderline sweat chloride test. In such a scenario, genetic testing for CFTR mutations is the most appropriate and definitive diagnostic step. It can identify the specific mutations causing the disease, confirming the diagnosis even with a borderline sweat test, and is crucial for guiding prognosis and potential CFTR modulator therapy. A diagnosis of CF requires clinical features consistent with CF *and* evidence of CFTR dysfunction (two CFTR mutations, two positive sweat tests, or an abnormal nasal potential difference). Given the strong clinical features and previous borderline sweat test, genetic testing is the direct path to molecular confirmation.",
+    "highYieldPearl": "Rio's Take: In adults with a strong clinical suspicion of Cystic Fibrosis (e.g., unexplained bronchiectasis, pancreatic insufficiency, recurrent sinopulmonary infections) but with a borderline or even negative sweat test, genetic testing for CFTR mutations is mandatory for definitive diagnosis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Correct. Given the strong clinical picture and a previously borderline sweat test, genetic testing for CFTR mutations is the most direct and definitive method to confirm CF. This identifies the underlying molecular defect.",
+      "B": "Plausible but not the *most appropriate* next step for a definitive diagnosis in this specific scenario. While repeating the sweat test might yield a positive result, it could also remain borderline, delaying definitive diagnosis. Genetic testing offers molecular confirmation.",
+      "C": "Plausible but generally reserved for cases where sweat chloride tests are ambiguous (borderline/intermediate) *and* genetic testing is inconclusive or negative despite high clinical suspicion. It is a more specialized and less accessible test than genetic testing for common mutations.",
+      "D": "Plausible as a management step, as these pathogens are common in CF and detecting them is crucial for treatment. However, culturing sputum pathogens does not confirm the diagnosis of Cystic Fibrosis itself; it identifies complications."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_fafa2e77",
+    "question": "A 35-year-old female with known cystic fibrosis due to homozygous F508del mutations presents with worsening dyspnea, increased cough, and progressive weight loss over 6 months. Her baseline FEV1 is 38% predicted. HRCT chest shows extensive bronchiectasis, cystic changes, and multiple tree-in-bud opacities in the right middle lobe and lingula. Sputum cultures consistently grow *Mycobacterium abscessus*. Echocardiography reveals an estimated pulmonary artery systolic pressure (PASP) of 55 mmHg. Right heart catheterization confirms pulmonary hypertension with mean pulmonary artery pressure (mPAP) of 32 mmHg and pulmonary vascular resistance (PVR) of 4 Wood units. She is currently on standard CF care including CFTR modulators. Which of the following statements regarding her current condition and management is most accurate?",
+    "options": {
+      "A": "Long-term macrolide monotherapy is the cornerstone for managing *Mycobacterium abscessus* infection in CF.",
+      "B": "Pulmonary hypertension in this patient is classified as Group 1 Pulmonary Arterial Hypertension (PAH), necessitating specific PAH-targeted therapy.",
+      "C": "The prognosis for this patient is significantly worsened by the presence of both advanced CF lung disease and *Mycobacterium abscessus* infection.",
+      "D": "Aggressive surgical resection of the most severely affected lung segments is indicated for eradication of *Mycobacterium abscessus*."
+    },
+    "correctAnswer": "C",
+    "topic": "Cystic Fibrosis",
+    "deepDiveExplanation": "This patient has advanced CF lung disease (FEV1 38%), a severe NTM infection with *Mycobacterium abscessus*, and confirmed pulmonary hypertension (PH). *Mycobacterium abscessus* is a highly virulent and drug-resistant NTM species that is particularly challenging to treat in CF patients and is associated with accelerated lung function decline. The presence of PH in CF (typically Group 3 PH due to lung disease, as is likely the case here given the severe underlying lung disease and not Group 1 PAH) is also associated with worse outcomes, as explicitly stated in the provided text. Therefore, the combination of advanced CF lung disease and *M. abscessus* infection are indeed major determinants of her poor prognosis.",
+    "highYieldPearl": "Rio's Take: *Mycobacterium abscessus* in CF is a red flag for severe disease progression and worsened prognosis due to its virulence and resistance. Pulmonary hypertension in CF is typically Group 3 and also independently worsens prognosis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Incorrect. *Mycobacterium abscessus* is highly resistant, and monotherapy with macrolides is ineffective and often leads to further resistance. Treatment requires a multi-drug regimen, often including IV antibiotics, based on susceptibility testing. Macrolides (e.g., azithromycin) are used in CF for their anti-inflammatory effects but not as monotherapy for *M. abscessus* eradication.",
+      "B": "Incorrect. Pulmonary hypertension secondary to severe lung disease like CF is classified as Group 3 PH (PH due to lung disease and/or hypoxia). Group 1 PAH (Pulmonary Arterial Hypertension) is distinct, and therapies for Group 1 are generally not recommended for Group 3 PH unless in specific circumstances or trials.",
+      "C": "Correct. Advanced CF lung disease (low FEV1, extensive bronchiectasis) is a primary driver of morbidity and mortality. *Mycobacterium abscessus* is a particularly virulent and difficult-to-treat NTM in CF patients, known to accelerate lung function decline and worsen prognosis. The provided context explicitly states that 'development of PH in all of these conditions [including CF] is associated with worse outcomes.' Thus, the combination of these factors significantly impacts prognosis.",
+      "D": "Incorrect. Surgical resection for NTM is typically considered for highly localized disease, usually after failure of maximal medical therapy, and only if the patient's lung function can tolerate it. In a patient with extensive bronchiectasis, poor lung function (FEV1 38%), and evidence of multi-segment involvement ('multiple tree-in-bud opacities in the right middle lobe and lingula'), aggressive surgical resection would be too risky and likely ineffective due to diffuse involvement."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_2de5deb2",
+    "question": "A 16-year-old male with Cystic Fibrosis, confirmed by homozygous F508del CFTR mutations, has been receiving triple-combination CFTR modulator therapy (elexacaftor/tezacaftor/ivacaftor) for the past 6 months. Prior to starting therapy, his FEV1 was 55% predicted, and he had frequent pulmonary exacerbations. Since initiating modulators, his FEV1 has improved to 75% predicted, and he has experienced a significant reduction in exacerbations. However, he now reports new-onset frequent headaches, insomnia, and occasional blurry vision. His liver function tests (LFTs) show mild elevation of ALT (80 U/L, normal < 50) and AST (65 U/L, normal < 45), which were normal at baseline. Which of the following is the most appropriate management strategy for this patient?",
+    "options": {
+      "A": "Discontinue CFTR modulator therapy immediately due to significant side effects and liver toxicity.",
+      "B": "Reduce the dose of CFTR modulator therapy and re-evaluate symptoms and LFTs in 2-4 weeks.",
+      "C": "Continue CFTR modulator therapy at the current dose and monitor LFTs and symptoms closely, as these adverse effects are usually transient.",
+      "D": "Investigate for other causes of headaches and blurry vision, as these are universally considered non-drug related side effects of CFTR modulators."
+    },
+    "correctAnswer": "B",
+    "topic": "Cystic Fibrosis",
+    "deepDiveExplanation": "This patient is experiencing significant clinical benefit from CFTR modulator therapy but has developed new, albeit mild to moderate, adverse effects including LFT elevations and neurological symptoms (headaches, insomnia, blurry vision). While LFT elevations can be transient, they require monitoring and sometimes dose modification. Headaches and insomnia are known, though less frequent, side effects of elexacaftor/tezacaftor/ivacaftor. Blurry vision is a rarer, but reported, visual disturbance (which could necessitate an ophthalmological evaluation to rule out other causes, but it's important to consider drug relation first). Given the mild LFT elevations (ALT 1.6x ULN, AST 1.4x ULN, which are not indications for immediate discontinuation as per guidelines, which usually cite >3-5x ULN), and the new, bothersome symptoms, a dose reduction is the most appropriate initial step. This approach aims to mitigate side effects while attempting to maintain the significant clinical benefits achieved, which is crucial for a CF patient.",
+    "highYieldPearl": "Rio's Take: When managing CFTR modulator side effects, especially mild-to-moderate LFT elevations or manageable neurological symptoms, the strategy often involves dose reduction rather than immediate discontinuation, balancing benefit with risk. Always consider ophthalmological assessment for new visual symptoms, but also attribute potential drug-relatedness.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Incorrect. Complete discontinuation is typically reserved for severe adverse effects, such as LFT elevations >5x ULN, or >3x ULN with symptoms of liver injury, or severe hypersensitivity reactions. The LFT elevations here are mild, and the neurological symptoms, while bothersome, are not immediately life-threatening. Discontinuing immediately would sacrifice significant clinical benefit.",
+      "B": "Correct. This is the most balanced and appropriate approach. Reducing the dose can help alleviate the side effects and allow LFTs to normalize, while still providing some benefit from the modulator therapy. If symptoms and LFTs improve, the dose can be cautiously re-escalated or maintained at the lower, tolerable dose. This strategy prioritizes patient safety while trying to preserve the significant clinical gains.",
+      "C": "Incorrect. While some LFT elevations can be transient, ignoring them and new neurological/visual symptoms could lead to worsening adverse effects. The patient is symptomatic, and the LFTs, while mild, are clearly elevated above baseline, warranting intervention rather than just continued monitoring at the same dose.",
+      "D": "Incorrect. While investigation for other causes is always prudent, headaches, insomnia, and even visual disturbances (e.g., cataracts, papilledema which needs evaluation) are reported side effects of CFTR modulators, especially the triple combination. To universally consider them non-drug related is a false premise and could delay appropriate management of drug-induced effects. The temporal association with drug initiation strongly suggests drug-relatedness."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_7ad9933d",
+    "question": "A 25-year-old male with a known history of Cystic Fibrosis presents with worsening cough, increased sputum production, and constitutional symptoms. Sputum culture subsequently grows *Mycobacterium avium complex*. Based on the provided context, which of the following is a recognized genetic risk factor for pulmonary non-tuberculous mycobacterial (NTM) infection?",
+    "options": {
+      "A": "Cystic Fibrosis",
+      "B": "Pulmonary alveolar proteinosis",
+      "C": "Gastroesophageal reflux",
+      "D": "Mitral valve prolapse"
+    },
+    "correctAnswer": "A",
+    "topic": "Cystic Fibrosis",
+    "deepDiveExplanation": "Cystic Fibrosis is a well-established genetic disorder that significantly increases the risk of pulmonary non-tuberculous mycobacterial (NTM) infections. The underlying structural lung abnormalities (bronchiectasis) and impaired mucociliary clearance in CF patients create a favorable environment for NTM colonization and infection. The provided text explicitly lists 'cystic fibrosis' under 'Genetic' risk factors for Pulmonary NTM Infection.",
+    "highYieldPearl": "Rio's Take: Always remember Cystic Fibrosis as a key genetic predisposition for NTM lung disease. The combination of chronic lung disease and a genetic risk factor is a high-yield concept.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct answer. The text explicitly states 'Genetic: cystic fibrosis' as a risk factor for pulmonary NTM infection.",
+      "B": "Incorrect. Pulmonary alveolar proteinosis is listed as a 'Structural Lung Abnormality' risk factor, not a 'Genetic' one.",
+      "C": "Incorrect. Gastroesophageal reflux is listed under 'Others' as a risk factor, not a 'Genetic' one.",
+      "D": "Incorrect. Mitral valve prolapse is listed under 'Others' as a risk factor, not a 'Genetic' one."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_2a2a7b7f",
+    "question": "A 10-year-old child diagnosed with Cystic Fibrosis presents with chronic cough, recurrent respiratory infections, and dyspnea. High-resolution computed tomography (HRCT) of the chest reveals widespread airway dilatation, bronchial wall thickening, and mucus plugging, predominantly in the upper lobes. This characteristic pulmonary pathology in Cystic Fibrosis is primarily categorized under which of the following?",
+    "options": {
+      "A": "Bronchiectasis",
+      "B": "Interstitial Lung Disease",
+      "C": "Emphysema",
+      "D": "Pulmonary fibrosis"
+    },
+    "correctAnswer": "A",
+    "topic": "Cystic Fibrosis",
+    "deepDiveExplanation": "Cystic Fibrosis is a classic cause of bronchiectasis. The genetic defect in the CFTR protein leads to abnormal chloride transport, resulting in thick, tenacious mucus that obstructs airways and impairs mucociliary clearance. This chronic obstruction and infection lead to inflammation and irreversible dilatation of the bronchi, a condition known as bronchiectasis. The provided text explicitly mentions 'Bronchiectasis, including cystic fibrosis' under diseases with bronchiolar involvement.",
+    "highYieldPearl": "Rio's Take: Cystic Fibrosis is the quintessential genetic cause of bronchiectasis. Recognize the clinical and radiological presentation of bronchiectasis as a hallmark of CF lung disease.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct answer. The text lists 'Bronchiectasis, including cystic fibrosis' as a disease involving bronchiolar and large airways. The clinical vignette also describes features highly suggestive of bronchiectasis.",
+      "B": "Incorrect. While some CF patients might develop secondary interstitial changes, it is not the primary or characteristic pulmonary pathology of CF mentioned in the context. Interstitial Lung Disease primarily affects the lung parenchyma rather than the airways.",
+      "C": "Incorrect. Emphysema involves destruction of alveolar walls. While small airways obstruction in CF can lead to gas trapping, emphysema is not the defining primary pathology of CF, which is characterized by airway disease.",
+      "D": "Incorrect. Pulmonary fibrosis involves scarring and architectural distortion of the lung parenchyma. While advanced CF lung disease can have fibrotic changes, the primary characteristic pathology is bronchiectasis, not diffuse pulmonary fibrosis as seen in conditions like IPF or advanced sarcoidosis (which is described in the text for scarring & fibrosis)."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_8c32eed9",
+    "question": "A 30-year-old female with long-standing Cystic Fibrosis and significant lung disease undergoes evaluation for worsening exertional dyspnea and fatigue. Right heart catheterization reveals a mean pulmonary artery pressure of 35 mmHg, consistent with pulmonary hypertension. Based on the provided context, the development of pulmonary hypertension in patients with Cystic Fibrosis is associated with which of the following?",
+    "options": {
+      "A": "Worse clinical outcomes",
+      "B": "Improved exercise tolerance",
+      "C": "Decreased risk of infections",
+      "D": "Resolution of bronchiectasis"
+    },
+    "correctAnswer": "A",
+    "topic": "Cystic Fibrosis",
+    "deepDiveExplanation": "Pulmonary hypertension (PH) can occur as a complication in various chronic lung diseases, including Cystic Fibrosis. Its development signifies advanced lung disease and increased hemodynamic burden on the right ventricle. The provided context explicitly states that 'Limited published data suggest that development of PH in all of these conditions [including CF] is associated with worse outcomes.'",
+    "highYieldPearl": "Rio's Take: Pulmonary hypertension, when it complicates chronic lung diseases like CF, is a marker of severe disease and consistently indicates a poorer prognosis. It's a critical complication to identify.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct answer. The text directly states that 'development of PH in all of these conditions [including CF] is associated with worse outcomes.'",
+      "B": "Incorrect. Pulmonary hypertension by definition restricts blood flow through the lungs and increases the workload on the heart, leading to increased dyspnea and reduced exercise tolerance, not improvement.",
+      "C": "Incorrect. Pulmonary hypertension is a consequence of severe lung disease and does not decrease the risk of infections. In fact, advanced lung disease and PH might indirectly predispose to more complications.",
+      "D": "Incorrect. Pulmonary hypertension is a cardiovascular complication of the underlying lung disease (bronchiectasis in CF); it does not lead to the resolution of the structural airway damage."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_aa39d892",
+    "question": "Small airways obstruction is a characteristic feature in Cystic Fibrosis. According to the provided context, this obstruction can result in all of the following pulmonary consequences EXCEPT:",
+    "options": {
+      "A": "Reduced airflow",
+      "B": "Increased airways resistance",
+      "C": "Gas trapping",
+      "D": "Improved ventilation homogeneity"
+    },
+    "correctAnswer": "D",
+    "topic": "Cystic Fibrosis",
+    "deepDiveExplanation": "Cystic Fibrosis is recognized as a disease involving the small airways, leading to obstruction. The provided text explicitly lists the physiological consequences of small airways obstruction as: 'A reduction in airflow', 'Increased airways resistance', 'Gas trapping', and 'Inhomogeneity of ventilation'. Therefore, improved ventilation homogeneity is contrary to the effects of small airways obstruction, which causes uneven distribution of ventilation within the lungs.",
+    "highYieldPearl": "Rio's Take: Small airways obstruction is a core pathological feature in Cystic Fibrosis, contributing significantly to its clinical manifestations. The key physiological consequences—reduced airflow, increased resistance, gas trapping, and ventilation inhomogeneity—are critical to understanding the disease's impact on lung function.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Reduced airflow is a direct and expected consequence of any airway obstruction, including in the small airways, leading to an obstructive pattern on pulmonary function tests.",
+      "B": "Increased airways resistance directly results from narrowing or obstruction of the airways. This is a fundamental principle of airflow dynamics.",
+      "C": "Gas trapping occurs when air enters the alveoli but cannot fully exit due to airway obstruction, especially during exhalation. This leads to hyperinflation, a common finding in diseases like Cystic Fibrosis.",
+      "D": "Small airways obstruction causes 'inhomogeneity of ventilation' (uneven ventilation distribution), not 'improved ventilation homogeneity'. This option presents the opposite effect, making it the correct answer for an EXCEPT question."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_52885435",
+    "question": "Which of the following is NOT a characteristic feature in the immunopathogenesis of Allergic Bronchopulmonary Aspergillosis (ABPA)?",
+    "options": {
+      "A": "Sustained IL-17 expression",
+      "B": "Formation of eosinophil extracellular traps",
+      "C": "Predominant Th1 CD4+ T-cell response",
+      "D": "Presence of Charcot-Leyden crystals"
+    },
+    "correctAnswer": "C",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "ABPA is characterized by a complex allergic and immune reaction to Aspergillus colonization, primarily mediated by a Th2 CD4+ T-cell response. This Th2 response leads to the synthesis of IgE, IgG, and IgA antibodies, and the recruitment and activation of eosinophils. While sustained IL-17 expression is noted as part of the immune response, it occurs in the context of the Th2 framework, not as a primary Th1-driven pathology. Eosinophils are central to the pathology, releasing toxic cationic proteins that form Charcot-Leyden crystals and contributing to mucus viscosity through eosinophil extracellular traps. A predominant Th1 response, which is characteristic of cellular immunity against intracellular pathogens, is not the main driver of allergic inflammation in ABPA.",
+    "highYieldPearl": "Rio's Take: Remember ABPA as a classic Th2-driven hypersensitivity reaction, distinct from Th1-mediated immunity. The presence of IL-17, though typically associated with Th17 cells, is contextualized within the Th2 framework in ABPA's pathogenesis as described in the provided text.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Plausible. The text explicitly states 'sustained IL-17 expression' accompanies the Th2 CD4+ T-cell mediated immune response in ABPA. Candidates might incorrectly associate IL-17 solely with Th17 responses, leading them to pick this option if they misinterpret its role in ABPA.",
+      "B": "Plausible. 'Eosinophil extracellular traps' are explicitly mentioned as contributing to the high viscosity of eosinophilic mucus in ABPA. This is a direct factual recall.",
+      "C": "This is the correct answer. ABPA is predominantly driven by a Th2 CD4+ T-cell response, not a Th1 response. Students who do not accurately recall the specific T-helper cell subtype involved would be trapped.",
+      "D": "Plausible. 'Charcot-Leyden crystals' are specifically mentioned as being formed from toxic cationic proteins released by accumulated eosinophils in the airways, making it a characteristic feature."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_084f605f",
+    "question": "A 28-year-old male with long-standing asthma presents with recurrent episodes of cough, wheezing, and transient pulmonary infiltrates. His laboratory investigations reveal peripheral eosinophilia and elevated total IgE levels. High-resolution computed tomography (HRCT) of the chest shows central bronchiectasis. Further workup for an underlying condition reveals a mutation in the CFTR gene, though he does not meet full criteria for cystic fibrosis. This patient's presentation is most consistent with Allergic Bronchopulmonary Aspergillosis (ABPA), which is associated with all of the following conditions or genetic factors EXCEPT:",
+    "options": {
+      "A": "Hyper-IgE syndrome",
+      "B": "HLA-DRB1*1501 polymorphism",
+      "C": "Impaired mucociliary clearance in Chronic Obstructive Pulmonary Disease (COPD)",
+      "D": "Kartagener syndrome"
+    },
+    "correctAnswer": "C",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "The patient's clinical picture (asthma, recurrent infiltrates, eosinophilia, high IgE, central bronchiectasis) is classic for ABPA. The presence of a CFTR gene mutation is also relevant, as CFTR polymorphisms and cystic fibrosis are known associations/risk factors for ABPA. The provided text explicitly lists Hyper-IgE syndrome and Kartagener syndrome as associated conditions, and HLA-DRB1*1501 as a genetic susceptibility factor. However, the text clearly states that 'ABPA is exceedingly rare in patients with COPD despite their impaired mucociliary clearance.' Therefore, impaired mucociliary clearance in COPD is not an associated condition or predisposing factor for ABPA, making it the correct 'EXCEPT' option.",
+    "highYieldPearl": "Rio's Take: While impaired mucociliary clearance is a general risk factor for airway colonization, ABPA has a specific immunogenetic predisposition that makes it rare in COPD patients, despite their mucociliary dysfunction. Remember the specific conditions and genetic markers listed for ABPA, including the noteworthy exclusion of COPD.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Plausible. Hyper-IgE syndrome is directly listed in the text as an associated condition with ABPA.",
+      "B": "Plausible. HLA-DRB1*1501 is explicitly mentioned as a genetic susceptibility factor for ABPA.",
+      "C": "This is the correct answer. The text specifically highlights that ABPA is 'exceedingly rare in patients with COPD despite their impaired mucociliary clearance.' This challenges a common assumption that any condition causing mucociliary impairment would predispose to ABPA.",
+      "D": "Plausible. Kartagener syndrome is directly listed in the text as an associated condition with ABPA."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_37ad3a5e",
+    "question": "Which of the following statements best describes a key pathophysiological mechanism contributing to the development of bronchiectasis in Allergic Bronchopulmonary Aspergillosis (ABPA)?",
+    "options": {
+      "A": "Local retractile forces from peribronchial fibrosis leading to traction bronchiectasis.",
+      "B": "Intense immunologically mediated luminal inflammation and mucoid impaction causing pulsion bronchiectasis.",
+      "C": "Primary damage to the airway walls due to chronic bacterial infection, resulting in loss of structural integrity.",
+      "D": "Systemic vasculitis causing ischemic injury and subsequent weakening of the bronchial cartilage."
+    },
+    "correctAnswer": "B",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "The provided text explicitly states that ABPA is the 'prototype' for 'pulsion bronchiectasis.' This type of bronchiectasis is caused by 'intense inflammation originating in the lumen,' specifically 'intense immunologically mediated reactions to inhaled Aspergillus lodged in the airways.' These reactions lead to proliferating fungi forming 'large mucoid conglomerates that fill the central airways.' The ensuing airway inflammatory process and mucoid impaction directly result in permanent airway dilation. Option A describes traction bronchiectasis, typically seen in fibrotic lung diseases. Option C describes 'weakness of the airways' or classic post-infectious bronchiectasis, which is a more general mechanism not specific to the primary pathophysiology of ABPA. Option D describes an unrelated mechanism of airway damage.",
+    "highYieldPearl": "Rio's Take: ABPA is the quintessential example of pulsion bronchiectasis. Understand the distinct mechanisms behind different types of bronchiectasis: traction (external fibrotic pull), pulsion (internal luminal inflammation/impaction), and weakness (intrinsic wall damage).",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Plausible distractor. This describes 'traction bronchiectasis,' which is a real type of bronchiectasis, but it is caused by external fibrotic forces (e.g., in sarcoidosis or ILD), not the primary mechanism specific to ABPA.",
+      "B": "This is the correct answer. It directly aligns with the text's description of ABPA as the prototype for 'pulsion bronchiectasis,' driven by luminal inflammation and mucoid impaction.",
+      "C": "Plausible distractor. This describes classic 'post-infectious bronchiectasis' or 'weakness of the airways,' where chronic infection directly damages airway walls. While secondary bacterial infections can occur in ABPA, this is not described as the *primary* pathophysiological mechanism for bronchiectasis in ABPA.",
+      "D": "Less plausible distractor. Systemic vasculitis is not mentioned as a mechanism for bronchiectasis in ABPA, though vasculitis can cause lung pathology in other contexts. This option diverts attention to an unrelated disease process."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_28a9a334",
+    "question": "A 35-year-old male with long-standing allergic asthma presents with recurrent wheezing, cough with expectoration of thick brown plugs, and progressive dyspnea. Laboratory investigations reveal peripheral eosinophilia (1800 cells/µL), significantly elevated total IgE (2800 IU/mL), positive *Aspergillus fumigatus* specific IgE, and markedly increased *A. fumigatus* specific IgG. High-resolution CT of the chest demonstrates central bronchiectasis with mucoid impaction. Bronchoscopy findings include highly viscous mucus plugs. Which of the following immunologic pathways is *most central* to the pathogenesis of the bronchial damage and mucus plugging observed in this patient?",
+    "options": {
+      "A": "Predominant Th1 CD4+ T-cell response leading to macrophage activation and granuloma formation.",
+      "B": "Sustained Th2 CD4+ T-cell activation with concomitant IL-17 expression and eosinophil extracellular trap formation.",
+      "C": "Cytotoxic CD8+ T-cell mediated destruction of bronchial epithelial cells in response to fungal antigens.",
+      "D": "Chronic activation of the classical complement pathway by fungal elements leading to direct cellular lysis."
+    },
+    "correctAnswer": "B",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "ABPA is characterized by a complex allergic and immune reaction to *Aspergillus* colonization. The immunologic response involves an early IgE-mediated allergic response and a late-phase lung injury with participation of IgG, IgA, and a Th2 CD4+ T-cell-mediated immune response. Crucially, this Th2 response is accompanied by sustained IL-17 expression, leading to a profound inflammatory reaction with influx of neutrophils and eosinophils. Eosinophils, accumulated in the airways, release toxic cationic proteins (e.g., forming Charcot-Leyden crystals) and contribute to the formation of eosinophil extracellular traps (EETs). These EETs are composed of stable and condensed chromatin fibers and contribute significantly to the high viscosity of eosinophilic mucus, leading to the hallmark airway mucus plugging and subsequent bronchial damage.",
+    "highYieldPearl": "Rio's Take: ABPA pathogenesis is a unique blend: Th2 immunity drives IgE/IgG and eosinophilia, while sustained IL-17 also plays a role. Don't forget eosinophil extracellular traps (EETs) as a key mechanism for the characteristic viscous mucus plugging and subsequent pulsion bronchiectasis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Th1 responses are typically associated with cell-mediated immunity against intracellular pathogens and granuloma formation (e.g., tuberculosis, sarcoidosis), which is not the primary mechanism in ABPA's allergic inflammatory pathway.",
+      "B": "This option accurately captures multiple key elements from the text: the central role of the Th2 CD4+ T-cell response, the 'sustained IL-17 expression', and the formation of 'eosinophil extracellular traps' which contribute to mucus viscosity and airway plugging. This directly reflects the complex, multi-faceted pathogenesis described.",
+      "C": "While cellular immunity is involved, cytotoxic CD8+ T-cell mediated lysis is not described as a primary mechanism of bronchial damage in ABPA. The damage is primarily due to the intense Th2-driven eosinophilic and neutrophilic inflammation.",
+      "D": "While fungal infections can activate the complement system, chronic activation of the classical complement pathway as the *most central* mechanism for bronchial damage and mucus plugging in ABPA is not supported by the provided text, which emphasizes the Th2/IgE/IgG/eosinophil axis."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_c9dd936d",
+    "question": "A 40-year-old patient with long-standing cystic fibrosis presents with worsening cough, increasing purulent sputum production, and recurrent episodes of pulmonary infiltrates. HRCT chest reveals extensive central bronchiectasis, particularly affecting the upper lobes, with multiple areas of high-attenuation mucoid impaction within dilated bronchi. Peripheral blood tests show prominent eosinophilia. Immunological workup confirms an allergic reaction to *Aspergillus fumigatus*. The patient's bronchiectasis, characteristic of ABPA, is best classified as and primarily attributed to which of the following mechanisms?",
+    "options": {
+      "A": "Traction bronchiectasis, due to diffuse parenchymal fibrosis causing outward pull on airways.",
+      "B": "Pulsion bronchiectasis, resulting from intense immunologically mediated inflammation originating in the airway lumen.",
+      "C": "Congenital bronchiectasis, secondary to an inherited defect in bronchial cartilage.",
+      "D": "Weakness of the airways, primarily due to enzymatic degradation of bronchial walls by chronic bacterial infection."
+    },
+    "correctAnswer": "B",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "The text explicitly categorizes ABPA as a prototype for pulsion bronchiectasis. It states: 'Pulsion bronchiectasis – intense inflammation originating in the lumen leads to permanent airway dilation. The prototype is allergic bronchopulmonary aspergillosis (ABPA). In ABPA, intense immunologically mediated reactions to inhaled *Aspergillus* lodged in the airways cause proliferating fungi to form large mucoid conglomerates that fill the central airways; a sequela of this airway inflammatory process and mucoid impaction is bronchiectasis.' This mechanism clearly describes the primary pathogenesis of bronchiectasis in ABPA, distinct from other types.",
+    "highYieldPearl": "Rio's Take: Remember the distinct categories of bronchiectasis: traction (fibrosis), pulsion (luminal inflammation, ABPA is the prototype), and weakness (wall damage). ABPA's mucoid impaction and intense allergic inflammation cause pulsion bronchiectasis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Traction bronchiectasis occurs when external forces (like fibrosis in sarcoidosis or interstitial lung disease) pull and dilate airways. While CF can lead to fibrosis, the text specifically identifies pulsion bronchiectasis as the mechanism in ABPA.",
+      "B": "This option directly quotes and accurately reflects the definition of pulsion bronchiectasis, for which ABPA is specifically stated as the prototype. The mechanism involves severe immunologically driven luminal inflammation and mucoid impaction leading to airway dilation.",
+      "C": "Congenital bronchiectasis refers to primary developmental defects. While CF is a genetic condition, the bronchiectasis in ABPA superimposed on CF is an acquired, inflammatory process triggered by *Aspergillus*, not solely a congenital structural defect of the bronchi.",
+      "D": "Weakness of the airways can result from damage, including enzymatic degradation by chronic infection, but the text highlights the 'intense immunologically mediated reactions' and 'mucoid impaction' as the *primary* driver of bronchiectasis in ABPA, distinct from general weakness mechanisms, placing it under pulsion bronchiectasis."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_b62abd77",
+    "question": "A 28-year-old non-smoking female presents with chronic cough, recurrent episodes of wheezing, and intermittent exertional dyspnea, despite no prior history of childhood asthma. Her medical history is otherwise unremarkable. Investigations reveal peripheral eosinophilia, markedly elevated total IgE, and positive *Aspergillus fumigatus* specific IgE and IgG. HRCT chest confirms central bronchiectasis. A family history review indicates a similar, albeit milder, respiratory illness in her sibling. Genetic testing identifies specific HLA polymorphisms and a mutation in a gene associated with innate immunity. Given this presentation, which combination of genetic factors is *most likely* contributing to her ABPA?",
+    "options": {
+      "A": "HLA-DQB1*0602 polymorphism and a mutation in the transforming growth factor-beta (TGF-β) gene.",
+      "B": "Homozygous delta F508 mutation in the Cystic Fibrosis Transmembrane Regulator (CFTR) gene.",
+      "C": "HLA-DR2/5 polymorphism and a mutation in the Mannose-binding lectin (MBL) gene.",
+      "D": "Polymorphism in the Surfactant Protein A2 gene and a defect in regulatory T-cell response due to IL-10 receptor mutation."
+    },
+    "correctAnswer": "C",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "The provided text lists multiple genetic susceptibility factors for ABPA. Specifically, it mentions 'HLA-DR4, DR5, DR7, DR2, DR2/DR5, DRB1*1501, DRB1*1503, DRB1*0701, DQB1*0602, DQB1*0201' as HLA alleles. It also details 'Mannose-binding lectin' as a gene on 10q11.2-q21, whose polymorphism contributes to susceptibility and is involved in innate immunity. The vignette describes the patient having 'specific HLA polymorphisms and a mutation in a gene associated with innate immunity', which directly points to the combination of HLA and MBL. The text also mentions that ABPA can occur 'rarely, in the absence of asthma or bronchial lung disease', suggesting that strong genetic predispositions can contribute to such atypical presentations.",
+    "highYieldPearl": "Rio's Take: When assessing ABPA genetic predisposition, prioritize specific HLA alleles (like DR2/5) and innate immunity genes (like MBL or TLR9). Remember ABPA can occur without classic asthma, often implying strong underlying genetic susceptibility.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "While HLA-DQB1*0602 and TGF-β gene mutations are listed as genetic susceptibility factors, the HLA-DR2/5 and MBL combination is more explicitly highlighted in the text as leading to greater efficiency in antigen presentation and involved in innate immunity, respectively, fitting the vignette's description more precisely.",
+      "B": "Homozygous delta F508 mutation is characteristic of severe cystic fibrosis. While CFTR gene mutations are listed as genetic susceptibility factors for ABPA, and ABPA is common in CF patients, the vignette does not strongly suggest full-blown CF (e.g., no mention of pancreatic insufficiency or other CF manifestations), and the prompt specifically asks for 'HLA polymorphisms and a mutation in a gene associated with innate immunity', which MBL fulfills more directly than CFTR.",
+      "C": "This option perfectly aligns with the text. HLA-DR2/5 polymorphism is highlighted as resulting in 'greater efficiency in presenting *Aspergillus* allergens to T cells,' and Mannose-binding lectin (MBL) is explicitly listed as a genetic susceptibility factor involved in innate immunity, directly matching the cues in the vignette.",
+      "D": "Surfactant protein A2 is indeed a listed genetic susceptibility factor. While a defect in regulatory T-cell response is documented in ABPA, and IL-10 is relevant, the question specifically asks for a 'mutation in a gene associated with innate immunity' which MBL or TLR9 fit better than a general regulatory T-cell defect or an IL-10 receptor mutation (though IL-10 is listed as a susceptibility gene). The combination of HLA-DR2/5 and MBL is a stronger, more direct match to the prompt's specific clues."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_d8b5edec",
+    "question": "A 35-year-old male with a 15-year history of poorly controlled asthma presents with increasing cough, sputum production with dark brown mucus plugs, and recurrent pulmonary infiltrates. HRCT chest reveals central bronchiectasis and mucoid impaction. Laboratory investigations show peripheral eosinophilia, markedly elevated total IgE, and positive *Aspergillus fumigatus*-specific IgE. Diagnosis of Allergic Bronchopulmonary Aspergillosis (ABPA) is made. Regarding the immunopathogenesis of ABPA, which of the following statements is LEAST characteristic?",
+    "options": {
+      "A": "A profound inflammatory reaction driven by a Th2 CD4+ T-cell mediated immune response.",
+      "B": "Sustained IL-17 expression contributing to the inflammatory cascade and lung injury.",
+      "C": "Release of eosinophil extracellular traps (EETs) enhancing mucus viscosity and airway obstruction.",
+      "D": "Primary immune response characterized by a prominent Th1 cell activation with robust IFN-γ production."
+    },
+    "correctAnswer": "D",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "ABPA is predominantly characterized by a Type 2 helper T-cell (Th2) mediated immune response. This involves the release of cytokines such as IL-4, IL-5, IL-9, IL-10, and IL-13, leading to eosinophilia, IgE synthesis, and mast cell activation. While IL-17 expression is noted in the pathogenesis, the core allergic response is Th2. A prominent Th1 cell activation, characterized by IFN-γ production, is generally associated with cellular immunity against intracellular pathogens or autoimmune diseases, and is antithetical to the Th2-driven allergic inflammation seen in ABPA. Therefore, a primary immune response driven by Th1 activation is the least characteristic finding.",
+    "highYieldPearl": "Rio's Take: ABPA is a quintessential Th2-mediated allergic disease. Any option suggesting a primary Th1 (IFN-γ) driven response is usually incorrect for ABPA immunopathogenesis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is a core aspect of ABPA, which is driven by a Th2 CD4+ T-cell response leading to significant inflammation.",
+      "B": "The text explicitly mentions 'sustained IL-17 expression' as part of the immunologic response in ABPA, making this a characteristic feature.",
+      "C": "Eosinophil extracellular traps (EETs) are a recent advance in understanding ABPA pathogenesis, specifically mentioned as contributing to the high viscosity of eosinophilic mucus and thus airway obstruction. This is a characteristic feature.",
+      "D": "This is the correct answer because ABPA is fundamentally a Th2-mediated disorder, characterized by IL-4, IL-5, IL-13, and IgE production. A prominent Th1 response (driven by IFN-γ) is typically associated with cellular immunity and is not characteristic of ABPA."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_8e4a51e5",
+    "question": "A 48-year-old patient with cystic fibrosis (CF) presents with chronic productive cough, recurrent hemoptysis, and worsening dyspnea. HRCT chest shows extensive central bronchiectasis. Pulmonary function tests reveal obstructive physiology. Serological tests confirm elevated total IgE and specific IgE antibodies to *Aspergillus fumigatus*. The patient is diagnosed with ABPA complicating CF. Which of the following genetic polymorphisms, beyond the common HLA alleles (e.g., HLA-DR2/5), would be LEAST likely to contribute to this patient's susceptibility to ABPA?",
+    "options": {
+      "A": "Mannose-binding lectin (MBL) gene variants leading to reduced protein function.",
+      "B": "Polymorphisms in the IL-4 receptor alpha (IL-4Rα) gene.",
+      "C": "Mutations affecting the function of the Toll-like receptor 9 (TLR9).",
+      "D": "Homozygous null mutations in the alpha-1 antitrypsin (A1AT) gene."
+    },
+    "correctAnswer": "D",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "The provided text lists several genetic susceptibilities for ABPA, including HLA-DR alleles, Mannose-binding lectin, Surfactant protein A2, Toll-like receptor 9, IL-4Rα, IL-10, Transforming growth factor-β, Cystic fibrosis transmembrane regulator (CFTR), and Chitinase 1. Homozygous null mutations in the alpha-1 antitrypsin (A1AT) gene are primarily associated with A1AT deficiency, which causes panacinar emphysema and can lead to bronchiectasis, but is not mentioned as a direct genetic predisposing factor for ABPA itself. While A1AT deficiency causes lung disease, it does not specifically predispose to the *allergic* immune response against *Aspergillus* as the other options do according to the provided context.",
+    "highYieldPearl": "Rio's Take: Memorize the specific genetic associations for ABPA. While other genetic disorders cause lung disease, only those directly linked to innate/adaptive immunity against *Aspergillus* or bronchial integrity are relevant to ABPA susceptibility.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Mannose-binding lectin (MBL) is explicitly listed as a gene with polymorphisms associated with ABPA susceptibility, playing a role in innate immunity.",
+      "B": "IL-4Rα is specifically mentioned as a gene with polymorphisms linked to ABPA, reflecting the central role of IL-4 in the Th2-mediated response.",
+      "C": "Toll-like receptor 9 (TLR9) is listed as a gene whose polymorphisms contribute to genetic susceptibility in ABPA, highlighting defects in innate immunity.",
+      "D": "Alpha-1 antitrypsin (A1AT) deficiency is associated with emphysema and some forms of bronchiectasis but is not listed among the genetic susceptibilities specific to the pathogenesis of ABPA in the provided text. This makes it the least likely contributor among the options based on the given information, despite its role in other lung diseases."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_4f4392f0",
+    "question": "A 55-year-old non-smoker presents with a 6-month history of worsening cough, occasional fever, and expectoration of thick, rubbery mucus plugs. He has no prior history of asthma but has a 10-year history of Crohn's disease managed with biologics. HRCT chest reveals cylindrical and varicose bronchiectasis affecting the central and upper lobes, with evidence of mucoid impaction. Laboratory tests show significant peripheral eosinophilia and markedly elevated IgE levels with positive *Aspergillus fumigatus* precipitins. Which of the following best describes the predominant mechanism leading to bronchiectasis in this patient's condition?",
+    "options": {
+      "A": "Traction bronchiectasis due to diffuse interstitial fibrosis secondary to chronic inflammation.",
+      "B": "Pulsion bronchiectasis resulting from intense intraluminal immunologically mediated inflammation and mucus plugging.",
+      "C": "Weakness of airway walls caused by direct enzymatic degradation from chronic bacterial colonization.",
+      "D": "Congenital defects in airway cartilage leading to generalized bronchial wall flaccidity."
+    },
+    "correctAnswer": "B",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "The clinical vignette strongly suggests ABPA, even in the absence of asthma (which is noted as rare but possible in the text, and Crohn's disease is an associated condition). The text explicitly defines 'Pulsion bronchiectasis' as intense inflammation originating in the lumen leading to permanent airway dilation, with ABPA given as the prototype. The hallmark mucus plugging and immunologically mediated reactions to *Aspergillus* directly fit this description. Traction bronchiectasis, conversely, is due to external retractile forces, and weakness of airways due to enzymatic degradation or congenital defects are different mechanisms not specific to the core pathogenesis of ABPA's bronchiectasis.",
+    "highYieldPearl": "Rio's Take: ABPA is the classic example of 'Pulsion Bronchiectasis.' Understand the distinct mechanisms of bronchiectasis (traction, pulsion, weakness) and which diseases exemplify each.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Traction bronchiectasis is caused by external forces from fibrotic processes (e.g., sarcoidosis, ILD, TB) pulling airways open. This is not the primary mechanism described for ABPA.",
+      "B": "This option accurately describes pulsion bronchiectasis, which the text explicitly states is prototypically seen in ABPA due to intense intraluminal immunological reactions to *Aspergillus* and subsequent mucoid impaction leading to airway dilation. The patient's presentation with mucus plugs and central bronchiectasis perfectly aligns with this.",
+      "C": "While chronic infection can cause airway damage, the specific mechanism in ABPA is described as immunologically mediated inflammation and mucus plugging (pulsion), rather than primarily direct bacterial enzymatic degradation causing general airway wall weakness. The question specifically asks for the *predominant* mechanism in *this patient's condition* (ABPA).",
+      "D": "Congenital defects in airway cartilage (e.g., Williams-Campbell syndrome) represent a specific form of airway weakness. While 'weakness of the airways' is a broad category, it's not the primary mechanism of bronchiectasis in ABPA, which is driven by intraluminal inflammation."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_2a12a556",
+    "question": "A 45-year-old male with a long history of poorly controlled asthma presents with recurrent episodes of cough, wheezing, and transient pulmonary infiltrates. Investigations reveal peripheral eosinophilia (absolute eosinophil count 1200 cells/µL), elevated total serum IgE (2500 IU/mL), positive *Aspergillus fumigatus*-specific IgE and IgG antibodies, and a positive skin prick test to *A. fumigatus*. High-resolution CT chest shows central bronchiectasis. The bronchiectasis observed in this patient's condition is best characterized as which of the following types?",
+    "options": {
+      "A": "Pulsion bronchiectasis",
+      "B": "Traction bronchiectasis",
+      "C": "Bronchiectasis due to primary ciliary dyskinesia",
+      "D": "Bronchiectasis secondary to alpha-1 antitrypsin deficiency"
+    },
+    "correctAnswer": "A",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "The provided text explicitly states that 'Pulsion bronchiectasis – intense inflammation originating in the lumen leads to permanent airway dilation. The prototype is allergic bronchopulmonary aspergillosis (ABPA).' In ABPA, proliferating *Aspergillus* fungi form mucoid conglomerates in the central airways, leading to an intense immunologically mediated inflammatory process and mucoid impaction, which in turn causes permanent airway dilation characteristic of pulsion bronchiectasis. The clinical vignette describes a classic presentation of ABPA, confirming this mechanism.",
+    "highYieldPearl": "Rio's Take: ABPA is the classic prototype for pulsion bronchiectasis, driven by intense luminal inflammation and mucoid impaction.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. ABPA is the prototype of pulsion bronchiectasis due to intense luminal inflammation and mucoid impaction.",
+      "B": "Traction bronchiectasis is caused by local retractile forces from surrounding fibrotic changes (e.g., sarcoidosis, interstitial lung disease, tuberculosis), not the primary mechanism in ABPA. This option is plausible as bronchiectasis itself is a common finding, but the specific *type* in ABPA is pulsion.",
+      "C": "Primary ciliary dyskinesia (PCD) causes bronchiectasis due to impaired mucociliary clearance leading to recurrent infections, but it's not the underlying mechanism in ABPA. While mucus clearance is impaired in ABPA, the primary ciliary defect is not the cause, and ABPA's pathogenesis is immunologically distinct from PCD.",
+      "D": "Alpha-1 antitrypsin deficiency leads to panacinar emphysema and can predispose to bronchiectasis, but it is a distinct genetic condition and not the mechanism of bronchiectasis in the context of ABPA, which is an allergic/immunologic reaction to fungal colonization."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_06116ee8",
+    "question": "A 32-year-old female with known asthma presents with worsening symptoms. Her workup is consistent with Allergic Bronchopulmonary Aspergillosis (ABPA). Her physician is explaining the complex immunological reactions contributing to her condition. Which of the following statements accurately describes a key immunological feature or mediator in the pathogenesis of ABPA, as outlined in recent understanding?",
+    "options": {
+      "A": "The primary immune response in ABPA is mediated by a Th1 CD4+ T-cell response.",
+      "B": "Eosinophil extracellular traps (EETs) contribute to the high viscosity of eosinophilic mucus and airway plugging.",
+      "C": "IgA antibodies play the predominant role in both early and late-phase allergic responses in ABPA.",
+      "D": "A robust and functional regulatory T-cell response is crucial in controlling inflammation in ABPA."
+    },
+    "correctAnswer": "B",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "The provided text states, 'Interaction of luminal eosinophils with *A. fumigatus* causes cytolysis of eosinophils, leading to the release of filamentous chromatin fibers and the creation of extracellular traps. Eosinophil extracellular traps are composed of stable and condensed chromatin fibers and thus might contribute to the high viscosity of eosinophilic mucus.' This directly supports option B. ABPA involves a Th2 CD4+ T-cell mediated immune response, not Th1. While IgA antibodies participate in the late-phase lung injury, IgE mediates the early allergic response, and IgG also plays a role in the late phase, making IgA not predominant in both. Furthermore, a 'defect in regulatory T-cell response has been documented,' implying the opposite of a robust and functional response.",
+    "highYieldPearl": "Rio's Take: Eosinophil Extracellular Traps (EETs) are a unique feature in ABPA, contributing significantly to the characteristic viscid mucus and airway obstruction.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. The text states, 'a Th2 CD4⁺ T‑cell‑mediated immune response' is involved in ABPA, not a Th1 response. This is a common distinction in allergic diseases.",
+      "B": "Correct. The text explicitly mentions that 'Eosinophil extracellular traps are composed of stable and condensed chromatin fibers and thus might contribute to the high viscosity of eosinophilic mucus,' which is key to airway plugging.",
+      "C": "Incorrect. The text specifies, 'an early allergic response mediated by IgE antibodies and a late‑phase lung injury in response to repeated exposure to *Aspergillus* antigens with the participation of IgG and IgA antibodies.' IgE is key for the early response, and IgG is also significant in the late phase, so IgA is not predominant in both.",
+      "D": "Incorrect. The text states, 'A defect in regulatory T-cell response has been documented.' This implies that a *lack* of robust regulatory T-cell function contributes to the pathology, rather than a robust response controlling it."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_a2bdcd1a",
+    "question": "A 28-year-old asthmatic patient is diagnosed with ABPA after recurrent pulmonary infiltrates and elevated *Aspergillus*-specific antibodies. The patient's family history reveals that her elder sister also has asthma and has recently been diagnosed with ABPA. The physician discusses the genetic predisposition to the condition. Which of the following genetic polymorphisms is most directly associated with enhanced antigen presentation efficiency to T cells in patients with ABPA, contributing to their susceptibility?",
+    "options": {
+      "A": "Polymorphisms within the HLA-DR2/5 region",
+      "B": "Mutations in the Cystic fibrosis transmembrane regulator (CFTR) gene",
+      "C": "Polymorphisms in the Mannose-binding lectin gene",
+      "D": "Mutations in the Surfactant protein A2 gene"
+    },
+    "correctAnswer": "A",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "The text directly links HLA-DR2/5 polymorphisms to ABPA susceptibility by stating, 'The exaggerated type 2 T-helper cell response seen in ABPA is likely due to human leukocyte antigen (HLA)-DR2/5 polymorphism resulting in greater efficiency in presenting *Aspergillus* allergens to T cells.' While CFTR mutations, Mannose-binding lectin polymorphisms, and Surfactant protein A2 mutations are all listed as genetic susceptibility factors, only HLA-DR2/5 is specifically described as enhancing antigen presentation efficiency to T cells, which is the core mechanism asked in the question.",
+    "highYieldPearl": "Rio's Take: HLA-DR2/5 polymorphisms are a key genetic link in ABPA, specifically enhancing the presentation of *Aspergillus* allergens, thus driving the allergic immune response.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. The text explicitly states that HLA-DR2/5 polymorphism results in 'greater efficiency in presenting *Aspergillus* allergens to T cells,' directly addressing the question about enhanced antigen presentation.",
+      "B": "Incorrect. While CFTR mutations are a known genetic susceptibility factor for ABPA (especially given its prevalence in cystic fibrosis patients), the text does not specifically attribute enhanced antigen presentation to T cells to CFTR mutations. Instead, CFTR impacts mucus clearance and overall lung environment.",
+      "C": "Incorrect. Polymorphisms in the Mannose-binding lectin (MBL) gene are listed as a genetic susceptibility factor for ABPA, indicating a role in innate immunity and fungal clearance. However, the text does not link MBL polymorphisms specifically to 'enhanced antigen presentation efficiency to T cells'.",
+      "D": "Incorrect. Mutations in the Surfactant protein A2 (SPA2) gene are also listed as a genetic susceptibility factor. Surfactant proteins play a role in innate immunity and host defense, but like MBL, SPA2 mutations are not specifically linked in the text to enhanced antigen presentation to T cells."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_3362fd07",
+    "question": "A 35-year-old asthmatic patient presents with worsening cough, exertional dyspnea, and recurrent fleeting pulmonary infiltrates. Investigations reveal peripheral eosinophilia (15%), elevated total IgE (2500 IU/mL), and positive *Aspergillus fumigatus*-specific IgE and IgG antibodies. HRCT chest shows central bronchiectasis. Which of the following immunologic mechanisms is considered the *primary* driver leading to the characteristic bronchiectasis in this patient's condition?",
+    "options": {
+      "A": "Direct cytotoxic effect of Th1 CD8+ T cells on bronchial epithelium.",
+      "B": "Enhanced phagocytic activity of macrophages leading to granuloma formation and traction bronchiectasis.",
+      "C": "Sustained Th2 CD4+ T-cell mediated response with IL-17 expression, recruiting eosinophils and causing IgE/IgG synthesis.",
+      "D": "Defect in mannose-binding lectin leading to impaired fungal clearance and chronic bacterial superinfection."
+    },
+    "correctAnswer": "C",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "The pathogenesis of ABPA involves a complex allergic and immune reaction to *Aspergillus* colonization. The primary driver is a sustained Th2 CD4+ T-cell mediated immune response. This response is characterized by the release of cytokines (including IL-4, IL-5, IL-9, IL-10, IL-13, and sustained IL-17 expression), which lead to a profound inflammatory reaction. This inflammation involves the recruitment of neutrophils and a significant influx of eosinophils. The Th2 response also drives isotype switching to IgE and IgG antibody synthesis (both total and *A. fumigatus*-specific). The accumulation and activation of eosinophils, releasing toxic cationic proteins (e.g., Charcot-Leyden crystals) and forming eosinophil extracellular traps, along with the inflammatory process, cause damage to the bronchial epithelium, submucosa, and adjacent pulmonary parenchyma, ultimately resulting in the characteristic airway damage and bronchiectasis.",
+    "highYieldPearl": "Rio's Take: The core immunopathology of ABPA is a Th2-driven hypersensitivity response involving IgE, IgG, eosinophils, and specific cytokines (e.g., IL-17), leading to direct inflammatory damage and pulsion bronchiectasis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Th1 CD8+ T-cell responses are typically associated with cell-mediated immunity against intracellular pathogens or tumor cells, and while they can cause lung damage, they are not the primary, defining immunological mechanism leading to bronchiectasis in ABPA, which is predominantly a Th2-mediated hypersensitivity reaction.",
+      "B": "While macrophages are involved in immune responses, granuloma formation and traction bronchiectasis are not the primary mechanisms of bronchiectasis in ABPA. ABPA is the prototype for 'pulsion bronchiectasis,' driven by intraluminal inflammation and mucoid impaction, not traction from extrinsic fibrotic forces.",
+      "C": "This option accurately describes the central immunological cascade in ABPA, involving the key cell types (Th2 CD4+ T-cells, eosinophils), cytokines (IL-17), and antibody responses (IgE/IgG) that mediate the inflammatory damage leading to bronchiectasis.",
+      "D": "Mannose-binding lectin (MBL) defect is a known genetic susceptibility factor for ABPA, affecting innate immunity and fungal clearance. However, it is a predisposing factor for *Aspergillus* colonization and immune dysregulation, not the *primary immunologic mechanism* that directly causes the lung damage and bronchiectasis once the disease is established. The question asks for the primary driver of bronchiectasis, which is the subsequent allergic immune response."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_a16a77ca",
+    "question": "A 28-year-old female with a history of recurrent asthma exacerbations and sputum plugs is diagnosed with ABPA based on clinical, radiological, and serological criteria. She has a family history of similar respiratory issues in her uncle. Genetic testing is considered to understand her predisposition. Which of the following genetic polymorphisms, known to confer susceptibility to ABPA, primarily affects the *initial recognition* of *Aspergillus* antigens or fungal components?",
+    "options": {
+      "A": "HLA-DR2/DR5 polymorphism",
+      "B": "IL-4Rα (interleukin-4 receptor alpha) polymorphism",
+      "C": "Mannose-binding lectin (MBL) polymorphism",
+      "D": "Cystic fibrosis transmembrane regulator (CFTR) polymorphism"
+    },
+    "correctAnswer": "C",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "Mannose-binding lectin (MBL) is a component of the innate immune system, specifically part of the lectin pathway of complement activation. MBL recognizes and binds to specific carbohydrate patterns (mannose, N-acetylglucosamine) found on the surface of various pathogens, including fungi like *Aspergillus fumigatus*. This binding initiates a cascade leading to pathogen opsonization and clearance. Polymorphisms in the MBL gene can lead to reduced MBL levels or dysfunctional protein, impairing the initial recognition and clearance of fungal spores, thus increasing susceptibility to persistent *Aspergillus* colonization and subsequent ABPA development. The other options affect later stages of immune response or mucus clearance, not the *initial recognition* of fungal components.",
+    "highYieldPearl": "Rio's Take: MBL plays a crucial role in innate immunity by recognizing fungal components. Defects can compromise initial fungal clearance, predisposing to ABPA.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "HLA-DR2/DR5 polymorphisms affect the efficiency of antigen presentation to T-cells, which is crucial for initiating the adaptive immune response. While important for ABPA pathogenesis, this occurs *after* initial recognition by innate immune cells and antigen processing, not as the primary mechanism of *initial recognition* of fungal components themselves.",
+      "B": "IL-4Rα polymorphism affects the signaling of IL-4, a key cytokine in the Th2 pathway. This impacts the downstream allergic immune response (e.g., IgE production, eosinophil activation), but not the initial binding and recognition of *Aspergillus* antigens by the host's immune system.",
+      "C": "MBL is an innate immune protein that directly binds to carbohydrate patterns on fungal surfaces, initiating their recognition and clearance. Thus, MBL polymorphism directly affects the *initial recognition* of *Aspergillus* components.",
+      "D": "CFTR polymorphism, even in heterozygotes, can affect mucociliary clearance in the airways, leading to impaired fungal spore removal and creating a more favorable environment for *Aspergillus* colonization. While this contributes to susceptibility, it's a defect in physical clearance and not a mechanism for *initial immunological recognition* of fungal antigens."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_d0005190",
+    "question": "A 50-year-old patient with a 15-year history of Crohn's disease, currently on immunomodulatory therapy, develops new-onset wheezing, recurrent low-grade fever, and progressive dyspnea. HRCT chest reveals significant central bronchiectasis and mucoid impaction. Laboratory tests show peripheral eosinophilia and elevated total IgE. *Aspergillus fumigatus* specific IgE and IgG are positive. Considering the patient's underlying condition and radiological findings, which of the following statements *best* describes the characteristic mechanism leading to bronchiectasis in this specific context?",
+    "options": {
+      "A": "Direct infectious destruction of airway walls by *Aspergillus* leading to classic post-infectious bronchiectasis.",
+      "B": "Traction bronchiectasis secondary to fibrotic changes induced by chronic inflammation related to Crohn's disease.",
+      "C": "Weakness of airway walls due to systemic inflammatory mediators from Crohn's disease, predisposing to dilation.",
+      "D": "Pulsion bronchiectasis caused by intense immunologically mediated inflammation and mucoid impaction in the central airways."
+    },
+    "correctAnswer": "D",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "The vignette describes a classic presentation of ABPA (asthma, eosinophilia, central bronchiectasis, mucoid impaction, *Aspergillus*-specific antibodies) in a patient with Crohn's disease, which is a known, albeit rarer, association for ABPA. The text explicitly states that ABPA is the prototype for 'pulsion bronchiectasis.' This occurs due to intense immunologically mediated reactions to inhaled *Aspergillus* lodged in the airways. These reactions cause proliferating fungi to form large mucoid conglomerates that fill the central airways. The severe inflammation and mucoid impaction lead to permanent airway dilation. Therefore, the characteristic mechanism of bronchiectasis in ABPA is pulsion, driven by intraluminal inflammation and obstruction.",
+    "highYieldPearl": "Rio's Take: ABPA is the quintessential example of pulsion bronchiectasis, where intense intraluminal inflammation and mucoid impaction, not traction or primary airway wall weakness, drive airway dilation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "While *Aspergillus* colonization is present, the bronchiectasis in ABPA is not primarily due to direct microbial destruction of the airway walls like typical post-infectious bronchiectasis (e.g., from bacterial pneumonia). Instead, it's an immunologically mediated damage.",
+      "B": "Traction bronchiectasis occurs when external fibrotic forces pull and dilate airways. Although Crohn's disease is a systemic inflammatory condition and rarely can have pulmonary manifestations, the described findings (mucoid impaction, central bronchiectasis) are highly characteristic of ABPA, which is explicitly described as a prototype for *pulsion* bronchiectasis, not traction.",
+      "C": "Weakness of airway walls can contribute to bronchiectasis, often secondary to damage from infection or inflammation. However, this is a general mechanism. Option D provides the *specific* and *characteristic* mechanism for how ABPA leads to bronchiectasis, making it a superior answer. The systemic inflammation from Crohn's might theoretically contribute to airway wall changes, but it's not the primary, defining mechanism in the context of ABPA.",
+      "D": "This statement accurately describes the specific mechanism of bronchiectasis in ABPA. The text clearly defines ABPA as the prototype for 'pulsion bronchiectasis,' arising from intense immunologically mediated reactions and mucoid impaction within the central airways."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_144b2478",
+    "question": "A 45-year-old male with a 20-year history of well-controlled asthma presents with increasing cough, wheezing, and recurrent pulmonary infiltrates. Investigations lead to a diagnosis of Allergic Bronchopulmonary Aspergillosis (ABPA). Based on epidemiological data, what is the approximate prevalence of ABPA among adult patients with a prior history of asthma?",
+    "options": {
+      "A": "2.5%",
+      "B": "0.5%",
+      "C": "10%",
+      "D": "25%"
+    },
+    "correctAnswer": "A",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "The provided text explicitly states that ABPA develops in approximately 2.5% of adults with previous asthma. This makes it an important consideration in patients with asthma experiencing worsening symptoms or recurrent pulmonary infiltrates.",
+    "highYieldPearl": "Rio's Take: Remember the approximate prevalence of ABPA in adult asthmatics is 2.5%; it's higher (7-10%) in cystic fibrosis patients.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct prevalence for ABPA in adult asthma patients, directly stated in the text.",
+      "B": "This percentage is too low and does not correspond to the prevalence of ABPA in asthma.",
+      "C": "This percentage (7-10%) is the prevalence of ABPA reported in patients with cystic fibrosis, not general asthma patients. It serves as a plausible distractor by using a correct statistic for a different patient population mentioned in the same context.",
+      "D": "This percentage is significantly higher than the reported prevalence, making ABPA appear much more common than it is."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_03e43952",
+    "question": "A 30-year-old female with a history of recurrent asthma exacerbations and new-onset central bronchiectasis is suspected of having ABPA. Her pulmonologist orders specific laboratory tests to confirm the diagnosis and assess the underlying immunologic response. Which of the following immunologic markers is primarily responsible for the early allergic response in ABPA?",
+    "options": {
+      "A": "Total IgE antibodies",
+      "B": "Th1 CD4+ T-cell response",
+      "C": "Sustained IL-17 expression",
+      "D": "Elevated IgG antibodies"
+    },
+    "correctAnswer": "A",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "The text states, 'The immunologic response in ABPA includes an early allergic response mediated by IgE antibodies...' and further mentions 'a late-phase lung injury in response to repeated exposure to Aspergillus antigens with the participation of IgG and IgA antibodies, and of a Th2 CD4+ T-cell-mediated immune response accompanied by sustained IL-17 expression.' Therefore, IgE is the primary mediator of the early allergic response.",
+    "highYieldPearl": "Rio's Take: The 'E' in IgE stands for 'Early allergic response' in ABPA, indicative of its Type I hypersensitivity component.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct answer. The text clearly indicates that IgE antibodies mediate the early allergic response in ABPA.",
+      "B": "The immune response in ABPA is primarily mediated by Th2 CD4+ T-cells, not Th1 cells, which are generally associated with cellular immunity and delayed-type hypersensitivity. This option is a distractor based on general immunology knowledge.",
+      "C": "While sustained IL-17 expression is part of the ABPA immune response, it is associated with the later Th2 CD4+ T-cell-mediated response and inflammation, not primarily the initial 'early allergic response' directly mediated by IgE.",
+      "D": "Elevated IgG antibodies participate in the 'late-phase' lung injury response, not the early allergic response. This is a plausible distractor as IgG is also an important antibody in ABPA pathogenesis."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_ed29e63c",
+    "question": "A 50-year-old non-smoker with a long-standing history of difficult-to-control asthma presents with recurrent productive cough and dyspnea. HRCT chest reveals central bronchiectasis with mucoid impaction. ABPA is strongly suspected. The mechanism leading to bronchiectasis in ABPA is predominantly characterized as which of the following?",
+    "options": {
+      "A": "Pulsion bronchiectasis",
+      "B": "Traction bronchiectasis",
+      "C": "Post-infectious airway wall weakness",
+      "D": "Congenital airway cartilage deficiency"
+    },
+    "correctAnswer": "A",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "The text explicitly states, 'Pulsion bronchiectasis – intense inflammation originating in the lumen leads to permanent airway dilation. The prototype is allergic bronchopulmonary aspergillosis (ABPA).' It further elaborates that this is due to 'intense immunologically mediated reactions to inhaled *Aspergillus* lodged in the airways cause proliferating fungi to form large mucoid conglomerates that fill the central airways; a sequela of this airway inflammatory process and mucoid impaction is bronchiectasis.'",
+    "highYieldPearl": "Rio's Take: ABPA is the classic example of pulsion bronchiectasis, driven by luminal inflammation and mucoid impaction.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct answer. The text clearly identifies ABPA as the prototype for pulsion bronchiectasis, caused by intense intraluminal inflammation and mucoid impaction.",
+      "B": "Traction bronchiectasis results from external pulling forces on the airways due to surrounding fibrotic changes (e.g., in sarcoidosis or interstitial lung disease), which is not the primary mechanism in ABPA.",
+      "C": "While inflammation in ABPA can damage airway walls, the specific and predominant mechanism highlighted for ABPA is the intraluminal 'pulsion' effect rather than generalized post-infectious weakness, which is a broader category.",
+      "D": "Congenital airway cartilage deficiency (e.g., Williams-Campbell syndrome) is a cause of bronchiectasis due to intrinsic structural weakness, but it is not the mechanism described for ABPA."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_e2e54a06",
+    "question": "A 35-year-old male with a long-standing history of asthma presents with recurrent episodes of wheezing, productive cough with dark brown mucus plugs, and fleeting pulmonary infiltrates on chest imaging. Laboratory investigations reveal peripheral eosinophilia, elevated total IgE, and positive *Aspergillus fumigatus*-specific IgE and IgG. Further genetic testing is considered to elucidate potential predisposing factors for his condition. Which of the following genetic polymorphisms is LEAST likely to be associated with an increased susceptibility to Allergic Bronchopulmonary Aspergillosis (ABPA) based on current understanding?",
+    "options": {
+      "A": "HLA-DRB1*1501",
+      "B": "IL-4Rα",
+      "C": "Toll-like receptor 9",
+      "D": "Transforming growth factor-β receptor 1 (TGFBR1)"
+    },
+    "correctAnswer": "D",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "The provided text explicitly lists several genetic susceptibilities for ABPA, including specific HLA types (like HLA-DRB1*1501), IL-4Rα, Toll-like receptor 9, and 'Transforming growth factor-β' (referring to the cytokine gene itself). While Transforming growth factor-β (TGF-β) is mentioned, the polymorphism refers to the cytokine gene, not its receptor. TGFBR1 encodes the Transforming growth factor-beta receptor type 1, a distinct gene from the TGF-β cytokine gene. Therefore, based on the specific genetic markers listed in the context, a polymorphism in TGFBR1 is the least directly mentioned or implicated compared to the other options.",
+    "highYieldPearl": "Rio's Take: Always pay close attention to the precise nomenclature in genetic questions. A receptor gene (e.g., TGFBR1) is distinct from the gene encoding its ligand (e.g., TGF-β cytokine), even if functionally related. INI-SS often tests this level of detail.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "HLA-DRB1*1501 is explicitly listed as a genetic susceptibility factor for ABPA (e.g., HLA-DRB1*1501). This makes it a plausible option but incorrect as the 'least likely'.",
+      "B": "IL-4Rα is directly mentioned as a gene for which mutations/polymorphisms contribute to genetic susceptibility in ABPA. This makes it a plausible option but incorrect as the 'least likely'.",
+      "C": "Toll-like receptor 9 is explicitly listed as a genetic susceptibility factor for ABPA. This makes it a plausible option but incorrect as the 'least likely'.",
+      "D": "The text lists 'Transforming growth factor-β' (19q13.1, 13.2) as a gene associated with ABPA susceptibility. This typically refers to the gene encoding the TGF-β cytokine. TGFBR1, however, encodes the Transforming growth factor-beta receptor type 1. While related, the text does not specifically list TGFBR1, making it the 'least likely' direct association from the provided information. This option tests precise recall and understanding of genetic terminology."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_36350f72",
+    "question": "A 28-year-old patient with cystic fibrosis develops new onset asthma-like symptoms, recurrent pneumonia, and central bronchiectasis on CT scan. Workup confirms a diagnosis of Allergic Bronchopulmonary Aspergillosis (ABPA). Regarding the pathophysiological mechanisms contributing to bronchiectasis in this patient, which of the following statements is INCORRECT?",
+    "options": {
+      "A": "Intense immunologically mediated reactions originating in the airway lumen lead to permanent airway dilation, characteristic of pulsion bronchiectasis.",
+      "B": "Eosinophil extracellular traps (EETs) contribute to increased mucus viscosity, impairing clearance and promoting airway obstruction.",
+      "C": "Damage to the airway walls, resulting in secondary loss of structural integrity, is the primary mechanism of bronchiectasis in ABPA.",
+      "D": "Proliferating *Aspergillus* fungi form large mucoid conglomerates, exacerbating airway inflammation and impaction."
+    },
+    "correctAnswer": "C",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "The text explicitly categorizes ABPA as a prototype of 'pulsion bronchiectasis'. Pulsion bronchiectasis is described as occurring due to 'intense inflammation originating in the lumen' and the formation of 'large mucoid conglomerates' by proliferating fungi, leading to permanent airway dilation. While inflammation in ABPA certainly causes damage to the bronchial epithelium and submucosa, the text attributes 'damage to the walls of the airways, resulting in secondary loss of structural integrity' as the mechanism for 'classic post-infectious bronchiectasis' (weakness of the airways type), rather than the primary mechanism for ABPA-associated bronchiectasis, which is specifically highlighted as pulsion bronchiectasis.",
+    "highYieldPearl": "Rio's Take: Differentiate the types of bronchiectasis. ABPA is the classic example of 'pulsion bronchiectasis', driven by luminal inflammation and mucoid impaction, not primarily by 'weakness of the airway walls' as seen in other forms like classic post-infectious bronchiectasis.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This statement accurately describes pulsion bronchiectasis, of which ABPA is the prototype, as detailed in the text. This is a correct statement.",
+      "B": "The text clearly states that 'Eosinophil extracellular traps are composed of stable and condensed chromatin fibers and thus might contribute to the high viscosity of eosinophilic mucus.' This is a correct statement regarding EETs and mucus viscosity.",
+      "C": "The text discusses 'Weakness of the airways' as a mechanism for bronchiectasis where 'damage to the walls of the airways, resulting in secondary loss of structural integrity' is implicated, specifically for 'classic post-infectious bronchiectasis'. For ABPA, the primary mechanism is explicitly stated as 'pulsion bronchiectasis' due to intense luminal inflammation and mucoid impaction. Therefore, stating that damage to airway walls as a *primary* mechanism for ABPA bronchiectasis conflates different types and is incorrect based on the provided classification.",
+      "D": "The text notes that in pulsion bronchiectasis (ABPA), 'proliferating fungi to form large mucoid conglomerates that fill the central airways', which is a correct description of the pathophysiology. This is a correct statement."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_f9b4e7e5",
+    "question": "A 40-year-old male with sarcoidosis on infliximab therapy presents with new-onset wheezing, cough, and migratory pulmonary infiltrates. Investigations confirm ABPA. Which of the following statements about the immunopathogenesis of ABPA, particularly in this context, is TRUE?",
+    "options": {
+      "A": "ABPA is commonly reported in patients with COPD due to their impaired mucociliary clearance.",
+      "B": "The immune response in ABPA is predominantly mediated by a Th1 CD4+ T-cell response with strong IFN-γ expression.",
+      "C": "A defect in regulatory T-cell response has been documented, contributing to the exaggerated immune reaction.",
+      "D": "The presence of Charcot-Leyden crystals in sputum is a specific finding directly related to the release of filamentous chromatin fibers from eosinophil cytolysis."
+    },
+    "correctAnswer": "C",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "The context mentions sarcoidosis after infliximab therapy as one of the reported conditions associated with ABPA. Option C, 'A defect in regulatory T-cell response has been documented, contributing to the exaggerated immune reaction,' is directly stated in the text. Option A is incorrect because ABPA is 'exceedingly rare in patients with COPD'. Option B is incorrect because ABPA involves a 'Th2 CD4⁺ T-cell-mediated immune response' with IL-17 expression, not primarily Th1 with IFN-γ. Option D is a trap; Charcot-Leyden crystals are formed from the release of 'toxic cationic proteins' from eosinophils, while 'filamentous chromatin fibers' are components of Eosinophil Extracellular Traps (EETs) resulting from eosinophil cytolysis. These are distinct processes/products mentioned separately in the text.",
+    "highYieldPearl": "Rio's Take: Distinguish between the cellular products and structures. Charcot-Leyden crystals are from cationic proteins, while eosinophil extracellular traps (EETs) are made of chromatin fibers. Don't confuse the specific origins, even if both relate to eosinophils and inflammation.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "The text explicitly states 'ABPA is exceedingly rare in patients with COPD despite their impaired mucociliary clearance.' Therefore, stating it is 'commonly reported' is incorrect.",
+      "B": "The text states 'a Th2 CD4⁺ T-cell-mediated immune response accompanied by sustained IL-17 expression.' Th1 responses are characterized by IFN-γ and are not the predominant mediators in ABPA. Therefore, this statement is incorrect.",
+      "C": "The text explicitly states 'A defect in regulatory T-cell response has been documented.' This statement is directly supported by the provided information and is correct.",
+      "D": "The text describes Charcot-Leyden crystals as resulting from 'release of toxic cationic proteins' from eosinophils. Separately, it describes 'filamentous chromatin fibers' as components of 'Eosinophil extracellular traps' (EETs) formed after eosinophil cytolysis. The option incorrectly links Charcot-Leyden crystals directly to filamentous chromatin fibers, conflating two distinct eosinophil-related phenomena."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_af246e41",
+    "question": "A 35-year-old male with a history of poorly controlled asthma presents with recurrent episodes of cough, wheezing, and expectoration of brownish mucus plugs. Imaging reveals central bronchiectasis. Laboratory tests show elevated total IgE and *Aspergillus fumigatus*-specific IgE. Peripheral eosinophilia is also noted.",
+    "options": {
+      "A": "Pulsion bronchiectasis secondary to intense lumenal inflammation and mucoid impaction.",
+      "B": "Traction bronchiectasis due to extensive peri-bronchial fibrosis caused by chronic *Aspergillus* infection.",
+      "C": "Weakness of airway walls resulting from enzymatic degradation by bacterial superinfections.",
+      "D": "Direct fungal hyphal invasion into the bronchial wall causing structural collapse."
+    },
+    "correctAnswer": "A",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "ABPA is the prototype for pulsion bronchiectasis. This occurs due to intense immunologically mediated reactions to *Aspergillus* antigens within the airway lumen, leading to a profound inflammatory response (Th2-mediated, eosinophilic), mucoid impaction, and subsequent permanent airway dilation. The accumulation of eosinophils and their products, along with fungal hyphae and host debris, creates highly viscous mucus plugs that distend and damage the bronchi.",
+    "highYieldPearl": "Rio's Take: Remember, ABPA classically causes central bronchiectasis primarily through pulsion mechanisms, driven by the intense allergic inflammation and mucus plugging within the airway lumen.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. This aligns directly with the provided text describing ABPA as the prototype for pulsion bronchiectasis, caused by intense luminal inflammation and mucoid impaction leading to airway dilation.",
+      "B": "Incorrect. Traction bronchiectasis is caused by retractile forces from surrounding parenchymal fibrosis (e.g., sarcoidosis, TB), not the primary mechanism in ABPA. While some degree of peribronchial inflammation can lead to remodeling, it's not the main driver of the characteristic bronchiectasis in ABPA.",
+      "C": "Incorrect. While bacterial superinfections can complicate bronchiectasis, the primary mechanism of airway wall damage and weakness in ABPA is the direct effect of the intense allergic and eosinophilic inflammation, not solely enzymatic degradation by bacteria.",
+      "D": "Incorrect. ABPA is an allergic response to *Aspergillus* colonization within the airways, not invasive fungal infection. Direct fungal invasion and destruction of tissue is characteristic of invasive aspergillosis, a distinct condition."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_3c134e37",
+    "question": "A 28-year-old female with long-standing allergic asthma develops worsening cough, recurrent fleeting pulmonary infiltrates on chest X-ray, and blood eosinophilia. Her total IgE is significantly elevated, and *Aspergillus fumigatus*-specific IgE and IgG antibodies are positive.",
+    "options": {
+      "A": "A predominantly Th1 CD4+ T-cell mediated response with increased IFN-γ and IL-12 production.",
+      "B": "A Th2 CD4+ T-cell mediated response involving early IgE and late IgG/IgA antibody production, and significant eosinophilic inflammation.",
+      "C": "A cytotoxic T-lymphocyte (CD8+) driven response causing direct destruction of *Aspergillus*-infected cells.",
+      "D": "An immune complex-mediated (Type III hypersensitivity) reaction without significant T-cell involvement."
+    },
+    "correctAnswer": "B",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "ABPA is characterized by a robust Th2 CD4+ T-cell mediated immune response. This leads to the production of cytokines like IL-4, IL-5, IL-9, IL-10, and IL-13, which promote eosinophil influx and activation, as well as B-cell isotype switching to produce IgE (responsible for the early allergic response) and later IgG and IgA antibodies, contributing to a complex late-phase inflammatory reaction.",
+    "highYieldPearl": "Rio's Take: ABPA is the quintessential example of a chronic allergic lung disease driven by a strong Th2 response, leading to characteristic IgE and IgG antibody profiles and eosinophilia. Remember the '2' in Th2 for Type 2 hypersensitivity.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. Th1 responses are typically associated with cell-mediated immunity against intracellular pathogens (e.g., tuberculosis) and produce IFN-γ. ABPA is fundamentally a Th2-driven allergic disease.",
+      "B": "Correct. This option accurately captures the key immunological elements described in the text: Th2 CD4+ T-cell mediation, early IgE and later IgG/IgA antibody responses, and the profound eosinophilic inflammation.",
+      "C": "Incorrect. While cellular immunity is involved, the primary adaptive response in ABPA is Th2-mediated, contributing to allergy and inflammation. A direct CD8+ cytotoxic T-lymphocyte response against infected cells is not the hallmark mechanism of ABPA pathogenesis.",
+      "D": "Incorrect. While IgG and IgA antibodies are involved (and could theoretically form immune complexes), the text emphasizes the central role of the Th2 CD4+ T-cell mediated response and IgE-mediated allergy. ABPA is a complex Type I and Type III/IV hypersensitivity reaction rather than solely a Type III reaction without significant T-cell involvement."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_chemo_d51d47df",
+    "question": "A 20-year-old female with a lifelong diagnosis of cystic fibrosis presents with increasing cough, wheezing, and exercise intolerance. Her sputum cultures repeatedly grow *Aspergillus fumigatus*, and her blood work shows significant eosinophilia and elevated total IgE. Imaging reveals central bronchiectasis and transient pulmonary infiltrates.",
+    "options": {
+      "A": "Approximately 2.5%",
+      "B": "Up to 7-10%",
+      "C": "Less than 0.5%",
+      "D": "Up to 20-25%"
+    },
+    "correctAnswer": "B",
+    "topic": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+    "deepDiveExplanation": "ABPA is a well-recognized and significant complication in patients with cystic fibrosis due to their impaired mucociliary clearance and chronic airway inflammation, which predisposes them to *Aspergillus* colonization. The provided text explicitly states that ABPA develops in up to 7-10% of patients with cystic fibrosis, a much higher prevalence than in asthmatics.",
+    "highYieldPearl": "Rio's Take: Always consider ABPA in CF patients with worsening respiratory symptoms, especially with eosinophilia and rising IgE, as its prevalence is considerably higher than in general asthma populations.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. This prevalence (approximately 2.5%) refers to adults with previous asthma, not cystic fibrosis patients.",
+      "B": "Correct. The text explicitly states that ABPA develops in 'up to 7-10% of patients with cystic fibrosis,' making this the accurate prevalence range for the given clinical scenario.",
+      "C": "Incorrect. This is too low; ABPA is a known and significant comorbidity in CF, with a much higher prevalence than indicated here.",
+      "D": "Incorrect. While ABPA is common in CF, a prevalence of 20-25% is an overestimation based on current literature, including the provided text."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_4_OCR",
+      "chapter": "PART 2 ⚫ Diagnosis and Evaluation of Respiratory Disease",
+      "section": "Stage IV NSCLC and Systemic Therapy",
+      "pageNumber": 232
+    },
+    "bookId": "MurrayNadel_Section_4_OCR",
+    "chunkId": "MurrayNadel_Section_4_OCR_chunk_548",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "Which specific EGFR mutation is associated with primary resistance to first-generation EGFR TKIs?",
+    "options": {
+      "A": "Exon 19 deletion",
+      "B": "L858R",
+      "C": "T790M",
+      "D": "Exon 20 insertion"
+    },
+    "correctAnswer": "D",
+    "topic": "lung_cancer_chemo",
+    "deepDiveExplanation": "EGFR Exon 20 insertions constitute 4-12% of all EGFR mutations in NSCLC and are inherently resistant to first and second-generation EGFR TKIs. Amivantamab and Mobocertinib are approved for this subtype.",
+    "highYieldPearl": "EGFR Exon 20 insertions are distinct from common activating mutations (Exon 19 del, L858R) and require specific targeted therapies due to primary TKI resistance.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Candidates might confuse primary resistance (Exon 20 insertion) with acquired resistance (T790M). Exon 19 deletion and L858R are common activating mutations sensitive to first-gen TKIs.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_chemo_yqpakb24"
+  },
+  {
+    "question": "What is the most common acquired on-target resistance mechanism to Osimertinib in EGFR-mutated NSCLC?",
+    "options": {
+      "A": "MET amplification",
+      "B": "HER2 amplification",
+      "C": "EGFR C797S mutation",
+      "D": "Small cell transformation"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_chemo",
+    "deepDiveExplanation": "The EGFR C797S mutation is the most common on-target resistance mechanism to Osimertinib, particularly when Osimertinib is used after prior first/second-generation TKI therapy. It prevents Osimertinib from binding irreversibly to the EGFR kinase domain.",
+    "highYieldPearl": "C797S is a 'gatekeeper' mutation for Osimertinib, analogous to T790M for earlier TKIs. Off-target resistance mechanisms like MET amplification are also common.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "MET amplification is a common acquired resistance mechanism to Osimertinib but is 'off-target'. The question specifically asks for 'on-target' resistance, which refers to changes in the EGFR gene itself.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_chemo_nxqw9qur"
+  },
+  {
+    "question": "Which ALK inhibitor is recommended as first-line treatment for ALK-positive advanced NSCLC?",
+    "options": {
+      "A": "Crizotinib",
+      "B": "Alectinib",
+      "C": "Ceritinib",
+      "D": "Brigatinib"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_cancer_chemo",
+    "deepDiveExplanation": "Alectinib has demonstrated superior efficacy and central nervous system (CNS) penetration compared to Crizotinib, making it the preferred first-line ALK inhibitor for ALK-positive advanced NSCLC. Brigatinib and Lorlatinib are also strong first-line options.",
+    "highYieldPearl": "Alectinib, Brigatinib, and Lorlatinib are all considered superior to Crizotinib in the first-line setting for ALK+ NSCLC due to better efficacy, especially in the brain.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Crizotinib was the first ALK inhibitor but has been largely superseded by newer, more potent agents with better CNS activity. All options are ALK inhibitors, but the question asks for the 'recommended first-line'.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_chemo_u012tety"
+  },
+  {
+    "question": "Which chemotherapy agent is contraindicated in NSCLC patients with pre-existing clinically significant hemoptysis?",
+    "options": {
+      "A": "Pemetrexed",
+      "B": "Carboplatin",
+      "C": "Bevacizumab",
+      "D": "Docetaxel"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_chemo",
+    "deepDiveExplanation": "Bevacizumab, a VEGF inhibitor, is associated with an increased risk of hemorrhage, including pulmonary hemorrhage. Therefore, it is contraindicated in NSCLC patients with recent hemoptysis or squamous cell histology due to higher risk of bleeding.",
+    "highYieldPearl": "Bevacizumab should be avoided in NSCLC patients with squamous histology or recent hemoptysis due to increased risk of fatal pulmonary hemorrhage.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The other agents are standard chemotherapeutic drugs and do not carry a specific contraindication for hemoptysis to the same extent as Bevacizumab. This is a critical safety consideration for VEGF inhibitors.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_chemo_06g2pza4"
+  },
+  {
+    "question": "Which targeted agent is indicated for MET exon 14 skipping mutations in advanced NSCLC?",
+    "options": {
+      "A": "Crizotinib",
+      "B": "Capmatinib",
+      "C": "Osimertinib",
+      "D": "Dabrafenib"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_cancer_chemo",
+    "deepDiveExplanation": "Capmatinib and Tepotinib are specific MET inhibitors approved for the treatment of advanced NSCLC with MET exon 14 skipping mutations. Crizotinib has some activity but is not specifically approved for this indication.",
+    "highYieldPearl": "MET exon 14 skipping mutations define a distinct molecular subtype of NSCLC, treatable with specific MET inhibitors like Capmatinib or Tepotinib.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Crizotinib is an ALK/ROS1/MET inhibitor, but Capmatinib is a more potent and specific MET inhibitor approved for exon 14 skipping. Osimertinib is for EGFR, Dabrafenib for BRAF.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_chemo_93iq9f9x"
+  },
+  {
+    "question": "What is the standard first-line chemotherapy backbone for extensive stage Small Cell Lung Cancer (SCLC)?",
+    "options": {
+      "A": "Cisplatin + Pemetrexed",
+      "B": "Carboplatin + Paclitaxel",
+      "C": "Cisplatin/Carboplatin + Etoposide",
+      "D": "Gemcitabine + Vinorelbine"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_chemo",
+    "deepDiveExplanation": "The combination of a platinum agent (Cisplatin or Carboplatin) with Etoposide remains the cornerstone of first-line chemotherapy for extensive stage SCLC. Immunotherapy (e.g., Atezolizumab or Durvalumab) is often added to this backbone.",
+    "highYieldPearl": "Platinum-etoposide is the classic and still standard chemotherapy for SCLC, now often combined with immunotherapy for improved survival.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Other regimens are used in NSCLC (e.g., Pemetrexed, Paclitaxel) but are not standard for SCLC. The question specifically asks for SCLC.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_chemo_93jl6j9o"
+  },
+  {
+    "question": "Which of the following is a common immune-related adverse event (irAE) affecting the endocrine system with PD-1 inhibitors?",
+    "options": {
+      "A": "Colitis",
+      "B": "Pneumonitis",
+      "C": "Hypothyroidism",
+      "D": "Dermatitis"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_chemo",
+    "deepDiveExplanation": "Immune checkpoint inhibitors can cause inflammation in various organs. Hypothyroidism (thyroiditis) is a common endocrine irAE, often requiring thyroid hormone replacement. Other endocrine irAEs include hypophysitis and adrenal insufficiency.",
+    "highYieldPearl": "Endocrine irAEs, especially thyroid dysfunction, are common and often permanent, requiring lifelong hormone replacement.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Colitis, pneumonitis, and dermatitis are also common irAEs but affect the gastrointestinal, respiratory, and integumentary systems, respectively. The question specifies 'endocrine system'.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_chemo_jj8j905p"
+  },
+  {
+    "question": "What is the recommended targeted therapy combination for BRAF V600E mutated advanced NSCLC?",
+    "options": {
+      "A": "Erlotinib + Bevacizumab",
+      "B": "Dabrafenib + Trametinib",
+      "C": "Alectinib + Ceritinib",
+      "D": "Osimertinib + Ramucirumab"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_cancer_chemo",
+    "deepDiveExplanation": "Dabrafenib (a BRAF inhibitor) combined with Trametinib (a MEK inhibitor) is the approved and recommended targeted therapy for NSCLC patients with a BRAF V600E mutation. This combination improves efficacy and reduces resistance.",
+    "highYieldPearl": "BRAF V600E mutation in NSCLC is treated similarly to melanoma, with combined BRAF and MEK inhibition for synergistic effect.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Each option represents a combination of targeted agents, but only Dabrafenib + Trametinib specifically targets the BRAF pathway. The other combinations are for different molecular targets or are not standard.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_chemo_rkypustn"
+  },
+  {
+    "question": "Which gene fusion is a target for Crizotinib in advanced NSCLC?",
+    "options": {
+      "A": "EGFR exon 19 deletion",
+      "B": "KRAS G12C",
+      "C": "ROS1 rearrangement",
+      "D": "BRAF V600E"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_chemo",
+    "deepDiveExplanation": "Crizotinib is a multi-targeted tyrosine kinase inhibitor active against ALK, ROS1, and MET. It was the first approved targeted agent for ALK-positive NSCLC and is also effective in ROS1-rearranged NSCLC.",
+    "highYieldPearl": "Crizotinib's activity extends beyond ALK to include ROS1 rearrangements, making it a crucial agent for both these less common but targetable fusions.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "EGFR, KRAS, and BRAF are common mutations but are not targeted by Crizotinib. Crizotinib primarily targets fusions (ALK, ROS1) and to some extent MET amplification.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_chemo_mtkrpgf1"
+  },
+  {
+    "question": "Which biomarker is typically required before initiating Nivolumab or Pembrolizumab in NSCLC without targetable mutations?",
+    "options": {
+      "A": "EGFR mutation status",
+      "B": "ALK rearrangement",
+      "C": "PD-L1 expression",
+      "D": "KRAS mutation status"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_chemo",
+    "deepDiveExplanation": "For most indications in NSCLC (especially as monotherapy in the first-line), PD-L1 expression (measured by TPS or CPS) is a crucial biomarker to predict response to PD-1/PD-L1 inhibitors like Nivolumab and Pembrolizumab. Higher PD-L1 expression generally correlates with better response.",
+    "highYieldPearl": "PD-L1 expression is a key predictive biomarker for immune checkpoint inhibitor efficacy in NSCLC, especially in the first-line setting for monotherapy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "EGFR, ALK, and KRAS are driver mutations that dictate the use of targeted therapies, not immune checkpoint inhibitors. The question specifies 'without targetable mutations', directing towards immunotherapy biomarkers.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_chemo_1rvg1rtp"
+  },
+  {
+    "question": "Which specific EGFR mutation is associated with primary resistance to first-generation EGFR TKIs?",
+    "options": {
+      "A": "Exon 19 deletion",
+      "B": "L858R",
+      "C": "T790M",
+      "D": "Exon 20 insertion"
+    },
+    "correctAnswer": "D",
+    "topic": "lung_cancer_chemo",
+    "deepDiveExplanation": "EGFR Exon 20 insertions constitute 4-12% of all EGFR mutations in NSCLC and are inherently resistant to first and second-generation EGFR TKIs. Amivantamab and Mobocertinib are approved for this subtype.",
+    "highYieldPearl": "EGFR Exon 20 insertions are distinct from common activating mutations (Exon 19 del, L858R) and require specific targeted therapies due to primary TKI resistance.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Candidates might confuse primary resistance (Exon 20 insertion) with acquired resistance (T790M). Exon 19 deletion and L858R are common activating mutations sensitive to first-gen TKIs.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_chemo_ozxyz4jb"
+  },
+  {
+    "question": "What is the most common acquired on-target resistance mechanism to Osimertinib in EGFR-mutated NSCLC?",
+    "options": {
+      "A": "MET amplification",
+      "B": "HER2 amplification",
+      "C": "EGFR C797S mutation",
+      "D": "Small cell transformation"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_chemo",
+    "deepDiveExplanation": "The EGFR C797S mutation is the most common on-target resistance mechanism to Osimertinib, particularly when Osimertinib is used after prior first/second-generation TKI therapy. It prevents Osimertinib from binding irreversibly to the EGFR kinase domain.",
+    "highYieldPearl": "C797S is a 'gatekeeper' mutation for Osimertinib, analogous to T790M for earlier TKIs. Off-target resistance mechanisms like MET amplification are also common.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "MET amplification is a common acquired resistance mechanism to Osimertinib but is 'off-target'. The question specifically asks for 'on-target' resistance, which refers to changes in the EGFR gene itself.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_chemo_yajric10"
+  },
+  {
+    "question": "Which ALK inhibitor is recommended as first-line treatment for ALK-positive advanced NSCLC?",
+    "options": {
+      "A": "Crizotinib",
+      "B": "Alectinib",
+      "C": "Ceritinib",
+      "D": "Brigatinib"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_cancer_chemo",
+    "deepDiveExplanation": "Alectinib has demonstrated superior efficacy and central nervous system (CNS) penetration compared to Crizotinib, making it the preferred first-line ALK inhibitor for ALK-positive advanced NSCLC. Brigatinib and Lorlatinib are also strong first-line options.",
+    "highYieldPearl": "Alectinib, Brigatinib, and Lorlatinib are all considered superior to Crizotinib in the first-line setting for ALK+ NSCLC due to better efficacy, especially in the brain.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Crizotinib was the first ALK inhibitor but has been largely superseded by newer, more potent agents with better CNS activity. All options are ALK inhibitors, but the question asks for the 'recommended first-line'.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_chemo_v0abaa2o"
+  },
+  {
+    "question": "Which chemotherapy agent is contraindicated in NSCLC patients with pre-existing clinically significant hemoptysis?",
+    "options": {
+      "A": "Pemetrexed",
+      "B": "Carboplatin",
+      "C": "Bevacizumab",
+      "D": "Docetaxel"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_chemo",
+    "deepDiveExplanation": "Bevacizumab, a VEGF inhibitor, is associated with an increased risk of hemorrhage, including pulmonary hemorrhage. Therefore, it is contraindicated in NSCLC patients with recent hemoptysis or squamous cell histology due to higher risk of bleeding.",
+    "highYieldPearl": "Bevacizumab should be avoided in NSCLC patients with squamous histology or recent hemoptysis due to increased risk of fatal pulmonary hemorrhage.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The other agents are standard chemotherapeutic drugs and do not carry a specific contraindication for hemoptysis to the same extent as Bevacizumab. This is a critical safety consideration for VEGF inhibitors.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_chemo_vjs2rtul"
+  },
+  {
+    "question": "Which targeted agent is indicated for MET exon 14 skipping mutations in advanced NSCLC?",
+    "options": {
+      "A": "Crizotinib",
+      "B": "Capmatinib",
+      "C": "Osimertinib",
+      "D": "Dabrafenib"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_cancer_chemo",
+    "deepDiveExplanation": "Capmatinib and Tepotinib are specific MET inhibitors approved for the treatment of advanced NSCLC with MET exon 14 skipping mutations. Crizotinib has some activity but is not specifically approved for this indication.",
+    "highYieldPearl": "MET exon 14 skipping mutations define a distinct molecular subtype of NSCLC, treatable with specific MET inhibitors like Capmatinib or Tepotinib.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Crizotinib is an ALK/ROS1/MET inhibitor, but Capmatinib is a more potent and specific MET inhibitor approved for exon 14 skipping. Osimertinib is for EGFR, Dabrafenib for BRAF.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_chemo_63b2sbk2"
+  },
+  {
+    "question": "What is the standard first-line chemotherapy backbone for extensive stage Small Cell Lung Cancer (SCLC)?",
+    "options": {
+      "A": "Cisplatin + Pemetrexed",
+      "B": "Carboplatin + Paclitaxel",
+      "C": "Cisplatin/Carboplatin + Etoposide",
+      "D": "Gemcitabine + Vinorelbine"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_chemo",
+    "deepDiveExplanation": "The combination of a platinum agent (Cisplatin or Carboplatin) with Etoposide remains the cornerstone of first-line chemotherapy for extensive stage SCLC. Immunotherapy (e.g., Atezolizumab or Durvalumab) is often added to this backbone.",
+    "highYieldPearl": "Platinum-etoposide is the classic and still standard chemotherapy for SCLC, now often combined with immunotherapy for improved survival.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Other regimens are used in NSCLC (e.g., Pemetrexed, Paclitaxel) but are not standard for SCLC. The question specifically asks for SCLC.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_chemo_3sn3wazs"
+  },
+  {
+    "question": "Which of the following is a common immune-related adverse event (irAE) affecting the endocrine system with PD-1 inhibitors?",
+    "options": {
+      "A": "Colitis",
+      "B": "Pneumonitis",
+      "C": "Hypothyroidism",
+      "D": "Dermatitis"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_chemo",
+    "deepDiveExplanation": "Immune checkpoint inhibitors can cause inflammation in various organs. Hypothyroidism (thyroiditis) is a common endocrine irAE, often requiring thyroid hormone replacement. Other endocrine irAEs include hypophysitis and adrenal insufficiency.",
+    "highYieldPearl": "Endocrine irAEs, especially thyroid dysfunction, are common and often permanent, requiring lifelong hormone replacement.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Colitis, pneumonitis, and dermatitis are also common irAEs but affect the gastrointestinal, respiratory, and integumentary systems, respectively. The question specifies 'endocrine system'.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_chemo_u3m6bzv9"
+  },
+  {
+    "question": "What is the recommended targeted therapy combination for BRAF V600E mutated advanced NSCLC?",
+    "options": {
+      "A": "Erlotinib + Bevacizumab",
+      "B": "Dabrafenib + Trametinib",
+      "C": "Alectinib + Ceritinib",
+      "D": "Osimertinib + Ramucirumab"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_cancer_chemo",
+    "deepDiveExplanation": "Dabrafenib (a BRAF inhibitor) combined with Trametinib (a MEK inhibitor) is the approved and recommended targeted therapy for NSCLC patients with a BRAF V600E mutation. This combination improves efficacy and reduces resistance.",
+    "highYieldPearl": "BRAF V600E mutation in NSCLC is treated similarly to melanoma, with combined BRAF and MEK inhibition for synergistic effect.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Each option represents a combination of targeted agents, but only Dabrafenib + Trametinib specifically targets the BRAF pathway. The other combinations are for different molecular targets or are not standard.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_chemo_jdhulq6x"
+  },
+  {
+    "question": "Which gene fusion is a target for Crizotinib in advanced NSCLC?",
+    "options": {
+      "A": "EGFR exon 19 deletion",
+      "B": "KRAS G12C",
+      "C": "ROS1 rearrangement",
+      "D": "BRAF V600E"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_chemo",
+    "deepDiveExplanation": "Crizotinib is a multi-targeted tyrosine kinase inhibitor active against ALK, ROS1, and MET. It was the first approved targeted agent for ALK-positive NSCLC and is also effective in ROS1-rearranged NSCLC.",
+    "highYieldPearl": "Crizotinib's activity extends beyond ALK to include ROS1 rearrangements, making it a crucial agent for both these less common but targetable fusions.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "EGFR, KRAS, and BRAF are common mutations but are not targeted by Crizotinib. Crizotinib primarily targets fusions (ALK, ROS1) and to some extent MET amplification.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_chemo_6pj9joh9"
+  },
+  {
+    "question": "Which biomarker is typically required before initiating Nivolumab or Pembrolizumab in NSCLC without targetable mutations?",
+    "options": {
+      "A": "EGFR mutation status",
+      "B": "ALK rearrangement",
+      "C": "PD-L1 expression",
+      "D": "KRAS mutation status"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_chemo",
+    "deepDiveExplanation": "For most indications in NSCLC (especially as monotherapy in the first-line), PD-L1 expression (measured by TPS or CPS) is a crucial biomarker to predict response to PD-1/PD-L1 inhibitors like Nivolumab and Pembrolizumab. Higher PD-L1 expression generally correlates with better response.",
+    "highYieldPearl": "PD-L1 expression is a key predictive biomarker for immune checkpoint inhibitor efficacy in NSCLC, especially in the first-line setting for monotherapy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "EGFR, ALK, and KRAS are driver mutations that dictate the use of targeted therapies, not immune checkpoint inhibitors. The question specifies 'without targetable mutations', directing towards immunotherapy biomarkers.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_chemo_q8pucd7e"
+  }
+]

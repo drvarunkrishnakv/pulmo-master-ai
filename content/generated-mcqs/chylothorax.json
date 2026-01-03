@@ -1,0 +1,1465 @@
+[
+  {
+    "id": "rag_chylothorax_efb11091",
+    "question": "A 62-year-old male, heavy smoker, presents with rapidly progressive dyspnea and superior vena cava syndrome. A CT chest reveals a large hilar mass with extensive mediastinal lymphadenopathy. Bronchial biopsy is performed. Histopathology reveals small, uniformly-sized malignant cells with scant cytoplasm, finely granular nuclear chromatin, inconspicuous nucleoli, and nuclear molding. Numerous mitotic figures and areas of necrosis are also noted. To confirm the suspected diagnosis, which of the following immunohistochemical (IHC) staining profiles would be most characteristic?",
+    "options": {
+      "A": "TTF-1 (+), Napsin A (+), CK7 (+)",
+      "B": "p63 (+), CK5/6 (+), TTF-1 (-)",
+      "C": "Synaptophysin (+), Chromogranin A (+), CD56 (+)",
+      "D": "ALK rearrangement, PD-L1 TPS > 50%"
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The clinical vignette describes classic features of Small Cell Lung Carcinoma (SCLC): heavy smoking history, central hilar mass with mediastinal lymphadenopathy, rapidly progressive symptoms including SVC syndrome, and characteristic histopathology (small cells, scant cytoplasm, nuclear molding, finely granular chromatin, high mitotic activity, necrosis). SCLC is a neuroendocrine tumor, and therefore, it typically expresses neuroendocrine markers. Synaptophysin, Chromogranin A, and CD56 are key immunohistochemical markers for neuroendocrine differentiation. TTF-1 can also be positive in SCLC (approximately 75-90% of cases), but the combination of neuroendocrine markers is highly specific.",
+    "highYieldPearl": "Rio's Take: Always think neuroendocrine markers (Synaptophysin, Chromogranin, CD56) when SCLC is suspected, especially with a classic 'small blue round cell' morphology. TTF-1 positivity is common but not exclusive to SCLC.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This profile (TTF-1 (+), Napsin A (+), CK7 (+)) is highly characteristic of lung adenocarcinoma. While TTF-1 can be positive in SCLC, Napsin A and CK7 are typically absent or negative in SCLC, making this option incorrect.",
+      "B": "This profile (p63 (+), CK5/6 (+), TTF-1 (-)) is characteristic of squamous cell carcinoma of the lung. SCLC lacks these squamous markers.",
+      "C": "This option correctly identifies the key neuroendocrine markers (Synaptophysin, Chromogranin A, CD56) that are characteristic of SCLC, confirming its neuroendocrine nature. This is the most appropriate IHC profile for SCLC.",
+      "D": "ALK rearrangement and PD-L1 Tumor Proportion Score (TPS) are molecular and immune checkpoint markers, respectively, primarily used for guiding targeted therapy and immunotherapy in Non-Small Cell Lung Cancer (NSCLC), particularly adenocarcinoma. They are not diagnostic histopathological markers for SCLC."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_559f6557",
+    "question": "A 58-year-old non-smoking female presents with chronic cough and an incidental finding of a 3 cm peripheral lung nodule on chest X-ray. A CT-guided core biopsy is performed. Initial hematoxylin and eosin (H&E) staining shows malignant epithelial cells with some glandular differentiation but no obvious keratinization or intercellular bridges. Which immunohistochemical (IHC) profile would best confirm the diagnosis of adenocarcinoma and distinguish it from squamous cell carcinoma?",
+    "options": {
+      "A": "TTF-1 (+), Napsin A (+), p63 (-)",
+      "B": "p63 (+), CK5/6 (+), TTF-1 (-)",
+      "C": "Synaptophysin (+), Chromogranin A (+), CD56 (-)",
+      "D": "EGFR mutation, ROS1 rearrangement"
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The clinical presentation (non-smoking female, peripheral nodule) and initial H&E findings (glandular differentiation, no keratinization/intercellular bridges) strongly suggest lung adenocarcinoma. To confirm adenocarcinoma and differentiate it from squamous cell carcinoma (a common differential diagnosis, especially with limited biopsy material), specific IHC markers are used. TTF-1 (Thyroid Transcription Factor-1) and Napsin A are highly sensitive and specific markers for lung adenocarcinoma. Conversely, p63 and CK5/6 are markers for squamous differentiation. Therefore, a profile of TTF-1 (+), Napsin A (+), and p63 (-) is highly indicative of adenocarcinoma.",
+    "highYieldPearl": "Rio's Take: TTF-1 and Napsin A are the 'go-to' markers for adenocarcinoma, especially in non-smokers with peripheral lesions. p63/CK5/6 rule out squamous differentiation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This profile (TTF-1 (+), Napsin A (+), p63 (-)) is the gold standard for diagnosing lung adenocarcinoma and differentiating it from squamous cell carcinoma. TTF-1 and Napsin A are positive in adenocarcinoma, while p63 (a squamous marker) is negative.",
+      "B": "This profile (p63 (+), CK5/6 (+), TTF-1 (-)) is characteristic of squamous cell carcinoma of the lung. It would rule out adenocarcinoma, which is contrary to the question's premise.",
+      "C": "This profile (Synaptophysin (+), Chromogranin A (+), CD56 (-)) indicates neuroendocrine differentiation, commonly seen in Small Cell Lung Carcinoma (SCLC) or other neuroendocrine tumors. This is not consistent with the clinical and initial histological findings suggesting adenocarcinoma.",
+      "D": "EGFR mutation and ROS1 rearrangement are actionable molecular alterations found in some adenocarcinomas, which guide targeted therapy. While crucial for management, they are molecular tests, not immunohistochemical markers used for initial histopathological diagnosis and differentiation of adenocarcinoma from squamous cell carcinoma. The question specifically asks for IHC profile."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_ba6ac727",
+    "question": "A 68-year-old male with a 50-pack-year smoking history presents with new-onset proximal muscle weakness, fatigue, and difficulty climbing stairs. Physical examination reveals impaired deep tendon reflexes. A chest CT scan shows a large, ill-defined central mass with extensive mediastinal lymphadenopathy. Serum sodium is 125 mEq/L. Bronchial biopsy is performed. Based on the clinical presentation and imaging findings, which of the following histological features is most likely to be observed in the biopsy specimen?",
+    "options": {
+      "A": "Presence of numerous pearl-like keratin structures and prominent intercellular bridges.",
+      "B": "Malignant cells with abundant clear cytoplasm arranged in glandular patterns.",
+      "C": "Clusters of small, ovoid cells with very scant cytoplasm, nuclear molding, and 'salt-and-pepper' chromatin.",
+      "D": "Large pleomorphic cells with bizarre nuclei, prominent nucleoli, and abundant eosinophilic cytoplasm forming solid sheets."
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The clinical presentation is highly suggestive of Small Cell Lung Carcinoma (SCLC). The patient's heavy smoking history, central mass with mediastinal lymphadenopathy, new-onset proximal muscle weakness with impaired reflexes (Lambert-Eaton Myasthenic Syndrome), and hyponatremia (consistent with Syndrome of Inappropriate Antidiuretic Hormone secretion - SIADH) are all classic paraneoplastic manifestations associated with SCLC. Given this strong clinical suspicion, the histological features described in option C—small, ovoid cells with scant cytoplasm, nuclear molding, and 'salt-and-pepper' chromatin—are the hallmarks of SCLC.",
+    "highYieldPearl": "Rio's Take: Always connect classic paraneoplastic syndromes (SIADH, Lambert-Eaton) in heavy smokers with central masses to SCLC and its characteristic 'small blue cell' morphology.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "These features (keratin pearls, intercellular bridges) are classic for squamous cell carcinoma, which typically presents centrally in smokers but is less commonly associated with the specific paraneoplastic syndromes described here.",
+      "B": "Malignant cells with abundant clear cytoplasm arranged in glandular patterns could suggest a clear cell variant of adenocarcinoma. While adenocarcinomas can be peripheral or central, this morphology and paraneoplastic profile are not typical for adenocarcinoma.",
+      "C": "This option accurately describes the characteristic histological features of Small Cell Lung Carcinoma (SCLC): small, ovoid cells, very scant cytoplasm, nuclear molding (due to fragility of nuclei), and finely granular, evenly dispersed chromatin often termed 'salt-and-pepper' chromatin. These features, combined with high mitotic activity and necrosis, are diagnostic of SCLC and align perfectly with the strong clinical suspicion.",
+      "D": "This description (large pleomorphic cells, bizarre nuclei, prominent nucleoli, abundant eosinophilic cytoplasm) is more consistent with large cell carcinoma or other high-grade non-small cell carcinomas, rather than SCLC."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_fb9f2ab3",
+    "question": "Which of the following histopathological features is most characteristic of Small Cell Lung Carcinoma (SCLC) on light microscopy?",
+    "options": {
+      "A": "Large, polygonal cells with abundant eosinophilic cytoplasm and prominent intercellular bridges",
+      "B": "Glandular differentiation with mucin production and lepidic growth patterns",
+      "C": "Small cells with scant cytoplasm, nuclear molding, and finely granular 'salt-and-pepper' chromatin",
+      "D": "Pleomorphic cells with spindle shape and extensive stromal desmoplasia"
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "Small Cell Lung Carcinoma (SCLC) is characterized by small cells (typically 2-3 times the size of a lymphocyte), scant cytoplasm, and nuclei with finely granular chromatin (often described as 'salt-and-pepper') and inconspicuous or absent nucleoli. Other classic features include nuclear molding (nuclei conforming to adjacent nuclei), a high mitotic rate, and frequent necrosis. Crush artifact, where cells are distorted due to biopsy procedures, is also common due to their fragile nature. These features differentiate SCLC from the typically larger cells and distinct differentiation patterns seen in Non-Small Cell Lung Carcinomas (NSCLC) (Ref 35, 38).",
+    "highYieldPearl": "Rio's Take: Remember the '3 S's' for SCLC: Small cells, Scant cytoplasm, Salt-and-pepper chromatin, plus nuclear molding and high mitotic rate. These are the classic features that distinguish it from NSCLC.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This describes features typical of Squamous Cell Carcinoma, a subtype of NSCLC (Ref 27, 32).",
+      "B": "These features are characteristic of Adenocarcinoma, another subtype of NSCLC, especially the lepidic pattern seen in some adenocarcinomas (Ref 70).",
+      "C": "This accurately describes the classic histopathological features of SCLC (Ref 35, 38).",
+      "D": "While some lung cancers can have spindle cells or desmoplasia, these are not the most characteristic or defining features of SCLC. Pleomorphism is generally more pronounced in high-grade NSCLCs, and extensive desmoplasia is more common in adenocarcinoma."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_1671afa3",
+    "question": "All of the following are typical histopathological features observed in Small Cell Lung Carcinoma (SCLC), EXCEPT:",
+    "options": {
+      "A": "High mitotic activity and frequent necrosis",
+      "B": "Nuclear molding and crush artifact",
+      "C": "Abundant eosinophilic cytoplasm and prominent intercellular bridges",
+      "D": "Finely granular 'salt-and-pepper' chromatin with inconspicuous nucleoli"
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "SCLC is a highly aggressive neuroendocrine tumor characterized by small cells with scant cytoplasm, fine 'salt-and-pepper' chromatin, and inconspicuous nucleoli. High mitotic rates, extensive necrosis, and characteristic artifacts like nuclear molding and crush artifact are commonly observed due to the cellular fragility and rapid proliferation (Ref 35, 38). In contrast, abundant eosinophilic cytoplasm and prominent intercellular bridges are the defining features of Squamous Cell Carcinoma, a subtype of NSCLC (Ref 27, 32).",
+    "highYieldPearl": "Rio's Take: When asked 'EXCEPT' questions about SCLC histology, look for features of NSCLC (especially squamous cell carcinoma or adenocarcinoma) as the likely correct answer. SCLC cells are 'small and fragile' – leading to scant cytoplasm, molding, and crush artifact.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "High mitotic activity and frequent necrosis are hallmarks of SCLC's aggressive nature.",
+      "B": "Nuclear molding and crush artifact are classic features of SCLC, resulting from the small size, scant cytoplasm, and friability of the tumor cells.",
+      "C": "This option describes features characteristic of Squamous Cell Carcinoma, a type of NSCLC, not SCLC.",
+      "D": "This accurately describes the nuclear characteristics of SCLC, distinguishing it from most NSCLC types."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_a2f270da",
+    "question": "A lung biopsy from a 60-year-old male smoker reveals a poorly differentiated carcinoma. To help differentiate between SCLC and a poorly differentiated NSCLC, which immunohistochemical (IHC) marker profile would most strongly support a diagnosis of SCLC?",
+    "options": {
+      "A": "Positive for TTF-1 and Napsin A, negative for Chromogranin",
+      "B": "Positive for p40 and CK5/6, negative for TTF-1",
+      "C": "Positive for CD56 and Synaptophysin, positive for TTF-1",
+      "D": "Positive for CK7, negative for p63 and CDX2"
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "Small Cell Lung Carcinoma (SCLC) is a neuroendocrine tumor. Therefore, it typically expresses neuroendocrine markers such as CD56, Chromogranin, and Synaptophysin. Additionally, a significant proportion (approximately 80-90%) of SCLCs are positive for TTF-1 (Thyroid Transcription Factor-1). This combination (neuroendocrine markers + TTF-1) strongly points towards SCLC (Ref 31). The other options represent IHC profiles for other lung cancer subtypes: Option A for adenocarcinoma, Option B for squamous cell carcinoma, and Option D is a non-specific profile that lacks definitive SCLC markers.",
+    "highYieldPearl": "Rio's Take: For SCLC IHC, think 'neuroendocrine markers' (CD56, Synaptophysin, Chromogranin) plus TTF-1. Remember TTF-1 is also positive in most adenocarcinomas, so it needs to be combined with neuroendocrine markers for a confident SCLC diagnosis.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This profile (TTF-1 and Napsin A positive, Chromogranin negative) is highly suggestive of adenocarcinoma, a subtype of NSCLC (Ref 31).",
+      "B": "This profile (p40 and CK5/6 positive, TTF-1 negative) is characteristic of squamous cell carcinoma, another subtype of NSCLC (Ref 31).",
+      "C": "This profile (CD56 and Synaptophysin positive, TTF-1 positive) is the classic immunohistochemical signature for Small Cell Lung Carcinoma, indicating neuroendocrine differentiation (Ref 31).",
+      "D": "This profile (CK7 positive, p63 and CDX2 negative) is non-specific. CK7 can be positive in various lung cancers including adenocarcinoma and some SCLCs. p63 negative rules out most squamous cell carcinomas, and CDX2 is typically used for colorectal metastasis, so this profile doesn't strongly point to SCLC or any specific primary lung cancer definitively without other markers."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_40ee97c6",
+    "question": "A 68-year-old male with a significant smoking history presents with new-onset hyponatremia and a rapidly enlarging mediastinal mass. Bronchoscopic biopsy reveals small, monomorphic cells with scant cytoplasm, finely granular chromatin, nuclear molding, and numerous mitoses. Immunohistochemistry is planned. Which of the following immunoprofiles, in conjunction with the histopathology, would be most consistent with the patient's likely diagnosis?",
+    "options": {
+      "A": "TTF-1 (+), Synaptophysin (+), p63 (-)",
+      "B": "TTF-1 (+), Napsin A (+), p63 (-)",
+      "C": "TTF-1 (-), p63 (+), CK5/6 (+)",
+      "D": "TTF-1 (-), CD56 (-), Chromogranin (-)"
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The clinical presentation (heavy smoker, rapidly enlarging mediastinal mass, hyponatremia suggestive of SIADH) combined with the histopathological features (small, monomorphic cells, scant cytoplasm, finely granular chromatin, nuclear molding, numerous mitoses, crush artifact implies rapid growth) are classic for Small Cell Lung Carcinoma (SCLC). SCLC is a neuroendocrine tumor that typically expresses neuroendocrine markers (Synaptophysin, Chromogranin, CD56) and is usually positive for TTF-1 (approximately 90% of cases). It is negative for squamous cell markers like p63 and CK5/6, and usually negative for adenocarcinoma markers like Napsin A. Therefore, an immunoprofile of TTF-1 (+), Synaptophysin (+), and p63 (-) strongly supports a diagnosis of SCLC.",
+    "highYieldPearl": "Rio's Take: The combination of distinct morphology (small cells, nuclear molding, crush artifact) and neuroendocrine IHC markers (Synaptophysin, Chromogranin, CD56), often with TTF-1 positivity, is key for diagnosing SCLC, especially in a central mass with paraneoplastic syndromes like SIADH.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This correctly identifies the typical immunoprofile for Small Cell Lung Carcinoma, combining TTF-1 positivity with neuroendocrine marker (Synaptophysin) positivity and absence of squamous markers (p63).",
+      "B": "This profile (TTF-1 (+), Napsin A (+)) is characteristic of Adenocarcinoma. While SCLC can be TTF-1 positive, Napsin A positivity is highly suggestive of adenocarcinoma, which contradicts the described morphology.",
+      "C": "This profile (TTF-1 (-), p63 (+), CK5/6 (+)) is characteristic of Squamous Cell Carcinoma. The morphology described (small cells, nuclear molding) is inconsistent with squamous cell carcinoma, which typically features larger cells with keratinization or intercellular bridges.",
+      "D": "This profile is largely negative for key markers of both SCLC (CD56, Chromogranin) and many NSCLCs (TTF-1). While some rare SCLCs might be negative for one neuroendocrine marker, being negative for both CD56 and Chromogranin, along with TTF-1 negativity, makes SCLC highly unlikely and would suggest a diagnosis of exclusion or another type of carcinoma."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_51fdea71",
+    "question": "A 55-year-old non-smoker presents with a persistent cough and is found to have a 3 cm peripheral lung nodule on CT scan. A percutaneous biopsy confirms malignant cells with evidence of glandular differentiation and mucin production. Given these findings, which of the following is the most critical next step in the histopathological workup to guide management?",
+    "options": {
+      "A": "Assessment of tumor grade (well, moderately, poorly differentiated).",
+      "B": "Immunohistochemical staining for p63 and CK5/6 to exclude squamous differentiation.",
+      "C": "Molecular testing for driver mutations such as EGFR, ALK, and ROS1.",
+      "D": "Evaluation for spread to hilar and mediastinal lymph nodes."
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The clinical scenario (non-smoker, peripheral nodule) and histopathological findings (glandular differentiation, mucin production) are highly characteristic of lung adenocarcinoma, a subtype of Non-Small Cell Lung Carcinoma (NSCLC). For adenocarcinoma, especially in non-smokers, the identification of specific oncogenic driver mutations (e.g., EGFR, ALK, ROS1, BRAF) is paramount for guiding targeted therapy with tyrosine kinase inhibitors (TKIs). These molecular tests are considered the most critical histopathological workup step for treatment selection in this context.",
+    "highYieldPearl": "Rio's Take: In adenocarcinoma, especially from non-smokers or those with peripheral lesions, molecular testing for driver mutations (EGFR, ALK, ROS1 etc.) is the highest yield histopathological step, directly dictating eligibility for targeted therapies.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Assessment of tumor grade is important for prognosis but is not the most critical step for guiding specific systemic targeted therapy, which is the focus in modern lung cancer management for adenocarcinoma.",
+      "B": "The biopsy already confirmed glandular differentiation and mucin production, which are features of adenocarcinoma. While IHC is used to differentiate between NSCLC subtypes when morphology is ambiguous (e.g., poorly differentiated NSCLC), the question implies clear glandular features. Staining for squamous markers (p63, CK5/6) would primarily serve to confirm the absence of squamous differentiation, which is usually not the most critical *next* step when adenocarcinoma is already morphologically apparent and the goal is to guide specific treatment.",
+      "C": "Molecular testing for driver mutations like EGFR, ALK, and ROS1 is crucial for adenocarcinoma as it directly informs the selection of highly effective targeted therapies, making it the most critical step in guiding management in this era of precision medicine.",
+      "D": "Evaluation for lymph node spread (staging) is a critical part of overall treatment planning (surgical vs. systemic therapy, radiation fields), but it is a clinical and radiological staging procedure, not a histopathological workup step *of the primary tumor* to characterize its molecular biology and guide systemic therapy choices."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_af484b44",
+    "question": "A 72-year-old heavy smoker presents with hemoptysis and a large, ill-defined central lung mass. Bronchoscopic biopsies reveal atypical malignant cells with abundant cytoplasm, large nuclei, and prominent nucleoli, but without overt glandular or squamous differentiation seen on H&E. The pathologist orders an immunohistochemical panel. Which of the following immunoprofiles would most strongly support a diagnosis of poorly differentiated Squamous Cell Carcinoma (SCC)?",
+    "options": {
+      "A": "TTF-1 (+), Napsin A (+)",
+      "B": "p63 (+), CK5/6 (+), TTF-1 (-)",
+      "C": "Synaptophysin (+), Chromogranin A (+)",
+      "D": "CDX2 (+), CK20 (+)"
+    },
+    "correctAnswer": "B",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The clinical context (heavy smoker, central mass, hemoptysis) is highly suggestive of Squamous Cell Carcinoma (SCC). When routine H&E staining does not show clear squamous or glandular differentiation (i.e., poorly differentiated NSCLC), immunohistochemistry (IHC) is essential for subtyping. SCC typically expresses squamous cell markers such as p63 and CK5/6, and is usually negative for TTF-1, which is a marker for adenocarcinoma and SCLC. This immunoprofile helps to distinguish poorly differentiated SCC from adenocarcinoma, SCLC, or metastatic carcinomas.",
+    "highYieldPearl": "Rio's Take: For poorly differentiated lung tumors, IHC is indispensable. p63 and CK5/6 positivity with TTF-1 negativity strongly points to squamous cell carcinoma, especially in a smoker with a central lesion.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This profile (TTF-1 (+), Napsin A (+)) is characteristic of adenocarcinoma. While a central mass can sometimes be adenocarcinoma, the clinical context and need for differentiation point away from this.",
+      "B": "This immunoprofile correctly identifies poorly differentiated Squamous Cell Carcinoma. p63 and CK5/6 are specific markers for squamous differentiation, and TTF-1 negativity helps to rule out adenocarcinoma and most SCLC cases.",
+      "C": "This profile (Synaptophysin (+), Chromogranin A (+)) is characteristic of neuroendocrine tumors, including Small Cell Lung Carcinoma. While SCLC often occurs in heavy smokers with central masses, its characteristic morphology (small cells, nuclear molding) differs from the 'large cells, abundant cytoplasm' described, necessitating IHC for differentiation from other poorly differentiated tumors.",
+      "D": "This profile (CDX2 (+), CK20 (+)) is characteristic of metastatic colorectal adenocarcinoma. While lung can be a site for metastases, this profile is not typically seen in primary lung squamous cell carcinoma. This is a plausible distractor for a general pathology exam but less likely for primary lung cancer differentiation based on the given context."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_3386953e",
+    "question": "A 65-year-old male with a 40 pack-year smoking history presents with new onset dysphagia and a 5 cm right hilar mass on CT scan. Bronchoscopy reveals an obstructing endobronchial lesion. Biopsy shows small cells with scant cytoplasm, nuclear molding, and high mitotic activity. Immunohistochemical staining is performed.",
+    "options": {
+      "A": "Chromogranin (+), Synaptophysin (+), CD56 (+)",
+      "B": "TTF-1 (+), Napsin A (+), CK5/6 (-)",
+      "C": "p63 (+), CK5/6 (+), TTF-1 (-)",
+      "D": "EGFR mutation detected, ALK rearrangement absent"
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The clinical vignette describes classic features of Small Cell Lung Carcinoma (SCLC): a heavy smoking history, a central (hilar) mass causing dysphagia (suggesting mediastinal involvement), and characteristic histomorphology (small cells with scant cytoplasm, nuclear molding, high mitotic activity) (Ref 35, 38). Immunohistochemically, SCLC is defined by the expression of neuroendocrine markers such as Chromogranin, Synaptophysin, and CD56 (Ref 31, 35). While TTF-1 can be positive in SCLC (in 80-90% of cases), it is not specific, as it is also positive in most adenocarcinomas. Therefore, a panel of neuroendocrine markers provides the strongest support for an SCLC diagnosis.",
+    "highYieldPearl": "Rio's Take: When considering SCLC, always remember the 'triple threat': small cells with characteristic morphology (scant cytoplasm, nuclear molding, salt & pepper chromatin), positive neuroendocrine markers (Chromogranin, Synaptophysin, CD56), and often a strong smoking history with rapid, aggressive clinical progression. While TTF-1 can be positive, true neuroendocrine markers are key for diagnosis.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct option. This profile of neuroendocrine markers (Chromogranin, Synaptophysin, CD56) is highly specific for Small Cell Lung Carcinoma (SCLC), aligning with the clinical and morphological features presented.",
+      "B": "This is the classic immunohistochemical profile for lung adenocarcinoma. While TTF-1 can be positive in SCLC, Napsin A is highly specific for adenocarcinoma, making this option inconsistent with an SCLC diagnosis. Candidates might be trapped by recalling TTF-1 positivity in SCLC but overlooking the specificity of Napsin A.",
+      "C": "This is the classic immunohistochemical profile for lung squamous cell carcinoma. This option is a plausible distractor for those who might confuse the histologies or IHC markers, as both SCLC and SCC are strongly associated with smoking.",
+      "D": "This refers to molecular findings, not immunohistochemistry. EGFR mutations are primarily associated with adenocarcinoma and are exceedingly rare in SCLC. ALK rearrangements are also characteristic of NSCLC (adenocarcinoma). This molecular profile would argue against SCLC."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_5b03dd83",
+    "question": "A 58-year-old non-smoking female is diagnosed with stage IIIA lung adenocarcinoma based on a biopsy of a peripheral lung mass. Molecular profiling is performed on the tumor tissue. All of the following statements regarding the molecular characteristics and therapeutic implications of her tumor type (adenocarcinoma) are generally true, EXCEPT:",
+    "options": {
+      "A": "Activating EGFR mutations are more frequently identified in non-smokers and predict a favorable response to EGFR tyrosine kinase inhibitors.",
+      "B": "ALK rearrangements are typically mutually exclusive with EGFR mutations and identify patients who may benefit from ALK inhibitors.",
+      "C": "KRAS mutations are among the most common genomic alterations in adenocarcinoma and are now actionable with specific targeted therapies for certain subtypes.",
+      "D": "Immunohistochemistry for PD-L1 expression is commonly performed, but its level is the sole determinant for immunotherapy eligibility, irrespective of other factors."
+    },
+    "correctAnswer": "D",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "Lung adenocarcinoma is characterized by a diverse range of oncogenic driver mutations that guide targeted therapy. Activating EGFR mutations are indeed more common in non-smokers and predict sensitivity to EGFR tyrosine kinase inhibitors (TKIs) (Ref 23, 24). ALK rearrangements are another crucial actionable alteration, often found in younger patients and non-smokers, generally mutually exclusive with EGFR mutations, and conferring sensitivity to ALK inhibitors (Ref 22, 23). KRAS mutations are among the most frequent genomic alterations in adenocarcinoma; historically 'undruggable,' specific KRAS G12C inhibitors have recently shown significant efficacy, making them actionable for certain subtypes (Ref 22). However, while PD-L1 expression assessed by immunohistochemistry is a critical biomarker for immune checkpoint inhibitor eligibility, it is not the *sole* determinant (Ref 24). Immunotherapy can be given in combination with chemotherapy regardless of PD-L1 status in some settings, and other factors such as tumor mutational burden (TMB), patient performance status, and specific genomic alterations can also influence treatment decisions. Therefore, stating PD-L1 is the *sole* determinant is incorrect.",
+    "highYieldPearl": "Rio's Take: In NSCLC adenocarcinoma, always test for the 'actionable' drivers: EGFR, ALK, ROS1, BRAF, RET, MET, and now specific KRAS subtypes (e.g., G12C). While PD-L1 is crucial for immunotherapy decisions, remember it's one piece of the puzzle, not the 'sole' determinant. The landscape of immunotherapy is complex and evolving.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a true statement. Activating EGFR mutations are indeed more prevalent in non-smokers, East Asians, and females, and they predict a good response to EGFR TKIs. This is a fundamental concept in NSCLC management.",
+      "B": "This is also a true statement. ALK rearrangements are generally mutually exclusive with EGFR mutations, and ALK inhibitors are highly effective in patients with ALK-positive tumors.",
+      "C": "This is a true and up-to-date statement. KRAS mutations are very common in adenocarcinoma, and the development of specific KRAS G12C inhibitors has made this subtype actionable, a significant recent advance in lung cancer therapy. Candidates might incorrectly select this if their knowledge of recent drug approvals is not current.",
+      "D": "This is the incorrect statement (EXCEPT). While PD-L1 expression is a vital biomarker for immunotherapy selection, it is not the *sole* determinant. For example, combination chemotherapy-immunotherapy regimens are approved regardless of PD-L1 status in some settings, and other factors like tumor mutational burden or patient characteristics also play a role. The word 'sole' makes this statement false."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_7303bd1c",
+    "question": "Which of the following statements *accurately* differentiates Small Cell Lung Carcinoma (SCLC) from Squamous Cell Carcinoma (SCC) of the lung based on histopathology and immunohistochemistry?",
+    "options": {
+      "A": "SCLC typically presents with large cells, abundant cytoplasm, and prominent nucleoli, while SCC is characterized by small cells with scant cytoplasm.",
+      "B": "SCLC is characterized by nuclear molding, finely granular 'salt and pepper' chromatin, and positive neuroendocrine markers (e.g., Chromogranin, CD56), whereas SCC shows keratinization and intercellular bridges and is positive for p63 and CK5/6.",
+      "C": "SCC is frequently positive for TTF-1 and Napsin A, while SCLC is consistently negative for TTF-1.",
+      "D": "Both SCLC and SCC commonly exhibit EGFR mutations and are amenable to targeted tyrosine kinase inhibitor therapy."
+    },
+    "correctAnswer": "B",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "SCLC and SCC are distinct lung cancer types with critical differences. SCLC is characterized by small, round to oval cells with scant cytoplasm, finely granular chromatin ('salt and pepper'), nuclear molding, inconspicuous nucleoli, high mitotic activity, and necrosis (Ref 35, 38). Immunohistochemically, SCLC consistently expresses neuroendocrine markers such as Chromogranin, Synaptophysin, and CD56 (Ref 31, 35). In contrast, SCC is characterized by polygonal cells with eosinophilic cytoplasm, evidence of keratinization (keratin pearls, individual cell keratinization) and intercellular bridges (Ref 27, 28). IHC markers for SCC include p63 and CK5/6, while TTF-1 and Napsin A are typically negative (Ref 31). Molecularly, EGFR mutations are predominantly found in adenocarcinoma and are rare in both SCLC and SCC (Ref 23).",
+    "highYieldPearl": "Rio's Take: Differentiating SCLC from SCC is fundamental due to vastly different management. For SCLC, think 'small cells, nuclear molding, salt and pepper chromatin, neuroendocrine markers (Chromogranin, Synaptophysin, CD56).' For SCC, think 'larger cells, keratinization, intercellular bridges, p63, CK5/6.' These specific features are your diagnostic anchors.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This statement inaccurately reverses the classic morphological descriptions. SCLC is defined by 'small cells,' while SCC generally consists of larger, polygonal cells with more cytoplasm compared to SCLC. This tests basic histological differentiation.",
+      "B": "Correct option. This statement accurately describes the key distinguishing histopathological features (nuclear molding, 'salt and pepper' chromatin for SCLC; keratinization, intercellular bridges for SCC) and the characteristic immunohistochemical profiles (neuroendocrine markers for SCLC; p63, CK5/6 for SCC) of both cancer types (Ref 31, 35).",
+      "C": "This statement is incorrect. SCC is typically negative for TTF-1 and Napsin A (these are markers for adenocarcinoma). SCLC can be positive for TTF-1 (in approximately 80-90% of cases), so stating it is 'consistently negative' is false. This tests detailed knowledge of IHC marker specificities.",
+      "D": "This statement is incorrect. EGFR mutations are predominantly associated with lung adenocarcinoma and are rare in both SCLC and SCC. Therefore, targeted tyrosine kinase inhibitor therapy for EGFR mutations is not commonly applicable to either SCLC or SCC. While SCC can have other actionable targets (e.g., FGFR1, DDR2), the broad statement regarding EGFR mutations and TKIs is false (Ref 23, 32)."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_4c5d77af",
+    "question": "A 68-year-old male with a significant smoking history presents with a cough and weight loss. A CT scan reveals a peripheral lung mass. Bronchoscopic biopsy is performed. The initial H&E staining shows poorly differentiated malignant cells. To further classify the tumor, the pathologist orders immunohistochemical (IHC) staining. Which of the following IHC marker combinations would be most helpful in distinguishing lung adenocarcinoma from squamous cell carcinoma in this setting?",
+    "options": {
+      "A": "TTF-1 and Napsin A for adenocarcinoma; p63 and CK5/6 for squamous cell carcinoma.",
+      "B": "CDX2 and CK20 for adenocarcinoma; GATA3 and mammaglobin for squamous cell carcinoma.",
+      "C": "Synaptophysin and Chromogranin A for adenocarcinoma; EMA and CEA for squamous cell carcinoma.",
+      "D": "ERG and S100 for adenocarcinoma; HMB-45 and Melan-A for squamous cell carcinoma."
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "This question tests the knowledge of standard immunohistochemical panels used to differentiate between lung adenocarcinoma and squamous cell carcinoma, especially in cases of poorly differentiated Non-Small Cell Lung Carcinoma (NSCLC). TTF-1 (Thyroid Transcription Factor-1) and Napsin A are highly sensitive and specific markers for lung adenocarcinoma (Ref 31). p63 and CK5/6 are commonly used as markers for squamous differentiation (Ref 31). This combination allows for a definitive distinction between the two most common subtypes of NSCLC, which is crucial for treatment planning.",
+    "highYieldPearl": "Rio's Take: For distinguishing NSCLC subtypes, TTF-1 and Napsin A are key for adenocarcinoma, while p63 and CK5/6 indicate squamous cell carcinoma.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct. These are the gold standard IHC markers for differentiating lung adenocarcinoma (TTF-1, Napsin A) from squamous cell carcinoma (p63, CK5/6). (Ref 31)",
+      "B": "Incorrect. CDX2 and CK20 are markers commonly used for gastrointestinal adenocarcinoma, while GATA3 and mammaglobin are often used for breast carcinoma. These are not primary markers for lung cancer differentiation.",
+      "C": "Incorrect. Synaptophysin and Chromogranin A are neuroendocrine markers, typically positive in small cell lung carcinoma. EMA and CEA are general epithelial markers but lack the specificity for differentiating adenocarcinoma vs. squamous cell carcinoma in the lung.",
+      "D": "Incorrect. ERG is a marker for prostate cancer and vascular tumors. S100, HMB-45, and Melan-A are markers for melanoma. These are irrelevant in this context."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_d72f6d54",
+    "question": "A 70-year-old chronic heavy smoker presents with rapidly progressive dyspnea, cough, and superior vena cava syndrome. A CT scan reveals a large hilar mass with mediastinal lymphadenopathy. A biopsy is performed. Histopathological examination shows small cells with scant cytoplasm, finely granular chromatin, indistinct nucleoli, and a high nuclear-to-cytoplasmic ratio. There is also prominent nuclear molding and numerous mitotic figures.",
+    "options": {
+      "A": "Small Cell Lung Carcinoma (SCLC)",
+      "B": "Well-differentiated Squamous Cell Carcinoma",
+      "C": "Adenocarcinoma, solid pattern",
+      "D": "Large Cell Neuroendocrine Carcinoma (LCNEC)"
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The description of 'small cells with scant cytoplasm, finely granular chromatin, indistinct nucleoli, high nuclear-to-cytoplasmic ratio, prominent nuclear molding, and numerous mitotic figures' are classical histopathological features of Small Cell Lung Carcinoma (SCLC) (Ref 35, Travis 2012; Ref 38, Nicholson et al., 2002). The clinical presentation (heavy smoker, rapid progression, SVC syndrome, hilar mass) also strongly supports this diagnosis, as SCLC is often centrally located and aggressive.",
+    "highYieldPearl": "Rio's Take: SCLC is characterized by small, uniform cells, high N:C ratio, nuclear molding, and high mitotic activity, often presenting centrally in heavy smokers with paraneoplastic syndromes or rapid clinical deterioration.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct. This description perfectly matches the characteristic histopathological features of SCLC. (Ref 35, 38)",
+      "B": "Incorrect. Well-differentiated squamous cell carcinoma would show features like keratinization, intercellular bridges, and larger cells with more abundant cytoplasm, distinctly different from the described small cells.",
+      "C": "Incorrect. Adenocarcinoma would typically present with glandular differentiation, mucin production, or lepidic/acinar/papillary/micropapillary/solid growth patterns, and the cells would not have the characteristic small cell morphology or nuclear molding of SCLC.",
+      "D": "Incorrect. While LCNEC is also a neuroendocrine tumor, it consists of larger cells with distinct nucleoli and more abundant cytoplasm, differentiating it from SCLC. The term 'small cells' directly contradicts LCNEC."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_8debe7d0",
+    "question": "A 65-year-old male with a 40-pack-year smoking history presents with a chronic cough and hemoptysis. A chest X-ray shows a cavitating lesion in the right upper lobe, centrally located. A bronchoscopic biopsy is performed. Histopathological examination reveals sheets of malignant epithelial cells with abundant eosinophilic cytoplasm, prominent intercellular bridges, and areas of keratinization.",
+    "options": {
+      "A": "Squamous Cell Carcinoma",
+      "B": "Small Cell Lung Carcinoma",
+      "C": "Adenocarcinoma",
+      "D": "Typical Carcinoid Tumor"
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The clinical presentation (heavy smoker, central cavitating lesion) and histopathological features (sheets of malignant epithelial cells with abundant eosinophilic cytoplasm, prominent intercellular bridges, and areas of keratinization) are classic for Squamous Cell Carcinoma of the lung (Ref 27, Tomashefski et al., 1990; Ref 28, Funai et al., 2003). Squamous cell carcinoma often arises centrally in the bronchial tree and can commonly undergo central necrosis leading to cavitation.",
+    "highYieldPearl": "Rio's Take: Squamous cell carcinoma commonly presents centrally in heavy smokers, often cavitates, and histologically shows keratinization and intercellular bridges.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct. The described histological features (keratinization, intercellular bridges, abundant eosinophilic cytoplasm) are characteristic of squamous cell differentiation. The central, cavitating mass in a heavy smoker further supports this diagnosis. (Ref 27, 28)",
+      "B": "Incorrect. Small cell lung carcinoma would show small cells, scant cytoplasm, nuclear molding, and a high mitotic rate, which are distinctly different from the described features. It usually does not cavitate extensively.",
+      "C": "Incorrect. Adenocarcinoma typically shows glandular or acinar formation, mucin production, or other architectural patterns (lepidic, solid, micropapillary, papillary) and lacks keratinization and prominent intercellular bridges.",
+      "D": "Incorrect. A typical carcinoid tumor is a low-grade neuroendocrine tumor with uniform cells, salt-and-pepper chromatin, and a nested/trabecular growth pattern. It lacks the significant atypia, keratinization, and prominent intercellular bridges seen in squamous cell carcinoma."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_a9e498dc",
+    "question": "A 62-year-old male with a 40-pack-year smoking history presents with chronic cough and hemoptysis. CT chest reveals a large, centrally located cavitating mass in the right upper lobe. Bronchoscopy with biopsy shows sheets of polygonal cells with abundant eosinophilic cytoplasm, prominent intercellular bridges, and areas of keratinization. Immunohistochemistry reveals strong positivity for p63 and CK5/6, and negativity for TTF-1 and Napsin A. What is the most likely histopathological diagnosis?",
+    "options": {
+      "A": "Squamous Cell Carcinoma",
+      "B": "Adenocarcinoma",
+      "C": "Small Cell Lung Carcinoma",
+      "D": "Large Cell Neuroendocrine Carcinoma"
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The clinical presentation (heavy smoking, central cavitating mass, hemoptysis) is highly suggestive of Squamous Cell Carcinoma (SCC). The morphological features observed on biopsy, such as polygonal cells, abundant eosinophilic cytoplasm, intercellular bridges, and keratinization, are classic hallmarks of SCC. The immunohistochemical profile confirms this, with strong positivity for p63 and CK5/6 (markers of squamous differentiation) and negativity for TTF-1 and Napsin A (markers typically positive in adenocarcinoma and some SCLC, respectively, but negative in pure SCC).",
+    "highYieldPearl": "Rio's Take: Central cavitating mass in a smoker + p63/CK5/6 positive = Squamous Cell Carcinoma. Remember the classic morphology: keratinization and intercellular bridges.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. All clinical, radiological, morphological, and immunohistochemical findings consistently point to squamous cell carcinoma. (Ref 27, 28, 31)",
+      "B": "Incorrect. Adenocarcinoma is typically peripheral, often non-cavitating, and stains positive for TTF-1 and Napsin A, lacking features like keratinization or intercellular bridges. (Ref 21, 70, 31)",
+      "C": "Incorrect. Small cell lung carcinoma has distinct morphology (small cells, scant cytoplasm, nuclear molding, crush artifact), stains positive for neuroendocrine markers and often TTF-1, and is negative for p63/CK5/6. While it can be central, cavitation is rare. (Ref 35, 38, 31)",
+      "D": "Incorrect. While Large Cell Neuroendocrine Carcinoma (LCNEC) is a high-grade neuroendocrine tumor, its morphology typically shows large cells with neuroendocrine features, not the classic squamous differentiation described (intercellular bridges, keratinization). It would also stain for neuroendocrine markers, not just p63/CK5/6 (though some LCNEC can show aberrant p63 expression). (Ref 35)"
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_0fe5dc1e",
+    "question": "A 58-year-old heavy smoker presents with superior vena cava syndrome and a rapidly enlarging mediastinal mass. Biopsy reveals a poorly differentiated malignant tumor with small, hyperchromatic cells, scant cytoplasm, nuclear molding, and high mitotic activity. This morphology raises suspicion for either small cell lung carcinoma (SCLC) or a poorly differentiated non-small cell carcinoma (NSCLC). Which combination of immunohistochemical markers would be most helpful in definitively distinguishing between these two entities?",
+    "options": {
+      "A": "TTF-1 and Napsin A",
+      "B": "p63 and CK5/6",
+      "C": "Chromogranin, Synaptophysin, and CD56",
+      "D": "EGFR and ALK"
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The biopsy findings (small, hyperchromatic cells, scant cytoplasm, nuclear molding, high mitotic activity) are highly suggestive of SCLC. However, in cases of poorly differentiated tumors, a definitive diagnosis requires immunohistochemistry. SCLC is a neuroendocrine tumor, and its diagnosis is confirmed by diffuse positivity for neuroendocrine markers such as Chromogranin, Synaptophysin, and CD56. While TTF-1 can be positive in SCLC (and adenocarcinoma), it is not specific enough on its own to distinguish SCLC from a poorly differentiated adenocarcinoma. Markers like p63 and CK5/6 identify squamous differentiation, and EGFR/ALK are molecular targets, not primary diagnostic markers for SCLC vs. NSCLC differentiation.",
+    "highYieldPearl": "Rio's Take: When in doubt with 'small blue cells' and a neuroendocrine suspicion, pull out the neuroendocrine panel (Chromogranin, Synaptophysin, CD56). These are the pillars for SCLC diagnosis.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. While TTF-1 can be positive in both SCLC and adenocarcinoma (a type of NSCLC), Napsin A is largely specific for adenocarcinoma. A poorly differentiated NSCLC (e.g., undifferentiated large cell carcinoma) could be negative for Napsin A and even TTF-1. TTF-1 positivity alone is insufficient to distinguish SCLC from all NSCLC. (Ref 31, 35)",
+      "B": "Incorrect. p63 and CK5/6 are markers for squamous differentiation (squamous cell carcinoma, a type of NSCLC). They would be negative in SCLC and typically negative in a poorly differentiated adenocarcinoma or other NSCLC that is not squamous. If positive, it would point away from SCLC. (Ref 31)",
+      "C": "Correct. Chromogranin, Synaptophysin, and CD56 are the classic neuroendocrine markers. Strong and diffuse expression of these markers, particularly in combination, is characteristic of SCLC and is crucial for distinguishing it from other poorly differentiated carcinomas. (Ref 35)",
+      "D": "Incorrect. EGFR and ALK are molecular targets primarily associated with adenocarcinoma (NSCLC) and are tested after a histopathological diagnosis has been made, guiding targeted therapy decisions. They are not used for the initial histopathological differentiation between SCLC and NSCLC. (Ref 23, 24)"
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_770a9ddb",
+    "question": "Which of the following statements regarding the histopathological and molecular characteristics of lung cancer is INCORRECT?",
+    "options": {
+      "A": "EGFR mutations are more frequently identified in lung adenocarcinomas, particularly in patients with no or light smoking history.",
+      "B": "Squamous cell carcinoma often presents centrally and is characterized morphologically by keratinization and intercellular bridges.",
+      "C": "Small cell lung carcinoma is typically characterized by neuroendocrine differentiation and commonly shows amplification of the SOX2 gene.",
+      "D": "High-grade neuroendocrine features, including prominent nucleoli and abundant cytoplasm, are typical of small cell lung carcinoma."
+    },
+    "correctAnswer": "D",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "Small cell lung carcinoma (SCLC) is characterized by small cells with scant cytoplasm, finely granular chromatin (salt-and-pepper pattern), and absent or inconspicuous nucleoli. Nuclear molding, crush artifact, and a high mitotic rate are also typical. The description of 'prominent nucleoli and abundant cytoplasm' is not characteristic of SCLC; these features are more typically seen in other high-grade neuroendocrine tumors like Large Cell Neuroendocrine Carcinoma (LCNEC), which is classified under NSCLC.",
+    "highYieldPearl": "Rio's Take: SCLC = Small cells, Scant cytoplasm, Salt-and-pepper chromatin, *Inconspicuous nucleoli*. Prominent nucleoli scream LCNEC, not SCLC.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct statement. EGFR mutations are well-known driver mutations in lung adenocarcinoma, especially in never-smokers and East Asian populations. (Ref 22, 23)",
+      "B": "Correct statement. Squamous cell carcinoma classically arises in central airways and shows morphological evidence of squamous differentiation like keratinization and intercellular bridges. (Ref 27, 28, 29)",
+      "C": "Correct statement. SCLC is a neuroendocrine tumor, hence its neuroendocrine differentiation. Genomic studies have identified SOX2 amplification as a common feature in SCLC. (Ref 35, 39, 40)",
+      "D": "Incorrect statement. This is the INCORRECT statement. SCLC cells are characterized by *scant* cytoplasm and *inconspicuous or absent* nucleoli, along with nuclear molding and finely granular chromatin. Prominent nucleoli and abundant cytoplasm are features more commonly associated with Large Cell Neuroendocrine Carcinoma (LCNEC), which is a distinct entity from SCLC. This is a critical morphological differentiator. (Ref 35, 38)"
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_e12ad84d",
+    "question": "A 68-year-old male with a 40 pack-year smoking history presents with cough and hemoptysis. CT chest shows a 5 cm speculated mass in the right upper lobe with mediastinal lymphadenopathy. Bronchoscopy with biopsy reveals a poorly differentiated malignant neoplasm. Immunohistochemistry performed on the biopsy shows: TTF-1 (-), Napsin A (-), CK7 (+), CK5/6 (+), p63 (+), Chromogranin A (-). Based on the clinical presentation and immunohistochemical profile, which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Lung Adenocarcinoma",
+      "B": "Small Cell Lung Carcinoma",
+      "C": "Squamous Cell Carcinoma",
+      "D": "Large Cell Neuroendocrine Carcinoma"
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The clinical presentation (heavy smoking, central mass, hemoptysis) is typical for both squamous cell carcinoma and small cell lung carcinoma. The biopsy shows a poorly differentiated neoplasm, making morphological distinction challenging, hence the reliance on immunohistochemistry. The IHC results are critical: TTF-1 (-) and Napsin A (-) argue against a typical adenocarcinoma. Chromogranin A (-) effectively rules out neuroendocrine tumors like Small Cell Lung Carcinoma and Large Cell Neuroendocrine Carcinoma. The key markers are CK5/6 (+) and p63 (+), which are highly sensitive and specific markers for squamous differentiation (Ref 31). Their strong positivity in this context, coupled with the absence of typical adenocarcinoma or neuroendocrine markers, strongly points to Squamous Cell Carcinoma. CK7 is a non-specific epithelial marker, positive in many lung carcinomas.",
+    "highYieldPearl": "Rio's Take: In poorly differentiated lung carcinomas, strong positive staining for p63 and CK5/6 in the absence of neuroendocrine markers (Chromogranin, Synaptophysin) and adenocarcinoma markers (TTF-1, Napsin A) is highly indicative of Squamous Cell Carcinoma, regardless of the morphological ambiguity.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Lung Adenocarcinoma: While some adenocarcinomas can be TTF-1 and Napsin A negative, strong positivity for CK5/6 and p63 would be highly atypical for a pure adenocarcinoma, making this option less likely. Without these squamous markers, it could be considered, but their presence points away from adenocarcinoma.",
+      "B": "Small Cell Lung Carcinoma: Plausible given smoking history and central mass. However, negative Chromogranin A (a key neuroendocrine marker) effectively rules out SCLC. SCLC typically expresses neuroendocrine markers and often TTF-1, but not CK5/6 and p63.",
+      "C": "Squamous Cell Carcinoma: This is the correct answer. The combined positivity for CK5/6 and p63, alongside the negativity for adenocarcinoma and neuroendocrine markers, is the classic IHC profile for squamous cell carcinoma (Ref 31).",
+      "D": "Large Cell Neuroendocrine Carcinoma: This is a neuroendocrine tumor. Like SCLC, it would typically show positivity for neuroendocrine markers (Chromogranin A, Synaptophysin), which are negative in this case. Hence, this diagnosis is ruled out."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_71e2fbba",
+    "question": "A 72-year-old female, never-smoker, presents with rapidly progressive dyspnea and mediastinal widening on chest X-ray. A CT-guided biopsy of a large mediastinal mass shows small, pleomorphic cells with scant cytoplasm, finely granular chromatin, and inconspicuous nucleoli. Frequent crush artifact and apoptotic bodies are noted. Immunohistochemistry reveals: TTF-1 (+), Synaptophysin (+), Chromogranin A (+), CK7 (-), p63 (-). Considering the clinical and histopathological findings, which of the following is the most appropriate diagnosis and its distinctive characteristic?",
+    "options": {
+      "A": "Squamous Cell Carcinoma, characterized by intercellular bridges and keratinization.",
+      "B": "Small Cell Lung Carcinoma, associated with paraneoplastic syndromes like SIADH.",
+      "C": "Lung Adenocarcinoma, frequently showing lepidic growth pattern.",
+      "D": "Large Cell Neuroendocrine Carcinoma, often presenting with prominent nucleoli."
+    },
+    "correctAnswer": "B",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The morphological description of 'small, pleomorphic cells with scant cytoplasm, finely granular chromatin, and inconspicuous nucleoli, frequent crush artifact, and apoptotic bodies' is pathognomonic for Small Cell Lung Carcinoma (SCLC) (Ref 35, 38). The immunohistochemical profile further confirms this: TTF-1 (+) is often seen in SCLC, and strong positivity for Synaptophysin (+) and Chromogranin A (+) are definitive markers of neuroendocrine differentiation, characteristic of SCLC. The negative staining for CK7 and p63 rules out typical adenocarcinoma and squamous cell carcinoma, respectively. While SCLC is strongly associated with smoking, a never-smoker presentation is rare but possible and should not override classic histopathological and IHC findings. SCLC is well-known for its association with various paraneoplastic syndromes, including SIADH (Syndrome of Inappropriate Antidiuretic Hormone secretion).",
+    "highYieldPearl": "Rio's Take: Classic SCLC morphology (small cells, scant cytoplasm, nuclear molding, granular chromatin, crush artifact) combined with positive neuroendocrine markers (Chromogranin, Synaptophysin) and often TTF-1, is diagnostic. Don't be swayed solely by smoking history, as SCLC can rarely occur in never-smokers. Remember its strong association with paraneoplastic syndromes.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Squamous Cell Carcinoma: Incorrect. The described morphology (small cells, crush artifact, inconspicuous nucleoli) and IHC (neuroendocrine markers positive, p63 negative) are contrary to SCC. While the characteristics of SCC (intercellular bridges, keratinization) are correctly stated, the diagnosis is wrong.",
+      "B": "Small Cell Lung Carcinoma: This is the correct answer. The description fits SCLC perfectly, both morphologically and by IHC. SIADH is a well-known paraneoplastic syndrome associated with SCLC.",
+      "C": "Lung Adenocarcinoma: Incorrect. The morphology (small cells, crush artifact, neuroendocrine features) and IHC (neuroendocrine markers positive, CK7 negative, p63 negative) are incompatible with adenocarcinoma. The lepidic pattern is characteristic of a specific subtype of adenocarcinoma, but the primary diagnosis is wrong.",
+      "D": "Large Cell Neuroendocrine Carcinoma: This is a plausible trap. LCNEC is also a neuroendocrine tumor and would be positive for Synaptophysin and Chromogranin A. However, LCNEC cells are typically larger, have more abundant cytoplasm, and crucially, often exhibit *prominent* nucleoli, which contradicts the 'inconspicuous nucleoli' described in the vignette, pointing away from LCNEC and strongly towards SCLC (Ref 35)."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_3b88d287",
+    "question": "A 55-year-old non-smoker female undergoes a wedge resection for a 1.8 cm peripheral lung nodule found incidentally. Histopathological examination reveals an adenocarcinoma with a predominant solid growth pattern (60%), intermixed with acinar (30%) and micropapillary (10%) components. No lymphatic or vascular invasion is noted, and all margins are clear. Molecular testing is pending. Based on the IASLC/ATS/ERS classification of lung adenocarcinoma, what is the most significant prognostic implication of these findings for this patient?",
+    "options": {
+      "A": "The predominantly solid pattern indicates a favorable prognosis due to high differentiation.",
+      "B": "The presence of any micropapillary component, even minor, suggests a worse prognosis.",
+      "C": "The acinar component is generally associated with a better prognosis than lepidic or solid patterns.",
+      "D": "Given the small size, it is likely a minimally invasive adenocarcinoma, irrespective of growth patterns."
+    },
+    "correctAnswer": "B",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The IASLC/ATS/ERS classification (Ref 21, 70) categorizes lung adenocarcinoma into distinct patterns with significant prognostic implications. The general prognostic hierarchy from best to worst is lepidic > acinar/papillary > micropapillary > solid. In mixed adenocarcinomas, the prognosis is often driven by the presence of the most aggressive patterns, even if they are minor components. The solid pattern and, particularly, the micropapillary pattern are associated with a worse prognosis, higher recurrence rates, and increased risk of metastasis (Ref 21). The presence of even a minor micropapillary component (here 10%) is a strong indicator of an unfavorable prognosis, often overriding the relative proportions of other patterns in terms of prognostic significance.",
+    "highYieldPearl": "Rio's Take: For mixed adenocarcinomas under IASLC/ATS/ERS classification, always look for the 'worst' pattern. Even a minor component of micropapillary or solid pattern significantly downgrades prognosis, indicating a more aggressive tumor, irrespective of tumor size or predominant better-prognosis patterns.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "The predominantly solid pattern indicates a favorable prognosis due to high differentiation: Incorrect. Solid pattern is generally associated with a *worse* prognosis and *poor* differentiation (Ref 21). This is a common misconception, as 'solid' might intuitively sound 'stronger' but in pathology terms for adenocarcinoma, it's more aggressive.",
+      "B": "The presence of any micropapillary component, even minor, suggests a worse prognosis: This is the correct answer. Micropapillary component, even if minor (10% in this case), is a well-established unfavorable prognostic factor in lung adenocarcinoma (Ref 21). It significantly increases the risk of recurrence and metastasis.",
+      "C": "The acinar component is generally associated with a better prognosis than lepidic or solid patterns: Incorrect in its entirety. While acinar is better than solid and micropapillary, it is generally *worse* than lepidic (lepidic being the best prognosis pattern). More importantly, the presence of more aggressive components like micropapillary and solid takes precedence in determining overall prognosis for mixed tumors.",
+      "D": "Given the small size, it is likely a minimally invasive adenocarcinoma, irrespective of growth patterns: Incorrect. Minimally invasive adenocarcinoma (MIA) is strictly defined by predominant lepidic growth, tumor size ≤ 3 cm, and ≤ 5 mm stromal invasion (Ref 21, 70). The presence of a 60% solid component and 10% micropapillary component immediately rules out MIA, as these patterns indicate significant invasive growth, regardless of the overall tumor size."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_c60aa4ae",
+    "question": "A 68-year-old male with a 50 pack-year smoking history presents with chronic cough and hemoptysis. CT chest reveals a 4 cm centrally located mass in the right upper lobe, with mediastinal lymphadenopathy. Bronchoscopy with biopsy is performed. Histopathology reveals a poorly differentiated malignant neoplasm composed of small to medium-sized cells with scant to moderate cytoplasm, finely granular chromatin, and occasional nuclear molding. No definitive glandular or squamous differentiation is identified on H&E. Given the need to differentiate this tumor from both a small cell carcinoma and a poorly differentiated squamous cell carcinoma, which immunohistochemical panel would be most informative?",
+    "options": {
+      "A": "p63, Chromogranin, Synaptophysin",
+      "B": "TTF-1, Napsin A, CK7",
+      "C": "CDX2, CK20, GATA3",
+      "D": "EGFR, ALK, PD-L1"
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The clinical vignette describes a patient with a heavy smoking history and a centrally located mass, which are common presentations for both squamous cell carcinoma (SCC) and small cell lung carcinoma (SCLC). The histopathological description of 'poorly differentiated malignant neoplasm composed of small to medium-sized cells with scant to moderate cytoplasm, finely granular chromatin, and occasional nuclear molding' with 'no definitive glandular or squamous differentiation' indicates a challenging differential diagnosis that requires immunohistochemistry (IHC). Nuclear molding, finely granular chromatin, and scant cytoplasm are features that can point towards SCLC, but the 'moderate cytoplasm' makes it less classic, hence the need to rule out poorly differentiated SCC. \n\nTo differentiate between SCLC and poorly differentiated SCC, a panel including specific markers for each entity is crucial:\n\n*   **p63:** This is a highly sensitive and relatively specific marker for squamous differentiation (positive in SCC, negative in SCLC). (Ref 31, 35)\n*   **Chromogranin and Synaptophysin:** These are neuroendocrine markers. They are positive in SCLC (which is a neuroendocrine tumor) but negative in SCC. (Ref 35)\n\nTherefore, a panel comprising p63, Chromogranin, and Synaptophysin would directly address the differential by identifying squamous differentiation (if p63 is positive) or neuroendocrine differentiation (if Chromogranin/Synaptophysin are positive), allowing for a definitive diagnosis.",
+    "highYieldPearl": "Rio's Take: When a poorly differentiated lung tumor presents with features overlapping between SCLC and SCC, the 'go-to' IHC panel for definitive diagnosis includes squamous markers (p63, CK5/6) and neuroendocrine markers (Chromogranin, Synaptophysin, CD56). TTF-1 is also helpful as it's positive in most SCLC and adenocarcinoma but generally negative in SCC.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This panel includes p63 for squamous differentiation and Chromogranin/Synaptophysin for neuroendocrine differentiation, directly addressing the differential between poorly differentiated SCC and SCLC. This is the most informative panel for the specific question.",
+      "B": "TTF-1 (positive in adenocarcinoma and SCLC), Napsin A (positive in adenocarcinoma), and CK7 (general epithelial, positive in adenocarcinoma). While useful for identifying adenocarcinoma and lung origin, this panel lacks specific markers to definitively rule in/out SCC or to fully characterize SCLC compared to the more specific neuroendocrine markers in option A. If TTF-1 is positive, it still doesn't distinguish SCLC from Adenocarcinoma, and it doesn't address SCC directly enough.",
+      "C": "CDX2 (colorectal), CK20 (colorectal), and GATA3 (urothelial/breast) are markers used to identify metastatic tumors from non-pulmonary primary sites. They are not relevant for differentiating between primary lung SCC and SCLC.",
+      "D": "EGFR, ALK, and PD-L1 are molecular markers assessed for targeted therapy and immunotherapy in non-small cell lung cancer (NSCLC), particularly adenocarcinoma. They are not used for initial histopathological differentiation of tumor types (SCLC vs. SCC). While important for subsequent management, they do not answer the diagnostic question."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_27b79bec",
+    "question": "A 58-year-old non-smoking female presents with persistent cough and dyspnea. A CT scan shows a 3 cm peripheral nodule in the left lower lobe. A CT-guided biopsy is performed. Histopathology reveals malignant cells arranged in acinar and lepidic patterns. Immunohistochemistry demonstrates positivity for TTF-1 and Napsin A.",
+    "options": {
+      "A": "Small Cell Lung Carcinoma; Immediate initiation of platinum-based chemotherapy.",
+      "B": "Squamous Cell Carcinoma; Consideration for neoadjuvant chemoradiotherapy if resectable.",
+      "C": "Adenocarcinoma; Evaluation for EGFR mutations and other actionable driver alterations.",
+      "D": "Large Cell Neuroendocrine Carcinoma; Referral for surgical resection if limited disease."
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The patient's profile (non-smoking female), tumor location (peripheral nodule), and histopathological features (acinar and lepidic patterns) are highly characteristic of lung adenocarcinoma, as per the IASLC/ATS/ERS classification (Ref 21, 70). The immunohistochemical findings of positivity for TTF-1 (Thyroid Transcription Factor-1) and Napsin A further confirm the diagnosis of adenocarcinoma, as these are highly specific markers for pulmonary adenocarcinoma (Ref 31). \n\nGiven this definitive diagnosis of adenocarcinoma, a critical next step in management, especially for a non-smoker, is to evaluate for actionable driver mutations such as EGFR, ALK, ROS1, BRAF, MET, and RET. The presence of these mutations can guide targeted therapy with tyrosine kinase inhibitors (TKIs), which significantly improves patient outcomes (Ref 22, 23, 24).",
+    "highYieldPearl": "Rio's Take: Adenocarcinoma often presents peripherally in non-smokers and is characterized by glandular differentiation or specific growth patterns (lepidic, acinar, papillary, micropapillary, solid). IHC with TTF-1 and Napsin A confirms the diagnosis. For adenocarcinoma, especially in non-smokers, molecular testing for driver mutations is paramount for personalized therapy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Small Cell Lung Carcinoma (SCLC) typically presents in heavy smokers, often with a central mass and extensive disease. Histologically, it comprises small cells with scant cytoplasm, nuclear molding, and high mitotic activity, and shows neuroendocrine differentiation. The given histology and IHC are incompatible with SCLC. While platinum-based chemotherapy is the standard for SCLC, the initial diagnosis is incorrect.",
+      "B": "Squamous Cell Carcinoma (SCC) is strongly associated with smoking and often presents as a central mass. Histologically, it shows keratinization or intercellular bridges, and would be positive for squamous markers like p63 and CK5/6, not TTF-1 and Napsin A. The described histology and IHC rule out SCC. While neoadjuvant therapy might be considered for some resectable SCCs, the diagnosis is incorrect.",
+      "C": "This is the correct diagnosis and appropriate immediate management. The clinical, radiological, histopathological, and immunohistochemical features are all consistent with adenocarcinoma. Molecular testing for actionable driver mutations is a standard of care for guiding targeted therapy in adenocarcinoma.",
+      "D": "Large Cell Neuroendocrine Carcinoma (LCNEC) is a high-grade neuroendocrine tumor, distinct from SCLC and adenocarcinoma. While it can be peripheral, it would show neuroendocrine IHC markers (e.g., Chromogranin, Synaptophysin, CD56) and different morphology (larger cells with prominent nucleoli). The described IHC and specific patterns (acinar, lepidic) are inconsistent with LCNEC. While surgery might be an option for limited LCNEC, the initial diagnosis is incorrect."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_ea83a5d3",
+    "question": "A 70-year-old male with a 60 pack-year smoking history presents with rapid onset of constitutional symptoms, hoarseness, and superior vena cava syndrome. A CT scan shows a large hilar mass with extensive mediastinal lymphadenopathy and bilateral adrenal metastases. Biopsy of a mediastinal lymph node reveals small, round to oval cells with scant cytoplasm, finely granular (salt-and-pepper) chromatin, inconspicuous nucleoli, and numerous mitotic figures. Nuclear molding and extensive necrosis are also noted.",
+    "options": {
+      "A": "Small Cell Lung Carcinoma; Positive for Chromogranin A.",
+      "B": "Small Cell Lung Carcinoma; Positive for TTF-1.",
+      "C": "Large Cell Neuroendocrine Carcinoma; Positive for CD56.",
+      "D": "Small Cell Lung Carcinoma; Positive for p63."
+    },
+    "correctAnswer": "D",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The clinical presentation (heavy smoking history, rapid onset, constitutional symptoms, SVC syndrome, large hilar mass, extensive mediastinal lymphadenopathy, bilateral adrenal metastases) is highly classic for **Small Cell Lung Carcinoma (SCLC)**, which is known for its aggressive nature and early dissemination (Ref 36, 38). The histopathological description further strongly supports SCLC: 'small, round to oval cells with scant cytoplasm, finely granular (salt-and-pepper) chromatin, inconspicuous nucleoli, numerous mitotic figures, nuclear molding, and extensive necrosis' are pathognomonic features of SCLC (Ref 35, 38).\n\nThe question asks for the 'most likely diagnosis' and the 'least expected' immunohistochemical finding for this tumor type.\n\n*   **Most likely diagnosis:** Small Cell Lung Carcinoma.\n\n*   **Least expected IHC finding for SCLC:**\n    *   **Chromogranin A:** A neuroendocrine marker, expected to be positive in SCLC (Ref 35).\n    *   **TTF-1:** Positive in most SCLCs (Ref 35).\n    *   **CD56:** Another neuroendocrine marker, expected to be positive in SCLC (and LCNEC).\n    *   **p63:** This is a marker for squamous differentiation, typically positive in Squamous Cell Carcinoma and consistently negative in SCLC (Ref 31, 35). Therefore, a positive p63 finding would be the least expected in SCLC.",
+    "highYieldPearl": "Rio's Take: SCLC often presents with extensive disease in heavy smokers and has characteristic small cell morphology with nuclear molding, salt-and-pepper chromatin, and scant cytoplasm. It expresses neuroendocrine markers (Chromogranin, Synaptophysin, CD56) and often TTF-1. Importantly, SCLC does NOT express squamous markers like p63 or CK5/6.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "The diagnosis of Small Cell Lung Carcinoma is correct. Chromogranin A is a neuroendocrine marker and is expected to be positive in SCLC, making this an expected finding, not the least expected.",
+      "B": "The diagnosis of Small Cell Lung Carcinoma is correct. TTF-1 (Thyroid Transcription Factor-1) is a nuclear transcription factor often positive in SCLC (about 80-90% of cases), making this an expected finding, not the least expected.",
+      "C": "The diagnosis of Large Cell Neuroendocrine Carcinoma (LCNEC) is incorrect. The described cellular morphology (small cells, scant cytoplasm, nuclear molding) is characteristic of SCLC, not LCNEC (which typically features larger cells with more prominent nucleoli). While CD56 is a neuroendocrine marker and would be positive in LCNEC (as well as SCLC), the initial diagnostic premise is flawed based on the vignette.",
+      "D": "The diagnosis of Small Cell Lung Carcinoma is correct. However, p63 is a marker for squamous differentiation and is typically negative in SCLC. Therefore, a positive p63 finding would be the least expected immunohistochemical finding for SCLC, making this the correct answer."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_db035d60",
+    "question": "A 60-year-old male with a 50 pack-year smoking history presents with recurrent episodes of hemoptysis and unintentional weight loss. CT chest reveals a large, centrally located hilar mass with extensive mediastinal lymphadenopathy. A transbronchial biopsy shows sheets of relatively uniform small cells with scant cytoplasm, finely granular chromatin, indistinct nucleoli, and significant nuclear molding. Crush artifact is also noted. Which of the following immunohistochemical (IHC) markers would be *most* helpful to confirm the suspected diagnosis and differentiate it from a poorly differentiated non-small cell carcinoma?",
+    "options": {
+      "A": "Synaptophysin",
+      "B": "Napsin A",
+      "C": "p63",
+      "D": "CK7"
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The clinical vignette describes classic features of Small Cell Lung Carcinoma (SCLC): a heavy smoker, central hilar mass with extensive mediastinal lymphadenopathy, and characteristic histopathological findings including sheets of small cells, scant cytoplasm, finely granular chromatin, indistinct nucleoli, nuclear molding, and crush artifact (Ref 35, 38). SCLC is a neuroendocrine tumor. Therefore, immunohistochemical markers of neuroendocrine differentiation, such as Synaptophysin, Chromogranin, and CD56, are crucial for confirming the diagnosis and distinguishing it from other poorly differentiated lung cancers (Ref 31). TTF-1 is also often positive in SCLC but is not specific, as it can be positive in adenocarcinoma as well.",
+    "highYieldPearl": "Rio's Take: SCLC is characterized by small cell morphology, high mitotic activity, nuclear molding, and crush artifact. IHC confirmation relies on neuroendocrine markers (Synaptophysin, Chromogranin, CD56) which are typically diffuse and strong, alongside TTF-1 positivity.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. Synaptophysin is a highly sensitive and specific neuroendocrine marker used to confirm SCLC, especially when differentiating from poorly differentiated NSCLC.",
+      "B": "Napsin A is a marker primarily used for adenocarcinoma. While TTF-1 can be positive in both SCLC and adenocarcinoma, Napsin A would typically be negative in SCLC, making it unhelpful for confirming SCLC.",
+      "C": "p63 is a marker for squamous differentiation and is typically positive in squamous cell carcinoma. It would be negative in SCLC, thus not aiding in the specific diagnosis of SCLC.",
+      "D": "CK7 is a cytokeratin marker, widely expressed in many adenocarcinomas and occasionally in SCLC. However, it is not specific enough to differentiate SCLC from poorly differentiated NSCLC and cannot confirm neuroendocrine differentiation."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_1fda34c6",
+    "question": "A 62-year-old never-smoking female presents with a persistent dry cough and exertional dyspnea. A CT scan reveals a 3.5 cm peripheral, spiculated nodule in the right upper lobe. Bronchial washings and subsequent CT-guided biopsy confirm a malignant neoplasm with histological features showing acinar and lepidic growth patterns, positive for TTF-1 and Napsin A. Given the patient's clinical profile and the histopathological findings, which of the following molecular alterations is *most pertinent* to test for targeted therapy in this case?",
+    "options": {
+      "A": "FGFR1 amplification",
+      "B": "SOX2 amplification",
+      "C": "EGFR mutation analysis",
+      "D": "PD-L1 expression"
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The patient's profile (never-smoker, female, peripheral lung nodule) and histopathology (adenocarcinoma with acinar/lepidic patterns, TTF-1 and Napsin A positive) are highly characteristic of lung adenocarcinoma (Ref 21, 70). In this specific subtype, especially in never-smokers, activating mutations in the Epidermal Growth Factor Receptor (EGFR) gene are common and predict response to EGFR tyrosine kinase inhibitors (TKIs) (Ref 23, 24). Therefore, EGFR mutation analysis is the most pertinent molecular test for guiding targeted therapy in this scenario.",
+    "highYieldPearl": "Rio's Take: Lung adenocarcinoma, particularly in never-smokers, females, and those with peripheral lesions, warrants prioritized testing for targetable driver mutations like EGFR, ALK, and ROS1, as these directly guide TKI therapy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "FGFR1 amplification is a molecular alteration primarily associated with Squamous Cell Carcinoma (SCC) and is not a common or actionable target in adenocarcinoma (Ref 34).",
+      "B": "SOX2 amplification is a genomic alteration frequently identified in Small Cell Lung Carcinoma (SCLC), not adenocarcinoma (Ref 40).",
+      "C": "Correct. EGFR mutations are the most common actionable driver mutations in lung adenocarcinoma, especially in never-smokers and Asian populations, directly informing the use of EGFR TKIs (Ref 23, 24).",
+      "D": "PD-L1 expression testing is crucial for predicting response to immunotherapy with checkpoint inhibitors in NSCLC. While important for overall treatment strategy, the question specifically asks for the 'most pertinent' test for 'targeted therapy.' EGFR mutation analysis directly leads to targeted TKI therapy in appropriate cases, which usually takes precedence over immunotherapy in first-line settings for EGFR-mutated tumors."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_e0a7a55c",
+    "question": "A 68-year-old male, heavy smoker (50 pack-years), presents with progressive cough and recent hemoptysis. CT chest shows a large, irregularly shaped central mass with cavitation. A biopsy reveals a poorly differentiated malignant neoplasm composed of large pleomorphic cells with abundant eosinophilic cytoplasm, prominent nucleoli, and areas of necrosis. IHC analysis shows strong diffuse positivity for p63 and CK5/6, but negativity for TTF-1, Napsin A, and neuroendocrine markers. Based on the histopathological features and immunohistochemical profile, what is the *most likely* diagnosis?",
+    "options": {
+      "A": "Squamous Cell Carcinoma",
+      "B": "Adenocarcinoma",
+      "C": "Poorly differentiated Small Cell Lung Carcinoma",
+      "D": "Non-small cell lung carcinoma, not otherwise specified (NSCLC-NOS)"
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The clinical presentation (heavy smoker, central cavitating mass) and morphological features (large pleomorphic cells, abundant eosinophilic cytoplasm, prominent nucleoli, necrosis) are highly suggestive of Squamous Cell Carcinoma (SCC) (Ref 27, 28, 29, 30). The IHC profile strongly confirms this: diffuse positivity for p63 and CK5/6 are specific markers for squamous differentiation (Ref 31). The negativity for TTF-1 and Napsin A rules out adenocarcinoma, and negativity for neuroendocrine markers rules out SCLC. Therefore, the diagnosis is Squamous Cell Carcinoma.",
+    "highYieldPearl": "Rio's Take: Squamous cell carcinoma typically presents in heavy smokers, often as a central, cavitating mass. Histologically, it features keratinization and intercellular bridges, or in poorly differentiated forms, large pleomorphic cells. IHC for p63 and CK5/6 are highly specific for squamous differentiation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. The combination of clinical features (heavy smoker, central cavitating mass), histomorphology (large pleomorphic cells, abundant eosinophilic cytoplasm, prominent nucleoli, necrosis), and IHC profile (p63 and CK5/6 positivity, negativity for TTF-1, Napsin A, and neuroendocrine markers) is classic for poorly differentiated Squamous Cell Carcinoma (Ref 31).",
+      "B": "Adenocarcinoma is ruled out by the negative TTF-1 and Napsin A, and the positive p63 and CK5/6 which indicate squamous differentiation. Adenocarcinoma typically shows glandular differentiation and often stains positive for TTF-1 and Napsin A (Ref 31).",
+      "C": "Poorly differentiated Small Cell Lung Carcinoma is ruled out by the morphology (large pleomorphic cells, not small cells with scant cytoplasm), and the negativity for neuroendocrine markers. SCLC is typically positive for neuroendocrine markers and TTF-1 (Ref 35, 38).",
+      "D": "NSCLC-NOS is a diagnosis reserved for cases where specific subtyping into adenocarcinoma or squamous cell carcinoma is not possible due to poor differentiation or limited tissue. In this case, the strong positive IHC for squamous markers (p63, CK5/6) allows for definitive subtyping as Squamous Cell Carcinoma, making NSCLC-NOS an incomplete and less accurate diagnosis."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_b28c7b73",
+    "question": "A 68-year-old male with a 50 pack-year smoking history presents with new-onset hyponatremia and a rapidly growing central lung mass on CT scan. Bronchial biopsy reveals a high-grade malignant neoplasm consisting of sheets of small, hyperchromatic cells with scant cytoplasm. Which additional histopathological and immunohistochemical findings would MOST strongly confirm the diagnosis of Small Cell Lung Carcinoma (SCLC) and differentiate it from a poorly differentiated Non-Small Cell Lung Carcinoma (NSCLC)?",
+    "options": {
+      "A": "Prominent nucleoli, presence of intercellular bridges, positive CK5/6.",
+      "B": "Nuclear molding, fine granular chromatin, positive Synaptophysin, positive TTF-1.",
+      "C": "Glandular formation, mucin production, positive Napsin A, positive TTF-1.",
+      "D": "Large pleomorphic cells, abundant cytoplasm, positive P63, negative Chromogranin."
+    },
+    "correctAnswer": "B",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "Small Cell Lung Carcinoma (SCLC) is a highly aggressive neuroendocrine tumor. The clinical vignette (heavy smoking, central mass, hyponatremia indicative of SIADH—a common paraneoplastic syndrome) strongly suggests SCLC. Histopathologically, SCLC is characterized by small cells with scant cytoplasm, high nuclear-to-cytoplasmic ratio, and finely granular ('salt-and-pepper') chromatin. Key morphological features include nuclear molding (where nuclei conform to each other's shapes) and crush artifact. Immunohistochemically, SCLC consistently expresses neuroendocrine markers such as Synaptophysin, Chromogranin A, and CD56. While TTF-1 (Thyroid Transcription Factor-1) is a common marker for adenocarcinoma, it is also positive in approximately 80-90% of SCLCs, making its presence supportive of a pulmonary origin, but its combination with classic SCLC morphology and neuroendocrine markers is crucial for definitive diagnosis (Ref 35, 38, 39, 40).",
+    "highYieldPearl": "Rio's Take: For SCLC, look for the '3 S's': Small cells, Smoking history, and paraneoplastic Syndromes (like SIADH). Histology gives 'Salt-and-Pepper' chromatin and 'Squashed' (nuclear molding) nuclei. IHC confirms neuroendocrine (Synaptophysin, Chromogranin) origin, often with TTF-1 positivity.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option describes features of squamous cell carcinoma (intercellular bridges, CK5/6 positivity), which would typically have prominent nucleoli but not the small cell morphology or clinical presentation of SCLC.",
+      "B": "This option correctly identifies classic morphological features of SCLC (nuclear molding, fine granular chromatin) and the characteristic immunohistochemical profile (positive Synaptophysin and TTF-1).",
+      "C": "This option describes features of adenocarcinoma (glandular formation, mucin production, Napsin A and TTF-1 positivity). While TTF-1 can be positive in SCLC, the glandular differentiation and Napsin A positivity rule out SCLC.",
+      "D": "This option describes features more consistent with a poorly differentiated squamous cell carcinoma or large cell carcinoma (large pleomorphic cells, P63 positivity) and lacks neuroendocrine differentiation (negative Chromogranin)."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_4e9bbf69",
+    "question": "A 62-year-old female non-smoker presents with a persistent cough and a newly identified peripheral lung nodule on imaging. A biopsy confirms a Non-Small Cell Lung Carcinoma. Immunohistochemical staining is crucial for further subtyping. Which of the following statements accurately describes the histopathological and immunohistochemical profile MOST consistent with lung adenocarcinoma, as opposed to squamous cell carcinoma?",
+    "options": {
+      "A": "Characterized by intercellular bridges and keratinization, with strong positivity for P63 and CK5/6.",
+      "B": "Typically located centrally, often showing extensive necrosis, and positive for Synaptophysin.",
+      "C": "Demonstrates glandular or acinar formation, often with mucin production, and is positive for TTF-1 and Napsin A.",
+      "D": "Composed of sheets of large, pleomorphic cells with abundant cytoplasm, negative for both TTF-1 and P63."
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The clinical presentation (non-smoker, peripheral lung nodule) strongly favors adenocarcinoma. Lung adenocarcinoma is histologically characterized by glandular differentiation, which can manifest as acinar, papillary, micropapillary, or lepidic growth patterns, often with mucin production (Ref 21, 70). Immunohistochemically, adenocarcinomas are typically positive for TTF-1 (Thyroid Transcription Factor-1) and Napsin A (Ref 31). In contrast, squamous cell carcinomas are defined by keratinization and/or intercellular bridges and are positive for markers like P40/P63 and CK5/6 (Ref 31).",
+    "highYieldPearl": "Rio's Take: Adenocarcinoma (Adeno) often presents peripherally, especially in non-smokers, and is marked by glandular structures. Remember its IHC profile: TTF-1 and Napsin A are the stars for Adeno. If you see keratin or bridges, think Squamous.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "These are classic histopathological and immunohistochemical features of squamous cell carcinoma (Ref 31).",
+      "B": "This describes features commonly seen in Small Cell Lung Carcinoma (central location, extensive necrosis, Synaptophysin positivity), not adenocarcinoma (Ref 35, 38).",
+      "C": "This statement accurately describes the key histopathological (glandular/acinar formation, mucin) and immunohistochemical (TTF-1, Napsin A) features of lung adenocarcinoma (Ref 21, 31, 70).",
+      "D": "This describes a large cell carcinoma, which is a diagnosis of exclusion in NSCLC, lacking definitive features of adenocarcinoma or squamous cell carcinoma. While TTF-1 and P63 would typically be negative, this is not the MOST consistent description for adenocarcinoma."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_4f6a1c53",
+    "question": "A 70-year-old heavy smoker is diagnosed with extensive-stage Small Cell Lung Carcinoma (SCLC) based on a bronchoscopic biopsy. The pathology report notes the characteristic histomorphology. All of the following features are typically associated with the histopathology or biological behavior of Small Cell Lung Carcinoma (SCLC), EXCEPT:",
+    "options": {
+      "A": "High nuclear-to-cytoplasmic ratio with nuclear molding and finely granular chromatin.",
+      "B": "Strong immunohistochemical positivity for neuroendocrine markers like Synaptophysin and CD56.",
+      "C": "Presence of significant intercellular bridges and individual cell keratinization.",
+      "D": "Frequent occurrence of paraneoplastic syndromes and early widespread metastasis."
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "Small Cell Lung Carcinoma (SCLC) is defined by a distinct set of features. It classically presents with a high nuclear-to-cytoplasmic ratio, scant cytoplasm, nuclear molding, and finely granular ('salt-and-pepper') chromatin. It is a neuroendocrine tumor, hence expressing neuroendocrine markers such as Synaptophysin, Chromogranin A, and CD56. SCLC is known for its aggressive biological behavior, leading to rapid growth, early metastasis, and a high incidence of paraneoplastic syndromes (Ref 35, 36, 38, 39). The presence of significant intercellular bridges and individual cell keratinization, however, are pathognomonic features of squamous cell carcinoma, indicating squamous differentiation, and are not found in SCLC (Ref 35).",
+    "highYieldPearl": "Rio's Take: Remember that SCLC is a neuroendocrine tumor with fragile cells (causing nuclear molding, crush artifact) and aggressive behavior (metastasis, paraneoplastic syndromes). If you see 'intercellular bridges' or 'keratinization,' you're looking at squamous cell carcinoma, NOT SCLC.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This accurately describes the classic morphological features of SCLC (Ref 35, 38).",
+      "B": "SCLC is a neuroendocrine tumor and typically stains positive for neuroendocrine markers like Synaptophysin and CD56 (Ref 35, 38).",
+      "C": "Intercellular bridges and keratinization are defining histological features of squamous cell carcinoma, not SCLC (Ref 35). This is the incorrect statement.",
+      "D": "SCLC is highly aggressive, often metastasizing early and commonly associated with various paraneoplastic syndromes (Ref 36)."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_b69001cb",
+    "question": "A 62-year-old non-smoker presents with a 1.2 cm peripheral lung nodule detected incidentally. A percutaneous biopsy confirms adenocarcinoma. Which of the following histopathological growth patterns, if predominant in the resected specimen, would be associated with the highest likelihood of early recurrence and typically prompts comprehensive molecular profiling regardless of the tumor size or stage, even in very early-stage disease?",
+    "options": {
+      "A": "Predominant Acinar pattern",
+      "B": "Predominant Lepidic pattern with minimal stromal invasion",
+      "C": "Predominant Solid pattern with tumor cells lacking distinct glandular differentiation",
+      "D": "Predominant Micropapillary pattern with detached tumor clusters"
+    },
+    "correctAnswer": "D",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The IASLC/ATS/ERS classification of lung adenocarcinoma categorizes tumors based on their predominant growth patterns, which have significant prognostic implications. The micropapillary pattern is consistently associated with the least favorable prognosis among all patterns, exhibiting higher rates of lymphatic and vascular invasion, nodal metastasis, and recurrence, even in small, early-stage tumors. This aggressive behavior necessitates a comprehensive approach to diagnosis and treatment planning, including broad molecular profiling. The solid pattern is also associated with a less favorable prognosis compared to acinar or lepidic, but micropapillary is generally considered the most aggressive. Lepidic pattern, especially with minimal invasion, is associated with excellent prognosis.",
+    "highYieldPearl": "Rio's Take: The micropapillary pattern in lung adenocarcinoma is a critical histopathological finding, indicative of highly aggressive biology, and should prompt heightened clinical vigilance and comprehensive molecular workup for potential targeted therapies, even for small peripheral lesions.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Acinar pattern is the most common growth pattern and has an intermediate prognosis, generally more favorable than solid or micropapillary patterns (Yoshizawa et al. 2011). While invasive, it doesn't represent the 'highest likelihood of early recurrence' among the options.",
+      "B": "Lepidic pattern, especially with minimal stromal invasion, defines adenocarcinoma in situ (AIS) or minimally invasive adenocarcinoma (MIA), both of which are associated with an excellent prognosis and very low recurrence rates (Yoshizawa et al. 2011). This is the opposite of the question's premise.",
+      "C": "Solid pattern is associated with a poor prognosis, similar to or sometimes worse than the acinar pattern, particularly when lacking distinct differentiation (Yoshizawa et al. 2011). However, the micropapillary pattern (Option D) is generally considered even more aggressive and carries the worst prognosis amongst the recognized patterns.",
+      "D": "The micropapillary pattern is characterized by small, cohesive tumor cell tufts or clusters lacking fibrovascular cores, often floating in alveolar spaces. It is strongly correlated with increased invasiveness, lymphatic/vascular invasion, lymph node metastasis, and a significantly worse prognosis and higher recurrence rates, even in small tumors (Yoshizawa et al. 2011). This aggressive biology warrants prompt and comprehensive molecular profiling to identify actionable alterations (Lindeman et al. 2018)."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_495e8cde",
+    "question": "A 70-year-old heavy smoker presents with persistent cough and a large, cavitating mass in the right upper lobe periphery. Bronchial biopsy confirms squamous cell carcinoma. Regarding the histopathological characteristics and molecular features of lung squamous cell carcinoma (SCC), all of the following statements are generally correct, EXCEPT:",
+    "options": {
+      "A": "Immunohistochemistry typically shows positivity for p63 and CK5/6, assisting in differentiation from adenocarcinoma.",
+      "B": "Historically, SCC was predominantly a central tumor, but studies indicate a rising incidence of peripherally located SCCs, altering diagnostic and staging approaches.",
+      "C": "Commonly implicated genomic alterations include amplifications of *SOX2* and *MYC*, with *EGFR* mutations and *ALK* rearrangements being less frequent compared to adenocarcinoma.",
+      "D": "The presence of a desmoplastic stromal reaction and central necrosis are common morphological features, often explaining the cavitating appearance."
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "While *SOX2* and *MYC* amplifications are indeed observed in SCC (Friedlaender et al. 2019), *SOX2* amplification is notably a frequent genomic alteration specifically identified in small cell lung cancer (SCLC), not squamous cell carcinoma (Rudin et al. 2012). This makes statement C incorrect in the context of SCC's typical genomic landscape. *EGFR* mutations and *ALK* rearrangements are indeed much less common in SCC than in adenocarcinoma. The other statements correctly describe features of SCC.",
+    "highYieldPearl": "Rio's Take: Distinguishing molecular profiles between lung cancer subtypes is crucial. Remember that *SOX2* amplification is a hallmark of SCLC, while SCC has its own distinct set of genomic alterations such as *FGFR1* amplification and *PIK3CA* mutations. IHC markers like p63 and CK5/6 are essential for histological diagnosis.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This statement is correct. p63 and CK5/6 are classic immunohistochemical markers for squamous differentiation, making them highly useful in distinguishing SCC from adenocarcinoma (Gurda et al. 2015).",
+      "B": "This statement is correct. While traditionally central, there is a documented shift towards more peripheral SCCs, influenced by factors like cigarette type (Krimsky et al. 2016, Brooks et al. 2005). This shift affects the feasibility and type of biopsy, e.g., peripheral lesions are more amenable to percutaneous biopsy.",
+      "C": "This statement is incorrect. While SCC does harbor genomic alterations like amplifications of *PIK3CA* and *FGFR1* (Perez-Moreno et al. 2012, Friedlaender et al. 2019), *SOX2* amplification is prominently associated with Small Cell Lung Cancer (SCLC) (Rudin et al. 2012, George et al. 2015). *EGFR* mutations and *ALK* rearrangements are indeed uncommon in SCC. This option is a trap that correctly states *MYC* and the rarity of *EGFR/ALK* but incorrectly attributes *SOX2* to SCC in this context.",
+      "D": "This statement is correct. SCCs frequently exhibit a prominent desmoplastic reaction and can undergo central necrosis and cavitation, especially in larger tumors, which is consistent with the clinical presentation described (Tomashefski et al. 1990)."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_384a5e84",
+    "question": "A 58-year-old patient with a 40-pack-year smoking history presents with new onset ataxia and a rapidly growing peripheral lung mass detected on a screening CT. Biopsy reveals small, hyperchromatic cells with nuclear molding, finely granular chromatin, and scant cytoplasm, with prominent crushing artifact. Which of the following statements regarding the diagnosis and early management of this likely malignancy is most appropriate?",
+    "options": {
+      "A": "Given the peripheral location, the primary consideration should be atypical carcinoid or poorly differentiated non-small cell lung cancer (NSCLC) rather than small cell lung cancer (SCLC).",
+      "B": "Brain imaging for metastatic disease is typically performed as a late-stage evaluation due to the often localized nature of early SCLC presentation.",
+      "C": "The morphological findings are highly suggestive of SCLC, and immunohistochemistry (IHC) using neuroendocrine markers (e.g., chromogranin, synaptophysin, CD56) and TTF-1 is crucial for definitive confirmation and differentiation from other high-grade neuroendocrine tumors.",
+      "D": "For early-stage (T1 N0 M0) SCLC, radical surgical resection followed by observation is the preferred initial treatment strategy due to its efficacy in achieving local control."
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The morphological features described – small, hyperchromatic cells, nuclear molding, finely granular chromatin ('salt and pepper' chromatin), scant cytoplasm, and crushing artifact – are classical for small cell lung cancer (SCLC). Despite the peripheral location (which can occur, particularly in SCLC detected by screening, ref. Thomas et al. 2018), these features are highly suggestive of SCLC. SCLC is a high-grade neuroendocrine carcinoma, and definitive diagnosis often requires immunohistochemistry showing positive staining for neuroendocrine markers (chromogranin, synaptophysin, CD56) and TTF-1 (Travis 2012). This is critical to differentiate it from other high-grade neuroendocrine tumors (like large cell neuroendocrine carcinoma) or poorly differentiated NSCLCs. The patient's ataxia also points towards paraneoplastic syndrome or brain metastasis, both common in SCLC.",
+    "highYieldPearl": "Rio's Take: SCLC presents a unique diagnostic challenge due to its rapid growth, neuroendocrine differentiation, and potential for diverse presentations including paraneoplastic syndromes. Classic morphology combined with a specific IHC panel (neuroendocrine markers + TTF-1) is paramount for accurate diagnosis, and prompt brain imaging is essential given its propensity for early CNS metastasis.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This statement is incorrect. While SCLC is classically central, peripheral SCLC does occur, especially in lesions detected by screening (Thomas et al. 2018). The described morphological features (small, hyperchromatic cells, nuclear molding, crushing artifact) are highly characteristic of SCLC, making it a strong primary consideration regardless of peripheral location. Atypical carcinoid would typically have less cytologic atypia and crushing artifact, while poorly differentiated NSCLC would generally have larger cells.",
+      "B": "This statement is incorrect. SCLC has a very high propensity for early systemic spread, including to the brain, even at presentation (often manifesting as paraneoplastic syndromes or asymptomatic metastases). Therefore, brain imaging is a critical part of initial staging for *all* SCLC patients, not just a late-stage evaluation (Detterbeck et al. 2013). The patient's ataxia further reinforces the immediate need for brain imaging.",
+      "C": "This statement is correct. The morphology is classic for SCLC. IHC is essential to confirm the neuroendocrine differentiation (chromogranin, synaptophysin, CD56 positive) and to distinguish SCLC from other entities like large cell neuroendocrine carcinoma or poorly differentiated NSCLCs. TTF-1 positivity is also a common feature of SCLC, helping in lineage identification (Travis 2012).",
+      "D": "This statement is incorrect. While surgical resection *can* be considered for very early-stage (T1-T2a N0 M0) SCLC in highly selected cases, it is *not* the preferred initial treatment strategy followed by observation. SCLC is a highly systemic disease, and even in early stages, systemic chemotherapy and often prophylactic cranial irradiation (PCI) are integral to treatment (Hoda et al. 2018, Nicholson et al. 2002). Radical surgery as a primary treatment followed by *observation alone* is inappropriate for SCLC due to its aggressive nature and high risk of systemic recurrence."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_ab25f638",
+    "question": "A 68-year-old male, a lifelong smoker, presents with rapidly progressive dyspnea and cough. Imaging reveals a large, central, cavitating lung mass with mediastinal lymphadenopathy. A bronchoscopic biopsy reveals a poorly differentiated malignant neoplasm. Immunohistochemical staining shows diffuse strong positivity for p63 and CK5/6, focal positivity for CD44, and negativity for TTF-1, Napsin A, Chromogranin, and Synaptophysin. Based on these findings, which of the following is the most appropriate interpretation and next step in management considerations?",
+    "options": {
+      "A": "The findings are highly suggestive of large cell neuroendocrine carcinoma, requiring confirmation with electron microscopy and immediate systemic chemotherapy.",
+      "B": "This represents a poorly differentiated adenocarcinoma, which necessitates comprehensive molecular testing for EGFR, ALK, ROS1, and BRAF mutations to guide targeted therapy.",
+      "C": "The diagnosis is consistent with squamous cell carcinoma, and while EGFR mutations are rare, FGFR1 amplification and PIK3CA mutations should be considered for potential experimental therapies.",
+      "D": "Small cell lung carcinoma is the most probable diagnosis given the central cavitating mass and rapid progression, warranting immediate staging and platinum-etoposide chemotherapy."
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The patient's clinical presentation (lifelong smoker, central cavitating mass, mediastinal lymphadenopathy, rapid progression) is highly characteristic of squamous cell carcinoma (SCC) or, less commonly, small cell lung carcinoma (SCLC). The immunohistochemical (IHC) profile is crucial for definitive diagnosis. Strong positivity for p63 and CK5/6, along with negativity for TTF-1 and Napsin A, are diagnostic markers for squamous cell differentiation, effectively ruling out adenocarcinoma (Ref 31, 35). The negativity for Chromogranin and Synaptophysin rules out neuroendocrine tumors, including SCLC and large cell neuroendocrine carcinoma. While SCLC can present centrally and aggressively, its IHC profile would be positive for neuroendocrine markers and often TTF-1, but negative for p63/CK5/6. Therefore, the diagnosis is consistent with squamous cell carcinoma.\n\nRegarding management implications, SCC has a different molecular landscape compared to adenocarcinoma. While EGFR, ALK, ROS1, and BRAF mutations are primary targets in adenocarcinoma (Ref 23), they are rare in SCC. However, SCC is characterized by other recurrent genomic alterations such as FGFR1 amplification and PIK3CA mutations, which are targets for investigational or experimental therapies (Ref 32, 33, 34). Therefore, considering these alterations is a more appropriate next step in advanced SCC, especially in a research or clinical trial setting.",
+    "highYieldPearl": "Rio's Take: Squamous cell carcinoma typically presents centrally in smokers, often cavitates, and is reliably diagnosed by p63/CK5/6 positivity with TTF-1/Napsin A negativity. While its molecular landscape differs from adenocarcinoma, recurrent alterations like FGFR1 amplification and PIK3CA mutations are increasingly recognized as potential therapeutic targets.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This option is a trap because while large cell neuroendocrine carcinoma is aggressive, the negative neuroendocrine markers (Chromogranin, Synaptophysin) and positive p63/CK5/6 rule it out. Electron microscopy is rarely used for routine diagnosis in modern practice.",
+      "B": "This is a trap because the IHC profile (p63/CK5/6 positive, TTF-1/Napsin A negative) definitively rules out adenocarcinoma. Comprehensive molecular testing is critical for adenocarcinoma, but not the correct approach for this histopathology.",
+      "C": "This is the correct answer. The IHC profile (p63+, CK5/6+, TTF-1-, Napsin A-, neuroendocrine markers-) is pathognomonic for SCC. SCC is indeed less likely to harbor common targetable EGFR/ALK/ROS1 mutations. However, FGFR1 amplification and PIK3CA mutations are known genomic alterations in SCC and represent areas of ongoing research for targeted therapies (Ref 33, 34), making this the most accurate and nuanced statement.",
+      "D": "This option is a trap as SCLC can present with similar clinical features (central, rapid progression). However, the IHC profile (negative Chromogranin, Synaptophysin, and positive p63/CK5/6) unequivocally rules out SCLC. SCLC would have positive neuroendocrine markers."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_6b9028d4",
+    "question": "A 55-year-old male, a heavy smoker, presents with paraneoplastic SIADH and rapid progression of symptoms. Imaging reveals a large hilar mass with extensive mediastinal lymphadenopathy. A bronchoscopic biopsy demonstrates a highly cellular tumor composed of small, uniformly sized cells with scant cytoplasm, finely granular \"salt-and-pepper\" chromatin, absent or inconspicuous nucleoli, and a high mitotic rate. Extensive crush artifact and focal Azzopardi effect are also noted. Immunohistochemistry reveals diffuse positivity for TTF-1, CD56, and Synaptophysin, with focal Chromogranin positivity. All of the following statements regarding this patient's likely tumor are TRUE, EXCEPT:",
+    "options": {
+      "A": "This tumor is characterized by frequent inactivation of tumor suppressor genes TP53 and RB1, which are critical for cell cycle regulation and DNA damage response.",
+      "B": "Despite its aggressive behavior, molecular profiling for actionable driver mutations such as EGFR, ALK, and ROS1 is routinely performed to guide targeted therapy decisions.",
+      "C": "Due to the rapid doubling time and propensity for early metastasis, limited-stage disease is typically managed with concurrent chemoradiotherapy, while extensive-stage disease receives systemic chemotherapy.",
+      "D": "Paraneoplastic syndromes like SIADH, Lambert-Eaton myasthenic syndrome, and Cushing's syndrome are frequently associated with this specific histological subtype."
+    },
+    "correctAnswer": "B",
+    "topic": "Lung Cancer - Histopathology (NSCLC vs SCLC)",
+    "deepDiveExplanation": "The clinical presentation (heavy smoker, paraneoplastic SIADH, rapid progression, hilar mass with lymphadenopathy) combined with the classic histopathological features (small cells, scant cytoplasm, salt-and-pepper chromatin, high mitotic rate, crush artifact, Azzopardi effect) and immunohistochemistry (TTF-1+, CD56+, Synaptophysin+, Chromogranin+) are all highly characteristic of Small Cell Lung Carcinoma (SCLC) (Ref 35, 36, 38).\n\nLet's evaluate each option:\n*   **A**: SCLC is indeed characterized by recurrent inactivation of tumor suppressor genes, most notably TP53 and RB1, which are central to its aggressive biology (Ref 39, 40). This statement is TRUE.\n*   **B**: Unlike Non-Small Cell Lung Cancer (NSCLC), particularly adenocarcinoma, SCLC rarely harbors driver mutations like EGFR, ALK, or ROS1 for which FDA-approved targeted therapies (tyrosine kinase inhibitors) exist. Therefore, routine molecular profiling for these specific targets is generally NOT performed in SCLC, as it does not typically guide treatment decisions for SCLC. Treatment for SCLC primarily involves chemotherapy, radiation, and immunotherapy (Ref 23, 24). This statement is FALSE, making it the correct answer for an EXCEPT question.\n*   **C**: The management of SCLC is dictated by its aggressive nature and early metastatic potential. Limited-stage disease is typically treated with concurrent chemoradiotherapy, while extensive-stage disease receives systemic chemotherapy, often with immunotherapy (Ref 73). This statement is TRUE.\n*   **D**: SCLC is well-known for its association with various paraneoplastic syndromes due to ectopic hormone production or immune responses against neuronal antigens. SIADH (as mentioned in the stem), Lambert-Eaton myasthenic syndrome, and ectopic ACTH production (Cushing's syndrome) are classic examples. This statement is TRUE.",
+    "highYieldPearl": "Rio's Take: SCLC is a distinct clinical and pathological entity. While highly aggressive and associated with paraneoplastic syndromes and specific genetic alterations (TP53/RB1 inactivation), it does NOT typically benefit from targeted therapies directed at EGFR, ALK, or ROS1 mutations. Routine testing for these NSCLC drivers is not indicated in SCLC.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is a true statement about SCLC's genomic profile (Ref 39, 40) and serves as a distracter by being factually correct, thus not the 'EXCEPT' answer.",
+      "B": "This is the correct answer because it is a FALSE statement. Molecular profiling for EGFR, ALK, and ROS1 is standard for NSCLC (especially adenocarcinoma) but not for SCLC, as SCLC rarely harbors these mutations and does not respond to therapies targeting them (Ref 23, 24).",
+      "C": "This is a true statement describing the standard treatment paradigms for limited-stage and extensive-stage SCLC (Ref 73).",
+      "D": "This is a true statement highlighting a key clinical feature of SCLC – its strong association with various paraneoplastic syndromes. The stem itself mentions SIADH as a clue."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988502,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_19f15b5d",
+    "question": "A 65-year-old male, a heavy smoker, presents with progressive dyspnea and a persistent cough for 3 months. Chest X-ray reveals a left hilar mass and a moderate left pleural effusion. Thoracentesis yields an exudative fluid with low glucose and high LDH; however, initial pleural fluid cytology is reported as negative for malignant cells. Given the strong clinical suspicion for lung cancer, what is the most appropriate next diagnostic step to confirm the diagnosis and establish the accurate stage?",
+    "options": {
+      "A": "Repeat thoracentesis with additional pleural fluid cytology and cell block analysis.",
+      "B": "CT-guided core biopsy of the left hilar mass.",
+      "C": "Positron Emission Tomography-Computed Tomography (PET-CT) scan to assess metabolic activity of the mass and pleura.",
+      "D": "Video-assisted thoracoscopic surgery (VATS) with pleural biopsies and targeted biopsy of the hilar mass if accessible."
+    },
+    "correctAnswer": "D",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "In a patient with a highly suspicious lung mass and exudative pleural effusion, even if initial pleural fluid cytology is negative, malignant pleural effusion (MPE) remains a strong possibility. MPE denotes M1a disease in NSCLC (TNM 8th edition), making it a crucial staging parameter that precludes curative surgery. When cytology is negative, more invasive procedures are often required to confirm or rule out pleural malignancy. VATS provides direct visualization of the pleura, allowing for targeted biopsies of any suspicious areas, and has the highest diagnostic yield for MPE. It can also obtain biopsies from the lung mass or hilar structures if indicated. Confirming MPE is paramount for accurate staging and treatment planning.",
+    "highYieldPearl": "Rio's Take: Negative pleural fluid cytology does not rule out malignant pleural effusion, especially with a suspicious lung mass. For high suspicion cases, VATS with pleural biopsies offers the highest diagnostic yield for confirming MPE and is often the definitive next step for staging.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Repeat thoracentesis can be considered, and cell block can improve yield, but the overall sensitivity of pleural fluid cytology (even repeated) for MPE can be as low as 40-60%. Given the strong suspicion, a more invasive procedure with higher diagnostic yield is usually preferred to avoid delay in diagnosis.",
+      "B": "CT-guided biopsy of the hilar mass would provide a diagnosis of the primary tumor but would not definitively confirm or rule out pleural involvement, which is crucial for staging (M1a vs. N3/T4 disease). The primary goal here is to establish the stage, which hinges on the pleural involvement.",
+      "C": "PET-CT is a valuable staging tool for NSCLC, but it is not a diagnostic procedure for confirming malignancy, especially in the pleura. While it can show metabolically active pleural thickening, it cannot definitively differentiate malignant from inflammatory changes without tissue biopsy. A definitive tissue diagnosis of MPE is required before proceeding with treatment based on PET-CT findings alone.",
+      "D": "VATS allows for direct visualization of the pleural surfaces and lung, enabling targeted biopsies with a very high diagnostic yield for pleural malignancy when cytology is inconclusive. It offers the most comprehensive assessment of the pleural space and can also biopsy the primary tumor/hilar nodes, providing definitive diagnosis and accurate staging."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_3ee6f417",
+    "question": "A 72-year-old male with a significant smoking history presents with cough, hemoptysis, and weight loss. A CT scan of the chest reveals a 4 cm cavitating mass in the right upper lobe, multiple enlarged mediastinal lymph nodes, and a moderate right pleural effusion. Pleural fluid analysis confirms an exudative effusion, and cytology is positive for malignant cells consistent with squamous cell carcinoma. Subsequent molecular testing of the pleural fluid confirms EGFR wild-type, ALK negative status. What is the most accurate clinical stage and the immediate implication for his management?",
+    "options": {
+      "A": "Stage IIIB; definitive concurrent chemoradiation therapy is indicated.",
+      "B": "Stage IVA; systemic therapy with chemotherapy and/or immunotherapy is the primary treatment.",
+      "C": "Stage IVB; palliative chemotherapy alone is the most appropriate approach.",
+      "D": "Stage IIIA; neoadjuvant chemotherapy followed by surgical resection should be considered."
+    },
+    "correctAnswer": "B",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "According to the TNM 8th edition staging for non-small cell lung cancer (NSCLC), the presence of malignant pleural effusion (MPE) or pericardial effusion (M1a) immediately classifies the disease as Stage IVA. Stage IVA is defined by either intrathoracic metastatic disease (M1a) or a single extrathoracic metastasis (M1b). Stage IVB is defined by multiple extrathoracic metastases (M1c). Given the MPE, the patient has Stage IVA disease. Patients with Stage IVA NSCLC are generally not candidates for curative surgical resection. The primary treatment modality is systemic therapy, which may include chemotherapy, immunotherapy, or targeted therapy depending on the molecular profile of the tumor. The absence of specific actionable mutations like EGFR or ALK would guide towards chemotherapy and/or immunotherapy based on PD-L1 expression.",
+    "highYieldPearl": "Rio's Take: Malignant pleural effusion (MPE) automatically stages NSCLC as M1a, which corresponds to Stage IVA disease. Surgical resection is generally contraindicated, and systemic therapy (chemotherapy, immunotherapy, or targeted therapy) becomes the cornerstone of treatment.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Stage IIIB is incorrect. The presence of MPE signifies metastatic disease (M1a), which is Stage IVA. Stage IIIB refers to T3 or T4 disease with N2 involvement or T1-T2 with N3 involvement, without distant metastases. Curative concurrent chemoradiation is generally for locally advanced, non-metastatic disease.",
+      "C": "Stage IVB is incorrect. MPE is M1a, which is Stage IVA. Stage IVB denotes multiple extrathoracic metastases (M1c). While chemotherapy is part of the treatment for advanced disease, calling it 'palliative chemotherapy alone' might be an oversimplification, as immunotherapy or combination approaches might also be considered for Stage IVA. The staging is the primary error here.",
+      "D": "Stage IIIA is incorrect. As with IIIB, MPE automatically upstages the disease to IVA. Neoadjuvant therapy followed by surgical resection is typically for earlier-stage, potentially resectable disease without distant metastasis.",
+      "B": "This option correctly identifies the stage as IVA due to MPE (M1a) and states that systemic therapy (chemotherapy and/or immunotherapy) is the primary treatment. This aligns with current guidelines for advanced NSCLC."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_1112da65",
+    "question": "A 50-year-old non-smoking female presents with progressive dyspnea and a right-sided pleural effusion. She has a distant medical history of a right breast lumpectomy and adjuvant radiation therapy for ductal carcinoma in situ 10 years ago. Pleural fluid analysis reveals an exudative effusion, and cytology is positive for adenocarcinoma cells. CT chest shows diffuse right pleural thickening and effusion but no dominant lung mass or mediastinal lymphadenopathy. PET-CT shows FDG avidity in the right pleura. What is the MOST likely primary etiology for her malignant pleural effusion?",
+    "options": {
+      "A": "Primary lung adenocarcinoma.",
+      "B": "Mesothelioma.",
+      "C": "Metastatic breast carcinoma.",
+      "D": "Lymphoma."
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "While lung cancer is the most common cause of malignant pleural effusion (MPE) overall (37.5%), breast cancer is the second most common (16.8%). The clinical vignette describes a non-smoking female with a history of breast cancer 10 years prior. Malignant pleural effusions due to breast cancer can occur many years after the initial diagnosis, even up to 20 years. The effusion is typically ipsilateral to the primary tumor (as in this case). The absence of a dominant lung mass and the cytology showing 'adenocarcinoma cells' (consistent with breast primary) strongly point towards metastatic breast carcinoma as the most likely cause in this specific clinical context.",
+    "highYieldPearl": "Rio's Take: Always consider the patient's complete cancer history when evaluating MPE, even for remote diagnoses. Breast cancer can cause MPE decades after initial treatment, and its incidence makes it a significant differential, especially in non-smokers without a clear lung primary.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Primary lung adenocarcinoma is a common cause of MPE, but in a non-smoking female with a significant history of breast cancer and no clear lung mass on CT, metastatic breast cancer becomes a stronger possibility. While not impossible, it is less likely to be the *most* likely primary in this specific context.",
+      "B": "Mesothelioma is typically associated with asbestos exposure (not mentioned here) and often presents with epithelioid or sarcomatoid cells, not typically 'adenocarcinoma cells' in cytology. Furthermore, the extensive pleural thickening is common in mesothelioma, but the cytology provides a stronger clue away from it.",
+      "D": "Lymphoma can cause MPE (11.5%), but the cytology here specifies 'adenocarcinoma cells', which is inconsistent with lymphoma. Lymphoma effusions are usually lymphomatous in cytology.",
+      "C": "This is the most plausible option. The combination of a remote history of breast cancer, the patient's gender and non-smoking status, and the presence of adenocarcinoma cells in the pleural fluid cytology without a clear lung primary strongly suggests metastatic breast carcinoma as the primary source."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_c2a64297",
+    "question": "A 68-year-old male, a heavy smoker, presents with progressive dyspnea, cough, and significant weight loss over 3 months. Chest X-ray and subsequent CT chest reveal a 5 cm spiculated mass in the left lower lobe, multiple left hilar and mediastinal lymphadenopathies, and a moderate left-sided pleural effusion. Initial diagnostic thoracentesis yields an exudative fluid, but two separate cytological analyses, including cell block examination, are negative for malignant cells. Given the strong suspicion of malignancy, what is the most appropriate next step in establishing the diagnosis and determining the accurate clinical stage?",
+    "options": {
+      "A": "Proceed with PET-CT scan for complete systemic staging, followed by biopsy of the primary lung mass if no distant metastases are identified.",
+      "B": "Perform an ultrasound-guided closed pleural biopsy to confirm pleural involvement.",
+      "C": "Repeat thoracentesis with fluid analysis for tumor markers (e.g., CEA, CYFRA 21-1) to increase diagnostic yield.",
+      "D": "Schedule a video-assisted thoracoscopic surgery (VATS) with pleural biopsies."
+    },
+    "correctAnswer": "D",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "This patient presents with a strong clinical picture of advanced lung cancer, including a large primary tumor, suspicious lymphadenopathy, and a pleural effusion. The presence of a malignant pleural effusion (MPE) immediately upstages Non-Small Cell Lung Cancer (NSCLC) to Stage IV (M1a), which has significant implications for treatment. Despite two negative cytologies, the suspicion for MPE remains high given the context. Pleural fluid cytology, while the initial diagnostic tool, has variable sensitivity (around 60-90% on initial attempt, decreasing with subsequent attempts if the first is negative). When cytology is repeatedly negative but suspicion for MPE is high, more invasive procedures are required to definitively establish the diagnosis. Video-assisted thoracoscopic surgery (VATS) with pleural biopsies is considered the gold standard for diagnosing malignant pleural disease when less invasive methods fail. It allows for direct visualization of the pleural surfaces, targeted biopsies of suspicious lesions, and often provides sufficient tissue for histopathological and immunohistochemical analysis, thereby offering the highest diagnostic yield for MPE (often >90%). Confirming MPE is crucial before proceeding with definitive treatment planning, as it immediately designates the disease as Stage IV.",
+    "highYieldPearl": "Rio's Take: In a patient with suspected lung cancer and a pleural effusion, if initial pleural fluid cytology is negative despite high clinical suspicion, VATS with pleural biopsies offers the highest diagnostic yield for malignant pleural effusion (MPE). Confirming MPE is paramount as it denotes M1a disease and significantly impacts staging and treatment strategy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is a plausible step for staging the primary tumor and distant disease, but it bypasses the critical need to definitively diagnose or rule out MPE. If the effusion is malignant, the patient is Stage IV regardless of PET-CT findings for distant metastases or the primary tumor biopsy. A PET-CT alone cannot confirm the malignant nature of the effusion and proceeding with it before confirming MPE might delay optimal staging and management.",
+      "B": "While closed pleural biopsy (ultrasound or blind) can be useful, its diagnostic yield for malignancy, particularly if the pleural involvement is not diffuse or nodular, is generally lower than thoracoscopy (references 157, 158, 159). In a difficult case with high suspicion and prior negative cytology, VATS is preferred for its superior diagnostic capabilities.",
+      "C": "Tumor markers in pleural fluid can be suggestive of malignancy, especially adenocarcinoma, but they are not definitive for diagnosis. They have varying sensitivity and specificity and cannot replace histological confirmation. This step is less definitive than a biopsy."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_7159555d",
+    "question": "A 62-year-old female presents with persistent cough and hemoptysis. CT scan shows a 4.5 cm solid, spiculated mass in the right middle lobe. PET-CT confirms high FDG avidity of the mass and no evidence of mediastinal lymphadenopathy or distant metastases. During a right middle lobectomy, the surgeon notes that the tumor appears to reach the surface of the visceral pleura. Postoperative histopathology confirms adenocarcinoma. Microscopic examination reveals tumor cells extending through the elastic layer and reaching the visceral pleural surface (PL2). There is no involvement of the parietal pleura or associated pleural nodules. Based on the 8th edition TNM staging system, what is the correct T-stage for this tumor?",
+    "options": {
+      "A": "T1c",
+      "B": "T2a",
+      "C": "T2b",
+      "D": "T3"
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "This question tests the understanding of T-staging based on tumor size and the extent of visceral pleural invasion (VPI) according to the 8th edition TNM staging system for lung cancer.\n1.  **Tumor Size:** A 4.5 cm tumor falls into the T2 category (T2 is >3 cm but ≤5 cm). Specifically, a tumor >4 cm to ≤5 cm is classified as T2b.\n2.  **Visceral Pleural Invasion (VPI):** The text mentions 'Standardized grading for visceral pleural invasion (from PL0 to PL3) has been incorporated into the International Association for the Study of Lung Cancer tumor‑node‑metastasis staging scheme.'\n    *   PL0: No VPI.\n    *   PL1: VPI beyond the elastic layer.\n    *   PL2: VPI to the surface of the visceral pleura.\n    *   PL3: VPI extending to the parietal pleura or direct invasion of the chest wall, diaphragm, or mediastinal pleura.\n    The presence of VPI (PL1 or PL2) automatically classifies a tumor as T2, regardless of its size if it was originally T1. If a tumor is ≤3 cm and has PL1/PL2 VPI, it is upstaged from T1 to T2a. However, if the tumor is already T2 by size (e.g., >3 cm), the VPI (PL1/PL2) feature does not further upstage the T-category, but it is a T2 descriptive characteristic and a prognostic factor. The critical distinction is that only PL3 invasion (to the parietal pleura) upstages a tumor to T3.\n\nIn this case:\n*   **Tumor size is 4.5 cm:** This initially places it as T2b (>4 cm to ≤5 cm).\n*   **Visceral pleural invasion is PL2:** This means the tumor reaches the visceral pleural surface but does not involve the parietal pleura. Since the tumor is already T2b by size, the presence of PL2 VPI confirms it as a T2 tumor but does not further upstage it. If the tumor was, for example, 2 cm with PL2 VPI, it would become T2a. However, here, the size itself puts it in T2b.\n\nTherefore, combining the size (4.5 cm) and the PL2 VPI, the most accurate T-stage is T2b.",
+    "highYieldPearl": "Rio's Take: Understanding the nuances of visceral pleural invasion (VPI) in TNM 8th edition is key. PL1 and PL2 VPI upstage T1 tumors to T2a, but they do not further upstage a tumor already T2 by size. Only PL3 VPI (invasion to the parietal pleura) upstages a tumor to T3.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Incorrect. T1c is for tumors >2 cm to ≤3 cm.",
+      "B": "Incorrect. T2a is for tumors >3 cm to ≤4 cm. While VPI makes a tumor T2, the specific size of 4.5 cm places it as T2b. If the tumor was 3.5 cm with PL2 VPI, it would be T2a.",
+      "D": "Incorrect. T3 requires invasion of the parietal pleura (PL3), chest wall, diaphragm, mediastinal pleura, or other specific structures, or separate tumor nodule(s) in the same lobe. PL2 VPI alone does not make a tumor T3. This is a common misconception."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_chylothorax_faae973b",
+    "question": "A 70-year-old woman, a never-smoker, presents with exertional dyspnea and fatigue. She has a history of Stage III right colon adenocarcinoma, successfully resected 5 years ago, and is considered cured. A CT chest shows a 2.5 cm spiculated nodule in the left upper lobe and a moderate left pleural effusion. Initial pleural fluid cytology is positive for adenocarcinoma. Immunohistochemistry (IHC) performed on the pleural fluid cell block is positive for CK20 and CDX2, and negative for TTF-1 and Napsin A. What is the most accurate statement regarding the staging of the left upper lobe nodule?",
+    "options": {
+      "A": "The left upper lobe nodule is a new primary lung cancer, and the patient has Stage IV (M1a) lung cancer.",
+      "B": "The left upper lobe nodule's staging is currently indeterminate, and the pleural effusion indicates metastatic colon cancer.",
+      "C": "The left upper lobe nodule is considered Stage M1a due to the presence of malignant pleural effusion, regardless of the IHC findings.",
+      "D": "The patient has two synchronous primary malignancies (lung cancer and colon cancer metastasis), and both require independent staging."
+    },
+    "correctAnswer": "B",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "This question probes a critical aspect of lung cancer staging: distinguishing between malignant pleural effusion (MPE) originating from the lung cancer itself versus MPE from another primary malignancy. The presence of MPE upstages NSCLC to Stage IV (M1a) *only if the effusion is directly attributable to the lung cancer*.\n\nIn this case:\n1.  **Left upper lobe nodule:** 2.5 cm spiculated nodule, suspicious for primary lung cancer or metastasis.\n2.  **Pleural effusion cytology:** Positive for adenocarcinoma.\n3.  **Immunohistochemistry (IHC) on pleural fluid:** Positive for CK20 and CDX2, negative for TTF-1 and Napsin A.\n    *   **CK20 and CDX2 positivity** are highly characteristic markers for gastrointestinal adenocarcinomas (like colon cancer).\n    *   **TTF-1 and Napsin A negativity** effectively rule out a primary lung adenocarcinoma as the source of the pleural fluid malignancy (these are specific markers for lung adenocarcinoma).\n4.  **Clinical History:** Prior right colon adenocarcinoma 5 years ago. Although considered cured, late recurrences can occur.\n\nThe IHC findings strongly indicate that the malignant pleural effusion originates from metastatic colon cancer, not from the suspicious left upper lobe nodule. Therefore, this pleural effusion does *not* constitute an M1a stage for the left upper lobe nodule, *if* that nodule were to be a new primary lung cancer. The staging of the left upper lobe nodule is currently indeterminate because its nature (new primary lung cancer vs. metastasis from colon cancer) is not yet confirmed. It would require a biopsy of the nodule to definitively determine its origin. However, the malignant pleural effusion itself unequivocally indicates metastatic colon cancer, meaning the patient has metastatic colon cancer.",
+    "highYieldPearl": "Rio's Take: Malignant pleural effusion (MPE) constitutes M1a disease for lung cancer only if the effusion arises from the lung cancer itself. If MPE is confirmed to originate from a different primary malignancy (e.g., breast, colon), it does NOT upstage a co-existing lung nodule to M1a lung cancer. IHC is crucial in these scenarios to determine the origin of the MPE.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is incorrect. The IHC evidence points away from the pleural effusion being from a lung primary. Therefore, even if the nodule is a new primary lung cancer, the MPE does not make it Stage M1a. Furthermore, the nodule's nature is not yet definitively proven to be lung cancer without its own biopsy.",
+      "C": "This is a major trap. M1a is *specific* to lung cancer-derived MPE. This option ignores crucial IHC evidence that the MPE is from a different primary, hence incorrectly applying the M1a definition.",
+      "D": "This is partially correct in that the patient has metastatic colon cancer (due to the MPE) and potentially a new lung primary. However, the wording 'two synchronous primary malignancies' is misleading; one is a new primary (potentially lung) and the other is a metastasis (colon). More importantly, the most accurate statement needs to reflect the current, immediate implications of the *known* findings, which is the clear evidence of metastatic colon cancer from the effusion and the still unconfirmed nature of the lung nodule. The question asks about the staging of the *left upper lobe nodule*, which is still indeterminate."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "WBC",
+      "section": null,
+      "pageNumber": 6
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_023",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "Pleural fluid triglyceride level > 110 mg/dL is diagnostic of?",
+    "options": {
+      "A": "Pseudochylothorax",
+      "B": "Empyema",
+      "C": "Chylothorax",
+      "D": "Malignant effusion"
+    },
+    "correctAnswer": "C",
+    "topic": "chylothorax",
+    "deepDiveExplanation": "Chylothorax is the accumulation of chyle in the pleural space due to disruption of the thoracic duct. The diagnosis is confirmed by pleural fluid analysis showing a triglyceride level greater than 110 mg/dL (or 1.24 mmol/L). If triglyceride levels are between 50-110 mg/dL, lipoprotein electrophoresis to detect chylomicrons is required for definitive diagnosis. Pseudochylothorax, often seen in chronic effusions (e.g., rheumatoid pleurisy, tuberculosis), is characterized by high cholesterol levels (>200 mg/dL) and the absence of chylomicrons.",
+    "highYieldPearl": "The presence of chylomicrons on lipoprotein electrophoresis is the most definitive test for chylothorax, especially when triglyceride levels are borderline.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Pseudochylothorax is a common distractor due to its milky appearance, but it's differentiated by high cholesterol and absence of chylomicrons. Empyema is purulent, and malignant effusion is diagnosed by cytology.",
+    "isOneLiner": true,
+    "id": "one_liner_chylothorax_8yxixx0e"
+  },
+  {
+    "question": "Most common iatrogenic cause of chylothorax is injury during?",
+    "options": {
+      "A": "Lung biopsy",
+      "B": "Thoracentesis",
+      "C": "Esophagectomy",
+      "D": "Bronchoscopy"
+    },
+    "correctAnswer": "C",
+    "topic": "chylothorax",
+    "deepDiveExplanation": "The thoracic duct is vulnerable to injury during various cardiothoracic and neck surgeries. Esophagectomy, particularly during dissection in the posterior mediastinum, carries the highest risk of thoracic duct injury, leading to chylothorax. Other high-risk procedures include mediastinal tumor resection, lung transplantation, and cardiac surgery.",
+    "highYieldPearl": "Non-iatrogenic causes of chylothorax include malignancy (especially lymphoma), trauma, and congenital anomalies of the thoracic duct.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While other procedures involve the chest, esophagectomy involves extensive dissection directly in the vicinity of the thoracic duct, making it the most frequent iatrogenic cause. Lung biopsy, thoracentesis, and bronchoscopy typically do not involve the deep mediastinal structures where the thoracic duct lies.",
+    "isOneLiner": true,
+    "id": "one_liner_chylothorax_jh81qql9"
+  },
+  {
+    "question": "Pleural fluid triglyceride level > 110 mg/dL is diagnostic of?",
+    "options": {
+      "A": "Pseudochylothorax",
+      "B": "Empyema",
+      "C": "Chylothorax",
+      "D": "Malignant effusion"
+    },
+    "correctAnswer": "C",
+    "topic": "chylothorax",
+    "deepDiveExplanation": "Chylothorax is the accumulation of chyle in the pleural space due to disruption of the thoracic duct. The diagnosis is confirmed by pleural fluid analysis showing a triglyceride level greater than 110 mg/dL (or 1.24 mmol/L). If triglyceride levels are between 50-110 mg/dL, lipoprotein electrophoresis to detect chylomicrons is required for definitive diagnosis. Pseudochylothorax, often seen in chronic effusions (e.g., rheumatoid pleurisy, tuberculosis), is characterized by high cholesterol levels (>200 mg/dL) and the absence of chylomicrons.",
+    "highYieldPearl": "The presence of chylomicrons on lipoprotein electrophoresis is the most definitive test for chylothorax, especially when triglyceride levels are borderline.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Pseudochylothorax is a common distractor due to its milky appearance, but it's differentiated by high cholesterol and absence of chylomicrons. Empyema is purulent, and malignant effusion is diagnosed by cytology.",
+    "isOneLiner": true,
+    "id": "one_liner_chylothorax_ie8u0s5b"
+  },
+  {
+    "question": "Most common iatrogenic cause of chylothorax is injury during?",
+    "options": {
+      "A": "Lung biopsy",
+      "B": "Thoracentesis",
+      "C": "Esophagectomy",
+      "D": "Bronchoscopy"
+    },
+    "correctAnswer": "C",
+    "topic": "chylothorax",
+    "deepDiveExplanation": "The thoracic duct is vulnerable to injury during various cardiothoracic and neck surgeries. Esophagectomy, particularly during dissection in the posterior mediastinum, carries the highest risk of thoracic duct injury, leading to chylothorax. Other high-risk procedures include mediastinal tumor resection, lung transplantation, and cardiac surgery.",
+    "highYieldPearl": "Non-iatrogenic causes of chylothorax include malignancy (especially lymphoma), trauma, and congenital anomalies of the thoracic duct.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While other procedures involve the chest, esophagectomy involves extensive dissection directly in the vicinity of the thoracic duct, making it the most frequent iatrogenic cause. Lung biopsy, thoracentesis, and bronchoscopy typically do not involve the deep mediastinal structures where the thoracic duct lies.",
+    "isOneLiner": true,
+    "id": "one_liner_chylothorax_kpfqvgoe"
+  }
+]

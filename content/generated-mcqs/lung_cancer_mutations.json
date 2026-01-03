@@ -1,0 +1,1994 @@
+[
+  {
+    "id": "rag_lung_cancer_mutations_292f1024",
+    "question": "Which of the following genetic deficiencies in tumors has been associated with evidence of T cell exhaustion and improved response to anti-PD-1/anti-CTLA-4 immunotherapy?",
+    "options": {
+      "A": "EGFR mutation",
+      "B": "ALK rearrangement",
+      "C": "TSC2 deficiency",
+      "D": "KRAS mutation"
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Immunotherapy",
+    "deepDiveExplanation": "Studies have shown that TSC2-deficient tumors exhibit evidence of T cell exhaustion within their microenvironment. This unique immune landscape makes them particularly responsive to combined immune checkpoint blockade using anti-PD-1 and anti-CTLA-4 agents, highlighting a novel link between the mTOR pathway and immune regulation in cancer. Loss of TSC2 function leads to constitutive activation of mTORC1, which can influence tumor immunology.",
+    "highYieldPearl": "Rio's Take: TSC2 deficiency, often associated with mTORC1 activation, not only drives tumor growth but also primes the tumor microenvironment for a favorable response to dual PD-1/CTLA-4 immune checkpoint inhibition.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "EGFR mutations are well-known drivers in NSCLC, predicting response to EGFR tyrosine kinase inhibitors, but are not directly linked in the provided context to T cell exhaustion and improved anti-PD-1/CTLA-4 response.",
+      "B": "ALK rearrangements are also oncogenic drivers in NSCLC, indicating sensitivity to ALK inhibitors, but similarly, are not the specific genetic deficiency mentioned as directly correlating with enhanced dual checkpoint blockade response due to T cell exhaustion.",
+      "C": "This is the correct answer, directly supported by Liu et al. (2018) [50], which states 'TSC2‑deficient tumors have evidence of T cell exhaustion and respond to anti‑PD‑1/anti‑CTLA‑4 immunotherapy.'",
+      "D": "KRAS mutations are common in NSCLC and can be associated with various treatment responses, but are not specifically highlighted in the context as leading to T cell exhaustion and improved response to anti-PD-1/CTLA-4 therapy."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_627a7965",
+    "question": "Upregulation of the immune checkpoint ligand PD-L1 has been observed in pulmonary lymphangioleiomyomatosis (LAM). This rare lung condition is fundamentally linked to mutations in which of the following tumor suppressor genes?",
+    "options": {
+      "A": "CFTR",
+      "B": "TSC2",
+      "C": "FBN1",
+      "D": "SFTPC"
+    },
+    "correctAnswer": "B",
+    "topic": "Lung Cancer - Immunotherapy",
+    "deepDiveExplanation": "Pulmonary lymphangioleiomyomatosis (LAM) is a progressive cystic lung disease characterized by the proliferation of abnormal smooth muscle-like cells. It is caused by inactivating mutations in the tuberous sclerosis complex (TSC) genes, primarily TSC2 (and less commonly TSC1), leading to dysregulation of the mTORC1 pathway. Maisel et al. (2018) [51] specifically found PD-L1 to be upregulated in LAM, suggesting a potential role for immune evasion in this disease.",
+    "highYieldPearl": "Rio's Take: LAM, a disease driven by TSC2 mutations and mTOR pathway activation, also exhibits PD-L1 upregulation, suggesting a possible immune evasion mechanism that might be targeted therapeutically.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "CFTR (Cystic Fibrosis Transmembrane Conductance Regulator) is the gene associated with Cystic Fibrosis, a distinct genetic lung disease, and not LAM.",
+      "B": "This is the correct answer. Carsillo et al. (2000) [53] directly state that 'Mutations in the tuberous sclerosis complex gene TSC2 are a cause of sporadic pulmonary lymphangioleiomyomatosis,' and Maisel et al. (2018) [51] observed PD-L1 upregulation in LAM.",
+      "C": "FBN1 (Fibrillin 1) is the gene associated with Marfan Syndrome, a connective tissue disorder that can have pulmonary manifestations, but is not linked to LAM.",
+      "D": "SFTPC (Surfactant Protein C) mutations are associated with certain forms of familial interstitial lung disease or acute respiratory distress syndrome, but not with LAM."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_23bd2898",
+    "question": "A 65-year-old patient with metastatic non-small cell lung cancer (NSCLC) is receiving therapy with an anti-PD-1 immune checkpoint inhibitor. Which of the following is a well-recognized and potentially severe pulmonary immune-related adverse event (irAE) that requires careful monitoring in this patient?",
+    "options": {
+      "A": "Pulmonary hemorrhage",
+      "B": "Cryptogenic organizing pneumonia (COP)",
+      "C": "Drug-induced lupus pneumonitis",
+      "D": "Immune-related pneumonitis"
+    },
+    "correctAnswer": "D",
+    "topic": "Lung Cancer - Immunotherapy",
+    "deepDiveExplanation": "Immune checkpoint inhibitors can cause a wide spectrum of immune-related adverse events (irAEs) due to exaggerated immune responses. The lungs are a commonly affected organ, leading to immune-related pneumonitis. This condition can manifest with varying clinical and radiographic patterns and its severity can range from mild to life-threatening. Prompt diagnosis and management, often involving corticosteroids, are crucial (Rashdan et al., 2018 [130], Shohdy et al., 2017 [129]).",
+    "highYieldPearl": "Rio's Take: Immune-related pneumonitis is a key pulmonary toxicity of checkpoint inhibitors. Early recognition of symptoms like dyspnea and cough, along with imaging, is vital for timely intervention.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Pulmonary hemorrhage can occur in cancer patients due to tumor invasion, thrombocytopenia, or other treatments, but it is not specifically termed or classified as a direct and common immune-related adverse event of PD-1 inhibitors in the same way pneumonitis is.",
+      "B": "Cryptogenic organizing pneumonia (COP) describes a specific histological and radiological pattern of lung injury. While this pattern can be seen in some cases of immune-related pneumonitis, 'Immune-related pneumonitis' is the broader and more accurate term for the adverse event caused by immune checkpoint inhibitors.",
+      "C": "Drug-induced lupus pneumonitis implies a specific lupus-like autoimmune syndrome affecting the lungs. While immunotherapy can trigger autoimmune phenomena, this specific term is less common and less general than immune-related pneumonitis for the broad spectrum of lung irAEs.",
+      "D": "This is the correct and most specific term for the pulmonary irAE associated with immune checkpoint inhibitors, as described in the provided key readings (e.g., Rashdan et al. [130])."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_d63250b3",
+    "question": "A 35-year-old female presents with recurrent pneumothorax and progressive dyspnea. CT chest reveals multiple thin-walled lung cysts consistent with lymphangioleiomyomatosis (LAM). Genetic testing confirms a germline pathogenic variant in the TSC2 gene. Despite optimal therapy with sirolimus, her respiratory function continues to decline, and a repeat CT shows stable cystic lung disease but interval development of multiple new solid-appearing nodules with mild FDG avidity on PET scan. Immunohistochemistry of one such nodule demonstrates cells with loss of tuberin expression, high PD-L1 expression, and an infiltrate of exhausted T-cells. The patient's functional status is declining, and she is considering further therapeutic options beyond symptomatic management.",
+    "options": {
+      "A": "Combination immunotherapy with anti-PD-1 and anti-CTLA-4 agents.",
+      "B": "High-dose systemic corticosteroids.",
+      "C": "Increase the dose of sirolimus to maximal tolerated levels.",
+      "D": "Referral for urgent bilateral lung transplantation."
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Immunotherapy",
+    "deepDiveExplanation": "This patient has progressive lymphangioleiomyomatosis (LAM) due to a TSC2 mutation, characterized by uncontrolled mTOR pathway activation. Despite sirolimus (an mTOR inhibitor), she has new solid lung nodules with specific molecular characteristics: loss of tuberin expression (consistent with TSC2 deficiency), high PD-L1 expression, and T-cell exhaustion. The provided reference (Liu et al., 2018) directly states that 'TSC2-deficient tumors have evidence of T cell exhaustion and respond to anti-PD-1/anti-CTLA-4 immunotherapy.' Additionally, Maisel et al. (2018) report that PD-L1 is upregulated in pulmonary LAM. While LAM is typically benign, the development of 'solid-appearing nodules' with these immune characteristics, resistant to mTOR inhibition, suggests a potential for immune modulation. The presence of T-cell exhaustion and PD-L1 overexpression in a TSC2-deficient context strongly supports the rationale for immune checkpoint inhibition, especially a combination approach (anti-PD-1/anti-CTLA-4) as suggested by Liu et al. for TSC2-deficient tumors. This strategy targets the observed immune evasion mechanism.",
+    "highYieldPearl": "Rio's Take: TSC2 deficiency, whether in LAM or other tumors, can lead to a 'cold' immune environment with T-cell exhaustion and PD-L1 upregulation, making these lesions uniquely susceptible to immune checkpoint inhibition. This represents a potential paradigm shift in managing complicated TSC-related proliferative lesions that are refractory to mTOR inhibitors.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Correct. This option directly leverages the recent scientific findings linking TSC2 deficiency, T-cell exhaustion, PD-L1 expression, and responsiveness to anti-PD-1/anti-CTLA-4 immunotherapy, making it the most rational and advanced therapeutic consideration for lesions refractory to standard mTOR inhibition.",
+      "B": "Plausible if the nodules were purely inflammatory. However, the molecular profile (T-cell exhaustion, PD-L1 overexpression) points to a proliferative process with immune evasion mechanisms rather than a primary inflammatory condition directly responsive to steroids.",
+      "C": "Plausible, as sirolimus is the standard therapy for LAM. However, the patient is already on 'optimal therapy' and is still progressing with new nodules, indicating resistance or an alternative pathway of progression. Simply increasing the dose might not be effective and carries increased toxicity risk.",
+      "D": "Plausible, as lung transplantation is the ultimate option for end-stage LAM refractory to medical therapy. However, the question asks for a 'next step therapeutic strategy based on molecular findings.' Transplantation does not address the underlying molecular pathology or the specific immune characteristics identified in the nodules, and is considered a last resort rather than a targeted therapeutic 'next step' in this context."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_d256112e",
+    "question": "A 68-year-old male with stage IV non-small cell lung cancer (NSCLC) received nivolumab as second-line therapy after progression on chemotherapy. After 8 weeks, he presents with acute onset dyspnea, dry cough, and fevers. His oxygen saturation is 88% on room air. CT chest reveals bilateral patchy ground-glass opacities and areas of consolidation. Bronchoalveolar lavage (BAL) is performed and shows lymphocytic predominance (65% lymphocytes) with no evidence of infection or malignancy. Further workup for cardiac dysfunction or other infectious etiologies is negative.",
+    "options": {
+      "A": "Resume nivolumab at a reduced dose and closely monitor for improvement.",
+      "B": "Initiate empiric broad-spectrum antibiotics and antifungal agents.",
+      "C": "Administer high-dose systemic corticosteroids and permanently discontinue nivolumab.",
+      "D": "Perform a surgical lung biopsy to rule out metastatic progression."
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Immunotherapy",
+    "deepDiveExplanation": "This patient's presentation (acute dyspnea, cough, fevers, hypoxia, bilateral ground-glass opacities/consolidation on CT, lymphocytic BAL, and negative infection workup) occurring 8 weeks after starting nivolumab (an anti-PD-1 immune checkpoint inhibitor) is highly characteristic of immune checkpoint inhibitor (ICI)-related pneumonitis. Rashdan et al. (2018) and Shohdy et al. (2017) discuss the diagnosis and management of pulmonary toxicity associated with cancer immunotherapy. Given the severity (hypoxia, likely Grade 3 or 4), the recommended immediate management for severe ICI pneumonitis is prompt cessation of the ICI and initiation of high-dose systemic corticosteroids. Permanently discontinuing the ICI is generally recommended for Grade 3 or 4 pneumonitis.",
+    "highYieldPearl": "Rio's Take: ICI-related pneumonitis is a critical immune-related adverse event. Recognize its varied presentations on CT (GGO, consolidation, organizing pneumonia patterns) and respond decisively with ICI cessation and systemic corticosteroids, especially for moderate to severe cases.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Incorrect. Resuming ICI, even at a reduced dose, is contraindicated in severe (Grade 3/4) pneumonitis due to the high risk of recurrence and worsening of the immune-related adverse event. Nivolumab should be permanently discontinued.",
+      "B": "Plausible, as pulmonary infiltrates can be infectious. However, the BAL results (lymphocytic predominance, no infection) and lack of other infectious markers (if available) strongly point away from a primary infection. While empiric antibiotics might be considered initially if infection cannot be excluded, the strong clinical context of ICI use and specific BAL findings make ICI pneumonitis the leading diagnosis, and corticosteroids the primary intervention.",
+      "C": "Correct. This is the standard of care for severe (Grade 3/4) ICI-related pneumonitis, as outlined in clinical guidelines and supported by references like Rashdan et al. (2018).",
+      "D": "Plausible, as metastatic progression can cause new lung infiltrates. However, the diffuse nature of the infiltrates, the acute presentation, and the lymphocytic BAL make pneumonitis far more likely. Surgical lung biopsy is invasive and usually not the immediate step when the clinical suspicion for ICI pneumonitis is high and requires urgent treatment."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_bdbad66c",
+    "question": "A 55-year-old female with a history of advanced non-small cell lung cancer (NSCLC) and a known germline TSC2 mutation (diagnosed during workup for multiple renal angiomyolipomas) completed 6 cycles of pembrolizumab for PD-L1 positive disease, achieving a partial response. Six months after starting pembrolizumab, she develops progressive dyspnea and cough. A CT chest shows new diffuse bilateral ground-glass opacities and septal thickening, along with a few new small (2-3 mm) thin-walled lung cysts predominantly in the lower lobes. PET scan demonstrates mild, diffuse FDG uptake in the affected lung areas. Infectious workup is negative. She had no pulmonary symptoms prior to starting pembrolizumab.",
+    "options": {
+      "A": "This is a typical presentation of Grade 2 pembrolizumab-induced pneumonitis, requiring immediate cessation of ICI and initiation of systemic corticosteroids.",
+      "B": "The lung changes are primarily due to progression of undiagnosed pulmonary lymphangioleiomyomatosis (LAM), which warrants immediate initiation of an mTOR inhibitor.",
+      "C": "The new lung cysts suggest a unique presentation of TSC2-deficient lung pathology likely exacerbated by ICI, necessitating prompt initiation of an mTOR inhibitor.",
+      "D": "The diffuse ground-glass opacities and septal thickening are indicative of immune-related pneumonitis, but the new cysts require a diagnostic surgical lung biopsy before specific treatment."
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Immunotherapy",
+    "deepDiveExplanation": "This is a complex scenario integrating two potential causes of lung pathology. The patient has a known TSC2 mutation, predisposing her to tuberous sclerosis complex (TSC) manifestations, including pulmonary lymphangioleiomyomatosis (LAM), which is characterized by cysts. She also received pembrolizumab, an immune checkpoint inhibitor (ICI), a known cause of pneumonitis. Her presentation includes elements of both: (1) ICI-induced pneumonitis (diffuse bilateral ground-glass opacities, septal thickening, diffuse FDG uptake, symptoms after ICI initiation) and (2) LAM/TSC-related lung disease (the *new small thin-walled lung cysts* in a patient with a *TSC2 mutation* and *renal angiomyolipomas*). Option C best explains this evolving picture. It acknowledges the unique presentation of an underlying TSC2-deficient lung pathology (LAM) and recognizes that ICI therapy might have interacted with or exacerbated it, leading to the emergence of cysts. The primary therapeutic implication, given the appearance of new cysts in a TSC2 patient, is to target the underlying mTOR pathway with an mTOR inhibitor like sirolimus, which directly addresses the LAM component. While there may also be an inflammatory component from pneumonitis, the distinct LAM features point towards a need for mTOR inhibition.",
+    "highYieldPearl": "Rio's Take: In patients with underlying genetic predispositions like TSC2 mutations, immunotherapy can complicate the clinical picture. While ICI pneumonitis is a strong differential, the emergence of specific features of the the underlying genetic condition (like new cysts in LAM) during or after ICI therapy suggests the need to address both the immune-related toxicity and the molecularly driven pathology (e.g., with mTOR inhibitors for LAM).",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Plausible, as ICI pneumonitis symptoms and CT findings (GGO, septal thickening) are present. However, the presence of *new cysts* makes it more than a 'typical' pneumonitis, and corticosteroids alone will not address the LAM component driven by the TSC2 mutation. The grading is also a specific detail that may not be precisely determined without further assessment.",
+      "B": "Partially correct, as LAM progression (new cysts) is certainly part of the picture. However, stating it's 'primarily' LAM progression might overlook the significant ICI-related inflammatory component (GGO, septal thickening) which could also be contributing to the patient's symptoms. This option is too narrow in its explanation.",
+      "C": "Correct. This option provides the most comprehensive and therapeutically relevant explanation. It acknowledges the unique presentation of an underlying TSC2-deficient lung pathology (LAM with new cysts) and considers the possibility of exacerbation or unmasking by ICI. The necessity of prompt mTOR inhibitor initiation directly targets the known genetic driver of LAM, which is crucial given the new cystic changes.",
+      "D": "Plausible, as biopsy is sometimes needed for definitive diagnosis. However, given the *TSC2* mutation and renal angiomyolipomas, the appearance of new cysts makes the diagnosis of a LAM component highly probable. Starting an mTOR inhibitor is less invasive and directly targets the known genetic pathway without necessarily needing a biopsy first, especially if the clinical picture is strong. Delaying treatment for a biopsy in a symptomatic patient might not be the *most appropriate* immediate management."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_f8f4cf66",
+    "question": "A 48-year-old non-smoker with a known history of sporadic pulmonary lymphangioleiomyomatosis (LAM) presents with a rapidly growing, biopsy-proven stage IV non-small cell lung cancer (NSCLC). Genetic sequencing of her tumor reveals a *TSC2* gene mutation and a high tumor mutational burden (TMB). Initial platinum-doublet chemotherapy resulted in disease progression. Given her unique tumor characteristics, her oncologist is considering immune checkpoint inhibitor therapy. Based on current understanding, which of the following is the MOST accurate rationale for considering this treatment in her case?",
+    "options": {
+      "A": "TSC2-deficient tumors exhibit hyperactive mTORC1 signaling, which can lead to increased PD-L1 expression and a T cell exhausted phenotype, making them sensitive to PD-1/CTLA-4 blockade.",
+      "B": "The *TSC2* mutation directly enhances neoantigen presentation, leading to a highly inflamed tumor microenvironment that is inherently responsive to immune checkpoint inhibition.",
+      "C": "Patients with underlying LAM have a pre-existing chronic inflammatory state in the lungs, which primes the immune system for an exaggerated response to immunotherapy.",
+      "D": "mTOR inhibitors like sirolimus are effective in LAM, and their combination with immune checkpoint inhibitors synergistically enhances anti-tumor immunity regardless of PD-L1 status or T-cell exhaustion."
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Immunotherapy",
+    "deepDiveExplanation": "The provided context highlights that *TSC2*-deficient tumors demonstrate 'evidence of T cell exhaustion and respond to anti-PD-1/anti-CTLA-4 immunotherapy' (Liu et al., 2018). Furthermore, it states that 'Immune checkpoint ligand PD-L1 is upregulated in pulmonary lymphangioleiomyomatosis' (Maisel et al., 2018). *TSC2* mutations lead to a hyperactivation of the mTORC1 pathway, a known mechanism that can contribute to increased PD-L1 expression and an immunosuppressive tumor microenvironment characterized by T cell exhaustion, thereby creating a rationale for immune checkpoint inhibition. The high TMB also supports immunotherapy, but option A describes the more specific molecular link provided in the context between TSC2 deficiency and immunotherapy response.",
+    "highYieldPearl": "Rio's Take: TSC2 deficiency, often seen in LAM, can hyperactivate the mTORC1 pathway, leading to increased PD-L1 and T-cell exhaustion. This specific immune dysregulation makes these tumors potentially responsive to immune checkpoint inhibitors, offering a targeted approach beyond standard TMB considerations.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This option accurately synthesizes multiple pieces of information from the provided context (TSC2 deficiency, mTORC1 hyperactivation, PD-L1 upregulation, T cell exhaustion, and response to immunotherapy), presenting the most comprehensive and direct rationale.",
+      "B": "While high TMB (mentioned in the vignette) generally correlates with enhanced neoantigen presentation and immunotherapy response, the statement that *TSC2* mutation *directly* enhances neoantigen presentation is not the primary mechanism highlighted in the provided context for *TSC2*'s specific role in immunotherapy sensitivity. The context emphasizes T cell exhaustion and PD-L1 upregulation as key factors related to *TSC2* deficiency.",
+      "C": "LAM is a proliferative disease, but describing it as a 'pre-existing chronic inflammatory state' that 'primes the immune system for an exaggerated response' to immunotherapy is an oversimplification and not the specific molecular mechanism linking LAM/TSC2 to immunotherapy efficacy outlined in the references. In fact, an 'exaggerated response' could also imply increased toxicity.",
+      "D": "While mTOR inhibitors are used in LAM, this option incorrectly states that their combination with ICI synergistically enhances anti-tumor immunity *regardless* of PD-L1 status or T-cell exhaustion. The rationale for ICI in this patient is *because* of the PD-L1 upregulation and T-cell exhaustion, not independent of it. Furthermore, combining mTOR inhibitors with ICIs has complex immune effects and is not universally synergistic in all contexts."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_1afbe3dd",
+    "question": "A 62-year-old male with metastatic non-small cell lung cancer (NSCLC) is on his fourth cycle of nivolumab, an anti-PD-1 immune checkpoint inhibitor. He presents with worsening dyspnea, dry cough, and constitutional symptoms. His SpO2 on room air is 88%, and he requires 4 L/min oxygen to maintain saturation above 92%. A CT chest reveals diffuse bilateral ground-glass opacities and new interstitial thickening. After ruling out infection, he is diagnosed with Grade 3 immune checkpoint inhibitor-related pneumonitis. Which of the following represents the MOST appropriate immediate management strategy?",
+    "options": {
+      "A": "Permanently discontinue nivolumab and initiate high-dose intravenous methylprednisolone (1-2 mg/kg/day).",
+      "B": "Hold nivolumab and start oral prednisone (0.5 mg/kg/day), with plans for re-challenge upon symptom improvement.",
+      "C": "Administer broad-spectrum antibiotics and arrange for urgent bronchoscopy with bronchoalveolar lavage for culture and cytology.",
+      "D": "Permanently discontinue nivolumab and immediately administer a single dose of infliximab, followed by oral prednisone tapering."
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Immunotherapy",
+    "deepDiveExplanation": "According to established guidelines for managing immune-related adverse events (irAEs), Grade 3 pneumonitis (defined by severe symptoms, oxygen requirement, or limiting self-care activities) necessitates permanent discontinuation of the immune checkpoint inhibitor and immediate initiation of high-dose systemic corticosteroids. Intravenous methylprednisolone at 1-2 mg/kg/day is the standard initial approach for severe irAEs to rapidly control inflammation. (Rashdan et al., 2018, reference the diagnosis and management of such toxicities).",
+    "highYieldPearl": "Rio's Take: For Grade 3 or higher immune checkpoint inhibitor-related pneumonitis, permanent discontinuation of the immunotherapy and prompt initiation of high-dose IV corticosteroids (e.g., methylprednisolone 1-2 mg/kg/day) are critical. Delaying or under-treating can lead to life-threatening complications.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is the correct initial management for Grade 3 ICI-related pneumonitis, aligning with guidelines for severe irAEs.",
+      "B": "Holding nivolumab is appropriate for milder (Grade 2) pneumonitis, but Grade 3 requires permanent discontinuation. Oral prednisone at 0.5 mg/kg/day is typically for Grade 2, and the dose is insufficient for Grade 3, which necessitates high-dose IV corticosteroids. Re-challenge is also contraindicated in Grade 3 or higher pneumonitis.",
+      "C": "The vignette states infection was ruled out, and the clinical presentation and CT findings are highly suggestive of pneumonitis. While empiric antibiotics might sometimes be considered alongside steroids while awaiting full exclusion of infection, this option prioritizes antibiotics and further diagnostic tests over the immediate, critical treatment for severe pneumonitis, leading to harmful delay.",
+      "D": "While nivolumab discontinuation is correct, infliximab (an anti-TNF-alpha agent) is generally reserved as a second-line immunosuppressant for steroid-refractory severe irAEs, not as an immediate initial treatment. It should not precede high-dose corticosteroids unless there are specific contraindications to steroids or in very specific clinical scenarios, which are not described here."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_2e465da4",
+    "question": "A 55-year-old female with advanced renal cell carcinoma (RCC) develops progressive dyspnea and cough two months after initiating temsirolimus therapy. Her past medical history includes treatment with nivolumab for RCC, which was discontinued 3 months prior to starting temsirolimus due to disease progression, with no prior history of immune-related adverse events. A recent chest CT scan shows diffuse bilateral ground-glass opacities and perilobular consolidations. Pulmonary function tests reveal a restrictive ventilatory defect and a significantly decreased diffusion capacity (DLCO). Which of the following is the MOST likely cause of her current pulmonary findings?",
+    "options": {
+      "A": "Temsirolimus-induced interstitial lung disease (ILD).",
+      "B": "Late-onset nivolumab-induced pneumonitis.",
+      "C": "Lymphangitic carcinomatosis from progressive renal cell carcinoma.",
+      "D": "Opportunistic pulmonary infection secondary to general immunosuppression."
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Immunotherapy",
+    "deepDiveExplanation": "Temsirolimus, an mTOR inhibitor, is well-documented to cause interstitial lung disease as an 'on-target' effect (Duran et al., 2006; Eto et al., 2017). The patient's symptoms started two months after initiating temsirolimus, fitting the typical timeline for drug-induced ILD. The CT findings of diffuse ground-glass opacities and perilobular consolidations, along with restrictive physiology and reduced DLCO, are characteristic of drug-induced ILD. While nivolumab can cause pneumonitis, it is less likely to present for the first time 3 months after discontinuation without any prior irAEs. Lymphangitic carcinomatosis typically presents with septal thickening and nodules, not diffuse GGO/perilobular consolidations as the primary pattern. Opportunistic infection is a possibility, but drug-induced ILD is a highly specific and likely diagnosis given the clinical context and imaging.",
+    "highYieldPearl": "Rio's Take: Always consider drug-induced lung injury when new respiratory symptoms arise in cancer patients, especially with targeted therapies like mTOR inhibitors (e.g., temsirolimus) or immune checkpoint inhibitors. The timing of drug initiation relative to symptom onset is crucial for differentiating etiologies. Temsirolimus-induced ILD is a recognized 'on-target' toxicity.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is the most likely cause. Temsirolimus is known to cause ILD, and the timing of symptom onset (2 months after initiation) and the characteristic CT findings strongly support this diagnosis.",
+      "B": "While late-onset immune-related pneumonitis can occur with ICIs, it is less common to present for the first time 3 months *after discontinuation* and *without any prior immune-related adverse events*. The recent introduction of a known pneumonitis-causing drug (temsirolimus) makes it a more probable cause.",
+      "C": "Lymphangitic carcinomatosis from RCC typically presents with thickened interlobular septa and often small nodules, representing tumor infiltration along lymphatics. The described CT pattern of diffuse ground-glass opacities and perilobular consolidations is less typical for lymphangitic carcinomatosis and more consistent with inflammatory or drug-induced ILD.",
+      "D": "While cancer patients are often immunosuppressed and prone to opportunistic infections, the specific clinical context (new drug, characteristic CT findings of ILD) makes a drug-induced etiology more probable than a non-specific opportunistic infection without further supporting evidence (e.g., fever, specific microbiologic findings)."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_038e151f",
+    "question": "A 45-year-old woman with a known history of lymphangioleiomyomatosis (LAM) presents with increasing shortness of breath and cough. Imaging reveals a new 3 cm mass in the right upper lobe, distinct from her diffuse cystic lung disease. Biopsy confirms adenocarcinoma of the lung. Given her underlying genetic predisposition related to LAM, which of the following is most likely to be a relevant predictive biomarker for her lung cancer treatment, and what class of therapy would it guide?",
+    "options": {
+      "A": "TSC2 mutation status; Response to immune checkpoint inhibitors.",
+      "B": "PD-L1 expression; Response to mTOR inhibitors.",
+      "C": "Rheb activation; Response to immune checkpoint inhibitors.",
+      "D": "mTORC1 pathway activation; Response to chemotherapy."
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Immunotherapy",
+    "deepDiveExplanation": "Lymphangioleiomyomatosis (LAM) is known to be caused by mutations in the tuberous sclerosis complex gene 2 (TSC2). Recent research (Liu HJ et al., JCI Insight, 2018; Ref 50 in provided context) indicates that TSC2-deficient tumors show evidence of T cell exhaustion and respond to anti-PD-1/anti-CTLA-4 immunotherapy. Furthermore, immune checkpoint ligand PD-L1 is upregulated in pulmonary LAM (Maisel K et al., Am J Respir Cell Mol Biol, 2018; Ref 51). Therefore, a patient with LAM and NSCLC, implicitly having a TSC2 mutation, might be particularly amenable to immune checkpoint inhibitor therapy, with TSC2 mutation status (or downstream effects like PD-L1 expression) serving as a predictive marker.",
+    "highYieldPearl": "Rio's Take: TSC2 mutations, commonly seen in LAM, can predispose tumors to respond favorably to immune checkpoint inhibitors due to associated T-cell exhaustion and PD-L1 upregulation, highlighting a unique interaction between a rare genetic disease and advanced cancer immunotherapy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. This option accurately links the underlying genetic cause of LAM (TSC2 mutation) to a predictive biomarker and the appropriate class of therapy (immune checkpoint inhibitors), based on the provided literature.",
+      "B": "Plausible but incorrect. While PD-L1 is a biomarker for immune checkpoint inhibitors (not mTOR inhibitors), and PD-L1 is upregulated in LAM (Ref 51), mTOR inhibitors are used to treat LAM itself, not typically as a primary therapy for NSCLC in this context, nor are they guided by PD-L1 expression for NSCLC.",
+      "C": "Incorrect. Rheb activation is upstream of mTORC1 (Ref 62, 63) and relevant to the TSC2 pathway, but it is not a standard or specific predictive biomarker for immune checkpoint inhibitor response in NSCLC compared to TSC2 status or PD-L1 expression.",
+      "D": "Incorrect. mTORC1 pathway activation is a consequence of TSC2 deficiency (Ref 69, 70, 71) and is targeted by mTOR inhibitors, but its activation is not a primary predictive biomarker for response to chemotherapy in the context of immunotherapy, nor does it directly predict immunotherapy response in this manner."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_f7b9d852",
+    "question": "A 68-year-old male with metastatic non-small cell lung cancer (NSCLC) is receiving second-line treatment with nivolumab. After three cycles, he develops new onset dyspnea on exertion, dry cough, and low-grade fever. He is able to perform his daily activities with some difficulty, but does not require supplemental oxygen. Chest X-ray shows bilateral interstitial infiltrates, and CT chest reveals ground-glass opacities and patchy consolidation. Pulmonary function tests show mild restrictive physiology. Infectious work-up is negative. Given this presentation, which of the following is the most appropriate initial management step?",
+    "options": {
+      "A": "Discontinue nivolumab permanently and initiate broad-spectrum antibiotics.",
+      "B": "Hold nivolumab, start high-dose intravenous methylprednisolone, and admit for monitoring.",
+      "C": "Continue nivolumab with close monitoring of respiratory symptoms.",
+      "D": "Hold nivolumab, start oral prednisone 1 mg/kg/day, and schedule follow-up in 1 week."
+    },
+    "correctAnswer": "D",
+    "topic": "Lung Cancer - Immunotherapy",
+    "deepDiveExplanation": "This patient's symptoms (dyspnea on exertion, cough, fever) and radiographic findings (bilateral interstitial infiltrates, GGO, consolidation) in the setting of nivolumab treatment, with negative infection work-up, are highly suggestive of immune checkpoint inhibitor (ICI)-related pneumonitis. The description of 'dyspnea on exertion limiting activities of daily living but not requiring supplemental oxygen' and 'mild restrictive physiology' classifies this as Grade 2 pneumonitis according to common toxicity criteria (CTCAE). For Grade 2 ICI-related pneumonitis, the standard management involves holding the ICI and initiating oral corticosteroids, typically prednisone 1 mg/kg/day (Rashdan S et al., Lancet Respir Med, 2018; Ref 130). High-dose IV steroids are reserved for Grade 3/4 pneumonitis, while Grade 1 may allow for continued ICI with close monitoring.",
+    "highYieldPearl": "Rio's Take: Immunotherapy-related pneumonitis is a critical adverse event. Grading based on symptoms and oxygen requirement dictates management: Grade 1 = monitor, Grade 2 = hold ICI + oral prednisone, Grade 3/4 = hold ICI + high-dose IV steroids + consider hospitalization.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. Permanent discontinuation is usually reserved for Grade 3/4 or recurrent pneumonitis. Antibiotics are not indicated without evidence of infection.",
+      "B": "Incorrect. High-dose intravenous methylprednisolone is typically reserved for Grade 3 or 4 pneumonitis, which involves more severe symptoms, significant oxygen requirements, or life-threatening compromise. The patient's presentation here is consistent with Grade 2.",
+      "C": "Incorrect. Continuing nivolumab is only appropriate for Grade 1 pneumonitis, which typically presents with asymptomatic radiographic changes or very mild symptoms that do not interfere with daily activities. This patient has symptomatic pneumonitis affecting daily activities.",
+      "D": "Correct. This option describes the appropriate management for Grade 2 ICI-related pneumonitis, involving holding the immune checkpoint inhibitor and initiating oral prednisone at 1 mg/kg/day."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_e61a3962",
+    "question": "A 55-year-old male with metastatic renal cell carcinoma (RCC) known to harbor a *TSC2* inactivating mutation has been started on an experimental regimen involving an mTOR inhibitor. Two months into treatment, he develops progressive dyspnea and cough. A CT scan reveals diffuse ground-glass opacities and reticular changes. Bronchoalveolar lavage shows lymphocytosis. Which of the following statements best describes the likely pathogenesis of his pulmonary findings in relation to the primary tumor's genetic profile and the action of the administered drug?",
+    "options": {
+      "A": "The pulmonary toxicity is an immune-related adverse event, potentiated by T-cell exhaustion due to the *TSC2* mutation, requiring immune checkpoint inhibitor therapy.",
+      "B": "The pulmonary toxicity is a direct 'on-target' effect of mTOR inhibition, potentially reflecting the drug's intended action on proliferation pathways.",
+      "C": "The pulmonary findings represent an opportunistic infection due to generalized immunosuppression caused by the mTOR inhibitor.",
+      "D": "The *TSC2* mutation predisposes to a unique form of hypersensitivity pneumonitis, managed primarily with antifungal agents."
+    },
+    "correctAnswer": "B",
+    "topic": "Lung Cancer - Immunotherapy",
+    "deepDiveExplanation": "The patient has RCC with a *TSC2* mutation, leading to activation of the mTOR pathway. He is being treated with an mTOR inhibitor. Temsirolimus, an mTOR inhibitor, is known to cause interstitial lung disease (ILD) as an 'on-target effect' in patients with metastatic RCC (Eto M et al., J Clin Oncol, 2017; Ref 126). This means the drug's intended mechanism of inhibiting the mTOR pathway, which is highly active due to the *TSC2* mutation, also leads to pulmonary toxicity as a direct consequence of its cellular effects in the lung. The clinical and radiological findings (dyspnea, cough, GGO, reticular changes, lymphocytosis in BAL) are consistent with drug-induced ILD.",
+    "highYieldPearl": "Rio's Take: mTOR inhibitor-induced ILD, like that seen with temsirolimus, is often an 'on-target' effect, meaning it's a direct consequence of the drug's mechanism of action on the mTOR pathway, rather than an immune-mediated or infectious complication. This contrasts with immune checkpoint inhibitor-related pneumonitis, which is immune-mediated.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. Immune-related adverse events (irAEs) are characteristic of immune checkpoint inhibitors, not mTOR inhibitors. While *TSC2*-deficient tumors can respond to ICIs (Ref 50), the patient is currently on an mTOR inhibitor, and the question asks about the pathogenesis of *his current* pulmonary findings.",
+      "B": "Correct. mTOR inhibitors are known to cause interstitial lung disease as an 'on-target' effect (Ref 126), meaning the toxicity is a direct consequence of the drug's mechanism of action on the mTOR pathway, which is dysregulated in TSC2-mutated cells.",
+      "C": "Plausible but incorrect as the primary explanation. While mTOR inhibitors can be immunosuppressive and increase infection risk, the described clinical and radiological picture, especially with lymphocytosis in BAL, is more characteristic of drug-induced ILD than an opportunistic infection as the primary event.",
+      "D": "Incorrect. There is no evidence presented or generally known that *TSC2* mutations specifically predispose to a unique form of hypersensitivity pneumonitis requiring antifungal agents. Antifungal therapy would be indicated if a fungal infection was identified."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_11f0562c",
+    "question": "A 35-year-old male with a known history of Neurofibromatosis type 1 (NF1), characterized by multiple café au lait macules and cutaneous neurofibromas, presents with progressive dyspnea and cough. Imaging reveals a large, heterogeneous mass in the right lower lobe. Bronchoscopy with biopsy confirms a primary lung malignancy. Considering the patient's underlying condition, which of the following rare primary lung tumors is specifically noted to have an increased association with NF1?",
+    "options": {
+      "A": "Primary lung carcinosarcoma",
+      "B": "Pulmonary pleomorphic carcinoma",
+      "C": "Large cell neuroendocrine carcinoma",
+      "D": "Epithelioid hemangioendothelioma"
+    },
+    "correctAnswer": "A",
+    "topic": "Rare Primary Lung Tumors",
+    "deepDiveExplanation": "The provided text explicitly states the coexistence of malignant tumors in NF1, specifically mentioning 'rare cases of primary lung carcinosarcoma and primary lung rhabdomyosarcoma' in patients with NF1. This highlights a direct, though rare, association between NF1 and these specific histological types of primary lung tumors, making it the most accurate choice based on the given context.",
+    "highYieldPearl": "Rio's Take: While NF1 predisposes to various benign and malignant tumors, primary lung carcinosarcoma and rhabdomyosarcoma are distinct rare pulmonary malignancies with documented associations, emphasizing the systemic oncogenic potential of neurofibromin dysfunction.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option is directly supported by the provided text, making it the correct answer. It requires careful recall of specific tumor associations with NF1.",
+      "B": "Pulmonary pleomorphic carcinoma is indeed a rare, aggressive subtype of non-small cell lung cancer, making it a plausible distracter in a question about 'rare primary lung tumors.' However, the text does not specifically link it to NF1.",
+      "C": "Large cell neuroendocrine carcinoma is another aggressive, less common subtype of NSCLC. While rare, it is not mentioned in the provided context as having an increased association with NF1, making it a less specific answer.",
+      "D": "Epithelioid hemangioendothelioma is a rare vascular tumor of the lung. Like options B and C, it is a rare lung tumor, but there is no specific association with NF1 mentioned in the provided text."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_7257fb95",
+    "question": "A 62-year-old female with known Neurofibromatosis type 1 (NF1) presents with progressive exertional dyspnea, New York Heart Association functional class III. Evaluation confirms severe pulmonary hypertension (PH) with a mean pulmonary arterial pressure of 52 mmHg. Her chest CT scan also reveals bilateral upper lobe cystic changes. All of the following statements regarding the pulmonary manifestations of NF1 are correct, EXCEPT:",
+    "options": {
+      "A": "Pulmonary hypertension in NF1 is classified as Group 5 and typically presents late in the disease course.",
+      "B": "Imaging often reveals upper lobe cysts and bullous disease, which may have thicker walls than smoking-related emphysema.",
+      "C": "The loss of neurofibromin protein leads to increased Ras proteins, contributing to pulmonary arterial remodeling.",
+      "D": "Pulmonary hypertension associated with NF1 usually demonstrates a favorable and sustained response to pulmonary vasodilator therapies."
+    },
+    "correctAnswer": "D",
+    "topic": "Rare Primary Lung Tumors",
+    "deepDiveExplanation": "The provided text clearly states, 'The limited response to specific PH therapies and the poor prognosis of PH associated with NF1 indicate the need for prompt referral to lung transplantation centers following diagnosis.' This directly contradicts option D, which claims a favorable and sustained response to vasodilators. The other options (A, B, C) are all explicitly supported by the text: A. 'categorized as group 5... presentation late in the course of NF, with median age at diagnosis of 57 years.' B. 'Cysts and bullous disease are common, particularly in the upper lobes... some of these cystic and bullous lesions may have thicker and more sharply defined walls than similar lesions observed in cases of smoking‑related emphysema.' C. 'The loss of neurofibromin protein accelerates the production of Ras proteins... Moreover, proliferation and migration of endothelial cells cause pronounced pulmonary arterial remodeling and uniform wall thickening in cases associated with PH.'",
+    "highYieldPearl": "Rio's Take: NF1's pulmonary manifestations extend beyond simple neurofibromas, encompassing severe pulmonary hypertension (often refractory to conventional therapy, necessitating transplant evaluation) and characteristic cystic lung changes, all underpinned by the fundamental neurofibromin-Ras pathway dysregulation.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a correct statement from the text. It serves as a distracter by presenting accurate information about PH classification and typical presentation.",
+      "B": "This is also a correct statement, detailing characteristic imaging findings in NF1. It traps those who might confuse NF1-related cysts with common smoking-related emphysema.",
+      "C": "This option correctly describes the underlying pathophysiology of NF1. It serves as a distracter by testing knowledge of the molecular basis of the disease.",
+      "D": "This is the INCORRECT statement and thus the correct answer. It's a common trap to assume all forms of PH respond similarly to vasodilators, but NF1-associated PH is explicitly noted for its limited response and poor prognosis, guiding towards early transplantation evaluation."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_abe48580",
+    "question": "A 45-year-old male with a documented history of Neurofibromatosis type 1 (NF1), characterized by multiple cutaneous neurofibromas and Lisch nodules, presents with progressive back pain and radiculopathy. Chest MRI reveals a large, lobulated posterior mediastinal mass with heterogeneous signal intensity, local invasion, and erosion of the adjacent vertebral body. Given the patient's underlying condition and imaging findings, which of the following is the MOST likely diagnosis?",
+    "options": {
+      "A": "Malignant Peripheral Nerve Sheath Tumor (MPNST)",
+      "B": "Posterior mediastinal meningioma",
+      "C": "Benign mediastinal neurofibroma",
+      "D": "Mediastinal lipoma with degenerative changes"
+    },
+    "correctAnswer": "A",
+    "topic": "Rare Primary Lung Tumors",
+    "deepDiveExplanation": "Patients with NF1 have a significant risk of developing mediastinal masses. The text states that 15% of NF1 patients have mediastinal masses, with 50% being neurofibromas and others including malignant peripheral nerve sheath tumors (MPNSTs) and meningoceles. The presence of 'local invasion and erosion of the adjacent vertebral body' is a strong indicator of a malignant and aggressive process. While benign neurofibromas can occur in the posterior mediastinum of NF1 patients, they are less likely to cause significant bone erosion or local invasion. MPNSTs are known to arise in NF1, often from pre-existing neurofibromas, and are aggressive tumors capable of local invasion and bone destruction. The 'posterior' location is characteristic for neurogenic tumors, including MPNSTs. Table 115.1 also links 'erosion or destruction of bone' in the posterior mediastinum to 'tumors of peripheral nerves,' which includes MPNSTs.",
+    "highYieldPearl": "Rio's Take: In NF1 patients with a posterior mediastinal mass, particularly when imaging shows aggressive features like local invasion or bone erosion, an MPNST must be highly suspected. These are often difficult to distinguish from benign neurofibromas on imaging alone but clinical signs of rapid growth or local destruction are red flags.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Malignant Peripheral Nerve Sheath Tumor (MPNST) is the most likely diagnosis. It is a known, aggressive complication in NF1 patients, typically arising in the posterior mediastinum, and capable of local invasion and bone erosion, aligning perfectly with the aggressive imaging findings.",
+      "B": "Posterior mediastinal meningioma is less commonly found in the mediastinum compared to MPNST, even though meningiomas can be associated with NF1 (though more strongly with NF2). It's a less probable cause for such destructive features in this specific clinical context.",
+      "C": "Benign mediastinal neurofibroma is a very plausible option given the NF1 diagnosis and posterior mediastinal location. However, the critical differentiating factor is the 'local invasion and erosion of the adjacent vertebral body,' which is highly atypical for a benign lesion and strongly points towards a malignant transformation or an MPNST from the outset. This is a strong distractor.",
+      "D": "Mediastinal lipoma with degenerative changes: While lipomas are fatty tumors and can occur in the mediastinum, they are benign and do not typically cause vertebral body erosion or aggressive local invasion. It is not specifically associated with NF1 in the context of mediastinal masses with destructive features."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_687176fe",
+    "question": "A 45-year-old male with a known diagnosis of Neurofibromatosis Type 1 (NF1) presents with a persistent cough and recent hemoptysis. A chest computed tomography (CT) scan reveals a new, ill-defined mass in the right upper lobe. Considering his underlying genetic condition, which of the following rare primary lung tumors is specifically mentioned as being associated with NF1 in the provided context?",
+    "options": {
+      "A": "Primary lung rhabdomyosarcoma",
+      "B": "Typical carcinoid tumor",
+      "C": "Pleuropulmonary blastoma",
+      "D": "Pulmonary epithelioid hemangioendothelioma"
+    },
+    "correctAnswer": "A",
+    "topic": "Rare Primary Lung Tumors",
+    "deepDiveExplanation": "The provided text explicitly states that Neurofibromatosis Type 1 (NF1) is associated with rare cases of primary lung carcinosarcoma and primary lung rhabdomyosarcoma. Therefore, primary lung rhabdomyosarcoma is a direct association mentioned in the context of rare primary lung tumors in NF1 patients.",
+    "highYieldPearl": "Rio's Take: Always consider specific rare tumor associations when dealing with genetic syndromes like NF1, especially when the vignette points to new mass lesions. NF1 has documented links to rare primary lung carcinosarcoma and rhabdomyosarcoma.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct option. This is explicitly mentioned in the provided text as a rare primary lung tumor associated with NF1.",
+      "B": "Typical carcinoid tumors are relatively rare neuroendocrine tumors but are not specifically highlighted in the provided text as *the* rare primary lung tumor uniquely associated with NF1 in the context of its specific oncogenic spectrum.",
+      "C": "Pleuropulmonary blastoma is a rare and aggressive pediatric lung tumor, typically seen in younger patients and not specifically linked to NF1 in the provided information.",
+      "D": "Pulmonary epithelioid hemangioendothelioma (PEH) is a rare vascular tumor of the lung. While rare, it is not listed in the provided text as a specific primary lung tumor associated with NF1."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_8fcb6a84",
+    "question": "A 55-year-old female with a long-standing diagnosis of Neurofibromatosis Type 1 (NF1) presents for her annual check-up. A surveillance chest CT scan reveals a 3 cm spiculated mass in the left lower lobe, concerning for a primary lung neoplasm. Considering the known associations with NF1, which of the following rare primary lung tumors is specifically noted to coexist in patients with this condition in the provided information?",
+    "options": {
+      "A": "Primary lung carcinosarcoma",
+      "B": "Lymphoepithelioma-like carcinoma",
+      "C": "Adenoid cystic carcinoma",
+      "D": "Mucoepidermoid carcinoma"
+    },
+    "correctAnswer": "A",
+    "topic": "Rare Primary Lung Tumors",
+    "deepDiveExplanation": "The provided text indicates that Neurofibromatosis Type 1 (NF1) has reported coexistence with rare cases of primary lung carcinosarcoma and primary lung rhabdomyosarcoma. Therefore, primary lung carcinosarcoma is a direct association mentioned in the given information.",
+    "highYieldPearl": "Rio's Take: Patients with NF1 have an increased risk of specific rare primary lung tumors, including carcinosarcoma and rhabdomyosarcoma. A high index of suspicion is crucial for new lung masses in these individuals.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct option. This is explicitly mentioned in the provided text as a rare primary lung tumor associated with NF1.",
+      "B": "Lymphoepithelioma-like carcinoma of the lung is a rare subtype of non-small cell lung cancer, often linked to Epstein-Barr virus, but it is not specifically mentioned in the provided text as an NF1-associated rare primary lung tumor.",
+      "C": "Adenoid cystic carcinoma is a rare salivary gland type tumor that can occur in the tracheobronchial tree, but it is not listed in the provided text as a specific primary lung tumor associated with NF1.",
+      "D": "Mucoepidermoid carcinoma is another rare salivary gland type tumor of the lung, but it is not specifically listed in the provided text as an NF1-associated rare primary lung tumor."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_027ad3ef",
+    "question": "A 38-year-old female with an established diagnosis of Neurofibromatosis Type 1 (NF1) presents with dyspnea and persistent cough. A chest CT scan reveals a new, enlarging pulmonary nodule in the right lower lobe. While specific rare primary lung tumors are associated with NF1, what is the approximate reported overall incidence of neoplasia in patients with NF1, according to the provided information, which underscores the importance of thoroughly investigating such new findings?",
+    "options": {
+      "A": "Approximately 75%",
+      "B": "Approximately 50%",
+      "C": "Approximately 25%",
+      "D": "Approximately 10%"
+    },
+    "correctAnswer": "A",
+    "topic": "Rare Primary Lung Tumors",
+    "deepDiveExplanation": "The provided text explicitly states, 'Incidence of neoplasia: 76 % with reported coexistence of different malignant tumors in the same patient...'. This high incidence highlights the significantly increased overall risk of developing various neoplasms, including rare primary lung tumors, in patients with NF1, making the investigation of new pulmonary nodules crucial.",
+    "highYieldPearl": "Rio's Take: Patients with NF1 have a significantly elevated lifetime risk of developing various neoplasms; any new mass or suspicious lesion, including pulmonary nodules, warrants thorough and prompt investigation due to this high predisposition.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct option. The text directly states an incidence of '76%', which is best approximated by 'Approximately 75%'.",
+      "B": "Approximately 50% is significantly lower than the stated incidence and would underestimate the neoplastic risk in NF1 patients.",
+      "C": "Approximately 25% is far too low and does not reflect the high oncogenic potential described in the text for NF1.",
+      "D": "Approximately 10% is a drastic underestimation and would severely misrepresent the reported neoplastic risk in NF1."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_9be45a39",
+    "question": "A 45-year-old male with long-standing Neurofibromatosis type 1 (NF1) presents with progressive dyspnea, dry cough, and unintentional weight loss over 3 months. His NF1 is characterized by multiple cutaneous neurofibromas, café au lait macules, and Lisch nodules. Recent chest CT shows diffuse cystic changes, predominantly in the upper lobes, along with an 8 cm ill-defined mass in the left lower lobe invading the pleura, and multiple mediastinal lymphadenopathies. Pulmonary function tests show a restrictive pattern and moderate reduction in DLCO.\n\nWhich of the following malignant etiologies is *most strongly* suggested by the clinical context and imaging findings, considering the known associations with NF1 as described in the provided text?",
+    "options": {
+      "A": "Primary pulmonary carcinosarcoma",
+      "B": "Malignant Peripheral Nerve Sheath Tumor (MPNST) involving the lung parenchyma",
+      "C": "Thymic carcinoma with mediastinal and pleural invasion",
+      "D": "Pulmonary lymphangioleiomyomatosis (LAM) with malignant transformation"
+    },
+    "correctAnswer": "A",
+    "topic": "Rare Primary Lung Tumors",
+    "deepDiveExplanation": "The provided text explicitly states, 'Incidence of neoplasia... rare cases of primary lung carcinosarcoma and primary lung rhabdomyosarcoma' in the context of Neurofibromatosis type 1. The clinical presentation of a large (8 cm), ill-defined lung mass invading the pleura, accompanied by mediastinal lymphadenopathies, is highly suggestive of an aggressive primary lung malignancy. Among the options, primary pulmonary carcinosarcoma is directly listed in the text as a rare primary lung tumor associated with NF1. While Malignant Peripheral Nerve Sheath Tumors (MPNSTs) are a significant malignant complication of NF1, the text describes them primarily as mediastinal masses and lists 'primary lung carcinosarcoma' separately, making it the most direct and specific 'primary lung tumor' association mentioned for NF1 in the provided material.",
+    "highYieldPearl": "Rio's Take: In NF1, while MPNSTs are common malignancies, specifically for *primary lung parenchymal tumors*, the text highlights rare associations like carcinosarcoma and rhabdomyosarcoma. Pay attention to how the text categorizes different tumor locations and types.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This option is directly supported by the text's explicit mention of 'primary lung carcinosarcoma' as a rare associated tumor in NF1 patients, aligning with the large, aggressive lung mass described.",
+      "B": "MPNSTs are indeed a major malignancy in NF1 and can arise from intraparenchymal nerves. However, the text lists MPNSTs under 'mediastinal masses' and explicitly mentions 'primary lung carcinosarcoma' as a distinct entity. This option serves as a strong distractor due to the general high association of MPNST with NF1, but for a *primary lung parenchymal mass* specifically, option A is more directly supported by the text's categorization.",
+      "C": "Thymic carcinoma is a mediastinal neoplasm, but there is no specific association with NF1 mentioned in the provided text, nor would it typically present as a primary mass in the left lower lung lobe.",
+      "D": "Pulmonary lymphangioleiomyomatosis (LAM) is characterized by cystic changes, which can be seen in NF1, but LAM itself does not typically undergo malignant transformation into a large solid mass as described, nor is its malignant transformation explicitly linked to NF1 in the given text."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_e8f69f4f",
+    "question": "A 62-year-old female with known Neurofibromatosis type 1 (NF1) presents with worsening exertional dyspnea and fatigue. She has a history of multiple cutaneous neurofibromas and a recent diagnosis of pulmonary hypertension with a mean pulmonary arterial pressure (mPAP) of 52 mmHg. Her chest CT scan reveals widespread thin-walled cysts, predominantly in the upper lobes, some with sizes up to 20 mm. Additionally, there are diffuse, uniform wall thickening of pulmonary arteries and mild right ventricular enlargement.\n\nConsidering her NF1 diagnosis and the described clinical and imaging features, which of the following represents the most appropriate initial management approach, and what specific pulmonary vascular pathology should be strongly suspected if vasodilator therapy causes respiratory decompensation?",
+    "options": {
+      "A": "Initiate sildenafil; suspect pulmonary arterial hypertension (PAH) associated with collagen vascular disease.",
+      "B": "Initiate bosentan; suspect idiopathic pulmonary arterial hypertension (IPAH).",
+      "C": "Prompt referral for lung transplantation evaluation; suspect pulmonary veno-occlusive disease (PVOD).",
+      "D": "Initiate calcium channel blockers; suspect chronic thromboembolic pulmonary hypertension (CTEPH)."
+    },
+    "correctAnswer": "C",
+    "topic": "Rare Primary Lung Tumors (context: NF1 associated complications)",
+    "deepDiveExplanation": "The provided text on NF1-associated pulmonary hypertension (PH) states: 'The limited response to specific PH therapies and the poor prognosis of PH associated with NF1 indicate the need for prompt referral to lung transplantation centers following diagnosis.' This makes prompt referral for lung transplantation the most appropriate *initial* management for severe NF1-PH. For the second part of the question, the text explicitly states: 'questions about a relatively high prevalence of pulmonary veno-occlusive disease have been raised, given the development of respiratory failure following the initiation of vasodilators.' This directly links PVOD as the specific pathology to strongly suspect if vasodilator therapy leads to respiratory decompensation in NF1-PH.",
+    "highYieldPearl": "Rio's Take: Severe PH in NF1 often has poor prognosis with conventional therapies, necessitating early lung transplant evaluation. Always be wary of PVOD/PCH in Group 5 PH when considering vasodilators, as they can cause acute decompensation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "While sildenafil is a common PH-approved vasodilator, the text advises *against* relying on specific PH therapies as the primary initial management for NF1-PH due to poor response. Collagen vascular disease is not presented as the underlying cause of PH in NF1 in the provided context.",
+      "B": "Similar to option A, initiating specific PH therapies like bosentan is not the recommended *initial* approach for NF1-PH according to the text. NF1-PH is categorized as Group 5 ('unclear and/or multifactorial mechanisms'), not specifically as IPAH.",
+      "C": "This option correctly identifies both the recommended initial management (prompt referral for lung transplantation) and the specific vascular pathology linked to vasodilator-induced respiratory decompensation (PVOD) directly from the provided text.",
+      "D": "Calcium channel blockers are appropriate only for a very small subset of PH patients who are vasoreactive, which is not generally the case for Group 5 PH. CTEPH (Group 4 PH) is a distinct type of PH and is not mentioned in association with NF1 in the text."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_1e60e699",
+    "question": "A 30-year-old female with a long-standing diagnosis of Neurofibromatosis type 1 (NF1) presents with mild dysphagia and a nagging cough. Physical examination reveals multiple cutaneous neurofibromas and axillary freckling. Chest CT scan shows a well-defined, homogeneous mass in the posterior mediastinum, measuring 6 cm, exhibiting fat density and associated with mild erosion of an adjacent vertebral body.\n\nBased on the provided information, what is the *most likely* diagnosis for this mediastinal mass?",
+    "options": {
+      "A": "Malignant Peripheral Nerve Sheath Tumor (MPNST)",
+      "B": "Mediastinal liposarcoma",
+      "C": "Meningocele",
+      "D": "Neurofibroma"
+    },
+    "correctAnswer": "D",
+    "topic": "Rare Primary Lung Tumors (context: NF1 associated mediastinal tumors)",
+    "deepDiveExplanation": "The patient has NF1, and the text states that 'Mediastinal masses are present in 15% of cases; 50% correspond to neurofibromas,' making neurofibromas the most common mediastinal mass in this condition. Neurofibromas are neurogenic tumors. Table 115.1, under 'CT Findings and Likely Etiology in Mediastinal Disease,' links 'Fat density' to 'Posterior: neurogenic tumor.' Furthermore, 'tumors of peripheral nerves' (which includes neurofibromas) and 'neurofibromatosis' itself are listed in relation to 'Erosion or destruction of bone' or 'Spine or rib deformity.' While classic neurofibromas are usually soft tissue density, the explicit link of 'fat density' to 'neurogenic tumor' in the table, combined with the high prevalence of neurofibromas in NF1 mediastinum and their potential for bone erosion, makes a neurofibroma (perhaps with fatty infiltration or degeneration) the most likely diagnosis that synthesizes all the textual information.",
+    "highYieldPearl": "Rio's Take: In NF1, neurofibromas are the predominant mediastinal masses. Complex imaging findings (like fat density in a neurogenic tumor) require careful cross-referencing with general radiological principles and specific disease associations provided in the text.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "MPNSTs are serious complications of NF1 and can cause bone erosion. However, they are typically heterogeneous, aggressive, and usually soft tissue density, not predominantly fat density as described for this homogeneous mass.",
+      "B": "Mediastinal liposarcoma would fit the 'fat density' description. However, the provided text does not mention a specific association between liposarcoma and NF1, nor is it listed among the specific mediastinal masses associated with NF1, making it less likely than a neurofibroma in this context.",
+      "C": "Meningoceles are associated with NF1 and can cause bone erosion. However, they are fluid-density (CSF-density) lesions, not fat-density, making this option inconsistent with the imaging description.",
+      "D": "This option best integrates the patient's NF1 diagnosis (high prevalence of neurofibromas), the CT findings linking 'fat density' to 'neurogenic tumor' in the posterior mediastinum, and the association of 'tumors of peripheral nerves' with bone erosion, as described in the provided text."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_18f017b9",
+    "question": "A 45-year-old female with a known history of Neurofibromatosis type 1 (NF1), characterized by multiple café au lait macules and cutaneous neurofibromas, presents with a persistent cough and hemoptysis. Chest CT reveals a large, ill-defined mass in the right lower lobe. Given her underlying condition, which of the following rare primary lung tumors is specifically noted to be associated with NF1?",
+    "options": {
+      "A": "Primary lung carcinosarcoma",
+      "B": "Primary pulmonary angiosarcoma",
+      "C": "Bronchial adenoid cystic carcinoma",
+      "D": "Pulmonary mucinous adenocarcinoma"
+    },
+    "correctAnswer": "A",
+    "topic": "Rare Primary Lung Tumors",
+    "deepDiveExplanation": "Neurofibromatosis type 1 (NF1) is a genetic disorder associated with an increased risk of various neoplasms. The provided text specifically mentions the coexistence of 'primary lung carcinosarcoma' and 'primary lung rhabdomyosarcoma' with NF1. These are rare and aggressive forms of primary lung tumors. The loss of neurofibromin protein in NF1 accelerates Ras protein production, contributing to cellular proliferation and differentiation abnormalities, which can predispose to the development of such tumors.",
+    "highYieldPearl": "Rio's Take: Remember that NF1, due to its genetic basis affecting cell growth pathways, can be linked to rare and unusual malignancies. Among primary lung tumors, carcinosarcoma and rhabdomyosarcoma are specifically noted associations in patients with NF1.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option is directly stated in the provided text as a rare primary lung tumor associated with NF1. The clinical vignette establishes the NF1 diagnosis and the presence of a lung mass, making this the most appropriate answer based on direct recall.",
+      "B": "While primary pulmonary angiosarcoma is a rare lung tumor, its specific association with NF1 is not mentioned in the provided text, making it a plausible but incorrect distractor.",
+      "C": "Bronchial adenoid cystic carcinoma is a rare primary lung tumor, often arising from salivary gland-type tissue in the tracheobronchial tree. However, the text does not link it specifically to NF1.",
+      "D": "Pulmonary mucinous adenocarcinoma is a subtype of adenocarcinoma, which is a common form of lung cancer. While lung cancer can occur in anyone, this specific subtype is not highlighted as a particular association with NF1 in the context of rare primary lung tumors."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_a5e0de78",
+    "question": "A 35-year-old patient diagnosed with Neurofibromatosis type 1 (NF1) undergoes a routine chest CT scan due to mild exertional dyspnea. The scan reveals multiple bilateral lung cysts, predominantly in the upper lobes, measuring 10-20 mm. Which characteristic describes these cystic lesions in NF1 as per the provided information?",
+    "options": {
+      "A": "They are typically thin-walled, similar to paraseptal emphysema.",
+      "B": "Their presence is strongly correlated with a negative smoking history.",
+      "C": "They frequently lead to significant mediastinal shift.",
+      "D": "Their walls may be thicker and more sharply defined than those seen in smoking-related emphysema."
+    },
+    "correctAnswer": "D",
+    "topic": "Rare Primary Lung Tumors (Pulmonary Manifestations of NF1)",
+    "deepDiveExplanation": "The provided text on Neurofibromatosis type 1 details abnormal chest CT findings, including cystic changes and emphysema. It states that 'Cysts and bullous disease are common, particularly in the upper lobes, with sizes ranging between 8 and 25 mm; some of these cystic and bullous lesions may have thicker and more sharply defined walls than similar lesions observed in cases of smoking-related emphysema.' This characteristic helps differentiate NF1-related cysts from typical smoking-related emphysema.",
+    "highYieldPearl": "Rio's Take: While NF1 patients can have emphysema linked to smoking, their characteristic lung cysts often have distinctly thicker and sharper walls compared to typical emphysematous changes, especially in the upper lobes.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This statement contradicts the provided text, which mentions that the cystic lesions in NF1 'may have thicker and more sharply defined walls' compared to smoking-related emphysema.",
+      "B": "The text states that 'The presence of emphysema seems to be related to a positive smoking history,' implying a correlation with smoking, not a negative history, for some lung changes in NF1.",
+      "C": "While very large bullae or cysts can theoretically cause mediastinal shift, the provided text does not mention this as a frequent characteristic of the typical 8-25 mm cysts observed in NF1. This is an uncommon complication for the described size range.",
+      "D": "This statement directly reflects the information provided in the text regarding the distinct appearance of NF1-related lung cysts compared to smoking-related emphysema, making it the correct answer."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_455ceb33",
+    "question": "A 50-year-old male with a long-standing diagnosis of Neurofibromatosis type 1 (NF1) presents with vague chest discomfort. A chest CT scan reveals a posterior mediastinal mass associated with erosion of an adjacent vertebral body. Considering his underlying condition, which of the following is the most likely etiology for this mediastinal mass?",
+    "options": {
+      "A": "Thymic carcinoma",
+      "B": "Esophageal leiomyoma",
+      "C": "Neurofibroma",
+      "D": "Bronchogenic cyst"
+    },
+    "correctAnswer": "C",
+    "topic": "Rare Primary Lung Tumors (Mediastinal Involvement in NF1)",
+    "deepDiveExplanation": "The provided text explicitly states that in NF1 patients, 'Mediastinal masses are present in 15% of cases; 50% correspond to neurofibromas, and others are malignant peripheral nerve sheath tumors, meningoceles, and other causes.' Furthermore, Table 115.1, 'CT Findings and Likely Etiology in Mediastinal Disease,' lists 'Neurofibromatosis' under 'Spine or rib deformity' and mentions 'tumors of peripheral nerves or sympathetic ganglia, meningocele' as likely etiologies for 'Erosion or destruction of bone' associated with a mass. A neurofibroma is a benign tumor of peripheral nerves and a common mediastinal finding in NF1, consistent with a posterior mediastinal location and potential for bone erosion.",
+    "highYieldPearl": "Rio's Take: In a patient with NF1 and a posterior mediastinal mass, especially one causing bone erosion, a neurofibroma (or a related nerve sheath tumor like MPNST or meningocele) should be high on the differential. Neurofibromas are characteristic features of NF1 and frequently manifest as mediastinal masses.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Thymic carcinoma is an anterior or anterosuperior mediastinal mass and is not specifically linked to NF1 or posterior mediastinal location with bone erosion in the provided context. While a possible mediastinal tumor, it's less likely given the specific features and NF1 history.",
+      "B": "Esophageal leiomyoma is typically a benign, smoothly contoured mass in the middle or posterior mediastinum but is not specifically associated with NF1 or vertebral body erosion in the text.",
+      "C": "Neurofibroma is a classic manifestation of NF1, frequently occurring as a mediastinal mass (often posterior) and capable of causing bone erosion (e.g., remodeling or pressure erosion on vertebrae), making it the most likely etiology given the patient's history and CT findings as per the provided text and table.",
+      "D": "A bronchogenic cyst is a congenital cyst typically found in the middle or posterior mediastinum. While possible, it is usually fluid-filled and does not typically cause bone erosion, nor is it specifically highlighted as a common mediastinal mass in NF1, making it less likely than a neurofibroma in this specific scenario."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_cf8902f2",
+    "question": "A 45-year-old male with a known history of Neurofibromatosis type 1 (NF1), characterized by multiple café au lait macules, cutaneous neurofibromas, and Lisch nodules, presents with new-onset cough and hemoptysis. A chest CT reveals a 4 cm cavitary mass in the right upper lobe, distinct from his known subcutaneous neurofibromas. Bronchoscopy with biopsy is planned. Given his underlying condition, which of the following primary lung tumors, though rare, should be strongly considered in the differential diagnosis?",
+    "options": {
+      "A": "Primary lung carcinosarcoma",
+      "B": "Pulmonary adenocarcinoma",
+      "C": "Small cell lung carcinoma",
+      "D": "Malignant peripheral nerve sheath tumor (MPNST) of the lung"
+    },
+    "correctAnswer": "A",
+    "topic": "Rare Primary Lung Tumors",
+    "deepDiveExplanation": "Neurofibromatosis type 1 (NF1) is associated with a high incidence of neoplasia, and while many tumors are neurofibroma-type or malignant peripheral nerve sheath tumors, the provided text specifically mentions 'rare cases of primary lung carcinosarcoma and primary lung rhabdomyosarcoma' as primary lung tumors that can occur in NF1 patients. Therefore, in an NF1 patient presenting with a new lung mass, these rare primary lung tumors should be strongly considered in the differential diagnosis.",
+    "highYieldPearl": "Rio's Take: Always consider the specific rare tumor associations with genetic syndromes like NF1 when evaluating new masses, even if they are infrequent in the general population.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a direct association mentioned in the text for NF1 patients developing a primary lung tumor.",
+      "B": "Pulmonary adenocarcinoma is a common primary lung cancer, but the question specifically asks for a rare primary lung tumor strongly associated with NF1, which adenocarcinoma is not described as in the provided context.",
+      "C": "Small cell lung carcinoma is another common primary lung cancer, not specifically highlighted as a rare primary lung tumor associated with NF1 in the text.",
+      "D": "Malignant peripheral nerve sheath tumors (MPNSTs) are indeed common malignancies in NF1, and they can arise in the mediastinum from nerve tissue. However, the text specifically lists 'primary lung carcinosarcoma and primary lung rhabdomyosarcoma' when referring to rare *primary lung tumors* within the lung parenchyma in NF1, not typically MPNSTs arising *primarily* within the lung parenchyma as opposed to nerve structures."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_620de787",
+    "question": "A 50-year-old male with long-standing Neurofibromatosis type 1 (NF1) presents with vague chest discomfort and mild dyspnea. A chest CT scan reveals a 3 cm soft-tissue mass in the posterior mediastinum, adjacent to the thoracic spine, and a separate 2 cm solid, non-cavitary nodule within the right lower lobe parenchyma. Which of the following statements regarding the potential diagnoses for these findings in a patient with NF1 is most accurate?",
+    "options": {
+      "A": "The posterior mediastinal mass is most likely a primary lung carcinosarcoma, while the lung nodule is typically a benign neurofibroma.",
+      "B": "The posterior mediastinal mass should be primarily considered a neurofibroma or MPNST, and the lung nodule could represent a rare primary lung tumor like carcinosarcoma.",
+      "C": "Both masses are most likely metastatic adenocarcinoma from an occult primary source.",
+      "D": "The lung nodule is highly suspicious for a common benign granuloma, and the mediastinal mass is likely an esophageal duplication cyst."
+    },
+    "correctAnswer": "B",
+    "topic": "Rare Primary Lung Tumors",
+    "deepDiveExplanation": "In NF1 patients, mediastinal masses are common (15% incidence), with 50% corresponding to neurofibromas and others being malignant peripheral nerve sheath tumors (MPNSTs) or meningoceles. These neurogenic tumors typically arise in the posterior mediastinum. Therefore, a posterior mediastinal soft-tissue mass in an NF1 patient should primarily raise suspicion for a neurofibroma or MPNST. Separately, the text mentions 'rare cases of primary lung carcinosarcoma and primary lung rhabdomyosarcoma' as specific primary lung tumors associated with NF1. Thus, a solid parenchymal lung nodule in this context could indeed represent one of these rare primary lung tumors. This option accurately reflects the specific neoplastic risks and locations mentioned in the provided text for NF1.",
+    "highYieldPearl": "Rio's Take: Differentiate between mediastinal neurogenic tumors (common in NF1) and rare primary lung parenchymal tumors when evaluating lung and mediastinal lesions in NF1 patients.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Primary lung carcinosarcoma is a lung parenchymal tumor, not typically found in the posterior mediastinum. Benign neurofibromas are characteristic of NF1, but they are usually cutaneous, subcutaneous, or mediastinal, not typically primary lung parenchymal nodules.",
+      "B": "This option correctly identifies the high likelihood of a neurogenic tumor (neurofibroma or MPNST) for the posterior mediastinal mass in NF1 and correctly attributes the potential for a rare primary lung tumor (like carcinosarcoma) to the lung nodule, aligning with the text.",
+      "C": "While metastasis is a possibility for any mass, this option overlooks the specific high incidence of neurogenic tumors in the mediastinum and rare primary lung tumors in the lung parenchyma associated with NF1.",
+      "D": "Though benign granulomas and esophageal duplication cysts exist, these are not the primary considerations for masses in NF1, which has its own strong predispositions. This option fails to prioritize the NF1-specific pathology."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_b67f6bbd",
+    "question": "A 48-year-old female with a long-standing history of Neurofibromatosis type 1 (NF1) is diagnosed with a primary lung carcinosarcoma following a lung biopsy for a peripheral mass. The diagnosis of this rare tumor type in the setting of NF1 is significant. Considering the information provided about NF1 and its associated neoplasms, what is a key implication for the management or understanding of this patient's condition?",
+    "options": {
+      "A": "The presence of multiple café au lait macules typically indicates a more favorable prognosis for her lung tumor.",
+      "B": "Close surveillance for other synchronous or metachronous malignancies, including other rare primary lung tumors, is crucial due to high neoplasia incidence in NF1.",
+      "C": "This rare primary lung tumor is typically highly responsive to standard chemotherapy regimens due to its neurofibromin deficiency.",
+      "D": "Pulmonary hypertension, a common complication of NF1, is a direct contraindication to any surgical resection of her lung tumor."
+    },
+    "correctAnswer": "B",
+    "topic": "Rare Primary Lung Tumors",
+    "deepDiveExplanation": "The provided text highlights a high 'Incidence of neoplasia: 76% with reported coexistence of different malignant tumors in the same patient' in NF1. Therefore, the diagnosis of a primary lung carcinosarcoma in an NF1 patient necessitates vigilance for other synchronous or metachronous malignancies. This comprehensive approach to surveillance is a critical aspect of managing NF1 patients due to their inherent predisposition to various tumors.",
+    "highYieldPearl": "Rio's Take: NF1 is a major tumor predisposition syndrome. A diagnosis of one malignancy in an NF1 patient should trigger heightened awareness and surveillance for other co-existing or future tumors.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Café au lait macules are diagnostic criteria for NF1, not prognostic indicators for specific malignancies. There is no information in the text to support this claim regarding prognosis.",
+      "B": "This option is directly supported by the text which states a high incidence of neoplasia (76%) and 'coexistence of different malignant tumors in the same patient,' underscoring the importance of surveillance for other malignancies in NF1 patients.",
+      "C": "The text mentions the role of neurofibromin deficiency in Ras pathway activation, which is linked to tumor development, but it does not provide information about specific chemotherapy responsiveness for rare primary lung tumors in NF1. This is an unsupported assumption.",
+      "D": "While pulmonary hypertension (PH) is a severe complication of NF1 and can complicate surgery, it is not a 'direct contraindication' in all cases of lung tumor resection. Surgical suitability is determined by a comprehensive assessment of PH severity, overall cardiac function, and operative risk. The text describes PH as having a poor prognosis and limited response to vasodilators, but not as an absolute contraindication to all surgeries."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_3f1ce24f",
+    "question": "A 48-year-old male with confirmed Neurofibromatosis type 1 (NF1) presents with hemoptysis and a new lung mass on chest X-ray. He has a significant smoking history. All of the following are potential pulmonary manifestations or tumor associations that could be observed in this patient, EXCEPT:",
+    "options": {
+      "A": "Diffuse upper lobe cystic changes and bullous disease, with some cysts showing thicker and more sharply defined walls.",
+      "B": "Pulmonary hypertension with features suggesting pulmonary veno-occlusive disease, leading to poor response to vasodilators.",
+      "C": "Primary lung rhabdomyosarcoma detected on biopsy of the lung mass.",
+      "D": "A posterior mediastinal mass with fat density, identified as a neurofibroma."
+    },
+    "correctAnswer": "D",
+    "topic": "Rare Primary Lung Tumors",
+    "deepDiveExplanation": "Neurofibromatosis type 1 (NF1) has a wide range of pulmonary manifestations. Option A is consistent as the text states, 'Cysts and bullous disease are common, particularly in the upper lobes... some of these cystic and bullous lesions may have thicker and more sharply defined walls than similar lesions observed in cases of smoking‑related emphysema.' Option B is also accurate, as the text notes 'Pulmonary hypertension (PH), categorized as group 5... questions about a relatively high prevalence of pulmonary veno‑occlusive disease have been raised, given the development of respiratory failure following the initiation of vasodilators.' Option C refers to rare primary lung tumors, and the text explicitly mentions 'rare cases of primary lung carcinosarcoma and primary lung rhabdomyosarcoma' in NF1 patients, making this a plausible, though rare, association. Option D is incorrect. While posterior mediastinal masses in NF1 are common and often neurofibromas (50% of cases), neurofibromas are nerve sheath tumors that are typically solid and would not exhibit fat density on imaging. Fat density in a mediastinal mass would suggest a lipoma or liposarcoma, or potentially other specific lesions, but not a typical neurofibroma itself. The provided Table 115.1 links 'Fat density' to 'Posterior: neurogenic tumor' as a general possibility, but a neurofibroma is not characterized by fat density.",
+    "highYieldPearl": "Rio's Take: While NF1 is associated with a spectrum of pulmonary findings, including rare lung tumors and PH, imaging characteristics are key. Neurofibromas, a common mediastinal mass in NF1, are solid tumors, not fat-dense.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Plausible. Tests the nuance of cyst wall thickness in NF1 compared to smoking-related emphysema.",
+      "B": "Plausible. Tests knowledge of PH classification, specific complications (PVOD), and management challenges in NF1.",
+      "C": "Plausible. Directly tests the association of NF1 with specific rare primary lung tumors mentioned in the text.",
+      "D": "The trap lies in combining 'fat density' with 'neurofibroma'. While NF1 patients can have mediastinal neurofibromas, these are solid. The Table 115.1 entry 'Fat density | Posterior: neurogenic tumor' can be misleading if interpreted that neurofibromas *themselves* are fat-dense, rather than a general association for a posterior mass that *could be* neurogenic but the fat density points to another type of lesion."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_d828d26e",
+    "question": "A 60-year-old female with long-standing Neurofibromatosis type 1 (NF1) presents with severe dyspnea on exertion, diagnosed with Group 5 pulmonary hypertension with an average mean pulmonary arterial pressure of 48 mmHg. She is classified as NYHA functional class III. Which of the following is the most appropriate initial management approach for her pulmonary hypertension?",
+    "options": {
+      "A": "Initiate empiric combination therapy with a phosphodiesterase-5 inhibitor and an endothelin receptor antagonist.",
+      "B": "Promptly refer for lung transplantation evaluation.",
+      "C": "Begin treatment with high-dose corticosteroids due to suspected inflammatory etiology.",
+      "D": "Perform a right heart catheterization to confirm the diagnosis and assess responsiveness to vasoreactivity testing."
+    },
+    "correctAnswer": "B",
+    "topic": "Rare Primary Lung Tumors",
+    "deepDiveExplanation": "The provided text specifically addresses the management of pulmonary hypertension (PH) associated with NF1. It states, 'There are no clear recommendations for this group for the use of PH‑approved drugs. Evidence of capillary hemangiomatosis has been described, and questions about a relatively high prevalence of pulmonary veno‑occlusive disease have been raised, given the development of respiratory failure following the initiation of vasodilators 91. The limited response to specific PH therapies and the poor prognosis of PH associated with NF1 indicate the need for prompt referral to lung transplantation centers following diagnosis 90.' Given the severe functional impairment (NYHA III) and the described poor prognosis and limited response to standard PH therapies, prompt referral for lung transplantation evaluation (Option B) is the most appropriate initial management step, prioritizing this pathway over conventional pharmacotherapy due to the specific challenges of NF1-PH.",
+    "highYieldPearl": "Rio's Take: NF1-associated PH (Group 5) has a poor prognosis and limited response to standard vasodilators, necessitating early consideration of lung transplantation.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a common approach for Group 1 PAH, but the text explicitly states no clear recommendations for PH-approved drugs in NF1-PH, and raises concerns about vasodilators in potential PVOD, making empiric combination therapy a less appropriate *initial* step.",
+      "B": "This is the correct answer, based on the text's clear recommendation due to limited response to therapy and poor prognosis.",
+      "C": "There is no mention of corticosteroids or inflammatory etiology in the context of NF1-associated PH in the provided text.",
+      "D": "While right heart catheterization is crucial for PH diagnosis and classification, the question asks for the *initial management approach* given an already diagnosed PH. Vasoreactivity testing is primarily for Group 1 PAH and is typically not recommended for Group 5 or suspected PVOD, as vasodilators can be harmful."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_5e4220a8",
+    "question": "A 35-year-old patient with recently diagnosed Neurofibromatosis type 1 (NF1) undergoes a routine chest CT scan which reveals a posterior mediastinal mass. All of the following imaging features of the mass are consistent with findings that can be observed in NF1 patients, EXCEPT:",
+    "options": {
+      "A": "The mass is a well-circumscribed, homogenously solid lesion, consistent with a neurofibroma.",
+      "B": "The mass shows intense enhancement on post-contrast imaging, suggestive of a paraganglioma.",
+      "C": "The mass is associated with erosion of adjacent vertebral bone, raising suspicion for a malignant peripheral nerve sheath tumor.",
+      "D": "The mass is a cystic lesion demonstrating an air-fluid level, raising suspicion for a teratoma."
+    },
+    "correctAnswer": "D",
+    "topic": "Rare Primary Lung Tumors",
+    "deepDiveExplanation": "NF1 is associated with specific types of mediastinal masses. Option A is consistent as the text states that '50% correspond to neurofibromas' in mediastinal masses, and neurofibromas are typically solid nerve sheath tumors. Option B, while not explicitly detailing paragangliomas as NF1-associated mediastinal masses, is plausible. The text mentions 'tumors of peripheral nerves or sympathetic ganglia' for posterior mediastinal masses with bone deformity, and Table 115.1 lists 'paraganglioma' under 'Intensely enhancing lesions'. NF1 is a neurocristopathy, and paragangliomas can occur. Option C is consistent, as the text states other mediastinal masses include 'malignant peripheral nerve sheath tumors' (MPNSTs), and Table 115.1 lists 'Erosion or destruction of bone' as a feature for 'tumors of peripheral nerves or sympathetic ganglia'. MPNSTs are malignant and can invade bone. Option D is the least consistent. The text specifically lists 'neurofibromas, and others are malignant peripheral nerve sheath tumors, meningoceles' as NF1-associated mediastinal masses. While Table 115.1 lists 'Air‑fluid level in mass' as a feature of a 'Teratoma', teratomas are germ cell tumors and are not characteristic mediastinal masses specifically associated with NF1 in the provided context, unlike neurogenic tumors.",
+    "highYieldPearl": "Rio's Take: While NF1 patients can develop various tumors, mediastinal masses are characteristically neurofibromas, malignant peripheral nerve sheath tumors, or meningoceles. A teratoma with an air-fluid level is not a typical NF1-associated mediastinal finding.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Plausible. Neurofibromas are common mediastinal masses in NF1 and are typically solid.",
+      "B": "Plausible. Although not explicitly stated as 'paraganglioma' in NF1, the text mentions 'tumors of sympathetic ganglia', and paragangliomas are known intensely enhancing neurogenic tumors that can occur in NF1 patients (though rare). This tests broader knowledge linking NF1 to neurogenic tumors.",
+      "C": "Plausible. MPNSTs are specifically mentioned as NF1-associated mediastinal masses, and bone erosion is a feature of malignant nerve sheath tumors.",
+      "D": "The trap here is that while teratomas can present with air-fluid levels (as per Table 115.1), they are not listed as characteristic mediastinal masses in NF1. The question asks what is 'consistent with findings that can be observed in NF1 patients' concerning the *etiology* of the mass, not just a general imaging feature in the mediastinum."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_c45f36fb",
+    "question": "A 45-year-old male with a known history of Neurofibromatosis type 1 (NF1), characterized by multiple café-au-lait macules, neurofibromas, and Lisch nodules, presents with progressive dyspnea and a cough. A chest CT scan reveals a large, heterogeneous, cavitary mass in the right upper lobe. Bronchoscopy and biopsy are planned. Given his underlying condition, which of the following diagnoses should be highly considered *in addition to* more common lung malignancies?",
+    "options": {
+      "A": "Primary pulmonary angiosarcoma",
+      "B": "Primary lung carcinosarcoma",
+      "C": "Pleuropulmonary blastoma",
+      "D": "Diffuse malignant mesothelioma"
+    },
+    "correctAnswer": "B",
+    "topic": "Rare Primary Lung Tumors",
+    "deepDiveExplanation": "Neurofibromatosis type 1 (NF1) is a genetic disorder associated with an increased risk of various neoplasms. The provided text explicitly states the reported coexistence of different malignant tumors in NF1 patients, including 'rare cases of primary lung carcinosarcoma and primary lung rhabdomyosarcoma'. Therefore, primary lung carcinosarcoma is a rare primary lung tumor specifically associated with NF1 and should be considered in a patient with this genetic predisposition presenting with a lung mass. These tumors are distinct entities from common bronchogenic carcinomas and warrant consideration in the diagnostic workup.",
+    "highYieldPearl": "Rio's Take: Always consider specific rare tumor associations when dealing with genetic syndromes like NF1. Primary lung carcinosarcoma and rhabdomyosarcoma are key associations for NF1.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Primary pulmonary angiosarcoma is a rare vascular malignancy of the lung but is not specifically linked to NF1 in the provided context or common knowledge. It's a plausible 'rare tumor' but not the best fit for NF1 association.",
+      "B": "Correct. Primary lung carcinosarcoma is explicitly mentioned in the text as a rare tumor associated with NF1.",
+      "C": "Pleuropulmonary blastoma is a rare pediatric lung tumor primarily associated with DICER1 mutations, not NF1. This is a distracter based on 'rare lung tumor' but incorrect genetic association.",
+      "D": "Diffuse malignant mesothelioma is strongly associated with asbestos exposure and not with NF1. This option serves as a general rare lung tumor distractor."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_77ee9c20",
+    "question": "A 58-year-old woman with Neurofibromatosis type 1 (NF1) presents with worsening shortness of breath and peripheral edema. Echocardiography reveals severe pulmonary hypertension (PH) with an estimated pulmonary arterial pressure of 65 mmHg. Cardiac catheterization confirms Group 5 PH with an average mean pulmonary arterial pressure of 52 mmHg. She is New York Heart Association functional class III. Which of the following statements regarding pulmonary hypertension in patients with Neurofibromatosis type 1 is *most accurate*?",
+    "options": {
+      "A": "It typically responds well to conventional pulmonary vasodilators due to predominant endothelial dysfunction.",
+      "B": "It often presents with evidence of capillary hemangiomatosis or pulmonary veno-occlusive disease features.",
+      "C": "It is usually diagnosed early in the course of NF1 and predominantly affects younger males.",
+      "D": "Aggressive medical management with multiple PH-approved drugs is the primary long-term strategy, prior to considering transplantation."
+    },
+    "correctAnswer": "B",
+    "topic": "Rare Primary Lung Tumors (context: rare pulmonary manifestations of NF1)",
+    "deepDiveExplanation": "The provided text states that 'Evidence of capillary hemangiomatosis has been described, and questions about a relatively high prevalence of pulmonary veno‑occlusive disease have been raised, given the development of respiratory failure following the initiation of vasodilators'. This indicates that PH in NF1 often has a unique pathological basis involving the capillaries and venules, which influences its presentation and response to treatment. This characteristic makes option B the most accurate statement.",
+    "highYieldPearl": "Rio's Take: PH in NF1 is often aggressive and complex, linked to capillary hemangiomatosis/PVOD, leading to poor vasodilator response and a need for early transplant consideration. Its presentation is typically late-onset in females.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "The text explicitly mentions 'The limited response to specific PH therapies...', contradicting the idea of good response to vasodilators. The poor response is often due to the underlying capillary/venular pathology rather than solely endothelial dysfunction responsive to standard vasodilators.",
+      "B": "Correct. The text highlights 'Evidence of capillary hemangiomatosis has been described, and questions about a relatively high prevalence of pulmonary veno‑occlusive disease have been raised'. These are important pathological features contributing to the unique clinical course of PH in NF1.",
+      "C": "The text states 'female predominance and presentation late in the course of NF, with median age at diagnosis of 57 years', directly contradicting both parts of this statement.",
+      "D": "The text advises 'The limited response to specific PH therapies and the poor prognosis of PH associated with NF1 indicate the need for prompt referral to lung transplantation centers following diagnosis'. This implies that aggressive medical management alone is often insufficient, and transplantation is a crucial early consideration, not a last resort after extensive medical failure."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_d4dc351d",
+    "question": "A 35-year-old non-smoking male with a confirmed diagnosis of Neurofibromatosis type 1 (NF1) undergoes a routine chest CT scan due to mild exertional dyspnea. The CT report notes several abnormalities. Which of the following abnormal findings on his chest CT would be *least likely* to be primarily attributed to his Neurofibromatosis type 1?",
+    "options": {
+      "A": "Bilateral upper lobe predominant cystic changes, some with thicker walls.",
+      "B": "Multiple cutaneous neurofibromas on the chest wall.",
+      "C": "A posterior mediastinal mass with fat density.",
+      "D": "Extensive panlobular emphysema throughout all lung fields."
+    },
+    "correctAnswer": "D",
+    "topic": "Rare Primary Lung Tumors (context: rare pulmonary manifestations of NF1)",
+    "deepDiveExplanation": "The text states that 'Cysts and bullous disease are common, particularly in the upper lobes, with sizes ranging between 8 and 25 mm; some of these cystic and bullous lesions may have thicker and more sharply defined walls than similar lesions observed in cases of smoking‑related emphysema.' This directly supports option A as a characteristic NF1 finding. Cutaneous neurofibromas on the chest wall (Option B) are classic manifestations of NF1, and Fig 95.2 specifically depicts them. A posterior mediastinal mass (Option C) is also mentioned as common in NF1, often being a neurofibroma, and the Table 115.1 links 'Fat density' in a 'Posterior' mass to a 'neurogenic tumor' and 'neurofibromatosis'. In contrast, while 'emphysema' is documented in 18% of NF1 patients, the text explicitly notes: 'The presence of emphysema seems to be related to a positive smoking history.' Therefore, extensive panlobular emphysema throughout all lung fields, especially in a non-smoker, would be *least likely* to be primarily attributed to NF1 itself, as opposed to a separate etiology like alpha-1 antitrypsin deficiency or unacknowledged environmental exposures.",
+    "highYieldPearl": "Rio's Take: While cystic changes and emphysema can be seen in NF1, true 'emphysema' is often smoking-related. Cysts/bullae are more characteristic direct pulmonary manifestations of NF1, particularly upper lobe predominant and sometimes thick-walled, distinguishable from typical smoking-related changes.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a characteristic pulmonary finding in NF1, as described in the text (cysts and bullous disease, upper lobe predominant, sometimes thick-walled).",
+      "B": "Cutaneous neurofibromas are a hallmark of NF1 and are often visible on chest CT scans as skin nodules, as illustrated in Fig 95.2.",
+      "C": "Mediastinal masses, often neurofibromas, are common in NF1 (15% of cases, 50% are neurofibromas). Neurogenic tumors (including neurofibromas) are typically posterior mediastinal and can have fat density. Thus, this is a plausible NF1-related finding.",
+      "D": "Correct. While emphysema is noted in NF1 patients, the text specifically links it to 'a positive smoking history'. Extensive panlobular emphysema throughout all lung fields is a severe pattern, and in a non-smoker, it would be less likely to be a direct manifestation of NF1 compared to the distinct cystic changes or neurofibromas. The NF1-related lung changes are more commonly cystic/bullous, often with different morphological features than typical emphysema."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_32a84789",
+    "question": "A 55-year-old man with a confirmed diagnosis of Neurofibromatosis type 1 (NF1), characterized by multiple café au lait macules, cutaneous neurofibromas, and Lisch nodules, presents with progressive dyspnea and persistent cough for 3 months. Chest CT reveals a large, ill-defined mass in the left lower lobe. Biopsy is planned. Based on his underlying condition, which of the following *rare primary lung tumors* should be specifically considered in the differential diagnosis?",
+    "options": {
+      "A": "Primary lung carcinosarcoma",
+      "B": "Typical carcinoid tumor",
+      "C": "Pleuropulmonary blastoma",
+      "D": "Sclerosing pneumocytoma"
+    },
+    "correctAnswer": "A",
+    "topic": "Rare Primary Lung Tumors",
+    "deepDiveExplanation": "Neurofibromatosis type 1 (NF1) is a genetic disorder with an increased risk of various neoplasms. The provided text specifically highlights the rare occurrence of 'primary lung carcinosarcoma' and 'primary lung rhabdomyosarcoma' in patients with NF1. These are exceedingly rare tumors in the general population, but their documented association with NF1 makes them a crucial consideration in such a patient presenting with a new lung mass. The loss of neurofibromin protein in NF1 accelerates Ras protein production, influencing cell differentiation and growth, which contributes to tumor development.",
+    "highYieldPearl": "Rio's Take: Always consider specific rare tumor associations when dealing with genetic syndromes like NF1. Primary lung carcinosarcoma and rhabdomyosarcoma, though extremely rare, are important differential diagnoses for lung masses in NF1 patients.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This option is directly supported by the provided text, which explicitly links primary lung carcinosarcoma to NF1 as a rare reported case. This makes it the most specific and correct answer.",
+      "B": "Typical carcinoid tumor is a rare primary lung tumor, but the provided text does not mention any specific association between carcinoid tumors and NF1, making it a less precise answer in this context.",
+      "C": "Pleuropulmonary blastoma is a very rare malignant lung tumor, primarily affecting children and associated with DICER1 mutations, not NF1. It is not mentioned in the provided text in relation to NF1.",
+      "D": "Sclerosing pneumocytoma (or sclerosing hemangioma) is a rare, typically benign lung tumor. While rare, it has no specific mentioned association with NF1 in the given information, making it a distracter that does not fit the specific context provided."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_5cf67741",
+    "question": "A 62-year-old female with long-standing Neurofibromatosis type 1 (NF1), known for diffuse lung cysts on prior imaging, develops progressive exertional dyspnea and fatigue. Echocardiography shows severe pulmonary hypertension. Right heart catheterization confirms mean pulmonary arterial pressure of 52 mmHg. She is started on a phosphodiesterase-5 inhibitor. Within 48 hours, she develops acute hypoxemic respiratory failure with diffuse alveolar opacities on chest X-ray, suggestive of pulmonary edema. This clinical course is highly suggestive of which underlying vascular pathology?",
+    "options": {
+      "A": "Pulmonary veno-occlusive disease (PVOD)",
+      "B": "Pulmonary arterial hypertension (PAH) with severe vasoconstriction",
+      "C": "Aortic valve stenosis with resultant left heart failure",
+      "D": "Acute interstitial pneumonitis secondary to NF1"
+    },
+    "correctAnswer": "A",
+    "topic": "Rare Primary Lung Tumors",
+    "deepDiveExplanation": "The clinical scenario of severe pulmonary hypertension in an NF1 patient, followed by acute respiratory failure and pulmonary edema *after* initiation of a vasodilator (phosphodiesterase-5 inhibitor), is a classic presentation of pulmonary veno-occlusive disease (PVOD) or pulmonary capillary hemangiomatosis. The provided text explicitly states: 'Questions about a relatively high prevalence of pulmonary veno‑occlusive disease have been raised, given the development of respiratory failure following the initiation of vasodilators.' This adverse reaction to vasodilators is a critical diagnostic clue for PVOD, as these drugs can worsen pulmonary edema by shunting blood to unoccluded capillaries, increasing hydrostatic pressure without adequate venous drainage.",
+    "highYieldPearl": "Rio's Take: Acute respiratory worsening and pulmonary edema after initiating pulmonary vasodilators in a patient with pulmonary hypertension, especially in the context of NF1, strongly points towards pulmonary veno-occlusive disease (PVOD) or pulmonary capillary hemangiomatosis. NF1-associated PH is classified as Group 5.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is the most accurate answer. The combination of NF1, PH, and acute worsening/pulmonary edema upon starting vasodilators is highly characteristic of PVOD, as specifically mentioned in the provided text.",
+      "B": "While the patient has PAH, the acute deterioration *after* starting a vasodilator is atypical for classic PAH, where these drugs are usually beneficial. In PVOD, vasodilators can exacerbate pulmonary edema by increasing blood flow to an obstructed venous bed.",
+      "C": "The vignette explicitly states severe pulmonary hypertension and right heart strain (implied by PH diagnosis), not primary aortic valve stenosis or left heart failure. While left heart disease can cause PH, the specific worsening with vasodilators in an NF1 patient points to PVOD.",
+      "D": "NF1 can cause interstitial lung disease, but acute respiratory failure with pulmonary edema immediately following vasodilator initiation is not a typical presentation of acute interstitial pneumonitis. This pattern of deterioration is a hallmark of PVOD."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_e5159203",
+    "question": "A 48-year-old male with a documented history of Neurofibromatosis type 1 (NF1) presents with vague chest discomfort and chronic cough. A chest CT scan reveals a well-circumscribed, homogeneous mass located in the posterior mediastinum. Given his underlying condition, what is the *most probable benign neoplastic etiology* for this mediastinal finding?",
+    "options": {
+      "A": "Neurofibroma",
+      "B": "Meningocele",
+      "C": "Schwannoma",
+      "D": "Mediastinal Lipoma"
+    },
+    "correctAnswer": "A",
+    "topic": "Rare Primary Lung Tumors",
+    "deepDiveExplanation": "The provided text explicitly states that 'Mediastinal masses are present in 15% of cases; 50% correspond to neurofibromas, and others are malignant peripheral nerve sheath tumors, meningoceles...' Neurofibromas are benign neoplastic tumors originating from nerve sheaths, and given they constitute 50% of mediastinal masses in NF1 patients, they are the most probable *benign neoplastic* etiology. They are a type of neurogenic tumor, which are typically found in the posterior mediastinum.",
+    "highYieldPearl": "Rio's Take: In NF1 patients presenting with a mediastinal mass, neurofibromas are the most common benign neoplastic cause, accounting for half of such presentations. Remember the distinction between neoplastic (neurofibroma, MPNST) and developmental (meningocele) lesions.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Neurofibroma is explicitly stated as accounting for 50% of mediastinal masses in NF1, making it the most probable benign *neoplastic* etiology. It fits the description of a posterior mediastinal mass.",
+      "B": "Meningocele is also associated with NF1 and can be found in the posterior mediastinum. However, it is a developmental lesion (herniation of the dura and arachnoid) rather than a true *neoplasm*. The question specifically asks for a *neoplastic* etiology, making neurofibroma a better fit in this specific context and based on its higher stated prevalence.",
+      "C": "Schwannoma is another benign neurogenic tumor. While generally considered in the differential for posterior mediastinal masses, the text specifically highlights 'neurofibromas' as the most common mediastinal mass in NF1. In the context of NF1, neurofibromas (especially plexiform neurofibromas) are the characteristic nerve sheath tumor. While schwannomas can occur, the direct mention of neurofibromas makes it the stronger answer as 'most probable'.",
+      "D": "Mediastinal lipomas are benign but are not specifically highlighted as a frequent mediastinal mass in NF1, nor are they as strongly associated with the disease as neurofibromas. The provided text does not connect mediastinal lipoma directly to NF1."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_ab0f32df",
+    "question": "A 10-year-old child, previously healthy, presents with a 6-month history of chronic cough productive of purulent sputum, recurrent localized respiratory infections, and a recent episode of pleuritic chest pain and fever. A CT chest shows features consistent with right middle lobe bronchiectasis and consolidation, along with a small right pleural effusion. Tuberculin skin test is positive. Which of the following statements regarding the MOST probable underlying etiology and expected pleural fluid findings is accurate?",
+    "options": {
+      "A": "The bronchiectasis is most likely secondary to primary tuberculosis, and the pleural fluid will typically be a lymphocytic exudate with elevated Adenosine Deaminase (ADA).",
+      "B": "The recurrent infections suggest cystic fibrosis as the primary cause, and the pleural fluid is highly likely to show low glucose and pH, characteristic of an organized empyema.",
+      "C": "The bronchiectasis is a direct consequence of post-primary tuberculosis reactivation, and pleural fluid cytology will have high sensitivity for acid-fast bacilli (AFB).",
+      "D": "The pleural effusion, irrespective of etiology, will require urgent video-assisted thoracoscopic surgery (VATS) for definitive diagnosis, given the chronicity of symptoms."
+    },
+    "correctAnswer": "A",
+    "topic": "Bronchiectasis",
+    "deepDiveExplanation": "The clinical presentation in a child with a positive tuberculin skin test, RML collapse, and bronchiectasis strongly points towards primary tuberculosis. As per the provided text, 'Enlarged lymph nodes may compress bronchi → RML Collapse + Bronchiectasis' is a known complication of primary TB. Pleural effusions can also be seen in primary TB. A typical tuberculous pleural effusion is an exudate, predominantly lymphocytic, and often characterized by elevated Adenosine Deaminase (ADA), as mentioned in the text as a marker that 'Can be elevated' in pleural fluid analysis.",
+    "highYieldPearl": "Rio's Take: Primary TB in children can cause bronchiectasis through lymph node compression (especially RML syndrome). TB pleural effusions are classically lymphocytic exudates with high ADA. Remember the subtle link between primary TB, RML collapse, and bronchiectasis.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This option correctly links primary TB, RML bronchiectasis, and the characteristic pleural fluid findings (lymphocytic exudate, high ADA) for TB effusions, making it the most accurate statement.",
+      "B": "While cystic fibrosis causes bronchiectasis, the positive tuberculin test and RML collapse point more strongly to TB in this context. A low glucose and pH effusion is characteristic of complicated parapneumonic effusions or empyema, which may occur in TB but is not the *typical* finding for an initial primary TB effusion, which is often a sterile exudate.",
+      "C": "Post-primary tuberculosis usually involves reactivation in the lung apices, not typically leading to RML collapse and bronchiectasis in the context of primary TB. Additionally, pleural fluid cytology for acid-fast bacilli (AFB) has very low sensitivity in diagnosing tuberculous pleurisy.",
+      "D": "Urgent VATS for definitive diagnosis is an overstatement. Initial pleural fluid analysis (protein, LDH, glucose, pH, cell count, ADA, cytology) would be performed first. VATS is a more invasive procedure reserved for cases where less invasive diagnostics are inconclusive, not necessarily as the urgent initial step 'irrespective of etiology'."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_aa4255c2",
+    "question": "A 55-year-old male with a long-standing history of idiopathic bronchiectasis presents with acute worsening of cough, increased purulent sputum, and right-sided pleuritic chest pain. His chest X-ray shows right lower lobe infiltrates and a moderate right pleural effusion. Diagnostic thoracentesis is performed. Which of the following pleural fluid findings would MOST strongly suggest the need for further invasive intervention beyond systemic antibiotics?",
+    "options": {
+      "A": "Pleural fluid protein 4.5 g/dL, LDH 250 U/L (serum LDH 200 U/L), Glucose 90 mg/dL, pH 7.35, WBC 1500/uL with 60% neutrophils.",
+      "B": "Pleural fluid protein 3.0 g/dL, LDH 100 U/L (serum LDH 200 U/L), Glucose 110 mg/dL, pH 7.40, WBC 500/uL with 70% lymphocytes.",
+      "C": "Pleural fluid protein 5.8 g/dL, LDH 1200 U/L (serum LDH 250 U/L), Glucose 45 mg/dL, pH 7.10, WBC 25,000/uL with 85% neutrophils.",
+      "D": "Pleural fluid protein 4.0 g/dL, LDH 150 U/L (serum LDH 200 U/L), Glucose 80 mg/dL, pH 7.30, WBC 2000/uL with 75% mesothelial cells."
+    },
+    "correctAnswer": "C",
+    "topic": "Bronchiectasis",
+    "deepDiveExplanation": "The patient has a parapneumonic effusion related to his bronchiectasis exacerbation. The key to needing 'further invasive intervention beyond systemic antibiotics' (i.e., drainage) lies in identifying a complicated parapneumonic effusion or empyema. The provided text states that '↓ pH ↓ glucose => Shorter Survival' and 'More metabolic Activity => ↑ glu use + ↑ anaerobic metab + ↓ pH', which are hallmarks of complicated effusions. Option C presents findings highly suggestive of a complicated parapneumonic effusion or empyema: high protein and LDH (exudate, indicating significant inflammation), very low glucose (45 mg/dL), low pH (7.10), and a very high WBC count (25,000/uL) with neutrophil predominance. These parameters indicate significant bacterial metabolic activity and inflammation in the pleural space, which usually necessitates drainage in addition to antibiotics.",
+    "highYieldPearl": "Rio's Take: In parapneumonic effusions, remember that low pleural fluid glucose (<60 mg/dL) and low pH (<7.20) are critical indicators of a complicated effusion or empyema, necessitating drainage beyond just antibiotics. This is directly linked to increased metabolic activity and anaerobic metabolism, impacting survival.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This describes an exudative effusion (protein >0.5 serum protein, LDH >0.6 serum LDH, or LDH >2/3 upper limit of normal serum LDH, assuming typical serum values). However, the glucose (90 mg/dL) and pH (7.35) are relatively normal. This is consistent with a simple parapneumonic effusion, usually managed with antibiotics alone.",
+      "B": "This represents an exudate (LDH 100 U/L, serum LDH 200 U/L, so PF LDH/Serum LDH = 0.5, needs comparison to protein). However, the lymphocytic predominance and normal glucose/pH are not typical of an acute complicated parapneumonic effusion requiring drainage. This could represent a resolving effusion or other non-bacterial etiologies.",
+      "C": "This option presents classic findings of a complicated parapneumonic effusion or empyema: high protein, very high LDH (PF LDH/Serum LDH = 4.8), low glucose, low pH, and high neutrophil count. These values strongly indicate the need for drainage.",
+      "D": "This is an exudate. While the pH (7.30) is borderline low, the glucose (80 mg/dL) is not critically low. The presence of 75% mesothelial cells is unusual in an acute inflammatory effusion; typically, they decrease or are absent in inflamed pleura. Overall, these findings do not as strongly indicate the need for invasive drainage as option C."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_bab0da9d",
+    "question": "A 68-year-old male with a 20-year history of severe, pan-lobar bronchiectasis due to alpha-1 antitrypsin deficiency presents with progressive dyspnea, weight loss, and a recurrent, exudative left pleural effusion despite empirical antibiotic therapy. Initial pleural fluid cytology was negative for malignancy, and microbiological cultures were sterile. Given the persistence of symptoms and effusion, further invasive diagnostic evaluation is planned. Which of the following statements regarding the diagnostic approaches for this patient is LEAST accurate?",
+    "options": {
+      "A": "Medical thoracoscopy (MT) offers a superior diagnostic yield for pleural pathology compared to image-guided closed pleural biopsy.",
+      "B": "Elevated pleural fluid soluble mesothelin-related peptides (SMRP) would raise suspicion for mesothelioma, a diagnosis that often has a low cytology yield.",
+      "C": "A repeat diagnostic thoracentesis is unlikely to be helpful if the initial cytology and microbiology were unrevealing for the underlying cause of a persistent exudate.",
+      "D": "Video-assisted thoracoscopic surgery (VATS) is generally preferred over medical thoracoscopy for initial definitive diagnosis of undiagnosed exudative pleural effusions due to its lower mortality rate."
+    },
+    "correctAnswer": "D",
+    "topic": "Bronchiectasis",
+    "deepDiveExplanation": "The question asks for the LEAST accurate statement. Let's evaluate each option:\n\n'A. Medical thoracoscopy (MT) offers a superior diagnostic yield for pleural pathology compared to image-guided closed pleural biopsy.' This is accurate. The text states MT has a '90-95.1 Yield' while image-guided biopsy has an '80-88% yield'.\n\n'B. Elevated pleural fluid soluble mesothelin-related peptides (SMRP) would raise suspicion for mesothelioma, a diagnosis that often has a low cytology yield.' This is accurate. The text explicitly states, 'In Mesothelioma: Cytology yield ≈ 30% - plef mesothelin [SMRR] (soluble Mesothelin Related peptide) ↑'.\n\n'C. A repeat diagnostic thoracentesis is unlikely to be helpful if the initial cytology and microbiology were unrevealing for the underlying cause of a persistent exudate.' This is accurate. If initial basic investigations on pleural fluid are negative for a persistent, undiagnosed exudate, repeating the same tests is generally low yield, and more invasive methods are indicated.\n\n'D. Video-assisted thoracoscopic surgery (VATS) is generally preferred over medical thoracoscopy for initial definitive diagnosis of undiagnosed exudative pleural effusions due to its lower mortality rate.' This statement is LEAST accurate. The text mentions 'Medical thoracoscopy... Safer, less complications' and '[< 0.5% mortality]'. While VATS is a valuable tool, especially for therapeutic interventions or when larger biopsies are needed, medical thoracoscopy (which can often be performed under conscious sedation) is typically considered less invasive and safer for *initial diagnostic procedures* of undiagnosed exudative effusions, often with a comparable or even lower risk profile than VATS, which usually requires general anesthesia. Therefore, claiming VATS is preferred due to a *lower mortality rate* over MT for initial diagnosis is incorrect based on general practice and the implied safety profile in the provided text for MT.",
+    "highYieldPearl": "Rio's Take: For diagnostic evaluation of undiagnosed exudative pleural effusions, medical thoracoscopy (MT) is a highly effective, less invasive option with excellent diagnostic yield and a low complication rate (<0.5% mortality). While VATS is also diagnostic, it's generally more invasive than MT for initial diagnostic purposes. Don't fall for statements that incorrectly prioritize one over the other based on mortality rates without explicit evidence, especially when MT is highlighted as 'safer, less complications'.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is a factual statement directly supported by the text's comparative yield figures for MT and image-guided biopsy.",
+      "B": "This accurately reflects the role of SMRP in mesothelioma diagnosis and the known low cytology yield, as stated in the text.",
+      "C": "This is a clinically sound principle; once initial non-invasive fluid analyses are negative for a persistent problem, further repeat taps without new clinical context are unlikely to add significant diagnostic value, prompting more invasive steps.",
+      "D": "This is the least accurate statement. While both procedures are safe, MT is generally considered less invasive than VATS for initial diagnostic pleural biopsy. The text specifically highlights MT as 'Safer, less complications' and provides a low mortality rate. Suggesting VATS is preferred for initial diagnosis due to lower mortality over MT is generally incorrect and contradicts the implied safety profile of MT."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_6e658526",
+    "question": "A 7-year-old child presents with chronic cough and recurrent episodes of lower respiratory tract infections. Chest X-ray shows right middle lobe collapse. Further evaluation reveals bronchiectasis in the right middle lobe. History is significant for a previous episode of primary pulmonary tuberculosis. Which of the following is the most likely mechanism leading to bronchiectasis in this child?",
+    "options": {
+      "A": "Compression of bronchi by enlarged peribronchial lymph nodes",
+      "B": "Direct destruction of bronchial walls by Mycobacterium tuberculosis",
+      "C": "Widespread inflammation due to active secondary tuberculosis",
+      "D": "Immunodeficiency leading to recurrent severe bacterial infections"
+    },
+    "correctAnswer": "A",
+    "topic": "Bronchiectasis",
+    "deepDiveExplanation": "The provided context explicitly states that 'Enlarged lymph nodes may compress bronchi → RML Collapse + Bronchiectasis' as a complication of primary pulmonary tuberculosis. This mechanism is particularly relevant in children and can lead to conditions like Right Middle Lobe (RML) syndrome, which manifests as collapse and subsequent bronchiectasis due to chronic obstruction and infection.",
+    "highYieldPearl": "Rio's Take: Bronchiectasis following primary TB in children often results from extrinsic compression of bronchi by enlarged peribronchial lymph nodes, leading to RML syndrome. This is a classic association.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct answer, directly cited from the provided context as a complication of primary TB.",
+      "B": "While M. tuberculosis can cause direct bronchial wall damage, the context specifically highlights lymph node compression as the mechanism for bronchiectasis in primary TB-related collapse, making it the 'most likely' mechanism in this specific scenario.",
+      "C": "Secondary (post-primary) tuberculosis can lead to bronchiectasis, but the vignette describes a child with a history of 'primary' TB and a specific presentation (RML collapse), making lymph node compression a more direct and accurate answer based on the provided text for this specific scenario.",
+      "D": "Immunodeficiency can predispose to severe infections and TB, but it's not the direct anatomical mechanism for bronchiectasis as described in the context for primary TB."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_6c72250c",
+    "question": "A 45-year-old male with a known history of saccular bronchiectasis involving the left lower lobe presents with fever, productive cough, and left-sided pleuritic chest pain. Clinical examination reveals decreased breath sounds and dullness to percussion over the left lung base. Thoracentesis is performed, yielding a turbid, yellow fluid. What type of pleural effusion is most likely developing in this patient, given his underlying condition?",
+    "options": {
+      "A": "Chylothorax",
+      "B": "Malignant pleural effusion",
+      "C": "Parapneumonic effusion",
+      "D": "Tuberculous pleural effusion"
+    },
+    "correctAnswer": "C",
+    "topic": "Bronchiectasis",
+    "deepDiveExplanation": "The provided context states: 'Parapneumonic Effusion: Effusion related to Pneumonia | Bronchiectasis (lung Abscess)'. The patient's presentation with fever, productive cough, pleuritic chest pain, and a turbid pleural fluid in the setting of known bronchiectasis strongly suggests an acute infection leading to a parapneumonic effusion. Bronchiectasis exacerbations are a common cause of such effusions.",
+    "highYieldPearl": "Rio's Take: Exacerbations of bronchiectasis often lead to lung infection which can subsequently cause a parapneumonic effusion. This is a direct association mentioned in the provided notes.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Chylothorax involves lymphatic fluid and is not typically associated with bronchiectasis exacerbations or the described clinical picture.",
+      "B": "Malignant pleural effusion is caused by cancer, which is not indicated by the patient's history of bronchiectasis and acute infectious symptoms.",
+      "C": "This is the correct answer. The context directly links bronchiectasis to parapneumonic effusions, and the clinical vignette describes an acute infection typical of a parapneumonic process.",
+      "D": "While TB can cause bronchiectasis and tuberculous pleural effusion, the vignette describes an acute infectious process in a patient with *known* bronchiectasis, making a parapneumonic effusion more immediate and likely than a primary tuberculous effusion, especially with turbid fluid indicating infection rather than a typical lymphocytic exudate."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_6db87d92",
+    "question": "A 60-year-old immunocompetent male, previously treated for pulmonary tuberculosis 10 years ago, presents with chronic cough, exertional dyspnea, and recurrent episodes of hemoptysis. High-resolution computed tomography (HRCT) of the chest reveals irreversible dilatation of bronchi with thickening of bronchial walls, consistent with bronchiectasis, predominantly in the upper lobes. The development of bronchiectasis in this patient is most consistent with a complication of which stage of tuberculosis?",
+    "options": {
+      "A": "Primary Tuberculosis",
+      "B": "Latent Tuberculosis Infection",
+      "C": "Post-Primary Tuberculosis",
+      "D": "Miliary Tuberculosis"
+    },
+    "correctAnswer": "C",
+    "topic": "Bronchiectasis",
+    "deepDiveExplanation": "The provided context explicitly lists 'Bronchiectasis' as a complication of 'Post Primary TB / 2° TB'. The patient's age, history of previous TB treatment, chronic symptoms, and typical upper lobe involvement (areas of high O2 tension where TB bacilli actively grow in post-primary disease) are all consistent with post-primary (reactivation) tuberculosis and its long-term complications, including bronchiectasis.",
+    "highYieldPearl": "Rio's Take: Bronchiectasis is a recognized complication of both primary and post-primary TB. In older patients with a history of prior TB and upper lobe disease, post-primary TB is the more likely antecedent.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "While primary TB can lead to bronchiectasis (e.g., RML syndrome), the vignette describes an older patient with a history of *treated* TB and current symptoms, with upper lobe involvement, which is more characteristic of post-primary TB. Primary TB typically affects children or immunocompromised individuals and often involves lower lobes or hilar nodes.",
+      "B": "Latent Tuberculosis Infection (LTBI) is an asymptomatic state where the bacteria are present but inactive, and it does not cause structural lung damage like bronchiectasis.",
+      "C": "This is the correct answer. The context directly states 'Post Primary TB / 2° TB... Bronchiectasis' as a complication. The clinical picture aligns well with this stage of TB.",
+      "D": "Miliary tuberculosis involves widespread hematogenous dissemination of TB bacilli and does not directly cause localized bronchiectasis. While it can occur in patients with active TB, it is not the primary mechanism for bronchiectasis described."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988505,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_4dd401ce",
+    "question": "A 45-year-old male presents with chronic productive cough, recurrent respiratory infections, and dyspnea. He reports a history of pulmonary tuberculosis in childhood, treated incompletely due to socio-economic reasons. High-resolution computed tomography (HRCT) of the chest reveals cylindrical bronchiectasis predominantly in the right middle lobe and lingula. Which of the following is the most likely mechanism leading to bronchiectasis in this patient?",
+    "options": {
+      "A": "Bronchial obstruction and post-obstructive infection from enlarged peribronchial lymph nodes during primary tuberculosis.",
+      "B": "Direct parenchymal destruction and fibrosis caused by extensive tuberculous granulomas.",
+      "C": "Allergic bronchopulmonary aspergillosis (ABPA) as a sequela of his prior tuberculosis.",
+      "D": "Alpha-1 antitrypsin deficiency exacerbated by chronic inflammation."
+    },
+    "correctAnswer": "A",
+    "topic": "Bronchiectasis",
+    "deepDiveExplanation": "Post-tuberculous bronchiectasis, especially affecting the right middle lobe and lingula (often referred to as 'middle lobe syndrome'), is a well-recognized complication of primary tuberculosis. The mechanism primarily involves enlarged peribronchial lymph nodes compressing or eroding into the bronchi during the primary infection. This obstruction leads to distal atelectasis, impaired mucociliary clearance, and subsequent recurrent infections, ultimately causing irreversible bronchial dilatation and destruction characteristic of bronchiectasis. The provided context explicitly states: 'Enlarged lymph nodes may compress bronchi → RML Collapse + Bronchiectasis' as a complication of primary TB, directly supporting this mechanism.",
+    "highYieldPearl": "Rio's Take: Post-tuberculous bronchiectasis commonly results from bronchial obstruction by enlarged lymph nodes during childhood primary TB, often affecting the right middle lobe and lingula.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. The mechanism of bronchial compression by enlarged lymph nodes leading to post-obstructive infection and subsequent bronchiectasis is a classic finding in post-tuberculous bronchiectasis, directly mentioned in the provided study material.",
+      "B": "While tuberculosis does cause parenchymal destruction and fibrosis, which can contribute to lung damage, the specific mechanism for *bronchiectasis* in the context of childhood TB and nodal involvement is more often secondary to bronchial obstruction rather than direct widespread parenchymal destruction leading to bronchial dilatation. Direct destruction is more characteristic of cavitary disease or extensive fibrocavitary TB leading to architectural distortion.",
+      "C": "ABPA is a cause of bronchiectasis, typically central, in patients with asthma or cystic fibrosis, and involves an allergic reaction to Aspergillus. While prior TB could potentially alter lung architecture and predispose to fungal colonization, ABPA is not the primary or most likely mechanism for *tuberculosis-induced* bronchiectasis, especially without any mention of asthma, eosinophilia, or IgE elevation.",
+      "D": "Alpha-1 antitrypsin deficiency is a genetic cause of bronchiectasis and emphysema, but there is no information in the vignette to suggest this diagnosis. It is a plausible cause of bronchiectasis in general, but not the *most likely mechanism* given the clear history of incompletely treated childhood tuberculosis."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_cfc22523",
+    "question": "A 62-year-old female with a long-standing history of non-cystic fibrosis bronchiectasis presents to the emergency department with worsening cough, increased purulent sputum, fever, and left-sided pleuritic chest pain for 3 days. Her previous exacerbations were managed with oral antibiotics. Chest X-ray reveals a new moderate-sized left pleural effusion. Thoracentesis is performed. Which of the following pleural fluid analysis findings would most strongly suggest a complicated parapneumonic effusion requiring intercostal drain insertion?",
+    "options": {
+      "A": "Pleural fluid pH of 7.15.",
+      "B": "Pleural fluid lactate dehydrogenase (LDH) of 500 IU/L (serum LDH 200 IU/L).",
+      "C": "Pleural fluid glucose of 70 mg/dL.",
+      "D": "Pleural fluid protein of 4.5 g/dL."
+    },
+    "correctAnswer": "A",
+    "topic": "Bronchiectasis",
+    "deepDiveExplanation": "The provided context explicitly mentions 'Parapneumonic Effusion: Effusion related to Pneumonia | Bronchiectasis (lung Abscess)' and later, under pleural fluid analysis, notes '↓ pH ↓ glucose => Shorter Survival', indicating severity. For parapneumonic effusions, a pleural fluid pH < 7.20 is a critical indicator of a complicated effusion that typically requires drainage in addition to antibiotic therapy. This low pH reflects significant bacterial metabolic activity and acid production within the pleural space, which can lead to rapid loculation and progression to empyema. While other factors like low glucose and high LDH also indicate a complicated effusion, pH < 7.20 is often considered the most important single criterion for the need for drainage.",
+    "highYieldPearl": "Rio's Take: A pleural fluid pH < 7.20 in a parapneumonic effusion, especially in the context of bronchiectasis exacerbation, is a strong indication for intercostal drain insertion.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. A pleural fluid pH of 7.15 is below the critical threshold of 7.20, which is a strong indicator of a complicated parapneumonic effusion that requires drainage to prevent progression to empyema and improve outcomes.",
+      "B": "An LDH of 500 IU/L, with a pleural fluid to serum ratio of 2.5, signifies an exudative effusion, which all parapneumonic effusions are. While elevated LDH is characteristic of complicated effusions, an LDH of 500 IU/L (unless it's exceedingly high, e.g., >1000 or >3x the upper limit of normal serum LDH) is less specific for definitively requiring drainage compared to a very low pH or glucose. The provided context lists LDH as part of the LENT score for prognosis but not specifically for drainage indication at this level.",
+      "C": "A pleural fluid glucose of 70 mg/dL is within the normal range for pleural fluid and above the threshold of <60 mg/dL (or sometimes <40 mg/dL) that would indicate a complicated effusion. Therefore, this finding does not support the need for drainage.",
+      "D": "A pleural fluid protein of 4.5 g/dL confirms an exudative effusion (as per Light's criteria, a protein ratio >0.5 or absolute protein >3 g/dL suggests an exudate). All parapneumonic effusions are exudates, so this finding alone does not differentiate between a simple and a complicated effusion requiring drainage."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_ac7360a1",
+    "question": "A 58-year-old male with a 10-year history of non-cystic fibrosis bronchiectasis presents with recurrent exacerbations, experiencing 5 episodes requiring oral antibiotics in the last year. He performs regular airway clearance and uses an inhaled bronchodilator as needed. Sputum cultures from his last three exacerbations consistently grew *Pseudomonas aeruginosa*. His FEV1 is 65% of predicted. Which of the following long-term management strategies is most appropriate to reduce the frequency of exacerbations in this patient?",
+    "options": {
+      "A": "Initiate daily long-term oral macrolide therapy.",
+      "B": "Prescribe inhaled tobramycin twice daily for chronic suppression.",
+      "C": "Recommend a trial of daily systemic corticosteroids.",
+      "D": "Schedule for surgical lobectomy of the most affected lobe."
+    },
+    "correctAnswer": "A",
+    "topic": "Bronchiectasis",
+    "deepDiveExplanation": "For patients with non-CF bronchiectasis experiencing frequent exacerbations (typically defined as >=3 per year) despite optimal conventional management (including airway clearance and bronchodilators), long-term macrolide therapy (e.g., azithromycin 250 mg three times weekly or 500 mg three times weekly) is a recommended intervention. Macrolides exert anti-inflammatory and immunomodulatory effects, as well as anti-biofilm properties, which help to reduce exacerbation frequency irrespective of the specific colonizing organism. While chronic *Pseudomonas aeruginosa* colonization often prompts consideration of inhaled antibiotics, macrolides are often considered a first-line broad-spectrum strategy for reducing exacerbations and are frequently initiated before or concurrently with inhaled antibiotics, according to major guidelines like the ERS 2017 guidelines.",
+    "highYieldPearl": "Rio's Take: Long-term oral macrolide therapy is a cornerstone for reducing exacerbation frequency in non-CF bronchiectasis with recurrent exacerbations, often considered an initial step even with Pseudomonas colonization.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the most appropriate initial next step. Long-term macrolide therapy (e.g., azithromycin) is strongly recommended in patients with non-CF bronchiectasis and frequent exacerbations due to its anti-inflammatory and immunomodulatory effects, even in the presence of Pseudomonas. It aims to reduce the overall frequency of exacerbations.",
+      "B": "Inhaled tobramycin (or other inhaled antibiotics like colistin) is highly appropriate for patients with chronic *Pseudomonas aeruginosa* colonization and frequent exacerbations in bronchiectasis. It specifically targets the bacterial burden. However, macrolides are often tried as a broad immunomodulatory first step for frequent exacerbations, and inhaled antibiotics might be added if macrolides alone are insufficient or if Pseudomonas remains a dominant clinical problem. It is a very strong distractor but perhaps not the *initial* 'single best' answer when a more general anti-inflammatory strategy is available.",
+      "C": "Daily systemic corticosteroids are generally not recommended for the long-term management of bronchiectasis due to their significant systemic side effects. They are reserved for acute, severe exacerbations or specific conditions such as allergic bronchopulmonary aspergillosis (ABPA), which is not indicated here.",
+      "D": "Surgical lobectomy is considered for highly localized bronchiectasis that is severe, unresponsive to maximal medical therapy, or complicated by massive hemoptysis or recurrent localized infections. It is a drastic measure and not an initial long-term management strategy for reducing exacerbations in a patient with diffuse disease or disease not clearly localized and intractable to medical treatment, especially when other medical options haven't been exhausted."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_27b2c9b0",
+    "question": "A 7-year-old child presents with chronic cough and recurrent respiratory infections. Imaging reveals right middle lobe collapse and cylindrical bronchiectasis in the same lobe. A history of primary tuberculosis infection 2 years ago, which was treated, is elicited. Which of the following is the most likely mechanism leading to bronchiectasis in this child?",
+    "options": {
+      "A": "Enlarged hilar lymph nodes compressing the bronchus during primary TB.",
+      "B": "Direct parenchymal destruction by mycobacteria in post-primary TB.",
+      "C": "Allergic bronchopulmonary aspergillosis complicating primary TB.",
+      "D": "Cystic fibrosis presenting atypically following a TB infection."
+    },
+    "correctAnswer": "A",
+    "topic": "Bronchiectasis",
+    "deepDiveExplanation": "The provided context explicitly states that in primary tuberculosis, 'Enlarged lymph nodes may compress bronchi → RML Collapse + Bronchiectasis'. This directly explains the clinical scenario of a child with a history of primary TB developing RML collapse and bronchiectasis. The mechanism involves extrinsic compression of the airway by inflamed lymph nodes, leading to distal collapse and subsequent permanent bronchial dilation.",
+    "highYieldPearl": "Rio's Take: Bronchiectasis following primary TB in children often results from enlarged lymph nodes compressing the bronchi, particularly affecting the right middle lobe.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct answer. The provided text directly links enlarged lymph nodes in primary TB to bronchial compression, RML collapse, and subsequent bronchiectasis.",
+      "B": "Direct parenchymal destruction is more characteristic of advanced or post-primary TB, not the specific mechanism described for primary TB leading to RML collapse and bronchiectasis in the context.",
+      "C": "While allergic bronchopulmonary aspergillosis (ABPA) can cause bronchiectasis, it is not mentioned as a direct mechanism for primary TB leading to RML collapse and bronchiectasis in the given context. It's a common cause of bronchiectasis but not the specific answer here.",
+      "D": "Cystic fibrosis is a genetic disorder that causes bronchiectasis but is unrelated to a preceding TB infection as a causative factor. It serves as a plausible but incorrect general cause of bronchiectasis."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_7b28ecfe",
+    "question": "A 45-year-old male with a known history of saccular bronchiectasis presents with fever, productive cough, and right-sided pleuritic chest pain. Chest X-ray shows a right-sided pleural effusion. Thoracentesis reveals an exudative fluid consistent with a parapneumonic effusion. Which of the following conditions listed is explicitly associated with the development of such an effusion in the provided context?",
+    "options": {
+      "A": "Bronchiectasis",
+      "B": "Primary lung malignancy",
+      "C": "Congestive heart failure",
+      "D": "Nephrotic syndrome"
+    },
+    "correctAnswer": "A",
+    "topic": "Bronchiectasis",
+    "deepDiveExplanation": "The provided text under the heading 'Parapneumonic Effusion' explicitly states: 'Effusion related to Pneumonia | Bronchiectasis (lung Abscess)'. This directly links bronchiectasis as a condition associated with the development of a parapneumonic effusion, which is an exudative pleural effusion occurring in the setting of pneumonia or other lung infections like those seen in bronchiectasis exacerbations.",
+    "highYieldPearl": "Rio's Take: Parapneumonic effusions can be directly related to underlying conditions like bronchiectasis, in addition to pneumonia and lung abscesses.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct answer. The text clearly states that parapneumonic effusion can be 'Effusion related to Pneumonia | Bronchiectasis (lung Abscess)'.",
+      "B": "Primary lung malignancy can cause malignant pleural effusions, which are often exudative, but the question specifically refers to a 'parapneumonic effusion' and the context links bronchiectasis to this term, not primary malignancy.",
+      "C": "Congestive heart failure typically causes transudative pleural effusions due to increased hydrostatic pressure, not exudative parapneumonic effusions.",
+      "D": "Nephrotic syndrome causes transudative pleural effusions due to decreased oncotic pressure, not exudative parapneumonic effusions."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_mutations_9ce5ab4e",
+    "question": "A 60-year-old patient with a history of inadequately treated pulmonary tuberculosis 10 years ago, now presents with chronic cough, purulent sputum, and recurrent hemoptysis. A HRCT thorax reveals extensive cylindrical and varicose bronchiectasis predominantly in the upper lobes. Based on the provided context, this type of bronchiectasis is most commonly a complication of which stage of tuberculosis?",
+    "options": {
+      "A": "Primary Tuberculosis",
+      "B": "Post-Primary (Secondary) Tuberculosis",
+      "C": "Latent Tuberculosis Infection",
+      "D": "Miliary Tuberculosis"
+    },
+    "correctAnswer": "B",
+    "topic": "Bronchiectasis",
+    "deepDiveExplanation": "The provided text lists 'Bronchiectasis' as a complication directly under the heading 'Post Primary TB / 2° TB'. The clinical presentation of chronic symptoms, recurrent hemoptysis, and upper lobe bronchiectasis years after an initial infection is highly characteristic of the sequelae of post-primary (reactivation) tuberculosis. While primary TB can cause bronchiectasis, the typical mechanism (lymph node compression leading to RML collapse) and often different distribution distinguish it from the post-primary form leading to widespread, typically upper lobe, bronchiectasis due to cavitary disease and fibrosis.",
+    "highYieldPearl": "Rio's Take: Bronchiectasis, particularly in the upper lobes with a history of past untreated/inadequately treated TB, is a hallmark complication of post-primary (secondary) tuberculosis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "While primary TB can cause bronchiectasis (often due to lymph node compression causing RML collapse), the clinical vignette's description of a long-standing history of inadequately treated TB and extensive upper lobe bronchiectasis points more towards post-primary TB, which is explicitly listed as a cause of bronchiectasis in the provided text.",
+      "B": "This is the correct answer. The text explicitly lists 'Bronchiectasis' as a complication of 'Post Primary TB / 2° TB'. The clinical presentation aligns well with this.",
+      "C": "Latent tuberculosis infection is an asymptomatic state where the bacteria are present but not actively causing disease or complications like bronchiectasis.",
+      "D": "Miliary tuberculosis is a disseminated form of TB. While it causes widespread lung involvement, bronchiectasis is not typically described as a primary or common long-term pulmonary complication of miliary TB in the same manner as it is for post-primary disease."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988506,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "First-line treatment for advanced NSCLC with common activating EGFR mutations (Exon 19 deletion/L858R) is a/an?",
+    "options": {
+      "A": "Immunotherapy",
+      "B": "Platinum-based chemotherapy",
+      "C": "EGFR TKI",
+      "D": "ALK inhibitor"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "Activating EGFR mutations, primarily exon 19 deletions and L858R point mutations in exon 21, define a distinct subset of NSCLC that is highly sensitive to EGFR Tyrosine Kinase Inhibitors (TKIs). First-generation (e.g., gefitinib, erlotinib), second-generation (e.g., afatinib, dacomitinib), and third-generation (osimertinib) EGFR TKIs are standard first-line therapies, with osimertinib currently preferred due to superior efficacy and CNS penetration.",
+    "highYieldPearl": "Osimertinib is now the preferred first-line EGFR TKI for common EGFR mutations due to improved progression-free and overall survival, and better CNS activity.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Candidates might be tempted by immunotherapy, but for oncogene-driven NSCLC, targeted therapy is superior to immunotherapy or chemotherapy as first-line. ALK inhibitors are for ALK rearrangements, not EGFR mutations.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_mutations_3n2h7xxs"
+  },
+  {
+    "question": "The most common acquired resistance mechanism to first-generation EGFR TKIs is a mutation in which exon?",
+    "options": {
+      "A": "Exon 18",
+      "B": "Exon 19",
+      "C": "Exon 20",
+      "D": "Exon 21"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "The EGFR T790M mutation, located in exon 20, is the most common acquired resistance mechanism (approximately 50-60% of cases) to first- and second-generation EGFR TKIs. This 'gatekeeper' mutation increases ATP affinity, reducing the effectiveness of these inhibitors. Third-generation EGFR TKIs like osimertinib were specifically designed to overcome T790M.",
+    "highYieldPearl": "T790M is located in EGFR exon 20 and is the primary target for third-generation EGFR TKIs after acquired resistance.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While exons 19 and 21 harbor common activating mutations, exon 20 contains the crucial T790M resistance mutation. Misidentifying the exon for resistance vs. activation is a common pitfall.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_mutations_xo2xxilx"
+  },
+  {
+    "question": "The gold standard for detecting ALK gene rearrangements in NSCLC is?",
+    "options": {
+      "A": "Immunohistochemistry (IHC)",
+      "B": "Fluorescence In Situ Hybridization (FISH)",
+      "C": "Polymerase Chain Reaction (PCR)",
+      "D": "Next-Generation Sequencing (NGS)"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "While NGS is increasingly used for comprehensive genomic profiling and IHC is a sensitive screening tool, FISH for ALK break-apart probes has historically been considered the gold standard for definitive ALK rearrangement detection in NSCLC, validated in clinical trials leading to ALK inhibitor approvals. NGS can detect a broader range of fusion partners and is becoming the preferred method in many centers.",
+    "highYieldPearl": "FISH is the historical gold standard for ALK; NGS is the modern comprehensive approach.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "IHC is a good screening test, and NGS is comprehensive, but FISH remains the 'gold standard' often cited for ALK in exams, especially when a single best answer is required based on historical validation.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_mutations_k2mszk5p"
+  },
+  {
+    "question": "Osimertinib is a third-generation EGFR TKI primarily targeting which EGFR mutation?",
+    "options": {
+      "A": "Exon 19 deletion",
+      "B": "L858R",
+      "C": "T790M",
+      "D": "Exon 20 insertion"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "Osimertinib is highly effective against the EGFR T790M resistance mutation, which commonly emerges after treatment with first- or second-generation EGFR TKIs. It also effectively targets the common activating mutations (Exon 19 deletion and L858R) and is now approved as a first-line therapy for these as well.",
+    "highYieldPearl": "Osimertinib's unique strength lies in overcoming T790M resistance, in addition to its efficacy against common activating mutations.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While Osimertinib also targets Exon 19 deletion and L858R, its *primary* and distinguishing target for its development and approval in the second-line setting was T790M.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_mutations_vnjn08ng"
+  },
+  {
+    "question": "Crizotinib is approved for NSCLC harboring rearrangements in ALK and which other gene?",
+    "options": {
+      "A": "EGFR",
+      "B": "KRAS",
+      "C": "ROS1",
+      "D": "BRAF"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "Crizotinib, a first-generation ALK inhibitor, is also active against ROS1 rearrangements. ROS1-rearranged NSCLC shares clinical and pathological features with ALK-rearranged NSCLC and responds well to ALK/ROS1 TKIs.",
+    "highYieldPearl": "Crizotinib is a dual ALK/ROS1 inhibitor.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While ALK is well-known for crizotinib, remembering its activity against ROS1 is key. The other options are distinct oncogenic drivers with different targeted therapies.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_mutations_kdiqt2fq"
+  },
+  {
+    "question": "Treatment for BRAF V600E mutated NSCLC typically involves combination therapy with a BRAF inhibitor and a/an?",
+    "options": {
+      "A": "ALK inhibitor",
+      "B": "MEK inhibitor",
+      "C": "EGFR TKI",
+      "D": "PD-1 inhibitor"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "BRAF V600E mutations activate the MAPK pathway. While BRAF inhibitors (e.g., dabrafenib) are effective, combining them with MEK inhibitors (e.g., trametinib) provides synergistic inhibition, reduces resistance, and improves outcomes in BRAF V600E-mutated NSCLC, similar to melanoma.",
+    "highYieldPearl": "BRAF V600E treatment in NSCLC mimics melanoma: BRAF inhibitor + MEK inhibitor combination.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Knowing that BRAF mutations are part of the MAPK pathway helps identify MEK as the logical co-target. The other options are for different molecular targets.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_mutations_r5dkebgs"
+  },
+  {
+    "question": "Which molecular testing method is most sensitive for detecting MET exon 14 skipping mutations?",
+    "options": {
+      "A": "FISH",
+      "B": "Immunohistochemistry (IHC)",
+      "C": "RNA-based sequencing",
+      "D": "DNA-based sequencing"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "MET exon 14 skipping mutations are splice site mutations that lead to the skipping of exon 14 during mRNA transcription. Since these are RNA-level events affecting splicing, RNA-based sequencing (e.g., RNA-seq) is superior to DNA-based sequencing for their detection, as DNA sequencing might miss the functional consequence of the splice site alteration.",
+    "highYieldPearl": "For splice variants like MET exon 14 skipping, RNA-based sequencing offers higher sensitivity.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "While DNA-based NGS is common, understanding the nature of a splice mutation (affecting RNA processing) points to RNA-based methods as more sensitive. FISH and IHC are not appropriate for this type of mutation.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_mutations_650ykr4t"
+  },
+  {
+    "question": "Sotorasib is a targeted therapy specifically approved for NSCLC patients with which mutation?",
+    "options": {
+      "A": "EGFR L858R",
+      "B": "ALK fusion",
+      "C": "KRAS G12C",
+      "D": "RET fusion"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "KRAS G12C is a specific subtype of KRAS mutation, historically considered 'undruggable.' Sotorasib (and adagrasib) are the first direct KRAS G12C inhibitors approved, marking a significant breakthrough in targeted therapy for NSCLC.",
+    "highYieldPearl": "Sotorasib is a landmark drug, the first approved direct KRAS G12C inhibitor.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "KRAS has long been a challenging target. Sotorasib's approval for the G12C subtype is a recent, high-yield development. Confusing it with other common targets is the main trap.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_mutations_bq9ikwvz"
+  },
+  {
+    "question": "Amivantamab is a bispecific antibody targeting EGFR and MET for NSCLC with which specific EGFR mutation?",
+    "options": {
+      "A": "L858R",
+      "B": "Exon 19 deletion",
+      "C": "T790M",
+      "D": "Exon 20 insertion"
+    },
+    "correctAnswer": "D",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "EGFR exon 20 insertion mutations are distinct from common EGFR mutations (Exon 19 deletion, L858R) and are generally resistant to first- and second-generation EGFR TKIs. Amivantamab is a bispecific antibody designed to target both EGFR and MET, offering a specific treatment option for this challenging mutation.",
+    "highYieldPearl": "Amivantamab is a key targeted therapy for the previously hard-to-treat EGFR Exon 20 insertion mutations.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "EGFR exon 20 insertions are often confused with the T790M resistance mutation (also in exon 20) or the common activating mutations. Knowing the specific drug for this distinct mutation is crucial.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_mutations_7z5isgno"
+  },
+  {
+    "question": "Selpercatinib is a highly selective inhibitor approved for NSCLC with fusions involving which gene?",
+    "options": {
+      "A": "BRAF",
+      "B": "ROS1",
+      "C": "RET",
+      "D": "HER2"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "RET rearrangements (fusions) define a small but distinct molecular subset of NSCLC. Selpercatinib is a potent and highly selective RET inhibitor specifically approved for the treatment of RET fusion-positive NSCLC, as well as medullary thyroid cancer and other RET-altered thyroid cancers.",
+    "highYieldPearl": "Selpercatinib and pralsetinib are highly selective RET inhibitors for RET fusion-positive NSCLC.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "This tests direct knowledge of specific drugs for specific fusions. Confusing RET with other fusion genes like ALK or ROS1, which have their own inhibitors, is the main trap.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_mutations_dgu1c4jv"
+  },
+  {
+    "question": "First-line treatment for advanced NSCLC with common activating EGFR mutations (Exon 19 deletion/L858R) is a/an?",
+    "options": {
+      "A": "Immunotherapy",
+      "B": "Platinum-based chemotherapy",
+      "C": "EGFR TKI",
+      "D": "ALK inhibitor"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "Activating EGFR mutations, primarily exon 19 deletions and L858R point mutations in exon 21, define a distinct subset of NSCLC that is highly sensitive to EGFR Tyrosine Kinase Inhibitors (TKIs). First-generation (e.g., gefitinib, erlotinib), second-generation (e.g., afatinib, dacomitinib), and third-generation (osimertinib) EGFR TKIs are standard first-line therapies, with osimertinib currently preferred due to superior efficacy and CNS penetration.",
+    "highYieldPearl": "Osimertinib is now the preferred first-line EGFR TKI for common EGFR mutations due to improved progression-free and overall survival, and better CNS activity.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Candidates might be tempted by immunotherapy, but for oncogene-driven NSCLC, targeted therapy is superior to immunotherapy or chemotherapy as first-line. ALK inhibitors are for ALK rearrangements, not EGFR mutations.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_mutations_mi8naz6o"
+  },
+  {
+    "question": "The most common acquired resistance mechanism to first-generation EGFR TKIs is a mutation in which exon?",
+    "options": {
+      "A": "Exon 18",
+      "B": "Exon 19",
+      "C": "Exon 20",
+      "D": "Exon 21"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "The EGFR T790M mutation, located in exon 20, is the most common acquired resistance mechanism (approximately 50-60% of cases) to first- and second-generation EGFR TKIs. This 'gatekeeper' mutation increases ATP affinity, reducing the effectiveness of these inhibitors. Third-generation EGFR TKIs like osimertinib were specifically designed to overcome T790M.",
+    "highYieldPearl": "T790M is located in EGFR exon 20 and is the primary target for third-generation EGFR TKIs after acquired resistance.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While exons 19 and 21 harbor common activating mutations, exon 20 contains the crucial T790M resistance mutation. Misidentifying the exon for resistance vs. activation is a common pitfall.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_mutations_mxm65jwv"
+  },
+  {
+    "question": "The gold standard for detecting ALK gene rearrangements in NSCLC is?",
+    "options": {
+      "A": "Immunohistochemistry (IHC)",
+      "B": "Fluorescence In Situ Hybridization (FISH)",
+      "C": "Polymerase Chain Reaction (PCR)",
+      "D": "Next-Generation Sequencing (NGS)"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "While NGS is increasingly used for comprehensive genomic profiling and IHC is a sensitive screening tool, FISH for ALK break-apart probes has historically been considered the gold standard for definitive ALK rearrangement detection in NSCLC, validated in clinical trials leading to ALK inhibitor approvals. NGS can detect a broader range of fusion partners and is becoming the preferred method in many centers.",
+    "highYieldPearl": "FISH is the historical gold standard for ALK; NGS is the modern comprehensive approach.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "IHC is a good screening test, and NGS is comprehensive, but FISH remains the 'gold standard' often cited for ALK in exams, especially when a single best answer is required based on historical validation.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_mutations_kgch1wn3"
+  },
+  {
+    "question": "Osimertinib is a third-generation EGFR TKI primarily targeting which EGFR mutation?",
+    "options": {
+      "A": "Exon 19 deletion",
+      "B": "L858R",
+      "C": "T790M",
+      "D": "Exon 20 insertion"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "Osimertinib is highly effective against the EGFR T790M resistance mutation, which commonly emerges after treatment with first- or second-generation EGFR TKIs. It also effectively targets the common activating mutations (Exon 19 deletion and L858R) and is now approved as a first-line therapy for these as well.",
+    "highYieldPearl": "Osimertinib's unique strength lies in overcoming T790M resistance, in addition to its efficacy against common activating mutations.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While Osimertinib also targets Exon 19 deletion and L858R, its *primary* and distinguishing target for its development and approval in the second-line setting was T790M.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_mutations_drb5vgyq"
+  },
+  {
+    "question": "Crizotinib is approved for NSCLC harboring rearrangements in ALK and which other gene?",
+    "options": {
+      "A": "EGFR",
+      "B": "KRAS",
+      "C": "ROS1",
+      "D": "BRAF"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "Crizotinib, a first-generation ALK inhibitor, is also active against ROS1 rearrangements. ROS1-rearranged NSCLC shares clinical and pathological features with ALK-rearranged NSCLC and responds well to ALK/ROS1 TKIs.",
+    "highYieldPearl": "Crizotinib is a dual ALK/ROS1 inhibitor.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While ALK is well-known for crizotinib, remembering its activity against ROS1 is key. The other options are distinct oncogenic drivers with different targeted therapies.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_mutations_bv1aqmkx"
+  },
+  {
+    "question": "Treatment for BRAF V600E mutated NSCLC typically involves combination therapy with a BRAF inhibitor and a/an?",
+    "options": {
+      "A": "ALK inhibitor",
+      "B": "MEK inhibitor",
+      "C": "EGFR TKI",
+      "D": "PD-1 inhibitor"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "BRAF V600E mutations activate the MAPK pathway. While BRAF inhibitors (e.g., dabrafenib) are effective, combining them with MEK inhibitors (e.g., trametinib) provides synergistic inhibition, reduces resistance, and improves outcomes in BRAF V600E-mutated NSCLC, similar to melanoma.",
+    "highYieldPearl": "BRAF V600E treatment in NSCLC mimics melanoma: BRAF inhibitor + MEK inhibitor combination.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Knowing that BRAF mutations are part of the MAPK pathway helps identify MEK as the logical co-target. The other options are for different molecular targets.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_mutations_olz2rvx1"
+  },
+  {
+    "question": "Which molecular testing method is most sensitive for detecting MET exon 14 skipping mutations?",
+    "options": {
+      "A": "FISH",
+      "B": "Immunohistochemistry (IHC)",
+      "C": "RNA-based sequencing",
+      "D": "DNA-based sequencing"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "MET exon 14 skipping mutations are splice site mutations that lead to the skipping of exon 14 during mRNA transcription. Since these are RNA-level events affecting splicing, RNA-based sequencing (e.g., RNA-seq) is superior to DNA-based sequencing for their detection, as DNA sequencing might miss the functional consequence of the splice site alteration.",
+    "highYieldPearl": "For splice variants like MET exon 14 skipping, RNA-based sequencing offers higher sensitivity.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "While DNA-based NGS is common, understanding the nature of a splice mutation (affecting RNA processing) points to RNA-based methods as more sensitive. FISH and IHC are not appropriate for this type of mutation.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_mutations_sifot4mg"
+  },
+  {
+    "question": "Sotorasib is a targeted therapy specifically approved for NSCLC patients with which mutation?",
+    "options": {
+      "A": "EGFR L858R",
+      "B": "ALK fusion",
+      "C": "KRAS G12C",
+      "D": "RET fusion"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "KRAS G12C is a specific subtype of KRAS mutation, historically considered 'undruggable.' Sotorasib (and adagrasib) are the first direct KRAS G12C inhibitors approved, marking a significant breakthrough in targeted therapy for NSCLC.",
+    "highYieldPearl": "Sotorasib is a landmark drug, the first approved direct KRAS G12C inhibitor.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "KRAS has long been a challenging target. Sotorasib's approval for the G12C subtype is a recent, high-yield development. Confusing it with other common targets is the main trap.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_mutations_ongw73p5"
+  },
+  {
+    "question": "Amivantamab is a bispecific antibody targeting EGFR and MET for NSCLC with which specific EGFR mutation?",
+    "options": {
+      "A": "L858R",
+      "B": "Exon 19 deletion",
+      "C": "T790M",
+      "D": "Exon 20 insertion"
+    },
+    "correctAnswer": "D",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "EGFR exon 20 insertion mutations are distinct from common EGFR mutations (Exon 19 deletion, L858R) and are generally resistant to first- and second-generation EGFR TKIs. Amivantamab is a bispecific antibody designed to target both EGFR and MET, offering a specific treatment option for this challenging mutation.",
+    "highYieldPearl": "Amivantamab is a key targeted therapy for the previously hard-to-treat EGFR Exon 20 insertion mutations.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "EGFR exon 20 insertions are often confused with the T790M resistance mutation (also in exon 20) or the common activating mutations. Knowing the specific drug for this distinct mutation is crucial.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_mutations_323ptu0p"
+  },
+  {
+    "question": "Selpercatinib is a highly selective inhibitor approved for NSCLC with fusions involving which gene?",
+    "options": {
+      "A": "BRAF",
+      "B": "ROS1",
+      "C": "RET",
+      "D": "HER2"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "RET rearrangements (fusions) define a small but distinct molecular subset of NSCLC. Selpercatinib is a potent and highly selective RET inhibitor specifically approved for the treatment of RET fusion-positive NSCLC, as well as medullary thyroid cancer and other RET-altered thyroid cancers.",
+    "highYieldPearl": "Selpercatinib and pralsetinib are highly selective RET inhibitors for RET fusion-positive NSCLC.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "This tests direct knowledge of specific drugs for specific fusions. Confusing RET with other fusion genes like ALK or ROS1, which have their own inhibitors, is the main trap.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_mutations_fjws7ber"
+  }
+]

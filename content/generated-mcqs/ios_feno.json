@@ -1,0 +1,894 @@
+[
+  {
+    "id": "rag_ios_feno_8bee00cc",
+    "question": "A 50-year-old patient with severe, uncontrolled asthma, characterized by frequent exacerbations despite maximal inhaled therapy and oral corticosteroids, is being considered for add-on biologic therapy. His blood eosinophil count is 100 cells/µL, FeNO is 15 ppb, and serum total IgE is 50 kU/L. Which of the following biologic agents would be a suitable consideration for this patient based on the provided information?",
+    "options": {
+      "A": "Dupilumab, given its efficacy in severe asthma with a history of exacerbations.",
+      "B": "An anti-IL5 agent, due to its role in targeting eosinophilic inflammation.",
+      "C": "Tezepelumab, as it may be considered in patients without elevated T2 markers.",
+      "D": "Omalizumab, given the patient's elevated serum total IgE level."
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "The patient presents with severe uncontrolled asthma and a history of frequent exacerbations. His biomarker profile includes a blood eosinophil count of 100 cells/µL (which is below the ≥150 cells/mL threshold for Dupilumab and generally below the thresholds for anti-IL5), a FeNO of 15 ppb (which is below the >25 ppb threshold for Dupilumab), and a serum total IgE of 50 kU/L (which is above the >30 kU/L threshold). The provided context states that Tezepelumab (anti-TSLP) 'may also be considered in patients with no elevated T2 markers.' This patient's low eosinophil count and FeNO clearly classify him into the 'no elevated T2 markers' category, making Tezepelumab a particularly suitable and highlighted option for this specific biomarker profile, especially when other biologics have stricter T2-high criteria that this patient does not meet.",
+    "highYieldPearl": "Rio's Take: Tezepelumab (anti-TSLP) is a crucial biologic option for severe asthma, uniquely positioned for patients with severe exacerbations who may not have elevated T2 inflammatory markers (low eosinophils and FeNO).",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Dupilumab requires either blood eosinophils ≥150 cells/mL or FeNO > 25 ppb for approval in severe eosinophilic asthma. The patient's values (Eos 100, FeNO 15) do not meet these specific criteria, making this option incorrect.",
+      "B": "Anti-IL5 agents are for eosinophilic asthma. While severe exacerbations are present, the patient's eosinophil count (100 cells/µL) is below common thresholds for strong anti-IL5 efficacy (e.g., ≥300 cells/µL mentioned in the severe asthma quadrants, or generally considered for higher eosinophilia).",
+      "D": "Omalizumab is indicated for elevated IgE, and this patient's IgE (50 kU/L) is above the 30 kU/L threshold. While Omalizumab is a possible consideration based on IgE, the patient's low eosinophils and FeNO (low T2 markers) specifically align with the unique indication of Tezepelumab, making it a more precisely targeted and distinctly 'suitable consideration' based on the comprehensive biomarker profile and the emphasis in the context."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "Role of Sound Frequency (Hz)",
+      "section": null,
+      "pageNumber": 10
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_005",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ios_feno_02002e74",
+    "question": "A patient experiencing an acute asthma exacerbation presents with significant respiratory distress, characterized by wheezing and tachypnea. Based on the provided pathophysiological understanding of asthma lung mechanics, which of the following statements is INCORRECT?",
+    "options": {
+      "A": "The acute increase in airway resistance during an exacerbation is typically non-uniform across the bronchial tree.",
+      "B": "Air trapping leads to a progressive elevation of the end-expiratory lung volume over successive breaths.",
+      "C": "Diminished flow rates during an exacerbation are primarily due to increased expiratory flow.",
+      "D": "The increased work of breathing necessitates activation of accessory muscles of respiration."
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "The provided text explicitly details several key pathophysiological changes during an asthma exacerbation:\n\nA. The text states: 'Sudden non uniform increase in airway resistance,' confirming this statement as correct.\nB. The text and accompanying diagram (Asthmatic Lungs) show 'Progressive increase in end-expiratory lung volume (air trapping), indicated by the rising baseline and labeled 'Vtrapped'.' This directly supports option B as correct.\nD. The text notes: '↑work of breathing' and 'Accessory muscles of respiration also become active,' directly supporting option D as correct.\nC. The text states 'diminished flow rates' and 'premature airway closure.' Asthma is an obstructive lung disease where the primary difficulty is with expiration, leading to air trapping. Therefore, flow rates are *diminished*, particularly expiratory flow rates, due to airway narrowing and premature closure. The statement 'primarily due to increased expiratory flow' is contradictory and incorrect; expiratory flow is decreased, not increased.",
+    "highYieldPearl": "Rio's Take: The hallmark of asthma exacerbation mechanics includes non-uniform airway resistance, air trapping leading to increased end-expiratory lung volume (Vtrapped), diminished expiratory flow rates, and increased work of breathing requiring accessory muscle use.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a direct quote from the text regarding the nature of increased airway resistance in asthma, making it a correct statement.",
+      "B": "Both the written text ('hyperinflation (air trapping)') and the 'Asthmatic Lungs' graph depicting 'Vtrapped' clearly illustrate a progressive increase in end-expiratory lung volume due to air trapping, making this a correct statement.",
+      "C": "This is the incorrect statement. Asthma, an obstructive disease, is characterized by *diminished* (reduced) flow rates, especially expiratory flow, due to narrowed airways and premature airway closure, not increased flow.",
+      "D": "The text explicitly links '↑work of breathing' with 'Accessory muscles of respiration also become active,' indicating this as a correct pathophysiological response."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "Role of Sound Frequency (Hz)",
+      "section": null,
+      "pageNumber": 10
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_005",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ios_feno_d9c9f397",
+    "question": "A 35-year-old baker, with a documented history of asthma since childhood, presents with increasing cough, wheezing, and shortness of breath. He reports that his symptoms significantly worsen during his work shifts and tend to improve on weekends or during extended periods away from work. He has increased his reliever inhaler use specifically at the workplace. He denies any new specific occupational sensitizer exposures that he believes *initiated* his asthma. Based on the provided criteria, what is the most appropriate classification of his condition?",
+    "options": {
+      "A": "Sensitizer-induced occupational asthma.",
+      "B": "Work-exacerbated asthma.",
+      "C": "Irritant-induced asthma.",
+      "D": "Asthma-COPD Overlap Syndrome."
+    },
+    "correctAnswer": "B",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "The patient's presentation aligns perfectly with the four criteria for Work-Exacerbated Asthma (WEA) as defined in the provided context:\n1.  **Pre-existing or concurrent asthma**: He has a 'documented history of asthma since childhood,' indicating pre-existing asthma not caused by current workplace exposures.\n2.  **Increased frequency of asthma symptoms, medication use, or health-care use temporally associated with work**: His symptoms 'significantly worsen during his work shifts and tend to improve on weekends or during extended periods away from work,' and he 'increased his reliever inhaler use specifically at the workplace.'\n3.  **Workplace exposures or conditions exist that can exacerbate asthma**: A bakery environment often contains airborne irritants (e.g., flour dust) that can exacerbate asthma.\n4.  **Occupational asthma (OA) is unlikely**: He 'denies any new specific occupational sensitizer exposures that he believes *initiated* his asthma,' which explicitly rules out sensitizer-induced OA.",
+    "highYieldPearl": "Rio's Take: Work-Exacerbated Asthma (WEA) is characterized by pre-existing asthma that is worsened by workplace conditions, where the workplace exposure does *not* cause the asthma. This distinguishes it from occupational asthma, which is caused by specific workplace exposures.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is incorrect because sensitizer-induced occupational asthma implies the workplace exposure *caused* the asthma, but the patient denies any new sensitizer exposures that *initiated* his condition. He has pre-existing asthma.",
+      "C": "While workplace irritants might be exacerbating his asthma, the specific diagnostic criteria for Irritant-induced asthma are not provided in the text to definitively classify it as such, nor is there sufficient information to distinguish it from WEA. However, the patient fully meets the detailed criteria for WEA.",
+      "D": "This is incorrect. The patient is young (35 years old) with a history of childhood asthma, which does not fit the typical profile for COPD (elderly, smoking history, disease onset in 4th/5th decade)."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "Role of Sound Frequency (Hz)",
+      "section": null,
+      "pageNumber": 10
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_005",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ios_feno_8fdeab56",
+    "question": "A 25-year-old male presents to the emergency department with acute onset breathlessness and wheezing following exposure to dust. Physical examination reveals tachypnea and diffuse wheezes. Based on the underlying pathophysiology of asthma, which of the following is an immediate consequence of the bronchial smooth muscle contraction in this patient?",
+    "options": {
+      "A": "Gradual uniform decrease in airway resistance.",
+      "B": "Persistent increase in expiratory flow rates.",
+      "C": "Premature airway closure and air trapping.",
+      "D": "Decreased work of breathing and improved elastic recoil."
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "In asthma, triggers lead to bronchospasm and smooth muscle contraction. This results in a sudden, non-uniform increase in airway resistance. Consequently, there are diminished flow rates and premature airway closure, especially during expiration, leading to hyperinflation and air trapping within the lungs and thorax. This phenomenon significantly increases the work of breathing and alters the elastic recoil properties of the lungs.",
+    "highYieldPearl": "Rio's Take: Air trapping and hyperinflation are hallmark physiological changes in acute asthma exacerbations, leading to increased work of breathing and use of accessory muscles.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is incorrect. Asthma involves a sudden, non-uniform increase in airway resistance due to bronchospasm, not a gradual uniform decrease.",
+      "B": "This is incorrect. Airway narrowing and premature closure diminish flow rates, particularly expiratory flow, leading to dyspnea.",
+      "C": "This is the correct answer. The provided text explicitly states that increased airway resistance leads to 'diminished flow rates/premature airway closure' which then results in 'Hyperinflation (air trapping) of lungs and thorax.'",
+      "D": "This is incorrect. Air trapping and increased resistance lead to increased work of breathing and changes (not improvement) in elastic recoil, often decreasing effective elastic recoil."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "Role of Sound Frequency (Hz)",
+      "section": null,
+      "pageNumber": 10
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_005",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ios_feno_7e361864",
+    "question": "A 40-year-old female with severe eosinophilic asthma, characterized by recurrent exacerbations despite high-dose inhaled corticosteroids and long-acting beta-agonists, is being considered for Dupilumab (anti-IL4R alpha) therapy.",
+    "options": {
+      "A": "Blood eosinophil count of 100 cells/mL.",
+      "B": "FeNO value of 20 ppb.",
+      "C": "Blood eosinophil count of 250 cells/mL.",
+      "D": "Serum total IgE level of 800 kU/L."
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "Dupilumab (anti-IL4R alpha) therapy targets the IL-4 and IL-13 pathways, which are central to type 2 inflammation in asthma. The provided context explicitly states that 'Higher blood eosinophils +++' and 'Higher FeNO +++' predict a good response. Specifically, approval criteria include a blood eosinophil count of ≥150 cells/mL or a FeNO > 25 ppb. A count of 250 cells/mL meets this criterion and is a strong predictor.",
+    "highYieldPearl": "Rio's Take: For anti-IL4R alpha therapy (Dupilumab), high blood eosinophils (≥150 cells/mL) and/or high FeNO (>25 ppb) are key biomarkers predicting treatment efficacy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is below the threshold (≥150 cells/mL) mentioned for predicting good response to anti-IL4R alpha therapy.",
+      "B": "This is below the threshold (>25 ppb) mentioned for predicting good response to anti-IL4R alpha therapy.",
+      "C": "This is the correct answer. It meets the criterion of '≥150 cells/mL' and is explicitly listed as a strong predictor of good response to anti-IL4R therapy.",
+      "D": "While elevated IgE is relevant for atopic asthma and specifically for Omalizumab, the provided text does not list high IgE as a primary predictor for good response to anti-IL4R alpha therapy. The key predictors for anti-IL4R are eosinophils and FeNO."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "Role of Sound Frequency (Hz)",
+      "section": null,
+      "pageNumber": 10
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_005",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ios_feno_aad085cd",
+    "question": "A 35-year-old patient with persistent allergic asthma undergoes evaluation, revealing elevated fractional exhaled nitric oxide (FeNO) levels and evidence of significant airway eosinophilia in sputum samples.",
+    "options": {
+      "A": "IL-4 and IL-13.",
+      "B": "IL-5 and TNF-alpha.",
+      "C": "TSLP and IL-17.",
+      "D": "IFN-gamma and IL-10."
+    },
+    "correctAnswer": "A",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "The provided text explicitly states: 'IL4 & IL13 → recruitment of eosinophils, B cell class switch to IgE production, goblet cell hyperplasia and mucus production, airway remodeling & airway epithelial cell expression of iNOS => FeNO.' Therefore, IL-4 and IL-13 are directly implicated in both eosinophil recruitment and the iNOS-mediated increase in FeNO.",
+    "highYieldPearl": "Rio's Take: IL-4 and IL-13 are pivotal T2 cytokines driving key asthma features including eosinophilic inflammation, mucus hypersecretion, and FeNO elevation through iNOS expression.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct answer. The text directly links IL-4 and IL-13 to 'recruitment of eosinophils' and 'airway epithelial cell expression of iNOS => FeNO'.",
+      "B": "IL-5 is crucial for eosinophil maturation and survival, but TNF-alpha is a broader inflammatory cytokine and not specifically linked to iNOS/FeNO as directly as IL-4/IL-13 in this context.",
+      "C": "TSLP is an upstream epithelial alarmin that initiates T2 inflammation, but it's not the direct effector cytokine for eosinophil recruitment and FeNO as IL-4/IL-13 are. IL-17 is more associated with neutrophilic inflammation, not the eosinophilic phenotype described.",
+      "D": "IFN-gamma is a Th1 cytokine, generally counter-regulatory to Th2, and IL-10 is an anti-inflammatory cytokine. Neither are primarily responsible for the described Th2-driven eosinophilic inflammation and FeNO increase."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "Role of Sound Frequency (Hz)",
+      "section": null,
+      "pageNumber": 10
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_005",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ios_feno_433e7e13",
+    "question": "A 48-year-old male with severe, uncontrolled eosinophilic asthma presents with recurrent exacerbations despite optimal inhaled corticosteroid/LABA therapy. His recent blood eosinophil count is 450 cells/µL, and FeNO is 55 ppb. He is being considered for Dupilumab. Which of the following accurately describes the primary mechanism by which Dupilumab is expected to improve his asthma symptoms and reduce exacerbations?",
+    "options": {
+      "A": "It inhibits the binding of IgE to its receptors on mast cells and basophils, preventing mediator release.",
+      "B": "It blocks the function of IL-5, thereby reducing the production and survival of eosinophils.",
+      "C": "It binds to circulating TSLP, an epithelial-derived alarmin, preventing downstream inflammatory cascades.",
+      "D": "It targets the α-unit of the IL-4 receptor, thereby blocking signaling from both IL-4 and IL-13."
+    },
+    "correctAnswer": "D",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "Dupilumab is a monoclonal antibody that targets the α-subunit of the IL-4 receptor. This receptor subunit is shared by both the IL-4 and IL-13 signaling pathways. By blocking this shared receptor component, Dupilumab effectively inhibits the downstream effects of both IL-4 and IL-13. These cytokines are central to Type 2 (T2) inflammation, driving processes such as eosinophil recruitment and survival, B cell class switching to IgE production, goblet cell hyperplasia with mucus overproduction, airway remodeling, and airway epithelial cell expression of iNOS leading to increased FeNO. In a patient with high eosinophils and FeNO, blocking these pathways directly addresses the core pathophysiology of their severe eosinophilic asthma.",
+    "highYieldPearl": "Rio's Take: Dupilumab is unique in targeting *both* IL-4 and IL-13 by blocking their shared receptor component, making it effective for T2-high asthma with elevated eosinophils and/or FeNO, as these biomarkers are direct consequences of IL-4/IL-13 activity.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This describes the mechanism of Omalizumab, an anti-IgE biologic, which is a plausible therapy for severe asthma but targets a different pathway than Dupilumab.",
+      "B": "This describes the mechanism of anti-IL-5 biologics (e.g., Mepolizumab, Reslizumab) or anti-IL-5Rα (e.g., Benralizumab), which are also used for severe eosinophilic asthma but are distinct from Dupilumab's mechanism.",
+      "C": "This describes the mechanism of Tezepelumab, an anti-TSLP biologic, which acts upstream of multiple T2 inflammatory pathways but is not the mechanism of Dupilumab.",
+      "D": "This is the correct mechanism, directly stated in the context, highlighting Dupilumab's unique action on the IL-4Rα subunit to inhibit both IL-4 and IL-13 signaling."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "Role of Sound Frequency (Hz)",
+      "section": null,
+      "pageNumber": 10
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_005",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ios_feno_de954245",
+    "question": "A 35-year-old female with severe asthma, poorly controlled despite high-dose inhaled corticosteroids and a long-acting beta2-agonist, presents with frequent exacerbations. Her current blood eosinophil count is 250 cells/µL, and her FeNO level is 30 ppb. Her total serum IgE is 80 kU/L. Which biologic therapy would be most appropriate, given these markers, to target the underlying T2 inflammatory pathway responsible for both her elevated FeNO and eosinophilia?",
+    "options": {
+      "A": "Omalizumab",
+      "B": "Mepolizumab",
+      "C": "Dupilumab",
+      "D": "Tezepelumab"
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "The patient's markers (blood eosinophils ≥150 cells/µL and FeNO > 25 ppb) meet the specific criteria for Dupilumab as mentioned in the context. Furthermore, the pathophysiology described for IL-4 and IL-13 includes 'recruitment of eosinophils' and 'airway epithelial cell expression of iNOS => FeNO'. Since Dupilumab blocks both IL-4 and IL-13 signaling, it directly addresses both elevated FeNO (primarily via IL-13) and eosinophilia (via both IL-4 and IL-13) as requested in the question. While other biologics might be considered in severe asthma, Dupilumab offers the most direct and comprehensive targeting of the pathways driving both these specific biomarkers.",
+    "highYieldPearl": "Rio's Take: For severe asthma with *both* elevated FeNO and eosinophils, Dupilumab is a strong candidate because its IL-4Rα blockade directly impacts the IL-13 pathway (FeNO) and both IL-4/IL-13 pathways (eosinophilia, IgE class switch).",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Omalizumab targets IgE. While the patient has elevated IgE, Dupilumab offers a more direct blockade of the pathways leading to *both* FeNO and eosinophilia. The question specifically asks to target pathways responsible for *both* biomarkers.",
+      "B": "Mepolizumab targets IL-5, primarily reducing eosinophils. While effective for eosinophilia, it does not directly address FeNO, which is predominantly driven by IL-13. The question asks for a therapy targeting *both* elevated FeNO and eosinophilia.",
+      "C": "Dupilumab directly blocks IL-4 and IL-13. IL-13 is strongly associated with FeNO, and both IL-4 and IL-13 contribute to eosinophil recruitment and survival. This aligns perfectly with targeting both elevated FeNO and eosinophilia.",
+      "D": "Tezepelumab (anti-TSLP) acts upstream of multiple T2 pathways and is suitable for a broad range of severe asthma phenotypes, including T2-high. However, given the specific request to target the pathway responsible for *both* elevated FeNO and eosinophilia, Dupilumab provides a more direct and specific blockade of the relevant cytokines (IL-4/IL-13) that directly cause these markers according to the context."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "Role of Sound Frequency (Hz)",
+      "section": null,
+      "pageNumber": 10
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_005",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ios_feno_870d78da",
+    "question": "A 28-year-old patient presents to the emergency department with an acute asthma exacerbation, characterized by severe dyspnea, prolonged expiration, and wheezing. On examination, accessory muscles of respiration are visibly active. From a pathophysiological perspective, which of the following is the most direct consequence of the sudden, non-uniform increase in airway resistance in this patient?",
+    "options": {
+      "A": "A decrease in the functional residual capacity (FRC).",
+      "B": "An improvement in ventilation-perfusion matching.",
+      "C": "Premature airway closure and subsequent air trapping.",
+      "D": "A reduction in the overall work of breathing."
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "The core pathophysiological event in an asthma exacerbation is a sudden, non-uniform increase in airway resistance due to bronchoconstriction, inflammation, and mucus plugging. As directly stated in the context, this leads to 'diminished flow rates/ premature airway closure' and subsequently '(Hyperinflation) (air trapping) of lungs and thorax.' This air trapping results in an increase in end-expiratory lung volume (FRC) and increased work of breathing, manifested clinically as prolonged expiration, dyspnea, and accessory muscle use. It also causes an abnormal distribution of ventilation and perfusion (V/Q mismatch).",
+    "highYieldPearl": "Rio's Take: Increased airway resistance in asthma directly causes premature airway closure, especially during expiration, leading to air trapping, hyperinflation, and increased work of breathing. This is the hallmark of acute asthma lung mechanics.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "In asthma exacerbations, air trapping leads to hyperinflation, which *increases* the functional residual capacity (FRC), not decreases it. The visual aid also shows a rising baseline FRC ('Vtrapped').",
+      "B": "The non-uniform increase in airway resistance and changes in lung mechanics lead to an *abnormal* distribution of ventilation and perfusion, resulting in V/Q mismatch and hypoxemia, not an improvement.",
+      "C": "This is a direct quote from the provided text, stating that increased airway resistance leads to diminished flow rates and premature airway closure, causing hyperinflation and air trapping.",
+      "D": "The increased airway resistance, hyperinflation, and efforts to overcome these lead to a significant *increase* in the work of breathing, often involving accessory muscles, as described in the vignette and context."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "Role of Sound Frequency (Hz)",
+      "section": null,
+      "pageNumber": 10
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_005",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ios_feno_adeeeef0",
+    "question": "A 42-year-old patient with severe, uncontrolled asthma experiences frequent exacerbations requiring oral corticosteroids despite optimal inhaled therapy. The pulmonologist is considering adding a biologic agent. Which combination of biomarkers would most strongly support the initiation of dupilumab for this patient?",
+    "options": {
+      "A": "Blood eosinophil count of 80 cells/mL and FeNO of 18 ppb.",
+      "B": "Blood eosinophil count of 200 cells/mL and FeNO of 30 ppb.",
+      "C": "Blood eosinophil count of 400 cells/mL and serum total IgE of 150 kU/L.",
+      "D": "Sputum eosinophil percentage of 8% and serum total IgE of 50 kU/L."
+    },
+    "correctAnswer": "B",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "Dupilumab, an anti-IL4R biologic, targets the alpha-unit of the IL-4 receptor, thereby blocking both IL-4 and IL-13 signaling. This leads to a reduction in T2-cytokine mediated inflammation, including eosinophil recruitment, IgE production, and FeNO expression. Per guidelines, dupilumab is approved for severe eosinophilic asthma with exacerbations and either a blood eosinophil count of ≥150 cells/mL or a FeNO > 25 ppb. Factors predicting a good response to anti-IL4R therapy include higher blood eosinophils and higher FeNO levels. Option B presents values for both blood eosinophils (200 cells/mL) and FeNO (30 ppb) that exceed the specified thresholds, indicating a strong likelihood of response to dupilumab. While high blood eosinophils (as in option C) or sputum eosinophils (as in option D) are indicative of T2 inflammation, the specific combination of elevated blood eosinophils AND FeNO, as per the provided context, represents the most direct and strongest predictor for dupilumab response.",
+    "highYieldPearl": "Rio's Take: For Dupilumab, think 'double-high' – high blood eosinophils AND high FeNO are the strongest indicators for efficacy. While one of them might be sufficient for eligibility, having both elevated above threshold predicts a superior response.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "These values are below the recommended thresholds for either blood eosinophils (≥150 cells/mL) or FeNO (> 25 ppb) to initiate dupilumab, making a strong response unlikely.",
+      "B": "This option meets both criteria (blood eosinophils ≥150 cells/mL and FeNO > 25 ppb), directly aligning with the eligibility and predictors of good response for dupilumab. This makes it the single best answer.",
+      "C": "While a high blood eosinophil count (400 cells/mL) is a strong indicator of T2 inflammation and eligibility, the absence of FeNO data and the reliance on IgE, which is not highlighted as a primary predictor for dupilumab, makes it a less specific and direct indicator than option B for Dupilumab's efficacy, even though it may suggest atopy.",
+      "D": "Sputum eosinophils are a direct measure of airway inflammation, but the specific predictors listed for dupilumab are blood eosinophil count and FeNO. Total serum IgE, while relevant for other biologics like omalizumab, is not the primary biomarker for predicting dupilumab response. Thus, this option, while indicating eosinophilic inflammation, is not the strongest or most specific predictor for dupilumab efficacy among the choices provided."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "Role of Sound Frequency (Hz)",
+      "section": null,
+      "pageNumber": 10
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_005",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ios_feno_4272eda8",
+    "question": "A 28-year-old male with a history of asthma presents to the emergency department with acute severe dyspnea, wheezing, and is noted to be using his sternocleidomastoid and scalene muscles. Which of the following pathophysiological mechanisms primarily explains his increased work of breathing and accessory muscle use?",
+    "options": {
+      "A": "Diffuse alveolar capillary leak leading to pulmonary edema.",
+      "B": "Reduced functional residual capacity due to widespread atelectasis.",
+      "C": "Sudden, non-uniform increase in airway resistance and premature airway closure.",
+      "D": "Systemic inflammation leading to direct diaphragmatic muscle fatigue."
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "Acute asthma exacerbations are characterized by bronchospasm and inflammation, leading to a sudden, non-uniform increase in airway resistance. This increased resistance diminishes flow rates, particularly during expiration, resulting in premature airway closure and subsequent air trapping (hyperinflation) within the lungs. The increased lung volume and air trapping elevate the work of breathing and alter elastic recoil. To overcome these changes and maintain adequate ventilation, the body recruits accessory muscles of respiration (such as the sternocleidomastoid and scalene muscles), which is a hallmark sign of respiratory distress in asthma. Options A, B, and D describe other respiratory pathologies or secondary effects that are not the primary cause of increased work of breathing and accessory muscle use in acute asthma.",
+    "highYieldPearl": "Rio's Take: The core problem in acute asthma is increased airway resistance, leading to air trapping. This mechanical overload forces the body to use accessory muscles to breathe, a classic sign of respiratory distress.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Diffuse alveolar capillary leak causes pulmonary edema, which primarily leads to stiff lungs and impaired gas exchange, not the primary mechanism of increased airway resistance and air trapping seen in asthma.",
+      "B": "In acute asthma, air trapping leads to an *increase* in functional residual capacity (FRC) and total lung capacity, not a reduction due to atelectasis. Atelectasis is typically associated with reduced lung volumes and altered gas exchange, not the hyperinflation characteristic of asthma.",
+      "C": "This option accurately describes the fundamental pathophysiological changes in acute asthma: increased airway resistance due to bronchospasm and inflammation, leading to premature airway closure, air trapping, hyperinflation, and consequently, increased work of breathing and accessory muscle recruitment.",
+      "D": "While severe systemic inflammation can indirectly affect muscle function, direct diaphragmatic muscle fatigue is a consequence of prolonged increased work of breathing, not the primary mechanism *causing* the increased work itself in acute asthma. The initial problem is mechanical obstruction."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "Role of Sound Frequency (Hz)",
+      "section": null,
+      "pageNumber": 10
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_005",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ios_feno_b1fd1be8",
+    "question": "A 50-year-old female with severe, uncontrolled asthma experiences recurrent exacerbations despite optimal inhaled corticosteroid/LABA therapy and regular low-dose oral corticosteroids. Her recent investigations reveal a persistently low blood eosinophil count (80 cells/µL), a FeNO of 12 ppb, and a total serum IgE of 60 kU/L. Which of the following biologic agents would be most appropriate for this patient?",
+    "options": {
+      "A": "Dupilumab",
+      "B": "Omalizumab",
+      "C": "Mepolizumab",
+      "D": "Tezepelumab"
+    },
+    "correctAnswer": "D",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "This patient presents with severe, uncontrolled asthma with biomarkers indicative of a 'Th2-low' phenotype (low blood eosinophils, low FeNO). Dupilumab (anti-IL4R) and Mepolizumab (anti-IL5) are primarily indicated for T2-high (eosinophilic) asthma, requiring elevated blood eosinophils (typically ≥150-300 cells/µL) or FeNO (>25 ppb) for optimal efficacy. Omalizumab (anti-IgE) is indicated for allergic asthma with elevated IgE levels, usually in a higher range and specific for atopic patients. Tezepelumab (anti-TSLP) is an anti-alarmin biologic that works upstream in the inflammatory cascade by blocking TSLP, a cytokine derived from bronchial epithelial cells. Its mechanism allows it to be effective across different asthma phenotypes, including those with no elevated T2 markers (Th2-low asthma), as explicitly mentioned in the context. Given the patient's low eosinophils and FeNO, Tezepelumab is the most appropriate choice among the listed biologics.",
+    "highYieldPearl": "Rio's Take: For severe asthma patients with low T2 biomarkers (low eosinophils, low FeNO), Tezepelumab is the go-to biologic because it works upstream of the T2 pathway and is effective across various asthma phenotypes, including Th2-low.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Dupilumab requires elevated T2 markers, specifically blood eosinophils ≥150 cells/mL or FeNO > 25 ppb, which are not present in this patient.",
+      "B": "Omalizumab is indicated for allergic asthma with elevated IgE. While this patient has IgE of 60 kU/L (above the 30 kU/L threshold), the low eosinophils and FeNO suggest a Th2-low phenotype, making omalizumab less likely to be optimally effective compared to a broader-acting agent like tezepelumab for this specific biomarker profile.",
+      "C": "Mepolizumab (anti-IL5) is primarily indicated for severe eosinophilic asthma and requires significantly elevated blood eosinophil counts (e.g., ≥300 cells/µL or ≥150 cells/µL in some guidelines), which are not present in this patient.",
+      "D": "Tezepelumab binds circulating TSLP, acting upstream of the T2 pathway. It is specifically mentioned as a consideration for patients with no elevated T2 markers, making it the most appropriate choice for this patient with Th2-low asthma."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "Role of Sound Frequency (Hz)",
+      "section": null,
+      "pageNumber": 10
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_005",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ios_feno_9600de47",
+    "question": "A 45-year-old female presents with severe asthma, requiring daily high-dose inhaled corticosteroids and a long-acting beta-agonist, alongside frequent oral corticosteroid bursts for exacerbations. She reports persistent dyspnea, night awakenings, and has had 4 severe exacerbations requiring hospitalization in the past year. Her blood eosinophil count is consistently between 180-220 cells/µL, and her FeNO ranges from 28-35 ppb. Total serum IgE is 180 kU/L. Spirometry shows FEV1 60% predicted with significant reversibility. She also has a history of moderate atopic dermatitis and chronic rhinosinusitis with nasal polyposis. She failed to respond adequately to previous anti-IL5 therapy.",
+    "options": {
+      "A": "Given her current biomarker profile, anti-TSLP therapy would likely be the most effective next step.",
+      "B": "The patient's history of atopic dermatitis and nasal polyposis strongly suggests a predominant IL-4/IL-13 mediated inflammation, making dupilumab a suitable option.",
+      "C": "Her blood eosinophil count and FeNO levels are insufficient to categorize her asthma as T2-high, thus limiting biologic options to TSLP-pathway modifiers.",
+      "D": "The previous failure of anti-IL5 therapy indicates a non-T2 phenotype, warranting consideration of non-biologic therapies like macrolides or bronchial thermoplasty."
+    },
+    "correctAnswer": "B",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "The patient exhibits classic features of severe T2-high asthma, with elevated blood eosinophils (180-220 cells/µL, which is ≥150 cells/µL) and FeNO (28-35 ppb, which is > 25 ppb). Her history of moderate atopic dermatitis and chronic rhinosinusitis with nasal polyposis are all well-established comorbidities linked to IL-4 and IL-13 driven inflammation. Dupilumab, by blocking the α-unit of the IL-4 receptor, effectively inhibits both IL-4 and IL-13 signaling. This mechanism directly addresses the broad T2-inflammation responsible for her asthma and its associated atopic conditions, making it a highly suitable and often preferred biologic option in such a clinical scenario, especially after failing an anti-IL5 agent which targets a narrower aspect of T2 inflammation.",
+    "highYieldPearl": "Rio's Take: Dupilumab's broad blockade of IL-4 and IL-13 makes it effective in patients with multi-systemic T2-driven inflammatory diseases like severe eosinophilic asthma, atopic dermatitis, and nasal polyposis. High eosinophil count (≥150 cells/µL) or FeNO (>25 ppb) are key predictors of response.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "While anti-TSLP (Tezepelumab) is effective across all severe asthma phenotypes, including T2-high, stating it would be the 'most effective next step' is speculative, especially given the clear IL-4/IL-13 mediated comorbidities (atopic dermatitis, nasal polyposis) that are specifically targeted by dupilumab. Tezepelumab's unique advantage is often highlighted for T2-low patients or those who have failed other T2 biologics due to its upstream action.",
+      "B": "Correct. This option accurately links the patient's specific comorbidities (atopic dermatitis, nasal polyposis) to the known roles of IL-4 and IL-13 in their pathophysiology. Dupilumab's mechanism of blocking these cytokines makes it a very appropriate choice for this patient profile, who also meets the biomarker criteria for severe eosinophilic asthma.",
+      "C": "Incorrect. The patient's blood eosinophil count (≥150 cells/µL) and FeNO (>25 ppb) clearly classify her asthma as T2-high according to guidelines for biologic eligibility. Therefore, this statement is factually wrong and the conclusion derived from it is flawed.",
+      "D": "Incorrect. Failure of one T2 biologic (anti-IL5) does not automatically indicate a non-T2 phenotype, especially when other strong T2 markers (FeNO, IgE, comorbidities) are present. It suggests that her T2 inflammation might be driven more dominantly by other pathways (e.g., IL-4/IL-13) or that the anti-IL5 therapy was insufficient to control the overall T2 burden. Macrolides or bronchial thermoplasty are typically considered for T2-low asthma."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "Role of Sound Frequency (Hz)",
+      "section": null,
+      "pageNumber": 10
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_005",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ios_feno_5c022ed6",
+    "question": "A 28-year-old male with a history of severe persistent asthma presents to the emergency department with acute dyspnea, wheezing, and cough. On examination, he is tachypneic, using accessory muscles of respiration, and has diffuse expiratory wheezes. Arterial blood gas shows respiratory alkalosis with mild hypoxemia. Despite initial bronchodilator therapy, his symptoms worsen, and he becomes increasingly distressed.",
+    "options": {
+      "A": "Initial increased airway resistance primarily leads to premature inspiratory airway closure, causing functional residual capacity reduction and increased elastic recoil.",
+      "B": "Non-uniform airway narrowing results in widespread ventilation-perfusion mismatch and air trapping, which progressively increases the end-expiratory lung volume.",
+      "C": "Bronchospasm directly causes a reduction in total lung capacity due to excessive smooth muscle contraction, thereby limiting the ability to inspire deeply.",
+      "D": "The rapid decline in FEV1 triggers compensatory hyperventilation, which directly normalizes CO2 levels but exacerbates hypoxia due to increased dead space ventilation."
+    },
+    "correctAnswer": "B",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "In acute severe asthma, the pathophysiology is characterized by sudden, non-uniform increases in airway resistance due to bronchoconstriction, mucus plugging, and airway wall edema. This leads to diminished expiratory flow rates and premature airway closure, causing air trapping and dynamic hyperinflation, which is reflected as a progressive increase in end-expiratory lung volume (Vtrapped). The non-uniformity of airway obstruction results in areas of varied ventilation relative to perfusion, leading to significant ventilation-perfusion (V/Q) mismatch and hypoxemia. The increased work of breathing and hyperinflation contribute to the patient's respiratory distress and accessory muscle use.",
+    "highYieldPearl": "Rio's Take: Air trapping and V/Q mismatch are hallmarks of acute severe asthma. Dynamic hyperinflation increases end-expiratory lung volume (FRC), thereby increasing the work of breathing and impeding effective ventilation.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Incorrect. The key issue is premature *expiratory* airway closure leading to air trapping and *increased* (not reduced) functional residual capacity (FRC) and end-expiratory lung volume (EELV). While elastic recoil changes, it's not the primary cause of FRC reduction.",
+      "B": "Correct. This accurately describes the sequence: non-uniform airway narrowing (due to bronchospasm, edema, mucus) leads to V/Q mismatch and premature expiratory airway closure, resulting in air trapping and progressive dynamic hyperinflation, which is seen as an increased end-expiratory lung volume.",
+      "C": "Incorrect. Bronchospasm does not typically reduce total lung capacity (TLC). In fact, due to air trapping, functional residual capacity and residual volume are increased, and TLC may remain normal or slightly increased. The limitation is primarily in expiration, leading to air trapping, not primarily reduced inspiration due to restricted TLC.",
+      "D": "Incorrect. While compensatory hyperventilation initially can normalize or lower CO2 (leading to respiratory alkalosis), the primary cause of hypoxemia is V/Q mismatch, not solely 'increased dead space ventilation' as a mechanism for exacerbated hypoxia. The statement oversimplifies the complex gas exchange abnormalities and presents a potentially misleading causal link."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "Role of Sound Frequency (Hz)",
+      "section": null,
+      "pageNumber": 10
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_005",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ios_feno_09e7286e",
+    "question": "A 38-year-old librarian develops worsening asthma symptoms including cough, wheezing, and chest tightness primarily during her work shifts, particularly when handling old books or working in dusty areas. Her symptoms usually improve significantly on weekends and during holidays. She had been diagnosed with mild intermittent asthma in childhood, which was well-controlled until she started this job 5 years ago. Pulmonary function tests show reversible airway obstruction. Blood eosinophil count is 280 cells/µL, total serum IgE is 85 kU/L. A specific IgE test for common environmental allergens (dust mites, pollen) is positive, but specific IgE to components found in old books (e.g., fungi, book lice) is pending.",
+    "options": {
+      "A": "Her current presentation is most consistent with an eosinophilic, IgE-mediated atopic asthma phenotype.",
+      "B": "Her symptoms are highly suggestive of sensitizer-induced occupational asthma.",
+      "C": "Tezepelumab could be a viable treatment option if her asthma remains uncontrolled after addressing workplace exposures, given her T2-high features.",
+      "D": "Prompt removal from or significant reduction of exposure to the specific workplace triggers, once identified and confirmed, is a crucial management strategy for her condition."
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "The patient's clinical presentation (symptoms worsening at work, improving away from work, new onset/worsening after starting a specific job) is highly classic for sensitizer-induced occupational asthma. Her elevated IgE (85 kU/L) and eosinophils (280 cells/µL), along with positive specific IgE to environmental allergens, confirm an underlying T2-high, atopic phenotype. Addressing workplace exposure (option D) is a cornerstone of management for occupational asthma. Options A, B, and D are all accurate statements regarding her condition.\n\nTezepelumab (anti-TSLP) is an effective biologic for severe asthma across all phenotypes, including T2-high, and therefore 'could be a viable treatment option.' However, the provided context highlights that anti-TSLP 'may also be considered in patients with no elevated T2 markers.' For a patient with such clear and robust T2-high markers (high IgE and eosinophils), other T2-targeting biologics like omalizumab (anti-IgE), anti-IL5, or dupilumab (anti-IL4R) are often considered more directly indicated or first-line choices based on their specific targeting of the identified T2 pathways. Therefore, while Tezepelumab is not contraindicated, the statement that it 'could be a viable treatment option... given her T2-high features' is perhaps the 'LEAST likely to be true' in the sense of being the *most precisely indicated* or *primary interpretation* of her T2-high profile for initial biologic selection, compared to other T2 biologics more explicitly linked to those markers in the provided context and general guidelines. The question probes the nuanced understanding of biologic selection based on phenotype emphasis.",
+    "highYieldPearl": "Rio's Take: While Tezepelumab is broadly effective, its unique utility is often emphasized for T2-low asthma. For patients with clear T2-high markers, consider if other T2-specific biologics (anti-IgE, anti-IL5, anti-IL4R) align more directly with the predominant inflammatory pathways.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This statement is highly likely to be true. Her IgE (85 kU/L) is well above the 30 kU/L threshold, and eosinophils (280 cells/µL) are significantly elevated (often >150 cells/µL is considered T2-high), making it an eosinophilic and IgE-mediated atopic phenotype. Positive specific IgE further supports atopy. This accurately describes her underlying asthma type.",
+      "B": "This statement is highly likely to be true. The classic history of symptoms developing or worsening at work, improving away from work, and occurring after starting a new job with potential sensitizers, strongly points towards sensitizer-induced occupational asthma. This is a textbook presentation.",
+      "C": "This is the LEAST likely to be true in the nuanced context of optimal biologic selection. While Tezepelumab is effective for severe asthma across all phenotypes, the provided context specifically highlights its consideration for patients 'with no elevated T2 markers'. For a patient with such clear T2-high features (high IgE and eosinophils), other biologics directly targeting the downstream T2 pathways (e.g., omalizumab for high IgE, anti-IL5 for eosinophilia, or dupilumab for broad T2-inflammation) might be considered more directly indicated or prioritized based on her specific biomarker profile. Thus, while 'viable', it's not the most direct or primary implication of 'given her T2-high features' for treatment selection.",
+      "D": "This statement is highly likely to be true. For both sensitizer-induced occupational asthma and work-exacerbated asthma, identifying and removing or significantly reducing exposure to the causal or exacerbating agents in the workplace is the most crucial and often the first step in management, providing the best chance for symptom control and disease modification."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "Role of Sound Frequency (Hz)",
+      "section": null,
+      "pageNumber": 10
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_005",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ios_feno_79eae54b",
+    "question": "A 35-year-old male presents with a 4-month history of persistent cough, progressive dyspnea, and intermittent low-grade fever, accompanied by a 6 kg weight loss. He describes his cough as occasionally 'barking.' Despite treatment for presumed adult-onset asthma with inhaled bronchodilators and corticosteroids, his symptoms have not improved. Physical examination reveals a localized monophonic wheeze over the right mid-lung zone. Chest X-ray shows right middle lobe atelectasis. \n\nBased on this clinical picture, if endobronchial tuberculosis is suspected, which bronchoscopic finding is most consistent with the patient's presentation?",
+    "options": {
+      "A": "Diffuse mucosal swelling and surrounding hyperemia of the right middle lobe bronchus.",
+      "B": "An endobronchial mass nearly occluding the right middle lobe bronchus, covered with whitish, cheese-like material.",
+      "C": "Marked narrowing of the right middle lobe bronchus with pale, fibrotic tissue.",
+      "D": "Extensive ulcerations of the bronchial mucosa with irregular margins."
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "The patient's chronic symptoms (4-month history, weight loss, persistent cough, dyspnea), localized monophonic wheeze, and poor response to standard asthma treatment are atypical for uncomplicated asthma and raise suspicion for an alternative diagnosis, such as endobronchial tuberculosis (EBTB), which is known to mimic asthma. The presence of right middle lobe atelectasis indicates significant bronchial obstruction. Among the bronchoscopic classifications of EBTB, the fibro-stenotic subtype is characterized by 'Marked narrowing of the bronchial lumen with fibrosis,' which directly leads to bronchial stenosis and subsequent complications like atelectasis. The 'pale, fibrotic tissue' described in option C is highly indicative of this chronic, scarring process.",
+    "highYieldPearl": "Rio's Take: Persistent asthma-like symptoms unresponsive to therapy, especially when accompanied by constitutional symptoms (fever, weight loss), localized wheeze, or specific radiographic findings (atelectasis, obstructive emphysema), should prompt investigation for conditions like EBTB that mimic asthma. Fibro-stenotic EBTB is a common cause of chronic bronchial obstruction and its sequelae.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This describes the edematous-hyperemic subtype. While it involves inflammation, it typically does not cause chronic, significant luminal narrowing leading to atelectasis or chronic constitutional symptoms seen in this case.",
+      "B": "This describes the tumorous subtype. While it can cause significant obstruction and atelectasis, the description of 'fibrotic tissue' in option C better aligns with the chronic nature and the listed mechanism of 'healing of deep ulcers with extensive fibrosis' leading to bronchial stenosis and atelectasis. The tumorous subtype typically features caseous material, suggesting more active disease.",
+      "C": "This correctly identifies the fibro-stenotic subtype, characterized by fibrosis and marked luminal narrowing. This type is a common end-result of chronic EBTB inflammation, perfectly explaining the chronic symptoms and atelectasis due to long-standing bronchial stenosis.",
+      "D": "This describes the ulcerative subtype. While ulcerations can be present in EBTB, extensive ulceration itself is less likely to be the direct cause of chronic atelectasis compared to a fibrotic stricture (fibro-stenotic type) resulting from the healing of such ulcers."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "Role of Sound Frequency (Hz)",
+      "section": null,
+      "pageNumber": 10
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_005",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ios_feno_343642c2",
+    "question": "A 42-year-old female presents with a 6-month history of recurrent episodes of dyspnea, cough, and wheezing, initially diagnosed as adult-onset asthma. She has been on high-dose inhaled corticosteroids and a long-acting beta-agonist, but her symptoms persist, and she now reports occasional hemoptysis and a 3 kg weight loss over the past 2 months. On auscultation, a persistent, localized monophonic wheeze is heard over the left upper lobe. Her chest X-ray is unremarkable.\n\nConsidering the patient's presentation and the possibility of a mimicker, which of the following is the most appropriate next diagnostic step?",
+    "options": {
+      "A": "Increase the dose of inhaled corticosteroids and add a long-acting muscarinic antagonist.",
+      "B": "Perform a high-resolution computed tomography (HRCT) scan of the chest.",
+      "C": "Prescribe a short course of oral corticosteroids and schedule a follow-up in two weeks.",
+      "D": "Refer for complete allergy testing and sputum eosinophil count."
+    },
+    "correctAnswer": "B",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "The patient presents with several 'red flags' that make a diagnosis of simple asthma less likely and demand further investigation for an alternative diagnosis. These include a poor response to high-dose asthma treatment, new onset constitutional symptoms (weight loss, hemoptysis), and a persistent, localized monophonic wheeze. Endobronchial tuberculosis (EBTB) is explicitly mentioned in the context as mimicking asthma, presenting with symptoms like dyspnea, cough, weight loss, hemoptysis, and localized wheeze. An unremarkable Chest X-ray does not rule out EBTB or other focal airway lesions. A High-Resolution Computed Tomography (HRCT) scan of the chest is the most appropriate next diagnostic step as it can provide detailed imaging of the airways and lung parenchyma, revealing bronchial stenosis, masses, lymphadenopathy, or other pathologies suggestive of EBTB or other focal airway diseases that might be missed on a plain chest X-ray.",
+    "highYieldPearl": "Rio's Take: Localized wheeze, constitutional symptoms, hemoptysis, and lack of response to optimal asthma therapy are red flags that necessitate aggressive investigation for alternative diagnoses, particularly conditions like EBTB or tumors causing focal airway obstruction.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option represents escalation of asthma therapy, which is inappropriate given the significant atypical features and red flags (hemoptysis, weight loss, localized wheeze) that suggest a non-asthma diagnosis. Continuing to treat for asthma without further investigation delays correct diagnosis and treatment.",
+      "B": "This is the correct answer. HRCT provides excellent detail of the tracheobronchial tree and lung parenchyma, which is essential to identify focal lesions, bronchial stenosis, or lymphadenopathy that could explain the patient's symptoms and be indicative of EBTB or other mimickers of asthma.",
+      "C": "Prescribing oral corticosteroids is a common intervention for asthma exacerbations or poorly controlled asthma. However, it fails to address the underlying atypical features and red flags, similar to option A, and delays definitive diagnosis.",
+      "D": "While allergy testing and sputum eosinophil counts are relevant in the workup and management of asthma (especially allergic or eosinophilic asthma), they are not the most urgent or appropriate next step when 'red flag' symptoms like hemoptysis and weight loss are present, indicating a need to rule out more serious structural or infectious pathologies."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "Role of Sound Frequency (Hz)",
+      "section": null,
+      "pageNumber": 10
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_005",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ios_feno_8ae88b4b",
+    "question": "A 7-year-old boy presents with a 2-month history of worsening cough and exertional dyspnea, initially treated for suspected asthma with minimal improvement. His mother also reports mild weight loss and occasional low-grade fever. Physical examination reveals decreased breath sounds and a localized wheeze over the right lower lung field. A chest X-ray shows hyperinflation in the right lower lobe with mediastinal shift to the left, suggestive of obstructive emphysema.\n\nWhich bronchoscopic finding, if endobronchial tuberculosis is the cause, would most likely explain the child's current lung pathology?",
+    "options": {
+      "A": "Diffuse mucosal swelling and hyperemia without significant luminal obstruction.",
+      "B": "Swollen hyperemic bronchial mucosa covered with whitish cheese-like material.",
+      "C": "Marked narrowing of the right lower lobe bronchus with fibrotic scar tissue, forming a stricture.",
+      "D": "An endobronchial mass covered with yellowish-white caseous material, causing near-total occlusion."
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "The child's symptoms of chronic cough, dyspnea, weight loss, low-grade fever, localized wheeze, and poor response to asthma therapy are highly suspicious for endobronchial tuberculosis (EBTB), particularly given that EBTB 'in children, usually a complication of primary TB' and can 'mimic asthma'. The Chest X-ray finding of 'obstructive emphysema' in the right lower lobe with mediastinal shift indicates air trapping due to partial bronchial obstruction. The context explicitly states that 'Bronchial stenosis' can lead to 'Obstructive emphysema'. The fibro-stenotic subtype of EBTB is described as 'Marked narrowing of the bronchial lumen with fibrosis'. This fibrotic stricture acts like a ball-valve mechanism, allowing air to enter the distal lung but obstructing its exit, thus causing obstructive emphysema. This finding is consistent with the chronic nature of the symptoms (2 months) and the irreversible change implied by 'fibrotic scar tissue'.",
+    "highYieldPearl": "Rio's Take: Obstructive emphysema (air trapping) distal to an airway lesion is a strong indicator of partial bronchial stenosis. In the context of EBTB, the fibro-stenotic subtype is the most common cause of such a chronic, fibrotic stricture leading to this complication.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This describes nonspecific bronchitis or an early edematous-hyperemic type. It is unlikely to cause significant, chronic luminal obstruction leading to obstructive emphysema.",
+      "B": "This describes the actively caseating subtype. While it can cause obstruction, the 'obstructive emphysema' rather than complete atelectasis, along with the 2-month history, leans more towards a chronic, established stenosis rather than an acutely caseating lesion.",
+      "C": "This correctly describes the fibro-stenotic subtype. Marked narrowing with fibrotic scar tissue perfectly explains the chronic partial obstruction leading to obstructive emphysema via a ball-valve effect, which is a known complication of EBTB.",
+      "D": "This describes the tumorous subtype, causing near-total occlusion by an endobronchial mass. While it causes obstruction, 'near-total occlusion' might more often lead to complete atelectasis or post-obstructive pneumonia rather than obstructive emphysema, which implies persistent air trapping through a partial obstruction."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "Role of Sound Frequency (Hz)",
+      "section": null,
+      "pageNumber": 10
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_005",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ios_feno_e8676374",
+    "question": "A 45-year-old male, a former smoker (5 pack-years, quit 10 years ago), presents with a 6-month history of persistent cough, intermittent wheezing, and occasional shortness of breath, especially with exercise. He describes a 'localized wheeze' felt in his right chest. He denies fever, weight loss, or hemoptysis. His spirometry shows FEV1 90% predicted, FVC 95% predicted, FEV1/FVC 0.78. A bronchodilator challenge showed FEV1 reversibility of 8% (absolute change 150ml). His past medical history is significant for childhood tuberculosis, adequately treated. Chest X-ray is normal. A previous trial of inhaled corticosteroids (ICS) for 3 months yielded minimal improvement.\n\nConsidering the patient's presentation and history, which of the following is the most appropriate next diagnostic step?",
+    "options": {
+      "A": "Perform a methacholine challenge test to confirm bronchial hyperresponsiveness.",
+      "B": "Prescribe a high-dose inhaled corticosteroid/long-acting beta-agonist (ICS/LABA) combination and reassess in 4 weeks.",
+      "C": "Request a CT thorax and consider bronchoscopy with lavage and biopsy.",
+      "D": "Measure fractional exhaled nitric oxide (FeNO) to assess for eosinophilic inflammation."
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "The patient's presentation includes several features that raise suspicion beyond typical asthma. While intermittent wheezing, cough, and exercise-induced symptoms can suggest asthma, the 'localized wheeze' and history of childhood tuberculosis (TB) are crucial red flags. Endobronchial tuberculosis (EBTB), as highlighted in the provided text, can present subacutely mimicking asthma, with symptoms like cough and localized wheeze. The minimal response to a trial of ICS and the absence of clear bronchodilator reversibility (8% FEV1 change is below the typical 12% and 200mL threshold for significant reversibility) further suggest that asthma might not be the sole or primary diagnosis. In such a scenario, where a structural airway lesion or a non-asthmatic cause (like EBTB) is suspected, advanced imaging (CT thorax) followed by direct airway visualization and sampling (bronchoscopy with lavage and biopsy) becomes paramount to rule out or confirm these alternative diagnoses. A methacholine challenge (Option A) would confirm bronchial hyperresponsiveness but would not identify the cause of a localized wheeze or rule out structural lesions. Escalating asthma therapy (Option B) without a definitive diagnosis and after poor initial response would delay appropriate management if the underlying condition is not asthma. FeNO (Option D) would assess for eosinophilic inflammation, supporting an asthma diagnosis, but again, would not address the suspicion of a localized structural lesion or a differential diagnosis like EBTB.",
+    "highYieldPearl": "Rio's Take: Always consider alternative diagnoses, especially those mimicking asthma, when atypical features (e.g., localized wheeze, hemoptysis, poor response to standard therapy, specific risk factors like TB history) are present. In such cases, structural investigation with CT and bronchoscopy often takes precedence over purely functional asthma diagnostics.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Plausible for suspected asthma with normal spirometry, but it does not address the atypical localized symptoms or the history of TB, which suggest a structural airway pathology that a methacholine challenge cannot identify.",
+      "B": "Incorrect. Escalating asthma treatment without a firm diagnosis, especially after a trial of ICS yielded minimal improvement, risks delaying the correct diagnosis and appropriate management.",
+      "C": "Correct. This approach directly investigates the possibility of structural airway pathology (e.g., EBTB) that could mimic asthma, particularly with the patient's localized wheeze and TB history.",
+      "D": "Plausible for assessing Type 2 inflammation in suspected asthma. However, like methacholine, it does not address the localized nature of the symptoms or rule out a structural cause for the 'asthma-like' presentation."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "Role of Sound Frequency (Hz)",
+      "section": null,
+      "pageNumber": 10
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_005",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ios_feno_ec012aeb",
+    "question": "A 28-year-old female presents with recurrent episodes of shortness of breath and wheezing, occurring approximately 3-4 times per week, often waking her from sleep twice a month. She uses her short-acting beta-agonist (SABA) inhaler 3-4 times a week. Her current spirometry shows FEV1 75% of predicted and FEV1/FVC 0.70, with a 15% improvement in FEV1 (350 mL) after bronchodilator administration. She denies any hospitalizations or urgent care visits for asthma exacerbations in the past year.\n\nAccording to GINA guidelines (as applied for initial treatment classification), how would this patient's asthma be classified, and what is the most appropriate initial management strategy?",
+    "options": {
+      "A": "Mild Persistent Asthma; initiate daily low-dose inhaled corticosteroid (ICS).",
+      "B": "Moderate Persistent Asthma; initiate daily low-dose ICS/long-acting beta-agonist (LABA) combination.",
+      "C": "Moderate Persistent Asthma; initiate daily medium-dose ICS.",
+      "D": "Severe Persistent Asthma; initiate daily medium-dose ICS/LABA combination."
+    },
+    "correctAnswer": "B",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "According to GINA 2023 guidelines for assessing asthma before initiating controller treatment, this patient exhibits features consistent with Step 3. Her symptoms occur 3-4 times per week (more than twice a month, but not daily), she has nocturnal awakenings twice a month (more than twice a month), and her FEV1 is 75% predicted (less than 80% is a risk factor for exacerbations). The significant bronchodilator reversibility (15% and 350mL) confirms the diagnosis of asthma.\n\nFor initial controller treatment, GINA recommends:\n*   Step 1: As-needed low-dose ICS-formoterol.\n*   Step 2: Daily low-dose ICS OR as-needed low-dose ICS-formoterol.\n*   Step 3: Low-dose ICS-LABA.\n*   Step 4: Medium-dose ICS-LABA.\n*   Step 5: High-dose ICS-LABA.\n\nThe patient's symptom frequency (3-4 times/week), nocturnal awakenings (twice a month), and reduced FEV1 (75%) place her beyond Step 2, indicating the need for Step 3 therapy. Step 3 management involves a daily low-dose ICS/LABA combination. The classification of 'Moderate Persistent Asthma' aligns with the severity requiring Step 3 treatment in many clinical contexts and older GINA frameworks often used in exams for initial assessment. Therefore, 'Moderate Persistent Asthma' (reflecting the need for more than basic ICS) and initiation of daily low-dose ICS/LABA is the most appropriate strategy.",
+    "highYieldPearl": "Rio's Take: GINA 2023 emphasizes assessing control and risk factors, but for *initial* management, symptom frequency, nocturnal awakenings, and lung function (FEV1) guide the 'step' of treatment. For symptoms >2x/week but not daily, nocturnal awakenings >2x/month, and/or FEV1 <80%, Step 3 (low-dose ICS/LABA) is generally indicated.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Incorrect classification and under-treatment. Symptoms and FEV1 are too significant for 'Mild Persistent' and Step 2 treatment.",
+      "B": "Correct. The patient's symptom frequency, nocturnal awakenings, and FEV1 align with the criteria for 'Moderate Persistent Asthma' requiring Step 3 (low-dose ICS/LABA) therapy.",
+      "C": "Plausible classification, but low-dose ICS/LABA (Step 3) is generally more effective than medium-dose ICS alone for patients requiring this level of control.",
+      "D": "Incorrect classification and over-treatment for initial therapy. The patient's symptoms do not yet warrant 'Severe Persistent' classification or Step 4 initial treatment."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "Role of Sound Frequency (Hz)",
+      "section": null,
+      "pageNumber": 10
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_005",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ios_feno_eb4f1f6d",
+    "question": "A 58-year-old female presents with severe, uncontrolled asthma for the past 5 years, despite adherence to high-dose inhaled fluticasone/salmeterol and a long-acting muscarinic antagonist (LAMA). She reports daily symptoms, nocturnal awakenings 3-4 times per week, and has had 4 hospitalizations for exacerbations in the last year, requiring oral corticosteroids. Her blood investigations show persistent eosinophilia (absolute eosinophil count 650 cells/µL, normal <350) and elevated total IgE (350 IU/mL, normal <100). She has a history of chronic rhinosinusitis with nasal polyps and intermittent skin rashes, but no aspirin sensitivity. Her FeNO level is 65 ppb (normal <25).\n\nBased on her clinical presentation and laboratory findings, which asthma phenotype is most likely present, and which targeted biologic therapy would be most appropriate for this patient?",
+    "options": {
+      "A": "Allergic Asthma; Omalizumab.",
+      "B": "Eosinophilic Asthma; Mepolizumab.",
+      "C": "Aspirin-Exacerbated Respiratory Disease (AERD); Benralizumab.",
+      "D": "Late-Onset Asthma with Fixed Airflow Obstruction; Tezepelumab."
+    },
+    "correctAnswer": "B",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "This patient has severe, uncontrolled asthma with clear markers of Type 2 inflammation. Her symptoms and exacerbation history indicate severe disease refractory to maximal conventional therapy (high-dose ICS/LABA + LAMA). The key laboratory findings are:\n1.  **Persistent eosinophilia (AEC 650 cells/µL):** Significantly elevated, a strong indicator of eosinophilic inflammation.\n2.  **Elevated FeNO (65 ppb):** Also indicates Type 2 inflammation, often correlating with airway eosinophilia.\n3.  **Elevated total IgE (350 IU/mL):** Suggests an allergic component.\n4.  **Chronic rhinosinusitis with nasal polyps:** A comorbidity highly associated with Type 2 and especially eosinophilic inflammation, often seen in severe eosinophilic asthma.\n\nThe combination of high blood eosinophils, high FeNO, and nasal polyps strongly points to a dominant **Eosinophilic Asthma** phenotype. While her IgE is also elevated, making an allergic component plausible, the pronounced eosinophilic markers (AEC >300, FeNO >50, nasal polyps) define the eosinophilic phenotype as the most actionable target for biologic therapy in this severe case. Therefore, targeting the IL-5 pathway, which is central to eosinophil production and survival, is highly appropriate.\n\n*   **Mepolizumab** is an anti-IL-5 monoclonal antibody specifically indicated for severe eosinophilic asthma. Benralizumab (anti-IL-5R alpha) is another excellent option for eosinophilic asthma.\n*   **Omalizumab** (anti-IgE) is for severe allergic asthma. While IgE is elevated, the overall picture, particularly the eosinophil count and polyps, makes eosinophilic asthma a more precise phenotypic classification for directing therapy in this case.\n*   **AERD** (Option C) is ruled out by the patient's denial of aspirin sensitivity.\n*   **Tezepelumab** (anti-TSLP) (Option D) is a broad upstream biologic for severe asthma irrespective of phenotype, but given the strong Type 2 markers, a more specific IL-5/IL-5R blocker might be considered first or as an equally strong option, and 'Late-Onset Asthma with Fixed Airflow Obstruction' is not the most precise phenotype given the provided markers.",
+    "highYieldPearl": "Rio's Take: In severe asthma, a high absolute eosinophil count (>300 cells/µL), elevated FeNO (>50 ppb), and presence of nasal polyps are strong indicators for the eosinophilic (Type 2 high) phenotype, making anti-IL-5/IL-5R biologics (e.g., mepolizumab, benralizumab) the most appropriate targeted therapy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Plausible given the elevated IgE. However, the prominent eosinophilia, high FeNO, and nasal polyps point more strongly to the eosinophilic phenotype as the primary driver for targeted therapy in this severe case.",
+      "B": "Correct. The patient exhibits classic features of severe eosinophilic asthma (high blood eosinophils, high FeNO, nasal polyps), for which Mepolizumab (anti-IL-5) is a highly effective and targeted biologic.",
+      "C": "Incorrect phenotype (patient denies aspirin sensitivity), making AERD an inappropriate classification. While Benralizumab is for eosinophilic asthma, the phenotype stated is incorrect.",
+      "D": "While the patient has late-onset asthma, 'fixed airflow obstruction' is not explicitly confirmed, and Tezepelumab is a broader option. The specific biomarkers allow for a more precise phenotypic classification and targeted therapy than this general option."
+    },
+    "sourceLocation": {
+      "bookName": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+      "chapter": "Role of Sound Frequency (Hz)",
+      "section": null,
+      "pageNumber": 10
+    },
+    "bookId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD (1)",
+    "chunkId": "40.PFT SERIES -IMPULSE OSLMTRY FENO tests for SAD_OCR_Complete (1)_chunk_005",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "Elevated fractional exhaled nitric oxide (FeNO) primarily indicates increased expression of which enzyme?",
+    "options": {
+      "A": "eNOS",
+      "B": "nNOS",
+      "C": "iNOS",
+      "D": "cNOS"
+    },
+    "correctAnswer": "C",
+    "topic": "ios_feno",
+    "deepDiveExplanation": "Fractional exhaled nitric oxide (FeNO) is a non-invasive biomarker of eosinophilic airway inflammation, especially in asthma. The increased NO production is primarily mediated by the inducible nitric oxide synthase (iNOS) enzyme, which is upregulated in airway epithelial cells by Th2 cytokines like IL-4 and IL-13.",
+    "highYieldPearl": "iNOS activity, driven by Th2 inflammation, is the main source of elevated FeNO in asthma.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Distinguishing between the different isoforms of nitric oxide synthase (NOS) is crucial. eNOS (endothelial) and nNOS (neuronal) are constitutively expressed, while iNOS (inducible) is associated with inflammation.",
+    "isOneLiner": true,
+    "id": "one_liner_ios_feno_lcz01m2e"
+  },
+  {
+    "question": "In Impulse Oscillometry, an increased difference between R5 and R20 resistance values most accurately reflects dysfunction in which airway region?",
+    "options": {
+      "A": "Trachea",
+      "B": "Central airways",
+      "C": "Peripheral airways",
+      "D": "Upper airways"
+    },
+    "correctAnswer": "C",
+    "topic": "ios_feno",
+    "deepDiveExplanation": "Impulse Oscillometry (IOS) measures respiratory impedance. R5 represents total airway resistance (central + peripheral), while R20 primarily reflects central airway resistance. An increased R5-R20 difference signifies increased peripheral (small) airway resistance, as the peripheral resistance component is more pronounced at lower frequencies (like 5 Hz) compared to higher frequencies (like 20 Hz).",
+    "highYieldPearl": "R5-R20 difference is a key IOS parameter for assessing small airway obstruction.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Candidates might incorrectly assume R5-R20 relates to total resistance or central airways. Understanding the frequency dependence of resistance measurements in IOS is key.",
+    "isOneLiner": true,
+    "id": "one_liner_ios_feno_hzbwxbj8"
+  },
+  {
+    "question": "Which of the following is a primary clinical application of serial fractional exhaled nitric oxide (FeNO) measurements in asthma management?",
+    "options": {
+      "A": "Assessing airflow obstruction severity",
+      "B": "Monitoring inhaled corticosteroid adherence",
+      "C": "Quantifying bronchodilator responsiveness",
+      "D": "Diagnosing vocal cord dysfunction"
+    },
+    "correctAnswer": "B",
+    "topic": "ios_feno",
+    "deepDiveExplanation": "FeNO levels are suppressed by inhaled corticosteroids (ICS). A sustained high FeNO despite prescribed ICS therapy can indicate poor adherence to medication, allowing clinicians to address this issue. It also helps in predicting response to ICS and guiding step-up/step-down therapy.",
+    "highYieldPearl": "A persistently high FeNO in a treated asthmatic suggests poor ICS adherence or inadequate dose.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While FeNO can guide treatment decisions, its direct measurement of inflammation makes it particularly useful for adherence monitoring, especially since ICS directly reduces FeNO. Other options are assessed by spirometry or laryngoscopy.",
+    "isOneLiner": true,
+    "id": "one_liner_ios_feno_3qdn0jga"
+  },
+  {
+    "question": "Impulse Oscillometry (IOS) offers a distinct advantage over spirometry for assessing lung mechanics due to its independence from which patient factor?",
+    "options": {
+      "A": "Age",
+      "B": "Effort",
+      "C": "Body mass index",
+      "D": "Smoking status"
+    },
+    "correctAnswer": "B",
+    "topic": "ios_feno",
+    "deepDiveExplanation": "IOS is a passive, non-effort dependent test, making it suitable for patients unable to perform forced maneuvers required for spirometry, such as young children, the elderly, or those with severe respiratory compromise. The patient breathes quietly through a mouthpiece while small pressure oscillations are applied.",
+    "highYieldPearl": "IOS is ideal for pediatric and uncooperative patients as it requires only tidal breathing.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While IOS is often used in children (related to age), the fundamental advantage is its effort independence. Age itself is not the factor, but rather the inability of very young or very old to perform forced maneuvers.",
+    "isOneLiner": true,
+    "id": "one_liner_ios_feno_3asi4p31"
+  },
+  {
+    "question": "Which of the following factors typically causes a decrease in fractional exhaled nitric oxide (FeNO) levels?",
+    "options": {
+      "A": "Atopy",
+      "B": "Acute viral infection",
+      "C": "Inhaled corticosteroid use",
+      "D": "Allergic rhinitis"
+    },
+    "correctAnswer": "C",
+    "topic": "ios_feno",
+    "deepDiveExplanation": "Inhaled corticosteroids (ICS) are potent anti-inflammatory agents that reduce eosinophilic inflammation in the airways, thereby decreasing the expression of iNOS and subsequently lowering FeNO levels. Atopy, acute viral infections, and allergic rhinitis are generally associated with increased airway inflammation and thus higher FeNO levels.",
+    "highYieldPearl": "ICS therapy is the most significant pharmacological intervention that consistently lowers FeNO.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "It's important to differentiate between factors that increase FeNO (inflammation, allergies, infections) and those that decrease it (anti-inflammatory treatments like ICS, or acute smoking). Acute smoking can temporarily decrease FeNO, but chronic smoking can increase it.",
+    "isOneLiner": true,
+    "id": "one_liner_ios_feno_bvz3upzk"
+  },
+  {
+    "question": "Elevated fractional exhaled nitric oxide (FeNO) primarily indicates increased expression of which enzyme?",
+    "options": {
+      "A": "eNOS",
+      "B": "nNOS",
+      "C": "iNOS",
+      "D": "cNOS"
+    },
+    "correctAnswer": "C",
+    "topic": "ios_feno",
+    "deepDiveExplanation": "Fractional exhaled nitric oxide (FeNO) is a non-invasive biomarker of eosinophilic airway inflammation, especially in asthma. The increased NO production is primarily mediated by the inducible nitric oxide synthase (iNOS) enzyme, which is upregulated in airway epithelial cells by Th2 cytokines like IL-4 and IL-13.",
+    "highYieldPearl": "iNOS activity, driven by Th2 inflammation, is the main source of elevated FeNO in asthma.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Distinguishing between the different isoforms of nitric oxide synthase (NOS) is crucial. eNOS (endothelial) and nNOS (neuronal) are constitutively expressed, while iNOS (inducible) is associated with inflammation.",
+    "isOneLiner": true,
+    "id": "one_liner_ios_feno_fj2ztkfm"
+  },
+  {
+    "question": "In Impulse Oscillometry, an increased difference between R5 and R20 resistance values most accurately reflects dysfunction in which airway region?",
+    "options": {
+      "A": "Trachea",
+      "B": "Central airways",
+      "C": "Peripheral airways",
+      "D": "Upper airways"
+    },
+    "correctAnswer": "C",
+    "topic": "ios_feno",
+    "deepDiveExplanation": "Impulse Oscillometry (IOS) measures respiratory impedance. R5 represents total airway resistance (central + peripheral), while R20 primarily reflects central airway resistance. An increased R5-R20 difference signifies increased peripheral (small) airway resistance, as the peripheral resistance component is more pronounced at lower frequencies (like 5 Hz) compared to higher frequencies (like 20 Hz).",
+    "highYieldPearl": "R5-R20 difference is a key IOS parameter for assessing small airway obstruction.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Candidates might incorrectly assume R5-R20 relates to total resistance or central airways. Understanding the frequency dependence of resistance measurements in IOS is key.",
+    "isOneLiner": true,
+    "id": "one_liner_ios_feno_7p7097z4"
+  },
+  {
+    "question": "Which of the following is a primary clinical application of serial fractional exhaled nitric oxide (FeNO) measurements in asthma management?",
+    "options": {
+      "A": "Assessing airflow obstruction severity",
+      "B": "Monitoring inhaled corticosteroid adherence",
+      "C": "Quantifying bronchodilator responsiveness",
+      "D": "Diagnosing vocal cord dysfunction"
+    },
+    "correctAnswer": "B",
+    "topic": "ios_feno",
+    "deepDiveExplanation": "FeNO levels are suppressed by inhaled corticosteroids (ICS). A sustained high FeNO despite prescribed ICS therapy can indicate poor adherence to medication, allowing clinicians to address this issue. It also helps in predicting response to ICS and guiding step-up/step-down therapy.",
+    "highYieldPearl": "A persistently high FeNO in a treated asthmatic suggests poor ICS adherence or inadequate dose.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While FeNO can guide treatment decisions, its direct measurement of inflammation makes it particularly useful for adherence monitoring, especially since ICS directly reduces FeNO. Other options are assessed by spirometry or laryngoscopy.",
+    "isOneLiner": true,
+    "id": "one_liner_ios_feno_ohazf67p"
+  },
+  {
+    "question": "Impulse Oscillometry (IOS) offers a distinct advantage over spirometry for assessing lung mechanics due to its independence from which patient factor?",
+    "options": {
+      "A": "Age",
+      "B": "Effort",
+      "C": "Body mass index",
+      "D": "Smoking status"
+    },
+    "correctAnswer": "B",
+    "topic": "ios_feno",
+    "deepDiveExplanation": "IOS is a passive, non-effort dependent test, making it suitable for patients unable to perform forced maneuvers required for spirometry, such as young children, the elderly, or those with severe respiratory compromise. The patient breathes quietly through a mouthpiece while small pressure oscillations are applied.",
+    "highYieldPearl": "IOS is ideal for pediatric and uncooperative patients as it requires only tidal breathing.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While IOS is often used in children (related to age), the fundamental advantage is its effort independence. Age itself is not the factor, but rather the inability of very young or very old to perform forced maneuvers.",
+    "isOneLiner": true,
+    "id": "one_liner_ios_feno_uomq4flx"
+  },
+  {
+    "question": "Which of the following factors typically causes a decrease in fractional exhaled nitric oxide (FeNO) levels?",
+    "options": {
+      "A": "Atopy",
+      "B": "Acute viral infection",
+      "C": "Inhaled corticosteroid use",
+      "D": "Allergic rhinitis"
+    },
+    "correctAnswer": "C",
+    "topic": "ios_feno",
+    "deepDiveExplanation": "Inhaled corticosteroids (ICS) are potent anti-inflammatory agents that reduce eosinophilic inflammation in the airways, thereby decreasing the expression of iNOS and subsequently lowering FeNO levels. Atopy, acute viral infections, and allergic rhinitis are generally associated with increased airway inflammation and thus higher FeNO levels.",
+    "highYieldPearl": "ICS therapy is the most significant pharmacological intervention that consistently lowers FeNO.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "It's important to differentiate between factors that increase FeNO (inflammation, allergies, infections) and those that decrease it (anti-inflammatory treatments like ICS, or acute smoking). Acute smoking can temporarily decrease FeNO, but chronic smoking can increase it.",
+    "isOneLiner": true,
+    "id": "one_liner_ios_feno_y54hr2nf"
+  }
+]

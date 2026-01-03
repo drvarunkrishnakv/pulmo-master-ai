@@ -1,0 +1,997 @@
+[
+  {
+    "id": "rag_bronchoprovocation_b4fbd469",
+    "question": "A 45-year-old male with a history of severe asthma, despite adherence to high-dose inhaled corticosteroids and a long-acting beta-agonist, experiences frequent exacerbations (4 in the last year) requiring oral steroids. His blood eosinophil count is 80 cells/µL, FeNO is 18 ppb, and serum total IgE is 15 kU/L. He has no known specific IgE-mediated allergies. Which of the following biologic therapies would be most appropriate for this patient?",
+    "options": {
+      "A": "Dupilumab",
+      "B": "Omalizumab",
+      "C": "Tezepelumab",
+      "D": "Mepolizumab"
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "The patient presents with severe asthma and frequent exacerbations, making him a candidate for add-on biologic therapy. His biomarker profile indicates low T2 inflammation: blood eosinophil count (80 cells/µL) is below the threshold for Dupilumab (≥150 cells/mL) and Mepolizumab (typically ≥300 cells/µL or other specific thresholds, but generally not for low eosinophils), and FeNO (18 ppb) is below the Dupilumab threshold (>25 ppb). His serum total IgE (15 kU/L) is also low, and he lacks specific IgE-mediated allergies, ruling out Omalizumab. Tezepelumab (anti-TSLP) is approved for severe asthma and is particularly beneficial for patients who do not have elevated T2 inflammatory markers, as it acts on upstream pathways (TSLP from epithelial cells) that are involved in both T2-high and T2-low asthma. Therefore, Tezepelumab is the most appropriate choice.",
+    "highYieldPearl": "Rio's Take: Tezepelumab is unique among biologics for severe asthma as its efficacy is independent of baseline T2 inflammatory biomarkers like blood eosinophils or FeNO, making it suitable for patients with a 'Th2-low' phenotype.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Dupilumab (anti-IL4R) requires either blood eosinophils ≥150 cells/mL or FeNO > 25 ppb, neither of which is met by this patient. This is a common trap to misapply biologic criteria.",
+      "B": "Omalizumab (anti-IgE) is indicated for severe allergic asthma with elevated IgE levels and confirmed specific IgE-mediated allergies. This patient has low IgE and no specific allergies, making it inappropriate.",
+      "C": "Tezepelumab (anti-TSLP) is indicated for severe asthma regardless of T2 inflammatory biomarkers, fitting this patient's Th2-low profile perfectly.",
+      "D": "Mepolizumab (anti-IL5) is for severe eosinophilic asthma. This patient's eosinophil count (80 cells/µL) is too low to meet typical eligibility criteria for anti-IL5 therapies, which usually require higher eosinophil counts."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_bronchoprovocation_b715cf83",
+    "question": "A 28-year-old female presents to the emergency department with an acute asthma exacerbation. She is tachypneic with a respiratory rate of 28/min and is visibly using accessory muscles of respiration. From a pathophysiological perspective, which of the following is the most immediate consequence of the sudden, non-uniform increase in airway resistance in her bronchi?",
+    "options": {
+      "A": "Increased functional residual capacity (FRC)",
+      "B": "Diminished flow rates",
+      "C": "Premature airway closure",
+      "D": "Activation of accessory muscles of respiration"
+    },
+    "correctAnswer": "B",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "The fundamental problem in asthma exacerbation is a sudden, non-uniform increase in airway resistance due to bronchoconstriction, inflammation, and mucus plugging. According to the provided context, the immediate consequence of this increased resistance is 'diminished flow rates / premature airway closure'. While premature airway closure (especially during expiration) is a critical component of airflow obstruction and leads to air trapping, the most direct and immediate physiological effect of increased resistance itself is a reduction in the rate of airflow. Increased FRC (hyperinflation/air trapping) and activation of accessory muscles are subsequent consequences, occurring after the initial reduction in flow and premature closure of airways. Therefore, diminished flow rates represent the earliest and most direct functional impact of increased resistance.",
+    "highYieldPearl": "Rio's Take: The chain of events in asthma is crucial: Increased airway resistance → diminished flow rates and premature airway closure (especially during expiration) → air trapping (increased FRC) → increased work of breathing and activation of accessory muscles.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Increased FRC (hyperinflation/air trapping) is a consequence of persistent diminished flow rates and premature airway closure during expiration, not the most immediate effect of increased resistance itself.",
+      "B": "Diminished flow rates are the direct and immediate functional consequence of increased airway resistance, as airflow is inversely proportional to resistance.",
+      "C": "Premature airway closure, while immediate and critical for air trapping, is often considered a dynamic event that occurs during expiration in airways already narrowed by increased resistance and inflammation. It is very close to diminished flow rates in the sequence, but 'diminished flow rates' is the more general and immediate functional outcome of *any* increased resistance.",
+      "D": "Activation of accessory muscles of respiration is a compensatory mechanism that occurs later to overcome the increased work of breathing caused by air trapping and increased airway resistance, not an immediate consequence of the resistance itself."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_bronchoprovocation_819e5055",
+    "question": "A 35-year-old baker, previously diagnosed with mild intermittent asthma in childhood, reports worsening cough, wheezing, and shortness of breath during his work shifts, which consistently improve significantly on weekends and during his annual vacation. He has undergone allergy testing, which was negative for specific IgE sensitization to flour proteins or other common workplace allergens. His baseline asthma is well-controlled with as-needed salbutamol. Based on these findings, what is the most likely diagnosis?",
+    "options": {
+      "A": "Sensitizer-induced occupational asthma",
+      "B": "Irritant-induced asthma",
+      "C": "Work-exacerbated asthma",
+      "D": "Asthma with inadequate control"
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "The patient's presentation aligns perfectly with the criteria for Work-Exacerbated Asthma (WEA) as described in the provided context. He has pre-existing asthma ('previously diagnosed in childhood'), experiences increased symptoms 'temporally associated with work' (worsening during shifts, improving on weekends/vacation), and workplace exposures (e.g., flour dust, temperature changes, irritants inherent to a bakery) exist that can exacerbate asthma. Crucially, 'occupational asthma (OA) is unlikely' due to the negative allergy testing for specific workplace sensitizers, distinguishing it from sensitizer-induced OA. While irritants can exacerbate WEA, 'irritant-induced asthma' (like RADS) typically refers to new-onset asthma after a single, high-level irritant exposure, which is not the case here as he has pre-existing asthma.",
+    "highYieldPearl": "Rio's Take: Work-exacerbated asthma (WEA) involves pre-existing asthma made worse by workplace conditions, without being directly *caused* by a new workplace sensitizer. The temporal relationship with work and improvement away from work are key, alongside ruling out specific sensitization.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Sensitizer-induced occupational asthma is ruled out by the negative allergy testing for specific workplace sensitizers. This is a common trap to assume any work-related asthma is sensitizer-induced.",
+      "B": "Irritant-induced asthma, such as RADS, typically describes new-onset asthma after a high-level irritant exposure, which is not the scenario for a patient with pre-existing asthma.",
+      "C": "Work-exacerbated asthma fits all the described criteria: pre-existing asthma, symptoms worsening at work and improving away from work, and occupational asthma being unlikely due to negative sensitization tests.",
+      "D": "While the asthma is not optimally controlled at work, 'inadequate control' is a description of the current state, not a specific diagnostic category differentiating occupational types. The underlying specific mechanism related to work needs to be identified for appropriate management."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_bronchoprovocation_147cb025",
+    "question": "Which of the following is NOT a direct pathophysiological consequence primarily attributed to the activity of IL-4 and IL-13 in asthma, as targeted by anti-IL4R therapies, according to the provided context?",
+    "options": {
+      "A": "Recruitment of eosinophils to the airways",
+      "B": "B cell class switch to IgE production",
+      "C": "Significant increase in fibroblast activation leading to extensive subepithelial fibrosis",
+      "D": "Goblet cell hyperplasia and increased mucus production"
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "The provided context explicitly lists the direct pathophysiological consequences of IL-4 and IL-13 activity in asthma as: 'recruitment of eosinophils, B cell class switch to IgE production, goblet cell hyperplasia and mucus production, airway remodeling & airway epithelial cell expression of iNOS => FeNO'. While airway remodeling is a broad term, 'significant increase in fibroblast activation leading to extensive subepithelial fibrosis' is a very specific mechanism of remodeling that is not explicitly detailed as a primary, direct consequence of IL-4 and IL-13 activity within this provided text. Options A, B, and D are all directly mentioned as primary effects.",
+    "highYieldPearl": "Rio's Take: Remember the core downstream effects of IL-4 and IL-13: eosinophils, IgE, mucus, and FeNO. These are key for understanding T2-high asthma and the mechanism of dupilumab.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is a direct and well-established effect of IL-4 and IL-13, explicitly mentioned in the context.",
+      "B": "This is a direct and well-established effect of IL-4 and IL-13, explicitly mentioned in the context.",
+      "C": "While subepithelial fibrosis is part of airway remodeling in chronic asthma, the specific detail of 'significant increase in fibroblast activation leading to extensive subepithelial fibrosis' is not explicitly listed as a direct consequence of IL-4/IL-13 in the provided text, making it the 'NOT' option. Airway remodeling is mentioned, but the precise cellular mechanism is not attributed to IL-4/IL-13 in the same direct way as the other options.",
+      "D": "This is a direct and well-established effect of IL-4 and IL-13, explicitly mentioned in the context."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_bronchoprovocation_f8b4b019",
+    "question": "In asthma pathophysiology, a sudden non-uniform increase in airway resistance primarily leads to which immediate physiological alteration?",
+    "options": {
+      "A": "A progressive decrease in the functional residual capacity (FRC)",
+      "B": "Diminished flow rates and premature airway closure",
+      "C": "A decrease in the overall work of breathing due to improved lung compliance",
+      "D": "An improvement in the distribution of ventilation-perfusion matching"
+    },
+    "correctAnswer": "B",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "The provided text states the sequence of events as: 'Sudden non uniform increase in airway resistance ↓ diminished flow rates/ premature airway closure'. This makes option B the immediate physiological alteration. Subsequent changes include hyperinflation/air trapping (leading to increased FRC), increased work of breathing, and abnormal distribution of ventilation and perfusion.",
+    "highYieldPearl": "Rio's Take: Airway narrowing in asthma initially impacts flow, causing air to get trapped. This primary mechanical issue then cascades into other changes like hyperinflation and increased breathing effort.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. The text indicates 'Hyperinflation (air trapping) of lungs and thorax' due to premature airway closure, which leads to an *increase* in FRC, not a decrease.",
+      "B": "Correct. This is the direct and immediate consequence explicitly stated in the provided pathophysiological cascade.",
+      "C": "Incorrect. The text states '↑work of breathing' as a consequence of the increased airway resistance and air trapping.",
+      "D": "Incorrect. The text mentions 'abnormal distribution of ventilation and perfusion' as a consequence, not an improvement."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_bronchoprovocation_d685dc17",
+    "question": "A 48-year-old male with severe asthma, despite optimized inhaled corticosteroid and long-acting beta-agonist therapy, experiences frequent exacerbations. His current blood eosinophil count is 120 cells/mL, and fractional exhaled nitric oxide (FeNO) is 20 ppb. Based on the provided context, which of the following biologic therapies would be most appropriate to consider for this patient?",
+    "options": {
+      "A": "Dupilumab (Anti-IL4R)",
+      "B": "Omalizumab (Anti-IgE)",
+      "C": "Mepolizumab (Anti-IL5)",
+      "D": "Tezepelumab (Anti-TSLP)"
+    },
+    "correctAnswer": "D",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "The patient's blood eosinophil count (120 cells/mL) is below the threshold of ≥150 cells/mL and FeNO (20 ppb) is below the threshold of >25 ppb for Dupilumab. These values indicate that the patient does not have elevated T2 markers. The context explicitly states for Tezepelumab (anti-TSLP): 'Anti-TSLP may also be considered in patients with no elevated T2 markers'. This makes Tezepelumab the most appropriate option for this patient phenotype among the choices given.",
+    "highYieldPearl": "Rio's Take: Tezepelumab is unique for targeting TSLP, an upstream alarmin, making it effective even in patients with 'T2-low' asthma (i.e., not meeting high eosinophil or FeNO thresholds).",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Dupilumab is approved for severe eosinophilic asthma with exacerbations and either blood eosinophils ≥150 cells/mL or FeNO > 25 ppb. This patient does not meet either criterion.",
+      "B": "Omalizumab (Anti-IgE) is typically for atopic asthma with elevated IgE. The provided information does not mention IgE levels, but the low T2 markers (eosinophils, FeNO) suggest this might not be the primary phenotype targeted by omalizumab as the first line in this scenario.",
+      "C": "Mepolizumab (Anti-IL5) is indicated for severe eosinophilic asthma. This patient's blood eosinophil count is 120 cells/mL, which is considered 'normal' and not indicative of eosinophilic asthma needing anti-IL5 therapy based on typical criteria (often >150 or >300 cells/mL).",
+      "D": "Correct. Tezepelumab is specifically mentioned as a therapy to consider 'in patients with no elevated T2 markers' (low eosinophils and FeNO), which matches the patient's profile."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_bronchoprovocation_22fe0f48",
+    "question": "A 45-year-old male with severe uncontrolled asthma, despite maximal inhaled corticosteroid/LABA therapy, presents with frequent exacerbations. His blood eosinophil count is 450 cells/µL, and his FeNO is 55 ppb. He also has a history of moderate atopic dermatitis. Which of the following statements regarding a potential targeted therapy for this patient is most accurate?",
+    "options": {
+      "A": "Tezepelumab would primarily target downstream effects of IL-4 and IL-13, preventing IgE class switching and eosinophil recruitment.",
+      "B": "Dupilumab, by blocking TSLP, may be effective regardless of his elevated T2 markers.",
+      "C": "A good response to dupilumab would be predicted by his elevated blood eosinophil count and FeNO.",
+      "D": "This patient's clinical profile places him in the Th2-low asthma quadrant, making anti-IL5 therapy a primary consideration."
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "The patient's clinical profile (severe uncontrolled asthma, blood eosinophils 450 cells/µL, FeNO 55 ppb) indicates a high T2 inflammatory phenotype. Dupilumab, an anti-IL4Rα antibody, blocks the shared α-subunit of the IL-4 and IL-13 receptors, thereby inhibiting the downstream effects of both cytokines, which include eosinophil recruitment, IgE production, mucus hypersecretion, and airway remodeling. Elevated blood eosinophils (≥150 cells/mL) and FeNO (>25 ppb) are established predictors of a good response to anti-IL4Rα therapy (dupilumab). The presence of atopic dermatitis further supports the consideration of dupilumab, as it is also approved for this condition.",
+    "highYieldPearl": "Rio's Take: Dupilumab targets the alpha subunit of the IL-4 receptor, effectively blocking both IL-4 and IL-13 signaling. This makes it particularly effective in severe asthma patients with elevated T2 markers like high eosinophils and FeNO, which are strong predictors of response.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Tezepelumab (anti-TSLP) mechanism is to bind TSLP, not directly block IL-4 and IL-13 signaling. The described downstream effects are characteristic of IL-4 and IL-13 blockade, which is the mechanism of Dupilumab, not Tezepelumab.",
+      "B": "Dupilumab blocks the IL-4Rα subunit, not TSLP. Tezepelumab blocks TSLP. Furthermore, Dupilumab is indicated and shows best response in patients with elevated T2 markers, not 'regardless' of them.",
+      "C": "This is the correct statement. Higher blood eosinophils (450 cells/µL is >150 cells/mL) and higher FeNO (55 ppb is >25 ppb) are strong predictors of good response to anti-IL4Rα therapy (dupilumab).",
+      "D": "The patient's high blood eosinophil count and FeNO clearly indicate a Th2-high (eosinophilic) asthma phenotype, not Th2-low asthma. Th2-low asthma is characterized by low IgE and low eosinophils."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_bronchoprovocation_ff4eb4db",
+    "question": "A 38-year-old patient presents to the emergency department with an acute severe asthma exacerbation, characterized by significant dyspnea, wheezing, and use of accessory muscles of respiration. All of the following physiological changes are typically observed in the lungs during such an event, EXCEPT:",
+    "options": {
+      "A": "Increased functional residual capacity (FRC) due to air trapping.",
+      "B": "A non-uniform increase in airway resistance across the bronchial tree.",
+      "C": "Diminished work of breathing as a compensatory mechanism to maintain ventilation.",
+      "D": "Abnormal distribution of ventilation and perfusion leading to V/Q mismatch."
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "During an acute asthma exacerbation, there is a sudden, non-uniform increase in airway resistance due to bronchospasm, mucus plugging, and airway wall edema. This leads to diminished flow rates and premature airway closure, resulting in hyperinflation and air trapping (increased FRC). The hyperinflation and altered elastic recoil significantly increase the work of breathing, and the uneven distribution of ventilation and perfusion leads to V/Q mismatch, contributing to hypoxemia and tachypnea. Diminished work of breathing is contrary to the physiological burden imposed by an acute severe exacerbation.",
+    "highYieldPearl": "Rio's Take: The hallmarks of acute asthma pathophysiology are non-uniform airway obstruction, leading to dynamic hyperinflation and air trapping, which in turn dramatically increases the work of breathing and causes significant V/Q mismatch.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Air trapping and hyperinflation are characteristic of asthma exacerbations due to premature airway closure and diminished expiratory flow, leading to an increase in end-expiratory lung volume, which includes FRC. This is a correct observation.",
+      "B": "The provided context explicitly states 'Sudden non uniform increase in airway resistance'. This is a key pathophysiological feature of asthma. This is a correct observation.",
+      "C": "Asthma exacerbations lead to '↑work of breathing' due to the increased airway resistance, hyperinflation, and changes in elastic recoil. Therefore, 'diminished work of breathing' is incorrect and represents the exception.",
+      "D": "The context mentions 'abnormal distribution of ventilation and perfusion (tachypnea)'. This V/Q mismatch is a direct consequence of non-uniform airway obstruction and is a significant contributor to hypoxemia in asthma. This is a correct observation."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_bronchoprovocation_391d481f",
+    "question": "A 30-year-old female with long-standing severe asthma presents for evaluation of persistent symptoms despite high-dose inhaled corticosteroids and a LABA. Her latest blood tests show a serum total IgE of 350 kU/L and a blood eosinophil count of 400 cells/µL. Based on her biomarker profile, which of the following biological therapy classes is a primary consideration for her?",
+    "options": {
+      "A": "Anti-TSLP therapy, such as Tezepelumab.",
+      "B": "Macrolides for their anti-inflammatory effects.",
+      "C": "Anti-IgE therapy, such as Omalizumab.",
+      "D": "Bronchial thermoplasty."
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "The patient's biomarker profile (serum total IgE of 350 kU/L, which is >30 kU/L, and blood eosinophil count of 400 cells/µL, which is >300 cells/µL) places her in the 'Top-right: Atopic asthma with eosinophilia' quadrant as per the provided severe asthma treatment targets & biomarkers axes. For this phenotype, Omalizumab (Anti-IgE) is listed as a primary 'A' (primary consideration) therapeutic option, along with Anti-IL-5 and other anti-Th2 therapies, and Anti-IL4.",
+    "highYieldPearl": "Rio's Take: Severe asthma phenotyping based on biomarkers like IgE and blood eosinophils guides targeted therapy. High IgE and eosinophils typically indicate an atopic, eosinophilic T2-high phenotype, for which anti-IgE (Omalizumab) is a primary biological option.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Anti-TSLP (Tezepelumab) can be used in severe asthma generally and is noted to be considered in patients with no elevated T2 markers (Th2-low). While it's a broad biologic, the patient's specific high T2 markers make other options more targeted and primary for her phenotype.",
+      "B": "Macrolides are listed for 'Bottom-left: Th2-low asthma' (IgE low, Eosin low). This patient has high IgE and high eosinophils, making macrolides an inappropriate primary choice for her specific biomarker profile.",
+      "C": "This is the correct answer. Given high IgE (>30 kU/L) and high eosinophils (>300 cells/µL), the patient falls into the 'Atopic asthma with eosinophilia' quadrant where Omalizumab (Anti-IgE) is a primary recommended therapy.",
+      "D": "Bronchial thermoplasty is mentioned, with a note 'crossed out' in the context of Th2-low asthma. It is not indicated as a primary biological therapy for atopic eosinophilic asthma based on these biomarkers."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_bronchoprovocation_e9e04519",
+    "question": "A 45-year-old male with a history of severe persistent asthma presents with frequent exacerbations despite maximal inhaled therapy. His laboratory evaluation reveals blood eosinophil count of 450 cells/µL, FeNO of 42 ppb, and serum total IgE of 150 kU/L. The pulmonologist considers initiating Dupilumab therapy. Which of the following statements regarding this treatment approach is most accurate?",
+    "options": {
+      "A": "Dupilumab primarily exerts its therapeutic effect by binding to circulating IgE antibodies, preventing mast cell degranulation.",
+      "B": "A favorable response to Dupilumab is less likely in this patient due to the relatively low serum total IgE level.",
+      "C": "The patient's elevated FeNO and blood eosinophil count are strong predictors of a good clinical response to Dupilumab.",
+      "D": "Dupilumab targets thymic stromal lymphopoietin (TSLP), an epithelial-derived alarmin, to reduce airway inflammation."
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "Dupilumab is an anti-IL4Rα antibody, which blocks the signaling pathways of both IL-4 and IL-13. These cytokines are central to Type 2 inflammation, contributing to eosinophil recruitment, IgE production, goblet cell hyperplasia, and iNOS expression (leading to elevated FeNO). Clinical trials and guidelines indicate that higher blood eosinophil counts and elevated FeNO levels are strong positive predictors of response to anti-IL4Rα therapy in severe eosinophilic asthma. The patient's values (eosinophils 450 cells/µL, FeNO 42 ppb) fall within the criteria predictive of a good response.",
+    "highYieldPearl": "Rio's Take: Dupilumab's efficacy is strongly linked to Type 2 inflammatory markers like eosinophils and FeNO, as it directly targets the IL-4/IL-13 pathway. It's distinct from Omalizumab (anti-IgE) and Tezepelumab (anti-TSLP) in its primary mechanism.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This describes the mechanism of Omalizumab, an anti-IgE antibody, not Dupilumab.",
+      "B": "While IgE is involved in Type 2 asthma, serum IgE levels are not the primary biomarker for predicting response to Dupilumab. Elevated blood eosinophils and FeNO are more critical predictors for this specific biologic. A total IgE of 150 kU/L is not considered 'low' in the context of eligibility for Type 2 biologics, though not the specific predictor for Dupilumab.",
+      "C": "Correct. The provided context explicitly states that 'Higher blood eosinophils +++' and 'Higher FeNO +++' predict a good asthma response to anti-IL4R.",
+      "D": "This describes the mechanism of Tezepelumab, an anti-TSLP antibody, not Dupilumab."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_bronchoprovocation_27880504",
+    "question": "A 32-year-old patient with severe uncontrolled asthma, despite maximal inhaled therapy, is being evaluated for biologic treatment. Her biomarker assessment reveals blood eosinophils of 550 cells/µL, FeNO of 38 ppb, and serum total IgE of 700 kU/L. She also has a history of multiple severe exacerbations in the past year. Considering this patient's profile, which of the following statements regarding potential biologic therapies is INCORRECT?",
+    "options": {
+      "A": "Omalizumab would be a suitable treatment option given her elevated IgE levels and the presence of eosinophilia.",
+      "B": "Dupilumab, by blocking IL-4 and IL-13 signaling, could be an effective therapy for this patient.",
+      "C": "This patient's profile aligns with 'Th2-low asthma', suggesting that therapies like macrolides or bronchial thermoplasty would be primary considerations.",
+      "D": "Tezepelumab, targeting TSLP, could be considered, as it has shown efficacy in severe asthma regardless of T2 biomarker levels."
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "The patient's profile (blood eosinophils 550 cells/µL, FeNO 38 ppb, serum total IgE 700 kU/L) clearly indicates a 'Type 2 high' or 'atopic asthma with eosinophilia' phenotype. This is characterized by elevated eosinophils and IgE. The 'Th2-low asthma' phenotype, as described in the provided context, is characterized by low eosinophils and low IgE, for which therapies like macrolides or bronchial thermoplasty might be considered. Therefore, stating this patient's profile aligns with 'Th2-low asthma' is incorrect.",
+    "highYieldPearl": "Rio's Take: Accurately phenotyping severe asthma based on biomarkers (eosinophils, IgE, FeNO) is crucial for selecting the appropriate biologic. High eosinophils and IgE point towards Type 2 high, while low levels suggest Type 2 low.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct statement. The patient has high IgE (700 kU/L) and eosinophilia, fitting the criteria for Omalizumab, which is indicated for atopic asthma with eosinophilia (Top-right quadrant).",
+      "B": "Correct statement. The patient has elevated blood eosinophils (550 cells/µL) and FeNO (38 ppb), which are strong predictors of response to Dupilumab, an anti-IL4Rα antibody that blocks IL-4 and IL-13 signaling.",
+      "C": "Incorrect statement. The patient exhibits high eosinophils and high IgE, which are characteristic of 'atopic asthma with eosinophilia' (Type 2 high), not 'Th2-low asthma' (which has low eosinophils and low IgE).",
+      "D": "Correct statement. Tezepelumab targets TSLP, an upstream alarmin, and is indicated for severe asthma regardless of T2 biomarker levels. While the patient is T2-high, Tezepelumab remains a plausible option due to its broad applicability across phenotypes, including those with T2-high features."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_bronchoprovocation_8fdfc8df",
+    "question": "A 50-year-old female factory worker with a documented history of asthma since childhood reports worsening cough, wheeze, and dyspnea that consistently peak during her work week and improve significantly on weekends. She denies new exposures to specific chemical sensitizers but notes increased particulate matter and dust in her workplace due to recent construction. Her pulmonary function tests demonstrate significant reversibility after bronchodilator administration. Which of the following statements best describes the immediate pathophysiology underlying her acute asthma exacerbations at work?",
+    "options": {
+      "A": "The primary mechanism involves a sudden, non-uniform increase in airway resistance, leading to diminished flow rates and progressive air trapping.",
+      "B": "Her condition is characterized by chronic, fixed airway obstruction and decreased elastic recoil, typical of long-standing occupational emphysema.",
+      "C": "The patient is likely experiencing sensitizer-induced occupational asthma due to a newly acquired allergy to a specific workplace agent.",
+      "D": "The exacerbations are driven by a primary systemic vasculitis affecting the bronchial tree, leading to inflammatory strictures."
+    },
+    "correctAnswer": "A",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "The vignette describes a classic presentation of Work-Exacerbated Asthma (WEA), where pre-existing asthma is worsened by workplace conditions (dust, particulate matter). The question asks for the best description of the *immediate pathophysiology underlying her acute asthma exacerbations*. This refers to the fundamental lung mechanics of an asthma attack, which involves bronchospasm and airway narrowing. As described in the context, asthma leads to a 'sudden non uniform increase in airway resistance' which causes 'diminished flow rates/premature airway closure' and subsequently 'hyperinflation (air trapping)' and 'increased work of breathing'.",
+    "highYieldPearl": "Rio's Take: Even when discussing specific asthma variants like Work-Exacerbated Asthma, understanding the core mechanical pathophysiology of an acute asthma attack (bronchospasm, air trapping, increased resistance) remains fundamental.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. This statement accurately describes the core lung mechanics pathophysiology of an acute asthma exacerbation, which is applicable regardless of the trigger (in this case, workplace irritants).",
+      "B": "Incorrect. This describes features of COPD (fixed airway obstruction, decreased elastic recoil), which is distinct from asthma (which typically has reversible obstruction). The patient's history of childhood asthma and demonstration of reversibility rule out this option.",
+      "C": "Incorrect. The vignette states she 'denies new exposures to specific chemical sensitizers' and that her asthma is 'pre-existing'. Work-Exacerbated Asthma (WEA), as defined, is pre-existing asthma that is worsened by the workplace, not caused by specific exposures (Occupational Asthma is unlikely).",
+      "D": "Incorrect. This describes a rare systemic condition unrelated to the typical pathophysiology of asthma or its exacerbation, and there is no information in the vignette to suggest vasculitis."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_bronchoprovocation_8b240d1f",
+    "question": "A 45-year-old female presents with severe asthma, poorly controlled despite high-dose inhaled corticosteroids and a long-acting beta-agonist. She has a history of seasonal allergies and recurrent nasal polyposis. Recent investigations show a blood eosinophil count of 450 cells/µL, FeNO of 40 ppb, and total serum IgE of 600 kU/L. Which of the following statements regarding her asthma pathophysiology and potential targeted therapy is *most accurate*?",
+    "options": {
+      "A": "Her asthma phenotype suggests a predominant Th2-low inflammation, making anti-TSLP therapy the most suitable first-line biologic due to its broad anti-inflammatory effects independent of eosinophil levels.",
+      "B": "The elevated FeNO and blood eosinophils are indicative of significant IL-5-driven inflammation, suggesting that an anti-IL-5 monoclonal antibody would directly target the primary pathogenic pathway, bypassing the need for IL-4/IL-13 blockade.",
+      "C": "Her clinical presentation and biomarker profile place her in the atopic asthma with eosinophilia quadrant, where an anti-IL4R alpha antibody is a highly effective option, addressing both IgE production and eosinophilic inflammation, consistent with her systemic Th2 activation.",
+      "D": "The presence of nasal polyposis and high serum IgE suggests a mast cell-mediated pathology, warranting treatment with omalizumab, which directly inhibits free IgE binding and is specifically indicated for severe allergic asthma."
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "The patient's profile (severe uncontrolled asthma, seasonal allergies, nasal polyposis, high blood eosinophils [>150 cells/mL], high FeNO [>25 ppb], and high total serum IgE [>30 kU/L]) strongly indicates a Type 2 (Th2-high) endotype, specifically 'atopic asthma with eosinophilia' based on the provided quadrants. The α-unit of IL-4 receptor blockade (e.g., Dupilumab) targets both IL-4 and IL-13, which are key upstream drivers of Th2 inflammation. IL-4 promotes B cell class switching to IgE production, and IL-13 drives eosinophil recruitment, goblet cell hyperplasia, mucus production, and airway remodeling, leading to elevated FeNO (due to iNOS expression). Dupilumab is approved for severe eosinophilic asthma with exacerbations and is also indicated for nasal polyposis and atopic dermatitis, making it an excellent fit for this patient's complex presentation. Option C accurately links the clinical and biomarker profile to the correct quadrant and provides a comprehensive pathophysiological rationale for anti-IL4R alpha antibody therapy.",
+    "highYieldPearl": "Rio's Take: Dupilumab (anti-IL4Rα) is a versatile biologic for severe Type 2 asthma, especially when comorbidities like nasal polyposis or atopic dermatitis are present, as it targets both IL-4 and IL-13 pathways, affecting IgE production, eosinophilia, and FeNO.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Incorrect. The patient's biomarkers (high eosinophils, high FeNO, high IgE) clearly indicate Th2-high inflammation, not Th2-low. Anti-TSLP (Tezepelumab) is considered for severe asthma, including those with no elevated T2 markers, making it less suitable for this particular patient with a clear T2 profile.",
+      "B": "Plausible, as high eosinophils are often associated with IL-5. Anti-IL-5 is a valid option for eosinophilic asthma. However, stating it would target the 'primary pathogenic pathway, bypassing the need for IL-4/IL-13 blockade' is an oversimplification and less accurate. IL-4 and IL-13 are upstream cytokines that drive IL-5 production, IgE synthesis, and other T2 features. Anti-IL4Rα offers a broader blockade of Type 2 inflammation, addressing more aspects of this patient's pathophysiology (IgE, FeNO, nasal polyposis) than anti-IL-5 alone.",
+      "D": "Plausible. High IgE suggests omalizumab, which is an approved treatment for severe allergic asthma and listed as an option for this quadrant. However, the statement focuses only on 'mast cell-mediated pathology' and 'inhibits free IgE binding,' which is true but does not fully capture the breadth of the patient's Type 2 inflammation (eosinophilia, FeNO, nasal polyps) as comprehensively as anti-IL4Rα blockade. The question asks for the *most accurate* statement regarding pathophysiology and *potential targeted therapy*, and anti-IL4Rα offers a more complete explanation for this specific patient's constellation of findings."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_bronchoprovocation_f8fef650",
+    "question": "A patient with acute severe asthma exacerbation exhibits prolonged expiration, wheezing, and hyperinflation on chest X-ray. Which of the following statements *least accurately* describes the underlying pathophysiology of air trapping in this scenario?",
+    "options": {
+      "A": "Increased intra-alveolar pressure during forced expiration leads to dynamic compression and premature closure of already narrowed airways.",
+      "B": "Non-uniform increase in airway resistance across different lung segments results in varying time constants and asynchronous emptying.",
+      "C": "Increased work of breathing due to elastic load changes, as the lungs operate at higher residual volumes on a less compliant portion of the pressure-volume curve.",
+      "D": "A reduction in the expiratory time constant, despite increased airway resistance, prevents complete exhalation within the available time."
+    },
+    "correctAnswer": "D",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "Air trapping in asthma results from increased airway resistance (due to bronchoconstriction, inflammation, mucus) which prolongs the time required for expiration. The expiratory time constant (τ) is the product of airway resistance (R) and lung compliance (C). In asthma, increased airway resistance *lengthens* the expiratory time constant (τ = R x C). If the patient's respiratory rate (and thus available expiratory time) remains unchanged or even increases, the lungs cannot fully empty within the shortened available time, leading to a progressive increase in end-expiratory lung volume (air trapping or hyperinflation). Therefore, a *reduction* in the expiratory time constant (Option D) is physiologically incorrect; the time constant *increases* in asthma.",
+    "highYieldPearl": "Rio's Take: Increased airway resistance in asthma *lengthens* the expiratory time constant, making complete exhalation difficult within the available time and leading to air trapping. A 'shortening' of the time constant is a physiological falsehood in this context.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Accurate. Increased resistance causes flow limitation and dynamic airway compression, especially during forced expiration, leading to premature airway closure and air trapping. This is a primary mechanism in obstructive lung diseases and explicitly mentioned in the context.",
+      "B": "Accurate. The provided text states 'Sudden non uniform increase in airway resistance' leads to diminished flow rates. Non-uniformity means different lung units have different emptying rates, contributing to gas exchange abnormalities and air trapping.",
+      "C": "Accurate. Hyperinflation shifts the lungs to a higher lung volume, where the lung-chest wall system is less compliant. This increases the elastic work of breathing, as mentioned in the context ('changes in elastic recoil').",
+      "D": "Incorrect. Increased airway resistance *increases* the expiratory time constant (τ = R x C). A longer time constant means it takes *more* time for the lungs to empty. If the available expiratory time is insufficient, air trapping occurs. A 'reduction' in the time constant would imply easier emptying, which is contrary to the pathophysiology of air trapping in asthma. This statement is a direct physiological falsehood in this context."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_bronchoprovocation_e89350b8",
+    "question": "A 30-year-old barista develops worsening asthma symptoms, including increased wheezing and cough, primarily during his shifts at a busy coffee shop. He reports that his asthma, diagnosed in childhood, has become more difficult to control over the last 6 months, requiring daily rescue inhaler use at work. He denies any new chemical exposures but notes the high concentration of roasted coffee dust and cleaning agents in his workplace. Allergy testing for specific coffee allergens is negative. All of the following statements regarding his condition are likely true, *EXCEPT*:",
+    "options": {
+      "A": "His pre-existing childhood asthma, rather than new onset at the workplace, is a key characteristic distinguishing this presentation from typical sensitizer-induced occupational asthma.",
+      "B": "If his symptoms demonstrate significant improvement during periods away from work (e.g., weekends or vacation), it would strongly support a diagnosis of work-exacerbated asthma.",
+      "C": "The absence of positive allergy testing to specific coffee allergens makes a diagnosis of sensitizer-induced occupational asthma less probable in this case.",
+      "D": "The mechanism of exacerbation primarily involves specific IgE-mediated reactions to high molecular weight antigens present in the coffee shop environment."
+    },
+    "correctAnswer": "D",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "The patient's presentation (pre-existing asthma diagnosed in childhood, worsening symptoms temporally associated with work, exposure to general workplace irritants/exacerbating factors like dust and cleaning agents, negative specific allergen tests) is highly consistent with Work-Exacerbated Asthma (WEA), not sensitizer-induced Occupational Asthma (OA).\n*   **A is true:** WEA is characterized by pre-existing asthma that is exacerbated by the workplace, whereas sensitizer-induced OA is caused by specific workplace exposures leading to new-onset asthma or worsening pre-existing asthma due to sensitization.\n*   **B is true:** A temporal association between work exposure and symptom exacerbation, with improvement away from work, is a defining criterion for WEA.\n*   **C is true:** Negative allergy testing for specific coffee allergens makes it less likely that the patient has developed a *sensitizer-induced* OA to coffee, as sensitizers typically involve IgE-mediated or cell-mediated immunological reactions.\n*   **D is false:** The patient's condition is likely WEA, not sensitizer-induced OA. WEA is exacerbated by workplace conditions (e.g., irritants, dust, temperature changes, physical demands) but is *not caused by specific immunological reactions* to workplace agents in the same way sensitizer-induced OA is. Even if coffee dust *could* be an irritant or weak sensitizer, the patient's history and negative allergy test suggest that specific IgE-mediated reactions are *not the primary mechanism* of exacerbation here. This statement describes the pathophysiology of sensitizer-induced OA, which is deemed *unlikely* for this patient.",
+    "highYieldPearl": "Rio's Take: Differentiating Work-Exacerbated Asthma (WEA) from Occupational Asthma (OA) is crucial. WEA is *pre-existing asthma exacerbated by work conditions* (e.g., irritants, dust, physical stress), while OA is *asthma *caused* by a new workplace sensitizer* (often IgE-mediated) and can be new-onset or exacerbate pre-existing asthma. The temporal pattern and specific causation are key.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This statement is true. The definition of WEA specifically highlights pre-existing or concurrent asthma that was not *caused* by workplace exposures, contrasting it with OA where the workplace is the cause.",
+      "B": "This statement is true. Increased frequency of symptoms, medication use, or healthcare use *temporally associated with work* is a key criterion for WEA. Symptom improvement away from work is a strong indicator of this association.",
+      "C": "This statement is true. For sensitizer-induced OA, evidence of sensitization (e.g., positive allergy tests) to a specific workplace agent is typically expected. Negative tests make this less probable, favoring a diagnosis of WEA.",
+      "D": "This statement is false. It describes the pathophysiology of sensitizer-induced occupational asthma, which typically involves specific IgE-mediated reactions to high molecular weight antigens. Given the patient's pre-existing asthma and negative allergy tests, his condition is more consistent with WEA, where exacerbation is due to non-specific irritants, physical factors, or other conditions, not primarily IgE-mediated sensitization. Therefore, this mechanism is *not* primarily involved in his likely condition."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_bronchoprovocation_457fe51a",
+    "question": "Which of the following statements regarding the pathophysiology and treatment of severe asthma with anti-IL4R is INCORRECT?",
+    "options": {
+      "A": "Blockade of the α-unit of the IL-4 receptor primarily inhibits IL-4 and IL-13 signaling pathways.",
+      "B": "IL-4 and IL-13 contribute to B cell class switching to IgE production and airway remodeling in asthma.",
+      "C": "A good clinical response to anti-IL4R is typically predicted by lower blood eosinophil counts and FeNO levels.",
+      "D": "Elevation of fractional exhaled nitric oxide (FeNO) in asthma is linked to airway epithelial cell expression of iNOS induced by IL-4 and IL-13."
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "The α-unit of the IL-4 receptor is crucial for signaling of both IL-4 and IL-13. Blocking this receptor thus inhibits the downstream effects of these T2 cytokines. IL-4 and IL-13 are central to type 2 inflammation, driving eosinophil recruitment, IgE production by B cells (class switching), goblet cell hyperplasia, mucus production, and airway remodeling. They also induce iNOS expression in airway epithelial cells, leading to increased FeNO. Clinical studies have shown that patients with higher baseline blood eosinophil counts and elevated FeNO levels are more likely to exhibit a good clinical response to anti-IL4R therapies, indicating these markers are positive predictors of treatment efficacy, not negative ones.",
+    "highYieldPearl": "Rio's Take: Anti-IL4R (e.g., Dupilumab) targets both IL-4 and IL-13 pathways, making it effective in severe eosinophilic asthma. Remember that high eosinophils and high FeNO are positive predictors of response, reflecting a strong Type 2 inflammatory phenotype.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is a direct and correct statement about the mechanism of anti-IL4R from the provided context.",
+      "B": "This accurately describes the downstream effects of IL-4 and IL-13, which are key components of asthma pathophysiology.",
+      "C": "This is the incorrect statement. The context explicitly states that 'Higher blood eosinophils +++ • Higher FeNO +++' predict good asthma response to anti-IL4R, making 'lower' levels a distractor.",
+      "D": "This is a correct statement, linking IL-4/IL-13 to iNOS expression and subsequent FeNO elevation."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_bronchoprovocation_1f162c70",
+    "question": "A patient with an acute asthma exacerbation presents with increasing dyspnea and wheezing. Pulmonary function tests reveal significant air trapping and hyperinflation. According to the pathophysiology of lung mechanics in asthma, which of the following is the most direct cause of this air trapping?",
+    "options": {
+      "A": "Uniform increase in total airway resistance.",
+      "B": "Diminished inspiratory flow rates.",
+      "C": "Premature airway closure during expiration.",
+      "D": "Increased elastic recoil of the lungs."
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "In asthma, the primary event is a sudden, non-uniform increase in airway resistance due to bronchospasm, mucus plugging, and inflammation. This leads to diminished flow rates. Critically, during expiration, the smaller airways tend to close prematurely because of the increased airway resistance and reduced elastic recoil support, trapping air distally. This progressive air trapping results in hyperinflation, increasing the functional residual capacity (FRC) and leading to an elevated work of breathing. The premature airway closure during expiration is the immediate physiological event that prevents complete emptying of the lungs, directly causing air trapping.",
+    "highYieldPearl": "Rio's Take: Air trapping and hyperinflation in asthma are direct consequences of premature airway closure, especially during expiration, due to increased airway resistance. This is a critical distinction from the initial increase in resistance itself.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "While an increase in airway resistance is the initial trigger, the text specifies 'non uniform' and it's the subsequent 'premature airway closure' that directly leads to air trapping.",
+      "B": "Diminished flow rates are a consequence of increased resistance, but it's specifically the premature closure of airways during the expiratory phase that traps air.",
+      "C": "This is the correct answer. The provided text states 'Sudden non uniform increase in airway resistance ↓ diminished flow rates/ premature airway closure ↓ (Hyperinflation) (air trapping)'. Premature airway closure directly causes the air trapping and hyperinflation.",
+      "D": "Changes in elastic recoil occur *as a result* of hyperinflation and air trapping, contributing to the increased work of breathing, but it is not the direct cause of the air trapping itself."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_bronchoprovocation_2d19295b",
+    "question": "A 38-year-old nurse, with a documented history of asthma since childhood, notices a significant increase in her asthma symptoms, including cough and wheezing, predominantly during her shifts at the hospital. These symptoms consistently improve during her days off and vacations. Extensive allergy testing and occupational exposure history reveal no evidence of a new specific sensitizer at her workplace causing her asthma. Which of the following conditions best describes her asthma, according to the American Thoracic Society Task Force criteria?",
+    "options": {
+      "A": "Sensitizer-induced occupational asthma",
+      "B": "Irritant-induced asthma",
+      "C": "Work-exacerbated asthma",
+      "D": "Pre-existing non-work related asthma with coincidental worsening"
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "The scenario describes Work-Exacerbated Asthma (WEA). According to the American Thoracic Society Task Force criteria, WEA is characterized by: 1) Pre-existing or concurrent asthma (in this case, since childhood). 2) Increased frequency of asthma symptoms or medication use temporally associated with work. 3) Existence of workplace exposures or conditions that can exacerbate asthma. 4) Occupational asthma (caused by a specific sensitizer) is unlikely, which is confirmed by ruling out a new specific sensitizer. The key is that the asthma is not *caused* by the workplace but *exacerbated* by its conditions.",
+    "highYieldPearl": "Rio's Take: Differentiate Work-Exacerbated Asthma (WEA) from Occupational Asthma (OA). In WEA, pre-existing asthma is worsened by workplace conditions without a new specific sensitizer, while OA is caused by a new workplace exposure.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Sensitizer-induced occupational asthma is ruled out by the statement 'no evidence of a new specific sensitizer at her workplace causing her asthma'.",
+      "B": "Irritant-induced asthma typically involves acute onset after exposure to a high concentration of an irritant, and while workplace irritants could be exacerbating factors, the presence of pre-existing asthma and the absence of a 'causal' agent point more specifically to WEA.",
+      "C": "This is the correct diagnosis. All criteria for Work-Exacerbated Asthma are met: pre-existing asthma, symptoms worsening at work and improving away from work, and no specific sensitizer identified as the cause.",
+      "D": "While the asthma is pre-existing, the strong temporal association with work and improvement during time off indicates a direct link to the work environment, making 'work-exacerbated' a more accurate and specific diagnosis than simply 'coincidental worsening'."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_bronchoprovocation_212a2e1d",
+    "question": "A 45-year-old male with severe persistent asthma, despite optimal high-dose inhaled corticosteroids and a long-acting beta-agonist, experiences frequent exacerbations (4 in the past year) requiring oral corticosteroids. His blood eosinophil count is 450 cells/µL, and his FeNO is 35 ppb. His serum total IgE is 180 kU/L. Which of the following statements best describes the *primary physiological mechanism* by which a biologic agent targeting the alpha-subunit of the IL-4 receptor would exert its therapeutic effect in this patient?",
+    "options": {
+      "A": "It directly inhibits smooth muscle contraction, thereby reversing acute bronchospasm and reducing dynamic hyperinflation.",
+      "B": "It neutralizes circulating thymic stromal lymphopoietin (TSLP), preventing the activation of multiple downstream inflammatory pathways in the airway.",
+      "C": "It blocks the common receptor component shared by IL-4 and IL-13, leading to reduced eosinophil recruitment and IgE production.",
+      "D": "It binds to free IgE in the circulation, preventing its binding to mast cells and subsequent mediator release."
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "The alpha-subunit of the IL-4 receptor is a common receptor component shared by both IL-4 and IL-13. By blocking this receptor, agents like dupilumab inhibit the signaling pathways of these critical T2-cytokines. IL-4 and IL-13 are central to asthma pathophysiology, particularly in T2-high inflammation, by driving eosinophil recruitment, promoting B cell class switch to IgE production, inducing goblet cell hyperplasia, increasing mucus production, and contributing to airway remodeling. This patient's high blood eosinophil count (450 cells/µL) and elevated FeNO (35 ppb) are strong indicators of T2-high inflammation, predicting a good response to anti-IL4R therapy.",
+    "highYieldPearl": "Rio's Take: Dupilumab (anti-IL4R) is indicated for severe eosinophilic asthma, especially in patients with high blood eosinophils (≥150 cells/mL) or FeNO (>25 ppb), as these markers correlate with T2-high inflammation driven by IL-4 and IL-13.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This describes the action of bronchodilators or therapies that directly modulate smooth muscle. Biologic agents targeting the IL-4 receptor primarily address the underlying inflammation, not acute bronchospasm directly.",
+      "B": "This describes the mechanism of Tezepelumab, an anti-TSLP biologic. TSLP (thymic stromal lymphopoietin) is an epithelial alarmin that acts upstream of T2 pathways and also impacts T2-low inflammation, but it is not the target of anti-IL4R therapy.",
+      "C": "This correctly identifies the mechanism. Blocking the α-unit of the IL-4 receptor effectively blocks the downstream effects of both IL-4 and IL-13, key T2 cytokines involved in eosinophil recruitment and IgE synthesis.",
+      "D": "This describes the mechanism of Omalizumab, an anti-IgE biologic. While the patient has elevated IgE, the question specifically asks about an agent targeting the alpha-subunit of the IL-4 receptor."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_bronchoprovocation_7770038f",
+    "question": "A 28-year-old male presents to the emergency department with acute worsening of his asthma, experiencing severe dyspnea, wheezing, and a productive cough. On examination, he is tachypneic, using accessory muscles of respiration, and has diffuse expiratory wheezes. Which of the following physiological consequences is the *most direct result* of premature airway closure during expiration in this patient's acute asthma exacerbation?",
+    "options": {
+      "A": "Increased inspiratory capacity due to enhanced respiratory muscle strength.",
+      "B": "Reduced functional residual capacity (FRC) leading to atelectasis.",
+      "C": "Progressive increase in end-expiratory lung volume and static lung hyperinflation.",
+      "D": "A uniform decrease in airway resistance, leading to improved airflow dynamics."
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "In an acute asthma exacerbation, inflammation and bronchospasm lead to a sudden, non-uniform increase in airway resistance. This diminishes flow rates, particularly during expiration, causing premature airway closure. As air gets trapped in the distal airways, the end-expiratory lung volume progressively increases, leading to dynamic hyperinflation and an elevated functional residual capacity (FRC). This hyperinflation increases the work of breathing and places the inspiratory muscles at a mechanical disadvantage, necessitating the use of accessory muscles.",
+    "highYieldPearl": "Rio's Take: Air trapping and hyperinflation are hallmarks of acute severe asthma, resulting from increased airway resistance and premature airway closure during expiration. This mechanism is critical to understanding the increased work of breathing and dyspnea in asthmatic exacerbations.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "While accessory muscles are used, it is primarily to overcome increased work of breathing and to try to exhale against resistance, not necessarily to increase inspiratory capacity directly as a result of premature airway closure. Hyperinflation can actually limit inspiratory capacity.",
+      "B": "Functional residual capacity (FRC) *increases* in asthma due to air trapping, not decreases. Atelectasis is not a common consequence of widespread premature airway closure; it's more associated with complete obstruction or compression.",
+      "C": "This correctly describes the direct consequence. Premature airway closure during expiration prevents complete emptying of the lungs, leading to air trapping and a progressive rise in end-expiratory lung volume, manifesting as hyperinflation.",
+      "D": "Airway resistance *increases* and is *non-uniform* in asthma due to bronchoconstriction, inflammation, and mucus plugging, leading to diminished, not improved, airflow dynamics."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_bronchoprovocation_76171fb3",
+    "question": "A 38-year-old factory worker, with a known history of asthma since childhood, reports worsening of his asthma symptoms including cough, wheezing, and shortness of breath predominantly during his workdays. He notes significant improvement on weekends and during holidays. He does not report any new chemical exposures at his workplace that could be a sensitizer. Based on the provided clinical information, what is the *most likely* diagnosis for the worsening of his asthma?",
+    "options": {
+      "A": "Sensitizer-induced Occupational Asthma (OA)",
+      "B": "Irritant-induced Asthma (IIA)",
+      "C": "Work-Exacerbated Asthma (WEA)",
+      "D": "Uncontrolled Atopic Asthma"
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "Work-Exacerbated Asthma (WEA) is defined by four criteria: 1) Pre-existing or concurrent asthma (began before current employment or while at worksite, but not caused by specific exposures). 2) Increased frequency of asthma symptoms, medication use, or health-care use temporally associated with work. 3) Workplace exposures or conditions exist that can exacerbate asthma. 4) Occupational asthma (OA) is unlikely (i.e., asthma not caused by a specific, identified workplace exposure). This patient meets all these criteria: he has a history of asthma since childhood (pre-existing), symptoms worsen during workdays and improve on weekends (temporal association), and he denies new sensitizer exposures, making sensitizer-induced OA unlikely.",
+    "highYieldPearl": "Rio's Take: Distinguishing Work-Exacerbated Asthma (WEA) from Occupational Asthma (OA) relies on whether the asthma was *caused* by workplace exposure (OA) or *worsened* by it in a pre-existing condition (WEA). A clear history of pre-existing asthma and a lack of new sensitizer exposure are key for WEA.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Sensitizer-induced Occupational Asthma (OA) is caused by a specific new workplace exposure leading to sensitization. The vignette explicitly states the patient 'does not report any new chemical exposures at his workplace that could be a sensitizer' and has asthma since childhood, making OA unlikely.",
+      "B": "Irritant-induced Asthma (IIA) typically results from a single, high-level exposure to an irritant, often leading to acute onset of asthma-like symptoms, and may not involve pre-existing asthma. This patient has a chronic pattern of worsening with pre-existing asthma, not an acute irritant exposure event.",
+      "C": "This is the most appropriate diagnosis. The patient has pre-existing asthma (since childhood) that is demonstrably worsened by workplace conditions (symptoms during work, improvement on weekends), and there's no evidence of new sensitization, fitting the definition of WEA.",
+      "D": "While the patient's asthma is likely uncontrolled, this option doesn't capture the crucial aspect of the workplace's specific role in exacerbating his symptoms. WEA specifically addresses this temporal association with work, making it a more precise diagnosis for the observed pattern."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_bronchoprovocation_8a2ac4e4",
+    "question": "Which of the following cellular processes is directly induced by IL-4 and IL-13 in the pathophysiology of asthma?",
+    "options": {
+      "A": "Increased expression of iNOS in airway epithelial cells.",
+      "B": "Reduction in functional residual capacity (FRC).",
+      "C": "Downregulation of IgE production.",
+      "D": "Inhibition of eosinophil recruitment."
+    },
+    "correctAnswer": "A",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "Interleukin-4 (IL-4) and Interleukin-13 (IL-13) are key T2 cytokines central to asthma pathophysiology. They initiate a cascade of cellular events, including the induction of inducible nitric oxide synthase (iNOS) expression in airway epithelial cells. This iNOS activity leads to increased exhaled nitric oxide (FeNO), a biomarker often elevated in T2-high asthma, as explicitly stated in the provided context.",
+    "highYieldPearl": "Rio's Take: Remember the key actions of IL-4 and IL-13: promote IgE synthesis (B cell class switch), recruit eosinophils, cause goblet cell hyperplasia and mucus, contribute to airway remodeling, and increase FeNO via iNOS induction. These are critical for understanding T2-high asthma and targeted therapies like anti-IL4R.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is explicitly stated in the context ('airway epithelial cell expression of iNOS => FeNO') as a direct effect of IL-4 & IL-13. This is the correct answer.",
+      "B": "The context describes 'Hyperinflation (air trapping)' and a graph showing 'Progressive increase in end-expiratory lung volume (air trapping),' which means FRC *increases*, not reduces. This option reverses the physiological effect and refers to a mechanical consequence, not a direct cellular cytokine effect.",
+      "C": "The context states IL-4 & IL-13 lead to 'B cell class switch to IgE production,' which *increases* IgE levels. This option presents the opposite effect.",
+      "D": "The context clearly states IL-4 & IL-13 cause 'recruitment of eosinophils.' This option presents the opposite effect."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_bronchoprovocation_5c07d7b8",
+    "question": "Air trapping in asthmatic lungs, as a direct consequence of increased airway resistance and premature airway closure, primarily results in which of the following physiological changes?",
+    "options": {
+      "A": "Decreased work of breathing.",
+      "B": "Reduction in the end-expiratory lung volume (EELV).",
+      "C": "Progressive increase in functional residual capacity (FRC).",
+      "D": "Uniform distribution of ventilation and perfusion."
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "In asthma, bronchospasm and mucus plugging lead to increased airway resistance and premature airway closure, particularly during expiration. This impedes airflow out of the lungs, causing air to be trapped. This trapped air progressively increases the end-expiratory lung volume, which is functionally represented as an increase in functional residual capacity (FRC). This phenomenon is known as dynamic hyperinflation, clearly illustrated by the 'Asthmatic Lungs' graph showing a rising baseline and 'Vtrapped'.",
+    "highYieldPearl": "Rio's Take: Air trapping is a hallmark of obstructive lung diseases like asthma. It directly leads to hyperinflation, increased FRC, elevated work of breathing, and significant ventilation-perfusion mismatch. Recognizing this mechanical consequence is vital for understanding symptoms and treatment response.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "The context explicitly states '↑work of breathing' as a consequence of hyperinflation and changes in elastic recoil. This option presents the opposite effect.",
+      "B": "The context and the provided graph clearly show a 'Progressive increase in end-expiratory lung volume (air trapping).' EELV is synonymous with FRC in this context, and it increases, not reduces. This option presents the opposite effect.",
+      "C": "The context describes hyperinflation and air trapping leading to an increase in lung volume, specifically showing 'Progressive increase in end-expiratory lung volume (air trapping)' on the graph, which corresponds to an increased FRC. This is the correct answer.",
+      "D": "The context states that increased airway resistance and air trapping lead to 'abnormal distribution of ventilation and perfusion.' This option describes a normal physiological state, which is contradicted in asthma."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_bronchoprovocation_2a95241f",
+    "question": "Tezepelumab, an anti-TSLP biologic therapy for severe asthma, primarily targets which of the following molecules to exert its therapeutic effect?",
+    "options": {
+      "A": "Alpha-unit of the IL-4 receptor.",
+      "B": "Circulating thymic stromal lymphopoietin (TSLP).",
+      "C": "B cell class switch enzyme, AID.",
+      "D": "Eosinophil-activating cytokines like IL-5."
+    },
+    "correctAnswer": "B",
+    "topic": "Asthma - Pathophysiology",
+    "deepDiveExplanation": "Tezepelumab is a novel biologic agent approved for severe asthma. Its mechanism of action involves binding to circulating thymic stromal lymphopoietin (TSLP). TSLP is an epithelial cell-derived alarmin that initiates and amplifies type 2 inflammatory responses, acting upstream of cytokines like IL-4, IL-5, and IL-13, and is involved in multiple pathways driving asthma pathophysiology, as clearly stated in the provided text.",
+    "highYieldPearl": "Rio's Take: Tezepelumab targets TSLP, an *upstream* alarmin from epithelial cells. This makes it effective across various asthma phenotypes, including those without high T2 biomarkers, differentiating it from biologics directly targeting IL-4/IL-13 or IL-5 pathways.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the specific target of dupilumab (anti-IL4R), another biologic for asthma, but not tezepelumab. This is a common trap requiring differentiation between biologic mechanisms.",
+      "B": "The context explicitly states: 'tezepelumab binds circulating TSLP.' This is the correct mechanism of action.",
+      "C": "While IL-4/IL-13 *induce* B cell class switching to IgE, and TSLP is upstream of this, tezepelumab does not directly target the enzyme responsible for this process (Activation-induced cytidine deaminase, AID). This is too specific and not mentioned in the context as its direct target.",
+      "D": "While TSLP can contribute to eosinophil-driven inflammation (partially through IL-5), tezepelumab does not directly bind or neutralize IL-5. Other biologics (e.g., mepolizumab, reslizumab, benralizumab) target IL-5 or its receptor. This option describes the target of other biologics."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_5_OCR",
+      "chapter": "Other Protocols for Measurement of Diffusing Capacity",
+      "section": "**References**",
+      "pageNumber": 56
+    },
+    "bookId": "MurrayNadel_Section_5_OCR",
+    "chunkId": "MurrayNadel_Section_5_OCR_chunk_154",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "A positive methacholine challenge test is defined by what percentage fall in FEV1 from baseline?",
+    "options": {
+      "A": "10%",
+      "B": "15%",
+      "C": "20%",
+      "D": "25%"
+    },
+    "correctAnswer": "C",
+    "topic": "bronchoprovocation",
+    "deepDiveExplanation": "The methacholine challenge test assesses airway hyperresponsiveness. A positive test is defined as a 20% fall in FEV1 (PC20 or PD20) from baseline after inhaling a specific cumulative dose of methacholine. This threshold is widely accepted for diagnosing asthma when baseline spirometry is normal.",
+    "highYieldPearl": "PC20 (Provocative Concentration causing a 20% fall in FEV1) is the critical value for a positive methacholine challenge test.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Distractors represent other arbitrary percentages. Knowing the exact 20% threshold is fundamental for diagnosis and interpretation.",
+    "isOneLiner": true,
+    "id": "one_liner_bronchoprovocation_899z6z47"
+  },
+  {
+    "question": "Which of the following is an absolute contraindication for methacholine challenge testing?",
+    "options": {
+      "A": "Current smoking",
+      "B": "Pregnancy",
+      "C": "Recent myocardial infarction (within 3 months)",
+      "D": "FEV1 65% of predicted"
+    },
+    "correctAnswer": "C",
+    "topic": "bronchoprovocation",
+    "deepDiveExplanation": "Absolute contraindications for methacholine challenge testing include recent myocardial infarction or stroke (within 3 months), uncontrolled hypertension, aortic aneurysm, FEV1 < 50% predicted or < 1.0 L, and inability to perform spirometry. Pregnancy is a relative contraindication, and FEV1 65% is not an absolute contraindication.",
+    "highYieldPearl": "Patient safety is paramount; severe cardiovascular or respiratory instability precludes bronchoprovocation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Many conditions are relative contraindications. Distinguishing absolute from relative is crucial. FEV1 < 50% predicted is an absolute contraindication, while FEV1 65% is not.",
+    "isOneLiner": true,
+    "id": "one_liner_bronchoprovocation_mrunp5qh"
+  },
+  {
+    "question": "Methacholine induces bronchoconstriction primarily by stimulating which receptor type in the airways?",
+    "options": {
+      "A": "Beta-2 adrenergic receptors",
+      "B": "Muscarinic M3 receptors",
+      "C": "Histamine H1 receptors",
+      "D": "Alpha-1 adrenergic receptors"
+    },
+    "correctAnswer": "B",
+    "topic": "bronchoprovocation",
+    "deepDiveExplanation": "Methacholine is a cholinergic agonist that mimics acetylcholine. It directly stimulates muscarinic M3 receptors located on airway smooth muscle cells, leading to increased intracellular calcium and subsequent bronchoconstriction. This mechanism is central to its use in bronchoprovocation testing.",
+    "highYieldPearl": "Methacholine's action is via the parasympathetic pathway, directly on muscarinic receptors.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Distractors represent other common receptor types involved in airway physiology. Understanding the specific mechanism of methacholine is key.",
+    "isOneLiner": true,
+    "id": "one_liner_bronchoprovocation_qk8x06zc"
+  },
+  {
+    "question": "The primary indication for performing a methacholine challenge test is to diagnose asthma in patients with which spirometry finding?",
+    "options": {
+      "A": "Fixed airway obstruction",
+      "B": "Normal FEV1/FVC ratio and FEV1",
+      "C": "Restrictive ventilatory defect",
+      "D": "Significant bronchodilator reversibility"
+    },
+    "correctAnswer": "B",
+    "topic": "bronchoprovocation",
+    "deepDiveExplanation": "Bronchoprovocation testing is most useful for confirming or excluding a diagnosis of asthma in individuals who have symptoms suggestive of asthma but whose baseline spirometry (FEV1/FVC ratio and FEV1) is within normal limits. If spirometry already shows obstruction or significant reversibility, asthma is often already diagnosed.",
+    "highYieldPearl": "Bronchoprovocation helps identify airway hyperresponsiveness when routine lung function tests are normal.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "The test is less useful if asthma is already evident from spirometry. Its value lies in detecting occult airway hyperresponsiveness.",
+    "isOneLiner": true,
+    "id": "one_liner_bronchoprovocation_0jtslufj"
+  },
+  {
+    "question": "What is the immediate management for significant bronchospasm occurring during a methacholine challenge test?",
+    "options": {
+      "A": "Intravenous corticosteroids",
+      "B": "Nebulized salbutamol",
+      "C": "Oral antihistamines",
+      "D": "Supplemental oxygen only"
+    },
+    "correctAnswer": "B",
+    "topic": "bronchoprovocation",
+    "deepDiveExplanation": "If significant bronchospasm occurs during a methacholine challenge, the immediate and most effective treatment is to administer a short-acting beta-2 agonist (SABA) such as nebulized salbutamol (albuterol). This rapidly reverses the induced bronchoconstriction, ensuring patient safety. All other options are either too slow or ineffective for acute reversal.",
+    "highYieldPearl": "Always have a bronchodilator readily available for immediate reversal during bronchoprovocation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Other options are treatments for asthma but not for acute, immediate reversal of induced bronchospasm. The key is rapid action.",
+    "isOneLiner": true,
+    "id": "one_liner_bronchoprovocation_3lhwtj92"
+  },
+  {
+    "question": "A positive methacholine challenge test is defined by what percentage fall in FEV1 from baseline?",
+    "options": {
+      "A": "10%",
+      "B": "15%",
+      "C": "20%",
+      "D": "25%"
+    },
+    "correctAnswer": "C",
+    "topic": "bronchoprovocation",
+    "deepDiveExplanation": "The methacholine challenge test assesses airway hyperresponsiveness. A positive test is defined as a 20% fall in FEV1 (PC20 or PD20) from baseline after inhaling a specific cumulative dose of methacholine. This threshold is widely accepted for diagnosing asthma when baseline spirometry is normal.",
+    "highYieldPearl": "PC20 (Provocative Concentration causing a 20% fall in FEV1) is the critical value for a positive methacholine challenge test.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Distractors represent other arbitrary percentages. Knowing the exact 20% threshold is fundamental for diagnosis and interpretation.",
+    "isOneLiner": true,
+    "id": "one_liner_bronchoprovocation_a7qphhz9"
+  },
+  {
+    "question": "Which of the following is an absolute contraindication for methacholine challenge testing?",
+    "options": {
+      "A": "Current smoking",
+      "B": "Pregnancy",
+      "C": "Recent myocardial infarction (within 3 months)",
+      "D": "FEV1 65% of predicted"
+    },
+    "correctAnswer": "C",
+    "topic": "bronchoprovocation",
+    "deepDiveExplanation": "Absolute contraindications for methacholine challenge testing include recent myocardial infarction or stroke (within 3 months), uncontrolled hypertension, aortic aneurysm, FEV1 < 50% predicted or < 1.0 L, and inability to perform spirometry. Pregnancy is a relative contraindication, and FEV1 65% is not an absolute contraindication.",
+    "highYieldPearl": "Patient safety is paramount; severe cardiovascular or respiratory instability precludes bronchoprovocation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Many conditions are relative contraindications. Distinguishing absolute from relative is crucial. FEV1 < 50% predicted is an absolute contraindication, while FEV1 65% is not.",
+    "isOneLiner": true,
+    "id": "one_liner_bronchoprovocation_96ib7y8a"
+  },
+  {
+    "question": "Methacholine induces bronchoconstriction primarily by stimulating which receptor type in the airways?",
+    "options": {
+      "A": "Beta-2 adrenergic receptors",
+      "B": "Muscarinic M3 receptors",
+      "C": "Histamine H1 receptors",
+      "D": "Alpha-1 adrenergic receptors"
+    },
+    "correctAnswer": "B",
+    "topic": "bronchoprovocation",
+    "deepDiveExplanation": "Methacholine is a cholinergic agonist that mimics acetylcholine. It directly stimulates muscarinic M3 receptors located on airway smooth muscle cells, leading to increased intracellular calcium and subsequent bronchoconstriction. This mechanism is central to its use in bronchoprovocation testing.",
+    "highYieldPearl": "Methacholine's action is via the parasympathetic pathway, directly on muscarinic receptors.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Distractors represent other common receptor types involved in airway physiology. Understanding the specific mechanism of methacholine is key.",
+    "isOneLiner": true,
+    "id": "one_liner_bronchoprovocation_iclm4l5d"
+  },
+  {
+    "question": "The primary indication for performing a methacholine challenge test is to diagnose asthma in patients with which spirometry finding?",
+    "options": {
+      "A": "Fixed airway obstruction",
+      "B": "Normal FEV1/FVC ratio and FEV1",
+      "C": "Restrictive ventilatory defect",
+      "D": "Significant bronchodilator reversibility"
+    },
+    "correctAnswer": "B",
+    "topic": "bronchoprovocation",
+    "deepDiveExplanation": "Bronchoprovocation testing is most useful for confirming or excluding a diagnosis of asthma in individuals who have symptoms suggestive of asthma but whose baseline spirometry (FEV1/FVC ratio and FEV1) is within normal limits. If spirometry already shows obstruction or significant reversibility, asthma is often already diagnosed.",
+    "highYieldPearl": "Bronchoprovocation helps identify airway hyperresponsiveness when routine lung function tests are normal.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "The test is less useful if asthma is already evident from spirometry. Its value lies in detecting occult airway hyperresponsiveness.",
+    "isOneLiner": true,
+    "id": "one_liner_bronchoprovocation_j6zri4m1"
+  },
+  {
+    "question": "What is the immediate management for significant bronchospasm occurring during a methacholine challenge test?",
+    "options": {
+      "A": "Intravenous corticosteroids",
+      "B": "Nebulized salbutamol",
+      "C": "Oral antihistamines",
+      "D": "Supplemental oxygen only"
+    },
+    "correctAnswer": "B",
+    "topic": "bronchoprovocation",
+    "deepDiveExplanation": "If significant bronchospasm occurs during a methacholine challenge, the immediate and most effective treatment is to administer a short-acting beta-2 agonist (SABA) such as nebulized salbutamol (albuterol). This rapidly reverses the induced bronchoconstriction, ensuring patient safety. All other options are either too slow or ineffective for acute reversal.",
+    "highYieldPearl": "Always have a bronchodilator readily available for immediate reversal during bronchoprovocation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Other options are treatments for asthma but not for acute, immediate reversal of induced bronchospasm. The key is rapid action.",
+    "isOneLiner": true,
+    "id": "one_liner_bronchoprovocation_6cacxb3z"
+  }
+]

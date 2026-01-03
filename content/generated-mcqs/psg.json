@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "rag_psg_a842ccd5",
+    "question": "According to the RNTCP guidelines, Multi-drug resistant tuberculosis (MDR-TB) is defined as resistance to which of the following antitubercular drugs?",
+    "options": {
+      "A": "Isoniazid and Ethambutol",
+      "B": "Rifampicin and Pyrazinamide",
+      "C": "Isoniazid and Rifampicin",
+      "D": "Streptomycin and Ethambutol"
+    },
+    "correctAnswer": "C",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "Multi-drug resistant tuberculosis (MDR-TB) is defined by resistance to both isoniazid (INH) and rifampicin (RIF), which are the two most potent first-line anti-TB drugs. This definition is universally accepted by WHO and national programs like RNTCP (now NTEP). Resistance to other drugs like pyrazinamide, ethambutol, or streptomycin, either alone or in combination with INH or RIF (but not both), falls under mono-resistance or poly-resistance, but not MDR-TB.",
+    "highYieldPearl": "Rio's Take: MDR-TB = Resistance to INH + RIF. This is the cornerstone definition for understanding drug-resistant TB and is frequently tested.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Isoniazid is a key component of MDR-TB, but resistance to Ethambutol does not define MDR-TB. This would be poly-resistance.",
+      "B": "Rifampicin is a key component of MDR-TB, but resistance to Pyrazinamide does not define MDR-TB. This would be poly-resistance.",
+      "C": "This is the correct and standard definition of Multi-drug resistant tuberculosis.",
+      "D": "Resistance to Streptomycin and Ethambutol, without concurrent INH and RIF resistance, does not classify as MDR-TB."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988515,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_1528e57a",
+    "question": "All of the following are advantages of Fluorescent Microscopy (FM) over Ziehl-Neelsen (ZN) staining for the diagnosis of tuberculosis, EXCEPT:",
+    "options": {
+      "A": "Higher sensitivity for detecting low bacillary loads",
+      "B": "Does not require continuous supply of power",
+      "C": "Faster examination of smears due to lower magnification",
+      "D": "No heating of the smear is required during the staining process"
+    },
+    "correctAnswer": "B",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "Fluorescent Microscopy (FM) offers several advantages over conventional Ziehl-Neelsen (ZN) staining, including increased sensitivity (especially for low bacillary content and in PLHIV), faster smear examination due to the use of lower power objectives and wider field of view, and absence of heating. However, a key disadvantage of FM systems is the requirement for initial high investment, handling and maintenance of equipment, skilled personnel, and a continuous supply of power to operate the microscope and its light source. This makes 'does not require continuous supply of power' an incorrect statement as an advantage.",
+    "highYieldPearl": "Rio's Take: FM excels in sensitivity and speed, making it ideal for high-volume labs and paucibacillary cases, but remember its operational costs and power dependency are drawbacks.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "FM is 'more sensitive' and 'detects low bacillary content', which is a distinct advantage over ZN. This is a true advantage.",
+      "B": "The context explicitly lists 'continuous supply of power' as a disadvantage of FM. Therefore, not requiring it is an incorrect statement as an advantage.",
+      "C": "FM uses 'low power objective' and 'covers an increased area of smear field', making it 'less time consuming' for examination. This is a true advantage.",
+      "D": "The context lists 'Heating not required' as an advantage of FM. This is a true advantage."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988515,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_675c083e",
+    "question": "Which of the following statements accurately describes a fundamental limitation of all acid-fast bacilli (AFB) microscopy methods, including Fluorescent Microscopy (FM), when assessing for drug-resistant tuberculosis?",
+    "options": {
+      "A": "They cannot provide a semi-quantitative estimate of bacterial load.",
+      "B": "They are unable to distinguish between drug-sensitive and drug-resistant strains of Mycobacterium tuberculosis.",
+      "C": "They are generally less sensitive than conventional culture for detecting Mycobacterium tuberculosis.",
+      "D": "They require a high level of technical expertise for interpretation, making them unsuitable for peripheral laboratories."
+    },
+    "correctAnswer": "B",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "A crucial limitation of all microscopy methods for AFB (both ZN and FM) is their inability to differentiate between drug-sensitive and drug-resistant strains of Mycobacterium tuberculosis. Microscopy only identifies the presence of acid-fast bacilli. Further molecular or culture-based drug susceptibility testing is required to determine drug resistance. The provided context explicitly states under disadvantages of FM: 'Cannot distinguish between drug resistant and drug-sensitive MTB (Handwritten note: All microscopy)'.",
+    "highYieldPearl": "Rio's Take: Microscopy detects 'bug,' but not 'drug resistance.' This fundamental limitation necessitates subsequent molecular or culture-based DST for DR-TB diagnosis.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "AFB microscopy provides a semi-quantitative grading (e.g., 1+, 2+, 3+), as detailed in the ZN and Auramine O grading tables in the context. So, this statement is false.",
+      "B": "This is a direct and explicitly stated limitation of all microscopy methods in the context regarding drug resistance, making it the correct answer.",
+      "C": "While true that culture is more sensitive, FM is highlighted for its 'more sensitive' nature and ability to 'detects low bacillary content,' making it superior to ZN in this regard. Stating 'generally less sensitive' without qualification might be misleading, and option B is a more direct and universally acknowledged limitation specific to the context of drug resistance.",
+      "D": "While 'Skilled personnel' is listed as a disadvantage for FM, the statement 'unsuitable for peripheral laboratories' is too strong. Microscopy is widely used in peripheral labs, especially ZN, and FM's benefits (like faster reading) can even make it more efficient in high-volume settings, given proper training."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988515,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_cb67cd3a",
+    "question": "A 45-year-old male with new sputum smear-positive pulmonary TB undergoes GenoType MTBDDRplus testing. The results show absence of the rpoB wild type probe 1 and presence of rpoB mutation probe 2B. Additionally, there is absence of the katG wild type probe and presence of inhA mutation probe 1. Based on these results, which of the following is the most likely drug resistance profile?",
+    "options": {
+      "A": "Isoniazid and Rifampicin resistance",
+      "B": "Isoniazid resistance only",
+      "C": "Rifampicin resistance only",
+      "D": "Ethambutol and Pyrazinamide resistance"
+    },
+    "correctAnswer": "A",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "The GenoType MTBDDRplus (LPA) identifies mutations in specific gene loci associated with drug resistance. The 'rpoB locus control' on the test strip (as described on page 63 of the provided context) specifically targets mutations in the rpoB gene, which confers Rifampicin resistance. The absence of a wild-type rpoB probe and presence of an rpoB mutation probe directly indicates Rifampicin resistance. Similarly, the 'katG locus control' and 'inhA locus control' identify mutations in the katG and inhA genes, respectively, both of which are associated with Isoniazid resistance. Absence of the katG wild type probe indicates a mutation in katG (conferring high-level INH resistance), and presence of inhA mutation probe indicates a mutation in inhA (conferring low-level INH resistance). Therefore, both Isoniazid and Rifampicin resistance are indicated by these results.",
+    "highYieldPearl": "Rio's Take: Line Probe Assays (LPA) like GenoType MTBDDRplus are rapid molecular tests primarily used to detect resistance to Rifampicin (via rpoB gene mutations) and Isoniazid (via katG and inhA gene mutations). Understanding the key genes for resistance to first-line drugs is crucial for interpreting these results.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. The findings clearly indicate resistance to both Isoniazid (katG and inhA mutations) and Rifampicin (rpoB mutation).",
+      "B": "Incorrect. While Isoniazid resistance is present (katG and inhA mutations), Rifampicin resistance is also clearly indicated by the rpoB gene mutation.",
+      "C": "Incorrect. While Rifampicin resistance is present (rpoB mutation), Isoniazid resistance is also clearly indicated by the katG and inhA gene mutations.",
+      "D": "Plausible as other first-line drugs, but incorrect. The GenoType MTBDDRplus primarily tests for Isoniazid and Rifampicin resistance and does not provide information about Ethambutol or Pyrazinamide resistance. This option serves as a distractor based on general knowledge of first-line TB drugs."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_1d680d7d",
+    "question": "A patient with pulmonary tuberculosis is confirmed to have M. tuberculosis resistant to Isoniazid, Rifampicin, Levofloxacin, and Linezolid. Which of the following is the most appropriate classification for this patient's drug-resistant tuberculosis?",
+    "options": {
+      "A": "Extensively Drug-Resistant TB (XDR-TB)",
+      "B": "Pre-Extensively Drug-Resistant TB (Pre-XDR-TB)",
+      "C": "Multi-Drug Resistant TB (MDR-TB)",
+      "D": "Poly-Drug Resistant TB"
+    },
+    "correctAnswer": "A",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "According to WHO definitions (and as implied by the provided context pages 67-69 discussing types of drug resistance), the classifications are hierarchical:\n1.  **Multi-Drug Resistant TB (MDR-TB):** Resistance to at least Isoniazid (INH) and Rifampicin (RIF).\n2.  **Pre-Extensively Drug-Resistant TB (Pre-XDR-TB):** MDR-TB plus resistance to any fluoroquinolone (e.g., Levofloxacin, Moxifloxacin, Gatifloxacin).\n3.  **Extensively Drug-Resistant TB (XDR-TB):** Pre-XDR-TB (i.e., MDR-TB + fluoroquinolone resistance) plus resistance to at least one Group A anti-TB drug. Group A drugs include Bedaquiline and Linezolid.\n\nIn this patient, resistance to Isoniazid and Rifampicin makes it MDR-TB. The additional resistance to Levofloxacin (a fluoroquinolone) makes it Pre-XDR-TB. Furthermore, the resistance to Linezolid (a Group A drug) qualifies it as XDR-TB. Therefore, XDR-TB is the most complete and accurate classification.",
+    "highYieldPearl": "Rio's Take: Classification of DR-TB is progressive. Always identify the highest level of resistance present: MDR (INH+RIF) → Pre-XDR (MDR + any Fluoroquinolone) → XDR (Pre-XDR + at least one Group A drug like Bedaquiline or Linezolid).",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. This is the most comprehensive and accurate classification, as all criteria for XDR-TB are met.",
+      "B": "Plausible, as the patient meets the criteria for Pre-XDR-TB (MDR + Levofloxacin resistance). However, it is not the *most* appropriate or complete classification, as resistance to Linezolid (a Group A drug) pushes it to XDR-TB.",
+      "C": "Plausible, as the patient meets the criteria for MDR-TB (INH + RIF resistance). However, it is not the *most* appropriate or complete classification given the additional resistances.",
+      "D": "Incorrect. Poly-Drug Resistant TB refers to resistance to more than one first-line anti-TB drug, but *not* both Isoniazid and Rifampicin. Since this patient is resistant to both INH and RIF, MDR-TB and higher classifications are applicable, making 'Poly-Drug Resistant TB' an inappropriate primary classification."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_10291488",
+    "question": "A 30-year-old patient from a high-TB burden region presents with cough, fever, and weight loss. Sputum smear microscopy is 3+. Which of the following statements regarding the initial diagnostic approach for drug-resistant TB in this patient is LEAST accurate?",
+    "options": {
+      "A": "Phenotypic Drug Susceptibility Testing (DST) using liquid culture is the gold standard for comprehensive resistance profiling.",
+      "B": "Line Probe Assay (LPA) can rapidly detect resistance to Rifampicin and Isoniazid directly from sputum samples.",
+      "C": "Whole Genome Sequencing (WGS) offers the most comprehensive resistance detection but has a longer turnaround time compared to LPA for initial screening.",
+      "D": "Repeat sputum smear microscopy is crucial for determining drug resistance patterns before initiating treatment."
+    },
+    "correctAnswer": "D",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "This question tests the understanding of various diagnostic modalities for TB and DR-TB.\n*   **Option A:** Phenotypic Drug Susceptibility Testing (DST) via liquid culture (e.g., MGIT) is indeed considered the gold standard for comprehensive drug resistance profiling as it tests the actual growth of bacteria in the presence of drugs. This statement is accurate.\n*   **Option B:** Line Probe Assays (LPA), like the GenoType MTBDDRplus discussed in the context (pages 63-64), are molecular tests designed for rapid detection of resistance to Rifampicin and Isoniazid directly from sputum or culture. This statement is accurate.\n*   **Option C:** Whole Genome Sequencing (WGS) is the most comprehensive method for detecting resistance to all known anti-TB drugs by identifying resistance-conferring mutations across the entire M. tuberculosis genome. While highly comprehensive, its turnaround time is generally longer than rapid molecular tests like LPA for initial detection of common resistances, and it requires specialized infrastructure. This statement is accurate.\n*   **Option D:** Sputum smear microscopy (both ZN and fluorescent microscopy) detects the presence of Acid-Fast Bacilli (AFB). However, as explicitly stated in the provided text (page 32), microscopy 'Cannot distinguish between drug resistant and drug-sensitive MTB' and cannot determine specific drug resistance patterns. Therefore, relying on repeat sputum smear microscopy for determining drug resistance is inaccurate and would delay appropriate treatment. This statement is the LEAST accurate.",
+    "highYieldPearl": "Rio's Take: While microscopy confirms the presence of TB, it provides *no* information on drug resistance. Molecular tests (like Xpert MTB/RIF or LPA) are crucial for rapid detection of key drug resistances (especially Rifampicin and Isoniazid) in high-burden settings. Phenotypic DST remains the gold standard for comprehensive susceptibility testing, particularly for second-line drugs. Never delay initiating appropriate TB treatment based on resistance patterns determined solely by microscopy.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a true statement regarding phenotypic DST. It's a gold standard, but often slower than molecular methods for initial screening.",
+      "B": "This is a true statement. LPA is a cornerstone of rapid DR-TB diagnosis, specifically for INH and RIF.",
+      "C": "This is a true statement. WGS is powerful but currently often used for comprehensive or confirmatory testing rather than initial rapid screening due to logistical factors.",
+      "D": "This is the incorrect statement. Microscopy cannot differentiate between drug-sensitive and drug-resistant TB. This makes it the LEAST accurate statement about determining drug resistance patterns."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_436510ad",
+    "question": "A 45-year-old male, previously treated for pulmonary tuberculosis 5 years ago, presents with persistent cough, fever, and weight loss for 3 months. His sputum smear is positive for AFB (2+). Given his history of previous treatment, a rapid molecular test, GenoType® MTBDDRplus, is performed. The report shows the following: \n\n-   **TUB:** Positive\n-   **AC, CC:** Positive\n-   **rpoB WT1-8:** All absent; **rpoB MUT3:** Present\n-   **katG WT:** Absent; **katG MUT1:** Present\n-   **inhA WT1-2:** Present; **inhA MUT1-3A/B:** All absent\n\nBased on these results, what is the most appropriate classification of this patient's drug resistance profile?",
+    "options": {
+      "A": "Multidrug-resistant TB (MDR-TB)",
+      "B": "Isoniazid mono-resistant TB",
+      "C": "Rifampicin mono-resistant TB",
+      "D": "Polydrug-resistant TB (non-MDR)"
+    },
+    "correctAnswer": "A",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "The GenoType® MTBDDRplus test provides a rapid molecular detection of resistance to Rifampicin and Isoniazid by identifying specific mutations in the rpoB, katG, and inhA genes. \n\n1.  **Rifampicin Resistance:** The absence of all rpoB wild-type probes (WT1-8) and the presence of a rpoB mutation probe (MUT3) indicate resistance to Rifampicin. The rpoB gene encodes the beta subunit of RNA polymerase, and mutations in this gene are strongly associated with Rifampicin resistance.\n2.  **Isoniazid Resistance:** The absence of the katG wild-type probe and the presence of the katG MUT1 probe indicate resistance to Isoniazid. Mutations in the katG gene (specifically codon 315) are associated with high-level Isoniazid resistance. The presence of inhA wild-type probes and absence of inhA mutation probes suggests that resistance is primarily mediated through katG, but Isoniazid resistance is confirmed. \n\nMultidrug-resistant TB (MDR-TB) is defined as resistance to at least both Isoniazid and Rifampicin, the two most potent first-line anti-TB drugs. Since both Rifampicin and Isoniazid resistance are confirmed, the patient has MDR-TB.",
+    "highYieldPearl": "Rio's Take: GenoType® MTBDDRplus detects Rifampicin resistance via rpoB mutations and Isoniazid resistance via katG and/or inhA mutations. Co-resistance to both defines MDR-TB.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct interpretation of both Rifampicin and Isoniazid resistance, leading to the MDR-TB classification.",
+      "B": "Incorrect, as both Rifampicin and Isoniazid resistance are present, not just Isoniazid. A common mistake is to focus on only one drug or misinterpret the probes.",
+      "C": "Incorrect, as both Rifampicin and Isoniazid resistance are present, not just Rifampicin. Similar to option B, this indicates incomplete interpretation.",
+      "D": "Incorrect. While MDR-TB is a type of polydrug-resistant TB, 'polydrug-resistant TB (non-MDR)' specifically refers to resistance to more than one first-line drug but not simultaneously to both Isoniazid and Rifampicin. This patient clearly has resistance to both, making it MDR-TB."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_18427ba4",
+    "question": "A 32-year-old female, a known contact of her brother diagnosed with Extensively Drug-Resistant TB (XDR-TB) 3 months ago, presents with a productive cough, evening fevers, and recent weight loss. Her sputum Acid-Fast Bacilli (AFB) smear is positive (3+). Which of the following is the most appropriate initial diagnostic step to guide her treatment?",
+    "options": {
+      "A": "Start empirical Category IV (MDR-TB) regimen immediately and await conventional culture and DST results.",
+      "B": "Perform Fluorescent Microscopy (FM) for rapid detection of AFB followed by conventional solid culture.",
+      "C": "Initiate first-line anti-TB drugs (Category I) and monitor for clinical response.",
+      "D": "Order a rapid molecular test like CBNAAT/GeneXpert or Line Probe Assay (LPA) for Rifampicin and Isoniazid resistance."
+    },
+    "correctAnswer": "D",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "The patient has significant risk factors for drug-resistant TB, specifically XDR-TB, given her close contact with an XDR-TB patient. In such high-risk scenarios, prompt and accurate diagnosis of drug resistance is paramount to prevent further transmission and ensure effective treatment. \n\n-   **Rapid molecular tests** such as CBNAAT (Cartridge-Based Nucleic Acid Amplification Test) or GeneXpert MTB/RIF detect Mycobacterium tuberculosis complex DNA and simultaneously identify Rifampicin resistance by targeting the rpoB gene. Line Probe Assays (LPA), like the GenoType® MTBDDRplus mentioned in the context, can detect resistance to both Rifampicin and Isoniazid (katG and inhA genes) and are crucial for diagnosing MDR-TB. These tests offer results within hours to a day, allowing for timely initiation of appropriate drug-resistant TB regimens.\n-   **Option A** (empirical MDR-TB regimen) is not ideal without confirmation of resistance, as it can lead to unnecessary exposure to second-line drugs or inadequate treatment if the resistance profile is different (e.g., pan-sensitive, mono-resistant). \n-   **Option B** (FM followed by conventional culture) is insufficient as FM, like other microscopy methods, 'cannot distinguish between drug resistant and drug-sensitive MTB' (as stated in the provided text). Conventional culture and Drug Susceptibility Testing (DST) can take weeks to months, delaying crucial treatment.\n-   **Option C** (initiating first-line drugs) would be inappropriate and potentially harmful given the high suspicion of XDR-TB. Treating XDR-TB with first-line drugs would lead to treatment failure, disease progression, and increased risk of transmission.",
+    "highYieldPearl": "Rio's Take: For high-risk contacts of DR-TB or previously treated TB, immediate rapid molecular testing (e.g., GeneXpert, LPA) for Rifampicin and Isoniazid resistance is the standard of care to guide prompt, appropriate treatment.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a trap because while the suspicion is high, empirical treatment without diagnostic confirmation is generally not preferred for DR-TB due to the toxicity and complexity of regimens, unless it's a critical, life-threatening situation where delay is unacceptable and molecular tests are unavailable. The 'awaiting conventional culture' part makes it worse, as conventional DST takes too long.",
+      "B": "This is a trap as Fluorescent Microscopy is sensitive but cannot detect drug resistance. Conventional culture and DST are the gold standard for full resistance profiling but take too long for initial guidance in high-risk patients.",
+      "C": "This is a significant trap. Starting first-line drugs in a patient highly suspected of XDR-TB is a major clinical error, as it will lead to treatment failure and further resistance.",
+      "D": "This is the correct approach. Rapid molecular tests are crucial for early detection of drug resistance in high-risk individuals, allowing for timely and appropriate treatment initiation."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_d695777b",
+    "question": "A 58-year-old male with confirmed Multidrug-resistant TB (MDR-TB), resistant to both Isoniazid and Rifampicin, is undergoing treatment. During his follow-up, he develops new symptoms and his sputum smear becomes positive again. Further drug susceptibility testing (DST) reveals additional resistance to Moxifloxacin and Linezolid, but remains susceptible to Bedaquiline. Based on these findings, how should this patient's TB be classified?",
+    "options": {
+      "A": "Extensively Drug-Resistant TB (XDR-TB)",
+      "B": "Pre-Extensively Drug-Resistant TB (Pre-XDR-TB)",
+      "C": "Polydrug-resistant TB (non-MDR)",
+      "D": "Programmatic Drug-Resistant TB (PDR-TB)"
+    },
+    "correctAnswer": "A",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "Let's break down the classification definitions:\n\n1.  **MDR-TB:** Defined as resistance to at least Rifampicin and Isoniazid. The patient already has this.\n2.  **Pre-XDR-TB:** Defined as MDR-TB plus resistance to any fluoroquinolone (e.g., Moxifloxacin, Levofloxacin, Ofloxacin). The patient has MDR-TB and is resistant to Moxifloxacin, so he meets the criteria for Pre-XDR-TB.\n3.  **XDR-TB:** Defined as MDR-TB plus resistance to any fluoroquinolone AND at least one of the Group A drugs (Bedaquiline, Linezolid, Pretomanid). In this patient, resistance to Moxifloxacin (a fluoroquinolone) is confirmed, and resistance to Linezolid (a Group A drug) is also confirmed. Therefore, the patient meets the full criteria for XDR-TB.\n\nThe patient's resistance profile includes resistance to Rifampicin, Isoniazid (MDR-TB), Moxifloxacin (a fluoroquinolone), and Linezolid (a Group A drug). This combination precisely defines XDR-TB.",
+    "highYieldPearl": "Rio's Take: XDR-TB = MDR-TB + Fluoroquinolone resistance + resistance to at least one Group A drug (Bedaquiline, Linezolid, Pretomanid). Pre-XDR-TB = MDR-TB + Fluoroquinolone resistance.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct classification. The patient has MDR-TB, resistance to Moxifloxacin (a fluoroquinolone), and resistance to Linezolid (a Group A drug), meeting the definition of XDR-TB.",
+      "B": "This is a plausible trap. The patient indeed has Pre-XDR-TB (MDR-TB + Fluoroquinolone resistance). However, the additional resistance to Linezolid pushes the classification further to XDR-TB. Choosing this option indicates incomplete understanding of XDR criteria.",
+      "C": "Incorrect. Polydrug-resistant TB (non-MDR) refers to resistance to multiple first-line drugs but not the combination of both Isoniazid and Rifampicin. This patient is already confirmed MDR-TB and has further resistance, so this classification is too broad and incorrect.",
+      "D": "PDR-TB (Programmatic Drug-Resistant TB) is not a standard WHO classification for specific resistance patterns; it's a broad term sometimes used in programmatic contexts. The specific classifications are Mono-R, Poly-R, MDR, Pre-XDR, and XDR."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_f1820986",
+    "question": "A 35-year-old male, previously treated for pulmonary tuberculosis, presents with persistent cough, fever, and weight loss. Sputum smear is positive for AFB (2+). GeneXpert MTB/RIF detects *M. tuberculosis* and confirms Rifampicin resistance. Subsequent phenotypic drug susceptibility testing (DST) reveals resistance to Isoniazid, Rifampicin, and Levofloxacin, but susceptibility to Bedaquiline and Linezolid. Which of the following best describes this patient's condition?",
+    "options": {
+      "A": "Pre-Extensively Drug Resistant Tuberculosis (Pre-XDR TB)",
+      "B": "Multi-Drug Resistant Tuberculosis (MDR-TB)",
+      "C": "Extensively Drug Resistant Tuberculosis (XDR-TB)",
+      "D": "Poly-Drug Resistant Tuberculosis"
+    },
+    "correctAnswer": "A",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "Multi-drug resistant tuberculosis (MDR-TB) is defined as resistance to at least both Isoniazid and Rifampicin. Pre-extensively drug resistant tuberculosis (Pre-XDR TB) is defined as MDR-TB (resistance to Isoniazid and Rifampicin) plus additional resistance to any fluoroquinolone (e.g., Levofloxacin, Moxifloxacin). Extensively drug resistant tuberculosis (XDR-TB) is defined as MDR-TB plus resistance to any fluoroquinolone AND at least one of the Group A drugs (Bedaquiline or Linezolid). In this patient, resistance to Isoniazid, Rifampicin, and Levofloxacin (a fluoroquinolone) is present, with susceptibility to Bedaquiline and Linezolid. Therefore, the condition is Pre-XDR TB.",
+    "highYieldPearl": "Rio's Take: Always remember the hierarchy of drug resistance definitions: MDR (INH+RIF) < Pre-XDR (MDR + FQ) < XDR (MDR + FQ + Group A drug). This progression dictates treatment complexity.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. The patient meets the criteria for MDR-TB (INH + RIF resistance) and also has resistance to a fluoroquinolone (Levofloxacin), without resistance to Group A drugs, classifying it as Pre-XDR TB.",
+      "B": "Incorrect. While the patient has MDR-TB, they also have additional resistance to a fluoroquinolone, which further classifies it as Pre-XDR TB. This option is a common trap where one might stop at the first level of resistance.",
+      "C": "Incorrect. XDR-TB requires resistance to Isoniazid, Rifampicin, a fluoroquinolone, AND at least one Group A drug (Bedaquiline or Linezolid). The patient is susceptible to Bedaquiline and Linezolid.",
+      "D": "Incorrect. Poly-drug resistant TB is defined as resistance to more than one anti-TB drug, but not to both Isoniazid and Rifampicin concurrently. Since the patient is resistant to both Isoniazid and Rifampicin, this term is not applicable for their primary classification."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_42ce68e4",
+    "question": "A pulmonologist receives a GenoType® MTBDDRplus report for a patient with suspected drug-resistant tuberculosis. The report shows an absence of the rpoB wild type probe 2 (rpoB WT2) signal and a positive signal for the rpoB mutation probe 2A (rpoB MUT2A). All katG and inhA probes show wild type signals. Based on these findings, which conclusion is most appropriate?",
+    "options": {
+      "A": "The patient has Rifampicin-resistant TB and Isoniazid-resistant TB.",
+      "B": "The patient has Rifampicin-resistant TB, but Isoniazid-sensitive TB.",
+      "C": "The patient has Rifampicin-sensitive TB and Isoniazid-resistant TB.",
+      "D": "The test result is invalid due to conflicting rpoB signals."
+    },
+    "correctAnswer": "B",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "The GenoType® MTBDDRplus assay uses hybridization with specific DNA probes. As per the context provided, 'Any Absence of wild type or presence of mutated type ↓ Indicates Resistance.' The absence of rpoB wild type probe signal and presence of rpoB mutation probe signal specifically indicates resistance to Rifampicin, as rpoB locus controls Rifampicin resistance. Conversely, katG and inhA loci are associated with Isoniazid resistance. Since all katG and inhA probes show wild type signals, it implies susceptibility to Isoniazid. Therefore, the patient has Rifampicin-resistant TB but Isoniazid-sensitive TB.",
+    "highYieldPearl": "Rio's Take: GenoType® MTBDDRplus is a rapid molecular test that identifies resistance mutations for Rifampicin (rpoB gene) and Isoniazid (katG and inhA genes). Absence of wild-type bands or presence of mutation bands signifies resistance for that drug.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. While Rifampicin resistance is indicated by rpoB findings, the presence of all wild type signals for katG and inhA indicates Isoniazid sensitivity, not resistance.",
+      "B": "Correct. The rpoB probe results indicate Rifampicin resistance, and the katG/inhA wild-type results indicate Isoniazid sensitivity.",
+      "C": "Incorrect. The rpoB findings clearly indicate Rifampicin resistance, not sensitivity. The katG/inhA findings indicate Isoniazid sensitivity, not resistance.",
+      "D": "Incorrect. The findings (absence of wild type and presence of mutation) are not conflicting but are a clear indication of resistance. An invalid test would typically be indicated by a failure of internal controls (like Conjugate Control, Amplification Control, M. tuberculosis complex control, if specified as invalid)."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_6bde4a4e",
+    "question": "A patient presents with symptoms suggestive of pulmonary tuberculosis. Sputum smear microscopy using Auramine O fluorescent staining reveals numerous AFB (2+). A GeneXpert MTB/RIF assay is performed and detects *M. tuberculosis* with Rifampicin resistance. Which of the following statements about the initial microscopy finding is most accurate in the context of drug-resistant TB diagnosis?",
+    "options": {
+      "A": "The fluorescent microscopy result directly confirms drug-resistant tuberculosis due to its higher sensitivity.",
+      "B": "Fluorescent microscopy can suggest drug resistance by detecting specific morphological changes in AFB.",
+      "C": "While useful for initial diagnosis, fluorescent microscopy alone cannot differentiate between drug-sensitive and drug-resistant *M. tuberculosis*.",
+      "D": "The 2+ grading in fluorescent microscopy is highly indicative of Extensively Drug-Resistant TB, necessitating immediate Group A drug initiation."
+    },
+    "correctAnswer": "C",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "The provided context explicitly states under the disadvantages of Fluorescent Microscopy (FM): 'Cannot distinguish between drug resistant and drug-sensitive MTB (Handwritten note: All microscopy)'. This is a crucial limitation. While FM is highly sensitive for detecting AFB and is excellent for initial diagnosis of active TB, it provides no information about the drug susceptibility profile of the mycobacteria. Molecular methods like GeneXpert MTB/RIF or conventional drug susceptibility testing (DST) are required to determine drug resistance.",
+    "highYieldPearl": "Rio's Take: Microscopy (ZN or Fluorescent) confirms presence of AFB but offers no clue about drug resistance. Resistance detection *always* requires molecular tests (e.g., GeneXpert, LPA) or phenotypic culture-based DST.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. High sensitivity of FM refers to its ability to detect low numbers of AFB, not its capacity to determine drug resistance. Microscopy cannot directly confirm drug resistance.",
+      "B": "Incorrect. Microscopy, whether ZN or fluorescent, relies on staining characteristics of the cell wall and morphology to identify AFB. It cannot detect drug resistance-related changes in bacterial morphology.",
+      "C": "Correct. This directly aligns with the information provided in the context that 'All microscopy' cannot differentiate drug-resistant from drug-sensitive MTB.",
+      "D": "Incorrect. The grading (2+) indicates bacillary load, not drug resistance pattern. There is no correlation between bacillary load on microscopy and the specific type of drug resistance (MDR, Pre-XDR, XDR). Initiating Group A drugs is based on confirmed XDR-TB, not smear positivity grade."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_bea17608",
+    "question": "A 55-year-old male, previously treated for pulmonary tuberculosis 5 years ago, presents with recurrent cough, fever, and weight loss. Sputum smear is positive for Acid-Fast Bacilli (AFB). Molecular drug susceptibility testing reveals resistance to Rifampicin and Isoniazid. Subsequent phenotypic drug susceptibility testing confirms resistance to Rifampicin, Isoniazid, and Moxifloxacin, but susceptibility to Kanamycin and Amikacin. Based on these findings, how should this patient's drug resistance profile be classified according to WHO/National TB Program guidelines?",
+    "options": {
+      "A": "Pre-Extensively Drug-Resistant TB (Pre-XDR-TB)",
+      "B": "Multi-Drug Resistant TB (MDR-TB)",
+      "C": "Extensively Drug-Resistant TB (XDR-TB)",
+      "D": "Poly-Drug Resistant TB"
+    },
+    "correctAnswer": "A",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "The patient's resistance profile includes resistance to Rifampicin and Isoniazid, which is the definition of Multi-Drug Resistant TB (MDR-TB). Additionally, there is resistance to Moxifloxacin, which is a fluoroquinolone. According to current WHO and national guidelines, Pre-Extensively Drug-Resistant TB (Pre-XDR-TB) is defined as MDR-TB plus resistance to any fluoroquinolone. Extensively Drug-Resistant TB (XDR-TB) is defined as MDR-TB plus resistance to any fluoroquinolone AND resistance to at least one of the Group A drugs (e.g., Bedaquiline, Pretomanid, Linezolid) or, historically, resistance to at least one second-line injectable (Kanamycin, Amikacin, Capreomycin). Since the patient is susceptible to Kanamycin and Amikacin, the criteria for XDR-TB are not met, making Pre-XDR-TB the most accurate classification.",
+    "highYieldPearl": "Rio's Take: Remember the hierarchy of drug resistance: MDR (R+I) → Pre-XDR (MDR + Fluoroquinolone) → XDR (MDR + Fluoroquinolone + Group A drug or historically 2nd-line injectable). Knowing these definitions precisely is key for classification and guiding appropriate treatment.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. The patient has resistance to Rifampicin and Isoniazid (MDR-TB) plus resistance to Moxifloxacin (a fluoroquinolone), meeting the definition of Pre-XDR-TB.",
+      "B": "Plausible but incomplete. While the patient technically has MDR-TB, the additional resistance to a fluoroquinolone places it into a more specific and severe category (Pre-XDR-TB). Choosing this option indicates a lack of understanding of the full resistance spectrum.",
+      "C": "Incorrect. XDR-TB requires resistance to a fluoroquinolone AND a Group A drug or second-line injectable. The patient is susceptible to Kanamycin and Amikacin, therefore not meeting XDR criteria.",
+      "D": "Incorrect. Poly-Drug Resistant TB refers to resistance to more than one first-line anti-TB drug, *other than* the combination of Rifampicin and Isoniazid. Since resistance to both R and I is present, it is classified as MDR-TB, which is a specific type of poly-drug resistance, further upgraded to Pre-XDR in this case."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_cb9f3ea3",
+    "question": "A 38-year-old patient with suspected recurrent pulmonary TB undergoes a GenoType MTBDDRplus assay on their sputum sample. The laboratory report indicates the following hybridization patterns:\n\n*   rpoB locus: Absence of rpoB wild type probes WT1-WT8; presence of rpoB MUT3 probe.\n*   katG locus: Absence of katG wild type probe; presence of katG MUT1 probe.\n*   inhA locus: Presence of inhA wild type probes WT1 and WT2; absence of all inhA mutation probes.\n*   Controls (CC, AC, TUB): All positive.\n\nBased on these results, which of the following is the most accurate interpretation of the patient's drug resistance profile?",
+    "options": {
+      "A": "Rifampicin and Isoniazid resistance, indicating Multi-Drug Resistant TB (MDR-TB).",
+      "B": "Rifampicin monoresistance only.",
+      "C": "Isoniazid monoresistance only.",
+      "D": "Susceptible to Rifampicin and Isoniazid."
+    },
+    "correctAnswer": "A",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "The GenoType MTBDDRplus assay is a Line Probe Assay (LPA) used to detect common mutations associated with resistance to Rifampicin and Isoniazid. \n*   For Rifampicin resistance: The rpoB locus is analyzed. Absence of wild type (WT) probes and presence of a mutation (MUT) probe (like rpoB MUT3) indicates Rifampicin resistance. \n*   For Isoniazid resistance: The katG and inhA loci are analyzed. Absence of the katG wild type probe and presence of a katG mutation probe (like katG MUT1) indicates high-level Isoniazid resistance. The inhA locus showing presence of wild type probes and absence of mutation probes indicates susceptibility at the inhA locus, but the katG mutation is sufficient to confer Isoniazid resistance. \nSince both Rifampicin and Isoniazid resistance are detected, the patient has Multi-Drug Resistant TB (MDR-TB).",
+    "highYieldPearl": "Rio's Take: LPA results require specific interpretation. Absence of wild-type bands AND presence of mutation bands in rpoB indicates Rifampicin resistance. For Isoniazid, mutations in katG (high-level) or inhA (low-level) confer resistance. Both R and I resistance detected by LPA immediately flags MDR-TB.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. The rpoB mutation indicates Rifampicin resistance, and the katG mutation indicates Isoniazid resistance. Resistance to both defines MDR-TB.",
+      "B": "Incorrect. While Rifampicin resistance is present (rpoB mutation), Isoniazid resistance is also clearly indicated by the katG mutation.",
+      "C": "Incorrect. While Isoniazid resistance is present (katG mutation), Rifampicin resistance is also clearly indicated by the rpoB mutation.",
+      "D": "Incorrect. Both Rifampicin and Isoniazid show molecular evidence of resistance based on the probe patterns."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_a8d13704",
+    "question": "A 42-year-old migrant worker presents to a community health center with a 6-week history of persistent productive cough, low-grade fever, night sweats, and significant weight loss. He discloses a history of incomplete anti-TB treatment during a previous stay in a high-burden country 3 years ago. Sputum smear microscopy is reported as 3+ positive for AFB. What is the most appropriate initial diagnostic investigation to guide immediate treatment decisions for this patient?",
+    "options": {
+      "A": "Initiate empirical standard first-line anti-TB regimen (Category I).",
+      "B": "Perform a Xpert MTB/RIF (CBNAAT) assay on the sputum sample.",
+      "C": "Send sputum for liquid culture and phenotypic Drug Susceptibility Testing (DST) for all first and second-line drugs.",
+      "D": "Order a chest CT scan to evaluate the extent of lung parenchymal damage."
+    },
+    "correctAnswer": "B",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "This patient presents with symptoms highly suggestive of active pulmonary TB (persistent cough, fever, weight loss, night sweats, positive AFB smear). Critically, his history of incomplete anti-TB treatment and residence in a high-burden country are significant risk factors for Drug-Resistant TB, particularly MDR-TB. The Xpert MTB/RIF (CBNAAT) assay is the WHO-recommended rapid molecular test for diagnosing TB and simultaneously detecting Rifampicin resistance (RIF resistance). Rifampicin resistance is a highly accurate proxy for MDR-TB. Obtaining this result quickly (within hours) is crucial to determine if a standard first-line regimen or a drug-resistant TB regimen should be initiated, preventing further resistance development and improving patient outcomes. While culture and comprehensive pDST (Option C) are important for a full resistance profile, they take weeks, delaying crucial initial treatment decisions. A chest CT (Option D) provides anatomical details but no microbiological or resistance information. Empirical Category I treatment (Option A) would be dangerous given the high suspicion for DR-TB.",
+    "highYieldPearl": "Rio's Take: For any patient with a risk factor for DR-TB (previous treatment, contact with DR-TB, HIV, high-burden setting), a rapid molecular test like Xpert MTB/RIF (CBNAAT) detecting Rifampicin resistance is the *immediate* and *most appropriate* initial diagnostic step to guide treatment choice. Don't delay with empirical therapy or slower tests when DR-TB is suspected.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. Initiating empirical standard first-line anti-TB treatment (Category I) in a patient with high risk for DR-TB (previous incomplete treatment, high-burden country) is contraindicated as it can lead to treatment failure and further resistance development. This is a critical patient safety error.",
+      "B": "Correct. Xpert MTB/RIF (CBNAAT) rapidly confirms TB and detects Rifampicin resistance, which is a strong indicator of MDR-TB. This immediate information is essential for guiding whether to start a standard or a DR-TB regimen.",
+      "C": "Plausible but not the *most appropriate initial* step. While culture and pDST provide comprehensive resistance information, they have a long turnaround time (weeks to months), which would delay the initiation of appropriate treatment. CBNAAT offers rapid results for immediate management decisions.",
+      "D": "Incorrect. A chest CT scan provides anatomical information about the extent of the disease but does not give microbiological confirmation or drug susceptibility results, which are vital for treatment decisions."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_3b2da7e5",
+    "question": "A 35-year-old male presents with persistent cough, fever, and weight loss for 2 months. Sputum AFB smear is 2+. A Cartridge-Based Nucleic Acid Amplification Test (CBNAAT) detects Mycobacterium tuberculosis and shows Rifampicin resistance. Subsequent Line Probe Assay (LPA) results confirm resistance to Rifampicin and Isoniazid (due to a *katG* gene mutation), but demonstrate sensitivity to Fluoroquinolones (FQ), Ethambutol (EMB), and Pyrazinamide (PZA).",
+    "options": {
+      "A": "Multi-Drug Resistant TB (MDR-TB)",
+      "B": "Pre-Extensively Drug Resistant TB (Pre-XDR TB)",
+      "C": "Poly-Drug Resistant TB",
+      "D": "Mono-Drug Resistant TB to Rifampicin"
+    },
+    "correctAnswer": "A",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "Multi-Drug Resistant TB (MDR-TB) is defined as resistance to at least Rifampicin and Isoniazid, which are the two most potent first-line anti-TB drugs. The patient in the vignette exhibits resistance to both Rifampicin (confirmed by CBNAAT and LPA) and Isoniazid (confirmed by LPA). This perfectly fits the definition of MDR-TB. Pre-Extensively Drug Resistant TB (Pre-XDR TB) would require additional resistance to any fluoroquinolone, which is explicitly stated as sensitive in this case. Poly-Drug Resistant TB refers to resistance to more than one first-line drug, but not specifically the combination of Rifampicin and Isoniazid. Mono-Drug Resistant TB implies resistance to only one first-line anti-TB drug. Accurate classification is crucial for guiding appropriate treatment regimens, as MDR-TB necessitates a regimen primarily consisting of second-line drugs.",
+    "highYieldPearl": "Rio's Take: MDR-TB is defined strictly by resistance to both Rifampicin and Isoniazid. Always check for Fluoroquinolone resistance to differentiate from Pre-XDR and XDR.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct classification based on the provided drug resistance profile.",
+      "B": "Incorrect. Pre-XDR TB requires MDR-TB plus resistance to *any fluoroquinolone*. The vignette explicitly states sensitivity to Fluoroquinolones.",
+      "C": "Incorrect. Poly-Drug Resistant TB is resistance to more than one first-line drug, but *not* both Isoniazid and Rifampicin. Since both are resistant, it is MDR-TB.",
+      "D": "Incorrect. Mono-Drug Resistant TB means resistance to only one first-line drug. Here, resistance to both Rifampicin and Isoniazid is confirmed."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_12a0a5de",
+    "question": "A 48-year-old female, previously treated for pulmonary TB 3 years ago and declared cured, presents with a 4-week history of worsening cough, low-grade fever, and night sweats. Her sputum AFB smear is reported as 3+. She has no known HIV status. Given her history of previous TB treatment, drug resistance is highly suspected.",
+    "options": {
+      "A": "Initiate empirical Category I (first-line) anti-TB treatment immediately.",
+      "B": "Perform an Auramine O fluorescent microscopy to confirm the diagnosis and quantify bacillary load.",
+      "C": "Send sputum sample for a rapid molecular test, such as Cartridge-Based Nucleic Acid Amplification Test (CBNAAT) or Line Probe Assay (LPA).",
+      "D": "Start directly observed therapy (DOT) with a standard regimen of second-line anti-TB drugs based on clinical suspicion."
+    },
+    "correctAnswer": "C",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "In a patient with a history of previous TB treatment and relapse, the risk of drug resistance is significantly elevated. The priority in such a case is to rapidly determine the drug susceptibility profile to guide appropriate treatment. While sputum AFB smear microscopy (including Auramine O) can confirm the presence of acid-fast bacilli and assess bacillary load, it cannot differentiate between drug-sensitive and drug-resistant *Mycobacterium tuberculosis*. Initiating empirical Category I (first-line) treatment without knowing the resistance status is inappropriate and risks treatment failure, disease progression, and further amplification of resistance. Starting empirical second-line drugs without a confirmed resistance profile (especially to which specific drugs) is also not ideal, as it may lead to unnecessary toxicity or ineffective treatment. Rapid molecular tests like CBNAAT (which detects Rifampicin resistance) or LPA (which can detect resistance to Rifampicin, Isoniazid, and sometimes Fluoroquinolones) are the most appropriate immediate diagnostic steps. These tests provide quick and accurate results, allowing for the initiation of a targeted and effective drug-resistant TB regimen.",
+    "highYieldPearl": "Rio's Take: For suspected DR-TB (e.g., retreatment cases, treatment failures), rapid molecular testing (CBNAAT/LPA) is the immediate gold standard to determine drug susceptibility, not just confirm AFB presence or start empirical therapy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. Initiating empirical first-line treatment is dangerous in a retreatment case with suspected resistance, as it can lead to treatment failure and further resistance.",
+      "B": "Incorrect. Auramine O fluorescent microscopy, while more sensitive, cannot distinguish between drug-resistant and drug-sensitive MTB, as explicitly stated in the provided context. The smear is already 3+, so confirming AFB is less critical than determining drug susceptibility.",
+      "C": "Correct. Rapid molecular tests are crucial for identifying drug resistance quickly in high-risk patients, enabling targeted therapy.",
+      "D": "Incorrect. Starting empirical second-line drugs without knowing the specific resistance profile is not ideal. Targeted treatment based on molecular test results is preferred to optimize efficacy and minimize side effects."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_7b9b1703",
+    "question": "A 28-year-old male with confirmed Multi-Drug Resistant TB (MDR-TB), resistant to both Rifampicin and Isoniazid, underwent further drug susceptibility testing (DST). The results indicate additional resistance to Moxifloxacin (a fluoroquinolone) and Bedaquiline. The patient remains sensitive to Linezolid and Clofazimine.",
+    "options": {
+      "A": "Pre-Extensively Drug Resistant TB (Pre-XDR TB)",
+      "B": "Extensively Drug Resistant TB (XDR-TB)",
+      "C": "Poly-Drug Resistant TB",
+      "D": "Multi-Drug Resistant TB (MDR-TB) with additional resistance to second-line drugs"
+    },
+    "correctAnswer": "B",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "The classification of Extensively Drug Resistant TB (XDR-TB) is a critical step in managing complex cases and carries significant implications for treatment choice and patient prognosis. According to current World Health Organization (WHO) and national guidelines, XDR-TB is defined as Multi-Drug Resistant TB (MDR-TB), which already includes resistance to both Rifampicin and Isoniazid, *plus* additional resistance to any fluoroquinolone AND at least one of Bedaquiline or Linezolid. The patient in the vignette has confirmed MDR-TB, is resistant to Moxifloxacin (a fluoroquinolone), and is also resistant to Bedaquiline. This combination precisely fits the definition of XDR-TB. Pre-XDR TB would involve MDR-TB plus resistance to any fluoroquinolone, but *without* resistance to Bedaquiline or Linezolid.",
+    "highYieldPearl": "Rio's Take: The XDR-TB definition is a step-wise progression: MDR (INH+RIF) -> Pre-XDR (MDR + FQ resistance) -> XDR (MDR + FQ resistance + Bedaquiline/Linezolid resistance). Memorize these tiers.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. Pre-XDR TB is MDR-TB plus resistance to *any fluoroquinolone*. This patient has resistance to FQ *and* Bedaquiline, which progresses to XDR-TB.",
+      "B": "Correct. The patient meets the criteria for MDR-TB + FQ resistance + Bedaquiline resistance, which is the definition of XDR-TB.",
+      "C": "Incorrect. Poly-Drug Resistant TB is resistance to more than one first-line drug but *not* both Isoniazid and Rifampicin. This patient is resistant to both INH and RIF, classifying it as MDR-TB at minimum.",
+      "D": "Incorrect. While factually true, 'MDR-TB with additional resistance to second-line drugs' is not the specific, globally recognized classification for this resistance pattern. XDR-TB is the precise term with distinct clinical and programmatic implications."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_4f73a9a9",
+    "question": "A 35-year-old male, previously treated for pulmonary TB two years ago, presents with persistent cough, fever, and weight loss for 3 months. Suspecting drug-resistant TB, sputum was collected and subjected to GenoType® MTBDDRplus assay. The results showed absence of the rpoB wild type probes (WT1-WT8) along with the presence of the rpoB MUT3 probe. Furthermore, the katG wild type probe was absent, but the katG MUT1 probe was present. All inhA probes (WT and MUT) were present. Based on these findings, what is the most appropriate classification of this patient's TB?",
+    "options": {
+      "A": "Multi-drug resistant TB (MDR-TB)",
+      "B": "Mono-resistant TB to Rifampicin",
+      "C": "Mono-resistant TB to Isoniazid",
+      "D": "Pre-Extensively drug-resistant TB (Pre-XDR TB)"
+    },
+    "correctAnswer": "A",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "The GenoType® MTBDDRplus assay identifies resistance by detecting specific mutations or the absence of wild-type sequences in particular gene loci. Resistance to Rifampicin is primarily associated with mutations in the rpoB gene, which codes for the beta-subunit of RNA polymerase. The absence of rpoB wild type probes and presence of rpoB MUT3 indicate Rifampicin resistance. Resistance to Isoniazid is primarily associated with mutations in the katG gene (coding for catalase-peroxidase) and/or the inhA promoter region (coding for an enzyme involved in mycolic acid synthesis). The absence of the katG wild type probe and presence of katG MUT1 indicate Isoniazid resistance. Multi-drug resistant TB (MDR-TB) is defined as resistance to at least both Isoniazid and Rifampicin. Since both Rifampicin and Isoniazid resistance are detected, the diagnosis is MDR-TB.",
+    "highYieldPearl": "Rio's Take: MDR-TB is defined by resistance to Isoniazid AND Rifampicin. On Genotype MTBDRplus, rpoB mutations indicate Rifampicin resistance, while katG and/or inhA mutations indicate Isoniazid resistance.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. Resistance to both Rifampicin (rpoB mutation) and Isoniazid (katG mutation) fits the definition of MDR-TB.",
+      "B": "Incorrect. While Rifampicin resistance is present, Isoniazid resistance is also detected, making it more than mono-resistance.",
+      "C": "Incorrect. While Isoniazid resistance is present, Rifampicin resistance is also detected, making it more than mono-resistance.",
+      "D": "Incorrect. Pre-XDR TB requires MDR-TB plus resistance to a fluoroquinolone. This assay does not test for fluoroquinolone resistance, and the results provided do not indicate it. The current findings only confirm MDR-TB."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_141eb872",
+    "question": "A 28-year-old female, recently diagnosed with HIV infection and a CD4 count of 150 cells/µL, presents with persistent cough, night sweats, and significant weight loss. Given her immunocompromised status and high suspicion for pulmonary tuberculosis, a sputum sample is collected for acid-fast bacilli (AFB) microscopy. Which of the following characteristics of Fluorescent Microscopy (FM) makes it a particularly advantageous initial diagnostic tool compared to Ziehl-Neelsen (ZN) staining in this specific patient population?",
+    "options": {
+      "A": "Its superior sensitivity in detecting low bacillary content.",
+      "B": "The ability to differentiate between viable and non-viable mycobacteria.",
+      "C": "Lower initial equipment investment and reduced maintenance costs.",
+      "D": "It eliminates the need for skilled personnel for slide interpretation."
+    },
+    "correctAnswer": "A",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "Patients with advanced HIV infection often present with paucibacillary tuberculosis, meaning they have a lower bacterial load in their sputum compared to immunocompetent individuals. Fluorescent Microscopy (FM) is known to be more sensitive than Ziehl-Neelsen (ZN) staining, particularly in detecting these low bacillary contents. This increased sensitivity is crucial for early and accurate diagnosis in vulnerable populations like People Living with HIV (PLHIV), where delays in diagnosis can lead to worse outcomes. The advantages of FM include detecting low bacillary content, increased contrast, and faster scanning due to lower magnification.",
+    "highYieldPearl": "Rio's Take: FM is superior to ZN staining for detecting TB in PLHIV due to its higher sensitivity, critical for diagnosing paucibacillary disease.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. The provided context explicitly states FM's advantages include being 'More sensitive', 'Detects low bacillary content', and is 'Ideal for diagnosis of TB in PLHIV (less TB load)'. This directly addresses the patient's clinical situation.",
+      "B": "Incorrect. The provided context explicitly states that FM 'Can not differentiate alive and dead' bacilli, and a handwritten note clarifies this applies to 'All microscopy'.",
+      "C": "Incorrect. The provided context lists 'Initial high investment' and 'Handling & maintenance of equipment' as disadvantages of FM, implying ZN has lower costs.",
+      "D": "Incorrect. The provided context lists 'Skilled personnel' as a disadvantage for FM, indicating that it does require trained individuals for proper operation and interpretation. All microscopy, including FM, requires trained personnel for accurate diagnosis."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_aa2150c9",
+    "question": "A 45-year-old male with a history of two previous episodes of pulmonary TB, despite adequate treatment, continues to have symptoms. His recent comprehensive drug susceptibility testing (DST) results from a solid culture indicate resistance to Isoniazid, Rifampicin, and Moxifloxacin. He is found to be sensitive to Bedaquiline, Linezolid, and Clofazimine. How would this patient's drug-resistant TB be most appropriately classified according to current WHO/national guidelines?",
+    "options": {
+      "A": "Multi-drug resistant TB (MDR-TB)",
+      "B": "Pre-Extensively drug-resistant TB (Pre-XDR TB)",
+      "C": "Extensively drug-resistant TB (XDR-TB)",
+      "D": "Poly-drug resistant TB"
+    },
+    "correctAnswer": "B",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "According to WHO/national guidelines:\n1.  **Multi-drug resistant TB (MDR-TB):** Resistance to at least Isoniazid and Rifampicin.\n2.  **Pre-Extensively drug-resistant TB (Pre-XDR TB):** MDR-TB plus resistance to any fluoroquinolone (e.g., Moxifloxacin, Levofloxacin).\n3.  **Extensively drug-resistant TB (XDR-TB):** MDR-TB plus resistance to any fluoroquinolone AND at least one Group A drug (which typically include Bedaquiline and Linezolid in the WHO Classification of anti-TB medicines). \n\nIn this patient, resistance to Isoniazid and Rifampicin confirms MDR-TB. Additionally, resistance to Moxifloxacin (a fluoroquinolone) means the patient meets the criteria for Pre-XDR TB. Since the patient is sensitive to Bedaquiline and Linezolid (Group A drugs), the criteria for XDR-TB are not met. Therefore, the most appropriate classification is Pre-XDR TB.",
+    "highYieldPearl": "Rio's Take: Remember the progression: MDR (R+I) -> Pre-XDR (MDR + Fluoroquinolone) -> XDR (Pre-XDR + Group A drug). Knowing the common Group A drugs (Bedaquiline, Linezolid) is key.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. While MDR-TB is present (resistance to Isoniazid and Rifampicin), the additional resistance to Moxifloxacin elevates the classification beyond simple MDR-TB.",
+      "B": "Correct. The patient has MDR-TB (resistance to Isoniazid and Rifampicin) and resistance to a fluoroquinolone (Moxifloxacin), fulfilling the definition of Pre-XDR TB.",
+      "C": "Incorrect. XDR-TB requires resistance to a fluoroquinolone AND at least one Group A drug (e.g., Bedaquiline, Linezolid). The patient is sensitive to Bedaquiline and Linezolid, therefore not meeting the criteria for XDR-TB.",
+      "D": "Incorrect. While Pre-XDR TB is a type of poly-drug resistant TB, 'Poly-drug resistant TB' is a broad term for resistance to more than one anti-TB drug, but not to both Isoniazid and Rifampicin. Since more specific and severe classifications exist (MDR, Pre-XDR, XDR), 'Pre-XDR TB' is the most accurate and precise classification here."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_a0ab7dac",
+    "question": "A 35-year-old male, with a history of pulmonary TB treated 5 years ago, presents with a 3-month history of cough, fever, and significant weight loss. His baseline sputum smear is positive (ZN 1+). A rapid molecular test (CBNAAT) on the sputum detects *Mycobacterium tuberculosis* complex and reports 'Rifampicin resistance DETECTED'. The patient also has known HIV co-infection with a current CD4 count of 200 cells/µL. Considering the patient's history and co-morbidities, what is the *most appropriate immediate next step* in managing this patient's TB?",
+    "options": {
+      "A": "Initiate an empiric Multi-Drug Resistant TB (MDR-TB) regimen and send sputum for Line Probe Assay (LPA) for isoniazid and fluoroquinolone resistance.",
+      "B": "Initiate a standard first-line regimen (HRZE) and await phenotypic Drug Susceptibility Testing (DST) results for all first and second-line drugs.",
+      "C": "Send sputum for phenotypic DST for first-line drugs only, and then decide on the appropriate regimen.",
+      "D": "Administer daily Rifampicin and Isoniazid and observe clinical response, adjusting if no improvement over 2 weeks."
+    },
+    "correctAnswer": "A",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "The patient's clinical presentation, history of previous TB treatment, HIV co-infection, and a positive CBNAAT result indicating Rifampicin resistance strongly points towards MDR-TB. Rifampicin resistance is a reliable marker for MDR-TB. In such high-risk scenarios, prompt initiation of an empiric MDR-TB regimen is crucial to prevent further transmission, clinical deterioration, and acquisition of additional resistance. Waiting for full phenotypic DST (Option B and C) can take several weeks, which is unacceptable for a patient with active, drug-resistant TB, especially with HIV co-infection. Line Probe Assay (LPA), like the GenoType MTBDDRplus described in the context, provides rapid detection of resistance to isoniazid and fluoroquinolones (often within 1-2 days), which are critical drugs for constructing an effective MDR-TB regimen. This allows for early tailoring of the empiric regimen based on broader resistance patterns. The WHO and national guidelines recommend rapid molecular testing (CBNAAT/LPA) for all persons with previously treated TB and for high-risk groups, followed by prompt initiation of appropriate therapy. Option D is incorrect and dangerous as it involves administering Rifampicin and Isoniazid despite known Rifampicin resistance, leading to monotherapy and further resistance development.",
+    "highYieldPearl": "Rio's Take: For patients with prior TB treatment or HIV co-infection presenting with Rifampicin resistance via CBNAAT, always assume MDR-TB. Immediately initiate an empiric MDR-TB regimen and simultaneously send samples for LPA to determine Isoniazid and Fluoroquinolone resistance for rapid regimen tailoring, rather than waiting for phenotypic DST.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is the correct approach. It prioritizes rapid initiation of appropriate therapy based on strong evidence of MDR-TB (RIF resistance in a high-risk patient) and uses a rapid molecular test (LPA) to refine the regimen quickly, balancing urgency with precision.",
+      "B": "This is a trap related to over-reliance on comprehensive DST. While phenotypic DST provides the most complete resistance profile, the delay (weeks to months) can be detrimental for a patient with active, drug-resistant TB and HIV co-infection. An empiric regimen is needed immediately.",
+      "C": "This is a trap similar to option B, but even less comprehensive. Sending for first-line DST only is insufficient given the high suspicion for MDR-TB, which requires evaluation for second-line drugs to build an effective regimen.",
+      "D": "This is a dangerous trap. Administering Rifampicin and Isoniazid when Rifampicin resistance is already detected by CBNAAT constitutes monotherapy and will inevitably lead to further drug resistance and treatment failure. This option demonstrates a lack of understanding of basic DR-TB management principles."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_6637c70a",
+    "question": "A 42-year-old male with confirmed MDR-TB, resistant to Rifampicin and Isoniazid by LPA, was initiated on a 9-month all-oral BPaL regimen (Bedaquiline, Pretomanid, Linezolid). Three months into treatment, he develops severe peripheral neuropathy, which prompted a Linezolid dose reduction from 600mg to 300mg daily. Despite this, his symptoms persist and worsen. Subsequent culture-based phenotypic DST, which just became available from the baseline sample, reveals additional resistance to Moxifloxacin and Kanamycin, but susceptibility to Clofazimine and Cycloserine. The patient remains smear-positive. What is the *most appropriate modification* to his current regimen?",
+    "options": {
+      "A": "Discontinue Linezolid entirely due to severe toxicity and add Clofazimine and Cycloserine to Bedaquiline and Pretomanid.",
+      "B": "Continue Linezolid at 300mg daily, and add Clofazimine and Cycloserine, while discontinuing Pretomanid.",
+      "C": "Discontinue Pretomanid, add Clofazimine and Cycloserine, while continuing Linezolid at 300mg daily.",
+      "D": "Continue Bedaquiline, Pretomanid, and Linezolid at 300mg daily, and add Clofazimine and Cycloserine to the regimen."
+    },
+    "correctAnswer": "A",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "This patient's situation has multiple layers of complexity. First, he has severe Linezolid-induced peripheral neuropathy despite dose reduction, indicating that Linezolid should ideally be discontinued if alternative effective drugs are available. Second, the phenotypic DST reveals resistance to Moxifloxacin (a fluoroquinolone) and Kanamycin. While the BPaL regimen is now recognized for both FQ-sensitive and FQ-resistant MDR/pre-XDR TB, the patient's smear-positive status at 3 months indicates treatment failure or an inadequate regimen, making a robust re-evaluation crucial. Given the severe Linezolid toxicity and the availability of two susceptible drugs (Clofazimine and Cycloserine), the most appropriate action is to discontinue the problematic drug (Linezolid) and replace it with effective, tolerable alternatives. Therefore, discontinuing Linezolid and adding Clofazimine and Cycloserine to Bedaquiline and Pretomanid ensures the regimen remains strong, addresses toxicity, and incorporates additional susceptible drugs for a patient showing signs of treatment failure.",
+    "highYieldPearl": "Rio's Take: In DR-TB, severe drug toxicity necessitates replacement of the offending agent. When faced with additional drug resistance (e.g., fluoroquinolone resistance in a BPaL-treated patient) and ongoing smear positivity, a regimen needs strengthening by substituting toxic drugs with tolerable, susceptible alternatives to ensure efficacy and completion.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is the most appropriate modification. It directly addresses the severe Linezolid toxicity by discontinuing it and strengthens the failing regimen (smear-positive at 3 months) by adding two newly identified susceptible drugs (Clofazimine and Cycloserine) to the remaining potent drugs (Bedaquiline, Pretomanid).",
+      "B": "This is a trap because continuing Linezolid at 300mg despite *severe* neuropathy is suboptimal management of adverse effects, especially when alternatives exist. Discontinuing Pretomanid without any evidence of resistance or toxicity is inappropriate, as Pretomanid is a key component of the new short regimens.",
+      "C": "This option also incorrectly suggests discontinuing Pretomanid, which is generally not indicated. While adding Clofazimine and Cycloserine is good, retaining a toxic drug (Linezolid at 300mg despite severe neuropathy) when it could be replaced by other susceptible drugs is not the 'most appropriate' action.",
+      "D": "This is a trap as it ignores the 'severe peripheral neuropathy' caused by Linezolid. While adding Clofazimine and Cycloserine is beneficial, continuing Linezolid at 300mg despite severe, worsening symptoms is poor management of adverse events and compromises patient adherence and safety. The goal is to build an effective *and* tolerable regimen."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_9f90e2e5",
+    "question": "A 28-year-old female presents with extensive cavitary pulmonary TB and a history of previous TB treatment 3 years ago. Initial sputum CBNAAT detects *Mycobacterium tuberculosis* complex but reports 'Rifampicin resistance NOT DETECTED'. Due to her history and high local MDR-TB prevalence, a Line Probe Assay (LPA) for *rpoB*, *katG*, and *inhA* genes (GenoType MTBDDRplus, as described in the context) was performed. The LPA results show: absence of *rpoB* wild-type probe 2 (WT2) and presence of *rpoB* mutation probe 2A (MUT2A); along with absence of *katG* wild-type (WT) probe and presence of *katG* mutation probe 1 (MUT1). All *inhA* probes are wild-type. What is the *correct interpretation* of these results for guiding initial therapy?",
+    "options": {
+      "A": "Rifampicin resistance and Isoniazid high-level resistance (MDR-TB), requiring an empiric MDR-TB regimen.",
+      "B": "Rifampicin susceptible and Isoniazid mono-resistance, requiring treatment with an HRZE regimen augmented with a fluoroquinolone.",
+      "C": "Rifampicin resistance and Isoniazid low-level resistance, requiring an MDR-TB regimen with a boosted Isoniazid dose.",
+      "D": "Rifampicin resistance and Isoniazid resistance, but the CBNAAT result for Rifampicin takes precedence, so start HRZE initially and reassess."
+    },
+    "correctAnswer": "A",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "The interpretation of molecular diagnostic tests for drug resistance requires specific knowledge. Based on the provided context for GenoType MTBDDRplus:\n1.  **Rifampicin Resistance:** The LPA result shows 'absence of *rpoB* wild-type probe 2 (WT2) and presence of *rpoB* mutation probe 2A (MUT2A)'. According to the context, 'Any Absence of wild type or presence of mutated type ↓ Indicates Resistance'. This clearly indicates Rifampicin resistance. LPA, targeting specific *rpoB* mutations, can be more sensitive or specific for certain mutations than CBNAAT's broader probe. In a high-risk patient with previous treatment, a positive mutation result from LPA should take precedence over a 'not detected' from CBNAAT, especially when a mutation is specifically identified.\n2.  **Isoniazid Resistance:** The LPA shows 'absence of *katG* wild-type (WT) probe and presence of *katG* mutation probe 1 (MUT1)'. This indicates Isoniazid resistance. Mutations in the *katG* gene (specifically codon 315, which MUT1 often covers) are associated with high-level isoniazid resistance. In contrast, mutations in the *inhA* gene (which are reported as wild-type in this case) are typically associated with low-level isoniazid resistance. Therefore, the patient has high-level Isoniazid resistance.\n\nCombining these, the patient has resistance to both Rifampicin and Isoniazid, defining Multi-Drug Resistant TB (MDR-TB). Given the extensive cavitary disease and previous treatment, an empiric MDR-TB regimen should be initiated promptly.",
+    "highYieldPearl": "Rio's Take: In molecular DST, LPA (GenoType) results indicating specific gene mutations for resistance, especially for *rpoB*, generally supersede a CBNAAT 'not detected' result, particularly in high-risk patients. *katG* mutations imply high-level Isoniazid resistance, while *inhA* mutations suggest low-level resistance. Discrepancies should lead to prioritizing the most definitive resistance finding and initiating appropriate, potentially broader, therapy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is the correct interpretation. The LPA clearly shows Rifampicin resistance (*rpoB* mutation) and high-level Isoniazid resistance (*katG* mutation, not *inhA*). This combination defines MDR-TB, necessitating an empiric MDR-TB regimen.",
+      "B": "This is incorrect. It misinterprets the *rpoB* LPA result, suggesting Rifampicin susceptibility, which contradicts the actual LPA findings. Therefore, the proposed regimen would be inadequate for MDR-TB.",
+      "C": "This is a trap related to differentiating Isoniazid resistance levels. While it correctly identifies Rifampicin resistance, it incorrectly labels Isoniazid resistance as 'low-level'. *katG* mutations are associated with high-level Isoniazid resistance. Low-level resistance is typically associated with *inhA* mutations, which were reported as wild-type in this scenario.",
+      "D": "This is a common trap where candidates might prioritize the initial, less detailed test (CBNAAT) over a more specific molecular test (LPA), especially when there's a discrepancy. In high-risk cases with clear molecular evidence of resistance from LPA, that information should guide immediate treatment, rather than starting an ineffective first-line regimen."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_85c758b8",
+    "question": "A 35-year-old male presents with persistent cough, fever, and weight loss for 3 months. Sputum culture confirms Mycobacterium tuberculosis, and subsequent Drug Susceptibility Testing (DST) reveals resistance to both Isoniazid and Rifampicin. What is the most appropriate classification for this drug resistance pattern?",
+    "options": {
+      "A": "Multi-Drug Resistant Tuberculosis (MDR-TB)",
+      "B": "Mono-resistant Tuberculosis",
+      "C": "Poly-resistant Tuberculosis",
+      "D": "Extensively Drug-Resistant Tuberculosis (XDR-TB)"
+    },
+    "correctAnswer": "A",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "Multi-Drug Resistant Tuberculosis (MDR-TB) is defined as tuberculosis caused by Mycobacterium tuberculosis strains that are resistant to at least both Isoniazid (H) and Rifampicin (R), which are the two most potent first-line anti-TB drugs. This definition is crucial for guiding appropriate treatment regimens, which typically involve second-line drugs.",
+    "highYieldPearl": "Rio's Take: The cornerstone definition for MDR-TB is simultaneous resistance to Isoniazid and Rifampicin. This immediate recognition is vital for NEET-SS.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct. This directly matches the definition of MDR-TB as per the provided text and standard guidelines.",
+      "B": "Incorrect. Mono-resistant TB implies resistance to only one anti-TB drug, not two.",
+      "C": "Incorrect. Poly-resistant TB refers to resistance to more than one anti-TB drug, but *not* both Isoniazid and Rifampicin. Since resistance is present for both INH and RIF, the more specific and accurate classification is MDR-TB.",
+      "D": "Incorrect. XDR-TB is a more severe form, defined as MDR-TB plus resistance to any fluoroquinolone and at least one of the Group A injectable agents (e.g., bedaquiline or linezolid, depending on current definitions). The vignette only specifies INH and RIF resistance, not additional second-line drug resistance."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_86baaaea",
+    "question": "A 28-year-old male is newly diagnosed with pulmonary tuberculosis. He denies any previous history of anti-tubercular treatment or contact with drug-resistant cases. His initial drug susceptibility testing (DST) reveals resistance to Isoniazid only. How would this type of drug resistance be primarily classified based on its origin?",
+    "options": {
+      "A": "Primary (Initial) resistance",
+      "B": "Secondary (Acquired) resistance",
+      "C": "Mono-resistant Tuberculosis",
+      "D": "Poly-resistant Tuberculosis"
+    },
+    "correctAnswer": "A",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "Drug resistance is categorized based on its origin: Primary (Initial) resistance occurs in patients who have never been treated for TB or have received less than one month of anti-TB drugs. This indicates infection with a resistant strain from the outset. Secondary (Acquired) resistance develops in patients who have previously received anti-TB treatment, typically due to inadequate treatment regimens or poor adherence.",
+    "highYieldPearl": "Rio's Take: Always distinguish between primary (never treated) and secondary (previously treated) resistance. It reflects whether the patient acquired a resistant strain or developed resistance during treatment.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct. The patient has no prior history of anti-TB treatment, indicating that the resistance was acquired from the initial infection, thus classified as primary or initial resistance.",
+      "B": "Incorrect. Secondary (Acquired) resistance would be present if the patient had a history of previous anti-TB treatment, which is explicitly denied in the vignette.",
+      "C": "Incorrect. While the patient does have mono-resistant TB (resistance to only one drug), the question specifically asks for the primary classification based on the *origin* (initial vs. acquired) of resistance, not the pattern of resistance.",
+      "D": "Incorrect. Poly-resistant TB involves resistance to more than one drug, but the patient here is resistant to Isoniazid only."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_2248d49d",
+    "question": "A 40-year-old patient with new onset pulmonary tuberculosis undergoes drug susceptibility testing. The results indicate resistance to Ethambutol and Streptomycin, but susceptibility to both Isoniazid and Rifampicin. Which of the following best describes this drug resistance pattern?",
+    "options": {
+      "A": "Poly-resistant Tuberculosis",
+      "B": "Multi-Drug Resistant Tuberculosis (MDR-TB)",
+      "C": "Mono-resistant Tuberculosis",
+      "D": "Pre-Extensively Drug Resistant Tuberculosis (Pre-XDR TB)"
+    },
+    "correctAnswer": "A",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "Poly-resistant TB refers to resistance to more than one anti-tuberculosis drug, but *not* the combination of both Isoniazid and Rifampicin. If resistance includes both Isoniazid and Rifampicin, it is specifically classified as MDR-TB. This distinction is crucial for treatment planning.",
+    "highYieldPearl": "Rio's Take: Poly-resistance is distinct from MDR-TB. If INH and RIF are still sensitive, even with multiple other drug resistances, it's poly-resistance, not MDR-TB.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct. The patient is resistant to more than one anti-TB drug (Ethambutol and Streptomycin) but remains susceptible to Isoniazid and Rifampicin. This fits the definition of poly-resistant TB.",
+      "B": "Incorrect. MDR-TB requires resistance to *both* Isoniazid and Rifampicin, which are susceptible in this case.",
+      "C": "Incorrect. Mono-resistant TB implies resistance to only one anti-TB drug, while this patient is resistant to two drugs.",
+      "D": "Incorrect. Pre-XDR TB is a classification for MDR-TB that also has resistance to either a fluoroquinolone or a Group A injectable, neither of which applies here as the patient does not even have MDR-TB."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_e24627f5",
+    "question": "A 35-year-old male presents to the clinic with persistent cough, weight loss, and fever for two months. Sputum samples are collected and sent for diagnostic testing. Subsequent Drug Susceptibility Testing (DST) results reveal that his Mycobacterium tuberculosis isolate is resistant to both Isoniazid and Rifampicin. Based on these findings, how should this patient's tuberculosis be classified?",
+    "options": {
+      "A": "Multi-Drug Resistant TB (MDR-TB)",
+      "B": "Mono-Resistant TB",
+      "C": "Poly-Resistant TB",
+      "D": "Pre-Extensively Drug Resistant TB (Pre-XDR TB)"
+    },
+    "correctAnswer": "A",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "Multi-Drug Resistant Tuberculosis (MDR-TB) is defined as resistance to at least the two most potent first-line anti-TB drugs: Isoniazid (INH) and Rifampicin (RIF). This definition is fundamental in classifying drug-resistant TB and guiding treatment decisions. Resistance to both these drugs signifies a significant challenge in treatment and requires a regimen consisting of second-line anti-TB drugs.",
+    "highYieldPearl": "Rio's Take: The core definition of MDR-TB is resistance to both Isoniazid and Rifampicin. This is a high-yield concept often tested directly or indirectly in exams.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct. This is the standard definition for MDR-TB.",
+      "B": "Incorrect. Mono-resistance refers to resistance to only one first-line anti-TB drug, not two critical drugs like INH and RIF.",
+      "C": "Incorrect. Poly-resistance refers to resistance to more than one first-line anti-TB drug, but not necessarily both INH and RIF. MDR-TB is a specific type of poly-resistance defined by resistance to both INH and RIF.",
+      "D": "Incorrect. Pre-Extensively Drug Resistant TB (Pre-XDR TB) typically refers to MDR-TB with additional resistance to at least one fluoroquinolone. Resistance to only INH and RIF does not meet this criterion."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_ec93bef4",
+    "question": "A 48-year-old male with a history of previous tuberculosis treatment presents with recurrent cough and hemoptysis. His sputum smear is positive for Acid-Fast Bacilli (AFB). Given the clinical suspicion of drug resistance, which of the following diagnostic tests is **most appropriate** for initial, rapid screening of Rifampicin resistance directly from the sputum sample?",
+    "options": {
+      "A": "GenoType® MTBDDRplus",
+      "B": "Conventional Drug Susceptibility Testing (DST) on solid media",
+      "C": "Auramine O fluorescent microscopy",
+      "D": "Ziehl-Neelsen (ZN) staining and microscopy"
+    },
+    "correctAnswer": "A",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "The GenoType® MTBDDRplus is a molecular line probe assay (LPA) that rapidly detects genetic mutations associated with resistance to Rifampicin (rpoB gene) and Isoniazid (katG and inhA genes). It provides results within hours or days, making it ideal for initial, rapid screening of drug resistance, especially for Rifampicin, which is a key marker for MDR-TB. This speed is crucial for timely initiation of appropriate treatment.",
+    "highYieldPearl": "Rio's Take: Molecular tests like LPA (GenoType® MTBDDRplus, Xpert MTB/RIF) are the preferred methods for rapid initial screening of Rifampicin resistance due to their speed and ability to detect specific genetic mutations.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct. GenoType® MTBDDRplus is a rapid molecular test specifically designed to detect mutations conferring resistance to Rifampicin (and Isoniazid), making it ideal for initial, rapid screening. (Context Page 63-64)",
+      "B": "Incorrect. Conventional DST on solid media is the gold standard but takes significantly longer (weeks) to yield results, making it unsuitable for *initial, rapid* screening where prompt treatment decisions are necessary.",
+      "C": "Incorrect. Auramine O fluorescent microscopy is a smear microscopy technique that detects the presence of Acid-Fast Bacilli but 'Cannot distinguish between drug resistant and drug-sensitive MTB'. (Context Page 32)",
+      "D": "Incorrect. Ziehl-Neelsen (ZN) staining and microscopy is also a smear microscopy technique that detects AFB but, like fluorescent microscopy, 'Cannot distinguish between drug resistant and drug-sensitive MTB'. (Context Page 32)"
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_psg_a862ccd0",
+    "question": "A sputum sample from a patient with suspected pulmonary tuberculosis is processed and examined using Auramine O fluorescent microscopy. The technician reports a positive smear with 2+ Acid-Fast Bacilli (AFB). Based *solely* on this microscopy result, which of the following statements is true?",
+    "options": {
+      "A": "The patient's infection is likely caused by drug-sensitive M. tuberculosis.",
+      "B": "The patient's infection is likely caused by multi-drug resistant M. tuberculosis.",
+      "C": "The microscopic finding indicates active tuberculosis disease, but provides no information about drug resistance.",
+      "D": "The finding suggests a need for immediate initiation of a fluoroquinolone-based regimen."
+    },
+    "correctAnswer": "C",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "Auramine O fluorescent microscopy is a highly sensitive method for detecting Acid-Fast Bacilli (AFB) in sputum samples, indicating active tuberculosis disease in a symptomatic patient. However, a critical limitation of all microscopy techniques, including fluorescent microscopy, is their inability to differentiate between drug-sensitive and drug-resistant strains of Mycobacterium tuberculosis. Therefore, while it confirms the presence of AFB, further molecular or culture-based drug susceptibility testing is required to determine the drug resistance profile.",
+    "highYieldPearl": "Rio's Take: Microscopy (ZN or Fluorescent) can diagnose active TB (presence of AFB) but CANNOT provide information on drug resistance. This distinction is crucial for treatment planning.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. Microscopy cannot distinguish between drug-sensitive and drug-resistant M. tuberculosis. (Context Page 32)",
+      "B": "Incorrect. Microscopy provides no information regarding the drug susceptibility status of the M. tuberculosis strain. (Context Page 32)",
+      "C": "Correct. Fluorescent microscopy confirms the presence of AFB, indicating active disease. However, it cannot determine if the strain is drug-sensitive or drug-resistant. (Context Page 32)",
+      "D": "Incorrect. While a positive smear indicates TB, the drug susceptibility status is unknown based solely on microscopy. Initiating a second-line drug regimen like one containing a fluoroquinolone without DST or strong clinical/epidemiological indication for drug resistance would be premature and inappropriate."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Epworth sleepiness scale",
+      "section": "GOLD STD TEST : POLYSOMNOGRAPHY / SLEEP STUDY",
+      "pageNumber": 97
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_1050",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "A respiratory event is classified as apnea if airflow reduction is >90% for at least how many seconds?",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "15",
+      "D": "20"
+    },
+    "correctAnswer": "B",
+    "topic": "psg",
+    "deepDiveExplanation": "According to the American Academy of Sleep Medicine (AASM) scoring criteria, an apnea is defined as a drop in the peak thermal sensor (thermistor, thermocouple) signal by ≥90% of pre-event baseline for at least 10 seconds. This cessation of airflow is then further classified as obstructive or central based on concomitant respiratory effort.",
+    "highYieldPearl": "The 10-second duration is a critical threshold for defining both apnea and hypopnea events in standard PSG interpretation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While shorter durations might be associated with other respiratory events or partial obstructions, 10 seconds is the established minimum for an apnea event according to AASM guidelines. 5 seconds is too short, and 15 or 20 seconds are longer than the minimum required for classification.",
+    "isOneLiner": true,
+    "id": "one_liner_psg_od971hxp"
+  },
+  {
+    "question": "A hypopnea event on polysomnography requires airflow reduction of at least 30% lasting ≥10 seconds, associated with what?",
+    "options": {
+      "A": "Bradycardia",
+      "B": "Oxygen desaturation ≥3% or arousal",
+      "C": "Hypertension",
+      "D": "Hypercapnia"
+    },
+    "correctAnswer": "B",
+    "topic": "psg",
+    "deepDiveExplanation": "AASM scoring criteria define a hypopnea as a discernable reduction in airflow (typically ≥30% from baseline, though some criteria use ≥50%) lasting at least 10 seconds, associated with either an oxygen desaturation of ≥3% from pre-event baseline OR an arousal from sleep. Some criteria also accept a ≥4% desaturation without arousal.",
+    "highYieldPearl": "The combination of airflow reduction, duration, AND a physiological consequence (desaturation or arousal) is crucial for hypopnea diagnosis and distinguishes it from benign snoring.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Bradycardia, hypertension, and hypercapnia can be *consequences* of hypopneas but are not part of the *definitional criteria* used for scoring the event itself in standard PSG interpretation. The desaturation or arousal is the direct physiological impact used for scoring.",
+    "isOneLiner": true,
+    "id": "one_liner_psg_mso7q1tn"
+  },
+  {
+    "question": "The key polysomnography channel differentiating central from obstructive apnea is the measurement of what?",
+    "options": {
+      "A": "Nasal airflow",
+      "B": "Thoracoabdominal effort",
+      "C": "Oxygen saturation",
+      "D": "Electroencephalogram"
+    },
+    "correctAnswer": "B",
+    "topic": "psg",
+    "deepDiveExplanation": "In obstructive apnea, there is continued or increased thoracoabdominal effort (measured by respiratory inductance plethysmography bands) despite an absence of airflow, indicating an upper airway obstruction. In central apnea, both airflow and thoracoabdominal effort are absent, indicating a lack of respiratory drive from the brainstem.",
+    "highYieldPearl": "Respiratory effort channels are fundamental for classifying apnea types, providing the crucial distinction between central and obstructive etiologies, which guides treatment strategies.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Nasal airflow detects the *presence* of an apnea. Oxygen saturation measures the *consequence* of the event. EEG measures *sleep stages* and *arousals*. None of these directly indicate the *cause* (central vs. obstructive) in the way respiratory effort does.",
+    "isOneLiner": true,
+    "id": "one_liner_psg_99s55r39"
+  },
+  {
+    "question": "The characteristic polysomnographic finding in REM Sleep Behavior Disorder (RBD) is what?",
+    "options": {
+      "A": "Absence of REM sleep",
+      "B": "High AHI",
+      "C": "REM sleep without atonia",
+      "D": "Periodic limb movements"
+    },
+    "correctAnswer": "C",
+    "topic": "psg",
+    "deepDiveExplanation": "Normally, during REM sleep, there is muscle atonia (paralysis) to prevent acting out dreams. In RBD, this atonia is absent or diminished, leading to complex motor behaviors. PSG shows increased tonic or phasic electromyography (EMG) activity in the chin or limb muscles during REM sleep, a phenomenon termed REM sleep without atonia (RSWA).",
+    "highYieldPearl": "RSWA is pathognomonic for RBD and requires careful chin and/or limb EMG monitoring during PSG, along with video recording to correlate movements with EMG activity.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "Absence of REM sleep is incorrect; REM sleep is present but abnormal. A high AHI is characteristic of Obstructive Sleep Apnea. Periodic limb movements are a feature of Periodic Limb Movement Disorder (PLMD), though sometimes co-exist, they are not the *characteristic* finding for RBD itself.",
+    "isOneLiner": true,
+    "id": "one_liner_psg_tbiyxmg7"
+  },
+  {
+    "question": "An Apnea-Hypopnea Index (AHI) between 15-30 events/hour on polysomnography signifies what severity of OSA?",
+    "options": {
+      "A": "Mild",
+      "B": "Moderate",
+      "C": "Severe",
+      "D": "Very severe"
+    },
+    "correctAnswer": "B",
+    "topic": "psg",
+    "deepDiveExplanation": "The AHI classification for Obstructive Sleep Apnea (OSA) severity is standard across most guidelines:\n*   Normal: AHI < 5 events/hour\n*   Mild: AHI 5 to < 15 events/hour\n*   Moderate: AHI 15 to < 30 events/hour\n*   Severe: AHI ≥ 30 events/hour\nThis classification guides treatment decisions and prognosis.",
+    "highYieldPearl": "Memorizing these AHI thresholds is crucial for diagnosing and appropriately managing patients with sleep-disordered breathing.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "This question tests direct recall of standard AHI classification. Confusing the ranges (e.g., thinking 15-30 is mild or severe) is the primary trap. 'Very severe' is not a standard AASM classification category for OSA.",
+    "isOneLiner": true,
+    "id": "one_liner_psg_ehkm6uk1"
+  },
+  {
+    "question": "A respiratory event is classified as apnea if airflow reduction is >90% for at least how many seconds?",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "15",
+      "D": "20"
+    },
+    "correctAnswer": "B",
+    "topic": "psg",
+    "deepDiveExplanation": "According to the American Academy of Sleep Medicine (AASM) scoring criteria, an apnea is defined as a drop in the peak thermal sensor (thermistor, thermocouple) signal by ≥90% of pre-event baseline for at least 10 seconds. This cessation of airflow is then further classified as obstructive or central based on concomitant respiratory effort.",
+    "highYieldPearl": "The 10-second duration is a critical threshold for defining both apnea and hypopnea events in standard PSG interpretation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While shorter durations might be associated with other respiratory events or partial obstructions, 10 seconds is the established minimum for an apnea event according to AASM guidelines. 5 seconds is too short, and 15 or 20 seconds are longer than the minimum required for classification.",
+    "isOneLiner": true,
+    "id": "one_liner_psg_ztwcfpni"
+  },
+  {
+    "question": "A hypopnea event on polysomnography requires airflow reduction of at least 30% lasting ≥10 seconds, associated with what?",
+    "options": {
+      "A": "Bradycardia",
+      "B": "Oxygen desaturation ≥3% or arousal",
+      "C": "Hypertension",
+      "D": "Hypercapnia"
+    },
+    "correctAnswer": "B",
+    "topic": "psg",
+    "deepDiveExplanation": "AASM scoring criteria define a hypopnea as a discernable reduction in airflow (typically ≥30% from baseline, though some criteria use ≥50%) lasting at least 10 seconds, associated with either an oxygen desaturation of ≥3% from pre-event baseline OR an arousal from sleep. Some criteria also accept a ≥4% desaturation without arousal.",
+    "highYieldPearl": "The combination of airflow reduction, duration, AND a physiological consequence (desaturation or arousal) is crucial for hypopnea diagnosis and distinguishes it from benign snoring.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Bradycardia, hypertension, and hypercapnia can be *consequences* of hypopneas but are not part of the *definitional criteria* used for scoring the event itself in standard PSG interpretation. The desaturation or arousal is the direct physiological impact used for scoring.",
+    "isOneLiner": true,
+    "id": "one_liner_psg_ond75j0u"
+  },
+  {
+    "question": "The key polysomnography channel differentiating central from obstructive apnea is the measurement of what?",
+    "options": {
+      "A": "Nasal airflow",
+      "B": "Thoracoabdominal effort",
+      "C": "Oxygen saturation",
+      "D": "Electroencephalogram"
+    },
+    "correctAnswer": "B",
+    "topic": "psg",
+    "deepDiveExplanation": "In obstructive apnea, there is continued or increased thoracoabdominal effort (measured by respiratory inductance plethysmography bands) despite an absence of airflow, indicating an upper airway obstruction. In central apnea, both airflow and thoracoabdominal effort are absent, indicating a lack of respiratory drive from the brainstem.",
+    "highYieldPearl": "Respiratory effort channels are fundamental for classifying apnea types, providing the crucial distinction between central and obstructive etiologies, which guides treatment strategies.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Nasal airflow detects the *presence* of an apnea. Oxygen saturation measures the *consequence* of the event. EEG measures *sleep stages* and *arousals*. None of these directly indicate the *cause* (central vs. obstructive) in the way respiratory effort does.",
+    "isOneLiner": true,
+    "id": "one_liner_psg_z09uwry4"
+  },
+  {
+    "question": "The characteristic polysomnographic finding in REM Sleep Behavior Disorder (RBD) is what?",
+    "options": {
+      "A": "Absence of REM sleep",
+      "B": "High AHI",
+      "C": "REM sleep without atonia",
+      "D": "Periodic limb movements"
+    },
+    "correctAnswer": "C",
+    "topic": "psg",
+    "deepDiveExplanation": "Normally, during REM sleep, there is muscle atonia (paralysis) to prevent acting out dreams. In RBD, this atonia is absent or diminished, leading to complex motor behaviors. PSG shows increased tonic or phasic electromyography (EMG) activity in the chin or limb muscles during REM sleep, a phenomenon termed REM sleep without atonia (RSWA).",
+    "highYieldPearl": "RSWA is pathognomonic for RBD and requires careful chin and/or limb EMG monitoring during PSG, along with video recording to correlate movements with EMG activity.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "Absence of REM sleep is incorrect; REM sleep is present but abnormal. A high AHI is characteristic of Obstructive Sleep Apnea. Periodic limb movements are a feature of Periodic Limb Movement Disorder (PLMD), though sometimes co-exist, they are not the *characteristic* finding for RBD itself.",
+    "isOneLiner": true,
+    "id": "one_liner_psg_fl55a7dv"
+  },
+  {
+    "question": "An Apnea-Hypopnea Index (AHI) between 15-30 events/hour on polysomnography signifies what severity of OSA?",
+    "options": {
+      "A": "Mild",
+      "B": "Moderate",
+      "C": "Severe",
+      "D": "Very severe"
+    },
+    "correctAnswer": "B",
+    "topic": "psg",
+    "deepDiveExplanation": "The AHI classification for Obstructive Sleep Apnea (OSA) severity is standard across most guidelines:\n*   Normal: AHI < 5 events/hour\n*   Mild: AHI 5 to < 15 events/hour\n*   Moderate: AHI 15 to < 30 events/hour\n*   Severe: AHI ≥ 30 events/hour\nThis classification guides treatment decisions and prognosis.",
+    "highYieldPearl": "Memorizing these AHI thresholds is crucial for diagnosing and appropriately managing patients with sleep-disordered breathing.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "This question tests direct recall of standard AHI classification. Confusing the ranges (e.g., thinking 15-30 is mild or severe) is the primary trap. 'Very severe' is not a standard AASM classification category for OSA.",
+    "isOneLiner": true,
+    "id": "one_liner_psg_r3kfvs45"
+  }
+]

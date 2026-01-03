@@ -1,0 +1,655 @@
+/* Pulmo-Master AI - Enhanced Styles */
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(30px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes pulse {
+
+  0%,
+  100% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.05);
+  }
+}
+
+@keyframes bounce {
+
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes shake {
+
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+
+  25% {
+    transform: translateX(-5px);
+  }
+
+  75% {
+    transform: translateX(5px);
+  }
+}
+
+@keyframes drop {
+  0% {
+    transform: translateY(0);
+    opacity: 0;
+  }
+
+  20% {
+    opacity: 1;
+  }
+
+  100% {
+    transform: translateY(15px);
+    opacity: 0;
+  }
+}
+
+@keyframes confetti {
+  0% {
+    transform: translateY(0) rotate(0deg);
+    opacity: 1;
+  }
+
+  100% {
+    transform: translateY(-100vh) rotate(720deg);
+    opacity: 0;
+  }
+}
+
+@keyframes pop {
+  0% {
+    transform: scale(0.8);
+    opacity: 0;
+  }
+
+  50% {
+    transform: scale(1.1);
+  }
+
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Utility Classes */
+.animate-fade-in {
+  animation: fadeIn 0.4s ease-out;
+}
+
+.animate-slide-up {
+  animation: slideUp 0.5s ease-out;
+}
+
+.animate-slide-right {
+  animation: slideInRight 0.4s ease-out;
+}
+
+.animate-slide-left {
+  animation: slideInLeft 0.4s ease-out;
+}
+
+.animate-pulse-slow {
+  animation: pulse 2s ease-in-out infinite;
+}
+
+.animate-bounce {
+  animation: bounce 0.5s ease-out;
+}
+
+.animate-shake {
+  animation: shake 0.4s ease-out;
+}
+
+.animate-pop {
+  animation: pop 0.3s ease-out;
+}
+
+.animate-drop {
+  animation: drop 1.5s linear infinite;
+}
+
+/* Button Press Effect */
+.btn-press {
+  transition: transform 0.1s ease, box-shadow 0.1s ease;
+}
+
+.btn-press:active {
+  transform: scale(0.96);
+}
+
+/* Card Hover Effects */
+.card-hover {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px -5px rgba(0, 0, 0, 0.1), 0 4px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+/* Enhanced Shadows */
+.shadow-soft {
+  box-shadow: 0 2px 15px -3px rgba(0, 0, 0, 0.07), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.shadow-medium {
+  box-shadow: 0 4px 20px -5px rgba(0, 0, 0, 0.1), 0 6px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+.shadow-glow-blue {
+  box-shadow: 0 4px 20px -5px rgba(59, 130, 246, 0.3);
+}
+
+.shadow-glow-green {
+  box-shadow: 0 4px 20px -5px rgba(34, 197, 94, 0.3);
+}
+
+.shadow-glow-red {
+  box-shadow: 0 4px 20px -5px rgba(239, 68, 68, 0.3);
+}
+
+/* Gradients */
+.gradient-blue {
+  background: linear-gradient(135deg, #3b82f6 0%, #6366f1 100%);
+}
+
+.gradient-green {
+  background: linear-gradient(135deg, #22c55e 0%, #10b981 100%);
+}
+
+.gradient-red {
+  background: linear-gradient(135deg, #ef4444 0%, #f97316 100%);
+}
+
+.gradient-purple {
+  background: linear-gradient(135deg, #8b5cf6 0%, #a855f7 100%);
+}
+
+.gradient-header {
+  background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+}
+
+/* Confetti Container */
+.confetti-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 9999;
+  overflow: hidden;
+}
+
+.confetti-piece {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  animation: confetti 3s ease-out forwards;
+}
+
+/* Rio Mascot Animations */
+@keyframes bounce-subtle {
+
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-5px);
+  }
+}
+
+@keyframes bounce-soft {
+
+  0%,
+  100% {
+    transform: translateY(0) scale(1);
+  }
+
+  50% {
+    transform: translateY(-8px) scale(1.05);
+  }
+}
+
+.animate-bounce-subtle {
+  animation: bounce-subtle 2s ease-in-out infinite;
+}
+
+.animate-bounce-soft {
+  animation: bounce-soft 0.6s ease-out;
+}
+
+.delay-100 {
+  animation-delay: 100ms;
+}
+
+
+@keyframes float-up-fade {
+  0% {
+    transform: translateY(0) scale(0.8) translateX(0);
+    opacity: 0;
+  }
+
+  20% {
+    opacity: 1;
+    transform: translateY(-10px) scale(1);
+  }
+
+  50% {
+    transform: translateY(-20px) translateX(5px) scale(1.1);
+  }
+
+  100% {
+    transform: translateY(-40px) translateX(0) scale(1.2);
+    opacity: 0;
+  }
+}
+
+.animate-float-zzz {
+  animation: float-up-fade 2s ease-out infinite;
+}
+
+.delay-100 {
+  animation-delay: 100ms;
+}
+
+.delay-200 {
+  animation-delay: 200ms;
+}
+
+/* Pull to Refresh */
+.pull-indicator {
+  transition: transform 0.2s ease;
+}
+
+/* Swipe Container */
+.swipe-container {
+  touch-action: pan-y;
+  overflow: hidden;
+}
+
+/* Option Selection Animation */
+.option-select {
+  transition: all 0.2s ease;
+}
+
+.option-select.selected {
+  transform: scale(1.01);
+}
+
+@keyframes vanish {
+  0% {
+    opacity: 1;
+    transform: scale(1);
+    filter: brightness(1);
+  }
+
+  50% {
+    opacity: 0.5;
+    transform: scale(0.95);
+    filter: brightness(1.5) blur(1px);
+    /* Flash bright before vanishing */
+  }
+
+  100% {
+    opacity: 0;
+    transform: scale(0.9);
+    filter: blur(4px);
+  }
+}
+
+@keyframes sparkle-burst {
+  0% {
+    transform: scale(0.5) rotate(0deg);
+    opacity: 0;
+  }
+
+  40% {
+    transform: scale(1.1) rotate(15deg);
+    opacity: 1;
+  }
+
+  100% {
+    transform: scale(1.4) rotate(30deg);
+    opacity: 0;
+  }
+}
+
+.animate-magic-vanish {
+  animation: vanish 0.8s ease-out forwards;
+  pointer-events: none;
+  /* unexpected interaction prevention */
+}
+
+.sparkle-overlay {
+  position: absolute;
+  inset: -20px;
+  /* Extend outside for dramatic effect */
+  pointer-events: none;
+  border-radius: 16px;
+  /* Brighter, more saturated gold sparkles */
+  background-image:
+    radial-gradient(circle at 50% 50%, rgba(255, 200, 0, 1) 0%, transparent 25%),
+    radial-gradient(circle at 15% 25%, rgba(255, 215, 0, 1) 0%, transparent 18%),
+    radial-gradient(circle at 85% 15%, rgba(255, 223, 0, 1) 0%, transparent 20%),
+    radial-gradient(circle at 25% 75%, rgba(255, 180, 0, 1) 0%, transparent 22%),
+    radial-gradient(circle at 75% 85%, rgba(255, 255, 100, 1) 0%, transparent 15%),
+    radial-gradient(circle at 10% 50%, rgba(255, 215, 0, 0.8) 0%, transparent 12%),
+    radial-gradient(circle at 90% 50%, rgba(255, 200, 50, 0.9) 0%, transparent 14%);
+  background-size: 100% 100%;
+  opacity: 0;
+  z-index: 10;
+  /* Golden glow effect */
+  box-shadow:
+    0 0 30px 10px rgba(255, 200, 0, 0.6),
+    0 0 60px 20px rgba(255, 215, 0, 0.3),
+    inset 0 0 30px rgba(255, 255, 200, 0.5);
+  animation: sparkle-burst 0.8s ease-out forwards;
+}
+
+/* Correct/Wrong Animations */
+.answer-correct {
+  animation: pop 0.3s ease-out;
+}
+
+.answer-wrong {
+  animation: shake 0.4s ease-out;
+}
+
+
+
+/* Smooth Scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Hide scrollbar but allow scrolling */
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Loading Spinner */
+.spinner {
+  animation: spin 1s linear infinite;
+}
+
+/* Progress Ring */
+.progress-ring {
+  transition: stroke-dashoffset 0.5s ease;
+}
+
+/* Mobile Navigation Pill Styles */
+.nav-pill {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.375rem;
+  padding: 0.625rem 0.75rem;
+  border-radius: 1rem;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-tap-highlight-color: transparent;
+}
+
+@media (prefers-color-scheme: light) {
+  .nav-pill {
+    color: #9ca3af;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .nav-pill {
+    color: #64748b;
+  }
+}
+
+.dark .nav-pill {
+  color: #64748b;
+}
+
+.nav-pill:active {
+  transform: scale(0.95);
+}
+
+.nav-pill-active {
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.15) 0%, rgba(99, 102, 241, 0.15) 100%);
+  color: #3b82f6;
+}
+
+.dark .nav-pill-active {
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.2) 0%, rgba(99, 102, 241, 0.2) 100%);
+  color: #60a5fa;
+}
+
+.nav-pill-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  animation: fadeIn 0.2s ease-out;
+  white-space: nowrap;
+}
+
+/* Habit Tracker Confetti */
+@keyframes confetti-fall {
+  0% {
+    transform: translateY(0) rotate(0deg);
+    opacity: 1;
+  }
+
+  100% {
+    transform: translateY(100vh) rotate(720deg);
+    opacity: 0;
+  }
+}
+
+@keyframes bounce-in {
+  0% {
+    transform: scale(0);
+    opacity: 0;
+  }
+
+  50% {
+    transform: scale(1.2);
+  }
+
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.animate-confetti {
+  animation: confetti-fall 3s ease-out forwards;
+}
+
+.animate-bounce-in {
+  animation: bounce-in 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55) forwards;
+}
+
+/* Slow spin for sparkle effect */
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 3s linear infinite;
+}
+
+/* ===== Gamification Animations ===== */
+
+/* XP Popup Float Up */
+@keyframes float-up {
+  0% {
+    transform: translateY(20px) scale(0.8);
+    opacity: 0;
+  }
+
+  20% {
+    transform: translateY(0) scale(1.1);
+    opacity: 1;
+  }
+
+  80% {
+    transform: translateY(-30px) scale(1);
+    opacity: 1;
+  }
+
+  100% {
+    transform: translateY(-50px) scale(0.8);
+    opacity: 0;
+  }
+}
+
+.animate-float-up {
+  animation: float-up 2s ease-out forwards;
+}
+
+/* Shimmer effect for XP bar */
+@keyframes shimmer {
+  0% {
+    transform: translateX(-100%);
+  }
+
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.animate-shimmer {
+  animation: shimmer 2s ease-in-out infinite;
+}
+
+/* Coin drop bounce */
+@keyframes coin-drop {
+  0% {
+    transform: translateY(-20px) scale(0.5) rotate(-10deg);
+    opacity: 0;
+  }
+
+  40% {
+    transform: translateY(5px) scale(1.1) rotate(5deg);
+    opacity: 1;
+  }
+
+  60% {
+    transform: translateY(-5px) scale(0.95) rotate(-3deg);
+  }
+
+  80% {
+    transform: translateY(2px) scale(1.02) rotate(1deg);
+  }
+
+  100% {
+    transform: translateY(0) scale(1) rotate(0deg);
+    opacity: 1;
+  }
+}
+
+.animate-coin-drop {
+  animation: coin-drop 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55) forwards;
+}
+
+/* Level up glow pulse */
+@keyframes glow-pulse {
+
+  0%,
+  100% {
+    box-shadow: 0 0 20px 5px rgba(139, 92, 246, 0.3);
+  }
+
+  50% {
+    box-shadow: 0 0 40px 15px rgba(139, 92, 246, 0.5);
+  }
+}
+
+.animate-glow-pulse {
+  animation: glow-pulse 1.5s ease-in-out infinite;
+}
+
+/* Spring ease for smooth UI */
+.ease-spring {
+  transition-timing-function: cubic-bezier(0.34, 1.56, 0.64, 1);
+}

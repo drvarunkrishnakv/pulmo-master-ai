@@ -1,0 +1,896 @@
+[
+  {
+    "id": "rag_smoking_cessation_47abf803",
+    "question": "A 68-year-old male presents with severe daytime somnolence, loud snoring, and witnessed apneas. His STOP-BANG score is 7. He has a history of poorly controlled atrial fibrillation, Type 2 Diabetes Mellitus with peripheral neuropathy, and recently experienced a transient ischemic attack (TIA). He also reports vivid nightmares and occasional sleepwalking. Which of the following is the MOST appropriate diagnostic approach for evaluating his sleep disorder?",
+    "options": {
+      "A": "Type 3 home sleep apnea test (HSAT) with a focus on respiratory effort, airflow, and oximetry.",
+      "B": "Type 4 home sleep apnea test (HSAT) relying solely on airflow and oxygen saturation.",
+      "C": "Attended Type 1 polysomnography in a sleep laboratory.",
+      "D": "Portable Type 2 polysomnography with a focus on cardio-respiratory channels."
+    },
+    "correctAnswer": "C",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "This patient presents with a high pre-test probability of Obstructive Sleep Apnea (OSA) based on his STOP-BANG score. However, he also has significant comorbidities including poorly controlled atrial fibrillation, peripheral neuropathy (potentially related to Type 2 DM or TIA), and a history of TIA. Furthermore, he reports symptoms suggestive of parasomnias (vivid nightmares, sleepwalking). According to the guidelines, patients with significant cardiac, pulmonary, and neuromuscular disorders, or suspected comorbid sleep disorders (like parasomnias or movement disorders), are largely excluded from ambulatory management pathways using limited channel portable sleep apnea tests (Type 2, 3, or 4). The flowchart indicates that the presence of comorbid medical or sleep disorders warrants an 'In Lab PSG'. Type 1 polysomnography is a fully attended, laboratory-based study with comprehensive neurological (EEG, EOG, EMG) and cardio-respiratory channels (≥ 7 channels), making it the gold standard for complex cases, especially when parasomnias need to be characterized, or when comorbidities necessitate close monitoring.",
+    "highYieldPearl": "Rio's Take: Complex patients with significant cardiac, pulmonary, or neuromuscular comorbidities, or those with suspected comorbid sleep disorders (e.g., parasomnias, RLS, narcolepsy), require attended Type 1 polysomnography for accurate diagnosis and monitoring. Limited channel studies (Type 2, 3, 4 HSATs) are inadequate and potentially unsafe for such patients.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Type 3 HSAT is a limited channel study and is inappropriate for a patient with significant cardiac and neurological comorbidities, as well as suspected parasomnias which require neurological channels for diagnosis.",
+      "B": "Type 4 HSAT is the most limited channel study and is definitively inadequate for this complex patient profile, failing to capture critical information for his multiple medical and sleep-related issues.",
+      "C": "This is the correct choice. Type 1 PSG provides the comprehensive physiological data (neurological and cardio-respiratory) and direct observation necessary to diagnose OSA, characterize parasomnias, and safely monitor a patient with multiple significant comorbidities like atrial fibrillation and TIA history.",
+      "D": "Portable Type 2 PSG, while having ≥7 channels, is unattended. The patient's history of atrial fibrillation, TIA, and suspected parasomnias warrants the direct observation and intervention capabilities of an attended in-lab study (Type 1) for safety and diagnostic accuracy, especially for events like sleepwalking."
+    },
+    "sourceLocation": {
+      "bookName": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+      "chapter": "Smoking related ILDs",
+      "section": null,
+      "pageNumber": 18
+    },
+    "bookId": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+    "chunkId": "52.IIPS OTHER THAN IPF-NSIP-RBILD_OCR_Complete (1)_chunk_512",
+    "generatedAt": 1767060988523,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_smoking_cessation_ecf234cb",
+    "question": "A 55-year-old male with severe COPD is undergoing evaluation for nocturnal hypoventilation. A home sleep apnea test (HSAT) was performed using a Type 3 device, recording airflow, thoracoabdominal movements, heart rate, and oximetry. The study reveals frequent oxygen desaturations to 85% with nadirs of 80%, but no clear obstructive or central apneic events. Respiratory effort signals show consistent albeit shallow breathing. Based on this limited study, which of the following statements is the MOST appropriate interpretation or next step?",
+    "options": {
+      "A": "Sleep hypoventilation is definitively diagnosed based on the persistent oxygen desaturations.",
+      "B": "The absence of clear obstructive or central apneas rules out sleep-related breathing disorders.",
+      "C": "A Type 1 polysomnography is warranted to accurately differentiate between sleep hypoventilation and other complex sleep-related breathing disorders.",
+      "D": "Initiation of nocturnal oxygen therapy is indicated to address the observed desaturations."
+    },
+    "correctAnswer": "C",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "The patient has severe COPD, which is a significant pulmonary comorbidity. The context explicitly states that 'continuous recording of oxygen saturation alone can have limitations in the evaluation of hypercapnia. Oxygen desaturation may be associated with hypoventilation but, because oxygen desaturation can also be seen with obstructive and central respiratory events, it cannot be relied on alone in diagnosing sleep hypoventilation.' While the Type 3 HSAT shows desaturations and shallow breathing, a definitive diagnosis of sleep hypoventilation requires full Type 1 polysomnography. Type 1 PSG includes EEG (for sleep staging), EMG, EOG, and crucially, often transcutaneous CO2 monitoring or end-tidal CO2 (not standard on HSATs) which are essential to confirm hypercapnia, a hallmark of hypoventilation. It also allows for identification of subtle obstructive events or complex breathing patterns that might be missed by limited channels, especially in the context of underlying severe COPD. Therefore, an in-lab Type 1 PSG is the most appropriate next step for definitive diagnosis and differentiation.",
+    "highYieldPearl": "Rio's Take: In patients with significant pulmonary comorbidities like severe COPD, limited channel HSATs are often insufficient. Oxygen desaturation alone is not diagnostic of sleep hypoventilation; a comprehensive Type 1 PSG with capnography and sleep staging is crucial for accurate diagnosis and differentiation from other sleep-related breathing disorders.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Incorrect. The provided context explicitly states that oxygen desaturation alone cannot be relied upon to definitively diagnose sleep hypoventilation, as it can be seen with other events. Furthermore, a Type 3 study lacks the full complement of channels (like EEG for sleep staging and CO2 monitoring) for definitive diagnosis.",
+      "B": "Incorrect. Sleep hypoventilation *is* a type of sleep-related breathing disorder. The findings of desaturation with shallow breathing are suggestive of hypoventilation, not a ruling out of all SRBDs.",
+      "C": "This is the correct answer. Given the severe COPD and the limitations of the Type 3 HSAT (lack of EEG for sleep staging, no CO2 monitoring), a full Type 1 PSG is warranted to accurately diagnose sleep hypoventilation and differentiate it from other complex SRBDs in this vulnerable patient.",
+      "D": "Incorrect. While oxygen may be considered for severe desaturation, it is a management step. The question asks for the most appropriate interpretation or *next step* in diagnosis. Without a definitive diagnosis of the cause of desaturation and assessment of CO2, initiating oxygen could be suboptimal and potentially harmful (e.g., hypercapnia) in a COPD patient without full understanding of the underlying respiratory disturbance."
+    },
+    "sourceLocation": {
+      "bookName": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+      "chapter": "Smoking related ILDs",
+      "section": null,
+      "pageNumber": 18
+    },
+    "bookId": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+    "chunkId": "52.IIPS OTHER THAN IPF-NSIP-RBILD_OCR_Complete (1)_chunk_512",
+    "generatedAt": 1767060988523,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_smoking_cessation_44fa4e1a",
+    "question": "A physician is evaluating several patients for suspected sleep-related breathing disorders. For which of the following patients would an initial Home Sleep Apnea Test (HSAT) be considered the LEAST appropriate diagnostic approach?",
+    "options": {
+      "A": "A 45-year-old obese male with a STOP-BANG score of 6, presenting with loud snoring and observed apneas, no significant comorbidities.",
+      "B": "A 30-year-old female with primary snoring and mild daytime sleepiness, who works night shifts and has suspected circadian rhythm disorder.",
+      "C": "A 58-year-old male with a history of recurrent ventricular tachycardia, uncontrolled hypertension, and a recent diagnosis of congestive heart failure, presenting with symptoms highly suggestive of OSA.",
+      "D": "A 62-year-old female with a high pretest probability of moderate OSA (STOP-BANG 5), who reports frequent leg jerks during sleep and morning headaches, without other significant medical history."
+    },
+    "correctAnswer": "C",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "The context explicitly states that 'studies comparing an ambulatory management pathway using portable home sleep apnea testing ... have largely excluded patients with significant cardiac, pulmonary, and neuromuscular disorders where interpretation of limited channel recordings can be limited.' Patient C has a history of recurrent ventricular tachycardia, uncontrolled hypertension, and recently diagnosed congestive heart failure. These are significant cardiac comorbidities that make an HSAT the least appropriate diagnostic approach due to potential safety concerns, the need for comprehensive monitoring (e.g., ECG channels with full arrhythmia detection in a lab), and the complexity of interpreting limited channels in such a patient. The flowchart also indicates that if a patient has signs or symptoms of comorbid medical disorders, an in-lab PSG is preferred.",
+    "highYieldPearl": "Rio's Take: HSATs are generally contraindicated for patients with significant cardiovascular (e.g., severe arrhythmias, heart failure), pulmonary, or neuromuscular comorbidities, or for those with suspected complex sleep disorders beyond uncomplicated OSA. These patients require the comprehensive monitoring and safety of an attended in-lab polysomnography.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This patient has a high pretest probability for OSA (STOP-BANG 6) and no significant comorbidities. This is an ideal candidate for an initial HSAT according to guidelines, making HSAT an appropriate approach.",
+      "B": "This patient has suspected circadian rhythm disorder, which is an indication for full PSG (Type 1) to assess sleep architecture and timing (requiring EEG, EOG, EMG). While HSAT would be inappropriate for diagnosing the circadian disorder, if the primary suspicion is OSA from snoring and mild sleepiness, an HSAT might be considered for initial OSA screening. However, it's less definitively 'least appropriate' than for a patient with severe cardiac comorbidities.",
+      "C": "This is the correct answer. The presence of significant cardiac comorbidities (recurrent ventricular tachycardia, congestive heart failure) makes HSAT the LEAST appropriate option. These conditions require the close monitoring and comprehensive data of an attended in-lab Type 1 PSG.",
+      "D": "This patient has a high pretest probability of OSA and reports frequent leg jerks, suggesting a potential comorbid movement disorder (e.g., periodic limb movement disorder, RLS). Movement disorders are an indication for full PSG (Type 1) to include leg EMG channels. While HSAT might be used to screen for OSA, it would be insufficient for diagnosing the movement disorder. However, similar to option B, it's not as definitively 'least appropriate' as for a patient with severe cardiac comorbidities which pose direct safety and interpretive limitations for HSAT."
+    },
+    "sourceLocation": {
+      "bookName": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+      "chapter": "Smoking related ILDs",
+      "section": null,
+      "pageNumber": 18
+    },
+    "bookId": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+    "chunkId": "52.IIPS OTHER THAN IPF-NSIP-RBILD_OCR_Complete (1)_chunk_512",
+    "generatedAt": 1767060988523,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_smoking_cessation_ccbe5b8d",
+    "question": "A 62-year-old male presents with severe daytime somnolence, loud snoring, and witnessed apneas. He has a history of poorly controlled NYHA Class III heart failure, severe chronic obstructive pulmonary disease (COPD) with documented hypercapnia (PaCO2 55 mmHg), and recent onset atrial fibrillation. On examination, his BMI is 34 kg/m². What is the most appropriate initial diagnostic sleep study for this patient?",
+    "options": {
+      "A": "Type 1 attended polysomnography (PSG) in a sleep laboratory",
+      "B": "Type 2 unattended portable polysomnography at home",
+      "C": "Type 3 limited channel portable sleep apnea test at home",
+      "D": "Type 4 sleep study measuring only oxygen saturation and airflow"
+    },
+    "correctAnswer": "A",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "The patient presents with multiple significant comorbidities, including severe heart failure, severe COPD with hypercapnia, and atrial fibrillation. The provided context explicitly states that 'studies comparing an ambulatory management pathway using portable home sleep apnea testing and autotitrating continuous positive airway pressure to the traditional in‑laboratory diagnostic and titration polysomnography have largely excluded patients with significant cardiac, pulmonary, and neuromuscular disorders where interpretation of limited channel recordings can be limited.' Furthermore, 'continuous recording of oxygen saturation alone can have limitations in the evaluation of hypercapnia' and cannot reliably diagnose sleep hypoventilation. Given the complexity and high risk for central sleep apnea or sleep hypoventilation often associated with such comorbidities, a fully attended, comprehensive Type 1 polysomnography in a laboratory setting is the gold standard and most appropriate for accurate diagnosis and management planning. This allows for detailed assessment of sleep stages, respiratory effort, airflow, oxygenation, ECG, and neurological parameters, which are crucial in patients with complex medical conditions.",
+    "highYieldPearl": "Rio's Take: For patients with significant cardiorespiratory comorbidities (e.g., severe heart failure, severe COPD with hypercapnia, complex arrhythmias) or suspicion of non-OSA sleep disorders (e.g., central sleep apnea, narcolepsy, parasomnias), in-lab Type 1 PSG is the preferred diagnostic modality due to its comprehensive data collection and ability to differentiate complex sleep-disordered breathing patterns and other sleep disorders.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. The presence of significant comorbid medical disorders (NYHA Class III heart failure, severe COPD with hypercapnia, atrial fibrillation) necessitates the comprehensive monitoring capabilities of an in-lab Type 1 PSG. Limited channel home studies are unreliable in such complex cases, especially when differentiating between obstructive and central events, or assessing sleep hypoventilation. The attendance allows for intervention and troubleshooting.",
+      "B": "Type 2 unattended portable PSG (though ≥7 channels) is performed at home without a technician. While it offers comprehensive channel recording, the lack of attendance is a limitation for patients with severe comorbidities where close monitoring might be necessary. More importantly, the exclusion criteria for HSAT in the context of 'significant cardiac, pulmonary, and neuromuscular disorders' generally applies to all unattended home studies when complex diagnoses or hypoventilation are suspected.",
+      "C": "Type 3 limited channel portable sleep apnea tests (4-7 channels) are often adequate for straightforward OSA diagnosis in patients without significant comorbidities. However, for a patient with severe heart failure and hypercapnic COPD, the limited neurological channels and unattended nature would significantly compromise diagnostic accuracy, particularly in differentiating types of sleep apnea and detecting sleep hypoventilation, which are common in these conditions.",
+      "D": "Type 4 sleep studies (1-2 channels) are the most limited, typically measuring only oxygen saturation and airflow. They are insufficient for diagnosing sleep apnea in complex patients, as they cannot reliably differentiate between obstructive and central events, identify sleep stages, or adequately assess sleep hypoventilation, especially in the context of pre-existing hypercapnia. This would lead to a high risk of misdiagnosis or incomplete diagnosis."
+    },
+    "sourceLocation": {
+      "bookName": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+      "chapter": "Smoking related ILDs",
+      "section": null,
+      "pageNumber": 18
+    },
+    "bookId": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+    "chunkId": "52.IIPS OTHER THAN IPF-NSIP-RBILD_OCR_Complete (1)_chunk_512",
+    "generatedAt": 1767060988523,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_smoking_cessation_e22f61eb",
+    "question": "A 48-year-old male with a BMI of 38 kg/m² undergoes a polysomnography for evaluation of severe snoring and witnessed apneas. The sleep technician observes recurring events characterized by a complete cessation of oral-nasal airflow for 15 seconds, despite continued and increasing thoracoabdominal respiratory effort. This event is followed by a 5% drop in oxygen saturation and a micro-arousal detected on EEG. Which of the following polysomnographic events is most consistent with this description?",
+    "options": {
+      "A": "Obstructive apnea",
+      "B": "Central apnea",
+      "C": "Hypopnea",
+      "D": "Respiratory effort related arousal (RERA)"
+    },
+    "correctAnswer": "A",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "The description clearly defines an obstructive apnea. An apnea is characterized by a cessation of airflow for at least 10 seconds. In an obstructive apnea, this cessation occurs despite continued or even increasing respiratory effort (as indicated by thoracoabdominal movements), signifying an obstruction in the upper airway. The associated oxygen desaturation (a ≥3-4% drop) and micro-arousal detected on EEG are common physiological consequences of such events, contributing to sleep fragmentation and hypoxemia.",
+    "highYieldPearl": "Rio's Take: The key distinguishing feature between obstructive and central apnea is the presence or absence of respiratory effort. Obstructive apnea involves airflow cessation *with* effort, while central apnea involves cessation of *both* airflow and effort. Hypopnea is a partial reduction in airflow, and RERA is increasing effort leading to arousal without significant desaturation or explicit airflow reduction criteria for apnea/hypopnea.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. Complete cessation of airflow (apnea) for 15 seconds, coupled with persistent thoracoabdominal movements (respiratory effort), is the classic polysomnographic definition of an obstructive apnea. The desaturation and arousal are typical accompanying features, indicative of the severity and impact of the event.",
+      "B": "Central apnea is characterized by a cessation of *both* airflow and respiratory effort for at least 10 seconds. The vignette explicitly states 'continued and increasing thoracoabdominal respiratory effort', which definitively rules out central apnea, where respiratory effort would also be absent.",
+      "C": "A hypopnea is defined as a partial reduction in airflow (typically ≥30% to 50%) lasting at least 10 seconds, associated with oxygen desaturation (≥3% or 4%) and/or an arousal. The vignette describes a 'complete cessation of oral-nasal airflow,' which is an apnea, not a hypopnea (which implies partial reduction).",
+      "D": "A Respiratory Effort Related Arousal (RERA) involves an increasing inspiratory effort leading to an arousal from sleep, without meeting the criteria for an apnea or hypopnea (i.e., no complete cessation or significant reduction in airflow, or desaturation that qualifies as apnea/hypopnea). The described event involves a complete cessation of airflow and a 5% desaturation, making it a more severe event than a typical RERA."
+    },
+    "sourceLocation": {
+      "bookName": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+      "chapter": "Smoking related ILDs",
+      "section": null,
+      "pageNumber": 18
+    },
+    "bookId": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+    "chunkId": "52.IIPS OTHER THAN IPF-NSIP-RBILD_OCR_Complete (1)_chunk_512",
+    "generatedAt": 1767060988523,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_smoking_cessation_41a282c9",
+    "question": "A 55-year-old female presents to the pulmonology clinic with complaints of excessive daytime sleepiness, loud snoring, and her husband reporting frequent breathing pauses during sleep. She has a BMI of 31 kg/m² and her only medical history is well-controlled essential hypertension. She denies any history of heart failure, chronic lung disease, neurological disorders, or other sleep disorders like narcolepsy or restless legs syndrome. Her Epworth Sleepiness Scale score is 15/24, and her STOP-BANG score is 7. What is the most appropriate initial diagnostic sleep study for this patient?",
+    "options": {
+      "A": "Type 3 portable home sleep apnea test (HSAT)",
+      "B": "Type 1 attended polysomnography in a sleep laboratory",
+      "C": "Type 4 sleep study measuring only pulse oximetry and snoring",
+      "D": "Multiple Sleep Latency Test (MSLT)"
+    },
+    "correctAnswer": "A",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "This patient has a high pretest probability of moderate to severe obstructive sleep apnea, indicated by her BMI, loud snoring, witnessed apneas, high Epworth Sleepiness Scale (ESS ≥ 10 suggests excessive daytime sleepiness), and a high STOP-BANG score (≥5 indicates high risk of moderate-severe OSA). Crucially, she lacks significant comorbidities (e.g., severe heart failure, severe COPD, neurological disorders, or suspicion of other sleep disorders like narcolepsy or central sleep apnea) that would necessitate an in-lab polysomnography. According to standard guidelines and the provided context, for patients with a high pretest probability of moderate to severe OSA and without significant comorbidities, a portable home sleep apnea test (HSAT), typically Type 2 or Type 3, is the most appropriate and cost-effective initial diagnostic approach. Type 3 offers sufficient channels (4-7 including airflow, respiratory effort, oximetry, heart rate) to diagnose obstructive sleep apnea effectively in this population.",
+    "highYieldPearl": "Rio's Take: HSAT (Type 2 or 3) is generally recommended as the first-line diagnostic test for patients with a high pretest probability of moderate to severe OSA *without* significant cardiopulmonary or neuromuscular comorbidities, or suspicion of other non-OSA sleep disorders. In-lab PSG is reserved for complex cases or when HSAT is non-diagnostic.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. The patient presents with classic symptoms and a high pretest probability of moderate to severe OSA (STOP-BANG 7, ESS 15). Crucially, she lacks complex comorbidities that would mandate an in-lab study. In such uncomplicated cases, a Type 3 portable HSAT, which monitors 4-7 channels (e.g., airflow, respiratory effort, oximetry, and potentially heart rate), is a cost-effective and appropriate first-line diagnostic tool for diagnosing OSA.",
+      "B": "Type 1 attended PSG is the gold standard but is more expensive and resource-intensive. While it would provide a definitive diagnosis, it is not the *most appropriate initial* study for an uncomplicated patient with a high pretest probability of OSA, given the availability and adequacy of HSAT. It is indicated when comorbidities are significant, HSAT is inconclusive, or other complex sleep disorders are suspected.",
+      "C": "Type 4 sleep studies, with only 1-2 channels (like pulse oximetry and snoring/airflow), are too limited for an initial diagnosis of moderate to severe OSA, especially when precise differentiation of event types (obstructive vs. central) and severity grading is required. They might be used for screening or monitoring in very specific, low-risk scenarios, but not typically for initial comprehensive diagnosis in this situation.",
+      "D": "Multiple Sleep Latency Test (MSLT) is used to objectively measure daytime sleepiness and diagnose conditions like narcolepsy or idiopathic hypersomnia. While the patient has excessive daytime sleepiness, there is no suspicion of narcolepsy or other primary hypersomnias outweighing the high probability of OSA. MSLT is typically performed *after* OSA has been ruled out or treated, or if hypersomnia persists despite OSA treatment, not as an initial diagnostic test for suspected sleep apnea."
+    },
+    "sourceLocation": {
+      "bookName": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+      "chapter": "Smoking related ILDs",
+      "section": null,
+      "pageNumber": 18
+    },
+    "bookId": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+    "chunkId": "52.IIPS OTHER THAN IPF-NSIP-RBILD_OCR_Complete (1)_chunk_512",
+    "generatedAt": 1767060988523,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_smoking_cessation_708766d6",
+    "question": "Which of the following is NOT typically a core neurological channel recorded during a Type 1 Polysomnography?",
+    "options": {
+      "A": "Electroencephalogram (EEG)",
+      "B": "Electrooculogram (EOG)",
+      "C": "Electromyogram (EMG)",
+      "D": "Electrocardiogram (ECG)"
+    },
+    "correctAnswer": "D",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "Type 1 Polysomnography is a fully attended study in a laboratory setting, recording a comprehensive set of physiological parameters. The core neurological channels include Electroencephalogram (EEG) to monitor brain activity and sleep stages, Electrooculogram (EOG) to detect eye movements characteristic of REM sleep, and Electromyogram (EMG) to assess muscle tone and identify sleep-related movement disorders. Electrocardiogram (ECG) is a cardio-respiratory channel, used to monitor heart rate and rhythm, and is not categorized under neurological channels.",
+    "highYieldPearl": "Rio's Take: Remember the key distinction between neurological (EEG, EOG, EMG) and cardio-respiratory (ECG, airflow, oximetry, thoracoabdominal movements) channels in PSG. This helps in understanding the scope of different PSG types.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "EEG is a fundamental neurological channel for sleep staging.",
+      "B": "EOG is a neurological channel crucial for identifying REM sleep.",
+      "C": "EMG is a neurological channel for muscle activity, important for movement disorders and sleep staging.",
+      "D": "ECG is a cardio-respiratory channel, not neurological, making it the correct answer for what is 'NOT' a neurological channel."
+    },
+    "sourceLocation": {
+      "bookName": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+      "chapter": "Smoking related ILDs",
+      "section": null,
+      "pageNumber": 18
+    },
+    "bookId": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+    "chunkId": "52.IIPS OTHER THAN IPF-NSIP-RBILD_OCR_Complete (1)_chunk_512",
+    "generatedAt": 1767060988523,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_smoking_cessation_06c79105",
+    "question": "Which of the following conditions would generally NOT be a primary indication for recommending an in-laboratory, attended Polysomnography (Type 1 PSG) over a home sleep apnea test (HSAT)?",
+    "options": {
+      "A": "A patient with a high pretest probability of moderate to severe Obstructive Sleep Apnea (OSA) and no significant comorbidities.",
+      "B": "A patient with suspected OSA and significant comorbid congestive heart failure.",
+      "C": "A patient with suspicion of a central sleep apnea, narcolepsy, or a parasomnia.",
+      "D": "A patient with a negative HSAT result, but persistent strong clinical suspicion of OSA."
+    },
+    "correctAnswer": "A",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "In-laboratory, attended Polysomnography (Type 1 PSG) is preferred for complex sleep disorders, when comorbidities are present, or when a home sleep apnea test (HSAT) is inconclusive. A patient with a high pretest probability of moderate to severe OSA and no significant medical or sleep comorbidities is typically an ideal candidate for an initial Portable PSG (HSAT). The provided context specifically states that if a patient has a high pretest probability of moderate to severe OSA AND no signs/symptoms of comorbid medical or sleep disorders, Portable PSG (HSAT) is the indicated initial study.",
+    "highYieldPearl": "Rio's Take: HSAT is favored for uncomplicated OSA with high pretest probability. In-lab PSG is reserved for complex cases, comorbidities, other sleep disorders (narcolepsy, parasomnias), or when HSAT fails.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This scenario describes an ideal candidate for HSAT, making it the correct answer as it's 'NOT' a primary indication for in-lab PSG.",
+      "B": "Significant comorbid medical disorders like congestive heart failure necessitate in-lab PSG due to the limitations of HSAT in these complex patients.",
+      "C": "Suspicion of central sleep apnea, narcolepsy, or parasomnias requires the comprehensive neurological monitoring (EEG, EOG, EMG) available only in an in-lab PSG for accurate diagnosis.",
+      "D": "If an HSAT is negative but clinical suspicion of OSA remains high, an in-lab PSG is recommended to definitively rule out or diagnose OSA."
+    },
+    "sourceLocation": {
+      "bookName": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+      "chapter": "Smoking related ILDs",
+      "section": null,
+      "pageNumber": 18
+    },
+    "bookId": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+    "chunkId": "52.IIPS OTHER THAN IPF-NSIP-RBILD_OCR_Complete (1)_chunk_512",
+    "generatedAt": 1767060988523,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_smoking_cessation_cc398d91",
+    "question": "A physician is evaluating a patient for a potential sleep disorder. Based on current guidelines, which of the following conditions is generally NOT a routine primary indication for Polysomnography (PSG)?",
+    "options": {
+      "A": "Suspected Obstructive Sleep Apnea (OSA)",
+      "B": "Suspected Narcolepsy",
+      "C": "Suspected Restless Leg Syndrome",
+      "D": "Uncomplicated Asthma or COPD"
+    },
+    "correctAnswer": "D",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "Polysomnography (PSG) is indicated for a range of sleep-related breathing disorders (SRBD), narcolepsy, parasomnias, movement disorders like restless leg syndrome, and certain circadian rhythm disorders. However, the provided context explicitly states that PSG is 'Not routinely Indicated' for 'Asthma or COPD' in an uncomplicated setting. While these conditions can have sleep-related symptoms, they are not primary indications for PSG unless a specific sleep disorder like OSA is also suspected.",
+    "highYieldPearl": "Rio's Take: Know the standard indications for PSG (SRBD, narcolepsy, RLS, parasomnias) and also the 'non-routine' ones like uncomplicated asthma/COPD. This is a common differentiating point.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Suspected OSA is a primary and common indication for PSG, falling under Sleep Related Breathing Disorders (SRBD).",
+      "B": "Suspected Narcolepsy is a clear indication for PSG, often followed by an MSLT, for diagnosis.",
+      "C": "Suspected Restless Leg Syndrome is listed as an indication for PSG to evaluate sleep disruption and periodic limb movements.",
+      "D": "Uncomplicated Asthma or COPD is explicitly stated as 'Not routinely Indicated' for PSG in the provided guidelines, making it the correct answer."
+    },
+    "sourceLocation": {
+      "bookName": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+      "chapter": "Smoking related ILDs",
+      "section": null,
+      "pageNumber": 18
+    },
+    "bookId": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+    "chunkId": "52.IIPS OTHER THAN IPF-NSIP-RBILD_OCR_Complete (1)_chunk_512",
+    "generatedAt": 1767060988523,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_smoking_cessation_4ae54487",
+    "question": "A 62-year-old obese male presents with loud snoring, witnessed apneas, and daytime somnolence. His STOP-BANG score is 7. He also has a history of poorly controlled Type 2 Diabetes Mellitus and recurrent nocturnal arrhythmias. Physical examination reveals a large neck circumference and retrognathia. Based on his clinical presentation, which of the following is the most appropriate initial sleep study?",
+    "options": {
+      "A": "Type 1 Polysomnography (In-lab, attended)",
+      "B": "Type 2 Polysomnography (Unattended, multi-channel)",
+      "C": "Type 3 Home Sleep Apnea Test (Limited channel)",
+      "D": "Type 4 Home Oximetry"
+    },
+    "correctAnswer": "A",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "The patient has a high pretest probability of obstructive sleep apnea (OSA) based on his symptoms and STOP-BANG score. However, the presence of significant comorbidities, namely poorly controlled Type 2 Diabetes Mellitus and recurrent nocturnal arrhythmias, mandates a comprehensive diagnostic approach. According to guidelines, patients with significant comorbid medical disorders (especially cardiac or pulmonary conditions) should undergo an attended in-laboratory polysomnography (Type 1). This allows for full physiological monitoring, including detailed EEG, EOG, EMG, ECG, airflow, respiratory effort, and oximetry, ensuring accurate diagnosis and detection of potential complications related to his comorbidities during sleep. Portable sleep apnea tests (Type 2, 3, or 4) are generally recommended for patients with a high pretest probability of moderate to severe OSA *without* significant comorbidities.",
+    "highYieldPearl": "Rio's Take: For patients with high pretest probability of OSA, always consider comorbidities. Significant medical conditions (e.g., heart failure, COPD, uncontrolled diabetes, neurological disorders, or suspected central sleep apnea) necessitate an in-lab, attended (Type 1) polysomnography for comprehensive evaluation and safety, as limited channel studies may be insufficient or even misleading.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. The presence of significant comorbidities (Type 2 DM, nocturnal arrhythmias) despite high pretest probability for OSA mandates a comprehensive, attended in-lab study (Type 1 PSG) to monitor for other sleep disorders or complications and to ensure accurate data acquisition.",
+      "B": "A Type 2 study is unattended but multi-channel. While it might capture similar physiological data to Type 1, the lack of attendance in a patient with significant comorbidities (especially cardiac, like arrhythmias) makes it less ideal than Type 1, where immediate intervention or closer monitoring for adverse events is possible. The provided flowchart clearly favors In-Lab PSG for comorbidities.",
+      "C": "A Type 3 HSAT is a limited channel study, typically cardiorespiratory only. The provided text explicitly states that HSATs are less suitable for patients with significant cardiac, pulmonary, and neuromuscular disorders due to limitations in interpretation. This patient's comorbidities make Type 3 unsuitable.",
+      "D": "A Type 4 study (home oximetry) measures only 1-2 channels (airflow and/or O2 saturation). It is insufficient for diagnosing OSA, especially in a complex patient with comorbidities, and cannot differentiate between types of apneas or detect other sleep disorders."
+    },
+    "sourceLocation": {
+      "bookName": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+      "chapter": "Smoking related ILDs",
+      "section": null,
+      "pageNumber": 18
+    },
+    "bookId": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+    "chunkId": "52.IIPS OTHER THAN IPF-NSIP-RBILD_OCR_Complete (1)_chunk_512",
+    "generatedAt": 1767060988523,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_smoking_cessation_c9ac39fc",
+    "question": "A 55-year-old male with a history of COPD and daytime fatigue is being evaluated for potential sleep-related breathing disorders using a Type 3 Home Sleep Apnea Test (HSAT). The study primarily measures airflow, respiratory effort, and oximetry. Which of the following conditions would be most challenging to accurately assess and diagnose solely based on the data obtained from this Type 3 HSAT?",
+    "options": {
+      "A": "Severity of Obstructive Sleep Apnea",
+      "B": "Presence of central sleep apneas",
+      "C": "Sleep-related hypoventilation",
+      "D": "Periodic Limb Movement Disorder"
+    },
+    "correctAnswer": "D",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "A Type 3 Home Sleep Apnea Test (HSAT) is a limited channel study primarily focused on cardiorespiratory parameters such as airflow, respiratory effort, and oximetry. Crucially, as per the provided context, Type 3 studies have 'no neurological' channels. The definitive diagnosis of Periodic Limb Movement Disorder (PLMD) requires dedicated limb electromyography (EMG) channels to detect and quantify repetitive limb movements during sleep. Since these neurological (limb EMG) channels are not included in a Type 3 HSAT, PLMD cannot be assessed or diagnosed at all using this type of study, making it the most challenging (impossible) condition to accurately diagnose from the given options. While Type 3 HSATs have limitations in definitively diagnosing sleep hypoventilation (as oxygen saturation alone is insufficient for hypercapnia assessment) and fully characterizing central apneas, they can still provide some suggestive evidence through the available cardiorespiratory channels.",
+    "highYieldPearl": "Rio's Take: Limited channel studies (HSATs) are excellent for uncomplicated OSA but fall short for conditions requiring neurological channels (e.g., narcolepsy, parasomnias, PLMD) or precise ventilation assessment (e.g., sleep hypoventilation, complex sleep apnea). Know what each PSG type *can* and *cannot* reliably diagnose based on its channel composition.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "A Type 3 HSAT (with airflow, effort, oximetry) is generally capable of identifying and quantifying obstructive apneas and hypopneas, thus allowing for assessment of OSA severity.",
+      "B": "A Type 3 HSAT, by monitoring airflow and thoracoabdominal movements, can distinguish between obstructive (effort with no flow) and central (no effort, no flow) events, although it lacks EEG to confirm associated awakenings. So, it can identify the presence of central apneas to some extent.",
+      "C": "The provided text notes that 'continuous recording of oxygen saturation alone can have limitations in the evaluation of hypercapnia... cannot be relied on alone in diagnosing sleep hypoventilation.' While this makes diagnosing sleep hypoventilation challenging without direct PCO2 monitoring, a Type 3 HSAT with airflow and effort channels can provide some indirect evidence. It is a limitation, but not an absolute inability to assess like PLMD.",
+      "D": "Correct. Type 3 HSATs are limited channel studies, specifically noted to have 'no neurological' channels. The diagnosis of Periodic Limb Movement Disorder (PLMD) requires dedicated limb EMG channels. Without these neurological channels, PLMD cannot be assessed or diagnosed at all, making it the most challenging (impossible) condition to diagnose with this study type."
+    },
+    "sourceLocation": {
+      "bookName": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+      "chapter": "Smoking related ILDs",
+      "section": null,
+      "pageNumber": 18
+    },
+    "bookId": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+    "chunkId": "52.IIPS OTHER THAN IPF-NSIP-RBILD_OCR_Complete (1)_chunk_512",
+    "generatedAt": 1767060988523,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_smoking_cessation_ff5f1c79",
+    "question": "During a polysomnography, the following events are observed for a 30-second duration:\n\n*   Airflow signal: Flat line\n*   Thoracoabdominal effort bands: Excursions continue\n*   Oximetry: Gradual decrease from 94% to 88%\n*   EEG: Arousal detected at the end of the event.\n\nThis pattern is most consistent with which of the following sleep-related breathing events?",
+    "options": {
+      "A": "Central Apnea",
+      "B": "Obstructive Apnea",
+      "C": "Hypopnea",
+      "D": "Sleep-related Hypoventilation"
+    },
+    "correctAnswer": "B",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "The interpretation of a polysomnography trace relies on recognizing specific patterns of physiological parameters. In this scenario, the 'flat line' in the airflow signal indicates a cessation of breathing (apnea). The crucial differentiator is the 'continued excursions' in the thoracoabdominal effort bands, signifying ongoing respiratory effort despite the absence of airflow. This indicates an obstruction in the upper airway, preventing air from reaching the lungs. The subsequent oxygen desaturation and arousal detected on EEG are common consequences of such an event. This combination of absent airflow with persistent respiratory effort is the hallmark of an obstructive apnea.",
+    "highYieldPearl": "Rio's Take: The core distinction between central and obstructive apneas lies in respiratory effort. No airflow + no effort = Central Apnea. No airflow + effort = Obstructive Apnea. Remember this simple rule for quick interpretation of PSG events.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Central apnea would show a flat line in airflow AND absent thoracoabdominal effort (no attempt to breathe). This is contrary to the description of continued effort.",
+      "B": "Correct. This pattern perfectly describes an obstructive apnea: cessation of airflow despite continued respiratory effort, leading to desaturation and often an arousal.",
+      "C": "Hypopnea involves a *reduction* in airflow (typically >30% or >50%) with an associated desaturation or arousal, not a complete cessation of airflow (flat line).",
+      "D": "Sleep-related hypoventilation is characterized by a sustained period of inadequate ventilation (often identified by elevated PCO2 or prolonged desaturation below a certain threshold without clear apneas/hypopneas), not a discrete event of absent airflow."
+    },
+    "sourceLocation": {
+      "bookName": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+      "chapter": "Smoking related ILDs",
+      "section": null,
+      "pageNumber": 18
+    },
+    "bookId": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+    "chunkId": "52.IIPS OTHER THAN IPF-NSIP-RBILD_OCR_Complete (1)_chunk_512",
+    "generatedAt": 1767060988523,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_smoking_cessation_942f3a62",
+    "question": "A 58-year-old obese male presents with a 9-month history of excessive daytime sleepiness, loud snoring, and witnessed apneas. His STOP-BANG score is 7. He also reports frequent, involuntary leg jerks during sleep that sometimes wake him up, and occasional vivid, disturbing nightmares that he acts out. His past medical history includes well-controlled hypertension and type 2 diabetes mellitus.",
+    "options": {
+      "A": "Type 3 Home Sleep Apnea Test (HSAT)",
+      "B": "Type 4 Home Sleep Apnea Test (HSAT)",
+      "C": "Attended Polysomnography (Type 1 PSG) with leg EMG",
+      "D": "Multiple Sleep Latency Test (MSLT) after a screening HSAT"
+    },
+    "correctAnswer": "C",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "This patient presents with a high pre-test probability of Obstructive Sleep Apnea (OSA) based on his STOP-BANG score and symptoms. However, he also reports symptoms suggestive of other comorbid sleep disorders: frequent leg jerks during sleep point towards Periodic Limb Movement Disorder (PLMD) or Restless Legs Syndrome (RLS), and vivid nightmares with acting out suggest a parasomnia, possibly REM Sleep Behavior Disorder (RBD). The provided context explicitly states that if a patient has 'signs or symptoms of comorbid medical disorders? Or comorbid sleep disorders? -> Yes -> In Lab PSG'. Type 1 (Attended) Polysomnography is the gold standard that includes neurological channels (EEG, EOG, EMG) necessary to diagnose and characterize these comorbid sleep disorders (sleep architecture, arousals, PLMD/RBD). Specifically, leg EMG is critical for diagnosing PLMD/RLS and chin EMG for RBD. HSATs (Type 2, 3, or 4) lack these neurological channels and therefore cannot adequately assess these conditions. MSLT is indicated for evaluating excessive daytime sleepiness for narcolepsy or idiopathic hypersomnia, but only after a full PSG has ruled out other causes of sleepiness and established adequate sleep duration; it is not an initial diagnostic test in this complex scenario.",
+    "highYieldPearl": "Rio's Take: Always consider comorbid sleep disorders in patients presenting with OSA symptoms. If symptoms suggest other sleep disorders (e.g., RLS, PLMD, narcolepsy, parasomnias), an attended in-lab PSG (Type 1) is preferred over HSAT, even with high pre-test probability for OSA, to ensure comprehensive evaluation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is a trap for focusing solely on the high pre-test probability of OSA (STOP-BANG score 7). While Type 3 HSAT is used for OSA diagnosis, it lacks the neurological channels to diagnose the comorbid sleep disorders (PLMD/parasomnia) in this patient.",
+      "B": "This is a trap similar to A, but Type 4 HSAT is even more limited and would be insufficient for diagnosing OSA, let alone comorbid sleep disorders.",
+      "C": "Correct. The presence of symptoms suggestive of PLMD/RLS ('leg jerks') and parasomnia ('vivid nightmares acted out') necessitates an attended (Type 1) PSG which includes EEG, EOG, and EMG (including leg EMG) for comprehensive evaluation of sleep architecture and non-respiratory sleep disorders.",
+      "D": "MSLT is typically performed *after* a PSG to evaluate for narcolepsy or idiopathic hypersomnia, provided other causes of sleepiness (like OSA) have been ruled out or treated, and adequate sleep duration has been confirmed. It's not an initial diagnostic test in this scenario."
+    },
+    "sourceLocation": {
+      "bookName": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+      "chapter": "Smoking related ILDs",
+      "section": null,
+      "pageNumber": 18
+    },
+    "bookId": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+    "chunkId": "52.IIPS OTHER THAN IPF-NSIP-RBILD_OCR_Complete (1)_chunk_512",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_smoking_cessation_d96cbbb5",
+    "question": "A 68-year-old male with a history of severe chronic obstructive pulmonary disease (COPD, FEV1 30% predicted), morbid obesity (BMI 45 kg/m²), and pulmonary hypertension presents with increasing daytime somnolence, morning headaches, and ankle edema. His wife reports periods of very shallow breathing during his sleep. The clinical suspicion is for Obstructive Sleep Apnea (OSA) with concomitant sleep-related hypoventilation. Due to his advanced lung disease and significant mobility limitations, an unattended Type 3 Home Sleep Apnea Test (HSAT) is being considered as the initial diagnostic study.",
+    "options": {
+      "A": "Presence and severity of obstructive apneas.",
+      "B": "Overall oxygen desaturation index (ODI) and severity of hypoxemia.",
+      "C": "Differentiation between central and obstructive respiratory events.",
+      "D": "Accurate assessment of significant sleep-related hypoventilation."
+    },
+    "correctAnswer": "D",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "This patient has severe COPD and morbid obesity, placing him at high risk for significant nocturnal hypoventilation in addition to OSA. While a Type 3 HSAT typically includes channels for airflow, respiratory effort (thoracoabdominal movements), and oximetry, it generally lacks direct measures of carbon dioxide (e.g., transcutaneous PCO2) or a sufficient number of EEG channels to precisely stage sleep, which can influence the interpretation of hypoventilation. The provided context highlights: 'continuous recording of oxygen saturation alone can have limitations in the evaluation of hypercapnia. Oxygen desaturation may be associated with hypoventilation but, because oxygen desaturation can also be seen with obstructive and central respiratory events, it cannot be relied on alone in diagnosing sleep hypoventilation.' In a patient with severe underlying lung disease like this, oxygen desaturation can be multifactorial. Diagnosing significant sleep-related hypoventilation often requires direct PCO2 monitoring or a full attended PSG (Type 1) with specific attention to sustained reductions in ventilation, which a limited channel Type 3 HSAT is ill-equipped to definitively assess.",
+    "highYieldPearl": "Rio's Take: For patients with significant underlying respiratory disorders (like severe COPD, neuromuscular diseases) or suspected sleep hypoventilation, limited channel HSATs are often insufficient. Full in-lab PSG with PCO2 monitoring is usually necessary for accurate assessment of nocturnal hypoventilation, as oximetry alone is not reliable for this purpose.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "A Type 3 HSAT, with airflow and effort belts, can effectively identify and quantify obstructive apneas.",
+      "B": "Oximetry is a standard channel in Type 3 HSAT, allowing for calculation of the oxygen desaturation index and assessment of hypoxemia.",
+      "C": "With both airflow and thoracoabdominal effort channels, a Type 3 HSAT can generally differentiate between central (absence of effort) and obstructive (presence of effort) respiratory events.",
+      "D": "Correct. While desaturation may occur with hypoventilation, oximetry alone is insufficient to definitively diagnose sleep-related hypoventilation, especially in patients with severe underlying lung disease. Type 3 HSAT typically lacks PCO2 monitoring and full sleep staging, which are crucial for this diagnosis, as explicitly mentioned in the context for its limitations."
+    },
+    "sourceLocation": {
+      "bookName": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+      "chapter": "Smoking related ILDs",
+      "section": null,
+      "pageNumber": 18
+    },
+    "bookId": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+    "chunkId": "52.IIPS OTHER THAN IPF-NSIP-RBILD_OCR_Complete (1)_chunk_512",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_smoking_cessation_80021f40",
+    "question": "A 42-year-old female presents with a 6-month history of difficulty falling asleep and maintaining sleep, waking up frequently throughout the night. She denies snoring or witnessed apneas, and her Epworth Sleepiness Scale (ESS) is 6. Her past medical history includes well-controlled asthma, for which she uses inhaled corticosteroids daily. She insists on a sleep study, believing her asthma is worse at night due to an undiagnosed sleep apnea, despite her pulmonologist's reassurance.",
+    "options": {
+      "A": "A Type 3 Home Sleep Apnea Test (HSAT) is the most appropriate initial diagnostic test given her low ESS and absence of typical OSA symptoms.",
+      "B": "Polysomnography is not routinely indicated for her primary complaint of insomnia, especially in the absence of other specific sleep disorder symptoms.",
+      "C": "Given her history of asthma, an attended Type 1 Polysomnography is strongly indicated to assess for occult nocturnal hypoxemia and potential for sleep apnea.",
+      "D": "A Type 4 HSAT focusing solely on oximetry would be sufficient to rule out a significant sleep-related breathing disorder in this case."
+    },
+    "correctAnswer": "B",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "The patient's primary complaint is chronic insomnia, with no reported symptoms of Obstructive Sleep Apnea (OSA) such as snoring or witnessed apneas, and a low Epworth Sleepiness Scale (ESS) score (6, indicating no excessive daytime sleepiness). While 'Insomnia' is listed as an indication for Polysomnography (PSG), in the absence of other specific sleep disorder symptoms (e.g., features of SRBD, RLS, narcolepsy, parasomnias), PSG is generally not considered a routine initial diagnostic step for primary insomnia. Behavioral therapies (e.g., Cognitive Behavioral Therapy for Insomnia, CBT-I) are typically first-line. The context also explicitly states 'Asthma or COPD 'Not routinely Indicated'- Think beyond PSG'. Therefore, her history of well-controlled asthma and her belief about its relation to sleep apnea do not, in themselves, make PSG strongly indicated or routinely appropriate for a primary diagnosis. Options A and D are incorrect as HSATs are primarily for high pre-test probability OSA and are unsuitable for diagnosing insomnia or for comprehensive assessment of sleep disorders in this low-probability scenario. Option C directly contradicts the guideline that PSG is 'not routinely indicated' for asthma/COPD unless there is a strong suspicion for an SRBD.",
+    "highYieldPearl": "Rio's Take: While insomnia is an indication for PSG, it's not a 'routine' initial step for all insomnia patients, particularly when there are no symptoms suggestive of an underlying sleep disorder (e.g., SRBD, RLS, narcolepsy) that PSG is designed to diagnose. Furthermore, PSG is not routinely indicated for asthma/COPD patients unless there's a strong clinical suspicion of a sleep-related breathing disorder.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is a trap assuming any sleep complaint warrants some form of HSAT. Given her low ESS and absence of typical OSA symptoms, the pre-test probability for moderate-severe OSA is low, making HSAT less appropriate. Moreover, HSAT cannot diagnose insomnia.",
+      "B": "Correct. Although 'Insomnia' is listed as an indication for PSG, it is not 'routinely' indicated as an initial step for isolated chronic insomnia without other specific sleep disorder symptoms (like SRBD, PLMD, narcolepsy, etc.) that PSG is better equipped to diagnose. The patient's belief about asthma doesn't override the 'not routinely indicated' status for asthma itself.",
+      "C": "This is a trap. The context explicitly states that PSG is 'not routinely indicated' for asthma or COPD. A well-controlled asthma history alone does not 'strongly indicate' a full PSG, especially without other SRBD symptoms.",
+      "D": "Type 4 HSAT is very limited (1-2 channels, typically oximetry). It is insufficient to rule out significant sleep-related breathing disorders comprehensively or to assess insomnia. Oximetry alone cannot differentiate between causes of desaturation or diagnose apnea/hypopnea accurately."
+    },
+    "sourceLocation": {
+      "bookName": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+      "chapter": "Smoking related ILDs",
+      "section": null,
+      "pageNumber": 18
+    },
+    "bookId": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+    "chunkId": "52.IIPS OTHER THAN IPF-NSIP-RBILD_OCR_Complete (1)_chunk_512",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_smoking_cessation_5992f55d",
+    "question": "A pulmonologist is reviewing different diagnostic tools for sleep disorders. Which of the following statements accurately describes a Level 3 Polysomnography (PSG)?",
+    "options": {
+      "A": "It is a fully attended study conducted in a sleep laboratory, monitoring 7 or more physiological channels.",
+      "B": "It involves an unattended study utilizing 4 to 7 channels, primarily focusing on cardiorespiratory parameters.",
+      "C": "It is an unattended study monitoring only 1-2 channels, typically airflow and oxygen saturation.",
+      "D": "It is a fully unattended study that records 7 or more channels, similar to an in-lab study but without technician supervision."
+    },
+    "correctAnswer": "B",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "Level 3 Polysomnography (often referred to as a Home Sleep Apnea Test or HSAT) is characterized by being an unattended study, meaning it is performed outside a sleep laboratory without the continuous presence of a technician. It typically records a minimum of 4 and up to 7 channels, with a primary focus on cardiorespiratory parameters such as airflow, respiratory effort, and oximetry, but generally excludes neurological channels like EEG, EOG, and EMG.",
+    "highYieldPearl": "Rio's Take: Remember the key differentiators for PSG levels: number of channels (≥7 for Level 1/2, 4-7 for Level 3, 1-2 for Level 4) and attendance (Level 1 is attended, others are unattended).",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This describes a Level 1 PSG (fully attended, ≥7 channels, in-lab). It's a plausible option as it's a type of PSG.",
+      "B": "This is the correct description of a Level 3 PSG.",
+      "C": "This describes a Level 4 PSG (unattended, 1-2 channels). It's a plausible option as it's a type of PSG.",
+      "D": "This describes a Level 2 PSG (fully unattended, ≥7 channels). It's a plausible option as it's a type of PSG."
+    },
+    "sourceLocation": {
+      "bookName": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+      "chapter": "Smoking related ILDs",
+      "section": null,
+      "pageNumber": 18
+    },
+    "bookId": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+    "chunkId": "52.IIPS OTHER THAN IPF-NSIP-RBILD_OCR_Complete (1)_chunk_512",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_smoking_cessation_73c317cf",
+    "question": "A 55-year-old patient is undergoing a Type 1 Polysomnography for the evaluation of a complex sleep disorder. Which of the following parameters is *not* considered a standard, continuously monitored channel in a comprehensive Type 1 or Type 2 PSG?",
+    "options": {
+      "A": "Electrooculography (EOG)",
+      "B": "Electromyography (EMG)",
+      "C": "Core body temperature",
+      "D": "Electrocardiography (ECG)"
+    },
+    "correctAnswer": "C",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "A comprehensive Type 1 or Type 2 polysomnography typically monitors a minimum of 7 physiological channels. These include neurological channels such as Electroencephalography (EEG) for sleep staging, Electrooculography (EOG) for detecting eye movements (especially during REM sleep), and Electromyography (EMG) for muscle tone (e.g., chin EMG for sleep staging, limb EMG for movement disorders). Cardiorespiratory channels include Electrocardiography (ECG) for heart rate and rhythm, thoracoabdominal movement belts for respiratory effort, nasal cannula/thermistor for airflow, and pulse oximetry for oxygen saturation. While body temperature can influence sleep, continuous core body temperature monitoring is not a standard channel in routine diagnostic PSG.",
+    "highYieldPearl": "Rio's Take: Basic PSG channels cover neurological (EEG, EOG, EMG) and cardiorespiratory (ECG, respiratory effort, airflow, O2 saturation). Think about what's *essential* for sleep staging and breathing event detection.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "EOG is a standard neurological channel essential for identifying REM sleep. It's a plausible option.",
+      "B": "EMG (typically chin EMG) is a standard neurological channel used for sleep staging and detecting movements. It's a plausible option.",
+      "C": "Core body temperature is not a standard, continuously monitored channel in routine diagnostic PSG, although temperature is relevant to sleep physiology. This is the correct answer.",
+      "D": "ECG is a standard cardiorespiratory channel, monitoring heart rate and rhythm during sleep. It's a plausible option."
+    },
+    "sourceLocation": {
+      "bookName": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+      "chapter": "Smoking related ILDs",
+      "section": null,
+      "pageNumber": 18
+    },
+    "bookId": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+    "chunkId": "52.IIPS OTHER THAN IPF-NSIP-RBILD_OCR_Complete (1)_chunk_512",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_smoking_cessation_59c51630",
+    "question": "A 48-year-old male presents with excessive daytime sleepiness, loud snoring, and witnessed apneas by his spouse. He is obese (BMI 32 kg/m²), has well-controlled hypertension, and a STOP-Bang score of 7. He denies any history of heart failure, chronic obstructive pulmonary disease, or neurological conditions. Which is the most appropriate initial diagnostic study for this patient?",
+    "options": {
+      "A": "Home Sleep Apnea Test (HSAT) - Level 3",
+      "B": "In-laboratory Polysomnography (Level 1)",
+      "C": "Sleep diary and Actigraphy",
+      "D": "Arterial Blood Gas analysis"
+    },
+    "correctAnswer": "A",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "According to current guidelines, for patients with a high pretest probability of moderate to severe Obstructive Sleep Apnea (OSA) (as indicated by a high STOP-Bang score of 7 in this case) and without significant comorbid medical disorders (such as severe cardiac, pulmonary, or neuromuscular conditions, or suspicion of other complex sleep disorders), a Home Sleep Apnea Test (HSAT), typically a Level 3 study, is the most appropriate initial diagnostic study. In-laboratory Polysomnography (Level 1) is generally reserved for cases with low pretest probability, inconclusive HSAT results, or the presence of significant comorbidities or other complex sleep disorders.",
+    "highYieldPearl": "Rio's Take: High pre-test probability of OSA + no significant comorbidities = HSAT first. Complex comorbidities or suspicion of non-OSA sleep disorders = In-lab PSG.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct choice. The patient has a high pretest probability of OSA and no complicating comorbidities, making HSAT the recommended initial step.",
+      "B": "While In-laboratory PSG is the gold standard, it is not the *most appropriate initial* study for this patient given the clear indication for HSAT. It would be indicated if HSAT was inconclusive or if there were comorbidities.",
+      "C": "Sleep diary and actigraphy are useful for assessing circadian rhythm disorders or insomnia, but they are not primary diagnostic tools for Obstructive Sleep Apnea.",
+      "D": "Arterial Blood Gas (ABG) analysis might be considered in cases of suspected chronic hypoventilation, but it is not the initial diagnostic test for OSA."
+    },
+    "sourceLocation": {
+      "bookName": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+      "chapter": "Smoking related ILDs",
+      "section": null,
+      "pageNumber": 18
+    },
+    "bookId": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+    "chunkId": "52.IIPS OTHER THAN IPF-NSIP-RBILD_OCR_Complete (1)_chunk_512",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_smoking_cessation_f432173a",
+    "question": "A 55-year-old obese male presents with a chief complaint of loud snoring, witnessed apneas, and significant daytime sleepiness (Epworth Sleepiness Scale score 15). He has a history of poorly controlled hypertension, Type 2 Diabetes Mellitus, and recently developed paroxysmal atrial fibrillation. His STOP-Bang score is 6, indicating a high risk for obstructive sleep apnea. He expresses a strong preference for a home sleep study due to work commitments. Which of the following is the most appropriate initial diagnostic sleep study for this patient?",
+    "options": {
+      "A": "Level 1 Polysomnography (attended in-lab PSG)",
+      "B": "Level 2 Polysomnography (unattended home PSG with full channels)",
+      "C": "Level 3 Polysomnography (unattended home PSG with limited cardiorespiratory channels)",
+      "D": "Level 4 Polysomnography (unattended home PSG with oxygen saturation and airflow)"
+    },
+    "correctAnswer": "A",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "The patient presents with a high pretest probability of moderate to severe obstructive sleep apnea (OSA) based on his symptoms and high STOP-Bang score. However, he also has significant and poorly controlled medical comorbidities, including hypertension, Type 2 Diabetes Mellitus, and paroxysmal atrial fibrillation. According to standard guidelines for sleep study selection, patients with a high pretest probability of OSA who also have signs or symptoms of comorbid medical disorders (especially cardiovascular or metabolic conditions) or other sleep disorders, should undergo an attended in-lab polysomnography (Level 1 PSG). This approach allows for comprehensive monitoring of neurological parameters (EEG, EOG, EMG) in addition to cardiorespiratory parameters, which is crucial for identifying complex sleep-related breathing disorders, co-existing sleep disorders, or accurately assessing the impact of sleep on his medical comorbidities, which might be missed by limited channel or unattended home studies.",
+    "highYieldPearl": "Rio's Take: While Home Sleep Apnea Testing (HSAT) is suitable for uncomplicated, high pretest probability OSA, the presence of significant comorbidities (e.g., severe cardiopulmonary disease, neurological disorders, complex sleep disorders) mandates an attended in-lab PSG (Level 1) for comprehensive and accurate diagnosis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. The presence of multiple, poorly controlled comorbidities necessitates the comprehensive monitoring of an attended in-lab Level 1 PSG, even with high OSA suspicion.",
+      "B": "Incorrect. While Level 2 is a full-channel study, it is unattended. For complex medical comorbidities, the presence of a technologist in an attended Level 1 PSG offers superior monitoring, intervention capability, and artifact management, which is important for accurate diagnosis in this patient.",
+      "C": "Incorrect. Level 3 studies are limited channel and unattended. They are insufficient for patients with significant comorbidities where complex sleep-related breathing disorders or other sleep disorders need to be ruled out.",
+      "D": "Incorrect. Level 4 studies are highly limited (1-2 channels) and provide very basic information, which is inadequate for a patient with multiple medical comorbidities and suspected complex sleep issues."
+    },
+    "sourceLocation": {
+      "bookName": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+      "chapter": "Smoking related ILDs",
+      "section": null,
+      "pageNumber": 18
+    },
+    "bookId": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+    "chunkId": "52.IIPS OTHER THAN IPF-NSIP-RBILD_OCR_Complete (1)_chunk_512",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_smoking_cessation_c37c5ba2",
+    "question": "A 48-year-old female with a history of lupus and chronic fatigue reports persistent excessive daytime sleepiness despite adequate sleep duration, frequent nocturnal awakenings, and occasional vivid dreams associated with complex motor behaviors. A Type 3 home sleep apnea test was performed and showed an AHI of 8 events/hour, predominantly obstructive, with no significant oxygen desaturations. Her symptoms persist unchanged. Which of the following is the most likely reason why the Type 3 HSAT might be inadequate for this patient's comprehensive evaluation?",
+    "options": {
+      "A": "Type 3 studies often underestimate the AHI in patients with underlying systemic inflammatory conditions like lupus.",
+      "B": "The study lacks neurological channels essential for diagnosing parasomnias and differentiating types of sleepiness.",
+      "C": "Her underlying lupus makes the interpretation of cardiorespiratory parameters unreliable, leading to inaccurate results.",
+      "D": "Type 3 studies cannot reliably detect central sleep apneas, which are often associated with chronic medical conditions."
+    },
+    "correctAnswer": "B",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "The patient's symptoms (persistent excessive daytime sleepiness despite adequate sleep, frequent nocturnal awakenings, vivid dreams with complex motor behaviors) are highly suggestive of sleep disorders beyond simple obstructive sleep apnea, such as narcolepsy, idiopathic hypersomnia, or REM sleep behavior disorder (a type of parasomnia). Type 3 home sleep apnea tests are limited channel studies that primarily monitor cardiorespiratory parameters (airflow, respiratory effort, oximetry, heart rate) but crucially lack neurological channels (Electroencephalography (EEG) for sleep staging, Electrooculography (EOG) for REM sleep, and Electromyography (EMG) for muscle activity). These neurological channels are indispensable for diagnosing central sleep disorders, differentiating types of sleepiness, identifying parasomnias, and ruling out other non-respiratory sleep disorders that could be causing her persistent symptoms. Therefore, the lack of these channels makes the Type 3 HSAT inadequate for a comprehensive evaluation of her complex symptoms.",
+    "highYieldPearl": "Rio's Take: When a patient presents with symptoms beyond typical OSA (e.g., complex sleep behaviors, refractory daytime sleepiness, suspected narcolepsy), a comprehensive Level 1 PSG with full neurological monitoring is essential, as limited channel home studies will miss these diagnoses.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. While HSATs can sometimes underestimate AHI, the primary concern here is not just OSA severity, but the presence of other sleep disorders that require specific neurological monitoring.",
+      "B": "Correct. The patient's symptoms (vivid dreams with complex motor behaviors suggestive of parasomnias, and unexplained EDS) strongly point to the need for EEG, EOG, and EMG, which are absent in Type 3 studies.",
+      "C": "Incorrect. Lupus itself does not inherently make cardiorespiratory parameters unreliable on a PSG. While lupus can cause various comorbidities, this statement is a weak and unlikely primary reason for the inadequacy of the study in this specific context.",
+      "D": "Revised: Incorrect. Type 3 studies, which include respiratory effort channels, *can* detect central apneas (cessation of airflow with absent respiratory effort). However, the critical limitation for this patient is the inability to diagnose other sleep disorders like parasomnias or differentiate types of sleepiness, which require neurological channels. While comorbidities like lupus can be associated with central sleep apnea, the primary issue with a Type 3 study is its inability to stage sleep or detect non-respiratory sleep events."
+    },
+    "sourceLocation": {
+      "bookName": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+      "chapter": "Smoking related ILDs",
+      "section": null,
+      "pageNumber": 18
+    },
+    "bookId": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+    "chunkId": "52.IIPS OTHER THAN IPF-NSIP-RBILD_OCR_Complete (1)_chunk_512",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_smoking_cessation_e2fa14fa",
+    "question": "A 62-year-old male undergoes a Level 1 polysomnography for suspected sleep-related breathing disorder. During the study, the technologist observes repetitive episodes characterized by a sequence of breaths lasting for at least 10 seconds, showing increasing thoracoabdominal effort and a flattening of the inspiratory airflow limb, which consistently culminates in an arousal from sleep. These events do not involve a significant reduction in airflow (i.e., less than 30% from baseline) and are not always associated with a ≥3% oxygen desaturation.",
+    "options": {
+      "A": "Obstructive Apnea",
+      "B": "Central Apnea",
+      "C": "Hypopnea",
+      "D": "Respiratory Effort Related Arousal (RERA)"
+    },
+    "correctAnswer": "D",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "The described event precisely matches the definition of a Respiratory Effort Related Arousal (RERA). RERAs are characterized by a sequence of breaths lasting for at least 10 seconds, showing increasing inspiratory effort or flattening of the inspiratory airflow contour (indicating increased upper airway resistance/flow limitation), which leads to an arousal from sleep. Crucially, these events do not meet the criteria for an apnea (≥90% flow reduction) or a hypopnea (≥30-50% flow reduction AND ≥3-4% oxygen desaturation OR an arousal). The key differentiators in this vignette are the 'increasing thoracoabdominal effort,' 'flattening of the inspiratory airflow limb,' the consistent 'arousal from sleep,' and the explicit statement that the events 'do not involve a significant reduction in airflow' and are 'not always associated with a ≥3% oxygen desaturation,' distinguishing them from apneas and hypopneas.",
+    "highYieldPearl": "Rio's Take: RERAs are 'sub-threshold' breathing events where increased effort and flow limitation lead to arousal without meeting apnea or hypopnea criteria. They contribute to the Respiratory Disturbance Index (RDI) and are important for evaluating treatment efficacy and unexplained sleepiness.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. An obstructive apnea involves a complete cessation (≥90% reduction) of airflow for at least 10 seconds, despite ongoing respiratory effort. The vignette states 'do not involve a significant reduction in airflow.'",
+      "B": "Incorrect. A central apnea involves a complete cessation (≥90% reduction) of airflow for at least 10 seconds, due to absent respiratory effort. The vignette describes 'increasing thoracoabdominal effort.'",
+      "C": "Incorrect. A hypopnea requires a discernible reduction in airflow (typically ≥30% or ≥50% from baseline, depending on scoring criteria) for at least 10 seconds, associated with either a ≥3% or ≥4% oxygen desaturation, OR an arousal. The vignette explicitly states 'less than 30% from baseline' airflow reduction and 'not always associated with a ≥3% oxygen desaturation,' differentiating it from a hypopnea.",
+      "D": "Correct. The combination of increased effort, flow limitation ('flattening of the inspiratory airflow limb'), and arousal without meeting the full criteria for apnea or hypopnea precisely defines a RERA."
+    },
+    "sourceLocation": {
+      "bookName": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+      "chapter": "Smoking related ILDs",
+      "section": null,
+      "pageNumber": 18
+    },
+    "bookId": "52.IIPS OTHER THAN IPF-NSIP-RBILD (1)",
+    "chunkId": "52.IIPS OTHER THAN IPF-NSIP-RBILD_OCR_Complete (1)_chunk_512",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "Which of the following is considered a first-line pharmacotherapy for smoking cessation?",
+    "options": {
+      "A": "Varenicline",
+      "B": "Nortriptyline",
+      "C": "Clonidine",
+      "D": "Gabapentin"
+    },
+    "correctAnswer": "A",
+    "topic": "smoking_cessation",
+    "deepDiveExplanation": "Varenicline is a partial agonist at the alpha4beta2 nicotinic acetylcholine receptor, reducing withdrawal symptoms and blocking nicotine's reinforcing effects. Bupropion SR and Nicotine Replacement Therapy (NRT) are also considered first-line pharmacotherapies.",
+    "highYieldPearl": "Varenicline generally demonstrates the highest efficacy among single pharmacotherapies for smoking cessation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Nortriptyline and Clonidine are considered second-line agents. Gabapentin has no established role in smoking cessation.",
+    "isOneLiner": true,
+    "id": "one_liner_smoking_cessation_wcdra7j2"
+  },
+  {
+    "question": "Bupropion SR aids smoking cessation primarily by which mechanism?",
+    "options": {
+      "A": "Nicotinic receptor partial agonism",
+      "B": "Norepinephrine-dopamine reuptake inhibition",
+      "C": "GABAergic modulation",
+      "D": "Serotonin reuptake inhibition"
+    },
+    "correctAnswer": "B",
+    "topic": "smoking_cessation",
+    "deepDiveExplanation": "Bupropion is a norepinephrine-dopamine reuptake inhibitor (NDRI). Its antidepressant and smoking cessation effects are thought to be mediated by these actions, which help to reduce cravings and withdrawal symptoms.",
+    "highYieldPearl": "Bupropion is also used as an antidepressant and is contraindicated in seizure disorders.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Option A describes the mechanism of Varenicline. Options C and D are not the primary mechanisms of action for Bupropion SR in smoking cessation.",
+    "isOneLiner": true,
+    "id": "one_liner_smoking_cessation_fx8h6mdk"
+  },
+  {
+    "question": "Which condition is a contraindication for Bupropion SR in smoking cessation?",
+    "options": {
+      "A": "COPD",
+      "B": "Stable angina",
+      "C": "History of seizures",
+      "D": "Mild hypertension"
+    },
+    "correctAnswer": "C",
+    "topic": "smoking_cessation",
+    "deepDiveExplanation": "Bupropion lowers the seizure threshold. Therefore, a history of seizures, eating disorders (e.g., bulimia or anorexia nervosa due to electrolyte imbalances increasing seizure risk), or abrupt alcohol/sedative withdrawal are absolute contraindications.",
+    "highYieldPearl": "The risk of seizures with Bupropion is dose-dependent.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "COPD, stable angina, and mild hypertension are generally not contraindications for Bupropion SR; in fact, smoking cessation benefits these conditions.",
+    "isOneLiner": true,
+    "id": "one_liner_smoking_cessation_iyj6w413"
+  },
+  {
+    "question": "Which of the following conditions is NOT an absolute contraindication to Nicotine Replacement Therapy (NRT)?",
+    "options": {
+      "A": "Recent myocardial infarction (<2 weeks)",
+      "B": "Unstable angina",
+      "C": "Serious arrhythmias",
+      "D": "Controlled hypertension"
+    },
+    "correctAnswer": "D",
+    "topic": "smoking_cessation",
+    "deepDiveExplanation": "NRT is generally safer than continued smoking. While caution is advised, controlled hypertension is not an absolute contraindication. Conditions like recent MI, unstable angina, and serious arrhythmias are relative contraindications where NRT should be used with caution and under medical supervision, but the benefits of cessation generally outweigh the risks of NRT.",
+    "highYieldPearl": "The risks associated with continued smoking far outweigh the risks of NRT in nearly all cardiovascular conditions.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Options A, B, and C represent conditions where NRT use requires careful consideration and medical supervision, often considered relative contraindications due to increased cardiac risk, though the benefit of cessation often outweighs the NRT risk. Controlled hypertension is generally considered safe for NRT.",
+    "isOneLiner": true,
+    "id": "one_liner_smoking_cessation_cuftan0c"
+  },
+  {
+    "question": "What is the typical minimum recommended duration for Varenicline or Bupropion SR treatment in smoking cessation?",
+    "options": {
+      "A": "2 weeks",
+      "B": "4 weeks",
+      "C": "8 weeks",
+      "D": "12 weeks"
+    },
+    "correctAnswer": "D",
+    "topic": "smoking_cessation",
+    "deepDiveExplanation": "The standard recommended duration for both Varenicline and Bupropion SR is 12 weeks (3 months). Some guidelines suggest extending treatment for up to 6 months in individuals who respond well and wish to further reduce relapse risk.",
+    "highYieldPearl": "Adherence to the full recommended course of pharmacotherapy significantly improves long-term smoking cessation success rates.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Shorter durations (2, 4, or 8 weeks) are generally insufficient for optimal efficacy and sustained abstinence from smoking.",
+    "isOneLiner": true,
+    "id": "one_liner_smoking_cessation_mm4sc7mr"
+  },
+  {
+    "question": "Which of the following is considered a first-line pharmacotherapy for smoking cessation?",
+    "options": {
+      "A": "Varenicline",
+      "B": "Nortriptyline",
+      "C": "Clonidine",
+      "D": "Gabapentin"
+    },
+    "correctAnswer": "A",
+    "topic": "smoking_cessation",
+    "deepDiveExplanation": "Varenicline is a partial agonist at the alpha4beta2 nicotinic acetylcholine receptor, reducing withdrawal symptoms and blocking nicotine's reinforcing effects. Bupropion SR and Nicotine Replacement Therapy (NRT) are also considered first-line pharmacotherapies.",
+    "highYieldPearl": "Varenicline generally demonstrates the highest efficacy among single pharmacotherapies for smoking cessation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Nortriptyline and Clonidine are considered second-line agents. Gabapentin has no established role in smoking cessation.",
+    "isOneLiner": true,
+    "id": "one_liner_smoking_cessation_dcdcyk53"
+  },
+  {
+    "question": "Bupropion SR aids smoking cessation primarily by which mechanism?",
+    "options": {
+      "A": "Nicotinic receptor partial agonism",
+      "B": "Norepinephrine-dopamine reuptake inhibition",
+      "C": "GABAergic modulation",
+      "D": "Serotonin reuptake inhibition"
+    },
+    "correctAnswer": "B",
+    "topic": "smoking_cessation",
+    "deepDiveExplanation": "Bupropion is a norepinephrine-dopamine reuptake inhibitor (NDRI). Its antidepressant and smoking cessation effects are thought to be mediated by these actions, which help to reduce cravings and withdrawal symptoms.",
+    "highYieldPearl": "Bupropion is also used as an antidepressant and is contraindicated in seizure disorders.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Option A describes the mechanism of Varenicline. Options C and D are not the primary mechanisms of action for Bupropion SR in smoking cessation.",
+    "isOneLiner": true,
+    "id": "one_liner_smoking_cessation_96u2ys1q"
+  },
+  {
+    "question": "Which condition is a contraindication for Bupropion SR in smoking cessation?",
+    "options": {
+      "A": "COPD",
+      "B": "Stable angina",
+      "C": "History of seizures",
+      "D": "Mild hypertension"
+    },
+    "correctAnswer": "C",
+    "topic": "smoking_cessation",
+    "deepDiveExplanation": "Bupropion lowers the seizure threshold. Therefore, a history of seizures, eating disorders (e.g., bulimia or anorexia nervosa due to electrolyte imbalances increasing seizure risk), or abrupt alcohol/sedative withdrawal are absolute contraindications.",
+    "highYieldPearl": "The risk of seizures with Bupropion is dose-dependent.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "COPD, stable angina, and mild hypertension are generally not contraindications for Bupropion SR; in fact, smoking cessation benefits these conditions.",
+    "isOneLiner": true,
+    "id": "one_liner_smoking_cessation_y7ihq1ug"
+  },
+  {
+    "question": "Which of the following conditions is NOT an absolute contraindication to Nicotine Replacement Therapy (NRT)?",
+    "options": {
+      "A": "Recent myocardial infarction (<2 weeks)",
+      "B": "Unstable angina",
+      "C": "Serious arrhythmias",
+      "D": "Controlled hypertension"
+    },
+    "correctAnswer": "D",
+    "topic": "smoking_cessation",
+    "deepDiveExplanation": "NRT is generally safer than continued smoking. While caution is advised, controlled hypertension is not an absolute contraindication. Conditions like recent MI, unstable angina, and serious arrhythmias are relative contraindications where NRT should be used with caution and under medical supervision, but the benefits of cessation generally outweigh the risks of NRT.",
+    "highYieldPearl": "The risks associated with continued smoking far outweigh the risks of NRT in nearly all cardiovascular conditions.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Options A, B, and C represent conditions where NRT use requires careful consideration and medical supervision, often considered relative contraindications due to increased cardiac risk, though the benefit of cessation often outweighs the NRT risk. Controlled hypertension is generally considered safe for NRT.",
+    "isOneLiner": true,
+    "id": "one_liner_smoking_cessation_xjd5ig3r"
+  },
+  {
+    "question": "What is the typical minimum recommended duration for Varenicline or Bupropion SR treatment in smoking cessation?",
+    "options": {
+      "A": "2 weeks",
+      "B": "4 weeks",
+      "C": "8 weeks",
+      "D": "12 weeks"
+    },
+    "correctAnswer": "D",
+    "topic": "smoking_cessation",
+    "deepDiveExplanation": "The standard recommended duration for both Varenicline and Bupropion SR is 12 weeks (3 months). Some guidelines suggest extending treatment for up to 6 months in individuals who respond well and wish to further reduce relapse risk.",
+    "highYieldPearl": "Adherence to the full recommended course of pharmacotherapy significantly improves long-term smoking cessation success rates.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Shorter durations (2, 4, or 8 weeks) are generally insufficient for optimal efficacy and sustained abstinence from smoking.",
+    "isOneLiner": true,
+    "id": "one_liner_smoking_cessation_hhgxsh6h"
+  }
+]

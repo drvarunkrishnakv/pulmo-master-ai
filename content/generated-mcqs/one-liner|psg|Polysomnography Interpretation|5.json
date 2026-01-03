@@ -1,0 +1,92 @@
+[
+  {
+    "question": "A respiratory event is classified as apnea if airflow reduction is >90% for at least how many seconds?",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "15",
+      "D": "20"
+    },
+    "correctAnswer": "B",
+    "topic": "psg",
+    "deepDiveExplanation": "According to the American Academy of Sleep Medicine (AASM) scoring criteria, an apnea is defined as a drop in the peak thermal sensor (thermistor, thermocouple) signal by ≥90% of pre-event baseline for at least 10 seconds. This cessation of airflow is then further classified as obstructive or central based on concomitant respiratory effort.",
+    "highYieldPearl": "The 10-second duration is a critical threshold for defining both apnea and hypopnea events in standard PSG interpretation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While shorter durations might be associated with other respiratory events or partial obstructions, 10 seconds is the established minimum for an apnea event according to AASM guidelines. 5 seconds is too short, and 15 or 20 seconds are longer than the minimum required for classification.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|psg|Polysomnography Interpretation|5_cnboayhx"
+  },
+  {
+    "question": "A hypopnea event on polysomnography requires airflow reduction of at least 30% lasting ≥10 seconds, associated with what?",
+    "options": {
+      "A": "Bradycardia",
+      "B": "Oxygen desaturation ≥3% or arousal",
+      "C": "Hypertension",
+      "D": "Hypercapnia"
+    },
+    "correctAnswer": "B",
+    "topic": "psg",
+    "deepDiveExplanation": "AASM scoring criteria define a hypopnea as a discernable reduction in airflow (typically ≥30% from baseline, though some criteria use ≥50%) lasting at least 10 seconds, associated with either an oxygen desaturation of ≥3% from pre-event baseline OR an arousal from sleep. Some criteria also accept a ≥4% desaturation without arousal.",
+    "highYieldPearl": "The combination of airflow reduction, duration, AND a physiological consequence (desaturation or arousal) is crucial for hypopnea diagnosis and distinguishes it from benign snoring.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Bradycardia, hypertension, and hypercapnia can be *consequences* of hypopneas but are not part of the *definitional criteria* used for scoring the event itself in standard PSG interpretation. The desaturation or arousal is the direct physiological impact used for scoring.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|psg|Polysomnography Interpretation|5_ku901dyk"
+  },
+  {
+    "question": "The key polysomnography channel differentiating central from obstructive apnea is the measurement of what?",
+    "options": {
+      "A": "Nasal airflow",
+      "B": "Thoracoabdominal effort",
+      "C": "Oxygen saturation",
+      "D": "Electroencephalogram"
+    },
+    "correctAnswer": "B",
+    "topic": "psg",
+    "deepDiveExplanation": "In obstructive apnea, there is continued or increased thoracoabdominal effort (measured by respiratory inductance plethysmography bands) despite an absence of airflow, indicating an upper airway obstruction. In central apnea, both airflow and thoracoabdominal effort are absent, indicating a lack of respiratory drive from the brainstem.",
+    "highYieldPearl": "Respiratory effort channels are fundamental for classifying apnea types, providing the crucial distinction between central and obstructive etiologies, which guides treatment strategies.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Nasal airflow detects the *presence* of an apnea. Oxygen saturation measures the *consequence* of the event. EEG measures *sleep stages* and *arousals*. None of these directly indicate the *cause* (central vs. obstructive) in the way respiratory effort does.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|psg|Polysomnography Interpretation|5_dfuzl58g"
+  },
+  {
+    "question": "The characteristic polysomnographic finding in REM Sleep Behavior Disorder (RBD) is what?",
+    "options": {
+      "A": "Absence of REM sleep",
+      "B": "High AHI",
+      "C": "REM sleep without atonia",
+      "D": "Periodic limb movements"
+    },
+    "correctAnswer": "C",
+    "topic": "psg",
+    "deepDiveExplanation": "Normally, during REM sleep, there is muscle atonia (paralysis) to prevent acting out dreams. In RBD, this atonia is absent or diminished, leading to complex motor behaviors. PSG shows increased tonic or phasic electromyography (EMG) activity in the chin or limb muscles during REM sleep, a phenomenon termed REM sleep without atonia (RSWA).",
+    "highYieldPearl": "RSWA is pathognomonic for RBD and requires careful chin and/or limb EMG monitoring during PSG, along with video recording to correlate movements with EMG activity.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "Absence of REM sleep is incorrect; REM sleep is present but abnormal. A high AHI is characteristic of Obstructive Sleep Apnea. Periodic limb movements are a feature of Periodic Limb Movement Disorder (PLMD), though sometimes co-exist, they are not the *characteristic* finding for RBD itself.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|psg|Polysomnography Interpretation|5_oz4dd7dy"
+  },
+  {
+    "question": "An Apnea-Hypopnea Index (AHI) between 15-30 events/hour on polysomnography signifies what severity of OSA?",
+    "options": {
+      "A": "Mild",
+      "B": "Moderate",
+      "C": "Severe",
+      "D": "Very severe"
+    },
+    "correctAnswer": "B",
+    "topic": "psg",
+    "deepDiveExplanation": "The AHI classification for Obstructive Sleep Apnea (OSA) severity is standard across most guidelines:\n*   Normal: AHI < 5 events/hour\n*   Mild: AHI 5 to < 15 events/hour\n*   Moderate: AHI 15 to < 30 events/hour\n*   Severe: AHI ≥ 30 events/hour\nThis classification guides treatment decisions and prognosis.",
+    "highYieldPearl": "Memorizing these AHI thresholds is crucial for diagnosing and appropriately managing patients with sleep-disordered breathing.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "This question tests direct recall of standard AHI classification. Confusing the ranges (e.g., thinking 15-30 is mild or severe) is the primary trap. 'Very severe' is not a standard AASM classification category for OSA.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|psg|Polysomnography Interpretation|5_7vmnctd5"
+  }
+]

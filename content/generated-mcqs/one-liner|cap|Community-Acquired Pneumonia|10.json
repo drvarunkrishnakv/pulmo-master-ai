@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Which of the following is NOT a component of the CURB-65 score for CAP severity?",
+    "options": {
+      "A": "Confusion",
+      "B": "Uremia",
+      "C": "Respiratory rate",
+      "D": "Oxygen saturation"
+    },
+    "correctAnswer": "D",
+    "topic": "cap",
+    "deepDiveExplanation": "The CURB-65 score assesses CAP severity based on Confusion, Urea (>7 mmol/L), Respiratory rate (≥30 breaths/min), Blood pressure (systolic <90 mmHg or diastolic ≤60 mmHg), and age (≥65 years). Oxygen saturation is a critical vital sign for pneumonia assessment but is not a direct component of the CURB-65 score itself. It is, however, part of other severity scores like the Pneumonia Severity Index (PSI/PORT) and is crucial for determining the need for hospitalization and oxygen therapy.",
+    "highYieldPearl": "Remember CURB-65 for rapid bedside assessment of CAP severity. Each criterion scores 1 point; a score of 0-1 suggests outpatient management, 2 suggests inpatient, and ≥3 suggests severe CAP, often requiring ICU consideration.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The trap lies in oxygen saturation being a highly relevant parameter in pneumonia. Candidates might incorrectly assume its inclusion due to its clinical importance in severity assessment, despite not being part of the specific CURB-65 acronym.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|cap|Community-Acquired Pneumonia|10_rbaq9pse"
+  },
+  {
+    "question": "What is the most common bacterial pathogen causing community-acquired pneumonia in adults?",
+    "options": {
+      "A": "Haemophilus influenzae",
+      "B": "Staphylococcus aureus",
+      "C": "Streptococcus pneumoniae",
+      "D": "Klebsiella pneumoniae"
+    },
+    "correctAnswer": "C",
+    "topic": "cap",
+    "deepDiveExplanation": "*Streptococcus pneumoniae* remains the predominant bacterial cause of community-acquired pneumonia (CAP) across all age groups globally. While other pathogens like *Haemophilus influenzae*, atypical bacteria (*Mycoplasma pneumoniae*, *Chlamydophila pneumoniae*, *Legionella pneumophila*), and viruses are significant, *S. pneumoniae* consistently accounts for the largest proportion of bacterial CAP cases.",
+    "highYieldPearl": "*Streptococcus pneumoniae* is the 'King of CAP'. Always consider it first in empiric treatment decisions.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While *Haemophilus influenzae* is also a common cause, especially in smokers and those with COPD, *S. pneumoniae* holds the top spot. Misremembering the prevalence can lead to error.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|cap|Community-Acquired Pneumonia|10_g3006r3j"
+  },
+  {
+    "question": "Which antibiotic class is typically effective against atypical pathogens causing CAP?",
+    "options": {
+      "A": "Beta-lactams",
+      "B": "Aminoglycosides",
+      "C": "Macrolides",
+      "D": "Glycopeptides"
+    },
+    "correctAnswer": "C",
+    "topic": "cap",
+    "deepDiveExplanation": "Atypical pathogens (*Mycoplasma pneumoniae*, *Chlamydophila pneumoniae*, *Legionella pneumophila*) lack a cell wall or have unique cell wall structures, rendering beta-lactam antibiotics (which target peptidoglycan synthesis) ineffective. Macrolides (e.g., azithromycin, clarithromycin), tetracyclines (e.g., doxycycline), and fluoroquinolones (e.g., levofloxacin, moxifloxacin) are the main antibiotic classes effective against these organisms due to their mechanisms of action (e.g., protein synthesis inhibition for macrolides and tetracyclines, DNA gyrase inhibition for fluoroquinolones).",
+    "highYieldPearl": "For atypical CAP, think 'MLT': Macrolides, Lincosamides (less common for CAP), Tetracyclines. Fluoroquinolones are also effective.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The primary trap is selecting beta-lactams, which are highly effective against typical bacterial pathogens like *S. pneumoniae* but have no activity against atypical organisms due to their lack of a cell wall.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|cap|Community-Acquired Pneumonia|10_jotoct77"
+  },
+  {
+    "question": "The most rapid and specific diagnostic test for *Legionella pneumophila* CAP is?",
+    "options": {
+      "A": "Sputum Gram stain",
+      "B": "Blood culture",
+      "C": "Urine antigen test",
+      "D": "Serology"
+    },
+    "correctAnswer": "C",
+    "topic": "cap",
+    "deepDiveExplanation": "The *Legionella pneumophila* urinary antigen test detects a soluble cell wall antigen of *L. pneumophila* serogroup 1 in urine. It is highly specific (99%) and reasonably sensitive (70-99%), and results are available within hours, making it the most rapid and specific test for diagnosing *L. pneumophila* serogroup 1 CAP. Serology (antibody detection) is useful for retrospective diagnosis but not for acute management, and sputum Gram stain is often unrevealing as *Legionella* stains poorly.",
+    "highYieldPearl": "For *Legionella*, think 'U for Urine'. The urine antigen test is key for rapid diagnosis of *L. pneumophila* serogroup 1, which causes most cases.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Candidates might consider sputum Gram stain or culture as general diagnostic tools for pneumonia. However, *Legionella* is difficult to stain and culture, making the urine antigen test superior for rapid, specific diagnosis.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|cap|Community-Acquired Pneumonia|10_u0pkje23"
+  },
+  {
+    "question": "Which oral antibiotic is a first-line recommendation for healthy outpatients with CAP?",
+    "options": {
+      "A": "Amoxicillin",
+      "B": "Azithromycin",
+      "C": "Levofloxacin",
+      "D": "Cefpodoxime"
+    },
+    "correctAnswer": "A",
+    "topic": "cap",
+    "deepDiveExplanation": "According to IDSA 2019 guidelines, for otherwise healthy outpatients with CAP and no risk factors for drug-resistant *S. pneumoniae* or MRSA, first-line options include amoxicillin (1g TID), doxycycline, or a macrolide (e.g., azithromycin) if local pneumococcal macrolide resistance is <25%. Amoxicillin is a strong recommendation for typical CAP coverage due to its efficacy and narrow spectrum. Fluoroquinolones (like levofloxacin) are generally reserved for patients with comorbidities or those who have failed initial therapy.",
+    "highYieldPearl": "For healthy outpatients, think Amoxicillin (or Doxycycline/Azithromycin depending on local resistance). Avoid broad-spectrum agents if not needed.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Azithromycin is a common choice, but increasing macrolide resistance in *S. pneumoniae* makes amoxicillin or doxycycline preferable in many regions. Levofloxacin is too broad for initial healthy outpatient CAP.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|cap|Community-Acquired Pneumonia|10_mv5htlst"
+  },
+  {
+    "question": "Which is a recommended empiric antibiotic regimen for non-ICU inpatient CAP?",
+    "options": {
+      "A": "Macrolide monotherapy",
+      "B": "Beta-lactam plus macrolide",
+      "C": "Beta-lactam plus aminoglycoside",
+      "D": "Doxycycline monotherapy"
+    },
+    "correctAnswer": "B",
+    "topic": "cap",
+    "deepDiveExplanation": "For non-ICU inpatient CAP, IDSA 2019 guidelines recommend empiric therapy with either a beta-lactam (e.g., ceftriaxone, ampicillin-sulbactam, or ertapenem) plus a macrolide (e.g., azithromycin), OR monotherapy with a respiratory fluoroquinolone (e.g., levofloxacin, moxifloxacin). This combination provides broad coverage for both typical and atypical pathogens. Macrolide or doxycycline monotherapy is generally insufficient for moderate to severe inpatient CAP.",
+    "highYieldPearl": "Inpatient CAP (non-ICU): Beta-lactam + Macrolide OR Respiratory Fluoroquinolone monotherapy. Ensure coverage for typicals and atypicals.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Monotherapy with macrolides or doxycycline is usually for outpatient or less severe cases. Beta-lactam plus aminoglycoside lacks atypical coverage, which is crucial for empiric CAP treatment.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|cap|Community-Acquired Pneumonia|10_yj09n2xg"
+  },
+  {
+    "question": "Which condition is a significant risk factor for *Pseudomonas aeruginosa* CAP?",
+    "options": {
+      "A": "Chronic obstructive pulmonary disease (COPD)",
+      "B": "Asthma",
+      "C": "Prior severe influenza",
+      "D": "Structural lung disease like bronchiectasis"
+    },
+    "correctAnswer": "D",
+    "topic": "cap",
+    "deepDiveExplanation": "While COPD is a general risk factor for CAP, structural lung diseases such as bronchiectasis, cystic fibrosis, and severe chronic obstructive pulmonary disease with frequent exacerbations are specifically associated with an increased risk of *Pseudomonas aeruginosa* CAP. Other risk factors include recent hospitalization, prior antibiotic use, and severe underlying immunocompromise. Recognizing these risk factors guides the choice of broader-spectrum antibiotics.",
+    "highYieldPearl": "Think *Pseudomonas* in CAP when there's structural lung disease (bronchiectasis, CF), recent hospitalization, or broad-spectrum antibiotic use.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "COPD is a common risk factor for CAP, but it doesn't specifically point to *Pseudomonas* unless it's severe with frequent exacerbations or associated with bronchiectasis. Asthma is generally not a risk factor for *Pseudomonas* CAP.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|cap|Community-Acquired Pneumonia|10_amdx61iy"
+  },
+  {
+    "question": "Community-acquired pneumonia is defined as pneumonia acquired outside a hospital or within how many hours of admission?",
+    "options": {
+      "A": "12 hours",
+      "B": "24 hours",
+      "C": "36 hours",
+      "D": "48 hours"
+    },
+    "correctAnswer": "D",
+    "topic": "cap",
+    "deepDiveExplanation": "Community-acquired pneumonia (CAP) is defined as an acute infection of the lung parenchyma in a patient who has not been hospitalized or resided in a long-term care facility for 14 days or longer before presentation, or who develops symptoms of pneumonia within 48 hours of hospital admission. Pneumonia developing after 48 hours is typically classified as hospital-acquired pneumonia (HAP) or healthcare-associated pneumonia (HCAP, though this category is now less emphasized by IDSA 2016 guidelines).",
+    "highYieldPearl": "The 48-hour rule is critical for differentiating CAP from HAP/HCAP. Location of acquisition matters for pathogen prediction.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "This is a direct definition. The trap is misremembering the exact timeframe, as other timeframes (e.g., 24, 72 hours) are used in different medical contexts.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|cap|Community-Acquired Pneumonia|10_oe8hr9uw"
+  },
+  {
+    "question": "For uncomplicated bacterial CAP, what is the minimum recommended duration of antibiotic therapy?",
+    "options": {
+      "A": "3 days",
+      "B": "5 days",
+      "C": "7 days",
+      "D": "10 days"
+    },
+    "correctAnswer": "B",
+    "topic": "cap",
+    "deepDiveExplanation": "Current guidelines (e.g., IDSA 2019) recommend a minimum of 5 days of antibiotic therapy for most uncomplicated bacterial CAP cases. Treatment can be discontinued once the patient has achieved clinical stability (afebrile for 48-72 hours, heart rate <100 bpm, respiratory rate <24 breaths/min, systolic blood pressure >90 mmHg, oxygen saturation >90% on room air, and ability to take oral intake) and has no more than one CAP-associated sign of instability.",
+    "highYieldPearl": "Minimum 5 days for CAP, but extend until clinically stable for 48-72 hours, not just reaching 5 days.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Older guidelines or general practice might suggest longer durations (7-10 days). However, evidence supports shorter courses (5 days) once clinical stability is achieved, reducing antibiotic exposure and resistance.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|cap|Community-Acquired Pneumonia|10_ibskpuez"
+  },
+  {
+    "question": "Which parameter is NOT typically used to assess clinical stability for switching from IV to oral CAP antibiotics?",
+    "options": {
+      "A": "Temperature <37.8°C",
+      "B": "Heart rate <100 bpm",
+      "C": "Systolic BP >90 mmHg",
+      "D": "C-reactive protein <5 mg/dL"
+    },
+    "correctAnswer": "D",
+    "topic": "cap",
+    "deepDiveExplanation": "Clinical stability for switching from IV to oral antibiotics in CAP is primarily assessed by objective clinical parameters, often referred to as the 'TIMI' criteria (Temperature, Immune status/Mental status, Intake, various vitals). Key criteria include: temperature <37.8°C, heart rate <100 bpm, respiratory rate <24 breaths/min, systolic blood pressure >90 mmHg, oxygen saturation >90% on room air, and ability to maintain oral intake and normal mental status. While C-reactive protein (CRP) is a marker of inflammation and can guide treatment duration in some settings, it is not a primary component of the standard clinical stability criteria for IV-to-oral switch in CAP.",
+    "highYieldPearl": "Clinical stability for IV-to-oral switch relies on vital signs and functional status, not typically inflammatory markers like CRP.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "All options are physiological parameters. The trap is that CRP is a relevant biomarker in infection, but it's not part of the widely accepted clinical stability criteria for antibiotic de-escalation in CAP, which focus on vital signs and functional status. Many candidates might assume any marker of inflammation is relevant.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|cap|Community-Acquired Pneumonia|10_dxhq3s7w"
+  }
+]

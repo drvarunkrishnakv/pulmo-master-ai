@@ -1,0 +1,92 @@
+[
+  {
+    "question": "The primary physiological parameter assessed by the Six-Minute Walk Test (6MWT) is?",
+    "options": {
+      "A": "Peak oxygen uptake (VO2peak)",
+      "B": "Ventilatory threshold",
+      "C": "Functional exercise capacity",
+      "D": "Anaerobic threshold"
+    },
+    "correctAnswer": "C",
+    "topic": "exercise_testing",
+    "deepDiveExplanation": "The 6MWT is a submaximal exercise test primarily used to assess functional exercise capacity and endurance. It measures the distance an individual can walk in 6 minutes and is widely used for prognosis, disease severity assessment, and response to therapy in cardiopulmonary diseases. It does not directly measure peak oxygen uptake or other detailed physiological parameters typically assessed by Cardiopulmonary Exercise Testing (CPET).",
+    "highYieldPearl": "6MWT quantifies functional capacity and endurance, not peak cardiorespiratory fitness. It's a practical, field-based test.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Distinguishes 6MWT from maximal exercise tests like CPET. Options A, B, and D are parameters typically derived from CPET, which can be confusing if the fundamental purpose of 6MWT is not clear.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|exercise_testing|Exercise Testing (6MWT, CPET)|5_2licvihg"
+  },
+  {
+    "question": "Which is considered the gold standard for objective assessment of exercise limitation?",
+    "options": {
+      "A": "Six-Minute Walk Test (6MWT)",
+      "B": "Cardiopulmonary Exercise Testing (CPET)",
+      "C": "Incremental Shuttle Walk Test (ISWT)",
+      "D": "Stair Climb Test"
+    },
+    "correctAnswer": "B",
+    "topic": "exercise_testing",
+    "deepDiveExplanation": "Cardiopulmonary Exercise Testing (CPET) is the gold standard for objective assessment of exercise limitation because it provides a comprehensive, integrated evaluation of the cardiovascular, pulmonary, and metabolic systems' responses to exercise. It allows for precise determination of peak oxygen uptake (VO2peak) and identification of the physiological mechanisms underlying exercise intolerance.",
+    "highYieldPearl": "CPET offers the most comprehensive and objective analysis of exercise intolerance, pinpointing the primary limiting system (cardiac, pulmonary, or deconditioning).",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Other options are field exercise tests, but they lack the detailed physiological measurements and diagnostic capabilities of CPET, which is crucial for identifying the cause of limitation.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|exercise_testing|Exercise Testing (6MWT, CPET)|5_rqjmt9o9"
+  },
+  {
+    "question": "An elevated ventilatory equivalent for carbon dioxide (VE/VCO2) nadir during CPET primarily suggests?",
+    "options": {
+      "A": "Cardiac limitation",
+      "B": "Impaired ventilatory efficiency",
+      "C": "Peripheral muscle deconditioning",
+      "D": "Anemia"
+    },
+    "correctAnswer": "B",
+    "topic": "exercise_testing",
+    "deepDiveExplanation": "An elevated VE/VCO2 nadir (or slope) indicates that a greater amount of ventilation is required to eliminate a given amount of carbon dioxide. This signifies impaired ventilatory efficiency, often due to increased dead space ventilation (e.g., in pulmonary vascular disease), ventilation-perfusion (V/Q) mismatch, or restrictive lung disease. It reflects the physiological cost of breathing during exercise.",
+    "highYieldPearl": "High VE/VCO2 points to inefficient gas exchange, commonly seen in pulmonary hypertension, ILD, or severe COPD.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "While cardiac limitation, deconditioning, and anemia can all cause exercise intolerance, an elevated VE/VCO2 is a specific marker for ventilatory inefficiency, distinguishing it from other causes. It requires understanding specific CPET parameters.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|exercise_testing|Exercise Testing (6MWT, CPET)|5_nunpfab9"
+  },
+  {
+    "question": "The most robust CPET parameter correlating with mortality in advanced lung disease is?",
+    "options": {
+      "A": "Peak heart rate",
+      "B": "Peak oxygen uptake (VO2peak)",
+      "C": "Respiratory exchange ratio (RER)",
+      "D": "Oxygen pulse"
+    },
+    "correctAnswer": "B",
+    "topic": "exercise_testing",
+    "deepDiveExplanation": "Peak oxygen uptake (VO2peak) is consistently identified as the strongest independent predictor of mortality and morbidity across a wide range of chronic cardiopulmonary diseases, including COPD, interstitial lung disease, and pulmonary hypertension. It reflects the overall functional capacity of the cardiovascular and pulmonary systems to deliver oxygen to working muscles.",
+    "highYieldPearl": "VO2peak is a powerful prognostic marker in chronic respiratory diseases; lower values predict higher mortality.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "All options are CPET parameters. RER indicates maximal effort, not directly prognosis. Peak heart rate and oxygen pulse provide insights into cardiac function and oxygen extraction but are not as universally robust as VO2peak for overall mortality prediction in lung disease.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|exercise_testing|Exercise Testing (6MWT, CPET)|5_6dju6xxr"
+  },
+  {
+    "question": "An absolute contraindication for performing a Six-Minute Walk Test is?",
+    "options": {
+      "A": "Resting oxygen saturation <90%",
+      "B": "Exercise-induced bronchospasm",
+      "C": "Unstable angina within the last month",
+      "D": "Mild exertional dyspnea"
+    },
+    "correctAnswer": "C",
+    "topic": "exercise_testing",
+    "deepDiveExplanation": "Absolute contraindications for the 6MWT are primarily acute cardiac events that pose a significant risk with exertion. These include unstable angina or myocardial infarction within the preceding month. Other conditions like resting hypoxemia (A) or exercise-induced bronchospasm (B) are often reasons to perform the test (to assess desaturation or symptoms) and can be managed, but are not absolute contraindications to the test itself.",
+    "highYieldPearl": "Acute cardiac instability (unstable angina, recent MI) are critical absolute contraindications for 6MWT due to safety concerns.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Options A, B, and D are either relative contraindications or conditions for which the 6MWT is performed to assess functional impact. The key is distinguishing absolute life-threatening risks from manageable conditions.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|exercise_testing|Exercise Testing (6MWT, CPET)|5_fvhx5y9k"
+  }
+]

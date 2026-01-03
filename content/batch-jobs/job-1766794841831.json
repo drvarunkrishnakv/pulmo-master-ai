@@ -1,0 +1,24 @@
+{
+  "name": "projects/154344292422/locations/us-central1/batchPredictionJobs/2676231969389412352",
+  "displayName": "mcq-generation-v2-1766794841831",
+  "model": "publishers/google/models/gemini-2.5-flash",
+  "inputConfig": {
+    "instancesFormat": "jsonl",
+    "gcsSource": {
+      "uris": [
+        "gs://pulmo-master.firebasestorage.app/batch-jobs/batch-input-1766794834665.jsonl"
+      ]
+    }
+  },
+  "outputConfig": {
+    "predictionsFormat": "jsonl",
+    "gcsDestination": {
+      "outputUriPrefix": "gs://pulmo-master.firebasestorage.app/batch-jobs/output-1766794841831/"
+    }
+  },
+  "state": "JOB_STATE_PENDING",
+  "createTime": "2025-12-27T00:20:43.990525Z",
+  "updateTime": "2025-12-27T00:20:43.990525Z",
+  "encryptionSpec": {},
+  "modelVersionId": "1"
+}

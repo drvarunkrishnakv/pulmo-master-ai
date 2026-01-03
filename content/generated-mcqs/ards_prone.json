@@ -1,0 +1,1756 @@
+[
+  {
+    "id": "rag_ards_prone_a8e7f78e",
+    "question": "A 35-year-old non-smoking woman presents with progressive dyspnea and a history of two episodes of spontaneous pneumothorax managed with chest tube drainage. A high-resolution chest CT (HRCT) reveals numerous diffuse, thin-walled, round cysts distributed throughout both lung fields, consistent with the typical pattern of Lymphangioleiomyomatosis (LAM). She has no stigmata of Tuberous Sclerosis Complex (TSC).",
+    "options": {
+      "A": "Proceed directly to a surgical lung biopsy for definitive histopathological confirmation.",
+      "B": "Order a serum Vascular Endothelial Growth Factor-D (VEGF-D) level.",
+      "C": "Perform a transbronchial lung biopsy via bronchoscopy.",
+      "D": "Initiate sirolimus therapy based on the HRCT findings and recurrent pneumothoraces."
+    },
+    "correctAnswer": "B",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The provided guidelines explicitly state that high-resolution chest CT findings should not be used in isolation to establish a confirmed diagnosis of LAM. Instead, serum VEGF-D is highlighted as a highly specific diagnostic biomarker for LAM, which can often obviate the need for more invasive diagnostic procedures. Therefore, ordering a serum VEGF-D level is the most appropriate next step given its high specificity and minimal invasiveness compared to biopsy procedures. While recurrent pneumothoraces suggest the disease is active, the primary goal is diagnostic confirmation before initiating specific treatments.",
+    "highYieldPearl": "Rio's Take: For suspected LAM, particularly in non-TSC patients with typical CT cysts, serum VEGF-D is the diagnostic biomarker of choice due to its high specificity, often negating the need for invasive biopsies.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Surgical lung biopsy provides definitive diagnosis but is highly invasive. The guidelines suggest VEGF-D can prevent the need for such invasive procedures. It is not the *most appropriate* initial step when a less invasive, highly specific biomarker is available.",
+      "B": "This is the correct answer. Serum VEGF-D is a highly specific and less invasive diagnostic test that should be prioritized over biopsy procedures according to the guidelines.",
+      "C": "Transbronchial lung biopsy has a diagnostic yield (>50%) and is less invasive than surgical biopsy. However, serum VEGF-D is even less invasive and highly specific, making it a preferred initial step over any biopsy for diagnostic confirmation.",
+      "D": "Initiating sirolimus therapy requires a confirmed diagnosis and specific criteria (e.g., FEV₁ < 70%, symptomatic chylous effusions, rapidly declining lung function, or substantial disease burden). HRCT findings alone are insufficient for diagnosis, and while recurrent pneumothoraces are a common feature of LAM, they do not automatically trigger sirolimus initiation without meeting other criteria or full diagnostic confirmation."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_035a7a13",
+    "question": "A 40-year-old woman with a confirmed diagnosis of Lymphangioleiomyomatosis (LAM) by elevated serum VEGF-D levels presents for follow-up. Her lung function tests show an FEV₁ of 72% and a stable DLco. A recent HRCT scan demonstrates diffuse cystic changes without new chylous effusions or significant progression. She denies any new respiratory symptoms, chest pain, or decline in exercise tolerance. She has no history of previous pneumothoraces.",
+    "options": {
+      "A": "Initiate sirolimus therapy to prevent disease progression.",
+      "B": "Prescribe doxycycline to manage potential inflammation.",
+      "C": "Offer pleurodesis as a prophylactic measure against future pneumothoraces.",
+      "D": "Continue with close clinical and lung function monitoring without immediate pharmacologic therapy."
+    },
+    "correctAnswer": "D",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The guidelines specify criteria for initiating sirolimus: abnormal lung function (FEV₁ < 70%), symptomatic chylous effusions, rapidly declining lung function (FEV₁ decline rates > 90 mL/yr), or substantial disease burden (abnormal DLco, significant air trapping, resting or exertional hypoxemia). This patient's FEV₁ (72%) is above the 70% threshold, her DLco is stable, and there are no symptomatic chylous effusions or reported rapid FEV₁ decline. Therefore, she does not meet the current criteria for initiating sirolimus. Routine use of doxycycline or hormonal agents is not recommended. Pleurodesis is recommended after the *first* episode of spontaneous pneumothorax, which this patient has not experienced. Thus, continued monitoring is the most appropriate management.",
+    "highYieldPearl": "Rio's Take: Sirolimus in LAM is reserved for patients with significant lung impairment or active complications, not simply for a confirmed diagnosis. Stable patients with preserved lung function typically undergo watchful waiting.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Sirolimus is indicated for specific disease severity or complications, not for all confirmed LAM cases. The patient's FEV₁ (72%) is above the specified threshold of <70% for treatment initiation, and she has no other criteria for starting sirolimus.",
+      "B": "The guidelines explicitly state that doxycycline should not be routinely used to treat LAM, making this an incorrect option.",
+      "C": "Pleurodesis is recommended following the *first episode* of spontaneous pneumothorax to prevent recurrence. This patient has no history of pneumothoraces, so prophylactic pleurodesis is not indicated.",
+      "D": "This is the correct approach. The patient does not meet the established criteria for initiating pharmacologic treatment with sirolimus, and other listed treatments are either not recommended or not indicated based on her clinical status."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_a0e98547",
+    "question": "A 30-year-old female presents with chronic cough and dyspnea. HRCT of the chest reveals multiple bilateral, thin-walled, diffuse pulmonary cysts. Further evaluation reveals a chylous pleural effusion. Renal imaging is performed to rule out associated conditions. She denies any family history of genetic disorders.",
+    "options": {
+      "A": "Multiple hyperdense lesions in the liver consistent with hemangiomas.",
+      "B": "Diffuse osteosclerotic lesions on skeletal survey.",
+      "C": "Presence of bilateral angiomyolipomas (AMLs) in the kidneys.",
+      "D": "Detection of multiple subependymal nodules on brain MRI."
+    },
+    "correctAnswer": "C",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The provided text states: \"In the absence of TSC, careful review of imaging and confirmatory procedures (e.g., thoracentesis to document chylothorax) should be performed to determine whether renal AMLs, chylous fluid collections, lymphadenopathy, or lymphangioleiomyomas are present; any one of these findings can establish the diagnosis in the setting of typical cystic change on CT.\" The patient already has typical cystic change on HRCT and a chylous pleural effusion. The presence of renal angiomyolipomas (AMLs) would, therefore, be sufficient to establish the diagnosis of LAM without requiring further invasive lung biopsies or a VEGF-D assay, as it is listed as a specific diagnostic criterion in this context.",
+    "highYieldPearl": "Rio's Take: Beyond typical lung cysts, certain extrapulmonary findings like renal angiomyolipomas or chylous effusions can definitively diagnose LAM, even without overt TSC or invasive lung biopsy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "While liver lesions can occur in some systemic diseases, hemangiomas are common incidental findings and not a specific diagnostic criterion for LAM as per the provided text.",
+      "B": "Diffuse osteosclerotic lesions are not described as a diagnostic finding for LAM in the provided context or general guidelines.",
+      "C": "This is the correct answer. The text explicitly states that renal AMLs, along with typical cystic changes on CT and other findings like chylous effusions, can establish the diagnosis of LAM, even in the absence of TSC.",
+      "D": "Subependymal nodules are characteristic features of Tuberous Sclerosis Complex (TSC). While LAM is associated with TSC, the question is framed to find a diagnostic finding *in the absence of TSC* (or at least without requiring overt TSC diagnosis). Renal AMLs can be found in isolated LAM patients without meeting full TSC criteria, making it the more direct answer based on the provided text for establishing diagnosis in this specific scenario."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_1b2cf069",
+    "question": "A 32-year-old non-smoker female presents with progressively worsening dyspnea and a history of two prior episodes of spontaneous pneumothorax managed conservatively. A recent HRCT of the chest reveals numerous diffuse, thin-walled, round to oval cysts scattered throughout both lung fields, with relatively normal intervening lung parenchyma. There are no associated nodules, ground-glass opacities, or features suggestive of emphysema. Based on the provided context, which of the following is the most appropriate next step in the diagnostic workup?",
+    "options": {
+      "A": "Proceed directly to a surgical lung biopsy to obtain definitive histopathological confirmation of LAM.",
+      "B": "Initiate treatment with Sirolimus based on the typical HRCT findings and history of recurrent pneumothorax.",
+      "C": "Order a serum Vascular Endothelial Growth Factor-D (VEGF-D) level to aid in diagnosis, potentially obviating invasive procedures.",
+      "D": "The HRCT findings, combined with recurrent pneumothorax, are highly suggestive but require a transbronchial lung biopsy for definitive diagnosis."
+    },
+    "correctAnswer": "C",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The provided guidelines explicitly state that 'serum VEGF-D is a highly specific diagnostic biomarker for LAM, which can obviate the need for more invasive diagnostic procedures.' The clinical presentation (young, non-smoker female with diffuse thin-walled cysts and recurrent pneumothorax) is highly suggestive of LAM, making VEGF-D the most appropriate initial diagnostic step to confirm the diagnosis non-invasively. While HRCT findings are characteristic, they 'should not be used in isolation to establish a confirmed diagnosis of LAM'.",
+    "highYieldPearl": "Rio's Take: In suspected LAM, characteristic HRCT findings (diffuse thin-walled cysts) in a young female, especially with a history of pneumothorax, should prompt a serum VEGF-D measurement as the preferred initial diagnostic test, potentially avoiding invasive biopsies.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Surgical lung biopsy (SLB) is an invasive procedure, and the guidelines recommend considering transbronchial lung biopsy (TBLB) first if an invasive procedure is necessary, and more importantly, suggest VEGF-D can often obviate *any* invasive procedure. Proceeding directly to SLB is premature.",
+      "B": "Treatment with Sirolimus is indicated for confirmed LAM patients who meet specific criteria (e.g., FEV1 < 70%, symptomatic chylous effusions, rapid decline, significant air trapping, resting or exertional hypoxemia). While the HRCT and pneumothorax history are suggestive, the diagnosis is not yet confirmed by the specified criteria, and treatment initiation without confirmation and meeting specific indications is not appropriate.",
+      "C": "This is the correct answer. Serum VEGF-D is a highly specific and non-invasive diagnostic biomarker that can confirm LAM in this clinical context and potentially avoid further invasive tests.",
+      "D": "The guidelines state that HRCT findings alone are not sufficient for a confirmed diagnosis. While TBLB has a >50% diagnostic yield, the guidelines prioritize VEGF-D as it can often make biopsies unnecessary. Therefore, TBLB is not the *most appropriate next step* when a less invasive and highly specific biomarker is available."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_96dba13a",
+    "question": "A 40-year-old woman was diagnosed with Lymphangioleiomyomatosis (LAM) two years ago based on classic cystic changes on HRCT and elevated serum VEGF-D. Her current FEV1 is 68% predicted, and she reports increasing dyspnea on exertion. A recent HRCT shows stable diffuse cystic changes but also a new small right-sided chylous pleural effusion. She has no history of pneumothorax. Which of the following management decisions is most consistent with the provided guidelines?",
+    "options": {
+      "A": "Initiation of Sirolimus is indicated due to her current lung function and the presence of a chylous effusion.",
+      "B": "Doxycycline should be prescribed as a first-line treatment to manage the chylous effusion and prevent lung function decline.",
+      "C": "Given the stable HRCT findings, a watch-and-wait approach is appropriate, with regular follow-up on lung function.",
+      "D": "Hormonal therapy, such as progesterone, should be considered as a primary intervention for progressive LAM, especially with a chylous effusion."
+    },
+    "correctAnswer": "A",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The guidelines explicitly state that Sirolimus 'should be the first-line treatment for patients with abnormal lung function (FEV₁ < 70%), symptomatic chylous effusions, rapidly declining lung function (FEV₁ decline rates > 90 mL/yr), or substantial disease burden (abnormal DLco, significant air trapping, resting or exertional hypoxemia).' This patient has an FEV1 of 68% (which is < 70%) and a new chylous pleural effusion. Both of these criteria independently indicate the need for Sirolimus therapy.",
+    "highYieldPearl": "Rio's Take: Sirolimus initiation in LAM is guided by specific criteria, including FEV1 < 70% or the presence of chylous effusions. Meeting even one of these criteria warrants its use.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is the correct answer. The patient meets two key criteria for Sirolimus initiation: FEV1 < 70% (68% predicted) and presence of a chylous effusion. Sirolimus is the first-line treatment in such cases.",
+      "B": "The guidelines explicitly state that 'Doxycycline should not be routinely used to treat LAM.'",
+      "C": "A watch-and-wait approach is inappropriate given the patient's FEV1 is below 70% and she has developed a chylous effusion, both of which are specific indications for Sirolimus therapy according to the guidelines.",
+      "D": "The guidelines explicitly state that 'Hormonal agents should not be routinely used to treat LAM.' Although LAM is hormone-sensitive, current evidence does not support routine hormonal therapy."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_9f5a9dfe",
+    "question": "A 55-year-old former smoker presents with chronic cough and progressive dyspnea. An HRCT of the chest reveals diffuse thin-walled and some irregularly shaped cysts, ranging from a few millimeters to 2 cm, predominantly in the upper and mid-lung zones. Associated findings include scattered ill-defined centrilobular nodules and areas of ground-glass opacification. There are no pleural effusions or mediastinal lymphadenopathy. All of the following statements regarding the interpretation of these HRCT findings are generally accurate, EXCEPT:",
+    "options": {
+      "A": "The upper and mid-zone predominance of cysts, along with centrilobular nodules and ground-glass opacities, makes Lymphangioleiomyomatosis (LAM) a less probable diagnosis.",
+      "B": "The described HRCT pattern should prompt consideration of smoking-related interstitial lung diseases like Pulmonary Langerhans Cell Histiocytosis (PLCH).",
+      "C": "The presence of thin-walled cysts alongside more irregular ones, with associated centrilobular nodules, points towards a diagnosis requiring histopathological correlation, such as a transbronchial or surgical lung biopsy.",
+      "D": "Serum VEGF-D levels would be the most specific initial biomarker to confirm the underlying cause of cystic lung disease in this patient."
+    },
+    "correctAnswer": "D",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The HRCT findings (male, older age, smoking history, upper/mid-zone predominant cysts, associated centrilobular nodules, and ground-glass opacities) are highly atypical for LAM. LAM typically affects younger, non-smoking females, presents with diffuse cysts without zonal predominance, and usually lacks associated nodules or ground-glass opacities. The described pattern is classic for Pulmonary Langerhans Cell Histiocytosis (PLCH), which is a smoking-related disease. While VEGF-D is a highly specific biomarker for LAM, it is *not* the most specific initial biomarker to confirm the *underlying cause of cystic lung disease in this patient* because the HRCT features strongly argue against LAM. In this scenario, other diagnostic pathways, potentially including biopsy or specific investigations for smoking-related ILDs, would be more appropriate.",
+    "highYieldPearl": "Rio's Take: While VEGF-D is highly specific for LAM, its utility is context-dependent. HRCT patterns strongly atypical for LAM (e.g., male smoker, upper lobe predominance, nodules/GGO) mean VEGF-D is unlikely to be the most appropriate *initial* biomarker to confirm the underlying diagnosis.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This statement is accurate. LAM cysts are typically diffuse, and the presence of nodules, GGO, and upper/mid-zone predominance in a male smoker strongly argues against LAM. These are key differentiating features from LAM.",
+      "B": "This statement is accurate. Pulmonary Langerhans Cell Histiocytosis (PLCH) is a smoking-related disease characterized by cystic changes (often irregular, with bizarre shapes) and associated centrilobular nodules, typically with an upper and mid-lung predominance. Respiratory bronchiolitis-associated interstitial lung disease (RB-ILD) is another smoking-related ILD that can have centrilobular nodules and ground-glass opacities, sometimes with associated cysts.",
+      "C": "This statement is accurate. For complex cystic lung diseases with atypical features or associated findings not definitively pointing to a known entity (especially non-LAM cases), histopathological correlation via TBLB or SLB is often necessary for definitive diagnosis.",
+      "D": "This statement is inaccurate. While VEGF-D is highly specific for LAM, the described HRCT pattern is not consistent with LAM. Therefore, VEGF-D would not be the *most specific initial biomarker to confirm the underlying cause* in this patient, as LAM is a low probability diagnosis. Its utility as a diagnostic tool is diminished when other imaging features strongly suggest a different etiology."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_894ed75a",
+    "question": "A 35-year-old female presents with progressive dyspnea and recurrent spontaneous pneumothorax. High-resolution chest CT (HRCT) reveals diffuse, thin-walled, round cysts uniformly distributed throughout the lungs. All of the following statements regarding the diagnostic and management approach to Lymphangioleiomyomatosis (LAM) in this patient are consistent with current guidelines, EXCEPT:",
+    "options": {
+      "A": "Serum VEGF-D levels should be assessed, as they can be highly specific and potentially avoid more invasive diagnostic procedures.",
+      "B": "The HRCT findings alone, while characteristic, are not sufficient to establish a confirmed diagnosis of LAM in isolation.",
+      "C": "Sirolimus therapy should be initiated if the patient exhibits declining lung function or recurrent symptomatic chylous effusions.",
+      "D": "Pleurodesis should generally be reserved for multiple episodes of spontaneous pneumothorax, not after the first one."
+    },
+    "correctAnswer": "D",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The current guidelines for Lymphangioleiomyomatosis (LAM) state that high-resolution chest CT findings should not be used in isolation to establish a confirmed diagnosis (Option B). Serum VEGF-D is a highly specific diagnostic biomarker for LAM and can obviate the need for more invasive diagnostic procedures (Option A). Sirolimus is recommended as first-line treatment for patients with abnormal lung function (FEV₁ < 70%), symptomatic chylous effusions, rapidly declining lung function, or substantial disease burden (Option C). However, for pleural disease management, patients with LAM are at a high risk of developing recurrent spontaneous pneumothoraces, and pleurodesis should be offered following the *first* episode of spontaneous pneumothorax, directly contradicting Option D.",
+    "highYieldPearl": "Rio's Take: In LAM, characteristic cystic changes on HRCT are highly suggestive but require further confirmation. Serum VEGF-D is a crucial non-invasive diagnostic marker. Early pleurodesis is recommended after the first pneumothorax due to high recurrence rates, and sirolimus is the first-line pharmacologic treatment for significant disease burden.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This statement is consistent with guidelines. It is a plausible option to select if one overlooks the 'EXCEPT' in the question, as VEGF-D is indeed a key diagnostic biomarker.",
+      "B": "This statement is consistent with guidelines. It highlights a crucial limitation of CT in LAM diagnosis, making it a strong distractor if one does not carefully read the 'EXCEPT' clause.",
+      "C": "This statement is consistent with guidelines, detailing appropriate indications for sirolimus. It serves as a strong plausible distractor if the 'EXCEPT' is missed.",
+      "D": "This statement is inconsistent with current guidelines. The guidelines explicitly recommend pleurodesis after the *first* episode of spontaneous pneumothorax due to the high risk of recurrence in LAM patients. This option presents the opposite recommendation, making it the correct answer for an 'EXCEPT' question."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_da1462cf",
+    "question": "A 40-year-old female diagnosed with Lymphangioleiomyomatosis (LAM) has an FEV1 of 65% predicted and experiences a new onset of symptomatic chylous pleural effusion. Her recent HRCT chest still shows diffuse cystic changes. Which of the following is the most appropriate initial pharmacologic management for this patient according to guidelines?",
+    "options": {
+      "A": "Doxycycline therapy to prevent further pleural effusion.",
+      "B": "Initiation of hormonal agents such as progesterone.",
+      "C": "Sirolimus as first-line treatment.",
+      "D": "Observation with regular follow-up and symptom management until FEV1 drops below 50%."
+    },
+    "correctAnswer": "C",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "According to the guidelines, Sirolimus is the recommended first-line treatment for patients with LAM who have abnormal lung function (FEV₁ < 70%), symptomatic chylous effusions, rapidly declining lung function (FEV₁ decline rates > 90 mL/yr), or substantial disease burden. This patient has an FEV1 of 65% (which is < 70%) and symptomatic chylous pleural effusion, meeting two distinct criteria for Sirolimus initiation. Doxycycline and hormonal agents (like progesterone) are explicitly stated as not being routinely used to treat LAM.",
+    "highYieldPearl": "Rio's Take: Sirolimus is the cornerstone of LAM management for symptomatic or progressive disease. Key indications include FEV1 < 70%, symptomatic chylous effusions, or rapid lung function decline. Avoid hormonal agents and doxycycline in routine LAM treatment.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Doxycycline is mentioned in the guidelines as 'not routinely used to treat LAM.' This option could be a distractor for those aware of doxycycline's pleurodesis or anti-inflammatory properties in other contexts, but it is not indicated for LAM treatment.",
+      "B": "Hormonal agents (e.g., progesterone) are explicitly stated as 'not routinely used to treat LAM,' despite the disease's hormonal sensitivity. This is a common historical misconception or a plausible but incorrect choice.",
+      "C": "This is the correct answer. The patient's FEV1 (65% predicted) and symptomatic chylous effusion both meet the criteria for initiating sirolimus as per current guidelines.",
+      "D": "This is a trap suggesting a more conservative approach. However, the patient already meets clear indications for pharmacologic treatment based on their FEV1 and chylous effusion, making observation inappropriate at this stage."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_b30cbad0",
+    "question": "Assertion (A): High-resolution chest CT (HRCT) showing diffuse, thin-walled, round cysts is highly suggestive of Lymphangioleiomyomatosis (LAM).\nReason (R): Isolated HRCT findings of cystic changes are sufficient to establish a confirmed diagnosis of LAM.",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A.",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A.",
+      "C": "A is true, but R is false.",
+      "D": "A is false, but R is true."
+    },
+    "correctAnswer": "C",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "Assertion (A) is true: The presence of diffuse, thin-walled, round cysts on HRCT is a characteristic and highly suggestive finding for LAM. However, Reason (R) is false: The guidelines explicitly state that 'High-resolution chest CT findings should not be used in isolation to establish a confirmed diagnosis of LAM.' Therefore, while the CT findings are suggestive, they are not sufficient on their own for a confirmed diagnosis.",
+    "highYieldPearl": "Rio's Take: While HRCT is invaluable for identifying characteristic cystic changes in LAM, it is rarely diagnostic in isolation. Confirmatory tests like serum VEGF-D or biopsy are usually required.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option is a trap for those who correctly identify both statements as potentially true, or who fail to recognize the explicit guideline stating CT findings are not sufficient in isolation.",
+      "B": "This option is a trap for those who correctly identify A as true but incorrectly assume R is also true, yet understand R is not the direct explanation for A being suggestive.",
+      "C": "This is the correct answer. Assertion (A) is true because typical cystic changes are indeed highly suggestive of LAM. Reason (R) is false, as the guidelines explicitly state that HRCT findings alone are not sufficient for a confirmed diagnosis.",
+      "D": "This option is a trap for those who might undervalue the diagnostic significance of characteristic HRCT findings (making A false) or incorrectly believe that isolated CT findings are sufficient for diagnosis (making R true)."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_f34fd3b1",
+    "question": "A 38-year-old non-smoking female presents with progressive dyspnea and cough. Her chest X-ray shows diffuse reticular opacities. A subsequent HRCT chest reveals diffuse, thin-walled, round cysts distributed throughout both lungs, without evidence of emphysema or honeycombing. She has no known history of tuberous sclerosis. In the diagnostic evaluation for Lymphangioleiomyomatosis (LAM) for this patient, which of the following is the most appropriate initial diagnostic step to confirm the diagnosis?",
+    "options": {
+      "A": "Serum vascular endothelial growth factor-D (VEGF-D) level measurement.",
+      "B": "Transbronchial lung biopsy (TBLB).",
+      "C": "Surgical lung biopsy (SLB).",
+      "D": "Initiating a trial of Sirolimus based on CT findings."
+    },
+    "correctAnswer": "A",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The vignette describes classical HRCT findings for Lymphangioleiomyomatosis (LAM), characterized by diffuse, thin-walled, round cysts. According to the provided clinical practice guidelines, high-resolution chest CT findings should not be used in isolation to establish a confirmed diagnosis of LAM. Serum VEGF-D is highlighted as a highly specific diagnostic biomarker for LAM which can obviate the need for more invasive diagnostic procedures. Therefore, measuring serum VEGF-D is the most appropriate initial diagnostic step after characteristic imaging to confirm the diagnosis, given its high specificity and non-invasive nature. TBLB is an invasive procedure with a >50% diagnostic yield, but it should be considered if less invasive methods are non-diagnostic. SLB is even more invasive and typically reserved for cases where less invasive methods fail. Initiating Sirolimus without a confirmed diagnosis is premature and inappropriate.",
+    "highYieldPearl": "Rio's Take: While HRCT findings in LAM (diffuse thin-walled cysts) are highly suggestive, a confirmed diagnosis requires additional evidence. Serum VEGF-D is a highly specific non-invasive biomarker that can often confirm LAM and prevent the need for invasive biopsies.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. It directly reflects the guideline's emphasis on VEGF-D as a highly specific, non-invasive biomarker that can obviate the need for more invasive procedures, making it the most appropriate initial step following typical CT findings.",
+      "B": "TBLB is a plausible option as it is less invasive than SLB and has a reasonable diagnostic yield (>50%). However, serum VEGF-D is even less invasive and is specifically mentioned as capable of *obviating* invasive procedures, thus prioritizing it over TBLB as the *initial* diagnostic step.",
+      "C": "SLB is the most invasive diagnostic option and is generally reserved for cases where less invasive methods (like VEGF-D or TBLB) are non-diagnostic. The guidelines suggest considering TBLB *before* SLB.",
+      "D": "Initiating treatment, especially with a specific agent like Sirolimus, without a confirmed diagnosis is premature and against standard medical practice. CT findings are suggestive but not diagnostic in isolation."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_ba73e21c",
+    "question": "A 42-year-old female, recently diagnosed with sporadic Lymphangioleiomyomatosis (LAM) based on characteristic HRCT findings and elevated serum VEGF-D, presents for follow-up. Her FEV1 is 72% of predicted, and her DLco is 65% of predicted. She reports symptomatic chylous ascites. Imaging shows mild cystic changes in the lungs without significant air trapping. She experienced a spontaneous pneumothorax 6 months ago which resolved with chest tube drainage. Considering the clinical guidelines for LAM, which of the following statements about her current management is TRUE?",
+    "options": {
+      "A": "Sirolimus should be initiated due to her abnormal FEV1.",
+      "B": "Pleurodesis should be considered now, if not performed earlier, given the high risk of recurrence.",
+      "C": "Hormonal therapy is recommended given her age and the presence of chylous ascites.",
+      "D": "Prior pleurodesis, if performed, would preclude future lung transplantation."
+    },
+    "correctAnswer": "B",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The patient has symptomatic chylous ascites, which is explicitly listed as an indication for Sirolimus therapy ('symptomatic chylous effusions'). While Sirolimus is indicated, option A incorrectly states the reason as 'abnormal FEV1'; her FEV1 of 72% is not below the guideline threshold of <70% for initiating Sirolimus based on FEV1 alone. Option B correctly identifies that pleurodesis should be considered after the first episode of spontaneous pneumothorax, which the patient experienced 6 months ago. If it was not performed then, it should be considered now given the high risk of recurrence in LAM. Option C is incorrect as hormonal agents are explicitly stated as not to be routinely used to treat LAM. Option D is incorrect as prior pleurodesis is explicitly stated as not being a contraindication to future lung transplantation.",
+    "highYieldPearl": "Rio's Take: Prompt pleurodesis after the first spontaneous pneumothorax is crucial in LAM due to high recurrence rates, and importantly, it does not jeopardize future lung transplantation options.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a trap. While Sirolimus *is* indicated for this patient (due to symptomatic chylous ascites), the reason stated here – 'abnormal FEV1' – is incorrect because her FEV1 (72%) is not below the guideline's threshold of <70%. The statement attributes the correct action (start Sirolimus) to an incorrect reason (FEV1 value).",
+      "B": "This is the correct statement. The guidelines clearly state that 'pleurodesis should be offered following the first episode of spontaneous pneumothorax.' Since the patient had one 6 months ago, if not done, it should be considered.",
+      "C": "This is incorrect. The guidelines explicitly state that 'Hormonal agents should not be routinely used to treat LAM.'",
+      "D": "This is incorrect. The guidelines clearly state that 'Prior pleurodesis is not a contraindication to future lung transplantation.'"
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_eef984d2",
+    "question": "Which of the following statements regarding the diagnosis and management of Lymphangioleiomyomatosis (LAM) based on CT findings and clinical context is INCORRECT?",
+    "options": {
+      "A": "High-resolution chest CT findings alone are insufficient to establish a confirmed diagnosis of LAM.",
+      "B": "The presence of renal angiomyolipomas (AMLs) along with typical cystic changes on HRCT can establish a diagnosis of LAM in the absence of tuberous sclerosis complex (TSC).",
+      "C": "Transbronchial lung biopsy (TBLB) has a diagnostic yield of over 50% for LAM and should be considered before surgical lung biopsy.",
+      "D": "Routine administration of doxycycline is recommended for patients with LAM to prevent disease progression."
+    },
+    "correctAnswer": "D",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "Option A is correct: The guidelines state that 'High‑resolution chest CT findings should not be used in isolation to establish a confirmed diagnosis of LAM.' Option B is correct: The guidelines mention that 'In the absence of TSC, careful review of imaging and confirmatory procedures... to determine whether renal AMLs, chylous fluid collections, lymphadenopathy, or lymphangioleiomyomas are present; any one of these findings can establish the diagnosis in the setting of typical cystic change on [CT].' Option C is correct: The guidelines state that 'Trans‑bronchial lung biopsy has a > 50 % diagnostic yield with a reasonable safety profile, and it should be considered before performing surgical lung biopsy.' Option D is incorrect: The guidelines explicitly state that 'Doxycycline should not be routinely used to treat LAM.' Therefore, recommending routine administration of doxycycline is an INCORRECT statement.",
+    "highYieldPearl": "Rio's Take: Always scrutinize 'routine' or 'always/never' statements in clinical guidelines. For LAM, neither hormonal agents nor doxycycline are routinely recommended, highlighting the specific role of Sirolimus as first-line therapy when indicated.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a true statement from the guidelines, emphasizing the need for additional diagnostic criteria beyond just CT findings. It serves as a plausible distractor if the examinee is looking for the incorrect statement.",
+      "B": "This is a true statement directly from the provided text, outlining how an extrapulmonary finding (renal AMLs) combined with characteristic CT findings can be diagnostic for LAM, especially in sporadic cases. This is a strong distractor due to its specificity.",
+      "C": "This is a true statement regarding the utility and sequence of TBLB in the diagnostic algorithm for LAM. It highlights TBLB's role as a less invasive option before considering SLB.",
+      "D": "This is the incorrect statement. The guidelines explicitly state that 'Doxycycline should not be routinely used to treat LAM.' This option represents a common trap where a drug used for other lung conditions might be incorrectly assumed to be useful here."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_2310a160",
+    "question": "A 35-year-old non-smoking female presents with progressive dyspnea and recurrent spontaneous pneumothorax. A high-resolution chest CT (HRCT) scan reveals numerous well-defined, thin-walled cysts diffusely distributed throughout both lungs, without evidence of emphysema or honeycombing. Regarding the diagnostic pathway for Lymphangioleiomyomatosis (LAM) in this patient, which of the following statements is most accurate?",
+    "options": {
+      "A": "The typical cystic changes on HRCT are sufficient for a confirmed diagnosis of LAM.",
+      "B": "Serum Vascular Endothelial Growth Factor-D (VEGF-D) assessment is a highly specific biomarker that can avoid invasive procedures.",
+      "C": "Transbronchial lung biopsy is contraindicated due to the high risk of pneumothorax associated with cystic lung disease.",
+      "D": "Hormonal agents are recommended as first-line treatment if LAM is suspected based on HRCT."
+    },
+    "correctAnswer": "B",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The clinical presentation (young non-smoking female, dyspnea, recurrent pneumothorax) combined with diffuse thin-walled lung cysts on HRCT is highly suggestive of LAM. However, according to the joint American Thoracic Society and Japanese Respiratory Society guidelines, HRCT findings alone are not sufficient for a confirmed diagnosis of LAM. Serum VEGF-D is a highly specific diagnostic biomarker for LAM, and its assessment can often obviate the need for more invasive diagnostic procedures like biopsy.",
+    "highYieldPearl": "Rio's Take: While HRCT showing diffuse thin-walled cysts is highly characteristic of LAM, a confirmed diagnosis often requires additional evidence such as elevated serum VEGF-D or biopsy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option is a trap for misinterpreting the strong suggestive power of HRCT as definitive. The provided text explicitly states, 'High-resolution chest CT findings should not be used in isolation to establish a confirmed diagnosis of LAM.'",
+      "B": "This is the correct answer. The text states, 'Serum VEGF-D is a highly specific diagnostic biomarker for LAM, which can obviate the need for more invasive diagnostic procedures.'",
+      "C": "This option is a trap for assuming an increased risk without considering the safety profile. The text states, 'Trans-bronchial lung biopsy has a > 50% diagnostic yield with a reasonable safety profile, and it should be considered before performing surgical lung biopsy.'",
+      "D": "This option is a trap for incorrect treatment knowledge. The text states, 'Hormonal agents should not be routinely used to treat LAM.'"
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_b324d243",
+    "question": "A 38-year-old female, with a confirmed diagnosis of Lymphangioleiomyomatosis (LAM) based on typical cystic changes on HRCT and elevated serum VEGF-D, presents with acute onset of severe dyspnea. A chest CT scan confirms a large right-sided pleural effusion and also shows her known diffuse cystic lung disease. She reports this is her first significant pleural event. What is the most appropriate management strategy for this patient's pleural disease based on the current guidelines for LAM?",
+    "options": {
+      "A": "Initiate oral doxycycline immediately to prevent recurrence of the effusion.",
+      "B": "Perform a diagnostic thoracentesis, and if the fluid is chylous and symptomatic, initiate sirolimus therapy if not already on it, and consider pleurodesis.",
+      "C": "Administer systemic hormonal therapy as the first-line intervention for pleural effusions in LAM.",
+      "D": "Avoid pleurodesis as it is a contraindication to future lung transplantation, which may be needed for severe LAM."
+    },
+    "correctAnswer": "B",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "Patients with LAM are at a high risk of developing recurrent spontaneous pneumothoraces and chylous effusions. A large pleural effusion warrants diagnostic thoracentesis to confirm if it is chylous. Symptomatic chylous effusions are an indication for sirolimus therapy (if not already initiated). The guidelines also recommend pleurodesis following the first episode of spontaneous pneumothorax in LAM patients to prevent recurrence. While the vignette describes a pleural effusion rather than a definite pneumothorax, the presence of an effusion in LAM often implies chylothorax or can be related to pneumothorax, making thoracentesis and consideration of pleurodesis and sirolimus appropriate.",
+    "highYieldPearl": "Rio's Take: In LAM, pleural effusions, often chylous, require diagnostic thoracentesis. Pleurodesis should be considered after the first episode of spontaneous pneumothorax, and it does not preclude future lung transplantation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option is a trap for incorrect pharmacotherapy. The guidelines state, 'Doxycycline should not be routinely used to treat LAM.'",
+      "B": "This is the correct answer. The text indicates 'symptomatic chylous effusions' are an indication for sirolimus, and 'pleurodesis should be offered following the first episode of spontaneous pneumothorax' (which can manifest as pleural effusion or precede it). Diagnostic thoracentesis is crucial to confirm the nature of the fluid.",
+      "C": "This option is a trap for incorrect pharmacotherapy. The guidelines state, 'Hormonal agents should not be routinely used to treat LAM.'",
+      "D": "This option is a trap for misinformation regarding transplantation. The guidelines explicitly state, 'Prior pleurodesis is not a contraindication to future lung transplantation.'"
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_b77d2926",
+    "question": "A 30-year-old female non-smoker presents with progressive dyspnea and exertional cough. A high-resolution chest CT (HRCT) scan demonstrates multiple well-defined, thin-walled cysts distributed diffusely throughout both lung fields. There is no evidence of emphysema, ground-glass opacities, or honeycombing. She reports no prior history of pneumothorax. Given these HRCT findings, what is the most important next diagnostic step to confirm Lymphangioleiomyomatosis (LAM) while minimizing invasiveness, according to current guidelines?",
+    "options": {
+      "A": "Proceed directly to surgical lung biopsy to obtain definitive histopathology.",
+      "B": "Measure serum Vascular Endothelial Growth Factor-D (VEGF-D) levels.",
+      "C": "Arrange a repeat HRCT scan in 6-12 months to assess for disease progression.",
+      "D": "Initiate a trial of hormonal therapy given the strong suspicion based on imaging."
+    },
+    "correctAnswer": "B",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The HRCT findings of diffuse thin-walled cysts are highly suggestive of LAM in a young non-smoking female. However, HRCT alone is not sufficient for a confirmed diagnosis. According to the guidelines, serum VEGF-D is a highly specific diagnostic biomarker for LAM and can often avoid the need for invasive procedures like surgical lung biopsy. Therefore, measuring serum VEGF-D levels is the most appropriate next step to confirm the diagnosis non-invasively.",
+    "highYieldPearl": "Rio's Take: When HRCT shows typical cystic changes suggestive of LAM, a serum VEGF-D assay is the preferred initial non-invasive test for diagnosis, often avoiding the need for lung biopsy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option is a trap for favoring the most definitive but more invasive procedure prematurely. The text explicitly states that serum VEGF-D 'can obviate the need for more invasive diagnostic procedures,' including surgical biopsy.",
+      "B": "This is the correct answer. The text states, 'Serum VEGF-D is a highly specific diagnostic biomarker for LAM, which can obviate the need for more invasive diagnostic procedures.'",
+      "C": "This option is a trap for confusing a diagnostic step with a monitoring strategy. Monitoring progression is not the primary step for diagnostic confirmation.",
+      "D": "This option is a trap for incorrect treatment knowledge and using treatment as a diagnostic tool. The guidelines state, 'Hormonal agents should not be routinely used to treat LAM.'"
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_ea3c98cd",
+    "question": "A 32-year-old woman presents with progressive dyspnea. Her chest HRCT reveals diffuse thin-walled cysts throughout both lungs, consistent with Lymphangioleiomyomatosis (LAM). Given these imaging findings, what is the most appropriate next step to establish a confirmed diagnosis of LAM?",
+    "options": {
+      "A": "Initiate sirolimus therapy immediately based on the typical CT findings.",
+      "B": "Perform a surgical lung biopsy to confirm the histopathological diagnosis.",
+      "C": "Order serum Vascular Endothelial Growth Factor-D (VEGF-D) level.",
+      "D": "Administer doxycycline as a diagnostic trial for LAM."
+    },
+    "correctAnswer": "C",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The provided guidelines state that serum VEGF-D is a highly specific diagnostic biomarker for LAM, which can obviate the need for more invasive diagnostic procedures. While HRCT findings can be highly suggestive, they should not be used in isolation for a confirmed diagnosis. Therefore, following up suggestive CT findings with a serum VEGF-D test is the most appropriate and least invasive next step.",
+    "highYieldPearl": "Rio's Take: When HRCT shows typical cystic changes for LAM, the first non-invasive confirmatory step is to check serum VEGF-D, which can often avoid lung biopsy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. Sirolimus is a treatment, not a diagnostic step, and it should only be started after confirmed diagnosis and based on specific criteria for disease severity, which are not mentioned here.",
+      "B": "Incorrect. Surgical lung biopsy is an invasive procedure. The guidelines suggest that serum VEGF-D can obviate invasive procedures, and trans-bronchial biopsy should be considered before surgical biopsy if invasive procedures are deemed necessary.",
+      "C": "Correct. Serum VEGF-D is highlighted as a highly specific diagnostic biomarker that can avoid invasive procedures, making it the most appropriate next step after suggestive HRCT findings.",
+      "D": "Incorrect. Doxycycline is explicitly stated as not being routinely used to treat LAM, and it has no role as a diagnostic trial."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_24f16a5a",
+    "question": "A 40-year-old non-smoking woman is evaluated for exertional dyspnea and recurrent spontaneous pneumothorax. Her chest HRCT demonstrates diffuse thin-walled cysts predominantly in the lower lobes. A subsequent abdominal ultrasound reveals multiple bilateral renal angiomyolipomas (AMLs). Which of the following statements is true regarding the diagnosis of Lymphangioleiomyomatosis (LAM) in this patient?",
+    "options": {
+      "A": "The diagnosis of LAM cannot be established without a positive trans-bronchial lung biopsy.",
+      "B": "The presence of renal angiomyolipomas combined with typical HRCT findings is sufficient to establish a diagnosis of LAM.",
+      "C": "A high serum VEGF-D level is mandatory to confirm LAM, despite the other findings.",
+      "D": "The lower lobe predominance of cysts on HRCT rules out a diagnosis of LAM."
+    },
+    "correctAnswer": "B",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The guidelines state that in the absence of Tuberous Sclerosis Complex (TSC), careful review of imaging and confirmatory procedures can determine whether renal AMLs, chylous fluid collections, lymphadenopathy, or lymphangioleiomyomas are present; 'any one of these findings can establish the diagnosis in the setting of typical cystic change on imaging.' In this patient, the combination of typical cystic changes on HRCT and renal angiomyolipomas meets this criterion.",
+    "highYieldPearl": "Rio's Take: Typical cystic changes on HRCT, when accompanied by specific extrapulmonary manifestations like renal angiomyolipomas, are often sufficient for a definitive LAM diagnosis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. While biopsy can be used, the guidelines specifically mention that other findings (like AMLs + typical cysts) can establish the diagnosis, obviating the need for biopsy.",
+      "B": "Correct. The provided context explicitly states that renal AMLs combined with typical cystic change on imaging can establish the diagnosis of LAM.",
+      "C": "Incorrect. While serum VEGF-D is a highly specific biomarker, the guidelines state that other clinical/imaging findings (like AMLs + typical cysts) can also establish the diagnosis, making VEGF-D not 'mandatory' in this specific combined scenario.",
+      "D": "Incorrect. LAM cysts are typically diffuse, and while some sources describe upper or diffuse predominance, lower lobe involvement does not rule out the diagnosis. There is no information in the provided text to support this claim."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_f693a23d",
+    "question": "A 38-year-old woman presents with progressive shortness of breath and a history of recurrent pneumothoraces. A chest HRCT demonstrates numerous thin-walled, round cysts distributed throughout both lungs, consistent with Lymphangioleiomyomatosis (LAM). Which of the following statements accurately reflects the role of HRCT in the diagnosis of LAM according to current guidelines?",
+    "options": {
+      "A": "High-resolution chest CT findings alone are sufficient to establish a confirmed diagnosis of LAM.",
+      "B": "HRCT primarily serves to differentiate LAM from other cystic lung diseases that require immediate surgical intervention.",
+      "C": "HRCT findings are useful for initial suspicion but should not be used in isolation to establish a confirmed diagnosis of LAM.",
+      "D": "The main role of HRCT is to quantify the total cyst volume for prognosis and treatment selection."
+    },
+    "correctAnswer": "C",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The first point under 'DIAGNOSIS' in the provided guidelines explicitly states: 'High-resolution chest CT findings should not be used in isolation to establish a confirmed diagnosis of LAM.' This emphasizes that while HRCT is crucial for identifying typical cystic changes, it requires correlation with other diagnostic markers (like VEGF-D) or clinical features (like AMLs) for definitive diagnosis.",
+    "highYieldPearl": "Rio's Take: Remember, even highly suggestive HRCT patterns for LAM are not enough on their own for a definitive diagnosis; other confirmatory tests are needed.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. This directly contradicts the first diagnostic guideline provided, which explicitly states that HRCT should not be used in isolation to confirm LAM.",
+      "B": "Incorrect. While HRCT helps in differential diagnosis, the primary statement regarding its role in LAM diagnosis is about its limitation in isolation, not its ability to differentiate from conditions requiring surgery.",
+      "C": "Correct. This statement directly reflects the guideline that HRCT findings, while suggestive, are not sufficient on their own for a confirmed diagnosis.",
+      "D": "Incorrect. While CT findings can provide information about disease burden, the guidelines do not highlight quantifying cyst volume as the 'main role' for diagnosis. The primary point is about its insufficient role in isolation for confirmed diagnosis."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_b4ea16fb",
+    "question": "A 35-year-old non-smoking female presents with progressive dyspnea and a history of recurrent spontaneous pneumothoraces. High-resolution CT (HRCT) of the chest reveals numerous thin-walled, round, uniformly distributed cysts throughout both lungs, without evidence of significant emphysema, ground-glass opacity, or fibrosis. No obvious solid nodules or hilar lymphadenopathy are seen.",
+    "options": {
+      "A": "The described HRCT findings are highly suggestive of Lymphangioleiomyomatosis (LAM), and a serum Vascular Endothelial Growth Factor-D (VEGF-D) level should be the next step to confirm the diagnosis.",
+      "B": "The HRCT findings alone are sufficient to establish a confirmed diagnosis of LAM due to their characteristic appearance and the clinical presentation.",
+      "C": "Given the recurrent pneumothoraces and diffuse cysts, a surgical lung biopsy is immediately indicated to definitively confirm the diagnosis of LAM.",
+      "D": "The diffuse cystic changes in a non-smoker, especially with recurrent pneumothoraces, are most consistent with Birt-Hogg-Dube syndrome, requiring genetic testing."
+    },
+    "correctAnswer": "A",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The clinical presentation of a young, non-smoking female with progressive dyspnea, recurrent pneumothoraces, and diffuse, thin-walled, uniform cysts on HRCT is highly suggestive of Lymphangioleiomyomatosis (LAM). According to the guidelines, while HRCT findings are suggestive, they should not be used in isolation to establish a confirmed diagnosis of LAM. Serum VEGF-D is a highly specific diagnostic biomarker for LAM that can often obviate the need for more invasive diagnostic procedures. Therefore, measuring serum VEGF-D is the appropriate next step to confirm the diagnosis in this clinical context.",
+    "highYieldPearl": "Rio's Take: In suspected LAM cases with typical HRCT findings, serum VEGF-D measurement is the preferred non-invasive diagnostic confirmatory test, often precluding the need for lung biopsy.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option correctly identifies the suggestive HRCT findings for LAM and proposes the appropriate, guideline-recommended non-invasive confirmatory diagnostic step (serum VEGF-D).",
+      "B": "This is incorrect. The guidelines explicitly state that 'High-resolution chest CT findings should not be used in isolation to establish a confirmed diagnosis of LAM,' even if the findings are characteristic.",
+      "C": "This is a plausible distractor. While surgical lung biopsy can confirm LAM, it is an invasive procedure. The guidelines suggest less invasive options first, noting that serum VEGF-D can 'obviate the need for more invasive diagnostic procedures.' Transbronchial biopsy also has a reasonable yield and should be considered before surgical biopsy if VEGF-D is not definitive or available.",
+      "D": "Birt-Hogg-Dube (BHD) syndrome also causes diffuse lung cysts and can present with pneumothorax. However, BHD cysts often have a characteristic distribution (subpleural, basilar, or parafissural) and morphology (oval or lentiform) that differ from the uniform, round cysts typical of LAM. While BHD is in the differential for cystic lung disease, LAM is a more classic fit for the described HRCT and clinical scenario, making genetic testing for BHD not the *most consistent* immediate next step compared to confirming LAM."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_0e4b56ee",
+    "question": "A 48-year-old male, a heavy smoker for 25 pack-years, presents with chronic cough and progressive dyspnea. His HRCT chest scan reveals numerous irregularly shaped, bizarre, thick-walled cysts predominantly in the upper and mid-lung zones, associated with centrilobular nodules and areas of ground-glass opacity. There is relative sparing of the costophrenic angles.",
+    "options": {
+      "A": "Pulmonary Langerhans Cell Histiocytosis (PLCH); characterized by thick-walled, irregular cysts, upper lobe predominance, and associated centrilobular nodules.",
+      "B": "Lymphangioleiomyomatosis (LAM); characterized by thin-walled, uniform cysts and diffuse distribution throughout the lung parenchyma, typically in non-smokers.",
+      "C": "Birt-Hogg-Dube (BHD) syndrome; characterized by larger, often oval or lentiform cysts, typically found in subpleural and parafissural locations.",
+      "D": "Centrilobular emphysema; characterized by poorly defined lucencies with visible centrilobular arteries, without distinct cyst walls or associated nodules."
+    },
+    "correctAnswer": "A",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The HRCT findings described—irregularly shaped, bizarre, thick-walled cysts, predominantly in the upper and mid-lung zones, associated with centrilobular nodules and ground-glass opacity in a heavy smoker—are highly characteristic of Pulmonary Langerhans Cell Histiocytosis (PLCH). These features, particularly the cyst morphology (irregular, thick-walled vs. thin-walled in LAM/BHD) and the presence of associated nodules, help differentiate PLCH from other cystic lung diseases.",
+    "highYieldPearl": "Rio's Take: PLCH on HRCT typically presents with irregular, thick-walled cysts, often with associated centrilobular nodules, in a predominantly upper/mid-zone distribution, usually in smokers. This contrasts with LAM's uniform, thin-walled cysts.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option accurately describes the key HRCT features of Pulmonary Langerhans Cell Histiocytosis (PLCH) that are consistent with the vignette and correctly identifies the distinguishing features from other cystic lung diseases.",
+      "B": "This option describes Lymphangioleiomyomatosis (LAM), but the CT findings in the vignette (irregular/thick-walled cysts, upper lobe predominance, smoker, centrilobular nodules) are inconsistent with LAM, which typically presents with thin-walled, uniform cysts in a diffuse pattern, usually in non-smoking females.",
+      "C": "This option describes Birt-Hogg-Dube (BHD) syndrome. While BHD also causes cystic lung disease, its cysts are typically thin-walled, often larger, oval or lentiform, and preferentially located subpleurally or parafissurally. The description of thick-walled, irregular cysts with nodules does not fit BHD.",
+      "D": "Centrilobular emphysema involves airspace enlargement without distinct walls and appears as poorly defined lucencies, often with visible centrilobular arteries. It does not typically present with discrete cysts (which imply defined walls) or associated centrilobular nodules as described in the vignette."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_a816b8fd",
+    "question": "A 30-year-old female diagnosed with Lymphangioleiomyomatosis (LAM) two years prior, presents to the emergency department with acute onset pleuritic chest pain and severe dyspnea. Her chest X-ray shows a large right-sided pneumothorax. HRCT chest confirms diffuse bilateral lung cysts and the large pneumothorax. Following successful chest tube insertion, she experiences a recurrence of the pneumothorax on the same side within a week.",
+    "options": {
+      "A": "Initiate systemic sirolimus therapy immediately, as it is the first-line treatment for LAM and prevents recurrent pneumothoraces.",
+      "B": "Perform an urgent surgical lung biopsy to reassess the LAM diagnosis, as recurrent pneumothorax in LAM may indicate a misdiagnosis.",
+      "C": "Offer pleurodesis (chemical or mechanical) following the current episode of spontaneous pneumothorax.",
+      "D": "Prescribe doxycycline orally for long-term use to reduce the risk of future pneumothorax episodes."
+    },
+    "correctAnswer": "C",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The patient has a confirmed diagnosis of LAM and has experienced a recurrent spontaneous pneumothorax. According to the provided guidelines for LAM, 'Patients with LAM are at a high risk of developing recurrent spontaneous pneumothoraces, and pleurodesis should be offered following the first episode of spontaneous pneumothorax.' Since this patient has now had a recurrence, pleurodesis is the most appropriate and guideline-recommended next step for managing the pleural disease.",
+    "highYieldPearl": "Rio's Take: For LAM patients, pleurodesis is recommended after the first episode of spontaneous pneumothorax to prevent recurrence, as they are at high risk.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Sirolimus is a first-line treatment for LAM, but its indication is primarily for patients with abnormal lung function, chylous effusions, or rapid decline, not acutely as the primary intervention specifically for preventing recurrent pneumothorax. While it treats the underlying disease, pleurodesis is the specific guideline-recommended intervention for pneumothorax prevention after the first episode.",
+      "B": "The patient already has a diagnosed LAM, and recurrent pneumothorax is a known complication. Reassessing the diagnosis with an invasive procedure is not the most appropriate or urgent next step for managing an acute recurrent pneumothorax. The focus should be on preventing further recurrences.",
+      "C": "This option directly reflects the guideline recommendation: 'pleurodesis should be offered following the first episode of spontaneous pneumothorax' due to the high risk of recurrence in LAM patients. This patient has now experienced a recurrence, making pleurodesis the most appropriate management.",
+      "D": "The guidelines explicitly state: 'Doxycycline should not be routinely used to treat LAM.' Therefore, prescribing doxycycline for pneumothorax prevention is incorrect."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_0f9e63e2",
+    "question": "According to the Joint American Thoracic Society and Japanese Respiratory Society Clinical Practice Guidelines, which statement accurately reflects the role of High-Resolution Chest CT (HRCT) in the diagnosis of Lymphangioleiomyomatosis (LAM)?",
+    "options": {
+      "A": "HRCT findings alone are typically sufficient to establish a confirmed diagnosis of LAM.",
+      "B": "HRCT is primarily used for monitoring disease progression and treatment response, not initial diagnosis.",
+      "C": "HRCT findings should not be used in isolation to establish a confirmed diagnosis of LAM.",
+      "D": "HRCT is the gold standard for LAM diagnosis, often obviating the need for further invasive procedures."
+    },
+    "correctAnswer": "C",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The Joint American Thoracic Society and Japanese Respiratory Society Clinical Practice Guidelines explicitly state that 'High‑resolution chest CT findings should not be used in isolation to establish a confirmed diagnosis of LAM.' While typical cystic changes on HRCT are a key feature of LAM, confirmation often requires additional evidence such as elevated serum VEGF-D, findings on biopsy, or clinical associations like chylous effusions or renal AMLs, especially in the absence of Tuberous Sclerosis Complex (TSC).",
+    "highYieldPearl": "Rio's Take: Remember that while imaging is crucial, a 'confirmed' diagnosis in many complex lung diseases like LAM often requires integration of clinical, biochemical, and/or pathological data, moving beyond isolated CT findings.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option is a direct contradiction of the guideline, trapping candidates who might overestimate the diagnostic power of imaging in isolation.",
+      "B": "While HRCT can monitor progression, this option misrepresents its role in *initial diagnosis*, which is often to identify characteristic patterns that prompt further investigation.",
+      "C": "This is the correct statement, directly from the provided guidelines, highlighting the limitations of CT in definitive standalone diagnosis.",
+      "D": "Labeling HRCT as the 'gold standard' for LAM diagnosis is incorrect and misleading, especially given the guideline's specific caution against using it in isolation."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_d0e021a8",
+    "question": "A 38-year-old female presents with progressive dyspnea. Her HRCT chest scan reveals multiple, thin-walled, round or oval cysts of varying sizes, distributed uniformly throughout both lungs. This imaging pattern is most characteristic of which interstitial lung disease?",
+    "options": {
+      "A": "Usual Interstitial Pneumonia (UIP)",
+      "B": "Hypersensitivity Pneumonitis (HP)",
+      "C": "Lymphangioleiomyomatosis (LAM)",
+      "D": "Sarcoidosis"
+    },
+    "correctAnswer": "C",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The description of 'multiple, thin-walled, round or oval cysts of varying sizes, distributed uniformly throughout both lungs' is the classic HRCT appearance of Lymphangioleiomyomatosis (LAM). The provided text mentions 'typical cystic change' as a feature that, with other findings, can establish a LAM diagnosis. Other listed conditions have different characteristic CT patterns: UIP is characterized by honeycombing and traction bronchiectasis, HP often shows centrilobular nodules and ground-glass opacities, and Sarcoidosis presents with perilymphatic nodules.",
+    "highYieldPearl": "Rio's Take: Recognizing classic HRCT patterns is fundamental. Diffuse, thin-walled cysts without significant emphysema or honeycombing is almost pathognomonic for LAM, especially in a female patient.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "UIP is characterized by honeycombing, ground-glass opacities, and traction bronchiectasis, usually with a basal and peripheral predominance, not diffuse thin-walled cysts.",
+      "B": "HP typically presents with centrilobular nodules, ground-glass opacity, and air trapping, especially in the subacute phase, and may show fibrosis in chronic forms, but not diffuse cysts.",
+      "C": "This is the correct answer. The description perfectly matches the characteristic cystic lung disease seen in LAM.",
+      "D": "Sarcoidosis is associated with perilymphatic nodular infiltrates, often along the bronchovascular bundles and pleural surfaces, sometimes with fibrosis, but not diffuse cystic changes."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_cefe2bae",
+    "question": "A 40-year-old female, without a known history of Tuberous Sclerosis Complex (TSC), has an HRCT showing typical cystic changes consistent with Lymphangioleiomyomatosis (LAM). According to the guidelines, which of the following additional findings would be sufficient to establish a diagnosis of LAM in this patient, without requiring an invasive surgical lung biopsy?",
+    "options": {
+      "A": "Presence of extensive ground-glass opacities on HRCT.",
+      "B": "Evidence of elevated serum Angiotensin-Converting Enzyme (ACE) levels.",
+      "C": "Documentation of chylous fluid collection, e.g., chylothorax.",
+      "D": "History of chronic occupational exposure to inorganic dusts."
+    },
+    "correctAnswer": "C",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The guidelines state that 'In the absence of TSC, careful review of imaging and confirmatory procedures (e.g., thoracentesis to document chylothorax) should be performed to determine whether renal AMLs, chylous fluid collections, lymphadenopathy, or lymphangioleiomyomas are present; any one of these findings can establish the diagnosis in the setting of typical cystic change on HRCT.' Therefore, documentation of chylothorax, when combined with typical CT findings, is sufficient for diagnosis.",
+    "highYieldPearl": "Rio's Take: Beyond CT, key non-invasive diagnostic clues for LAM include VEGF-D levels, chylous effusions, and renal AMLs, which can often circumvent the need for surgical biopsy.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Extensive ground-glass opacities are not typical of LAM and would suggest other interstitial lung diseases or acute processes.",
+      "B": "Elevated serum ACE levels are a marker for sarcoidosis, not LAM.",
+      "C": "This is the correct answer. Chylous fluid collections (like chylothorax) are a recognized extra-pulmonary manifestation of LAM, and their presence, along with typical CT cysts, can confirm the diagnosis as per the guidelines.",
+      "D": "Chronic occupational exposure to inorganic dusts is associated with pneumoconioses (e.g., silicosis, asbestosis), which have distinct HRCT patterns and are not related to LAM."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_2b8009e9",
+    "question": "A 35-year-old non-smoking female presents with progressive dyspnea and a history of two spontaneous pneumothorax episodes requiring chest tube insertion. Her HRCT chest scan reveals diffuse, thin-walled, round to oval cysts scattered throughout both lungs, without significant ground-glass opacities, nodules, or emphysema. Based on these findings, which of the following is the *most appropriate* next step in establishing a diagnosis?",
+    "options": {
+      "A": "Measure serum Vascular Endothelial Growth Factor-D (VEGF-D) levels.",
+      "B": "Proceed directly to surgical lung biopsy for definitive histopathological diagnosis.",
+      "C": "Perform a transbronchial lung biopsy via bronchoscopy.",
+      "D": "Initiate a trial of sirolimus therapy based on presumed diagnosis."
+    },
+    "correctAnswer": "A",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The clinical presentation (young female, recurrent pneumothorax, diffuse thin-walled cysts on HRCT) is highly suggestive of Lymphangioleiomyomatosis (LAM). According to the provided guidelines, 'Serum VEGF-D is a highly specific diagnostic biomarker for LAM, which can obviate the need for more invasive diagnostic procedures.' Therefore, measuring serum VEGF-D levels is the most appropriate initial diagnostic step after characteristic HRCT findings, as it offers a highly specific, non-invasive diagnostic pathway.",
+    "highYieldPearl": "Rio's Take: In a young female with recurrent pneumothorax and diffuse lung cysts on HRCT, LAM is a prime suspect. Serum VEGF-D is a key, non-invasive diagnostic marker that often helps confirm the diagnosis, potentially avoiding more invasive biopsies.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. This aligns directly with the guidelines stating VEGF-D is a highly specific diagnostic biomarker that can obviate invasive procedures, making it the most appropriate initial non-invasive diagnostic step.",
+      "B": "Incorrect. Surgical lung biopsy is an invasive procedure. The guidelines suggest considering transbronchial biopsy before surgical biopsy, and more importantly, VEGF-D can often avoid the need for any invasive biopsy.",
+      "C": "Incorrect. While transbronchial lung biopsy has a reasonable diagnostic yield (>50%), it is an invasive procedure. Measuring VEGF-D is less invasive and equally, if not more, appropriate as an initial diagnostic step in this context.",
+      "D": "Incorrect. Initiating treatment without a confirmed diagnosis is premature. While sirolimus is the first-line treatment for LAM in specific situations, diagnosis must be established first."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_c54b5803",
+    "question": "A 30-year-old female presents with recurrent spontaneous pneumothorax. Her HRCT chest scan shows numerous diffuse, thin-walled lung cysts, a pattern consistent with Lymphangioleiomyomatosis (LAM). Her serum VEGF-D levels are reported as within normal limits. In this scenario, which of the following additional findings would most strongly support a confirmed diagnosis of LAM, according to the provided guidelines?",
+    "options": {
+      "A": "Presence of numerous emphysematous changes on HRCT.",
+      "B": "Detection of small, bilateral renal angiomyolipomas (AMLs) on abdominal ultrasound.",
+      "C": "History of occupational exposure to asbestos.",
+      "D": "Identification of ground-glass opacities and centrilobular nodules on HRCT."
+    },
+    "correctAnswer": "B",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The clinical presentation (young female, recurrent pneumothorax, diffuse lung cysts on HRCT) strongly suggests LAM. While an elevated serum VEGF-D is highly specific, its normal level here means we need other confirmatory evidence. According to the guidelines, in the absence of TSC, 'careful review of imaging and confirmatory procedures... should be performed to determine whether renal AMLs, chylous fluid collections, lymphadenopathy, or lymphangioleiomyomas are present; any one of these findings can establish the diagnosis in the setting of typical cystic change on HRCT.' The detection of renal AMLs provides this crucial diagnostic confirmation.",
+    "highYieldPearl": "Rio's Take: When typical HRCT for LAM is present, but serum VEGF-D is not confirmatory or unavailable, look for other systemic manifestations like renal AMLs or chylous effusions, which are highly specific for LAM and can confirm the diagnosis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. While LAM presents with cysts, true emphysema (destruction of alveolar walls) is distinct. LAM cysts are generally thin-walled and often uniformly distributed, differing from typical emphysematous changes. This might be a distractor for general 'air trapping' or cystic appearance.",
+      "B": "Correct. Renal AMLs are a classic extra-pulmonary manifestation of LAM (and TSC), explicitly mentioned in the guidelines as a finding that can 'establish the diagnosis in the setting of typical cystic change on HRCT' when other findings like VEGF-D are not definitive or absent.",
+      "C": "Incorrect. Asbestos exposure leads to asbestosis, which presents with fibrotic changes (e.g., subpleural honeycombing, ground glass) and pleural plaques, not diffuse thin-walled cysts typical of LAM.",
+      "D": "Incorrect. Ground-glass opacities and centrilobular nodules are features of other interstitial lung diseases (e.g., hypersensitivity pneumonitis, respiratory bronchiolitis-ILD) but are not typical for LAM, which primarily presents with cysts."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_e0c3da47",
+    "question": "A 28-year-old female presents with chronic progressive dyspnea and cough. An HRCT chest scan reveals numerous diffuse, thin-walled, round to oval cysts scattered uniformly throughout both lungs, a pattern considered typical for Lymphangioleiomyomatosis (LAM). Based on the provided guidelines, which of the following statements best describes the role of these HRCT findings in establishing a diagnosis of LAM?",
+    "options": {
+      "A": "The typical HRCT findings alone are sufficient to confidently establish a confirmed diagnosis of LAM.",
+      "B": "HRCT is primarily used for monitoring disease progression, not for initial diagnosis of LAM.",
+      "C": "While highly suggestive, HRCT findings should not be used in isolation to establish a confirmed diagnosis of LAM.",
+      "D": "HRCT is helpful in excluding other cystic lung diseases, but not in positively diagnosing LAM."
+    },
+    "correctAnswer": "C",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The guidelines explicitly state: 'High-resolution chest CT findings should not be used in isolation to establish a confirmed diagnosis of LAM.' While HRCT is crucial for raising suspicion and identifying characteristic cystic changes, confirmatory tests (such as serum VEGF-D or evidence of associated extrapulmonary manifestations like renal AMLs or chylothorax) are required for a definitive diagnosis.",
+    "highYieldPearl": "Rio's Take: Remember that typical HRCT for LAM is highly suggestive but not confirmatory on its own. Always look for accompanying evidence from biomarkers (VEGF-D) or extrapulmonary findings (AMLs, chylothorax) to solidify the diagnosis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. This directly contradicts the guideline statement that CT findings should not be used in isolation for confirmed diagnosis. This is a common misconception that characteristic imaging alone is always diagnostic.",
+      "B": "Incorrect. HRCT is fundamental for initial diagnosis (by identifying characteristic features that raise suspicion) and is also used for monitoring; therefore, stating it's *not* for initial diagnosis is false.",
+      "C": "Correct. This statement directly reflects the guidelines' instruction regarding the limitations of HRCT in the definitive diagnosis of LAM, even when typical findings are present.",
+      "D": "Incorrect. HRCT is extremely helpful in *positively* diagnosing LAM by demonstrating the characteristic cystic changes. The limitation is that it cannot *alone* establish a *confirmed* diagnosis without additional corroborating data."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_a6a2ac92",
+    "question": "A 35-year-old female presents with progressive dyspnea. Her HRCT chest shows diffuse thin-walled pulmonary cysts. Which of the following statements is most accurate regarding the diagnostic workup for Lymphangioleiomyomatosis (LAM) in this scenario?",
+    "options": {
+      "A": "The typical HRCT findings are sufficient to establish a confirmed diagnosis of LAM, obviating further invasive tests.",
+      "B": "Serum VEGF-D levels are generally less specific than HRCT for diagnosing LAM.",
+      "C": "The diagnostic yield of trans-bronchial lung biopsy for LAM is typically low (<50%) and therefore often avoided.",
+      "D": "If renal angiomyolipomas (AMLs) are present on abdominal imaging, along with the typical cystic changes on HRCT, the diagnosis of LAM can be established even without evidence of Tuberous Sclerosis Complex (TSC)."
+    },
+    "correctAnswer": "D",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "Table 97.2 of the Joint American Thoracic Society and Japanese Respiratory Society Lymphangioleiomyomatosis Clinical Practice Guidelines explicitly states that 'High-resolution chest CT findings should NOT be used in isolation to establish a confirmed diagnosis of LAM,' making option A incorrect. The guidelines also state that 'Serum VEGF-D is a highly specific diagnostic biomarker for LAM,' which contradicts option B. Furthermore, 'Trans-bronchial lung biopsy has a > 50 % diagnostic yield,' making option C incorrect. Option D is directly supported by the guideline: 'In the absence of TSC, careful review of imaging and confirmatory procedures... to determine whether renal AMLs... are present; any one of these findings can establish the diagnosis in the setting of typical cystic change on [CT]'. This indicates that typical cystic changes on CT, combined with renal AMLs, are sufficient for diagnosis without TSC.",
+    "highYieldPearl": "Rio's Take: For LAM diagnosis, typical cystic changes on HRCT are crucial but usually not sufficient alone. The presence of either an elevated serum VEGF-D or characteristic extra-pulmonary manifestations like renal AMLs, in conjunction with typical HRCT findings, can confirm the diagnosis.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option is a direct contradiction of the guideline which states HRCT findings should NOT be used in isolation. It's a common misconception that 'typical' findings are always 'diagnostic.'",
+      "B": "This reverses the stated specificity of VEGF-D, which is highlighted as 'highly specific' in the guidelines.",
+      "C": "This option misstates the diagnostic yield of trans-bronchial biopsy, which is noted to be '>50%'. Candidates might recall that TBLB can sometimes have lower yields for diffuse lung diseases, but for LAM, it's considered reasonable.",
+      "D": "This option correctly combines HRCT findings with another specific imaging finding (renal AMLs) to reach a confirmed diagnosis as per the guidelines, which is a key diagnostic pathway for LAM, particularly in the absence of TSC."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_d98b6c81",
+    "question": "Which of the following high-resolution computed tomography (HRCT) findings is most characteristic of Lymphangioleiomyomatosis (LAM)?",
+    "options": {
+      "A": "Predominantly peripheral and basal honeycombing with traction bronchiectasis.",
+      "B": "Multiple, thin-walled, round or oval cysts, typically diffuse and uniform in size.",
+      "C": "Widespread ground-glass opacities with associated mosaic attenuation and air trapping.",
+      "D": "Upper lobe predominant centrilobular nodules with a 'tree-in-bud' pattern."
+    },
+    "correctAnswer": "B",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "Lymphangioleiomyomatosis (LAM) is characterized on HRCT by the presence of multiple, thin-walled, round or oval cysts. These cysts are typically diffuse, uniformly distributed throughout the lung parenchyma, and of similar size, though their distribution can sometimes be more prominent in the lower lobes. Honeycombing (option A) is characteristic of Usual Interstitial Pneumonia (UIP) and other fibrotic ILDs. Ground-glass opacities with mosaic attenuation (option C) can be seen in various conditions including hypersensitivity pneumonitis, cellular non-specific interstitial pneumonia, or obstructive bronchiolitis. Centrilobular nodules with a 'tree-in-bud' pattern (option D) are indicative of small airways disease, often infectious or inflammatory.",
+    "highYieldPearl": "Rio's Take: The HRCT hallmark of LAM is diffuse, thin-walled, well-defined cysts. Differentiate these from honeycombing (thicker walls, irregular, usually peripheral/basal) or emphysema (no visible walls, centrilobular/panlobular).",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Describes honeycombing, which is the hallmark of a Usual Interstitial Pneumonia (UIP) pattern, commonly seen in Idiopathic Pulmonary Fibrosis, not LAM. This is a common and distinct CT pattern, making it a plausible distractor.",
+      "B": "This accurately describes the classic HRCT appearance of LAM, which is essential knowledge for thoracic CT interpretation.",
+      "C": "Describes patterns seen in hypersensitivity pneumonitis, cellular NSIP, or small airways disease, not LAM. Ground-glass opacities are a common finding in many ILDs, but not the primary feature for LAM.",
+      "D": "Describes findings often associated with infectious bronchiolitis or aspiration, which are distinct from cystic lung diseases like LAM. This pattern is also generally upper lobe predominant, contrasting with the diffuse nature of LAM cysts."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_e7bc86da",
+    "question": "All of the following statements regarding the diagnosis and management of Lymphangioleiomyomatosis (LAM) are consistent with the Joint American Thoracic Society and Japanese Respiratory Society Clinical Practice Guidelines (Table 97.2), EXCEPT:",
+    "options": {
+      "A": "High-resolution chest CT findings alone are insufficient to confirm a diagnosis of LAM.",
+      "B": "Serum VEGF-D is considered a highly specific diagnostic biomarker for LAM.",
+      "C": "Pleurodesis should be offered following the first episode of spontaneous pneumothorax in patients with LAM.",
+      "D": "Prior pleurodesis in a LAM patient is an absolute contraindication to future lung transplantation."
+    },
+    "correctAnswer": "D",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The provided Table 97.2 explicitly states: 'High-resolution chest CT findings should NOT be used in isolation to establish a confirmed diagnosis of LAM,' making option A true. It also states: 'Serum VEGF-D is a highly specific diagnostic biomarker for LAM,' confirming option B as true. For pleural disease management, the guidelines advise: 'Patients with LAM are at a high risk of developing recurrent spontaneous pneumothoraces, and pleurodesis should be offered following the first episode of spontaneous pneumothorax,' confirming option C as true. However, the guidelines explicitly state: 'Prior pleurodesis is NOT a contraindication to future lung transplantation,' which makes option D false and therefore the correct answer for an 'EXCEPT' question.",
+    "highYieldPearl": "Rio's Take: Always pay close attention to negations ('NOT', 'insufficient', 'except') in guidelines. For LAM, remember HRCT alone isn't diagnostic, VEGF-D is highly specific, and pleurodesis is recommended for the first pneumothorax and does NOT contraindicate transplant.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is a true statement from the guidelines, making it a plausible but incorrect choice for an 'EXCEPT' question. It highlights the limitation of CT as a standalone diagnostic tool.",
+      "B": "This is a true statement from the guidelines, emphasizing the importance of VEGF-D as a diagnostic biomarker.",
+      "C": "This is a true statement from the guidelines regarding the management of recurrent pneumothorax in LAM, which is a common and serious complication.",
+      "D": "This is the incorrect statement, as the guidelines explicitly state that prior pleurodesis is NOT a contraindication to lung transplantation. This can be a common misconception or concern for clinicians and patients, making it a strong distractor if the specific guideline detail is not recalled."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_965f3dd5",
+    "question": "A 35-year-old woman presents with progressive dyspnea and a history of recurrent spontaneous pneumothoraces. High-resolution CT (HRCT) of the chest reveals diffuse, thin-walled, uniformly sized pulmonary cysts throughout both lungs. There are no other significant findings on HRCT. Which of the following is the most appropriate next step to confirm the suspected diagnosis?",
+    "options": {
+      "A": "Obtain serum Vascular Endothelial Growth Factor-D (VEGF-D) level.",
+      "B": "Proceed directly to surgical lung biopsy.",
+      "C": "Perform a trans-bronchial lung biopsy.",
+      "D": "Initiate sirolimus therapy given the classic CT findings."
+    },
+    "correctAnswer": "A",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The patient presents with classic clinical and HRCT features suggestive of Lymphangioleiomyomatosis (LAM): a young woman with dyspnea, recurrent pneumothoraces, and diffuse thin-walled pulmonary cysts. According to the joint American Thoracic Society and Japanese Respiratory Society (ATS/JRS) guidelines (Table 97.2), serum VEGF-D is a highly specific diagnostic biomarker for LAM that can obviate the need for more invasive diagnostic procedures. Therefore, measuring VEGF-D is the most appropriate initial diagnostic step after HRCT findings point to LAM.",
+    "highYieldPearl": "Rio's Take: For suspected LAM with typical cystic change on HRCT, serum VEGF-D is the preferred initial confirmatory test, potentially avoiding invasive biopsies.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. This aligns directly with the guidelines stating VEGF-D is a highly specific biomarker that can obviate more invasive diagnostic procedures for LAM.",
+      "B": "Incorrect. Surgical lung biopsy is an invasive procedure and is generally reserved for cases where less invasive methods (like VEGF-D or trans-bronchial biopsy) are inconclusive or contraindicated. It is not the *most appropriate next step* when a highly specific non-invasive biomarker is available.",
+      "C": "Incorrect. While trans-bronchial lung biopsy has a reasonable diagnostic yield (>50%) and safety profile for LAM, the guidelines specify that VEGF-D can *obviate* the need for *more invasive diagnostic procedures*. A trans-bronchial biopsy is an invasive procedure, making VEGF-D the preferred initial diagnostic step.",
+      "D": "Incorrect. Initiating sirolimus therapy is a treatment decision, not a diagnostic step. Furthermore, sirolimus is indicated for specific criteria (e.g., FEV1 <70%, symptomatic chylous effusions, rapid lung function decline, substantial disease burden), and diagnosis should be confirmed before treatment is started, especially given the side effects of immunosuppressive therapy. HRCT findings alone are not sufficient for a *confirmed* diagnosis or for initiating treatment according to the guidelines."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_c6dd0271",
+    "question": "A 40-year-old woman with a confirmed diagnosis of lymphangioleiomyomatosis (LAM) on sirolimus therapy is on routine follow-up. Her lung function tests have remained stable (FEV1 75% of predicted). During her visit, she complains of increasing shortness of breath and a persistent dull ache in her left chest. A follow-up HRCT chest is performed. Which of the following CT findings would most strongly indicate a need to adjust her management by intensifying sirolimus therapy or considering other interventions, based on current guidelines?",
+    "options": {
+      "A": "Unchanged diffuse thin-walled pulmonary cysts.",
+      "B": "Stable, small bilateral renal angiomyolipomas (AMLs).",
+      "C": "New or worsening left-sided pleural effusion consistent with chylothorax.",
+      "D": "Mild, stable centrilobular emphysema."
+    },
+    "correctAnswer": "C",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The patient has confirmed LAM and is on sirolimus. The question asks for a CT finding that indicates a need for management adjustment based on current guidelines. According to Table 97.2, sirolimus should be the first-line treatment for patients with \"symptomatic chylous effusions\" or other markers of substantial disease burden or decline. A new or worsening pleural effusion consistent with chylothorax on HRCT directly falls under \"symptomatic chylous effusions\" and necessitates a re-evaluation of treatment, potentially intensifying sirolimus or considering specific pleural disease management.",
+    "highYieldPearl": "Rio's Take: In LAM, CT evidence of new or worsening symptomatic chylous effusions is a key indicator for intensifying or initiating sirolimus therapy, even if lung function might otherwise appear stable.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. Unchanged diffuse thin-walled cysts are the hallmark of LAM and do not, by themselves, indicate a need for management adjustment if the patient's condition is otherwise stable.",
+      "B": "Incorrect. Small bilateral renal AMLs are common extrapulmonary manifestations of LAM. Unless they are rapidly growing, causing symptoms, or bleeding, their stable presence does not typically trigger a change in LAM lung management. The guidelines focus on pulmonary manifestations and chylous effusions for sirolimus initiation/adjustment related to lung disease.",
+      "C": "Correct. The presence of \"symptomatic chylous effusions\" is explicitly listed in Table 97.2 as an indication for sirolimus therapy. A new or worsening pleural effusion consistent with chylothorax on CT would prompt a re-evaluation of therapy, potentially including intensifying sirolimus or other interventions.",
+      "D": "Incorrect. Mild, stable centrilobular emphysema is often a co-finding, especially in smokers, but it is not listed as a specific trigger for sirolimus adjustment in LAM guidelines. The focus for LAM treatment intensification is on disease progression, significant symptoms, chylous effusions, or significant lung function decline."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_5f3bc4f7",
+    "question": "A 50-year-old male smoker with a 30-pack-year history presents with progressive dyspnea and chronic cough. His HRCT chest reveals multiple, variably sized, irregularly shaped (bizarre) cysts, often coalescing, with an associated presence of cavitating nodules. These findings are predominantly located in the upper and mid lung zones, with relative sparing of the costophrenic angles. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Lymphangioleiomyomatosis (LAM)",
+      "B": "Pulmonary Langerhans Cell Histiocytosis (PLCH)",
+      "C": "Usual Interstitial Pneumonia (UIP)",
+      "D": "Hypersensitivity Pneumonitis (HP)"
+    },
+    "correctAnswer": "B",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The patient's presentation (male smoker with progressive dyspnea) and the specific HRCT findings are classic for Pulmonary Langerhans Cell Histiocytosis (PLCH). Key CT features supporting PLCH include: (1) Irregularly shaped, bizarre cysts, often coalescing, which are distinct from the uniform cysts of LAM. (2) The presence of cavitating nodules, which are commonly seen in early PLCH and can evolve into cysts. (3) A predominant distribution in the upper and mid-lung zones with relative sparing of the costophrenic angles, a characteristic pattern for PLCH. (4) A strong association with a significant smoking history. While the provided text focuses on LAM, the topic of 'Thoracic CT Interpretation' necessitates knowledge of common differential diagnoses based on specific CT patterns.",
+    "highYieldPearl": "Rio's Take: Irregular, bizarre cysts, often with cavitating nodules, in a male smoker, especially with upper/mid-zone predominance and costophrenic angle sparing, strongly suggest Pulmonary Langerhans Cell Histiocytosis (PLCH).",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. LAM typically affects young to middle-aged women (though men can rarely be affected) with diffuse, uniformly sized, thin-walled, round cysts, usually without nodules or bizarre shapes, and not typically associated with upper lobe predominance or a strong smoking history as a primary cause. The gender, smoking history, and specific CT morphology described significantly deviate from typical LAM.",
+      "B": "Correct. This option perfectly matches the classic clinical and HRCT features of PLCH: a male smoker, bizarrely shaped cysts often with cavitating nodules, and characteristic upper/mid-zone predominance with costophrenic angle sparing.",
+      "C": "Incorrect. UIP pattern (often associated with Idiopathic Pulmonary Fibrosis) on HRCT is characterized by basal and subpleural predominant honeycombing (clusters of cystic airspaces, often uniform in size), traction bronchiectasis, and reticulation. It does not typically involve bizarre cysts, cavitating nodules, or upper/mid-zone predominance with costophrenic sparing as described.",
+      "D": "Incorrect. Hypersensitivity Pneumonitis (HP) can have various HRCT patterns depending on chronicity, but diffuse cystic lung disease with bizarre cysts and cavitating nodules is not a typical dominant feature. Acute/subacute HP often shows ground-glass opacity, centrilobular nodules, and mosaic attenuation. Chronic HP can show fibrosis, traction bronchiectasis, and honeycombing, but usually with a mid-to-upper lung distribution, often with mosaic attenuation and centrilobular nodules, not prominently bizarre cysts or cavitating nodules as the primary findings."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_0f45d443",
+    "question": "A 35-year-old non-smoking woman presents with gradually worsening dyspnea and a history of two spontaneous pneumothoraces in the past year. Her HRCT chest scan reveals numerous diffuse, thin-walled, round cysts distributed throughout both lungs, without evidence of ground-glass opacities, consolidation, or fibrosis. There are no other clear features of tuberous sclerosis complex (TSC).",
+    "options": {
+      "A": "Serum Vascular Endothelial Growth Factor-D (VEGF-D) level.",
+      "B": "Transbronchial lung biopsy.",
+      "C": "Surgical lung biopsy.",
+      "D": "Empirical trial of hormonal therapy."
+    },
+    "correctAnswer": "A",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The clinical presentation of a young woman with recurrent pneumothoraces and diffuse thin-walled cysts on HRCT is highly suggestive of Lymphangioleiomyomatosis (LAM). According to the joint American Thoracic Society (ATS) and Japanese Respiratory Society (JRS) guidelines, serum VEGF-D is a highly specific diagnostic biomarker for LAM and can often obviate the need for more invasive diagnostic procedures. Its measurement is therefore the most appropriate initial step to confirm the diagnosis in this setting, correlating the typical CT findings with a specific biomarker.",
+    "highYieldPearl": "Rio's Take: In a young woman with diffuse lung cysts on CT and recurrent pneumothoraces, LAM is a prime suspect. Elevated serum VEGF-D often provides a definitive, non-invasive diagnosis, making it the preferred initial step following suggestive imaging.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. The guidelines explicitly state that serum VEGF-D is a highly specific diagnostic biomarker for LAM, which can obviate the need for more invasive diagnostic procedures after characteristic CT findings.",
+      "B": "While transbronchial lung biopsy has a reasonable diagnostic yield (>50%) and safety profile for LAM, the guidelines recommend considering it *before* surgical lung biopsy, implying it's a step *after* less invasive options like VEGF-D, especially if VEGF-D is not conclusive or not available. It is not the *initial* step.",
+      "C": "Surgical lung biopsy is the most invasive diagnostic procedure and is generally reserved for cases where less invasive methods (VEGF-D, transbronchial biopsy) are non-diagnostic or contraindicated. It is not the *initial* next step.",
+      "D": "Hormonal agents are explicitly stated as *not* to be routinely used to treat LAM. This is a treatment, not a diagnostic step, and initiating it empirically without a confirmed diagnosis is inappropriate."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_3c111ac3",
+    "question": "A 40-year-old woman undergoes HRCT chest for chronic cough and dyspnea. The scan reveals numerous scattered, thin-walled, round cysts distributed uniformly throughout both lung fields. No other significant parenchymal abnormalities are noted. Her past medical history is otherwise unremarkable, and she denies any known risk factors for specific lung diseases.",
+    "options": {
+      "A": "The HRCT findings alone are sufficient to establish a confirmed diagnosis of LAM.",
+      "B": "Serum VEGF-D measurement should be performed, as HRCT alone is insufficient for a confirmed diagnosis.",
+      "C": "Given the typical appearance, a surgical lung biopsy is immediately indicated for definitive diagnosis.",
+      "D": "The diagnosis of LAM is highly probable, but only if renal AMLs or chylous effusions are also documented."
+    },
+    "correctAnswer": "B",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The provided guidelines explicitly state that 'High-resolution chest CT findings should *not* be used in isolation to establish a confirmed diagnosis of LAM.' While the described CT findings (diffuse thin-walled cysts) are highly suggestive of LAM, a confirmatory test is required. Serum VEGF-D is highlighted as a highly specific diagnostic biomarker that can often avoid invasive procedures. Therefore, measuring VEGF-D is the most accurate next step, acknowledging the characteristic CT pattern but also its diagnostic limitation when used alone.",
+    "highYieldPearl": "Rio's Take: While cystic changes on HRCT are highly characteristic of LAM, they are never solely diagnostic. Always pursue confirmatory testing, with serum VEGF-D being the preferred initial non-invasive biomarker.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is incorrect. The guidelines explicitly state that HRCT findings should *not* be used in isolation for diagnosis, even with a typical appearance. This is a common pitfall in CT interpretation.",
+      "B": "This is the correct answer, directly reflecting the guideline's emphasis on VEGF-D as a highly specific diagnostic biomarker and the limitation of CT in isolation for establishing a confirmed diagnosis.",
+      "C": "This is incorrect. Surgical lung biopsy is an invasive procedure and is not indicated immediately, especially when a less invasive and highly specific biomarker like VEGF-D is available. It's considered *after* transbronchial biopsy, if needed.",
+      "D": "While documentation of renal AMLs, chylous effusions, lymphadenopathy, or lymphangioleiomyomas *can* establish the diagnosis in the setting of typical cystic change (especially in the absence of TSC), it's not the *only* way to confirm. Serum VEGF-D is an alternative and often preferred method, and it's not strictly necessary to have these other findings if VEGF-D is diagnostic. This option incorrectly limits the diagnostic pathways."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_de450e19",
+    "question": "A 32-year-old woman has been newly diagnosed with Lymphangioleiomyomatosis (LAM) following elevated serum VEGF-D levels in the context of typical diffuse cystic changes on HRCT. Her lung function tests show an FEV1 of 65% of predicted, and she reports significant exertional dyspnea. She denies any history of chylous effusions or rapidly declining lung function.",
+    "options": {
+      "A": "Doxycycline",
+      "B": "Estrogen therapy",
+      "C": "Sirolimus",
+      "D": "Progesterone"
+    },
+    "correctAnswer": "C",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The patient's FEV1 of 65% of predicted indicates abnormal lung function (FEV1 < 70%). According to the LAM clinical practice guidelines, 'Sirolimus is a safe and effective treatment for LAM and should be the first-line treatment for patients with abnormal lung function (FEV1 < 70%), symptomatic chylous effusions, rapidly declining lung function (FEV1 decline rates > 90 mL/yr), or substantial disease burden.' Given her FEV1 is below 70%, Sirolimus is clearly indicated as the most appropriate first-line pharmacologic treatment.",
+    "highYieldPearl": "Rio's Take: Sirolimus is the cornerstone of LAM management, particularly for patients with impaired lung function (FEV1 < 70%), chylous effusions, or rapid disease progression. Remember, hormonal therapies and doxycycline are generally not recommended.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "The guidelines explicitly state that 'Doxycycline should *not* be routinely used to treat LAM.' This makes it an incorrect choice for first-line treatment.",
+      "B": "The guidelines explicitly state that 'Hormonal agents should *not* be routinely used to treat LAM.' Estrogen therapy falls under this category. This is incorrect.",
+      "C": "This is the correct answer. The patient's FEV1 < 70% is a clear indication for Sirolimus as per the guidelines, which should be the first-line treatment in this scenario.",
+      "D": "Similar to estrogen therapy, progesterone is a hormonal agent and is explicitly stated as *not* to be routinely used for LAM treatment. This is incorrect."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_27f39fb8",
+    "question": "A 32-year-old non-smoking female presents with progressive shortness of breath and a history of two episodes of spontaneous pneumothorax in the past year. Her physical examination is unremarkable. High-resolution computed tomography (HRCT) of the chest reveals numerous diffuse, thin-walled, round cysts distributed uniformly throughout both lungs. There are no other significant findings. Considering the HRCT findings, what is the most appropriate next diagnostic step to confirm the suspected underlying condition?",
+    "options": {
+      "A": "Serum Vascular Endothelial Growth Factor-D (VEGF-D) measurement.",
+      "B": "Surgical lung biopsy for histopathological examination.",
+      "C": "Transbronchial lung biopsy.",
+      "D": "Bronchoalveolar lavage (BAL) for cell count and differential."
+    },
+    "correctAnswer": "A",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "The clinical presentation (young non-smoking female, progressive dyspnea, recurrent spontaneous pneumothorax) combined with the HRCT finding of diffuse thin-walled cysts distributed uniformly throughout both lungs is highly suggestive of Lymphangioleiomyomatosis (LAM). While HRCT findings are characteristic, the guidelines state that they should not be used in isolation to establish a confirmed diagnosis. The most appropriate next diagnostic step, as per the provided guidelines, is to measure serum VEGF-D. VEGF-D is a highly specific diagnostic biomarker for LAM and its elevation can often obviate the need for more invasive diagnostic procedures like surgical or transbronchial lung biopsy.",
+    "highYieldPearl": "Rio's Take: In suspected LAM cases with characteristic HRCT, serum VEGF-D is the preferred initial confirmatory test due to its high specificity and ability to avoid invasive procedures.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. This aligns with the guidelines which prioritize VEGF-D as a highly specific, less invasive diagnostic biomarker for LAM, often precluding the need for biopsies.",
+      "B": "Trap. Surgical lung biopsy is an invasive procedure that carries risks. While it can confirm LAM, the guidelines indicate that VEGF-D measurement should be performed first, as it can make more invasive procedures unnecessary.",
+      "C": "Trap. Transbronchial lung biopsy has a diagnostic yield of >50% for LAM and a reasonable safety profile. However, it is still an invasive procedure. Serum VEGF-D measurement is less invasive and should be considered before any biopsy if LAM is suspected.",
+      "D": "Trap. Bronchoalveolar lavage is generally not diagnostic for LAM. While it can be useful in certain interstitial lung diseases, it does not provide specific diagnostic information for LAM, which requires identification of LAM cells or elevated biomarkers like VEGF-D."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_538a705b",
+    "question": "A 38-year-old female, diagnosed with Lymphangioleiomyomatosis (LAM) two years ago based on typical HRCT findings and elevated serum VEGF-D, presents for follow-up. She reports increasing exertional dyspnea and has developed a persistent, symptomatic right-sided pleural effusion, confirmed to be chylous on thoracentesis. Her latest pulmonary function tests show an FEV1 of 68% of predicted. Based on the current clinical status, what is the most appropriate first-line pharmacological treatment for this patient?",
+    "options": {
+      "A": "Sirolimus.",
+      "B": "Doxycycline.",
+      "C": "Medroxyprogesterone.",
+      "D": "Prednisolone."
+    },
+    "correctAnswer": "A",
+    "topic": "Thoracic CT Interpretation",
+    "deepDiveExplanation": "This patient has confirmed LAM and meets several criteria for initiating pharmacological treatment as outlined in the guidelines. Her FEV1 is 68% of predicted (which is <70%), and she has a symptomatic chylous pleural effusion. The guidelines clearly state that 'Sirolimus is a safe and effective treatment for LAM and should be the first-line treatment for patients with abnormal lung function (FEV1 < 70%), symptomatic chylous effusions, rapidly declining lung function (FEV1 decline rates > 90 mL/yr), or substantial disease burden'.",
+    "highYieldPearl": "Rio's Take: Sirolimus is the first-line pharmacological treatment for LAM patients with significant lung function impairment (FEV1 < 70%) or symptomatic chylous effusions.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. The patient's FEV1 < 70% and presence of symptomatic chylous effusion are explicit indications for Sirolimus as first-line treatment according to the provided guidelines.",
+      "B": "Trap. The guidelines explicitly state that 'Doxycycline should NOT be routinely used to treat LAM'. This option represents an outdated or incorrect treatment approach.",
+      "C": "Trap. Medroxyprogesterone is a hormonal agent. The guidelines explicitly state that 'Hormonal agents should NOT be routinely used to treat LAM', reflecting the shift away from hormonal therapies as first-line treatment.",
+      "D": "Trap. Prednisolone, a corticosteroid, is not indicated as a first-line pharmacological treatment for LAM. Corticosteroids do not have an established role in the routine management of LAM."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_421d225b",
+    "question": "A 45-year-old non-smoking male presents with progressive dyspnea and cough for 6 months. He reports working as a pigeon breeder for the past 10 years. Pulmonary function tests show a restrictive pattern with reduced DLCO. HRCT chest (inspiratory images) reveals diffuse ground-glass opacities, poorly defined centrilobular nodules, and mosaic attenuation predominantly in the mid and upper lung zones. What additional HRCT finding on specific imaging protocol would most strongly support a diagnosis of hypersensitivity pneumonitis?",
+    "options": {
+      "A": "Subpleural honeycombing in basal predominant distribution",
+      "B": "Extensive traction bronchiectasis without honeycombing",
+      "C": "Air trapping on end-expiratory images",
+      "D": "Bronchocentric consolidation with peripheral sparing"
+    },
+    "correctAnswer": "C",
+    "topic": "HRCT Patterns in ILD",
+    "deepDiveExplanation": "Hypersensitivity pneumonitis (HP) is an immune-mediated interstitial lung disease often provoked by inhaled antigens. The clinical vignette, with a history of pigeon breeding and initial HRCT findings of ground-glass opacities, centrilobular nodules, and mosaic attenuation in mid/upper lung zones, is highly suggestive of HP. The provided context explicitly states that 'the HRCT protocol needs to include end-expiratory images for evaluation of air trapping, which may be indicative of small airway disease, a finding suggestive of the diagnosis of HP.' Air trapping is a key, often diffuse, feature of HP due to small airway involvement (bronchiolitis).",
+    "highYieldPearl": "Rio's Take: Always look for air trapping on expiratory HRCT images in a patient with suspected HP, especially when other characteristic features like centrilobular nodules and mosaic attenuation are present. Its presence significantly strengthens the diagnosis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Subpleural honeycombing in a basal predominant distribution is characteristic of Usual Interstitial Pneumonia (UIP) pattern, commonly seen in Idiopathic Pulmonary Fibrosis (IPF) or certain CTD-ILDs like RA-ILD. While some fibrotic HP can develop honeycombing, the question asks for the finding most supportive *in general* for HP given the initial findings, and air trapping is a more specific early/chronic feature.",
+      "B": "Extensive traction bronchiectasis without honeycombing can be seen in Nonspecific Interstitial Pneumonia (NSIP), which is a different ILD pattern. It does not specifically point towards HP.",
+      "C": "This is the correct answer. Air trapping on end-expiratory images is a highly characteristic and often diffuse finding in HP, reflecting small airways involvement. The context specifically highlights the importance of expiratory imaging for this feature.",
+      "D": "Bronchocentric consolidation with peripheral sparing is more typical of Organizing Pneumonia (OP) than HP. While OP can be a pattern in HP, air trapping is a more fundamental and commonly observed diagnostic feature of HP on specific imaging protocols."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_644dc8c0",
+    "question": "A 62-year-old female with a long-standing history of seropositive rheumatoid arthritis presents with increasing exertional dyspnea and dry cough. Physical examination reveals bilateral fine inspiratory crackles at the lung bases. HRCT chest demonstrates subpleural and basal predominant reticulation, traction bronchiectasis, and focal honeycombing. Based on the given clinical and radiological findings, which of the following is the most likely HRCT pattern of interstitial lung disease in this patient?",
+    "options": {
+      "A": "Nonspecific Interstitial Pneumonia (NSIP)",
+      "B": "Usual Interstitial Pneumonia (UIP)",
+      "C": "Organizing Pneumonia (OP)",
+      "D": "Lymphocytic Interstitial Pneumonia (LIP)"
+    },
+    "correctAnswer": "B",
+    "topic": "HRCT Patterns in ILD",
+    "deepDiveExplanation": "The patient has rheumatoid arthritis (RA), a connective tissue disease strongly associated with interstitial lung disease. The HRCT findings of subpleural and basal predominant reticulation, traction bronchiectasis, and honeycombing are the classic hallmarks of a Usual Interstitial Pneumonia (UIP) pattern. The provided context explicitly states that for Rheumatoid Arthritis (RA), the 'Most common: UIP' pattern is observed. Furthermore, it emphasizes that 'UIP pattern seen in CTD-ILD is often indistinguishable from that of idiopathic pulmonary fibrosis (IPF) and is characterized by honeycombing, reticulation, and traction bronchiectasis in a subpleural basal distribution.'",
+    "highYieldPearl": "Rio's Take: When honeycombing, reticulation, and traction bronchiectasis are seen in a subpleural, basal predominant distribution, think UIP. RA-ILD commonly manifests with a UIP pattern.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "NSIP is a common HRCT pattern in several CTDs (e.g., SSc, SLE, PM/DM), but for RA, UIP is more prevalent. The HRCT description (honeycombing) also does not fit typical NSIP.",
+      "B": "This is the correct answer. The HRCT features perfectly describe a UIP pattern, and the context clearly states UIP is the most common pattern in RA-ILD.",
+      "C": "OP is another pattern seen in CTD-ILDs, most commonly associated with polymyositis/dermatomyositis (PM/DM), but it is not the most common for RA and the HRCT features described (honeycombing) are not typical for OP.",
+      "D": "LIP is a less common pattern, primarily associated with Sjögren syndrome or SLE. It is not the most common pattern for RA, and the HRCT findings of LIP (perivascular cysts, GGO, centrilobular nodules) do not match the given description."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ards_prone_128ad583",
+    "question": "A 55-year-old female presents with a 9-month history of progressive dyspnea, dry cough, and Raynaud's phenomenon. Clinical examination reveals sclerodactyly and mild skin thickening on her forearms. Serological testing is positive for anti-Scl-70 antibodies. HRCT chest reveals bilateral, symmetrical ground-glass opacities, fine reticulation, and mild traction bronchiectasis, predominantly in the lung bases. Honeycombing is conspicuously absent. Which HRCT pattern is most consistent with this patient's presentation?",
+    "options": {
+      "A": "Usual Interstitial Pneumonia (UIP)",
+      "B": "Nonspecific Interstitial Pneumonia (NSIP)",
+      "C": "Organizing Pneumonia (OP)",
+      "D": "Hypersensitivity Pneumonitis (HP)"
+    },
+    "correctAnswer": "B",
+    "topic": "HRCT Patterns in ILD",
+    "deepDiveExplanation": "The patient's clinical presentation with Raynaud's phenomenon, sclerodactyly, skin thickening, and positive anti-Scl-70 antibodies strongly indicates systemic sclerosis (SSc). For SSc-ILD, the provided context states that the 'Most common: NSIP' pattern is observed. The HRCT findings of bilateral, symmetrical ground-glass opacities, fine reticulation, and mild traction bronchiectasis, particularly with the explicit absence of honeycombing, are characteristic features of NSIP. The symmetrical and often basal predominant distribution without honeycombing helps distinguish NSIP from UIP.",
+    "highYieldPearl": "Rio's Take: In systemic sclerosis-ILD, NSIP is the predominant HRCT pattern, characterized by ground-glass opacities and reticulation, often without honeycombing. The absence of honeycombing is a crucial differentiator from UIP.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "UIP pattern is seen in SSc but is less common than NSIP, and critically, the HRCT description explicitly states 'honeycombing is conspicuously absent,' which is a defining feature of UIP. Therefore, UIP is not consistent with the imaging findings.",
+      "B": "This is the correct answer. NSIP is the most common HRCT pattern in SSc-ILD, and the described HRCT features (bilateral symmetrical GGO, fine reticulation, mild traction bronchiectasis, and absence of honeycombing) are typical for NSIP.",
+      "C": "OP is a possible pattern in CTD-ILD, but it is less common in SSc and the HRCT findings (which typically involve patchy consolidation, often peribronchial) do not match the description of diffuse ground-glass and fine reticulation.",
+      "D": "HP is unlikely in this context. While GGO and reticulation can be seen in HP, the lack of an exposure history, coupled with the classic features of SSc and the absence of specific HP features like centrilobular nodules or air trapping, makes HP less probable than SSc-associated NSIP."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "Dark side of spontaneous breathing?",
+      "section": null,
+      "pageNumber": 4
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_001",
+    "generatedAt": 1767060988509,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "Prone positioning in ARDS primarily improves oxygenation by which mechanism?",
+    "options": {
+      "A": "Increasing cardiac output",
+      "B": "Improving V/Q matching",
+      "C": "Decreasing pulmonary vascular resistance",
+      "D": "Reducing intrapulmonary shunt"
+    },
+    "correctAnswer": "B",
+    "topic": "ards_prone",
+    "deepDiveExplanation": "Prone positioning redistributes ventilation and perfusion, recruiting previously collapsed dorsal lung regions, reducing shunt, and making ventilation more uniform, thus improving V/Q matching. While it reduces shunt, improving V/Q matching is a broader and more encompassing primary mechanism.",
+    "highYieldPearl": "The main benefit of prone positioning is improved V/Q matching and recruitment of dorsal lung, leading to better oxygenation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Options A and C are hemodynamic, not primary respiratory mechanisms. Option D (reducing intrapulmonary shunt) is a component of improved V/Q matching, but B is a more complete description of the overall physiological improvement.",
+    "isOneLiner": true,
+    "id": "one_liner_ards_prone_ahl7ulok"
+  },
+  {
+    "question": "What PaO2/FiO2 ratio typically indicates consideration for prone positioning in ARDS?",
+    "options": {
+      "A": "<300 mmHg",
+      "B": "<200 mmHg",
+      "C": "<150 mmHg",
+      "D": "<100 mmHg"
+    },
+    "correctAnswer": "C",
+    "topic": "ards_prone",
+    "deepDiveExplanation": "The PROSEVA trial, which demonstrated a mortality benefit with prone positioning, included patients with severe ARDS defined by a PaO2/FiO2 ratio of <150 mmHg on FiO2 >0.6 and PEEP >5 cmH2O.",
+    "highYieldPearl": "PROSEVA criteria for prone positioning in ARDS: PaO2/FiO2 <150 mmHg.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Other ratios (A, B) define ARDS severity, but <150 mmHg is the specific threshold associated with a mortality benefit in the key clinical trial for prone positioning.",
+    "isOneLiner": true,
+    "id": "one_liner_ards_prone_eula4yp7"
+  },
+  {
+    "question": "Prone positioning in severe ARDS has been shown to improve which outcome?",
+    "options": {
+      "A": "Duration of mechanical ventilation",
+      "B": "ICU length of stay",
+      "C": "28-day mortality",
+      "D": "Incidence of ventilator-associated pneumonia"
+    },
+    "correctAnswer": "C",
+    "topic": "ards_prone",
+    "deepDiveExplanation": "The PROSEVA trial demonstrated a significant reduction in 28-day and 90-day mortality in severe ARDS patients treated with prolonged prone positioning. While it might indirectly affect other outcomes, mortality reduction is the primary, statistically significant, and clinically impactful outcome.",
+    "highYieldPearl": "Prone positioning reduces mortality in severe ARDS, as evidenced by the PROSEVA trial.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While there might be trends or indirect effects on other options, the robust evidence points to a direct reduction in mortality as the key benefit.",
+    "isOneLiner": true,
+    "id": "one_liner_ards_prone_jd1jf4za"
+  },
+  {
+    "question": "Prone positioning primarily recruits which lung regions in ARDS?",
+    "options": {
+      "A": "Ventral",
+      "B": "Apical",
+      "C": "Dorsal",
+      "D": "Basal"
+    },
+    "correctAnswer": "C",
+    "topic": "ards_prone",
+    "deepDiveExplanation": "In supine ARDS, the dorsal (posterior) lung regions are often compressed by the heart, mediastinum, and abdominal contents, leading to collapse and atelectasis. Prone positioning redistributes these forces, allowing for recruitment and improved ventilation of these previously collapsed dorsal areas.",
+    "highYieldPearl": "Key benefit of proning is recruitment of previously collapsed dorsal lung units.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Ventral lung regions are typically better ventilated in the supine position. Apical and basal are less specific to the gravitational effects addressed by proning compared to the dorsal-ventral axis.",
+    "isOneLiner": true,
+    "id": "one_liner_ards_prone_ty67u4nk"
+  },
+  {
+    "question": "Which condition is an absolute contraindication for prone positioning in ARDS?",
+    "options": {
+      "A": "Mild ARDS",
+      "B": "Recent spinal surgery",
+      "C": "Chronic obstructive pulmonary disease",
+      "D": "Morbid obesity"
+    },
+    "correctAnswer": "B",
+    "topic": "ards_prone",
+    "deepDiveExplanation": "Spinal instability, such as recent spinal surgery, unstable pelvic fractures, or cervical spine injuries, is an absolute contraindication due to the high risk of neurological damage during patient turning and positioning.",
+    "highYieldPearl": "Unstable spine or pelvis is a critical absolute contraindication for prone positioning.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Mild ARDS is an indication issue (prone reserved for severe ARDS). COPD and morbid obesity can make proning technically challenging but are not absolute contraindications if benefits outweigh risks and resources are available.",
+    "isOneLiner": true,
+    "id": "one_liner_ards_prone_c4tqj2hb"
+  },
+  {
+    "question": "What is the recommended minimum daily duration for prone positioning in severe ARDS?",
+    "options": {
+      "A": "4-6 hours",
+      "B": "8-10 hours",
+      "C": "12-16 hours",
+      "D": "20-22 hours"
+    },
+    "correctAnswer": "C",
+    "topic": "ards_prone",
+    "deepDiveExplanation": "The PROSEVA trial, which showed a mortality benefit, used prone positioning for at least 16 hours per day. Current guidelines generally recommend a minimum of 12-16 hours per day to achieve sustained physiological benefits and improve outcomes.",
+    "highYieldPearl": "Prolonged prone positioning (12-16 hours/day) is crucial for mortality benefit.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Shorter durations (A, B) have not consistently shown the same mortality benefits. While longer durations might be tolerated, 12-16 hours is the evidence-based minimum for significant impact.",
+    "isOneLiner": true,
+    "id": "one_liner_ards_prone_kybkty32"
+  },
+  {
+    "question": "Prone positioning typically affects chest wall compliance in ARDS patients how?",
+    "options": {
+      "A": "Decreases",
+      "B": "Increases",
+      "C": "No change",
+      "D": "Highly variable"
+    },
+    "correctAnswer": "B",
+    "topic": "ards_prone",
+    "deepDiveExplanation": "In the prone position, the chest wall becomes more compliant. This is partly due to the redistribution of the heart and abdominal contents, which reduces the compressive forces on the dorsal lung and allows for more uniform expansion of the chest wall and lung parenchyma.",
+    "highYieldPearl": "Prone position increases chest wall compliance, facilitating lung expansion.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "While overall respiratory system compliance can be complex, the effect on chest wall compliance specifically is an increase due to mechanical advantages in the prone position. Lung compliance often improves due to recruitment, but chest wall is distinct.",
+    "isOneLiner": true,
+    "id": "one_liner_ards_prone_8nqxouo8"
+  },
+  {
+    "question": "A significant ocular complication associated with prolonged prone positioning is?",
+    "options": {
+      "A": "Conjunctivitis",
+      "B": "Corneal abrasion",
+      "C": "Retinal detachment",
+      "D": "Glaucoma"
+    },
+    "correctAnswer": "B",
+    "topic": "ards_prone",
+    "deepDiveExplanation": "Pressure on the eyes or inadequate padding during prone positioning can lead to corneal abrasions, ulcers, or even ischemic optic neuropathy. Meticulous eye care and protection are essential to prevent these complications.",
+    "highYieldPearl": "Corneal abrasions are a common and preventable complication of prone positioning; meticulous eye care is vital.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Conjunctivitis is less specific to proning. Retinal detachment and glaucoma are less directly or acutely caused by positioning compared to direct pressure-related injuries like corneal abrasions.",
+    "isOneLiner": true,
+    "id": "one_liner_ards_prone_0bh3wnmx"
+  },
+  {
+    "question": "How does prone positioning potentially mitigate ventilator-induced lung injury (VILI) in ARDS?",
+    "options": {
+      "A": "By reducing tidal volume",
+      "B": "By increasing plateau pressure",
+      "C": "By promoting more homogeneous ventilation",
+      "D": "By decreasing PEEP"
+    },
+    "correctAnswer": "C",
+    "topic": "ards_prone",
+    "deepDiveExplanation": "By recruiting collapsed dorsal lung regions and redistributing stress and strain more evenly across the lung parenchyma, prone positioning reduces regional overdistension and cyclic collapse, thereby promoting more homogeneous ventilation and reducing VILI.",
+    "highYieldPearl": "More homogeneous ventilation in the prone position helps reduce VILI.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Reducing tidal volume and decreasing PEEP are ventilator settings, not direct effects of proning. Increasing plateau pressure is generally undesirable and associated with increased VILI risk, not mitigation.",
+    "isOneLiner": true,
+    "id": "one_liner_ards_prone_q87hvooh"
+  },
+  {
+    "question": "Prone positioning in hemodynamically stable ARDS patients typically has what effect on cardiac output?",
+    "options": {
+      "A": "Significantly increases",
+      "B": "Significantly decreases",
+      "C": "No significant change",
+      "D": "Initially decreases then increases"
+    },
+    "correctAnswer": "C",
+    "topic": "ards_prone",
+    "deepDiveExplanation": "While transient changes can occur during turning, overall, in hemodynamically stable patients, prone positioning does not significantly alter cardiac output. Some studies even suggest a slight increase due to improved right ventricular function and reduced pulmonary vascular resistance, but 'no significant change' is the most accurate general statement.",
+    "highYieldPearl": "Cardiac output generally remains stable in hemodynamically stable ARDS patients during prone positioning.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "Significant increases or decreases are not typical in a stable patient population. Transient decreases might occur during the turn, but the sustained effect is usually stability.",
+    "isOneLiner": true,
+    "id": "one_liner_ards_prone_q5phx9cl"
+  },
+  {
+    "question": "Prone positioning in ARDS primarily improves oxygenation by which mechanism?",
+    "options": {
+      "A": "Increasing cardiac output",
+      "B": "Improving V/Q matching",
+      "C": "Decreasing pulmonary vascular resistance",
+      "D": "Reducing intrapulmonary shunt"
+    },
+    "correctAnswer": "B",
+    "topic": "ards_prone",
+    "deepDiveExplanation": "Prone positioning redistributes ventilation and perfusion, recruiting previously collapsed dorsal lung regions, reducing shunt, and making ventilation more uniform, thus improving V/Q matching. While it reduces shunt, improving V/Q matching is a broader and more encompassing primary mechanism.",
+    "highYieldPearl": "The main benefit of prone positioning is improved V/Q matching and recruitment of dorsal lung, leading to better oxygenation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Options A and C are hemodynamic, not primary respiratory mechanisms. Option D (reducing intrapulmonary shunt) is a component of improved V/Q matching, but B is a more complete description of the overall physiological improvement.",
+    "isOneLiner": true,
+    "id": "one_liner_ards_prone_zgdgjj4f"
+  },
+  {
+    "question": "What PaO2/FiO2 ratio typically indicates consideration for prone positioning in ARDS?",
+    "options": {
+      "A": "<300 mmHg",
+      "B": "<200 mmHg",
+      "C": "<150 mmHg",
+      "D": "<100 mmHg"
+    },
+    "correctAnswer": "C",
+    "topic": "ards_prone",
+    "deepDiveExplanation": "The PROSEVA trial, which demonstrated a mortality benefit with prone positioning, included patients with severe ARDS defined by a PaO2/FiO2 ratio of <150 mmHg on FiO2 >0.6 and PEEP >5 cmH2O.",
+    "highYieldPearl": "PROSEVA criteria for prone positioning in ARDS: PaO2/FiO2 <150 mmHg.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Other ratios (A, B) define ARDS severity, but <150 mmHg is the specific threshold associated with a mortality benefit in the key clinical trial for prone positioning.",
+    "isOneLiner": true,
+    "id": "one_liner_ards_prone_ra9f6lv6"
+  },
+  {
+    "question": "Prone positioning in severe ARDS has been shown to improve which outcome?",
+    "options": {
+      "A": "Duration of mechanical ventilation",
+      "B": "ICU length of stay",
+      "C": "28-day mortality",
+      "D": "Incidence of ventilator-associated pneumonia"
+    },
+    "correctAnswer": "C",
+    "topic": "ards_prone",
+    "deepDiveExplanation": "The PROSEVA trial demonstrated a significant reduction in 28-day and 90-day mortality in severe ARDS patients treated with prolonged prone positioning. While it might indirectly affect other outcomes, mortality reduction is the primary, statistically significant, and clinically impactful outcome.",
+    "highYieldPearl": "Prone positioning reduces mortality in severe ARDS, as evidenced by the PROSEVA trial.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While there might be trends or indirect effects on other options, the robust evidence points to a direct reduction in mortality as the key benefit.",
+    "isOneLiner": true,
+    "id": "one_liner_ards_prone_b4vhuwti"
+  },
+  {
+    "question": "Prone positioning primarily recruits which lung regions in ARDS?",
+    "options": {
+      "A": "Ventral",
+      "B": "Apical",
+      "C": "Dorsal",
+      "D": "Basal"
+    },
+    "correctAnswer": "C",
+    "topic": "ards_prone",
+    "deepDiveExplanation": "In supine ARDS, the dorsal (posterior) lung regions are often compressed by the heart, mediastinum, and abdominal contents, leading to collapse and atelectasis. Prone positioning redistributes these forces, allowing for recruitment and improved ventilation of these previously collapsed dorsal areas.",
+    "highYieldPearl": "Key benefit of proning is recruitment of previously collapsed dorsal lung units.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Ventral lung regions are typically better ventilated in the supine position. Apical and basal are less specific to the gravitational effects addressed by proning compared to the dorsal-ventral axis.",
+    "isOneLiner": true,
+    "id": "one_liner_ards_prone_m8lggvmq"
+  },
+  {
+    "question": "Which condition is an absolute contraindication for prone positioning in ARDS?",
+    "options": {
+      "A": "Mild ARDS",
+      "B": "Recent spinal surgery",
+      "C": "Chronic obstructive pulmonary disease",
+      "D": "Morbid obesity"
+    },
+    "correctAnswer": "B",
+    "topic": "ards_prone",
+    "deepDiveExplanation": "Spinal instability, such as recent spinal surgery, unstable pelvic fractures, or cervical spine injuries, is an absolute contraindication due to the high risk of neurological damage during patient turning and positioning.",
+    "highYieldPearl": "Unstable spine or pelvis is a critical absolute contraindication for prone positioning.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Mild ARDS is an indication issue (prone reserved for severe ARDS). COPD and morbid obesity can make proning technically challenging but are not absolute contraindications if benefits outweigh risks and resources are available.",
+    "isOneLiner": true,
+    "id": "one_liner_ards_prone_mqe8rd5x"
+  },
+  {
+    "question": "What is the recommended minimum daily duration for prone positioning in severe ARDS?",
+    "options": {
+      "A": "4-6 hours",
+      "B": "8-10 hours",
+      "C": "12-16 hours",
+      "D": "20-22 hours"
+    },
+    "correctAnswer": "C",
+    "topic": "ards_prone",
+    "deepDiveExplanation": "The PROSEVA trial, which showed a mortality benefit, used prone positioning for at least 16 hours per day. Current guidelines generally recommend a minimum of 12-16 hours per day to achieve sustained physiological benefits and improve outcomes.",
+    "highYieldPearl": "Prolonged prone positioning (12-16 hours/day) is crucial for mortality benefit.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Shorter durations (A, B) have not consistently shown the same mortality benefits. While longer durations might be tolerated, 12-16 hours is the evidence-based minimum for significant impact.",
+    "isOneLiner": true,
+    "id": "one_liner_ards_prone_rnrij72j"
+  },
+  {
+    "question": "Prone positioning typically affects chest wall compliance in ARDS patients how?",
+    "options": {
+      "A": "Decreases",
+      "B": "Increases",
+      "C": "No change",
+      "D": "Highly variable"
+    },
+    "correctAnswer": "B",
+    "topic": "ards_prone",
+    "deepDiveExplanation": "In the prone position, the chest wall becomes more compliant. This is partly due to the redistribution of the heart and abdominal contents, which reduces the compressive forces on the dorsal lung and allows for more uniform expansion of the chest wall and lung parenchyma.",
+    "highYieldPearl": "Prone position increases chest wall compliance, facilitating lung expansion.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "While overall respiratory system compliance can be complex, the effect on chest wall compliance specifically is an increase due to mechanical advantages in the prone position. Lung compliance often improves due to recruitment, but chest wall is distinct.",
+    "isOneLiner": true,
+    "id": "one_liner_ards_prone_khouozjf"
+  },
+  {
+    "question": "A significant ocular complication associated with prolonged prone positioning is?",
+    "options": {
+      "A": "Conjunctivitis",
+      "B": "Corneal abrasion",
+      "C": "Retinal detachment",
+      "D": "Glaucoma"
+    },
+    "correctAnswer": "B",
+    "topic": "ards_prone",
+    "deepDiveExplanation": "Pressure on the eyes or inadequate padding during prone positioning can lead to corneal abrasions, ulcers, or even ischemic optic neuropathy. Meticulous eye care and protection are essential to prevent these complications.",
+    "highYieldPearl": "Corneal abrasions are a common and preventable complication of prone positioning; meticulous eye care is vital.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Conjunctivitis is less specific to proning. Retinal detachment and glaucoma are less directly or acutely caused by positioning compared to direct pressure-related injuries like corneal abrasions.",
+    "isOneLiner": true,
+    "id": "one_liner_ards_prone_hrdz1n5b"
+  },
+  {
+    "question": "How does prone positioning potentially mitigate ventilator-induced lung injury (VILI) in ARDS?",
+    "options": {
+      "A": "By reducing tidal volume",
+      "B": "By increasing plateau pressure",
+      "C": "By promoting more homogeneous ventilation",
+      "D": "By decreasing PEEP"
+    },
+    "correctAnswer": "C",
+    "topic": "ards_prone",
+    "deepDiveExplanation": "By recruiting collapsed dorsal lung regions and redistributing stress and strain more evenly across the lung parenchyma, prone positioning reduces regional overdistension and cyclic collapse, thereby promoting more homogeneous ventilation and reducing VILI.",
+    "highYieldPearl": "More homogeneous ventilation in the prone position helps reduce VILI.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Reducing tidal volume and decreasing PEEP are ventilator settings, not direct effects of proning. Increasing plateau pressure is generally undesirable and associated with increased VILI risk, not mitigation.",
+    "isOneLiner": true,
+    "id": "one_liner_ards_prone_dpsk3pfj"
+  },
+  {
+    "question": "Prone positioning in hemodynamically stable ARDS patients typically has what effect on cardiac output?",
+    "options": {
+      "A": "Significantly increases",
+      "B": "Significantly decreases",
+      "C": "No significant change",
+      "D": "Initially decreases then increases"
+    },
+    "correctAnswer": "C",
+    "topic": "ards_prone",
+    "deepDiveExplanation": "While transient changes can occur during turning, overall, in hemodynamically stable patients, prone positioning does not significantly alter cardiac output. Some studies even suggest a slight increase due to improved right ventricular function and reduced pulmonary vascular resistance, but 'no significant change' is the most accurate general statement.",
+    "highYieldPearl": "Cardiac output generally remains stable in hemodynamically stable ARDS patients during prone positioning.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "Significant increases or decreases are not typical in a stable patient population. Transient decreases might occur during the turn, but the sustained effect is usually stability.",
+    "isOneLiner": true,
+    "id": "one_liner_ards_prone_sfg9dio3"
+  }
+]

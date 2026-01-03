@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "rag_pneumothorax_57ea1170",
+    "question": "According to the provided data, which primary tumor site is the most common cause of malignant pleural effusion?",
+    "options": {
+      "A": "Lung",
+      "B": "Breast",
+      "C": "Lymphoma",
+      "D": "Gastrointestinal"
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "Malignant pleural effusion (MPE) is a common complication of various cancers, and its presence often indicates advanced disease. The provided data from Table 114.1 clearly indicates that Lung cancer is the leading cause of MPE, accounting for 37.5% of cases. Breast cancer is the second most common (16.8%), followed by lymphoma (11.5%).",
+    "highYieldPearl": "Rio's Take: Lung cancer is the single most common primary malignancy leading to malignant pleural effusions. Always consider lung cancer in the differential for a new MPE.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct. The provided Table 114.1 shows Lung cancer as the most frequent primary tumor site responsible for malignant pleural effusion (37.5%).",
+      "B": "Incorrect. Breast cancer is the second most common cause of MPE (16.8%), making it a plausible but incorrect distractor.",
+      "C": "Incorrect. Lymphoma is the third most common cause of MPE (11.5%). While a significant cause, it is not the most common.",
+      "D": "Incorrect. Gastrointestinal cancers account for a smaller percentage (6.9%) of MPEs compared to lung, breast, and lymphoma, making it a less common cause."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_eada5349",
+    "question": "Integrated PET/CT is specifically highlighted in the references for its crucial role in which of the following aspects of Non-Small Cell Lung Cancer (NSCLC) management?",
+    "options": {
+      "A": "Initial diagnosis of small peripheral lung nodules.",
+      "B": "Staging of the disease.",
+      "C": "Differentiation between lung abscess and empyema.",
+      "D": "Monitoring treatment response to targeted therapy."
+    },
+    "correctAnswer": "B",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "Reference 149, 'De Wever W, Stroobants S, Coolen J, Verschakelen JA. Integrated PET/CT in the staging of nonsmall cell lung cancer: technical aspects and clinical integration,' directly highlights the primary and crucial role of integrated PET/CT in the staging of NSCLC. While PET/CT has other applications in oncology, this specific context emphasizes its utility in determining the extent of the disease.",
+    "highYieldPearl": "Rio's Take: For NSCLC, PET/CT is a cornerstone of accurate staging, particularly for detecting mediastinal lymph node involvement and distant metastases, which significantly influences treatment decisions.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. While PET/CT can characterize lung nodules, its primary 'crucial role' as highlighted by the specific reference provided is not initial diagnosis, which often requires biopsy.",
+      "B": "Correct. Reference 149 explicitly states 'Integrated PET/CT in the staging of nonsmall cell lung cancer.' This is a direct recall from the provided context.",
+      "C": "Incorrect. Differentiation between lung abscess and empyema is typically done with CT and radiography (as per Reference 143), not primarily PET/CT, and is unrelated to lung cancer staging.",
+      "D": "Incorrect. While PET/CT can be used for monitoring treatment response in oncology, the provided reference specifically attributes its role to 'staging' in NSCLC, not treatment monitoring."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_0ffa2e04",
+    "question": "In the International Association for the Study of Lung Cancer (IASLC) tumor-node-metastasis (TNM) staging scheme for lung cancer, the standardized grading from PL0 to PL3 is specifically used to classify:",
+    "options": {
+      "A": "The extent of hilar and mediastinal lymph node involvement.",
+      "B": "The degree of visceral pleural invasion.",
+      "C": "The size of the primary tumor.",
+      "D": "The presence of distant extrathoracic metastases."
+    },
+    "correctAnswer": "B",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "The provided text explicitly states: 'Standardized grading for visceral pleural invasion (from PLO to PL3) has been incorporated into the International Association for the Study of Lung Cancer tumor‑node‑metastasis staging scheme.' This grading system is a crucial component of the T (tumor) descriptor within the TNM system, as visceral pleural invasion impacts prognosis.",
+    "highYieldPearl": "Rio's Take: Visceral pleural invasion (PL1-PL3) upstages a T1/T2 tumor to a higher T category, even in the absence of other invasive features, due to its prognostic significance.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. The extent of hilar and mediastinal lymph node involvement is classified by the N (node) descriptor (e.g., N1, N2, N3), not by PL0-PL3.",
+      "B": "Correct. The text directly states that PL0 to PL3 is 'Standardized grading for visceral pleural invasion' in the TNM staging scheme.",
+      "C": "Incorrect. The size of the primary tumor is a component of the T (tumor) descriptor (e.g., T1, T2, T3, T4), but PL0-PL3 specifically describes pleural invasion, not tumor size itself.",
+      "D": "Incorrect. The presence of distant extrathoracic metastases is classified by the M (metastasis) descriptor (M0 or M1), not by PL0-PL3."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_578a5a8c",
+    "question": "A 65-year-old male, a heavy smoker, presents with progressive cough, dyspnea, and unintended weight loss. CT chest reveals a 7 cm peripheral right upper lobe mass and a moderate right pleural effusion. Two separate thoracenteses yield fluid that is exudative but non-diagnostic for malignancy on cytology. PET-CT demonstrates intense FDG uptake in the lung mass (SUVmax 12), moderate uptake in two ipsilateral mediastinal lymph nodes (SUVmax 4.5), and no evidence of distant metastases outside the thorax. The patient's performance status is ECOG 1. What is the most appropriate next diagnostic step to establish a definitive diagnosis for staging purposes?",
+    "options": {
+      "A": "Video-assisted thoracoscopic surgery (VATS) with pleural biopsy and potential lung mass biopsy.",
+      "B": "CT-guided cutting needle biopsy of the right pleural thickening identified on CT.",
+      "C": "Endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA) of the hypermetabolic mediastinal lymph nodes.",
+      "D": "Repeat thoracentesis with pleural fluid analysis including cell block and tumor markers."
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "The patient presents with suspected lung cancer and a moderate pleural effusion, which, if malignant, would immediately classify the disease as Stage IV (M1a) according to the 8th edition TNM staging. This has significant implications for treatment, typically shifting from potentially curative surgery to systemic therapy. Despite two non-diagnostic pleural fluid cytologies, the clinical suspicion for malignant pleural effusion (MPE) remains high given the primary lung mass. When cytology is repeatedly negative, invasive pleural biopsies offer a significantly higher diagnostic yield. VATS allows for direct visualization of the pleura, enabling targeted biopsies of any suspicious lesions or diffuse thickening, and provides the highest diagnostic yield for MPE (often >90%). It also allows for lung mass biopsy if the pleura is negative, or for talc pleurodesis if malignancy is confirmed. This approach prioritizes confirming M1a disease, which is crucial for accurate staging and treatment planning.",
+    "highYieldPearl": "Rio's Take: For suspected malignant pleural effusion with non-diagnostic cytology, VATS pleural biopsy offers the highest diagnostic yield to confirm M1a disease, which is paramount for staging and guiding therapy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Correct. VATS provides the highest diagnostic yield for MPE when cytology is negative, allowing for direct visualization and targeted biopsies, thus definitively establishing M1a disease if present.",
+      "B": "Plausible. CT-guided pleural biopsy can be effective, especially for focal pleural thickening (Ref 157, 158). However, it relies on identifiable focal lesions and may have a lower yield than VATS for diffuse or patchy involvement, or if no obvious focal thickening is seen. In a scenario where two cytologies failed, a higher yield procedure is generally preferred.",
+      "C": "Plausible. EBUS-TBNA is crucial for mediastinal nodal staging (N-staging), especially for PET-positive nodes. However, even if EBUS-TBNA confirms N2 disease, the presence of a malignant pleural effusion (M1a) would still make the disease Stage IV. The priority is to definitively rule in or rule out M1a, as it has a greater impact on initial treatment strategy than N2 disease in this context.",
+      "D": "Less appropriate. Repeating thoracentesis is unlikely to be diagnostic after two previous attempts have failed, especially without additional guidance or a compelling reason to expect a different result. While specific tumor markers might be present, they are generally not definitive for malignancy on their own and cytology is usually the primary diagnostic tool in pleural fluid."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_184095b3",
+    "question": "A 58-year-old male, a heavy smoker, presents with progressive right shoulder pain radiating down his arm, associated with ptosis and miosis of the right eye. Imaging workup includes a CT chest which reveals a 4.5 cm right apical lung mass, clearly invading the brachial plexus and the cortical bone of the T1 vertebral body. PET-CT confirms a hypermetabolic mass and a single hypermetabolic right supraclavicular lymph node, but no other distant metastases. Biopsy of the lung mass confirms adenocarcinoma. Based on the 8th edition TNM staging system, what is the most accurate T-stage for this patient's primary tumor?",
+    "options": {
+      "A": "T3, due to invasion of the brachial plexus.",
+      "B": "T4, due to invasion of the T1 vertebral body.",
+      "C": "T2b, as the tumor size is between 3-5 cm.",
+      "D": "The T-stage cannot be definitively determined without an MRI of the brachial plexus and spine."
+    },
+    "correctAnswer": "B",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "The 8th edition TNM staging for lung cancer defines T-stage based on tumor size and local invasion. Invasion of the brachial plexus classifies the tumor as T3. However, invasion of the vertebral body (any part of the spine, including the cortical bone of T1 as described) is a criterion for T4 disease. Since the scenario explicitly states invasion of *both* the brachial plexus and the cortical bone of the T1 vertebral body, the higher T-stage (T4) takes precedence. The presence of a supraclavicular lymph node is classified as N3 disease, which, combined with T4, would result in Stage IIIB or IIIC (depending on other factors), but the question specifically asks for the T-stage.",
+    "highYieldPearl": "Rio's Take: Pancoast tumors invading the brachial plexus are T3, but invasion of the vertebral body, subclavian vessels, or other mediastinal structures elevates them to T4.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Plausible. Invasion of the brachial plexus alone is indeed a T3 criterion. However, the vignette also states invasion of the T1 vertebral body, which is a T4 criterion. In such cases, the highest T-descriptor applies, making T4 the correct answer.",
+      "B": "Correct. Invasion of the vertebral body (cortical bone of T1) is a specific criterion for T4 disease in the 8th edition TNM staging system for lung cancer.",
+      "C": "Incorrect. While tumor size is a component of T-staging (e.g., 3-5 cm is T2b), local invasion criteria (like brachial plexus or vertebral body involvement) override size-based staging. The presence of invasion into adjacent structures indicates a more advanced T-stage regardless of primary tumor size.",
+      "D": "Plausible. MRI is often recommended for better delineation of soft tissue invasion (brachial plexus, spinal canal) in Pancoast tumors. However, the vignette states that the CT scan *clearly reveals* invasion of both the brachial plexus and the T1 vertebral body. For the purpose of answering the question 'Based on the current staging information', the CT findings are sufficient to determine the T-stage based on the vertebral body invasion."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_8347b1e2",
+    "question": "A 70-year-old female presents with new onset seizure and mild right-sided weakness. Brain MRI confirms a solitary 1.5 cm left frontal brain metastasis. CT chest reveals a 4 cm left lower lobe mass. PET-CT shows intense uptake in the lung mass and moderate uptake in ipsilateral hilar lymph nodes (SUVmax 3.5), but no uptake in mediastinal nodes. Additionally, PET-CT identifies two small, non-FDG avid adrenal nodules (right 0.8 cm, left 1.2 cm) and a solitary 1 cm liver lesion with mild, non-specific FDG uptake (SUVmax 3.0, less than liver background). EBUS-TBNA of the hilar lymph nodes is negative for malignancy. Given these findings, what is the most appropriate next step to accurately stage this patient and guide management?",
+    "options": {
+      "A": "Biopsy of the liver lesion or one of the adrenal nodules.",
+      "B": "Referral for stereotactic radiosurgery (SRS) to the brain metastasis and start systemic chemotherapy.",
+      "C": "Repeat EBUS-TBNA of hilar lymph nodes for re-evaluation.",
+      "D": "Commence palliative care consultation due to widespread metastatic disease."
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "According to the 8th edition TNM staging, a solitary brain metastasis without other distant sites makes the disease M1b (single extrathoracic metastasis in a single organ). If there are multiple extrathoracic metastases in one or several organs, it becomes M1c. This distinction is crucial for prognosis and treatment decisions, as M1b disease (oligometastatic) may be amenable to more aggressive local therapies (e.g., surgery/SBRT to the primary and the brain met) in addition to systemic therapy, potentially offering prolonged survival or even cure in highly selected cases. The adrenal nodules are non-FDG avid (often benign adenomas) and the liver lesion has mild, non-specific uptake (could be inflammatory, cirrhotic, or metastatic). The ambiguity of these lesions needs to be resolved to differentiate M1b from M1c. Biopsying one of these suspicious, but unconfirmed, extrathoracic lesions (liver or adrenal) is the most appropriate next step to definitively determine the true extent of metastatic disease (M1b vs. M1c), thereby accurately staging the patient and guiding the appropriate treatment strategy.",
+    "highYieldPearl": "Rio's Take: In suspected lung cancer with ambiguous distant lesions on imaging, tissue confirmation of these lesions is critical to differentiate oligometastatic (M1b) from polymetastatic (M1c) disease, significantly impacting treatment intent.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Correct. The patient has a confirmed brain metastasis (M1b if solitary). The adrenal and liver lesions are ambiguous. Biopsy of one of these lesions is essential to confirm or rule out additional metastases, which would change the stage to M1c and drastically alter management. This step accurately defines the true metastatic burden.",
+      "B": "Plausible. SRS to brain met and systemic chemotherapy are indeed standard treatments for M1b disease. However, initiating treatment without clarifying the status of the ambiguous liver and adrenal lesions could lead to either undertreatment (missing other metastatic sites that need local control) or overtreatment (if these are benign lesions, the patient is still M1b and may qualify for more aggressive local therapy to the primary). Accurate staging must precede definitive treatment decisions in such complex scenarios.",
+      "C": "Less appropriate. While EBUS-TBNA of hilar nodes was negative, the primary concern for staging right now is distant disease (M-stage), not necessarily N-stage. The negative EBUS makes N0-N1 most likely. Even if N2 disease were present, it wouldn't change the fact that the patient has distant metastases. Resolving the M-stage ambiguity is a higher priority.",
+      "D": "Incorrect. While the patient has advanced disease, it is crucial to determine if it is oligometastatic (M1b) or polymetastatic (M1c). If it's truly M1b, aggressive treatment, including local ablative therapies, may still be considered for curative intent in selected patients. Prematurely moving to exclusive palliative care without full staging limits treatment options and is not the 'most appropriate next step to accurately stage and guide management'."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_3995505d",
+    "question": "A 68-year-old male presents with progressive dyspnea, unintentional weight loss, and a right-sided exudative pleural effusion with lymphocyte predominance. Initial pleural fluid cytology is negative for malignancy. Chest CT shows a 3 cm spiculated right upper lobe nodule, ipsilateral hilar lymphadenopathy, and the pleural effusion. No distant metastases are evident on PET/CT. Given the high suspicion of lung cancer, what would be the MOST appropriate next step to establish the diagnosis of the pleural involvement and confirm its malignant nature?",
+    "options": {
+      "A": "Repeat pleural fluid cytology.",
+      "B": "Thoracentesis with pleural fluid flow cytometry.",
+      "C": "CT-guided cutting-needle biopsy of the pleura.",
+      "D": "Medical thoracoscopy with direct visualization and pleural biopsies."
+    },
+    "correctAnswer": "D",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "In a patient with high suspicion of lung cancer and an exudative pleural effusion with initial negative cytology, further invasive procedures are required to establish the diagnosis of malignant pleural effusion (MPE). While repeat cytology (A) might marginally increase the yield, it is unlikely to provide a definitive diagnosis in such a high-suspicion case. Flow cytometry (B) is primarily useful for diagnosing lymphoproliferative disorders, which is less likely given the spiculated lung nodule. CT-guided cutting-needle biopsy (C) offers a higher diagnostic yield than blind biopsies or cytology (Maskell et al., Ref 157) and can be helpful for localized pleural lesions. However, medical thoracoscopy (D) is considered the gold standard in cases of undiagnosed exudative pleural effusions where malignancy is suspected, especially after negative cytology. It allows for direct visualization of the entire pleural surface, targeted biopsies of suspicious areas (pleural nodules, plaques), and real-time assessment of the extent of pleural involvement, which is crucial for accurate staging (M1a if malignant). This comprehensive approach maximizes diagnostic yield and provides definitive tissue for histopathological diagnosis and molecular testing.",
+    "highYieldPearl": "Rio's Take: For suspected malignant pleural effusion with negative cytology, medical thoracoscopy offers the highest diagnostic yield by allowing direct visualization and targeted biopsies, essential for definitive diagnosis and accurate lung cancer staging (M1a).",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Repeating pleural fluid cytology has a limited incremental yield after an initial negative result, especially in high-suspicion cases where more definitive tissue diagnosis is required. It's less invasive but also less likely to be diagnostic in this scenario.",
+      "B": "Pleural fluid flow cytometry is primarily indicated when lymphoma or leukemia is suspected. While lymphoma can cause MPE, the presence of a spiculated lung nodule points towards a primary lung carcinoma, making flow cytometry less likely to yield a diagnosis of the primary lung cancer metastasis.",
+      "C": "CT-guided cutting-needle biopsy has a higher diagnostic yield than cytology or blind biopsy, as discussed in literature (Ref 157). However, it is an imaging-guided procedure that may miss multifocal or diffuse pleural involvement that is not clearly visible or accessible by CT, making it less comprehensive than direct thoracoscopic evaluation.",
+      "D": "This is the most appropriate step. Medical thoracoscopy (also referred to as video-assisted thoracoscopy, VATS, when surgical) provides the highest diagnostic yield for MPE by enabling direct visual inspection of the pleura, targeted biopsies of suspicious lesions, and assessment of the extent of pleural disease, crucial for accurate M1a staging. (Ref 153 alludes to the efficacy of awake thoracoscopy and VATS for undiagnosed pleural effusions)."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_44dbf7c1",
+    "question": "A 55-year-old patient is diagnosed with adenocarcinoma of the lung. During the staging workup, a unilateral pleural effusion is identified. Which of the following statements regarding the characteristics or implications of malignant pleural effusion (MPE) in this context is TRUE?",
+    "options": {
+      "A": "The presence of cytologically proven MPE from the lung adenocarcinoma automatically classifies the tumor as Stage IV (M1a).",
+      "B": "MPE from lung adenocarcinoma is more likely to be contralateral than ipsilateral to the primary lung tumor.",
+      "C": "If the pleural effusion is found to be a chylothorax, it strongly suggests that the primary diagnosis is lymphoma rather than adenocarcinoma.",
+      "D": "A negative pleural fluid cytology definitively rules out pleural metastasis from the lung adenocarcinoma."
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "According to the IASLC TNM staging system, a malignant pleural effusion (MPE) (or pericardial effusion) classifies the tumor as M1a, which is considered Stage IV disease. This is a fundamental concept in lung cancer staging. Option B is incorrect; MPE from lung cancer is typically ipsilateral. The statement about laterality (ipsilateral 50%, contralateral 40%, bilateral 10%) in the provided text refers specifically to breast cancer MPE, not lung cancer. Option C is incorrect; while lymphoma can cause chylothorax (12.5% in one analysis from the text), it does not 'strongly suggest' lymphoma as the primary diagnosis, especially when an adenocarcinoma has already been identified. Furthermore, a chylothorax can have other causes including trauma, other malignancies, or idiopathic. Option D is incorrect; the sensitivity of pleural fluid cytology is not 100% (Refs 150, 154, 155), meaning a negative result does not definitively rule out malignancy, often necessitating further diagnostic procedures like pleural biopsy.",
+    "highYieldPearl": "Rio's Take: Malignant pleural effusion (MPE) or pericardial effusion automatically stages lung cancer as M1a (Stage IV), regardless of other findings. Cytology has limitations, and laterality patterns vary by primary tumor site.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This statement is true and a core principle of lung cancer staging. The presence of malignant pleural (or pericardial) effusion, even if only microscopic, denotes M1a disease, which is distant metastasis and Stage IV.",
+      "B": "This is a trap based on misapplying information from the provided text. The text states that MPE can be contralateral in breast cancer (40%) but does not make a similar claim for lung adenocarcinoma. MPE in lung cancer is predominantly ipsilateral.",
+      "C": "While the text mentions that lymphoma can cause chylothorax (12.5% in one study), this does not 'strongly suggest' lymphoma as the primary diagnosis, especially since the patient is already diagnosed with adenocarcinoma. Many other conditions can cause chylothorax. The wording 'strongly suggests' is a key distractor here.",
+      "D": "This statement is false. Pleural fluid cytology has known sensitivity limitations (ranging from 40-90% depending on studies and tumor type) and a negative result never definitively rules out malignancy. Further investigations like pleural biopsy are often needed (Refs 150, 154, 155, 156, 157, 158, 159, 160, 161 highlight the various biopsy techniques indicating cytology's limitations)."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_25197228",
+    "question": "Assertion (A): For a patient with suspected non-small cell lung cancer (NSCLC) and a pleural effusion, initial pleural fluid cytology is often the first diagnostic step, but a negative result does not exclude malignant pleural effusion.\nReason (R): The sensitivity of pleural fluid cytology for malignancy can vary significantly, and direct visualization and biopsy of the pleura via medical thoracoscopy generally offer a higher diagnostic yield in cases of suspected MPE.",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A.",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A.",
+      "C": "A is true, but R is false.",
+      "D": "A is false, but R is true."
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "Assertion (A) is true. Pleural fluid cytology is a relatively non-invasive initial diagnostic test for pleural effusions. However, its sensitivity for detecting malignancy is variable and not 100%, meaning a negative result does not rule out the presence of malignant cells. This often necessitates further, more invasive procedures. Reason (R) is also true. The sensitivity of cytology for malignancy is indeed variable, and its limitations are well-documented (Refs 150, 154, 155). Medical thoracoscopy, by allowing direct visualization of the pleural surfaces and targeted biopsies of suspicious areas, offers a significantly higher diagnostic yield for MPE compared to cytology or even blind closed pleural biopsies (Ref 153 and 157 indirectly support the superiority of guided/direct biopsy over blind methods). Reason (R) directly explains why Assertion (A) is true. The variable and imperfect sensitivity of cytology is precisely the reason why a negative result cannot exclude MPE and why higher-yield procedures like thoracoscopy are required when malignancy is strongly suspected.",
+    "highYieldPearl": "Rio's Take: Cytology is often first-line for MPE, but its variable sensitivity means a negative result doesn't rule out malignancy, necessitating higher-yield methods like thoracoscopy for definitive diagnosis and staging.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is the correct answer. Both the assertion and the reason are factually correct statements. Furthermore, the reason directly explains why a negative cytology result does not exclude MPE – because cytology's sensitivity is not 100% and better diagnostic modalities exist.",
+      "B": "This option is incorrect because Reason (R) provides a direct and logical explanation for Assertion (A). The inherent limitations and variable sensitivity of cytology are precisely why a negative result cannot be definitive.",
+      "C": "This option is incorrect because Reason (R) is a factually correct statement about the diagnostic capabilities of cytology and thoracoscopy. The higher diagnostic yield of thoracoscopy compared to cytology is a well-established principle in pulmonology.",
+      "D": "This option is incorrect because Assertion (A) is factually correct. Initial cytology is a common first step, and its limitations (negative result not ruling out MPE) are well-recognized in clinical practice and supported by literature (Refs 150, 154, 155)."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_27144bcc",
+    "question": "A 65-year-old male presents with dyspnea and is found to have a large unilateral pleural effusion. Thoracentesis reveals an exudative effusion with malignant cells. Immunohistochemistry is pending, but based on epidemiological data, what is the single most common primary tumor site associated with malignant pleural effusions?",
+    "options": {
+      "A": "Lung",
+      "B": "Breast",
+      "C": "Lymphoma",
+      "D": "Gastrointestinal"
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "Malignant pleural effusion (MPE) is a common complication of various malignancies. According to epidemiological data presented in Table 114.1, lung cancer is the most frequent primary tumor site, accounting for 37.5% of all MPE cases. This makes it crucial to consider lung malignancy as a primary differential in patients presenting with MPE.",
+    "highYieldPearl": "Rio's Take: Lung cancer is the leading cause of malignant pleural effusion.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct option. Lung cancer is explicitly stated in Table 114.1 as the most common primary tumor responsible for MPE (37.5%).",
+      "B": "Breast cancer is the second most common cause of MPE (16.8%), making it a plausible distractor but not the most common overall.",
+      "C": "Lymphoma is the third most common cause of MPE (11.5%), particularly relevant in younger adults, but not the overall most common.",
+      "D": "Gastrointestinal malignancies contribute to MPE (6.9%) but are less frequent than lung, breast, or lymphoma."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_12ff3bb9",
+    "question": "During the staging workup for a patient diagnosed with non-small cell lung carcinoma, the pathological examination reveals invasion of the visceral pleura. Which specific component of the International Association for the Study of Lung Cancer (IASLC) TNM staging scheme primarily addresses and grades the extent of visceral pleural invasion?",
+    "options": {
+      "A": "N-stage (Regional Lymph Nodes)",
+      "B": "T-stage (Primary Tumor)",
+      "C": "M-stage (Distant Metastasis)",
+      "D": "G-stage (Histologic Grade)"
+    },
+    "correctAnswer": "B",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "The T-stage (Primary Tumor) in the TNM classification describes the size and extent of the primary tumor, including its invasion into adjacent structures. Visceral pleural invasion is a critical prognostic factor and is specifically graded (PL0 to PL3) as part of the T-stage in the IASLC TNM staging system for lung cancer. Its presence can upgrade the T-stage, indicating a more advanced local disease.",
+    "highYieldPearl": "Rio's Take: Visceral pleural invasion (PL-grading) directly impacts the T-stage in lung cancer staging.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "N-stage refers to the involvement of regional lymph nodes, not the local invasion characteristics of the primary tumor.",
+      "B": "Correct option. The provided text states that 'Standardized grading for visceral pleural invasion (from PL0 to PL3) has been incorporated into the International Association for the Study of Lung Cancer tumor‑node‑metastasis staging scheme.' Visceral pleural invasion describes the extent of the primary tumor's local growth, which falls under the T-stage.",
+      "C": "M-stage refers to the presence or absence of distant metastasis, unrelated to local pleural invasion by the primary tumor.",
+      "D": "G-stage, or histologic grade, describes the degree of tumor differentiation, which is a separate prognostic factor from anatomical invasion extent."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_74036c54",
+    "question": "A 58-year-old patient has recently been diagnosed with non-small cell lung cancer (NSCLC) and requires comprehensive staging to guide treatment decisions. Which advanced imaging modality is specifically mentioned as providing integrated metabolic and anatomical information for the staging of NSCLC?",
+    "options": {
+      "A": "Computed Tomography Angiography (CTA)",
+      "B": "Magnetic Resonance Imaging (MRI)",
+      "C": "Integrated Positron Emission Tomography/Computed Tomography (PET/CT)",
+      "D": "High-Resolution Computed Tomography (HRCT)"
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "Integrated PET/CT combines the anatomical detail of CT with the metabolic activity detection of PET, typically using a tracer like 18F-FDG. This dual capability allows for accurate assessment of primary tumor extent, lymph node involvement, and distant metastases, making it a cornerstone for comprehensive staging of non-small cell lung cancer as referenced (149).",
+    "highYieldPearl": "Rio's Take: PET/CT offers integrated metabolic and anatomical data, crucial for comprehensive NSCLC staging.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "CTA is primarily used for evaluating vascular structures, such as in suspected pulmonary embolism, not for comprehensive cancer staging combining metabolic and anatomical information.",
+      "B": "MRI is valuable for specific sites of metastasis (e.g., brain, bone) or local soft tissue invasion, but PET/CT is specifically highlighted for integrated overall staging of NSCLC.",
+      "C": "Correct option. Reference 149 clearly states: 'Integrated PET/CT in the staging of nonsmall cell lung cancer: technical aspects and clinical integration,' highlighting its role in providing both metabolic and anatomical data for comprehensive staging.",
+      "D": "HRCT is typically used for evaluating diffuse parenchymal lung diseases. While CT is a component of staging, HRCT itself is not the primary modality for comprehensive cancer staging with metabolic information."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_d2ca4ada",
+    "question": "A 68-year-old male with a 40-pack-year smoking history presents with new onset dyspnea, cough, and weight loss. Chest CT reveals a 5 cm right upper lobe spiculated mass and a moderate right pleural effusion. Thoracentesis is performed, and cytology confirms adenocarcinoma cells. PET-CT shows FDG avidity in the primary lung mass and the ipsilateral hilar lymph nodes, but no distant metastases elsewhere. Which of the following best describes the overall stage of his lung cancer?",
+    "options": {
+      "A": "Stage IIB",
+      "B": "Stage IIIA",
+      "C": "Stage IIIB",
+      "D": "Stage IV"
+    },
+    "correctAnswer": "D",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "Malignant pleural effusion (MPE) in non-small cell lung cancer (NSCLC) is classified as M1a disease in the TNM staging system (8th edition). M1a signifies regional or distant metastasis where only a single metastatic site in a single organ is amenable to local treatment; it also includes separate tumor nodules in a contralateral lobe, tumor with pleural or pericardial nodules, or malignant pleural or pericardial effusion. The presence of M1a disease automatically upstages the lung cancer to Stage IV, regardless of the T (tumor) and N (node) classifications. In this patient, the 5 cm mass (T2b) and ipsilateral hilar lymph nodes (N1 or N2) would otherwise point to a lower stage, but the confirmed malignant pleural effusion mandates a Stage IV classification.",
+    "highYieldPearl": "Rio's Take: Malignant pleural or pericardial effusion, along with contralateral lung nodules or pleural/pericardial nodules, are all classified as M1a disease in NSCLC, automatically leading to Stage IV staging. This is a critical determinant for prognosis and treatment strategy.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This stage (IIB) would apply if the tumor was T3N1M0 or T2bN1M0, and there was no malignant pleural effusion. It incorrectly ignores the profound impact of MPE on staging.",
+      "B": "This stage (IIIA) would apply for T3N1M0 or T1-2N2M0, again without MPE. It fails to recognize MPE as an M1a finding.",
+      "C": "This stage (IIIB) would be relevant for T4N0-1M0 or TanyN3M0, but not when MPE is present. It demonstrates a misunderstanding of MPE's role in metastatic staging.",
+      "D": "Correct. The presence of malignant pleural effusion is classified as M1a, which denotes Stage IV disease in NSCLC. This is a fundamental concept in lung cancer staging."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_ae7127a5",
+    "question": "A 55-year-old non-smoker presents with a chronic cough and a left-sided pleural effusion. Initial thoracentesis yields an exudative fluid with lymphocytic predominance, and cytology is negative for malignant cells. A subsequent closed pleural biopsy is also non-diagnostic, showing only non-specific inflammation. CT chest reveals no clear lung parenchymal mass, but there is diffuse irregular pleural thickening on the left. Considering the persistent undiagnosed exudative effusion potentially related to malignancy, which of the following is the most appropriate next diagnostic step?",
+    "options": {
+      "A": "Repeat closed pleural biopsy with more samples.",
+      "B": "CT-guided cutting needle pleural biopsy.",
+      "C": "Medical thoracoscopy with pleural biopsies.",
+      "D": "PET-CT for metabolic assessment of the pleura."
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "The patient has an undiagnosed exudative pleural effusion after initial non-diagnostic cytology and closed pleural biopsy. The presence of diffuse irregular pleural thickening suggests a possible underlying malignancy, such as mesothelioma or metastatic pleural disease (lung cancer being the most common primary). Cytology has a variable yield for malignancy, and closed pleural biopsies can also miss malignancy, especially in cases of diffuse involvement or patchy disease. Medical thoracoscopy (or video-assisted thoracoscopic surgery, VATS) allows for direct visualization of the pleura, enabling targeted biopsies from suspicious areas. This significantly increases the diagnostic yield for malignant pleural disease compared to blind or even image-guided biopsies for diffuse disease, making it the most appropriate next step for obtaining a definitive tissue diagnosis.",
+    "highYieldPearl": "Rio's Take: For undiagnosed exudative pleural effusions, especially after initial non-diagnostic cytology and closed biopsies, and in the presence of diffuse pleural thickening, medical thoracoscopy (or VATS) offers the highest diagnostic yield for malignancy due to direct visualization and targeted sampling.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "While increasing the number of samples can improve the yield of closed pleural biopsy, the blind nature of the procedure, particularly with diffuse irregular thickening, means it may still miss the diagnosis. Thoracoscopy offers a superior diagnostic approach.",
+      "B": "CT-guided cutting needle biopsy is highly effective for focal pleural lesions but may be less suitable for diffuse irregular thickening where the representative area for biopsy might be widespread or difficult to pinpoint precisely with a single needle pass. Thoracoscopy allows for more comprehensive sampling.",
+      "C": "Correct. Medical thoracoscopy provides direct visual inspection of the pleural surface, allowing for targeted biopsies of suspicious areas, which significantly enhances the diagnostic yield in cases of diffuse pleural disease and prior non-diagnostic studies.",
+      "D": "PET-CT can identify metabolically active lesions and is useful for staging confirmed malignancy or guiding biopsy sites. However, it is an imaging modality and does not provide a definitive tissue diagnosis, which is the current clinical imperative."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_b2dc38d3",
+    "question": "A 30-year-old male presents with dyspnea and a unilateral left-sided exudative pleural effusion. Initial investigations reveal no overt lung mass. Pleural fluid analysis shows a chylous effusion. Considering the differential diagnosis of malignant pleural effusions in this context, which of the following statements regarding potential primary tumor sites is TRUE?",
+    "options": {
+      "A": "Non-Hodgkin lymphoma is a less common cause of chylothorax compared to other malignant effusions.",
+      "B": "Breast cancer effusion is typically contralateral and presents within 2 years of initial diagnosis.",
+      "C": "Hodgkin lymphoma commonly causes unilateral pleural effusions, often in conjunction with hilar or mediastinal lymphadenopathy.",
+      "D": "Lung cancer is the most frequent cause of malignant pleural effusion in young adults."
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "Let's evaluate each option based on the provided text:\n\nA. The text states: 'Chylothorax is common with non‑Hodgkin lymphoma; in one analysis of 88 patients with chylothorax, 12.5 % were due to lymphoma, all non‑Hodgkin.' This indicates non-Hodgkin lymphoma is a significant cause of chylothorax, making the statement 'less common' false.\n\nB. The text states: 'The effusion is usually ipsilateral to the site of the original tumor (50 %) but can also be contralateral (40 %) or bilateral (10 %). Effusion often develops within a few years of the initial diagnosis but can present much later, even after 20 years.' This refutes both parts of the statement, as ipsilateral is more common, and presentation can be significantly delayed.\n\nC. The text states: 'In Hodgkin lymphoma, effusions may be caused by hilar or mediastinal lymph node involvement as well as pleural involvement... In one study of 110 patients presenting with Hodgkin lymphoma, effusions were present in 26 (24 %); these were equally unilateral or bilateral.' This statement is consistent with the provided information, as mediastinal/hilar lymphadenopathy is a known mechanism for effusions in Hodgkin lymphoma, and unilateral presentations are common (equally as bilateral).\n\nD. The text states: 'Lymphoma is the third most common cause in most series but is possibly the most common cause in young adults.' While lung cancer is the most frequent cause of MPE overall (37.5% per Table 114.1), lymphoma is specifically highlighted as possibly the most common cause in young adults. Therefore, this statement is false.",
+    "highYieldPearl": "Rio's Take: Lymphoma, particularly Non-Hodgkin, is a significant cause of chylothorax and is often the leading cause of MPE in young adults. Differentiating malignant pleural effusions requires careful consideration of patient age, specific fluid characteristics (like chyle), and primary tumor sites beyond just lung cancer.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a plausible distractor because chylothorax itself is rare. However, the text explicitly mentions chylothorax is 'common with non-Hodgkin lymphoma' and attributes a notable percentage of chylothorax cases to lymphoma, directly contradicting the 'less common' claim in the context of malignant effusions.",
+      "B": "This option incorporates details about breast cancer MPE but misrepresents them. The text clearly states ipsilateral is more common (50% vs 40% contralateral) and that effusions can present much later (up to 20 years), not typically within 2 years.",
+      "C": "Correct. This statement accurately reflects the information provided in the text regarding Hodgkin lymphoma-associated effusions, including the link to hilar/mediastinal lymphadenopathy and the possibility of unilateral presentation.",
+      "D": "While lung cancer is the most common cause of MPE overall (as per Table 114.1), the text specifically notes that lymphoma is 'possibly the most common cause in young adults,' making this statement false in the context of the patient's age."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_a59aa2de",
+    "question": "A 65-year-old male presents with progressive dyspnea, cough, and unintentional weight loss. Imaging reveals a large left lung mass and an ipsilateral pleural effusion. Thoracentesis is performed, and the fluid analysis confirms an exudative effusion with cytology positive for adenocarcinoma cells. Considering the diagnosis of malignant pleural effusion (MPE), which of the following primary tumor sites is the MOST common cause of MPE?",
+    "options": {
+      "A": "Lung",
+      "B": "Breast",
+      "C": "Lymphoma",
+      "D": "Gastrointestinal"
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "Malignant pleural effusion (MPE) is a common manifestation of advanced malignancy. According to Table 114.1 provided, lung cancer is the most frequent primary tumor site responsible for MPE, accounting for 37.5% of cases. Breast cancer is the second most common (16.8%), followed by lymphoma (11.5%) and genitourinary (9.4%) and gastrointestinal (6.9%) malignancies.",
+    "highYieldPearl": "Rio's Take: Lung cancer is overwhelmingly the leading cause of malignant pleural effusion. The presence of MPE due to lung cancer signifies advanced disease (M1a in NSCLC) and significantly impacts staging and treatment decisions, often indicating unresectability for curative intent.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct answer. Lung cancer is explicitly stated as the most common primary tumor site for MPE in the provided data (37.5%).",
+      "B": "Breast cancer is the second most common cause of MPE (16.8%), making it a plausible but incorrect distractor for 'MOST common'.",
+      "C": "Lymphoma is the third most common cause of MPE (11.5%), and the most common in young adults, making it a plausible but incorrect distractor.",
+      "D": "Gastrointestinal malignancies are a cause of MPE (6.9%) but are less common than lung, breast, or lymphoma, serving as another plausible but incorrect distractor."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_ed1a3b68",
+    "question": "A 70-year-old heavy smoker is diagnosed with non-small cell lung cancer. During the multidisciplinary tumor board discussion, the pathologist's report mentions the grading of 'PL0-PL3'. This grading system, incorporated into the International Association for the Study of Lung Cancer (IASLC) tumor-node-metastasis (TNM) staging scheme, specifically refers to the extent of which type of invasion?",
+    "options": {
+      "A": "Bronchial wall invasion",
+      "B": "Lymphovascular invasion",
+      "C": "Visceral pleural invasion",
+      "D": "Chest wall invasion"
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "The provided text explicitly states that 'Standardized grading for visceral pleural invasion (from PL0 to PL3) has been incorporated into the International Association for the Study of Lung Cancer tumor-node-metastasis staging scheme.' This classification (PL0, PL1, PL2, PL3) is crucial for accurately staging non-small cell lung cancer, as the extent of visceral pleural invasion can upstage the tumor (T stage). For instance, PL1 (invasion beyond the elastic layer but not to the visceral pleural surface) or PL2 (invasion to the visceral pleural surface) upstages a T1 tumor to T2a or T2b depending on size.",
+    "highYieldPearl": "Rio's Take: Remember that PL0-PL3 specifically refers to visceral pleural invasion. Understanding the T-stage implications of visceral pleural invasion (e.g., PL1/PL2 upstages to T2b in the 8th edition TNM for tumors ≥3 cm or with significant invasion) is vital for accurate staging and treatment planning.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Bronchial wall invasion is a characteristic of some lung cancers but is not graded by the PL0-PL3 system. It's a plausible distractor related to local invasion.",
+      "B": "Lymphovascular invasion indicates aggressive tumor biology and risk of metastasis but is not part of the PL0-PL3 grading, which specifically addresses pleural involvement.",
+      "C": "This is the correct answer. The text directly links 'PL0 to PL3' to 'visceral pleural invasion'.",
+      "D": "Chest wall invasion (parietal pleura, ribs, muscle) is a distinct T-stage feature in lung cancer (e.g., T3), but the PL0-PL3 system specifically refers to the visceral pleura, which is distinct from the parietal pleura/chest wall."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_c17c7e56",
+    "question": "A 68-year-old male with a significant smoking history presents with new-onset dyspnea. Chest imaging reveals a hilar mass concerning for lung cancer and a moderate-sized, unilateral pleural effusion. Malignant pleural effusion (MPE) is suspected. Which of the following is typically the MOST appropriate *initial* diagnostic procedure to confirm the malignant nature of the pleural effusion in this patient?",
+    "options": {
+      "A": "Blind closed pleural biopsy",
+      "B": "Thoracentesis with pleural fluid cytology",
+      "C": "CT-guided cutting-needle pleural biopsy",
+      "D": "Video-assisted thoracoscopic surgery (VATS) for pleural biopsy"
+    },
+    "correctAnswer": "B",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "In a patient with suspected malignant pleural effusion, thoracentesis with pleural fluid cytology is typically the most appropriate initial diagnostic procedure. It is a minimally invasive procedure that can often confirm the diagnosis of malignancy if tumor cells are present in the fluid. While other methods like image-guided biopsies (CT-guided, ultrasound-guided) or VATS offer higher diagnostic yields for malignancy, they are more invasive and usually reserved for cases where initial cytology is non-diagnostic or negative despite high clinical suspicion.",
+    "highYieldPearl": "Rio's Take: For suspected malignant pleural effusion, always start with the least invasive, potentially highest yield initial step. That's thoracentesis and cytology. If cytology is negative but suspicion remains high, escalate to image-guided biopsies, and finally, VATS for the highest diagnostic yield.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Blind closed pleural biopsy can be performed, but its diagnostic yield for malignancy can be lower than image-guided techniques, and cytology of the fluid is often tried first due to its simplicity and lower invasiveness.",
+      "B": "This is the correct answer. Thoracentesis with cytology is the standard initial step for diagnosing pleural effusions, especially when malignancy is suspected, due to its relative ease, safety, and potential to provide a definitive diagnosis without resorting to more invasive procedures immediately.",
+      "C": "CT-guided cutting-needle pleural biopsy offers a higher diagnostic yield than blind biopsy for malignancy but is generally considered if initial pleural fluid cytology is non-diagnostic. It is not typically the *initial* procedure before attempting fluid analysis.",
+      "D": "VATS provides the highest diagnostic yield for MPE (often >90%) but is a surgical procedure requiring general anesthesia. It is typically reserved for cases where less invasive methods have failed to yield a diagnosis or when therapeutic interventions (like pleurodesis) are also planned."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_453ec00c",
+    "question": "A 65-year-old male with a 4 cm peripheral lung adenocarcinoma undergoes lobectomy. Histopathology reveals the tumor infiltrates beyond the elastic layer into the visceral pleura but does not reach the pleural surface. No nodal or distant metastases are found. Which of the following statements most accurately describes the implication of this pathological finding regarding his pT stage and prognosis, according to current IASLC TNM staging?",
+    "options": {
+      "A": "It upstages the tumor to at least pT2a, indicating a worse prognosis than a tumor of similar size without visceral pleural invasion.",
+      "B": "It signifies a pT1b tumor, as it hasn't reached the pleural surface, and does not significantly impact prognosis beyond tumor size.",
+      "C": "It classifies the tumor as pT3 due to visceral pleural involvement, necessitating adjuvant chemotherapy regardless of nodal status.",
+      "D": "It suggests a potential for pleural dissemination, but the primary staging remains pT1c if the tumor size is less than 5 cm."
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "The provided text mentions that 'Standardized grading for visceral pleural invasion (from PL0 to PL3) has been incorporated into the International Association for the Study of Lung Cancer tumor-node-metastasis staging scheme.' According to the 8th edition of the IASLC TNM staging, invasion of the visceral pleura (PL1 or PL2) automatically upstages a tumor to at least pT2a, regardless of tumor size. PL1 refers to invasion beyond the elastic layer of the visceral pleura, but not to its surface, which matches the description in the vignette. Visceral pleural invasion is a known adverse prognostic factor, conferring a worse prognosis compared to tumors of similar size without such invasion.",
+    "highYieldPearl": "Rio's Take: Visceral pleural invasion (PL1 or PL2) is a critical prognostic factor in NSCLC, automatically upstaging even small tumors to at least pT2a/pT2b, signifying a worse prognosis due to increased risk of recurrence and metastasis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is the correct statement. Visceral pleural invasion (PL1 or PL2) is an independent prognostic factor and mandates upstaging to at least pT2a (for PL1/PL2, even if tumor size is less than 3 cm). This signifies a poorer prognosis.",
+      "B": "This is a trap. PL1 invasion (beyond elastic layer) is not pT1b. pT1b is for tumors >1 cm but ≤2 cm without visceral pleural invasion. Any visceral pleural invasion (PL1 or PL2) automatically upstages the tumor to pT2a or pT2b depending on specific size criteria, but never pT1. Also, it significantly impacts prognosis.",
+      "C": "This is a trap. pT3 refers to invasion of the parietal pleura, chest wall, diaphragm, mediastinum, or specific large tumor sizes (>7 cm) or multiple nodules in the same lobe. Visceral pleural invasion (PL1/PL2) upstages to pT2a/pT2b. Adjuvant chemotherapy indications are based on the overall stage, not solely on VPI.",
+      "D": "This is a trap. pT1c is for tumors >3 cm and ≤4 cm without VPI. Visceral pleural invasion by definition upstages the tumor beyond pT1, reflecting an increased risk of pleural dissemination and worse prognosis, thus the primary staging would not remain pT1c."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_e0849937",
+    "question": "A 58-year-old male presents with dyspnea and a unilateral pleural effusion. Thoracentesis fluid analysis shows exudative effusion, high LDH, low glucose, and numerous lymphocytes. Initial cytology is negative for malignant cells. He has a 20-pack-year smoking history. Chest CT shows a left-sided pleural effusion with irregular, nodular pleural thickening and mediastinal lymphadenopathy. Considering the highest diagnostic yield and the clinical picture, what is the most appropriate next diagnostic step?",
+    "options": {
+      "A": "Repeat thoracentesis for cytology and pleural fluid tumor markers.",
+      "B": "Ultrasound-guided closed needle pleural biopsy of the thickened pleura.",
+      "C": "Video-assisted thoracoscopic surgery (VATS) with pleural biopsies.",
+      "D": "Positron emission tomography-computed tomography (PET-CT) for metabolic staging."
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "The patient presents with an exudative, lymphocytic pleural effusion with negative cytology, coupled with a significant smoking history, irregular nodular pleural thickening, and mediastinal lymphadenopathy on CT, all highly suspicious for malignant pleural effusion (MPE). The provided text refers to 'McDonald CM et al. Efficacy and cost of awake thoracoscopy and video‑assisted thoracoscopic surgery in the undiagnosed pleural effusion.' While repeat cytology can increase the yield, and closed needle biopsy can be useful (as discussed by Maskell et al., Koegelenberg et al., and Bhattacharya et al.), VATS (or medical thoracoscopy) offers direct visualization of the pleura, allowing for targeted biopsies from multiple suspicious areas. This method provides the highest diagnostic yield for MPE, particularly when less invasive methods have failed and imaging strongly suggests malignancy, as is the case with nodular pleural thickening.",
+    "highYieldPearl": "Rio's Take: For undiagnosed exudative pleural effusions highly suspicious for malignancy (e.g., negative cytology, nodular pleural thickening on imaging), VATS/medical thoracoscopy offers the highest diagnostic yield by enabling direct visualization and targeted biopsies, surpassing repeat cytology and blind/guided needle biopsies.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is a trap. While repeat cytology can marginally increase the diagnostic yield (the initial yield is around 60%, and 2-3 repeats can increase it to 75-80%), with 'irregular, nodular pleural thickening' on CT, a tissue biopsy is more likely to yield a definitive diagnosis. Tumor markers (e.g., CEA) are supportive but not definitive for tissue diagnosis.",
+      "B": "This is a plausible option, as ultrasound-guided closed needle biopsy is a common next step after negative cytology and offers a higher yield than cytology alone (as referenced by Koegelenberg et al. and Maskell et al.). However, given the 'nodular' and 'irregular' thickening, the disease may be patchy, and a blind or even US-guided biopsy might still miss the malignancy. VATS provides superior visualization and targeting.",
+      "C": "This is the correct answer. VATS provides direct visualization of the pleural surfaces, allowing for targeted biopsies of all suspicious areas, including diffuse or nodular thickening. It has the highest diagnostic yield (often >90%) for malignant pleural effusions, especially after non-diagnostic thoracentesis/cytology, and is indicated when there is high suspicion based on clinical and radiological findings.",
+      "D": "This is a trap. PET-CT (referenced by De Wever et al. for staging NSCLC) is a valuable tool for staging and identifying metabolically active lesions, which can aid in guiding biopsies or confirming suspicion. However, it does not provide a definitive histological diagnosis, which is what 'establish the diagnosis' implies. The question asks for a 'diagnostic step', implying tissue diagnosis."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_d8398193",
+    "question": "A 35-year-old female presents with persistent cough and a right-sided pleural effusion. She reports a history of Hodgkin lymphoma, diagnosed 8 years ago and successfully treated with chemotherapy and radiation, currently in remission. Thoracentesis reveals a lymphocytic exudative effusion. Pleural fluid cytology is negative. CT chest shows new mediastinal lymphadenopathy and a moderate right pleural effusion without direct parenchymal lung lesions. Given the clinical presentation and according to the provided information, which statement regarding the most likely cause and its features is correct?",
+    "options": {
+      "A": "The most likely cause is recurrent Hodgkin lymphoma, and the effusion could be either unilateral or bilateral.",
+      "B": "The most likely cause is tuberculous pleurisy, given the lymphocytic exudate and the patient's age.",
+      "C": "Given the history of radiation, a metaplastic effusion is likely, which is diagnosed by an elevated pleural fluid CEA level.",
+      "D": "A secondary breast cancer metastasis is probable, often presenting ipsilateral to the primary tumor even after many years."
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "The provided text states that 'Lymphoma is the third most common cause in most series but is possibly the most common cause in young adults.' The vignette's patient is 35 years old. The text further elaborates on Hodgkin lymphoma, stating 'In patients with non‑Hodgkin lymphoma, approximately 16 % will develop malignant effusions... In Hodgkin lymphoma, effusions may be caused by hilar or mediastinal lymph node involvement as well as pleural involvement.' The patient has new mediastinal lymphadenopathy, a known cause of effusion in Hodgkin lymphoma. Crucially, the text notes, 'In one study of 110 patients presenting with Hodgkin lymphoma, effusions were present in 26 (24 %); these were equally unilateral or bilateral.' This directly supports option A. While chylothorax is mentioned for lymphoma, the text specifies 'all non-Hodgkin' in relation to chylothorax in one analysis, making it less likely for Hodgkin lymphoma.",
+    "highYieldPearl": "Rio's Take: Lymphoma is a common cause of MPE in young adults, and Hodgkin lymphoma-associated effusions can be caused by mediastinal lymph node involvement and are equally likely to be unilateral or bilateral. Carefully distinguish specific features (like chylothorax for non-Hodgkin) when diagnosing.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is the correct answer. The patient's age, history of Hodgkin lymphoma, and new mediastinal lymphadenopathy strongly suggest recurrent lymphoma as the cause of the effusion. The text explicitly states that effusions in Hodgkin lymphoma can be caused by mediastinal lymph node involvement and are equally unilateral or bilateral, aligning perfectly with the option.",
+      "B": "This is a trap. While tuberculous pleurisy can present with a lymphocytic exudate, and the patient's age doesn't exclude it, the strong history of Hodgkin lymphoma and the presence of new mediastinal lymphadenopathy make recurrent lymphoma a far more probable and specific diagnosis given the presented clinical context and the information provided in the text about lymphoma.",
+      "C": "This is a trap. 'Metaplastic effusion' is not a standard medical term. While prior radiation can cause pleural changes (radiation pleuritis), an elevated CEA level in pleural fluid is typically associated with adenocarcinomas (like lung, breast, GI) and is not a marker for radiation-induced changes or lymphoma. The text does not support this claim.",
+      "D": "This is a trap. While breast cancer is the second most common cause of MPE overall and can present years after the primary diagnosis (as mentioned in the text: 'even after 20 years'), there is no history of breast cancer in this patient. The patient's specific history of Hodgkin lymphoma and the presence of mediastinal lymphadenopathy point much more strongly towards lymphoma as the etiology of the effusion, especially given the text's emphasis on lymphoma being common in young adults and its association with mediastinal involvement."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_50d8a4f0",
+    "question": "A 68-year-old male presents with dyspnea and a unilateral pleural effusion. Further workup is initiated for suspected malignant pleural effusion (MPE). Which of the following statements regarding the etiology and characteristics of MPE is TRUE?",
+    "options": {
+      "A": "Breast cancer is the most frequent cause of malignant pleural effusion.",
+      "B": "Malignant effusions from lymphoma are uncommon and typically seen only in Hodgkin lymphoma.",
+      "C": "A significant proportion of malignant pleural effusions due to breast cancer may develop 10-20 years after the initial diagnosis.",
+      "D": "Contralateral pleural effusions are exceptionally rare in cases of metastatic breast cancer."
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "Malignant pleural effusion (MPE) is most commonly caused by lung cancer (37.5%), followed by breast cancer (16.8%), and then lymphoma (11.5%). Therefore, option A is incorrect. Lymphoma-associated MPEs are common in both non-Hodgkin and Hodgkin lymphoma, making option B incorrect. Breast cancer MPEs can present many years after the initial diagnosis, even after 20 years, making option C correct. Furthermore, while often ipsilateral (50%), breast cancer MPEs can be contralateral in 40% of cases, thus option D is incorrect.",
+    "highYieldPearl": "Rio's Take: Always remember the top three causes of MPE: Lung > Breast > Lymphoma. Crucially, breast cancer MPE can manifest decades after initial diagnosis, and laterality is not exclusive to the primary tumor side.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option is plausible as breast cancer is a common cause of MPE, but lung cancer is the most frequent. Distinguishing the order of frequency is key.",
+      "B": "This option tries to mislead by implying rarity and specific subtype exclusivity, whereas lymphoma is a common cause and affects both Hodgkin and non-Hodgkin types.",
+      "C": "This option tests recall of a specific, but highlighted, detail about the latency of breast cancer metastasis to the pleura, which is often surprising.",
+      "D": "This option uses strong language ('exceptionally rare') to misrepresent the 40% incidence of contralateral effusions in metastatic breast cancer, making it a clear distractor."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_75cee0b8",
+    "question": "A 55-year-old chronic smoker presents with persistent cough, weight loss, and an enlarging right-sided pleural effusion. Thoracentesis yields a bloody exudate, and two separate cytological examinations of the pleural fluid are negative for malignancy. Given the high clinical suspicion for malignancy, which of the following diagnostic procedures is most likely to provide a definitive diagnosis?",
+    "options": {
+      "A": "Repeat thoracentesis with cell block analysis.",
+      "B": "Blind closed pleural biopsy (Cope's needle).",
+      "C": "Ultrasound-guided core needle pleural biopsy.",
+      "D": "Video-assisted thoracoscopic surgery (VATS) with pleural biopsies."
+    },
+    "correctAnswer": "D",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "In a patient with high clinical suspicion for malignancy and persistently negative pleural fluid cytology, more invasive procedures with higher diagnostic yields are warranted. While repeat thoracentesis with cell block (A) can increase the yield, it's generally not considered the 'most likely' to provide a definitive diagnosis after two negatives. Blind closed pleural biopsy (B) has a variable yield for malignancy, often lower than image-guided biopsies or VATS, especially when initial cytology is negative. Ultrasound-guided core needle pleural biopsy (C) offers a higher yield than blind biopsy by targeting suspicious areas, but Video-assisted thoracoscopic surgery (VATS) (D) provides direct visualization of the pleura, allows for targeted biopsies of multiple sites, and is widely considered the gold standard for establishing a definitive diagnosis in undiagnosed exudative effusions highly suspicious for malignancy (as suggested by reference 153 on its efficacy in undiagnosed effusions).",
+    "highYieldPearl": "Rio's Take: For high-suspicion malignant pleural effusion with negative initial cytology, the diagnostic cascade moves towards more invasive, higher-yield procedures. VATS provides the highest diagnostic yield for pleural malignancy, allowing direct visualization and targeted biopsies.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Plausible as cell block increases yield, but after two negative cytologies, the overall yield is still significantly lower than invasive biopsy techniques for a definitive diagnosis.",
+      "B": "Historically used and 'still useful' (ref 156), but its diagnostic yield for malignancy is inferior to image-guided biopsies or VATS, especially when the suspicion is high and less invasive methods have failed.",
+      "C": "A good, minimally invasive option that offers a higher yield than blind biopsy and cytology. This is a strong distractor, as it is often a next step, but VATS generally offers superior yield due to direct visualization and multi-site sampling.",
+      "D": "The most definitive and highest yield diagnostic procedure for pleural malignancy when less invasive methods are non-diagnostic, making it the most appropriate choice for 'most likely to provide a definitive diagnosis' in this high-suspicion scenario."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_a593e233",
+    "question": "A 68-year-old patient with a newly diagnosed 4 cm peripheral non-small cell lung cancer (NSCLC) in the right upper lobe, with no mediastinal lymphadenopathy or distant metastases on contrast-enhanced CT. The patient has a good performance status. Which statement regarding further staging and management is MOST accurate?",
+    "options": {
+      "A": "A PET/CT scan is generally not recommended for solitary peripheral NSCLC without evidence of nodal involvement on initial CT.",
+      "B": "The presence of visceral pleural invasion (PL1) alone upstages a T2a tumor to a T3 classification.",
+      "C": "Integrated PET/CT is a valuable tool for detecting occult distant metastases and refining mediastinal lymph node staging, often guiding further invasive staging.",
+      "D": "For this patient, mediastinoscopy is the definitive first step for mediastinal staging before considering any other imaging."
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "Integrated PET/CT (Positron Emission Tomography/Computed Tomography) is a crucial tool in the staging of potentially resectable NSCLC. Its primary roles include identifying occult distant metastases (up to 10-15% of patients) and accurately assessing mediastinal lymph node involvement, thereby guiding decisions for invasive mediastinal staging (like EBUS/EUS-FNA or mediastinoscopy). Therefore, option C is the most accurate statement and is supported by reference 149. Option A is incorrect; PET/CT is strongly recommended even in early-stage NSCLC to rule out occult metastatic disease and optimize surgical planning. Option B is incorrect; while visceral pleural invasion is incorporated into TNM staging, PL1 (invasion of visceral pleura) and PL2 (invasion into elastic layer of visceral pleura) are still classified as T2. Only PL3 (invasion through parietal pleura) upstages to T4. Option D is incorrect; while mediastinoscopy is a definitive invasive staging procedure, it is typically performed after non-invasive imaging (like CT and PET/CT) to identify suspicious nodes and guide the need for and extent of invasive staging.",
+    "highYieldPearl": "Rio's Take: PET/CT is indispensable in staging potentially resectable NSCLC, serving as a powerful tool for detecting occult distant metastases and refining mediastinal nodal staging, which then guides the necessity and approach for invasive mediastinal staging.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option is a common misconception, as PET/CT is a standard recommendation for NSCLC staging, even in seemingly early disease, to detect occult metastases.",
+      "B": "This option tests detailed knowledge of TNM staging for pleural invasion. While PL staging is mentioned in the context, specific upstaging rules (PL1/2 as T2, PL3 as T4) are common traps.",
+      "C": "This option accurately describes the well-established and critically important role of PET/CT in NSCLC staging, directly aligning with expert guidelines and the context's reference to integrated PET/CT.",
+      "D": "This option incorrectly places mediastinoscopy as the 'first step' before imaging. Mediastinoscopy is an invasive procedure typically performed *after* initial imaging (CT and PET/CT) has identified suspicious lymph nodes, to confirm involvement."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_1c3b8742",
+    "question": "A 68-year-old male presents with persistent cough and hemoptysis. Bronchoscopy reveals an endobronchial mass, and biopsy confirms adenocarcinoma of the lung. A contrast-enhanced CT of the chest shows a 4 cm left upper lobe mass, ipsilateral hilar lymphadenopathy (1.5 cm), and no obvious distant metastases. His pulmonary function tests are adequate for potential surgical resection. Which of the following is the most appropriate next step for comprehensive staging in this patient?",
+    "options": {
+      "A": "Integrated Positron Emission Tomography-Computed Tomography (PET-CT) scan",
+      "B": "MRI brain and bone scan",
+      "C": "Mediastinoscopy for lymph node biopsy",
+      "D": "Repeat contrast-enhanced CT of chest and abdomen"
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "For non-small cell lung cancer (NSCLC), especially when considering curative-intent therapies like surgery or definitive radiotherapy, integrated PET-CT is the standard of care for comprehensive staging (Ref 149). It offers higher sensitivity and specificity than separate CT and bone scans for detecting occult distant metastases (excluding the brain, for which MRI is superior) and for more accurately assessing regional lymph node involvement (N-staging). Detecting distant metastases (M1 disease) upstages the patient and often shifts treatment strategy from curative to palliative intent. PET-CT also helps in guiding subsequent invasive mediastinal staging procedures if indicated.",
+    "highYieldPearl": "Rio's Take: PET-CT is indispensable for comprehensive whole-body staging in NSCLC to detect occult metastases and refine N-stage, guiding treatment decisions, especially for potentially resectable disease. It's generally performed before invasive mediastinal staging.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. PET-CT provides comprehensive metabolic staging, crucial for detecting occult distant metastases and better characterizing mediastinal lymph nodes, guiding further management.",
+      "B": "While MRI brain is essential for detecting brain metastases (which PET-CT has limited sensitivity for), and a bone scan *could* be done, PET-CT provides a more comprehensive whole-body assessment for other distant metastases (e.g., bone, adrenal, liver) in a single study with higher diagnostic accuracy than separate CT and bone scans. Therefore, PET-CT is the more appropriate *next single step* for comprehensive staging.",
+      "C": "Mediastinoscopy is an invasive procedure for definitive N-staging, particularly for suspicious N2/N3 nodes or for confirmation of N0 disease in certain contexts. However, it should typically be performed *after* comprehensive non-invasive staging, including PET-CT, to guide which nodes to biopsy and to avoid unnecessary invasive procedures if distant metastases are already detected.",
+      "D": "A repeat CT scan of the chest and abdomen would not add significant staging information beyond what's already known from the initial CT and biopsy. PET-CT provides crucial metabolic information that standard CT lacks, which is vital for comprehensive staging."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_cf58e7f4",
+    "question": "A 72-year-old male with a significant smoking history presents with dyspnea and cough. Imaging reveals a 5 cm mass in the right lower lobe and a moderate right-sided pleural effusion. Initial thoracentesis shows an exudative fluid with lymphocytic predominance, but cytology is negative for malignant cells on two separate samples. There is no evidence of pleural nodularity or focal thickening on the CT scan. What is the most appropriate next step to establish the diagnosis of the pleural effusion and further stage the patient?",
+    "options": {
+      "A": "Repeat thoracentesis with large volume fluid submission for cell block and immunohistochemistry",
+      "B": "Percutaneous CT-guided pleural biopsy of the pleura",
+      "C": "Image-guided transthoracic needle biopsy of the lung mass",
+      "D": "Medical thoracoscopy with targeted pleural biopsies"
+    },
+    "correctAnswer": "D",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "In the presence of a lung mass and a pleural effusion, malignant pleural effusion (MPE) due to lung cancer is a strong possibility (Lung cancer is the most common cause of MPE, Table 114.1). MPE denotes M1a disease in NSCLC. When initial pleural fluid cytology is negative despite high clinical suspicion, and no focal pleural lesion amenable to image-guided biopsy is identified, medical thoracoscopy (or video-assisted thoracoscopic surgery, VATS) is the procedure of choice (Ref 152, 153). It allows direct visualization of the pleura, targeted biopsies of suspicious areas (even subtle ones), and has the highest diagnostic yield for pleural malignancy, often approaching 90-95%. Establishing an MPE is critical for accurate staging and treatment planning.",
+    "highYieldPearl": "Rio's Take: For undiagnosed exudative pleural effusions with high suspicion of malignancy (especially with a primary lung mass) and negative cytology, medical thoracoscopy offers the highest diagnostic yield, facilitating direct visualization and targeted biopsies.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "While repeat cytology with cell block and immunohistochemistry can sometimes increase the diagnostic yield, its sensitivity is significantly lower than invasive biopsy techniques, especially after two negative samples. Given the high suspicion with a lung mass, a more definitive approach is warranted.",
+      "B": "Percutaneous CT-guided pleural biopsy is an excellent method for diagnosing malignancy when there is focal pleural thickening or nodularity. However, the vignette explicitly states 'no evidence of pleural nodularity or focal thickening on the CT scan,' making this option less appropriate as there is no specific target for biopsy.",
+      "C": "An image-guided transthoracic needle biopsy of the lung mass would diagnose the primary lung cancer. However, the primary goal here is to establish the nature of the *pleural effusion* for accurate staging. Confirming the primary lung cancer does not confirm if the effusion is malignant (M1a) or benign, which is crucial for determining resectability and treatment strategy.",
+      "D": "This is the correct answer. Medical thoracoscopy allows for direct visualization of the pleural surfaces and targeted biopsies, offering the highest diagnostic yield when cytology is inconclusive and no focal lesions are present for image-guided percutaneous biopsy. Confirming MPE changes the staging to M1a."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_2447acf1",
+    "question": "A 65-year-old male undergoes surgical resection for a 2.5 cm peripheral adenocarcinoma of the right upper lobe. The pathology report confirms adenocarcinoma and states \"tumor invades visceral pleura to the elastic layer (PL1), but does not extend to the pleural surface.\" The hilar and mediastinal lymph nodes resected are negative for malignancy. No distant metastases were found on pre-operative imaging. Based on this pathological finding, what is the correct T-stage for this tumor according to the 8th edition TNM staging system?",
+    "options": {
+      "A": "T1a",
+      "B": "T1c",
+      "C": "T2a",
+      "D": "T2b"
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "According to the 8th edition TNM staging system for non-small cell lung cancer, tumor size is a primary determinant of T-stage. A tumor 2.5 cm in greatest dimension would be classified as T1c (>2 cm but ≤3 cm) if there were no other adverse features. However, the presence of visceral pleural invasion (VPI) automatically upstages the tumor. PL1 (invasion to the elastic layer) or PL2 (invasion through the elastic layer to the visceral pleural surface) both classify the tumor as T2 (Ref from context: 'Standardized grading for visceral pleural invasion (from PL0 to PL3) has been incorporated into the International Association for the Study of Lung Cancer tumor-node-metastasis staging scheme'). Within the T2 category, T2a applies to tumors >3 cm but ≤4 cm, or those with VPI (PL1 or PL2), or involvement of the main bronchus. Since the tumor has PL1 invasion, it is classified as T2a, despite its size of 2.5 cm which would otherwise be T1c.",
+    "highYieldPearl": "Rio's Take: Visceral pleural invasion (PL1 or PL2) automatically upstages a T1 tumor to T2a, irrespective of its original T1 size category.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "T1a applies to tumors ≤1 cm in greatest dimension. The tumor size is 2.5 cm, so this option is incorrect.",
+      "B": "T1c applies to tumors >2 cm but ≤3 cm, *provided there is no visceral pleural invasion or other T2 features*. This is a plausible trap option, as 2.5 cm falls within the T1c size range, but it fails to account for the upstaging effect of PL1 visceral pleural invasion.",
+      "C": "This is the correct answer. The presence of PL1 visceral pleural invasion upstages any T1 tumor to T2a, regardless of its specific T1 subclass (T1a, T1b, or T1c).",
+      "D": "T2b applies to tumors >4 cm but ≤5 cm. The tumor size is 2.5 cm, which does not fit this category, even with VPI. While VPI makes it T2, the specific subcategory T2b is reserved for larger tumors."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_f069de9b",
+    "question": "A 68-year-old male with a significant smoking history presents with progressive dyspnea and cough. Chest X-ray reveals a large left-sided pleural effusion. Thoracentesis yields an exudative fluid with lymphocytic predominance. Initial pleural fluid cytology is negative for malignant cells. A contrast-enhanced CT scan of the chest shows a left hilar mass and extensive left-sided pleural thickening, suggesting malignant involvement. Given the high clinical suspicion for malignancy, what is the most appropriate next diagnostic step to confirm the diagnosis?",
+    "options": {
+      "A": "Repeat pleural fluid cytology.",
+      "B": "Blind closed pleural biopsy.",
+      "C": "CT-guided cutting-needle biopsy of the pleural thickening.",
+      "D": "Medical thoracoscopy with directed biopsies."
+    },
+    "correctAnswer": "D",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "The vignette presents a patient with high clinical suspicion for malignant pleural effusion (MPE) due to smoking history, hilar mass, and extensive pleural thickening on CT, despite an initial negative pleural fluid cytology. While repeat cytology (A) can sometimes yield a diagnosis, its sensitivity diminishes significantly after the first attempt, making it an insufficient next step for confirmation in a high-suspicion case. Blind closed pleural biopsy (B) has a diagnostic yield for malignancy typically ranging from 40-60%. CT-guided cutting-needle biopsy (C) offers a higher diagnostic yield (70-85%) than blind biopsy, especially when a focal lesion or extensive thickening provides a clear target. However, medical thoracoscopy (D) is considered the gold standard for diagnosing MPE when less invasive methods are inconclusive. It allows for direct visualization of the pleura, enabling targeted biopsies from multiple suspicious areas (e.g., nodules, thickened pleura) and achieving the highest diagnostic yield, often exceeding 90-95%. Given the need to 'confirm the diagnosis' in a high-suspicion scenario where initial cytology failed, thoracoscopy provides the best chance for definitive diagnosis.",
+    "highYieldPearl": "When evaluating highly suspected malignant pleural effusion with negative initial cytology, medical thoracoscopy offers the highest diagnostic yield due to direct visualization and targeted biopsy capabilities, making it the preferred method for definitive confirmation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Repeat cytology is a less invasive option, but its yield for malignancy decreases considerably after the first negative result, making it less likely to confirm the diagnosis in this high-suspicion case.",
+      "B": "Blind closed pleural biopsy has a moderate yield for malignancy but is significantly lower than image-guided biopsies or thoracoscopy. It is less suitable when there are clear targets visible on CT and high clinical suspicion.",
+      "C": "CT-guided cutting-needle biopsy is a very plausible and often effective option, offering a good yield for targeted lesions. However, with 'extensive' pleural thickening, thoracoscopy can provide broader sampling and direct visualization, potentially increasing the chance of diagnosis beyond a single CT-guided biopsy, making it the 'most appropriate' for definitive confirmation."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_d949b68c",
+    "question": "A 62-year-old non-smoking female is diagnosed with adenocarcinoma of the lung based on bronchoscopic biopsy of a 3 cm right upper lobe mass. Contrast-enhanced CT of the chest and abdomen shows no obvious distant metastases but identifies enlarged mediastinal lymph nodes (stations 2R and 4R, both 1.5 cm short axis diameter). Brain MRI is negative for metastases. To complete the staging of her non-small cell lung cancer (NSCLC), what is the most appropriate role for an integrated FDG-PET/CT scan?",
+    "options": {
+      "A": "To guide mediastinoscopy for biopsy of the enlarged lymph nodes.",
+      "B": "To confirm the diagnosis of adenocarcinoma, if initial biopsy was indeterminate.",
+      "C": "To detect occult distant metastases and better characterize mediastinal lymph node involvement.",
+      "D": "To differentiate between benign and malignant pleural effusions."
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "The primary role of integrated FDG-PET/CT in the staging of non-small cell lung cancer (NSCLC) is to improve the accuracy of both distant and mediastinal staging. It is highly effective in detecting occult distant metastases (M-staging) that may be missed by conventional imaging. For mediastinal lymph nodes (N-staging), while CT relies on size criteria (e.g., >1 cm short axis diameter often considered suspicious), PET/CT provides functional metabolic information (SUV uptake) that helps differentiate between inflammatory/reactive lymph nodes and malignant involvement, especially in equivocal sized nodes (like 1.5 cm as in the vignette). This information refines mediastinal staging and guides the need for and targeting of invasive nodal staging procedures (e.g., EBUS-TBNA or mediastinoscopy). The diagnosis of adenocarcinoma has already been established by bronchoscopic biopsy, ruling out option B. While PET/CT results inform decisions regarding invasive nodal staging, it does not physically 'guide' the mediastinoscopy procedure in a real-time sense, making A less precise. Although malignant pleural effusions can be FDG-avid, direct analysis of pleural fluid or tissue (cytology, biopsy) is the definitive method for differentiating benign from malignant effusions, so D is not its most appropriate primary role in this context.",
+    "highYieldPearl": "Integrated FDG-PET/CT is crucial for accurate NSCLC staging, primarily by detecting occult distant metastases and functionally characterizing mediastinal lymph nodes to refine N-staging and guide invasive procedures.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "PET/CT informs the decision for invasive nodal staging and helps prioritize which nodes to sample, but it doesn't serve as a real-time guide during the actual mediastinoscopy procedure.",
+      "B": "The vignette explicitly states the diagnosis of adenocarcinoma was already made by bronchoscopic biopsy, so this role is irrelevant in this case.",
+      "D": "While PET/CT can demonstrate FDG avidity in malignant pleural effusions, it is not the primary diagnostic tool for *differentiating* between benign and malignant effusions; direct cytological and histological analysis of the fluid or pleura is definitive."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_21d7fbb3",
+    "question": "A 45-year-old male presents with dyspnea, weight loss, and recurrent left-sided pleural effusion requiring multiple thoracenteses. Fluid analysis consistently shows an exudate with high lymphocytic count, but negative cytology for malignancy. He denies a significant smoking history. His medical history includes a diagnosis of non-Hodgkin lymphoma 8 years ago, which was successfully treated and had been in remission. A recent CT chest shows mediastinal lymphadenopathy and an extensive left pleural effusion. Which of the following is the most likely cause of his current pleural effusion?",
+    "options": {
+      "A": "Recurrent non-Hodgkin lymphoma.",
+      "B": "Primary lung adenocarcinoma.",
+      "C": "Metastatic breast cancer.",
+      "D": "Tuberculous pleurisy."
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "The patient's history of successfully treated non-Hodgkin lymphoma (NHL) followed by a presentation of recurrent pleural effusion, weight loss, and new mediastinal lymphadenopathy strongly suggests a recurrence of his primary malignancy. The provided text highlights that lymphoma is a significant cause of malignant pleural effusion (MPE), and in patients with non-Hodgkin lymphoma, approximately 16% develop malignant effusions, often in association with evidence of disease elsewhere (such as mediastinal lymphadenopathy). While primary lung adenocarcinoma (B) is the most common cause of MPE overall and can occur in non-smokers, the specific past medical history and current findings make recurrent lymphoma a more directed and likely diagnosis for this individual. Metastatic breast cancer (C) is the second most common cause of MPE, but it is rare in males, making it a less likely option. Tuberculous pleurisy (D) can present with lymphocytic exudative effusion, but the presence of mediastinal lymphadenopathy in a patient with a history of lymphoma, especially with negative cytology, strongly points towards a malignant etiology rather than an infectious one in this context.",
+    "highYieldPearl": "A history of lymphoma, even if previously treated, with new evidence of mediastinal lymphadenopathy and recurrent pleural effusion, should raise high suspicion for recurrent lymphoma as the cause of the effusion.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "The correct answer leverages the patient's specific past medical history and current findings, which are strong indicators for recurrent lymphoma.",
+      "B": "Primary lung adenocarcinoma is the overall most common cause of MPE, making it a plausible distracter. However, overlooking the patient's specific history of lymphoma makes this a less targeted answer.",
+      "C": "Metastatic breast cancer is the second most common cause of MPE, but the patient's gender (male) makes this option considerably less likely, testing attention to detail.",
+      "D": "Tuberculous pleurisy can cause lymphocytic exudative effusions and mediastinal lymphadenopathy. However, given the strong history of non-Hodgkin lymphoma and the likely recurrence, malignancy is a more probable diagnosis in this clinical scenario than tuberculosis."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_d8495008",
+    "question": "A 62-year-old male, chronic smoker, presents with progressive dyspnea and cough. Imaging reveals a 4.0 cm left upper lobe spiculated mass and a moderate left-sided pleural effusion. Thoracentesis yields an exudative fluid, and subsequent cytology confirms adenocarcinoma cells. Further workup shows no distant metastases outside the ipsilateral hemithorax. Based on these findings, what is the most appropriate T, N, M staging for this patient's non-small cell lung cancer (NSCLC) according to the 8th edition TNM classification?",
+    "options": {
+      "A": "T2a N0 M1a",
+      "B": "T2b N1 M0",
+      "C": "T3 N0 M1a",
+      "D": "T4 N2 M0"
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "The 8th edition TNM staging for NSCLC classifies a malignant pleural effusion (or pericardial effusion, or pleural nodules) in the ipsilateral or contralateral hemithorax as M1a. A primary tumor size of 4.0 cm falls under T2a (tumors >3 cm and ≤4 cm). In the absence of specific mention of lymph node involvement confirmed by imaging or biopsy, it is staged as N0. Therefore, T2a N0 M1a correctly describes the disease stage, classifying this patient as Stage IVa.",
+    "highYieldPearl": "Rio's Take: The presence of a malignant pleural effusion automatically upstages non-small cell lung cancer to M1a (Stage IVa), regardless of the primary tumor size (T) or nodal involvement (N). Always remember to classify the T and N accurately based on available information, even if M1a is the dominant factor for overall stage group.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. This option accurately applies the 8th edition TNM classification: T2a for a 4.0 cm tumor, N0 in the absence of explicit nodal involvement, and M1a for malignant pleural effusion.",
+      "B": "Incorrect. T2b is for tumors >4 cm to ≤5 cm. M0 is incorrect as malignant pleural effusion is classified as M1a.",
+      "C": "Incorrect. T3 includes tumors >5 cm to ≤7 cm or with specific invasion characteristics. A 4.0 cm mass is T2a, not T3.",
+      "D": "Incorrect. T4 involves invasion of specific structures or multiple tumor nodules in the same lobe. N2 refers to ipsilateral mediastinal or subcarinal lymph node involvement. M0 is incorrect as malignant pleural effusion is M1a."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_53add64d",
+    "question": "A 70-year-old non-smoker presents with chronic cough and right-sided pleuritic chest pain. A chest X-ray shows a large right pleural effusion. Thoracentesis yields an exudative fluid with lymphocytic predominance. Cytology on two separate samples is negative for malignant cells. Given a high clinical suspicion of malignancy, further investigation is warranted. Which of the following diagnostic procedures is most likely to provide a definitive diagnosis in this patient, considering the initial negative cytology and high suspicion of malignancy?",
+    "options": {
+      "A": "Repeat thoracentesis with additional cytology and pleural fluid biomarkers (e.g., ADA, CEA).",
+      "B": "Closed pleural biopsy (Cope's needle)",
+      "C": "CT-guided cutting-needle pleural biopsy",
+      "D": "Medical thoracoscopy with pleural biopsies"
+    },
+    "correctAnswer": "D",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "For an undiagnosed exudative pleural effusion with high suspicion of malignancy and negative cytology after two attempts, medical thoracoscopy (also known as pleuroscopy or video-assisted thoracoscopic surgery - VATS for diagnostic purposes) offers the highest diagnostic yield. It allows direct visual inspection of the entire pleural surface, guided biopsies of any suspicious lesions, and can often yield a definitive diagnosis in over 90% of cases (Ref 152, 153). While CT-guided biopsy is an improvement over blind biopsies for focal lesions, thoracoscopy's ability to survey the entire pleura and take multiple targeted biopsies makes it superior for diffuse or patchy malignant involvement.",
+    "highYieldPearl": "Rio's Take: When initial pleural fluid cytology is negative for malignancy despite high clinical suspicion, medical thoracoscopy is generally considered the gold standard diagnostic procedure due to its superior visualization and targeted biopsy capabilities, leading to the highest diagnostic yield.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Repeating cytology after two negative samples has a low yield when suspicion remains high. Pleural fluid biomarkers like CEA (carcinoembryonic antigen) can be supportive but are not definitive for malignancy, and ADA (adenosine deaminase) is primarily used for tuberculosis diagnosis.",
+      "B": "Closed pleural biopsy (e.g., Cope's needle) has a diagnostic yield for malignancy typically ranging from 50-70% (Ref 156, 159, 160, 161). However, it is a blind procedure and may miss patchy or localized pleural involvement, making its yield generally lower than image-guided or thoracoscopic biopsies, especially after initial negative cytology.",
+      "C": "CT-guided cutting-needle pleural biopsy improves diagnostic yield over blind biopsy by targeting focal lesions identified on imaging (Ref 157). However, for diffuse or subtle pleural involvement, or when no clear focal lesion is readily apparent, medical thoracoscopy offers a more comprehensive assessment and a higher overall diagnostic yield.",
+      "D": "Correct. Medical thoracoscopy allows direct visualization of the entire pleural surface, enabling targeted biopsies of suspicious areas. This significantly increases the diagnostic yield for malignant pleural effusion, making it the most appropriate next step when suspicion for malignancy remains high despite negative cytology and less invasive methods."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pneumothorax_a5f4e06e",
+    "question": "A 45-year-old female presents with a chronic cough and recurrent, moderate left-sided pleural effusion. Thoracentesis reveals an exudative, lymphocytic fluid with negative cytology. She has a history of left-sided breast cancer treated with mastectomy and chemotherapy 10 years ago. Further evaluation shows no new lung parenchymal lesions. Considering the patient's history and presentation, which of the following statements regarding the likely etiology of her malignant pleural effusion is MOST accurate?",
+    "options": {
+      "A": "The pleural effusion is most likely due to metastatic breast cancer, despite the 10-year latency and ipsilateral presentation.",
+      "B": "The absence of new lung parenchymal lesions makes primary lung cancer a less likely cause, but a CT-guided pleural biopsy is warranted.",
+      "C": "Lymphoma should be strongly considered given the lymphocytic fluid, and a chylothorax would confirm this diagnosis.",
+      "D": "Given the ipsilateral effusion and 10-year latency, a direct pleural invasion from a new primary lung cancer arising in the same hemithorax is the most probable diagnosis."
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "The provided text explicitly states that breast cancer, the second most common cause of MPE (16.8% per Table 114.1), can cause effusions many years after initial diagnosis, even after 20 years. Furthermore, these effusions are ipsilateral to the primary tumor in 50% of cases. The patient's history of left-sided breast cancer, 10-year latency, and left-sided (ipsilateral) effusion perfectly align with these described characteristics, making metastatic breast cancer the most probable etiology for her malignant pleural effusion.",
+    "highYieldPearl": "Rio's Take: Malignant pleural effusion from breast cancer can occur with a significant latency period (even decades) and commonly presents ipsilaterally to the original tumor. Always consider this possibility in patients with a history of breast malignancy and MPE, even if presentation is delayed.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. This statement is directly supported by the provided text, which mentions breast cancer MPE can occur up to 20 years post-diagnosis and is ipsilateral in 50% of cases. This accurately fits the patient's presentation.",
+      "B": "While primary lung cancer is the most common cause of MPE overall, the absence of a new lung parenchymal lesion makes a *new primary lung cancer* less likely. A CT-guided pleural biopsy might be warranted for diagnosis, but this option does not identify the *most likely* etiology given the specific history.",
+      "C": "Lymphocytic fluid is common in many malignant effusions, including breast cancer. While lymphoma is the third most common cause of MPE and chylothorax is common in non-Hodgkin lymphoma, chylothorax is not mentioned in the vignette, and its presence would support, but not definitively confirm, lymphoma to the exclusion of other possibilities. The history of breast cancer provides a more specific and probable link based on the provided text.",
+      "D": "Incorrect. Although lung cancer is common, the combination of ipsilateral effusion and 10-year latency is explicitly highlighted in the provided text as characteristic features of *metastatic breast cancer* MPE. Therefore, a new primary lung cancer is less probable in this specific context compared to recurrent breast cancer MPE, especially without a new lung mass."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "EIT",
+      "section": null,
+      "pageNumber": 17
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_006",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "The most sensitive imaging modality for detecting a small pneumothorax, especially in supine patients, is?",
+    "options": {
+      "A": "Chest X-Ray",
+      "B": "CT Thorax",
+      "C": "Ultrasound",
+      "D": "MRI Chest"
+    },
+    "correctAnswer": "C",
+    "topic": "pneumothorax",
+    "deepDiveExplanation": "Point-of-care ultrasound (POCUS) has emerged as a highly sensitive and specific tool for diagnosing pneumothorax, particularly in emergency settings and for small or occult pneumothoraces. It can detect the absence of 'lung sliding' and the 'barcode sign' in M-mode, which are pathognomonic for pneumothorax. While CT Thorax is the gold standard for definitive anatomical detail, ultrasound is more sensitive than plain chest X-ray for small pneumothoraces and can be performed at the bedside.",
+    "highYieldPearl": "Lung ultrasound is more sensitive than supine chest X-ray for detecting pneumothorax and is crucial in trauma settings (E-FAST protocol) or critically ill patients.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Many might choose Chest X-Ray as the initial diagnostic, or CT Thorax as the 'gold standard' for imaging. However, for 'most sensitive' and 'bedside' detection, ultrasound surpasses CXR, especially for small or occult pneumothoraces in non-erect patients.",
+    "isOneLiner": true,
+    "id": "one_liner_pneumothorax_us0pqffm"
+  },
+  {
+    "question": "In primary spontaneous pneumothorax, the recommended initial intervention for a large pneumothorax (>2 cm at hilum) with minimal or no symptoms is?",
+    "options": {
+      "A": "Observation",
+      "B": "Simple aspiration",
+      "C": "Small bore chest tube insertion",
+      "D": "Large bore chest tube insertion"
+    },
+    "correctAnswer": "B",
+    "topic": "pneumothorax",
+    "deepDiveExplanation": "According to British Thoracic Society (BTS) guidelines and American College of Chest Physicians (ACCP) consensus, for a primary spontaneous pneumothorax (PSP) larger than 2 cm (measured from the lung apex to the cupola or at the hilum), simple aspiration is the recommended initial management if the patient is minimally symptomatic or asymptomatic. If aspiration fails, then a small-bore chest tube is indicated. Observation is for small, asymptomatic PSPs (<2cm).",
+    "highYieldPearl": "Simple aspiration is the first-line intervention for large PSPs in stable, minimally symptomatic patients, before considering chest tube insertion.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Students might immediately think of chest tube for a 'large' pneumothorax. However, guidelines specifically recommend simple aspiration as the initial step for stable, large PSPs, reserving chest tubes for aspiration failure or symptomatic patients.",
+    "isOneLiner": true,
+    "id": "one_liner_pneumothorax_wcn0vhwb"
+  },
+  {
+    "question": "Tension pneumothorax results from a one-way valve effect causing air accumulation in the pleural space, leading to mediastinal shift and impaired...",
+    "options": {
+      "A": "Systemic vascular resistance",
+      "B": "Cardiac output",
+      "C": "Pulmonary vascular resistance",
+      "D": "Renal blood flow"
+    },
+    "correctAnswer": "B",
+    "topic": "pneumothorax",
+    "deepDiveExplanation": "In tension pneumothorax, air enters the pleural space during inspiration but cannot exit during expiration, leading to progressive air accumulation. This positive pressure compresses the ipsilateral lung and shifts the mediastinum, kinking the great veins (superior and inferior vena cava). This kinking significantly reduces venous return to the heart, directly impairing cardiac preload and consequently leading to a drastic fall in cardiac output and hemodynamic collapse.",
+    "highYieldPearl": "The life-threatening consequence of tension pneumothorax is obstructive shock due to decreased venous return and subsequent reduction in cardiac output.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While other options might be indirectly affected, the primary and immediate life-threatening physiological impairment in tension pneumothorax is the reduction in cardiac output due to decreased venous return.",
+    "isOneLiner": true,
+    "id": "one_liner_pneumothorax_pa5i3w2s"
+  },
+  {
+    "question": "The most definitive surgical intervention for preventing recurrence of primary spontaneous pneumothorax is?",
+    "options": {
+      "A": "Chemical pleurodesis",
+      "B": "Talc pleurodesis",
+      "C": "VATS pleurectomy",
+      "D": "Simple aspiration"
+    },
+    "correctAnswer": "C",
+    "topic": "pneumothorax",
+    "deepDiveExplanation": "For patients with recurrent primary spontaneous pneumothorax or those at high risk (e.g., specific professions), definitive preventive measures are indicated. Surgical pleurodesis, particularly VATS (Video-Assisted Thoracoscopic Surgery) pleurectomy, involves removing the parietal pleura, which is generally considered the most effective method for preventing recurrence with a very low recurrence rate (1-5%). Chemical pleurodesis (e.g., with talc, doxycycline) is also definitive but typically has a higher recurrence rate than surgical pleurectomy.",
+    "highYieldPearl": "VATS pleurectomy offers the lowest recurrence rate for PSP, making it the most definitive surgical option.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Chemical pleurodesis (including talc) is also a definitive treatment, but VATS pleurectomy (mechanical pleurodesis) typically has a superior efficacy in preventing recurrence, making it the 'most definitive surgical intervention'.",
+    "isOneLiner": true,
+    "id": "one_liner_pneumothorax_l4kricof"
+  },
+  {
+    "question": "Birt-Hogg-Dube syndrome is associated with an increased risk of which type of pneumothorax?",
+    "options": {
+      "A": "Traumatic",
+      "B": "Iatrogenic",
+      "C": "Secondary spontaneous",
+      "D": "Primary spontaneous"
+    },
+    "correctAnswer": "D",
+    "topic": "pneumothorax",
+    "deepDiveExplanation": "Birt-Hogg-Dube (BHD) syndrome is an autosomal dominant disorder characterized by skin fibrofolliculomas, renal cell carcinoma, and pulmonary cysts. These pulmonary cysts (often multiple and bilateral, located predominantly in the lower lobes) predispose patients to recurrent primary spontaneous pneumothorax. It is a key genetic syndrome to consider in patients with recurrent PSP.",
+    "highYieldPearl": "Think Birt-Hogg-Dube syndrome in patients with recurrent primary spontaneous pneumothorax, especially if associated with skin lesions or renal tumors.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "This question tests knowledge of specific genetic syndromes linked to lung disease. While other types of pneumothorax exist, BHD syndrome specifically increases the risk of primary spontaneous pneumothorax due to structural lung abnormalities (cysts).",
+    "isOneLiner": true,
+    "id": "one_liner_pneumothorax_knwujh2d"
+  },
+  {
+    "question": "The most sensitive imaging modality for detecting a small pneumothorax, especially in supine patients, is?",
+    "options": {
+      "A": "Chest X-Ray",
+      "B": "CT Thorax",
+      "C": "Ultrasound",
+      "D": "MRI Chest"
+    },
+    "correctAnswer": "C",
+    "topic": "pneumothorax",
+    "deepDiveExplanation": "Point-of-care ultrasound (POCUS) has emerged as a highly sensitive and specific tool for diagnosing pneumothorax, particularly in emergency settings and for small or occult pneumothoraces. It can detect the absence of 'lung sliding' and the 'barcode sign' in M-mode, which are pathognomonic for pneumothorax. While CT Thorax is the gold standard for definitive anatomical detail, ultrasound is more sensitive than plain chest X-ray for small pneumothoraces and can be performed at the bedside.",
+    "highYieldPearl": "Lung ultrasound is more sensitive than supine chest X-ray for detecting pneumothorax and is crucial in trauma settings (E-FAST protocol) or critically ill patients.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Many might choose Chest X-Ray as the initial diagnostic, or CT Thorax as the 'gold standard' for imaging. However, for 'most sensitive' and 'bedside' detection, ultrasound surpasses CXR, especially for small or occult pneumothoraces in non-erect patients.",
+    "isOneLiner": true,
+    "id": "one_liner_pneumothorax_3dg8jv8n"
+  },
+  {
+    "question": "In primary spontaneous pneumothorax, the recommended initial intervention for a large pneumothorax (>2 cm at hilum) with minimal or no symptoms is?",
+    "options": {
+      "A": "Observation",
+      "B": "Simple aspiration",
+      "C": "Small bore chest tube insertion",
+      "D": "Large bore chest tube insertion"
+    },
+    "correctAnswer": "B",
+    "topic": "pneumothorax",
+    "deepDiveExplanation": "According to British Thoracic Society (BTS) guidelines and American College of Chest Physicians (ACCP) consensus, for a primary spontaneous pneumothorax (PSP) larger than 2 cm (measured from the lung apex to the cupola or at the hilum), simple aspiration is the recommended initial management if the patient is minimally symptomatic or asymptomatic. If aspiration fails, then a small-bore chest tube is indicated. Observation is for small, asymptomatic PSPs (<2cm).",
+    "highYieldPearl": "Simple aspiration is the first-line intervention for large PSPs in stable, minimally symptomatic patients, before considering chest tube insertion.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Students might immediately think of chest tube for a 'large' pneumothorax. However, guidelines specifically recommend simple aspiration as the initial step for stable, large PSPs, reserving chest tubes for aspiration failure or symptomatic patients.",
+    "isOneLiner": true,
+    "id": "one_liner_pneumothorax_b0m9tpfa"
+  },
+  {
+    "question": "Tension pneumothorax results from a one-way valve effect causing air accumulation in the pleural space, leading to mediastinal shift and impaired...",
+    "options": {
+      "A": "Systemic vascular resistance",
+      "B": "Cardiac output",
+      "C": "Pulmonary vascular resistance",
+      "D": "Renal blood flow"
+    },
+    "correctAnswer": "B",
+    "topic": "pneumothorax",
+    "deepDiveExplanation": "In tension pneumothorax, air enters the pleural space during inspiration but cannot exit during expiration, leading to progressive air accumulation. This positive pressure compresses the ipsilateral lung and shifts the mediastinum, kinking the great veins (superior and inferior vena cava). This kinking significantly reduces venous return to the heart, directly impairing cardiac preload and consequently leading to a drastic fall in cardiac output and hemodynamic collapse.",
+    "highYieldPearl": "The life-threatening consequence of tension pneumothorax is obstructive shock due to decreased venous return and subsequent reduction in cardiac output.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While other options might be indirectly affected, the primary and immediate life-threatening physiological impairment in tension pneumothorax is the reduction in cardiac output due to decreased venous return.",
+    "isOneLiner": true,
+    "id": "one_liner_pneumothorax_mlv08lr9"
+  },
+  {
+    "question": "The most definitive surgical intervention for preventing recurrence of primary spontaneous pneumothorax is?",
+    "options": {
+      "A": "Chemical pleurodesis",
+      "B": "Talc pleurodesis",
+      "C": "VATS pleurectomy",
+      "D": "Simple aspiration"
+    },
+    "correctAnswer": "C",
+    "topic": "pneumothorax",
+    "deepDiveExplanation": "For patients with recurrent primary spontaneous pneumothorax or those at high risk (e.g., specific professions), definitive preventive measures are indicated. Surgical pleurodesis, particularly VATS (Video-Assisted Thoracoscopic Surgery) pleurectomy, involves removing the parietal pleura, which is generally considered the most effective method for preventing recurrence with a very low recurrence rate (1-5%). Chemical pleurodesis (e.g., with talc, doxycycline) is also definitive but typically has a higher recurrence rate than surgical pleurectomy.",
+    "highYieldPearl": "VATS pleurectomy offers the lowest recurrence rate for PSP, making it the most definitive surgical option.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Chemical pleurodesis (including talc) is also a definitive treatment, but VATS pleurectomy (mechanical pleurodesis) typically has a superior efficacy in preventing recurrence, making it the 'most definitive surgical intervention'.",
+    "isOneLiner": true,
+    "id": "one_liner_pneumothorax_9wh3lnp2"
+  },
+  {
+    "question": "Birt-Hogg-Dube syndrome is associated with an increased risk of which type of pneumothorax?",
+    "options": {
+      "A": "Traumatic",
+      "B": "Iatrogenic",
+      "C": "Secondary spontaneous",
+      "D": "Primary spontaneous"
+    },
+    "correctAnswer": "D",
+    "topic": "pneumothorax",
+    "deepDiveExplanation": "Birt-Hogg-Dube (BHD) syndrome is an autosomal dominant disorder characterized by skin fibrofolliculomas, renal cell carcinoma, and pulmonary cysts. These pulmonary cysts (often multiple and bilateral, located predominantly in the lower lobes) predispose patients to recurrent primary spontaneous pneumothorax. It is a key genetic syndrome to consider in patients with recurrent PSP.",
+    "highYieldPearl": "Think Birt-Hogg-Dube syndrome in patients with recurrent primary spontaneous pneumothorax, especially if associated with skin lesions or renal tumors.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "This question tests knowledge of specific genetic syndromes linked to lung disease. While other types of pneumothorax exist, BHD syndrome specifically increases the risk of primary spontaneous pneumothorax due to structural lung abnormalities (cysts).",
+    "isOneLiner": true,
+    "id": "one_liner_pneumothorax_mvw5ymd9"
+  }
+]

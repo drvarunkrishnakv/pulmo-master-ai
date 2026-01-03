@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Which anticoagulant is commonly initiated as monotherapy for acute pulmonary embolism in hemodynamically stable patients?",
+    "options": {
+      "A": "Warfarin",
+      "B": "Unfractionated Heparin",
+      "C": "Low Molecular Weight Heparin",
+      "D": "Rivaroxaban"
+    },
+    "correctAnswer": "D",
+    "topic": "pe_treatment",
+    "deepDiveExplanation": "Direct Oral Anticoagulants (DOACs) like Rivaroxaban and Apixaban can be initiated as monotherapy for acute pulmonary embolism in hemodynamically stable patients, bypassing the need for initial parenteral anticoagulation. Warfarin requires a parenteral bridge, while UFH and LMWH are parenteral and require subsequent oral anticoagulation.",
+    "highYieldPearl": "Rivaroxaban and Apixaban are the only DOACs approved for single-drug initiation and maintenance in PE.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Confusing DOACs that require parenteral lead-in (e.g., dabigatran, edoxaban) with those that can be used directly (e.g., rivaroxaban, apixaban).",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|pe_treatment|Pulmonary Embolism - Treatment|10_6rqqoj3i"
+  },
+  {
+    "question": "Systemic thrombolysis for acute pulmonary embolism is primarily indicated in which patient presentation?",
+    "options": {
+      "A": "Submassive PE with stable hemodynamics",
+      "B": "Hemodynamically stable low-risk PE",
+      "C": "Massive PE with persistent hypotension",
+      "D": "Recurrent PE despite therapeutic anticoagulation"
+    },
+    "correctAnswer": "C",
+    "topic": "pe_treatment",
+    "deepDiveExplanation": "Systemic thrombolysis is indicated primarily for massive pulmonary embolism, defined by sustained hypotension (systolic BP < 90 mmHg or a drop of ≥ 40 mmHg from baseline), cardiogenic shock, or persistent profound bradycardia not due to other causes. It aims to rapidly restore pulmonary blood flow and improve right ventricular function.",
+    "highYieldPearl": "Massive PE with hemodynamic instability is the strongest indication for systemic thrombolysis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Misidentifying 'submassive PE' as a primary indication, which might be considered in specific high-risk submassive cases but not as a primary indication for *all* submassive PEs.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|pe_treatment|Pulmonary Embolism - Treatment|10_77yv0ue1"
+  },
+  {
+    "question": "Which of the following is an absolute contraindication for systemic thrombolysis in acute pulmonary embolism?",
+    "options": {
+      "A": "Age over 75 years",
+      "B": "Active peptic ulcer disease",
+      "C": "Prior intracranial hemorrhage",
+      "D": "Major surgery within two weeks"
+    },
+    "correctAnswer": "C",
+    "topic": "pe_treatment",
+    "deepDiveExplanation": "Prior intracranial hemorrhage is a definitive absolute contraindication for systemic thrombolysis due to the extremely high risk of recurrent and often fatal intracranial bleeding. Other options listed are typically relative contraindications or increase bleeding risk but are not absolute bars.",
+    "highYieldPearl": "Intracranial hemorrhage history is the most critical contraindication to thrombolysis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Confusing absolute versus relative contraindications for thrombolysis, which is critical for patient safety.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|pe_treatment|Pulmonary Embolism - Treatment|10_9spdm3yw"
+  },
+  {
+    "question": "What is the recommended minimum duration of anticoagulation for a first provoked pulmonary embolism due to a transient risk factor?",
+    "options": {
+      "A": "1 month",
+      "B": "3 months",
+      "C": "6 months",
+      "D": "12 months"
+    },
+    "correctAnswer": "B",
+    "topic": "pe_treatment",
+    "deepDiveExplanation": "For a first episode of pulmonary embolism provoked by a transient and reversible risk factor (e.g., surgery, trauma, estrogen therapy), the recommended minimum duration of anticoagulation is 3 months. This duration is usually sufficient to prevent recurrence once the transient risk factor is removed.",
+    "highYieldPearl": "3 months for provoked PE; longer for unprovoked or recurrent.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Confusing duration for provoked versus unprovoked PE or VTE in general.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|pe_treatment|Pulmonary Embolism - Treatment|10_wi85v8ex"
+  },
+  {
+    "question": "What is the recommended minimum duration of anticoagulation for a first unprovoked pulmonary embolism?",
+    "options": {
+      "A": "3 months",
+      "B": "6 months",
+      "C": "12 months",
+      "D": "Indefinite"
+    },
+    "correctAnswer": "D",
+    "topic": "pe_treatment",
+    "deepDiveExplanation": "For a first unprovoked pulmonary embolism, indefinite anticoagulation is generally recommended after the initial 3-6 month period, as the risk of recurrence is higher compared to provoked PE. The decision for indefinite therapy involves weighing the risk of recurrence against the risk of bleeding.",
+    "highYieldPearl": "Unprovoked PE often warrants indefinite anticoagulation due to higher recurrence risk.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Not recognizing the distinction between provoked and unprovoked PE regarding anticoagulation duration.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|pe_treatment|Pulmonary Embolism - Treatment|10_e43nntra"
+  },
+  {
+    "question": "The primary indication for inferior vena cava filter placement in acute pulmonary embolism is?",
+    "options": {
+      "A": "Recurrent PE on therapeutic anticoagulation",
+      "B": "Massive PE with hemodynamic instability",
+      "C": "Absolute contraindication to anticoagulation",
+      "D": "High risk of bleeding with anticoagulation"
+    },
+    "correctAnswer": "C",
+    "topic": "pe_treatment",
+    "deepDiveExplanation": "The primary indication for an IVC filter is an absolute contraindication to anticoagulation in a patient with acute PE or DVT, or recurrent PE despite adequate anticoagulation. It is a mechanical measure to prevent PE, not a treatment for existing PE.",
+    "highYieldPearl": "IVC filters are for preventing PE when anticoagulation is contraindicated or ineffective.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Considering IVC filters as a first-line treatment for PE or confusing their role with active clot lysis.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|pe_treatment|Pulmonary Embolism - Treatment|10_jao3mjgt"
+  },
+  {
+    "question": "Which anticoagulant is generally preferred for the treatment of acute pulmonary embolism during pregnancy?",
+    "options": {
+      "A": "Warfarin",
+      "B": "Unfractionated Heparin",
+      "C": "Low Molecular Weight Heparin",
+      "D": "Rivaroxaban"
+    },
+    "correctAnswer": "C",
+    "topic": "pe_treatment",
+    "deepDiveExplanation": "Low Molecular Weight Heparin (LMWH) is the preferred anticoagulant for treating acute PE during pregnancy. Unlike warfarin, it does not cross the placenta, thus avoiding teratogenic effects. UFH is also safe but requires more frequent monitoring and has a higher risk of heparin-induced thrombocytopenia (HIT). DOACs are generally contraindicated due to lack of safety data in pregnancy.",
+    "highYieldPearl": "LMWH is the safest and most effective anticoagulant for PE in pregnancy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Not knowing the teratogenic effects of warfarin or the lack of safety data for DOACs in pregnancy.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|pe_treatment|Pulmonary Embolism - Treatment|10_5cyasxct"
+  },
+  {
+    "question": "The specific reversal agent for dabigatran in life-threatening bleeding associated with pulmonary embolism treatment is?",
+    "options": {
+      "A": "Protamine sulfate",
+      "B": "Idarucizumab",
+      "C": "Andexanet alfa",
+      "D": "Vitamin K"
+    },
+    "correctAnswer": "B",
+    "topic": "pe_treatment",
+    "deepDiveExplanation": "Idarucizumab is a specific monoclonal antibody fragment that directly binds to dabigatran and reverses its anticoagulant effects. Protamine sulfate reverses heparin, Andexanet alfa reverses factor Xa inhibitors, and Vitamin K reverses warfarin.",
+    "highYieldPearl": "Idarucizumab for dabigatran, Andexanet alfa for factor Xa inhibitors.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Confusing the specific reversal agents for different classes of anticoagulants.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|pe_treatment|Pulmonary Embolism - Treatment|10_syho45u4"
+  },
+  {
+    "question": "Catheter-directed thrombolysis for pulmonary embolism is particularly considered in massive PE with which additional factor?",
+    "options": {
+      "A": "Normal right ventricular function",
+      "B": "Low bleeding risk",
+      "C": "Absolute contraindication to systemic thrombolysis",
+      "D": "Prolonged symptoms for over 14 days"
+    },
+    "correctAnswer": "C",
+    "topic": "pe_treatment",
+    "deepDiveExplanation": "Catheter-directed thrombolysis (CDT) delivers a lower dose of thrombolytic directly to the clot, potentially reducing systemic bleeding risk. It is particularly considered in patients with massive PE who have an absolute contraindication to systemic thrombolysis, or in intermediate-high risk (submassive) PE with clinical worsening.",
+    "highYieldPearl": "CDT offers a regional thrombolysis option when systemic thrombolysis is too risky.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "Not understanding the specific niche for CDT, which is often related to reducing systemic bleeding risk compared to full-dose systemic thrombolysis.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|pe_treatment|Pulmonary Embolism - Treatment|10_pc0x0avx"
+  },
+  {
+    "question": "Which laboratory test is primarily used to monitor the therapeutic effect of unfractionated heparin in acute pulmonary embolism?",
+    "options": {
+      "A": "Prothrombin Time (PT) / INR",
+      "B": "Activated Partial Thromboplastin Time (aPTT)",
+      "C": "Anti-Xa levels",
+      "D": "Thrombin Time"
+    },
+    "correctAnswer": "B",
+    "topic": "pe_treatment",
+    "deepDiveExplanation": "The Activated Partial Thromboplastin Time (aPTT) is the standard laboratory test used to monitor the therapeutic effect of unfractionated heparin (UFH). Anti-Xa levels are used for LMWH and sometimes for UFH in specific situations or if aPTT is unreliable.",
+    "highYieldPearl": "UFH: aPTT. LMWH/DOACs: Anti-Xa (if needed). Warfarin: INR.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Confusing monitoring parameters for different anticoagulants, a common source of error.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|pe_treatment|Pulmonary Embolism - Treatment|10_ewl2crbn"
+  }
+]

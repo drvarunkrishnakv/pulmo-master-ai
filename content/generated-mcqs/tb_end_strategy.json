@@ -1,0 +1,859 @@
+[
+  {
+    "id": "rag_tb_end_strategy_13c979d6",
+    "question": "A 58-year-old female presents with a 3-week history of progressive dyspnea, persistent cough, and episodes of bloody sputum. She also reports difficulty climbing stairs and combing her hair due to recent onset muscle weakness, and a peculiar reddish-purple discoloration on her eyelids and knuckles. Chest imaging shows diffuse bilateral ground-glass opacities and areas of consolidation. Bronchoalveolar lavage reveals increasing red blood cell counts in sequential aliquots. Given this clinical presentation, which of the following is the most likely underlying systemic condition?",
+    "options": {
+      "A": "Polymyositis-Dermatomyositis",
+      "B": "Granulomatosis with Polyangiitis",
+      "C": "Acute Interstitial Pneumonia",
+      "D": "Acute Exacerbation of Idiopathic Pulmonary Fibrosis"
+    },
+    "correctAnswer": "A",
+    "topic": "Diffuse Alveolar Hemorrhage",
+    "deepDiveExplanation": "The patient's presentation combines features of diffuse alveolar hemorrhage (DAH) such as progressive dyspnea, bloody sputum, diffuse ground-glass opacities/consolidation on imaging, and progressive increase in RBCs in BAL. Crucially, the vignette also describes classic extrapulmonary manifestations of Polymyositis-Dermatomyositis (PM/DM), including proximal muscle weakness ('difficulty climbing stairs and combing hair') and characteristic skin rashes ('reddish-purple discoloration on eyelids and knuckles' suggestive of heliotrope rash and Gottron's papules). The provided text explicitly lists 'Pulmonary vasculitis and alveolar hemorrhage' as a lung manifestation of Polymyositis and Dermatomyositis (Table 92.5), making this the most fitting diagnosis.",
+    "highYieldPearl": "Rio's Take: Always look for extra-pulmonary clues in DAH vignettes, especially those pointing to systemic autoimmune diseases. Proximal muscle weakness and pathognomonic rashes (heliotrope, Gottron's) with DAH strongly suggest PM/DM.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. Combines DAH with classic PM/DM features (proximal muscle weakness, heliotrope rash/Gottron's papules equivalent). The text directly links PM/DM to alveolar hemorrhage.",
+      "B": "Plausible, as Granulomatosis with Polyangiitis (GPA) is a common cause of DAH. However, the vignette lacks specific GPA features such as chronic upper airway lesions (sinusitis, subglottic stenosis) or cavitary lung lesions, while providing strong evidence for PM/DM.",
+      "C": "Acute Interstitial Pneumonia (AIP) presents as acute lung injury with diffuse alveolar damage (DAD) and can have similar radiographic findings (GGO/consolidation). However, AIP itself is not primarily defined by hemorrhage, and DAH is listed as a differential diagnosis for AIP/ARDS rather than a direct manifestation. It also lacks the systemic features of muscle weakness and rash.",
+      "D": "Acute Exacerbation of Idiopathic Pulmonary Fibrosis (AE-IPF) causes acute lung injury with DAD and can present with dyspnea and diffuse opacities. However, hemoptysis is not a primary or characteristic feature, and it does not explain the muscle weakness or skin manifestations."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "NEW TUBERCULOSIS VACCINE DEVELOPMENT AND PIPELINE",
+      "section": null,
+      "pageNumber": 400
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_1505",
+    "generatedAt": 1767060988484,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_tb_end_strategy_3545a8b4",
+    "question": "A 62-year-old male presents with acute onset dyspnea and hemoptysis. Chest imaging reveals diffuse bilateral ground-glass opacities. Suspecting diffuse alveolar hemorrhage, a clinician decides that a definitive *histopathological diagnosis* of the underlying lung injury pattern is required to guide specific therapy. According to the provided context, which of the following is the preferred approach for obtaining a tissue diagnosis in this scenario?",
+    "options": {
+      "A": "Bronchoalveolar lavage for hemosiderin-laden macrophages",
+      "B": "Transbronchial lung biopsy through flexible bronchoscopy",
+      "C": "Surgical lung biopsy",
+      "D": "Blood tests for anti-GBM antibodies and ANCA"
+    },
+    "correctAnswer": "C",
+    "topic": "Diffuse Alveolar Hemorrhage",
+    "deepDiveExplanation": "The question specifically asks for a 'definitive *histopathological diagnosis* of the underlying lung injury pattern' and 'tissue diagnosis'. The provided text explicitly states under the 'Pathology' section for Diffuse Alveolar Damage (DAD), which often underlies DAH: 'surgical lung biopsy is the preferred approach if tissue diagnosis is required.' This indicates that for a comprehensive histological evaluation of the lung parenchyma, surgical lung biopsy (e.g., via VATS) is considered superior.",
+    "highYieldPearl": "Rio's Take: While BAL is key for diagnosing DAH, a *surgical lung biopsy* is often necessary for definitive *histopathological diagnosis* of the underlying lung injury pattern (e.g., capillaritis, DAD, bland hemorrhage) when specific therapy depends on it, especially when TBLB is insufficient or contraindicated.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Bronchoalveolar lavage (BAL) is the primary method for diagnosing DAH by demonstrating increasing red blood cell counts in sequential aliquots or the presence of numerous hemosiderin-laden macrophages. However, it provides cytologic information, not a comprehensive *histopathological diagnosis of the underlying lung injury pattern* from tissue.",
+      "B": "Transbronchial lung biopsy can be performed via flexible bronchoscopy and provides tissue. However, its diagnostic yield for diffuse processes like DAD or vasculitis can be limited due to small sample size and potential for significant bleeding in DAH. The text prioritizes surgical lung biopsy for definitive tissue diagnosis.",
+      "C": "Correct. The text explicitly states, 'surgical lung biopsy is the preferred approach if tissue diagnosis is required.' This is considered the gold standard for providing adequate tissue for comprehensive histopathological evaluation of diffuse lung injuries.",
+      "D": "Blood tests for anti-GBM antibodies and ANCA are crucial for identifying specific *etiologies* of DAH (e.g., Goodpasture's syndrome, ANCA-associated vasculitis). However, these are serological markers and do not involve obtaining *tissue* or providing a direct *histopathological diagnosis* of the lung parenchyma."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "NEW TUBERCULOSIS VACCINE DEVELOPMENT AND PIPELINE",
+      "section": null,
+      "pageNumber": 400
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_1505",
+    "generatedAt": 1767060988484,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_tb_end_strategy_2e1ea705",
+    "question": "Which of the following conditions, *as primarily described in the provided context*, is LEAST likely to present with diffuse alveolar hemorrhage as a characteristic pulmonary manifestation?",
+    "options": {
+      "A": "Polymyositis-Dermatomyositis",
+      "B": "Granulomatosis with Polyangiitis",
+      "C": "Antisynthetase Syndrome",
+      "D": "Acute Interstitial Pneumonia"
+    },
+    "correctAnswer": "D",
+    "topic": "Diffuse Alveolar Hemorrhage",
+    "deepDiveExplanation": "The provided text lists 'diffuse alveolar hemorrhage' as one of the differential diagnoses for patients presenting with acute onset fever, cough, and rapidly progressive dyspnea, alongside 'ARDS' and 'AIP (Acute Interstitial Pneumonia)'. This categorization implies that DAH is a distinct clinical entity to differentiate from AIP, rather than a characteristic manifestation of AIP itself. While AIP is characterized by Diffuse Alveolar Damage (DAD), and DAD can be found in DAH, the text presents them as distinct diagnoses for the clinical scenario. In contrast:\n\n*   **Polymyositis-Dermatomyositis (A):** The text explicitly lists 'Pulmonary vasculitis and alveolar hemorrhage' as a lung manifestation.\n*   **Granulomatosis with Polyangiitis (B):** The text mentions DAH as a 'Clinical Scenario Suggestive of Vasculitis' and refers to 'pulmonary vasculitis (particularly an AAV)' in the context of chest imaging findings, with GPA being a major AAV. This strongly implies DAH as a characteristic manifestation.\n*   **Antisynthetase Syndrome (C):** This syndrome is associated with Interstitial Lung Disease, including patterns like NSIP, Organizing Pneumonia, and 'DAD with poor response'. While DAD can be a pathological feature of DAH, the text for Antisynthetase Syndrome does not explicitly mention 'hemorrhage' as a primary or characteristic manifestation, making its link to DAH more indirect than PM/DM or vasculitis.",
+    "highYieldPearl": "Rio's Take: Pay close attention when conditions are listed as *differential diagnoses* versus *manifestations*. If DAH is a DD for AIP, it means DAH is typically not considered a feature *of* AIP itself, but rather a separate condition to distinguish from.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is incorrect. The text explicitly lists 'Pulmonary vasculitis and alveolar hemorrhage' as a lung manifestation of Polymyositis-Dermatomyositis, making it highly likely to present with DAH.",
+      "B": "This is incorrect. The text presents DAH as a 'Clinical Scenario Suggestive of Vasculitis' and mentions GPA as a relevant AAV. This strongly implies GPA's association with DAH as a characteristic manifestation.",
+      "C": "This is incorrect as the 'least likely' answer. Antisynthetase Syndrome is associated with DAD, which is a common histological pattern in DAH. While the text doesn't explicitly mention 'hemorrhage' for this syndrome, the link via DAD is more plausible than AIP, which is listed as a differential diagnosis *to* DAH.",
+      "D": "Correct. Acute Interstitial Pneumonia (AIP) is described as characterized by Diffuse Alveolar Damage (DAD) and is listed as a *differential diagnosis* alongside DAH for acute lung injury. This suggests that DAH is distinct from AIP and not a characteristic manifestation *of* AIP, but rather a condition that must be distinguished from it clinically."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "NEW TUBERCULOSIS VACCINE DEVELOPMENT AND PIPELINE",
+      "section": null,
+      "pageNumber": 400
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_1505",
+    "generatedAt": 1767060988484,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_tb_end_strategy_afa1b27c",
+    "question": "A 50-year-old patient diagnosed with Polymyositis-Dermatomyositis (PM/DM) develops acute respiratory distress with hemoptysis and new diffuse infiltrates on chest imaging. Bronchoscopy confirms diffuse alveolar hemorrhage. Based on the provided text, which of the following is a recognized pulmonary manifestation of PM/DM that directly explains this presentation?",
+    "options": {
+      "A": "Pulmonary vasculitis and alveolar hemorrhage",
+      "B": "Acute pneumonitis with diffuse alveolar damage (DAD)",
+      "C": "Organizing pneumonia (OP)",
+      "D": "Aspiration pneumonia"
+    },
+    "correctAnswer": "A",
+    "topic": "Diffuse Alveolar Hemorrhage",
+    "deepDiveExplanation": "The provided text explicitly lists 'Pulmonary vasculitis and alveolar hemorrhage' as one of the lung manifestations of Polymyositis-Dermatomyositis (PM/DM). The clinical vignette describes acute respiratory distress with hemoptysis and confirmed diffuse alveolar hemorrhage, which directly aligns with this specific manifestation. While other options like DAD, OP, and aspiration pneumonia are also listed as PM/DM manifestations, they do not directly explain diffuse alveolar hemorrhage with hemoptysis as precisely as option A.",
+    "highYieldPearl": "Polymyositis-Dermatomyositis can directly cause diffuse alveolar hemorrhage, often secondary to pulmonary vasculitis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option is directly stated in the text as a lung manifestation of PM/DM, making it the most accurate explanation for the presented clinical picture of DAH and hemoptysis.",
+      "B": "Acute pneumonitis with diffuse alveolar damage (DAD) is a PM/DM manifestation, but DAD is a pattern of lung injury, not synonymous with diffuse alveolar hemorrhage. While severe DAD can involve bleeding, 'pulmonary vasculitis and alveolar hemorrhage' is listed as a distinct and more direct cause of DAH in the text.",
+      "C": "Organizing pneumonia (OP) is another PM/DM manifestation, but it typically presents with cough, dyspnea, and infiltrates, not primarily with acute hemoptysis or diffuse alveolar hemorrhage.",
+      "D": "Aspiration pneumonia is a common complication in PM/DM due to dysphagia, presenting as an infection, but it does not directly explain primary diffuse alveolar hemorrhage."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "NEW TUBERCULOSIS VACCINE DEVELOPMENT AND PIPELINE",
+      "section": null,
+      "pageNumber": 400
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_1505",
+    "generatedAt": 1767060988484,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_tb_end_strategy_94e6e73a",
+    "question": "A 45-year-old male presents with acute onset fever, cough, and rapidly progressive dyspnea. Initial investigations reveal evidence of diffuse intra-alveolar bleeding. This clinical finding, suggestive of diffuse alveolar hemorrhage, should prompt evaluation for which of the following underlying conditions as a primary consideration, based on the provided text?",
+    "options": {
+      "A": "Systemic vasculitis",
+      "B": "Left heart failure",
+      "C": "Acute exacerbation of Idiopathic Pulmonary Fibrosis",
+      "D": "Hypersensitivity pneumonitis"
+    },
+    "correctAnswer": "A",
+    "topic": "Diffuse Alveolar Hemorrhage",
+    "deepDiveExplanation": "The text explicitly states 'Diffuse Alveolar Hemorrhage' under the section 'CLINICAL SCENARIOS SUGGESTIVE OF VASCULITIS'. This direct linkage indicates that when DAH is identified, systemic vasculitis should be a primary consideration. While the other options (left heart failure, acute exacerbation of IPF, hypersensitivity pneumonitis) are listed as differential diagnoses for the general symptoms of acute fever, cough, and dyspnea, they are not specifically highlighted in the text as conditions *suggested by the presence of DAH itself*.",
+    "highYieldPearl": "Diffuse alveolar hemorrhage is a key clinical scenario that strongly suggests an underlying systemic vasculitis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "The text explicitly links 'Diffuse Alveolar Hemorrhage' as a clinical scenario suggestive of vasculitis, making this the most appropriate next step based on the provided information.",
+      "B": "Left heart failure is listed as a differential diagnosis for acute dyspnea, fever, and cough, but the text does not specifically state that diffuse intra-alveolar bleeding (DAH) points to left heart failure as a primary underlying cause.",
+      "C": "Acute exacerbation of Idiopathic Pulmonary Fibrosis is listed as a differential diagnosis for acute respiratory symptoms, but not explicitly as an underlying condition suggested by confirmed DAH in the provided text.",
+      "D": "Hypersensitivity pneumonitis is also listed as a differential diagnosis for general acute respiratory symptoms, but similar to options B and C, it is not specifically linked as a primary underlying condition suggested by DAH in the text."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "NEW TUBERCULOSIS VACCINE DEVELOPMENT AND PIPELINE",
+      "section": null,
+      "pageNumber": 400
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_1505",
+    "generatedAt": 1767060988484,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_tb_end_strategy_2cad2f02",
+    "question": "A 55-year-old patient is evaluated for rapidly progressive dyspnea and hemoptysis, with subsequent confirmation of diffuse alveolar hemorrhage (DAH). According to the provided text, from which structures does intra-alveolar bleeding generally originate in cases of DAH?",
+    "options": {
+      "A": "Alveolar capillaries",
+      "B": "Precapillary arterioles",
+      "C": "Postcapillary venules",
+      "D": "Major bronchial arteries"
+    },
+    "correctAnswer": "A",
+    "topic": "Diffuse Alveolar Hemorrhage",
+    "deepDiveExplanation": "The text defines Diffuse Alveolar Hemorrhage (DAH) as 'the presence of diffuse intra-alveolar bleeding, generally from the alveolar capillaries, and less frequently from the precapillary arterioles and postc'. This directly answers the question about the general origin of bleeding in DAH.",
+    "highYieldPearl": "Alveolar capillaries are the primary source of bleeding in diffuse alveolar hemorrhage.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "The text clearly states that bleeding 'generally' originates from the alveolar capillaries, making this the correct answer.",
+      "B": "The text mentions that bleeding occurs 'less frequently from the precapillary arterioles', making this an incorrect choice for the 'general' origin.",
+      "C": "The text refers to 'postc' (implying postcapillary venules) as a 'less frequent' source, similar to precapillary arterioles, thus it's incorrect for the 'general' origin.",
+      "D": "Major bronchial arteries are not mentioned in the provided text as a source of bleeding in the context of diffuse alveolar hemorrhage."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "NEW TUBERCULOSIS VACCINE DEVELOPMENT AND PIPELINE",
+      "section": null,
+      "pageNumber": 400
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_1505",
+    "generatedAt": 1767060988484,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_tb_end_strategy_91cd7bbc",
+    "question": "A 52-year-old female presents with a 4-day history of rapidly progressive dyspnea, dry cough, and fevers. She also complains of increasing difficulty with overhead tasks and ascending stairs over the past month. Physical examination reveals diffuse crackles on lung auscultation and proximal muscle weakness. Chest CT shows diffuse ground-glass opacities and areas of consolidation. Laboratory tests show new-onset anemia, elevated ESR, and a creatine kinase level of 2500 U/L. Given this presentation, which of the following is the MOST likely underlying diagnosis?",
+    "options": {
+      "A": "Acute Interstitial Pneumonia (AIP)",
+      "B": "Granulomatosis with Polyangiitis (GPA) presenting with Diffuse Alveolar Hemorrhage (DAH)",
+      "C": "Diffuse Alveolar Hemorrhage associated with Antisynthetase Syndrome",
+      "D": "Left Heart Failure with pulmonary congestion"
+    },
+    "correctAnswer": "C",
+    "topic": "Diffuse Alveolar Hemorrhage",
+    "deepDiveExplanation": "The vignette presents a patient with features of acute lung injury (rapidly progressive dyspnea, cough, fever, diffuse GGO/consolidation, new-onset anemia suggesting hemorrhage) combined with prominent signs of a systemic autoimmune disease affecting muscles (proximal muscle weakness, markedly elevated creatine kinase). This constellation is highly suggestive of Diffuse Alveolar Hemorrhage (DAH) occurring in the context of an inflammatory myopathy. Antisynthetase syndrome, a subtype of polymyositis/dermatomyositis, is specifically characterized by an anti-tRNA synthetase antibody (e.g., anti-Jo-1) alongside myositis, interstitial lung disease (which can present as acute Diffuse Alveolar Damage or DAH), arthritis, fever, Raynaud phenomenon, or 'mechanic's hands.' The provided text explicitly mentions 'The lesion is DAD with poor response Diffuse Alv. Damage' in the context of Antisynthetase Syndrome. Therefore, DAH associated with Antisynthetase Syndrome is the most comprehensive and specific diagnosis, integrating all clinical and laboratory features.",
+    "highYieldPearl": "Rio's Take: Always consider systemic autoimmune diseases like Antisynthetase Syndrome when DAH presents with prominent extrapulmonary symptoms such as myositis (proximal muscle weakness, elevated CK), arthritis, or dermatological features. The presence of acute DAD/DAH and myositis should immediately prompt investigation for myositis-specific antibodies.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Acute Interstitial Pneumonia (AIP) is a histological/radiological pattern (Diffuse Alveolar Damage) of acute lung injury, not a specific underlying etiology in this context. While DAH can cause DAD (the pathology of AIP), AIP alone does not explain the systemic findings of muscle weakness and elevated CK.",
+      "B": "Granulomatosis with Polyangiitis (GPA) can cause DAH and present with constitutional symptoms, but it typically does not cause prominent proximal muscle weakness or markedly elevated creatine kinase levels. Its classic presentation involves upper airway, lung, and kidney involvement.",
+      "D": "Left Heart Failure could explain dyspnea, crackles, and GGO/consolidation (pulmonary edema), but it would not typically cause new-onset anemia (unless there's a chronic GI bleed) or the profound proximal muscle weakness and significantly elevated creatine kinase."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "NEW TUBERCULOSIS VACCINE DEVELOPMENT AND PIPELINE",
+      "section": null,
+      "pageNumber": 400
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_1505",
+    "generatedAt": 1767060988484,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_tb_end_strategy_e4f4e31a",
+    "question": "A 60-year-old male with a history of recurrent sinusitis and recent hemoptysis presents with rapidly worsening dyspnea and bilateral infiltrates on chest X-ray. A bronchoalveolar lavage confirms diffuse alveolar hemorrhage. Which of the following findings would be LEAST likely to be associated with the most probable underlying systemic etiology?",
+    "options": {
+      "A": "Presence of antineutrophil cytoplasmic antibodies (ANCA)",
+      "B": "Destructive lesions in the nasal septum",
+      "C": "Elevated creatine kinase levels and proximal muscle weakness",
+      "D": "Nodular or cavitary lesions on chest CT"
+    },
+    "correctAnswer": "C",
+    "topic": "Diffuse Alveolar Hemorrhage",
+    "deepDiveExplanation": "The clinical vignette describes a patient with a history of recurrent sinusitis and hemoptysis, followed by rapidly worsening dyspnea and confirmed diffuse alveolar hemorrhage (DAH). This combination of chronic upper airway disease (sinusitis), pulmonary hemorrhage (hemoptysis, DAH), and bilateral infiltrates is highly characteristic of Granulomatosis with Polyangiitis (GPA), a type of ANCA-associated vasculitis (AAV). \n- Option A: ANCA are characteristic serological markers for AAVs like GPA.\n- Option B: Destructive lesions in the nasal septum, chronic refractory sinusitis, and otitis are hallmark upper airway manifestations of GPA.\n- Option D: Nodular or cavitary lesions on chest CT are common and characteristic pulmonary findings in GPA, seen in 55-70% and 35-50% of patients, respectively.\n- Option C: Elevated creatine kinase levels and proximal muscle weakness are classic features of inflammatory myopathies (e.g., Polymyositis, Dermatomyositis) or Antisynthetase Syndrome, which can also cause DAH, but are not typical features of GPA. Therefore, this finding would be LEAST likely to be associated with GPA.",
+    "highYieldPearl": "Rio's Take: Recurrent sinonasal disease, hemoptysis, and diffuse alveolar hemorrhage should strongly prompt consideration of ANCA-associated vasculitis, particularly GPA. Remember the distinct organ involvement patterns: GPA (upper airway, lung, kidney, skin, but NOT myositis) vs. myositis-related DAH (muscle weakness, ILD).",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "ANCA positivity (especially c-ANCA/PR3-ANCA) is a hallmark of GPA and crucial for its diagnosis. It is highly likely to be associated.",
+      "B": "Chronic and destructive upper airway lesions, such as those affecting the nasal septum or causing refractory sinusitis, are characteristic features of GPA. It is highly likely to be associated.",
+      "D": "Nodular or cavitary lesions are common and characteristic pulmonary findings in GPA, as mentioned in the context. It is highly likely to be associated."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "NEW TUBERCULOSIS VACCINE DEVELOPMENT AND PIPELINE",
+      "section": null,
+      "pageNumber": 400
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_1505",
+    "generatedAt": 1767060988484,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_tb_end_strategy_62fe976c",
+    "question": "A 55-year-old patient diagnosed with acute interstitial pneumonia (AIP) following a surgical lung biopsy is receiving mechanical ventilation in the ICU. Despite aggressive supportive care, the patient's condition continues to deteriorate. Which of the following statements regarding this patient's condition is MOST accurate?",
+    "options": {
+      "A": "Histopathological findings on biopsy are typically distinct from those seen in ARDS.",
+      "B": "The progression to lung fibrosis is rare in survivors beyond the acute phase.",
+      "C": "Supportive care, including mechanical ventilation and nutritional support, offers a poor prognosis in fulminant cases.",
+      "D": "Diffuse consolidation and ground-glass opacities are characteristically seen only in the late fibrotic phase."
+    },
+    "correctAnswer": "C",
+    "topic": "Diffuse Alveolar Hemorrhage",
+    "deepDiveExplanation": "Acute Interstitial Pneumonia (AIP) is a severe form of acute lung injury histologically characterized by Diffuse Alveolar Damage (DAD), which can be a consequence or cause of DAH depending on the context. \n- Option A is incorrect: The provided text explicitly states that 'AIP is radiographically and pathologically indistinguishable from ARDS,' meaning their histopathological findings (diffuse and extensive cell death, hyaline membranes, necrotic epithelium) are similar, not distinct.\n- Option B is incorrect: The text notes, 'In patients who survive the acute phase (sometime after the first week), findings of underlying fibrosis such as architectural distortion and traction bronchiectasis with or without honeycombing become apparent.' This indicates that progression to fibrosis is a recognized and common outcome in survivors, not rare.\n- Option C is correct: The text highlights 'The fulminant and often untreatable nature of AIP endows this disease with a particularly high mortality.' This implies that even with aggressive supportive care (which includes supplemental oxygen, mechanical ventilation, adequate sedation, nutritional support, and prevention of ICU-related complications), the prognosis in fulminant cases of AIP/DAD is unfortunately poor.\n- Option D is incorrect: The text states, 'Diffuse consolidation and ground-glass opacities are typically seen in the early exudative phase,' not the late fibrotic phase. Fibrotic changes like architectural distortion, traction bronchiectasis, and honeycombing characterize the later stages.",
+    "highYieldPearl": "Rio's Take: AIP (or DAD) represents a severe, fulminant form of acute lung injury with high mortality. Its histopathology is identical to ARDS. While supportive care is crucial, the inherent aggressive nature of the disease often dictates a poor prognosis, and fibrosis is a common long-term sequela in those who survive the acute phase.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This statement is a direct contradiction of the provided text, which explicitly states that AIP and ARDS are pathologically indistinguishable.",
+      "B": "This statement is incorrect as the text indicates that fibrotic changes become apparent in survivors, implying it is not rare.",
+      "D": "This statement incorrectly places the characteristic early radiological findings (consolidation, GGO) in the late fibrotic phase, whereas they are typical of the early exudative phase."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "NEW TUBERCULOSIS VACCINE DEVELOPMENT AND PIPELINE",
+      "section": null,
+      "pageNumber": 400
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_1505",
+    "generatedAt": 1767060988484,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_tb_end_strategy_dcd2cb25",
+    "question": "A 55-year-old male presents with acute onset progressive dyspnea, cough, and hemoptysis for the past 3 days. He also reports recent malaise, arthralgias, and dark-colored urine. Physical examination reveals bilateral fine crackles on lung auscultation. Laboratory tests show new-onset anemia (Hb 9.0 g/dL), elevated serum creatinine (3.5 mg/dL, baseline 0.9 mg/dL), and microscopic hematuria with red blood cell casts. Chest CT scan demonstrates diffuse bilateral ground-glass opacities and areas of consolidation. Bronchoalveolar lavage (BAL) reveals progressively bloodier aliquots. Which of the following is the most appropriate next diagnostic step?",
+    "options": {
+      "A": "Serum anti-GBM antibodies and ANCA panel",
+      "B": "Surgical lung biopsy",
+      "C": "High-dose systemic corticosteroids",
+      "D": "Echocardiography to rule out left heart failure"
+    },
+    "correctAnswer": "A",
+    "topic": "Diffuse Alveolar Hemorrhage",
+    "deepDiveExplanation": "The patient presents with a classic picture of a pulmonary-renal syndrome: acute progressive dyspnea, hemoptysis, anemia, diffuse alveolar opacities (suggesting diffuse alveolar hemorrhage), and rapidly progressive renal failure with microscopic hematuria and RBC casts (indicating glomerulonephritis). The progressively bloodier aliquots from BAL confirm diffuse alveolar hemorrhage. The most common causes of pulmonary-renal syndrome involving DAH are Goodpasture's syndrome (anti-glomerular basement membrane antibodies) and ANCA-associated vasculitides (GPA, MPA). Therefore, simultaneous testing for serum anti-GBM antibodies and a comprehensive ANCA panel is the most appropriate and crucial next diagnostic step for rapid and specific diagnosis, guiding immediate targeted therapy.",
+    "highYieldPearl": "Rio's Take: The triad of hemoptysis, anemia, and diffuse pulmonary infiltrates, especially when accompanied by acute renal failure (pulmonary-renal syndrome), should immediately raise suspicion for Goodpasture's syndrome or ANCA-associated vasculitis. Prompt serological testing for anti-GBM antibodies and ANCA is critical for timely diagnosis and management, as treatment is often time-sensitive.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. It directly addresses the most common causes of pulmonary-renal syndrome, which is strongly indicated by the clinical vignette. Early diagnosis is crucial for these conditions.",
+      "B": "Surgical lung biopsy provides definitive tissue diagnosis but is invasive and not the initial diagnostic step when a systemic cause like vasculitis or Goodpasture's is suspected with characteristic serologies readily available. Serology is faster and less invasive.",
+      "C": "High-dose systemic corticosteroids are part of the treatment for DAH due to autoimmune causes, but the question specifically asks for the 'most appropriate next diagnostic step.' While empiric treatment might be initiated in severe cases, diagnosis usually precedes or occurs concurrently with treatment.",
+      "D": "Left heart failure can cause diffuse alveolar hemorrhage (pulmonary edema). However, the rapidly progressive renal failure, microscopic hematuria, and red blood cell casts make pulmonary-renal syndromes due to vasculitis or Goodpasture's much higher on the differential, making echocardiography a less prioritized *diagnostic* step in this specific context."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "NEW TUBERCULOSIS VACCINE DEVELOPMENT AND PIPELINE",
+      "section": null,
+      "pageNumber": 400
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_1505",
+    "generatedAt": 1767060988484,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_tb_end_strategy_d6eee601",
+    "question": "A 48-year-old female with a known history of dermatomyositis, characterized by symmetrical proximal muscle weakness and a heliotrope rash, presents to the emergency department with acute onset dyspnea, dry cough, and increasing fatigue over the past 4 days. She reports no fever or chills. On examination, she is tachypneic. Auscultation reveals diffuse fine crackles bilaterally. Chest X-ray shows diffuse bilateral ground-glass opacities. Initial blood work shows elevated CPK, LDH, and new mild anemia (Hb 10.5 g/dL). A bronchoscopy with BAL is performed, showing progressively bloodier returns. This patient's acute respiratory decline is most likely due to:",
+    "options": {
+      "A": "Diffuse alveolar hemorrhage related to her underlying dermatomyositis",
+      "B": "Acute exacerbation of underlying interstitial lung disease",
+      "C": "Aspiration pneumonia",
+      "D": "Acute interstitial pneumonia (AIP)"
+    },
+    "correctAnswer": "A",
+    "topic": "Diffuse Alveolar Hemorrhage",
+    "deepDiveExplanation": "The patient has known dermatomyositis and presents with acute respiratory decline, diffuse ground-glass opacities on imaging, anemia, and most importantly, progressively bloody returns on BAL. This constellation of findings is diagnostic for Diffuse Alveolar Hemorrhage (DAH). The provided text explicitly lists 'Pulmonary vasculitis and alveolar hemorrhage' as a lung manifestation of Polymyositis-Dermatomyositis. Therefore, DAH directly related to her underlying connective tissue disease is the most specific and accurate diagnosis given the evidence.",
+    "highYieldPearl": "Rio's Take: In patients with established connective tissue diseases like dermatomyositis, acute respiratory decompensation with hemoptysis, diffuse alveolar opacities, and progressively bloody BAL strongly points to diffuse alveolar hemorrhage. This specific manifestation should be considered distinct from a general ILD exacerbation, although DAH can sometimes be a component of DAD in such cases.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. DAH is a specific and recognized lung manifestation of dermatomyositis, and the progressively bloody BAL confirms its presence as the cause of acute decline.",
+      "B": "Dermatomyositis often involves interstitial lung disease (ILD), and an acute exacerbation of ILD (AE-ILD) is a plausible cause of acute respiratory deterioration. However, the cardinal finding here is DAH, confirmed by bloody BAL. While DAH can sometimes occur as part of DAD, which is seen in AE-ILD in CTD, 'Diffuse alveolar hemorrhage' is a more specific and direct diagnosis given the clear evidence of bleeding.",
+      "C": "Aspiration pneumonia is a common complication in dermatomyositis due to dysphagia. However, the clinical presentation with diffuse ground-glass opacities and, crucially, progressively bloody BAL is not typical for aspiration pneumonia, which usually involves localized infiltrates and purulent secretions.",
+      "D": "Acute interstitial pneumonia (AIP) represents diffuse alveolar damage (DAD) pathologically, and DAD can occur in dermatomyositis. AIP often presents with diffuse ground-glass opacities. However, DAH is characterized by prominent bleeding (as evidenced by bloody BAL), which makes 'Diffuse alveolar hemorrhage' a more precise and descriptive diagnosis for the patient's specific presentation than general 'AIP'."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "NEW TUBERCULOSIS VACCINE DEVELOPMENT AND PIPELINE",
+      "section": null,
+      "pageNumber": 400
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_1505",
+    "generatedAt": 1767060988484,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_tb_end_strategy_810d7c26",
+    "question": "A 45-year-old male with a 10-year history of steroid-dependent asthma and recurrent sinusitis presents with new-onset wrist drop and numbness in his feet. Laboratory investigations reveal an absolute eosinophil count of 2500/µL. Chest CT shows transient peripheral ground-glass opacities. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Eosinophilic granulomatosis with polyangiitis (EGPA)",
+      "B": "Granulomatosis with polyangiitis (GPA)",
+      "C": "Microscopic polyangiitis (MPA)",
+      "D": "Hypereosinophilic Syndrome (HES)"
+    },
+    "correctAnswer": "A",
+    "topic": "Eosinophilic Lung Diseases",
+    "deepDiveExplanation": "The patient's clinical presentation is highly classic for Eosinophilic Granulomatosis with Polyangiitis (EGPA). The key features are: (1) long-standing severe asthma and recurrent sinusitis, which represent the initial atopic/eosinophilic phase; (2) new-onset wrist drop and numbness in the feet, indicative of peripheral neuropathy (mononeuritis multiplex), a common manifestation of vasculitis; and (3) significant hypereosinophilia (2500/µL, well above the 1500/µL threshold mentioned). The waxing and waning parenchymal opacities on chest CT are also characteristic. EGPA classically presents with the triad of asthma, hypereosinophilia, and necrotizing vasculitis.",
+    "highYieldPearl": "Rio's Take: The classic triad of asthma, hypereosinophilia, and necrotizing vasculitis (often presenting as mononeuritis multiplex) is highly suggestive of EGPA. Remember the characteristic multi-phase presentation, though it's not always sequential.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. This option encompasses all the cardinal features described in the vignette, directly aligning with the diagnostic criteria and typical presentation of EGPA.",
+      "B": "Incorrect. While GPA involves vasculitis and can affect the upper airways, it is less commonly associated with profound hypereosinophilia and severe asthma. Destructive upper airway disease is more characteristic of GPA, which is not described here.",
+      "C": "Incorrect. MPA is a small-vessel vasculitis primarily affecting the kidneys and lungs, but it typically lacks the asthma, sinusitis, and significant hypereosinophilia characteristic of EGPA. It also generally doesn't present with mononeuritis multiplex as prominently as EGPA or GPA.",
+      "D": "Incorrect. Hypereosinophilic Syndrome (HES) involves persistent hypereosinophilia (>1500/µL for >6 months) and eosinophil-mediated organ damage. While this patient has hypereosinophilia and organ damage (neuropathy), HES is a diagnosis of exclusion and lacks the specific vasculitic and asthmatic components that define EGPA. EGPA is a specific form of vasculitis, not just a hypereosinophilic state."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "NEW TUBERCULOSIS VACCINE DEVELOPMENT AND PIPELINE",
+      "section": null,
+      "pageNumber": 400
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_1505",
+    "generatedAt": 1767060988484,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_tb_end_strategy_c5b06808",
+    "question": "A 50-year-old female with a 15-year history of severe, steroid-dependent asthma and recurrent nasal polyps is diagnosed with Eosinophilic Granulomatosis with Polyangiitis (EGPA) after presenting with migratory pulmonary infiltrates and peripheral neuropathy. As part of her ongoing management and monitoring, the physician should be particularly vigilant for all of the following complications, EXCEPT:",
+    "options": {
+      "A": "Cardiac dysfunction",
+      "B": "Gastrointestinal perforation",
+      "C": "Diffuse alveolar hemorrhage",
+      "D": "Peripheral neuropathy progression"
+    },
+    "correctAnswer": "C",
+    "topic": "Eosinophilic Lung Diseases",
+    "deepDiveExplanation": "The provided text explicitly states, 'In contrast to GPA and MPA, pulmonary hemorrhage and glomerulonephritis are much less common' in EGPA. Diffuse alveolar hemorrhage (DAH) is a severe form of pulmonary hemorrhage and is a well-recognized, life-threatening complication of other ANCA-associated vasculitides like Granulomatosis with Polyangiitis (GPA) and Microscopic Polyangiitis (MPA), but significantly less frequent in EGPA. Cardiac dysfunction (conduction abnormalities, systolic/diastolic dysfunction), gastrointestinal disease (perforation, ischemia, bleeding), and neurologic complications (like peripheral neuropathy, as seen in this patient) are all listed as 'dreaded, but well-recognized, complications' of EGPA.",
+    "highYieldPearl": "Rio's Take: EGPA's unique profile includes a lower incidence of severe renal disease and pulmonary hemorrhage compared to GPA/MPA, despite being an ANCA-associated vasculitis. Instead, cardiac, GI, and neurologic involvement are major concerns.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. Cardiac involvement (conduction abnormalities, systolic/diastolic dysfunction, pericarditis) is a well-recognized and dreaded complication in EGPA, particularly in ANCA-negative subsets. Vigilance for this is crucial.",
+      "B": "Incorrect. Gastrointestinal disease (perforation, ischemia, bleeding) is another well-recognized and serious complication of EGPA. Monitoring for GI symptoms is essential.",
+      "C": "Correct. Diffuse alveolar hemorrhage (DAH) is a hallmark complication of GPA and MPA, but is explicitly stated to be much less common in EGPA. While EGPA can have lung involvement, DAH is not a primary concern compared to other vasculitides.",
+      "D": "Incorrect. The patient already has peripheral neuropathy, and its progression or development of new neurological deficits is a key concern in EGPA due to ongoing vasculitis affecting nerves. Neurologic complications are among the dreaded outcomes."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "NEW TUBERCULOSIS VACCINE DEVELOPMENT AND PIPELINE",
+      "section": null,
+      "pageNumber": 400
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_1505",
+    "generatedAt": 1767060988484,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_tb_end_strategy_2d7385c9",
+    "question": "A 38-year-old male with recently diagnosed ANCA-negative Eosinophilic Granulomatosis with Polyangiitis (EGPA) presents with significant cardiac conduction abnormalities and new migratory opacities on chest CT. Which of the following findings is most characteristic on his lung biopsy, supporting the diagnosis of EGPA in this clinical context?",
+    "options": {
+      "A": "Granulomas with central necrosis and abundant necrotic eosinophils",
+      "B": "Non-caseating granulomas without vasculitis",
+      "C": "Lymphocytic alveolitis with interstitial fibrosis",
+      "D": "Capillaritis with hemosiderin-laden macrophages"
+    },
+    "correctAnswer": "A",
+    "topic": "Eosinophilic Lung Diseases",
+    "deepDiveExplanation": "The patient's presentation with ANCA-negative EGPA, cardiac involvement, and migratory lung opacities aligns with the 'Subset 2' phenotype of EGPA, which shares features with hypereosinophilic syndromes. Regardless of the phenotype, the core pathological findings for EGPA are consistent. The text states that diagnostic findings on lung biopsy include 'eosinophilic pneumonia, necrotizing vasculitis, and granulomatous inflammation.' Specifically, it notes that 'The granulomas often show central areas of necrosis with abundant necrotic eosinophils, surrounded by palisaded histiocytes and multinucleated giant cells.' This description perfectly matches option A, making it the most characteristic finding.",
+    "highYieldPearl": "Rio's Take: Remember the specific pathological triad of EGPA: eosinophilic pneumonia, necrotizing vasculitis, and granulomatous inflammation. Granulomas with central necrosis and necrotic eosinophils are a highly suggestive histologic feature.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. This option describes the classic histological findings of granulomatous inflammation with central necrosis and abundant necrotic eosinophils, which is a key diagnostic feature of EGPA alongside eosinophilic pneumonia and necrotizing vasculitis.",
+      "B": "Incorrect. Non-caseating granulomas without vasculitis are characteristic of sarcoidosis. While EGPA does involve granulomas, the specific features (necrosis, eosinophils) and associated vasculitis differentiate it.",
+      "C": "Incorrect. Lymphocytic alveolitis with interstitial fibrosis can be seen in various interstitial lung diseases, but it is not specific for EGPA and does not capture the essential eosinophilic or vasculitic components.",
+      "D": "Incorrect. Capillaritis with hemosiderin-laden macrophages is suggestive of diffuse alveolar hemorrhage, which, as discussed, is much less common in EGPA compared to other ANCA-associated vasculitides like GPA and MPA. While vasculitis is present in EGPA, this specific pattern is not characteristic of its lung involvement."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "NEW TUBERCULOSIS VACCINE DEVELOPMENT AND PIPELINE",
+      "section": null,
+      "pageNumber": 400
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_1505",
+    "generatedAt": 1767060988484,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_tb_end_strategy_c5b0c633",
+    "question": "A 45-year-old male presents with a 10-year history of severe, steroid-dependent asthma and recurrent sinusitis requiring multiple courses of antibiotics. Over the past 6 months, he developed progressive numbness and tingling in his feet, predominantly affecting a 'glove-and-stocking' distribution. Recent laboratory workup revealed an absolute eosinophil count of 2500/µL. Chest CT showed bilateral, transient ground-glass opacities. Pulmonary function tests demonstrate irreversible airflow obstruction. Which of the following is the MOST likely diagnosis?",
+    "options": {
+      "A": "Eosinophilic Granulomatosis with Polyangiitis (EGPA)",
+      "B": "Chronic Eosinophilic Pneumonia (CEP)",
+      "C": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+      "D": "Hypereosinophilic Syndrome (HES)"
+    },
+    "correctAnswer": "A",
+    "topic": "Eosinophilic Lung Diseases",
+    "deepDiveExplanation": "The patient's presentation classically aligns with Eosinophilic Granulomatosis with Polyangiitis (EGPA). The cardinal features are: 1) Long-standing, severe asthma (10 years, steroid-dependent, irreversible airflow obstruction), 2) Hypereosinophilia (>1500/µL, here 2500/µL), and 3) Features of necrotizing vasculitis, manifested by peripheral neuropathy ('glove-and-stocking' numbness and tingling, suggestive of mononeuritis multiplex or polyneuropathy), and upper airway involvement (recurrent sinusitis). The transient ground-glass opacities on CT are consistent with eosinophilic pneumonia, a common lung manifestation in EGPA. The three phases of EGPA—allergic, eosinophilic, and vasculitic—are evident, even if not strictly sequential.",
+    "highYieldPearl": "Rio's Take: The triad of severe asthma, hypereosinophilia, and multi-system vasculitic features (especially neuropathy, renal, or cardiac involvement) is highly suggestive of EGPA. Remember that asthma often precedes the vasculitic phase by years.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option is correct as the patient demonstrates the classic triad of asthma, hypereosinophilia, and features of vasculitis (neuropathy, recurrent sinusitis, transient lung opacities).",
+      "B": "Chronic Eosinophilic Pneumonia (CEP) presents with asthma, hypereosinophilia, and migratory lung infiltrates. However, it typically lacks systemic vasculitic manifestations like peripheral neuropathy, which is a key distinguishing feature in this vignette.",
+      "C": "Allergic Bronchopulmonary Aspergillosis (ABPA) involves asthma and eosinophilia, often with recurrent infiltrates. However, it classically presents with central bronchiectasis, mucoid impaction, and serological evidence of Aspergillus sensitization (elevated IgE, positive specific IgE/IgG to Aspergillus). Neuropathy is not a typical feature of ABPA.",
+      "D": "Hypereosinophilic Syndrome (HES) involves persistent hypereosinophilia and multi-organ damage. While HES can affect the nervous system and lungs, it is a diagnosis of exclusion and typically lacks the prominent necrotizing vasculitis and the specific chronicity and severity of asthma preceding systemic involvement that characterizes EGPA."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "NEW TUBERCULOSIS VACCINE DEVELOPMENT AND PIPELINE",
+      "section": null,
+      "pageNumber": 400
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_1505",
+    "generatedAt": 1767060988484,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_tb_end_strategy_a830a26b",
+    "question": "A 58-year-old male with a 15-year history of severe asthma, nasal polyps, and recurrent sinusitis presents with newly diagnosed nephritic syndrome and mononeuritis multiplex. His absolute eosinophil count is 3200/µL. Initial serology is pending. Based on his clinical presentation, which of the following serological findings is MOST likely to be positive?",
+    "options": {
+      "A": "Anti-MPO ANCA",
+      "B": "Anti-PR3 ANCA",
+      "C": "Anti-GBM antibodies",
+      "D": "Anti-Nuclear Antibody (ANA)"
+    },
+    "correctAnswer": "A",
+    "topic": "Eosinophilic Lung Diseases",
+    "deepDiveExplanation": "The patient's presentation of long-standing severe asthma, nasal polyps, recurrent sinusitis, hypereosinophilia, nephritic syndrome, and mononeuritis multiplex is highly indicative of Eosinophilic Granulomatosis with Polyangiitis (EGPA). The text describes two distinct clinical phenotypes of EGPA. Subset 1 is characterized by a 'greater incidence of neurologic, renal, gastrointestinal, and cutaneous involvement' and is 'more commonly ANCA- or MPO-positive'. Nephritic syndrome (renal involvement) and mononeuritis multiplex (neurologic involvement) clearly place this patient in the ANCA-positive (Subset 1) phenotype of EGPA. In EGPA, the positive ANCA is typically of the perinuclear IIF pattern (p-ANCA), which corresponds to anti-MPO ANCA.",
+    "highYieldPearl": "Rio's Take: Remember the EGPA phenotypes: ANCA-positive EGPA (usually MPO-ANCA) is associated with more renal and neurologic manifestations, while ANCA-negative EGPA tends to have more cardiac involvement and migratory lung opacities, overlapping with hypereosinophilic syndromes.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Anti-MPO ANCA (p-ANCA) is the most common ANCA specificity in the subset of EGPA patients who present with prominent renal and neurologic involvement, as seen in this vignette. This is the correct answer.",
+      "B": "Anti-PR3 ANCA (c-ANCA) is characteristic of Granulomatosis with Polyangiitis (GPA). While GPA can affect the kidneys and cause neuropathy, the patient's long history of severe asthma, nasal polyps, and very high eosinophilia makes EGPA a much more likely diagnosis than GPA.",
+      "C": "Anti-GBM antibodies are associated with Goodpasture's Syndrome, which causes rapidly progressive glomerulonephritis and pulmonary hemorrhage. The clinical picture with long-standing asthma, nasal polyps, and hypereosinophilia does not fit Goodpasture's.",
+      "D": "Anti-Nuclear Antibody (ANA) is a general marker for various autoimmune diseases. While some autoimmune diseases can present with vasculitis or lung disease, ANA is not specifically associated with EGPA or its defined phenotypes and is much less specific than ANCA for this presentation."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "NEW TUBERCULOSIS VACCINE DEVELOPMENT AND PIPELINE",
+      "section": null,
+      "pageNumber": 400
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_1505",
+    "generatedAt": 1767060988484,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_tb_end_strategy_1d5016a3",
+    "question": "A 50-year-old patient with a long history of severe, poorly controlled asthma and peripheral eosinophilia presents with cough, dyspnea, and migratory pulmonary infiltrates on chest X-ray. A lung biopsy is performed to confirm the diagnosis suspected clinically. Which of the following histopathological findings is MOST specific for Eosinophilic Granulomatosis with Polyangiitis (EGPA) in this context?",
+    "options": {
+      "A": "Usual Interstitial Pneumonia (UIP) pattern",
+      "B": "Non-caseating granulomas without evidence of vasculitis",
+      "C": "Necrotizing small-vessel vasculitis with eosinophil-rich cellular infiltrates and granulomatous inflammation",
+      "D": "Alveolar proteinosis with PAS-positive lipoproteinaceous material"
+    },
+    "correctAnswer": "C",
+    "topic": "Eosinophilic Lung Diseases",
+    "deepDiveExplanation": "The vignette describes a patient with severe asthma, eosinophilia, and migratory pulmonary infiltrates, highly suggestive of an eosinophilic lung disease, with EGPA being a prime consideration given its typical presentation. The provided text explicitly states the diagnostic pathological findings on lung biopsy for EGPA: 'eosinophilic pneumonia, necrotizing vasculitis, and granulomatous inflammation'. Furthermore, it details that the vasculitis involves small vessels and is characterized by infiltration of lymphocytes and eosinophils, and the granulomas often show central necrosis with abundant necrotic eosinophils. Option C accurately encompasses these three critical and specific histopathological components that distinguish EGPA from other lung conditions.",
+    "highYieldPearl": "Rio's Take: The 'pathology trifecta' for EGPA on lung biopsy is key: necrotizing small-vessel vasculitis, eosinophil-rich infiltrates, and granulomatous inflammation. Don't forget the characteristic eosinophilic pneumonia as well!",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Usual Interstitial Pneumonia (UIP) pattern is the hallmark of Idiopathic Pulmonary Fibrosis (IPF) and can be seen in other ILDs (e.g., chronic hypersensitivity pneumonitis, CTD-ILD), but it is not specific for eosinophilic lung diseases or vasculitis and lacks the characteristic features of EGPA.",
+      "B": "Non-caseating granulomas without evidence of vasculitis are characteristic of sarcoidosis. While EGPA can have granulomas, the absence of vasculitis and the lack of specific eosinophilic infiltration (in a patient with high eosinophilia) would make this diagnosis less likely for EGPA.",
+      "C": "This option correctly identifies the combination of necrotizing small-vessel vasculitis, abundant eosinophilic infiltration, and granulomatous inflammation, which are the highly specific pathological hallmarks for diagnosing EGPA on lung biopsy.",
+      "D": "Alveolar proteinosis with PAS-positive lipoproteinaceous material describes Pulmonary Alveolar Proteinosis, a distinct disease characterized by accumulation of surfactant-like material in the alveoli. This is unrelated to the clinical picture or pathology of EGPA."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "NEW TUBERCULOSIS VACCINE DEVELOPMENT AND PIPELINE",
+      "section": null,
+      "pageNumber": 400
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_1505",
+    "generatedAt": 1767060988484,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_tb_end_strategy_64a7ec15",
+    "question": "A 45-year-old male presents with a 10-year history of severe, steroid-dependent asthma, chronic sinusitis with nasal polyps, and recurrent migratory pulmonary infiltrates on chest imaging. Recent blood work shows an absolute eosinophil count of 2500/µL. Which of the following statements regarding his most likely diagnosis is TRUE?",
+    "options": {
+      "A": "Pulmonary hemorrhage and glomerulonephritis are typical features of this condition.",
+      "B": "Destructive upper airway lesions like saddle nose deformity are commonly observed.",
+      "C": "MPO-ANCA is positive in virtually all patients with this disease.",
+      "D": "The syndrome classically presents with a triad of asthma, hypereosinophilia, and necrotizing vasculitis."
+    },
+    "correctAnswer": "D",
+    "topic": "Eosinophilic Lung Diseases",
+    "deepDiveExplanation": "The patient's clinical presentation with severe, steroid-dependent asthma, chronic rhinosinusitis with polyps, migratory pulmonary infiltrates, and marked hypereosinophilia is highly suggestive of Eosinophilic Granulomatosis with Polyangiitis (EGPA). EGPA is characterized by a classic triad of asthma, hypereosinophilia, and necrotizing vasculitis. Option A is incorrect because, in contrast to GPA and MPA, pulmonary hemorrhage and glomerulonephritis are much less common in EGPA. Option B is incorrect as EGPA typically involves the upper airway (rhinitis, sinusitis) but generally without the destructive features (e.g., saddle nose deformity, laryngeal stenosis) associated with Granulomatosis with Polyangiitis (GPA). Option C is incorrect because ANCA (specifically p-ANCA, often MPO-ANCA) is positive in only 30-70% of EGPA patients, not virtually all.",
+    "highYieldPearl": "Rio's Take: Remember the classic triad of EGPA (asthma, hypereosinophilia, necrotizing vasculitis) and its differentiation from GPA, particularly regarding ANCA positivity rates and the typical destructive features of upper airway involvement. While ANCA can be positive, a significant proportion of EGPA patients are ANCA-negative.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option is a distractor that applies more to GPA and MPA, which are other ANCA-associated vasculitides, but not EGPA. The prompt specifically states EGPA is 'distinct from GPA and MPA' and that 'pulmonary hemorrhage and glomerulonephritis are much less common' in EGPA.",
+      "B": "This traps examinees who confuse the upper airway manifestations of EGPA with those of GPA. While EGPA involves the upper airway, it lacks the destructive features characteristic of GPA.",
+      "C": "This option exaggerates the positivity rate of MPO-ANCA in EGPA. While a significant proportion (30-70%) are positive, it is far from 'virtually all,' and ANCA-negative EGPA is a recognized clinical phenotype.",
+      "D": "This is the core diagnostic triad of EGPA, directly stated in the text, making it the most accurate statement."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "NEW TUBERCULOSIS VACCINE DEVELOPMENT AND PIPELINE",
+      "section": null,
+      "pageNumber": 400
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_1505",
+    "generatedAt": 1767060988484,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_tb_end_strategy_26731716",
+    "question": "A 50-year-old female presents with worsening dyspnea and cough over several months. She has a history of poorly controlled asthma since childhood, requiring oral steroids periodically. Physical examination reveals diffuse wheezes. Chest CT shows transient, bilateral, patchy ground-glass opacities and areas of consolidation. Laboratory tests show an absolute eosinophil count of 1800/µL and a positive p-ANCA. Cardiac evaluation reveals new-onset pericarditis. Based on these findings, which of the following is the most appropriate next diagnostic step?",
+    "options": {
+      "A": "Renal biopsy to assess for glomerulonephritis",
+      "B": "Bronchoscopy with bronchoalveolar lavage for fungal culture",
+      "C": "Biopsy of a lung lesion to confirm necrotizing vasculitis and eosinophilic inflammation",
+      "D": "Serum IgE levels and specific IgE for *Aspergillus fumigatus*"
+    },
+    "correctAnswer": "C",
+    "topic": "Eosinophilic Lung Diseases",
+    "deepDiveExplanation": "The patient's clinical picture of long-standing severe asthma, hypereosinophilia, transient pulmonary opacities, positive p-ANCA, and cardiac involvement (pericarditis) strongly points towards Eosinophilic Granulomatosis with Polyangiitis (EGPA). While ANCA serology is supportive, the definitive diagnosis of EGPA requires histopathological confirmation of necrotizing small-vessel vasculitis and eosinophil-rich inflammation, often with granulomatous features. Therefore, a biopsy of an involved organ, such as the lung, is the most appropriate next diagnostic step to confirm the diagnosis. Option A is less appropriate as glomerulonephritis is less common in EGPA compared to other ANCA-associated vasculitides, and there is no mention of renal dysfunction in the vignette. Option B and D would be relevant for ruling out allergic bronchopulmonary mycosis (ABPA), which can mimic some features of EGPA (asthma, eosinophilia, lung opacities), but the presence of p-ANCA and systemic vasculitic features like pericarditis make EGPA much more likely, necessitating a vasculitis-specific diagnostic approach.",
+    "highYieldPearl": "Rio's Take: While clinical and serological findings are highly suggestive for EGPA, tissue biopsy remains the gold standard for definitive diagnosis, revealing the characteristic necrotizing vasculitis and eosinophilic inflammation. Always seek histological proof for vasculitis when feasible and safe.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a plausible but less appropriate initial step. While some EGPA patients can have renal involvement, it's less common than in GPA/MPA. The primary concerns here are pulmonary and cardiac, making a lung or another affected site biopsy more targeted and relevant.",
+      "B": "BAL for fungal culture (and eosinophil count) is relevant for eosinophilic lung diseases like ABPA, which shares asthma and eosinophilia. However, the positive p-ANCA and cardiac involvement point away from ABPA as the primary diagnosis, making a definitive vasculitis biopsy more urgent.",
+      "C": "This option targets the definitive diagnosis for EGPA. The text clearly states that 'diagnostic findings on lung biopsy include eosinophilic pneumonia, necrotizing vasculitis, and granulomatous inflammation', which are essential for confirming EGPA.",
+      "D": "Similar to option B, this is a diagnostic step for ABPA. While EGPA can overlap with allergic diseases, the systemic nature indicated by p-ANCA and pericarditis makes a vasculitic process more likely, requiring tissue diagnosis."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "NEW TUBERCULOSIS VACCINE DEVELOPMENT AND PIPELINE",
+      "section": null,
+      "pageNumber": 400
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_1505",
+    "generatedAt": 1767060988484,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_tb_end_strategy_990ad93a",
+    "question": "A 60-year-old male with recently diagnosed eosinophilic granulomatosis with polyangiitis (EGPA) presents with significant peripheral neuropathy and rapidly progressive renal failure. His serology is positive for MPO-ANCA. Which of the following pathological findings is LEAST likely to be observed in his lung biopsy, given his clinical and serological profile?",
+    "options": {
+      "A": "Eosinophil-rich cellular infiltrate",
+      "B": "Necrotizing small-vessel vasculitis",
+      "C": "Granulomatous inflammation with central necrosis",
+      "D": "Usual interstitial pneumonia (UIP) pattern"
+    },
+    "correctAnswer": "D",
+    "topic": "Eosinophilic Lung Diseases",
+    "deepDiveExplanation": "The patient presents with features consistent with ANCA-positive EGPA (Subset 1, as described in the text): significant neurologic and renal involvement, and MPO-ANCA positivity. The text describes the characteristic pathological findings of EGPA on lung biopsy as: 1) eosinophil-rich cellular infiltrate, 2) necrotizing small-vessel vasculitis, and 3) granulomatous inflammation (often with central necrosis, necrotic eosinophils, palisaded histiocytes, and multinucleated giant cells). Therefore, options A, B, and C are all highly likely to be observed. The Usual Interstitial Pneumonia (UIP) pattern, while a common histological pattern in interstitial lung diseases, is primarily the hallmark of Idiopathic Pulmonary Fibrosis (IPF) and can be seen in other specific ILDs (e.g., chronic hypersensitivity pneumonitis, CTD-ILD, asbestosis). It is not a described pathological feature of EGPA. While EGPA is a cause of ILD, its specific histological pattern involves eosinophilic inflammation, vasculitis, and granulomas, not UIP.",
+    "highYieldPearl": "Rio's Take: While EGPA can manifest as an ILD, its specific pathological signature involves eosinophils, vasculitis, and granulomas. The UIP pattern is specific to other ILDs like IPF and is not characteristic of EGPA. Differentiating specific histological patterns is key for precise ILD diagnosis.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a core feature of EGPA pathology, as described: 'eosinophil-rich cellular infiltrate'. This is expected.",
+      "B": "This is also a core diagnostic feature of EGPA: 'necrotizing, small-vessel vasculitis'. This is expected.",
+      "C": "Granulomatous inflammation, often with necrosis, is another key pathological finding in EGPA: 'granulomatous inflammation... The granulomas often show central areas of necrosis with abundant necrotic eosinophils'. This is expected.",
+      "D": "The UIP pattern is distinctly associated with IPF and some other ILDs, but not EGPA. EGPA has its own characteristic histological findings (eosinophilic pneumonia, necrotizing vasculitis, granulomatous inflammation). This option is designed to test the specific pathological knowledge for EGPA vs. other ILDs, making it the least likely finding."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "NEW TUBERCULOSIS VACCINE DEVELOPMENT AND PIPELINE",
+      "section": null,
+      "pageNumber": 400
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_1505",
+    "generatedAt": 1767060988484,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "India's National Strategic Plan aims to eliminate Tuberculosis by which year?",
+    "options": {
+      "A": "2025",
+      "B": "2030",
+      "C": "2035",
+      "D": "2040"
+    },
+    "correctAnswer": "A",
+    "topic": "tb_end_strategy",
+    "deepDiveExplanation": "The National Strategic Plan for Tuberculosis Elimination (NSP for TB Elimination) 2017-2025 sets an ambitious target for India to eliminate TB by 2025, five years ahead of the global Sustainable Development Goal (SDG) target of 2030. This plan outlines strategies for case finding, treatment, prevention, and building robust systems.",
+    "highYieldPearl": "India's 2025 target for TB elimination is more ambitious than the global WHO End TB Strategy's 2030 target for reduction.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Distractors include the global SDG target (2030) and other arbitrary years. Candidates must differentiate between India's specific national goal and the broader international one.",
+    "isOneLiner": true,
+    "id": "one_liner_tb_end_strategy_6vosdob5"
+  },
+  {
+    "question": "Which of the following is NOT a pillar of the WHO End TB Strategy?",
+    "options": {
+      "A": "Integrated patient-centered care and prevention",
+      "B": "Bold policies and supportive systems",
+      "C": "Intensified research and innovation",
+      "D": "Universal health coverage"
+    },
+    "correctAnswer": "D",
+    "topic": "tb_end_strategy",
+    "deepDiveExplanation": "The WHO End TB Strategy is built on three main pillars: 1. Integrated, patient-centered care and prevention, 2. Bold policies and supportive systems, and 3. Intensified research and innovation. While Universal Health Coverage (UHC) is a crucial enabling factor and a broader health goal, it is not listed as one of the three *explicit* pillars of the End TB Strategy itself.",
+    "highYieldPearl": "Remember the three explicit pillars: Care/Prevention, Policies/Systems, Research/Innovation. UHC is an enabler, not a pillar.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Universal Health Coverage is a very relevant concept in public health and TB control, making it a plausible but incorrect option. Candidates need to know the specific, formally defined pillars.",
+    "isOneLiner": true,
+    "id": "one_liner_tb_end_strategy_mgeti8r9"
+  },
+  {
+    "question": "NIKSHAY portal's primary function in the National TB Elimination Program is?",
+    "options": {
+      "A": "Drug logistics and supply chain management",
+      "B": "Real-time patient notification and monitoring",
+      "C": "Healthcare worker training modules",
+      "D": "TB diagnostic kit quality assurance"
+    },
+    "correctAnswer": "B",
+    "topic": "tb_end_strategy",
+    "deepDiveExplanation": "NIKSHAY is the unified ICT-enabled system for notification, patient management, and surveillance for TB in India. It serves as a single window for tracking every TB patient from diagnosis to treatment outcome, facilitating real-time data collection, monitoring, and program management. Notification of TB cases to NIKSHAY is mandatory in India.",
+    "highYieldPearl": "NIKSHAY is central to TB surveillance, data-driven program management, and mandatory notification in India.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "All options relate to aspects of a TB program. The key is to identify the *primary* function of NIKSHAY, which is patient notification, tracking, and monitoring.",
+    "isOneLiner": true,
+    "id": "one_liner_tb_end_strategy_yvuql2qr"
+  },
+  {
+    "question": "The financial incentive for nutritional support to TB patients, managed through NIKSHAY, is known as?",
+    "options": {
+      "A": "Ayushman Bharat Yojana",
+      "B": "NIKSHAY Poshan Yojana",
+      "C": "Pradhan Mantri Jan Arogya Yojana",
+      "D": "Direct Benefit Transfer for Health"
+    },
+    "correctAnswer": "B",
+    "topic": "tb_end_strategy",
+    "deepDiveExplanation": "NIKSHAY Poshan Yojana (formerly known as the Direct Benefit Transfer scheme for Nutritional Support to TB Patients) provides Rs. 500 per month to all notified TB patients for the entire duration of their treatment. This is a critical component for improving treatment adherence and outcomes, as malnutrition is a significant risk factor for TB. The payments are processed through the NIKSHAY portal.",
+    "highYieldPearl": "NIKSHAY Poshan Yojana directly addresses the nutritional needs of TB patients, a key social determinant of health.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Other options are related to health schemes in India, but NIKSHAY Poshan Yojana is specific to TB patient nutritional support. Candidates might confuse it with other DBT schemes if they don't know the specific nomenclature.",
+    "isOneLiner": true,
+    "id": "one_liner_tb_end_strategy_c7r5u8xv"
+  },
+  {
+    "question": "The WHO End TB Strategy aims for what reduction in TB deaths by 2030 compared to 2015?",
+    "options": {
+      "A": "50%",
+      "B": "75%",
+      "C": "80%",
+      "D": "95%"
+    },
+    "correctAnswer": "D",
+    "topic": "tb_end_strategy",
+    "deepDiveExplanation": "The WHO End TB Strategy sets ambitious targets for 2030 relative to the 2015 baseline: 90% reduction in TB incidence rate, 95% reduction in TB deaths, and zero TB-affected families facing catastrophic costs. It's crucial to distinguish between the incidence and mortality targets.",
+    "highYieldPearl": "The reduction targets for TB incidence (90%) and TB deaths (95%) by 2030 are distinct and often confused. Remember 95% for deaths, 90% for incidence.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "All options are plausible percentage reductions. Candidates must recall the specific, distinct targets for incidence versus mortality. 90% is for incidence, 95% for deaths.",
+    "isOneLiner": true,
+    "id": "one_liner_tb_end_strategy_9encsoxa"
+  },
+  {
+    "question": "India's National Strategic Plan aims to eliminate Tuberculosis by which year?",
+    "options": {
+      "A": "2025",
+      "B": "2030",
+      "C": "2035",
+      "D": "2040"
+    },
+    "correctAnswer": "A",
+    "topic": "tb_end_strategy",
+    "deepDiveExplanation": "The National Strategic Plan for Tuberculosis Elimination (NSP for TB Elimination) 2017-2025 sets an ambitious target for India to eliminate TB by 2025, five years ahead of the global Sustainable Development Goal (SDG) target of 2030. This plan outlines strategies for case finding, treatment, prevention, and building robust systems.",
+    "highYieldPearl": "India's 2025 target for TB elimination is more ambitious than the global WHO End TB Strategy's 2030 target for reduction.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Distractors include the global SDG target (2030) and other arbitrary years. Candidates must differentiate between India's specific national goal and the broader international one.",
+    "isOneLiner": true,
+    "id": "one_liner_tb_end_strategy_kseqsqgb"
+  },
+  {
+    "question": "Which of the following is NOT a pillar of the WHO End TB Strategy?",
+    "options": {
+      "A": "Integrated patient-centered care and prevention",
+      "B": "Bold policies and supportive systems",
+      "C": "Intensified research and innovation",
+      "D": "Universal health coverage"
+    },
+    "correctAnswer": "D",
+    "topic": "tb_end_strategy",
+    "deepDiveExplanation": "The WHO End TB Strategy is built on three main pillars: 1. Integrated, patient-centered care and prevention, 2. Bold policies and supportive systems, and 3. Intensified research and innovation. While Universal Health Coverage (UHC) is a crucial enabling factor and a broader health goal, it is not listed as one of the three *explicit* pillars of the End TB Strategy itself.",
+    "highYieldPearl": "Remember the three explicit pillars: Care/Prevention, Policies/Systems, Research/Innovation. UHC is an enabler, not a pillar.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Universal Health Coverage is a very relevant concept in public health and TB control, making it a plausible but incorrect option. Candidates need to know the specific, formally defined pillars.",
+    "isOneLiner": true,
+    "id": "one_liner_tb_end_strategy_iucnyun4"
+  },
+  {
+    "question": "NIKSHAY portal's primary function in the National TB Elimination Program is?",
+    "options": {
+      "A": "Drug logistics and supply chain management",
+      "B": "Real-time patient notification and monitoring",
+      "C": "Healthcare worker training modules",
+      "D": "TB diagnostic kit quality assurance"
+    },
+    "correctAnswer": "B",
+    "topic": "tb_end_strategy",
+    "deepDiveExplanation": "NIKSHAY is the unified ICT-enabled system for notification, patient management, and surveillance for TB in India. It serves as a single window for tracking every TB patient from diagnosis to treatment outcome, facilitating real-time data collection, monitoring, and program management. Notification of TB cases to NIKSHAY is mandatory in India.",
+    "highYieldPearl": "NIKSHAY is central to TB surveillance, data-driven program management, and mandatory notification in India.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "All options relate to aspects of a TB program. The key is to identify the *primary* function of NIKSHAY, which is patient notification, tracking, and monitoring.",
+    "isOneLiner": true,
+    "id": "one_liner_tb_end_strategy_bvodssnj"
+  },
+  {
+    "question": "The financial incentive for nutritional support to TB patients, managed through NIKSHAY, is known as?",
+    "options": {
+      "A": "Ayushman Bharat Yojana",
+      "B": "NIKSHAY Poshan Yojana",
+      "C": "Pradhan Mantri Jan Arogya Yojana",
+      "D": "Direct Benefit Transfer for Health"
+    },
+    "correctAnswer": "B",
+    "topic": "tb_end_strategy",
+    "deepDiveExplanation": "NIKSHAY Poshan Yojana (formerly known as the Direct Benefit Transfer scheme for Nutritional Support to TB Patients) provides Rs. 500 per month to all notified TB patients for the entire duration of their treatment. This is a critical component for improving treatment adherence and outcomes, as malnutrition is a significant risk factor for TB. The payments are processed through the NIKSHAY portal.",
+    "highYieldPearl": "NIKSHAY Poshan Yojana directly addresses the nutritional needs of TB patients, a key social determinant of health.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Other options are related to health schemes in India, but NIKSHAY Poshan Yojana is specific to TB patient nutritional support. Candidates might confuse it with other DBT schemes if they don't know the specific nomenclature.",
+    "isOneLiner": true,
+    "id": "one_liner_tb_end_strategy_cj2en6km"
+  },
+  {
+    "question": "The WHO End TB Strategy aims for what reduction in TB deaths by 2030 compared to 2015?",
+    "options": {
+      "A": "50%",
+      "B": "75%",
+      "C": "80%",
+      "D": "95%"
+    },
+    "correctAnswer": "D",
+    "topic": "tb_end_strategy",
+    "deepDiveExplanation": "The WHO End TB Strategy sets ambitious targets for 2030 relative to the 2015 baseline: 90% reduction in TB incidence rate, 95% reduction in TB deaths, and zero TB-affected families facing catastrophic costs. It's crucial to distinguish between the incidence and mortality targets.",
+    "highYieldPearl": "The reduction targets for TB incidence (90%) and TB deaths (95%) by 2030 are distinct and often confused. Remember 95% for deaths, 90% for incidence.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "All options are plausible percentage reductions. Candidates must recall the specific, distinct targets for incidence versus mortality. 90% is for incidence, 95% for deaths.",
+    "isOneLiner": true,
+    "id": "one_liner_tb_end_strategy_l4t80rog"
+  }
+]

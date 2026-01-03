@@ -1,0 +1,1304 @@
+[
+  {
+    "id": "rag_abpa_8874b799",
+    "question": "A 65-year-old male is admitted to the ICU with severe pneumonia, rapidly progressing to ARDS. Despite optimization of PEEP and a lung-protective ventilation strategy (Vt 6 mL/kg PBW, Pplat < 30 cmH2O), his PaO2/FiO2 ratio remains consistently below 100 mmHg. He is persistently hypoxic and requires escalating ventilatory support. Considering the recent guidelines and ongoing research for acute respiratory failure, which of the following therapeutic interventions is *least* likely to be recommended or beneficial in his current situation?",
+    "options": {
+      "A": "Prone positioning for at least 12-16 hours daily.",
+      "B": "Continuous intravenous neuromuscular blockade for 48 hours.",
+      "C": "High-frequency oscillatory ventilation (HFOV).",
+      "D": "Initiation of veno-venous extracorporeal membrane oxygenation (VV-ECMO)."
+    },
+    "correctAnswer": "C",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The patient presents with severe ARDS (PaO2/FiO2 < 100 mmHg) refractory to conventional lung-protective ventilation. The provided context (Fig. 2. Therapies under investigation) clearly indicates 'High Frequency Oscillatory Ventilation (HFOV)' with a 'Red bar: Not recommended'. Prone positioning is a 'Green bar: Recommended' therapy for severe ARDS. VV-ECMO is a higher intensity treatment appropriate for refractory severe ARDS, positioned at the highest intensity end of the spectrum. Neuromuscular blockade (NMBA) for ARDS has a nuanced recommendation; while the ROSE trial (NEJM 2019) indicated no mortality benefit with early routine use, it still has a role in managing severe ventilator asynchrony or profound hypoxemia in specific circumstances, and the context mentions 'new evidence... warrant update' rather than a strong 'not recommended' bar. Therefore, HFOV is the most definitively 'not recommended' option.",
+    "highYieldPearl": "Rio's Take: For severe ARDS, remember that prone positioning and lung-protective ventilation are cornerstones. VV-ECMO is a valid escalation for refractory cases. However, therapies like HFOV, despite initial promise, have consistently shown no benefit and are generally not recommended.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is a strongly recommended intervention for severe ARDS to improve oxygenation and outcomes. Selecting this would indicate a lack of knowledge regarding current ARDS management guidelines.",
+      "B": "While the use of continuous NMBA for ARDS has become more restricted based on recent trials (e.g., ROSE trial showing no mortality benefit with early routine use), it is not definitively 'not recommended' in the provided text in the same way as HFOV. It can still be considered for specific indications like severe ventilator asynchrony or very severe ARDS, making it a plausible but less definitively wrong choice than HFOV.",
+      "C": "This option is explicitly marked as 'Red: Not recommended' in the provided 'Therapies under investigation' figure, making it the correct answer as the 'least likely to be recommended or beneficial'.",
+      "D": "VV-ECMO is a highly intensive but established and recommended rescue therapy for severe ARDS that is refractory to conventional ventilation and other interventions. Choosing this would demonstrate a misunderstanding of the escalating therapies for severe ARDS."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_7663c1f7",
+    "question": "A 72-year-old patient with a long history of severe COPD presents to the emergency department with acute worsening of dyspnea, increased cough, and purulent sputum. His arterial blood gas reveals pH 7.28, PaCO2 70 mmHg, PaO2 55 mmHg on 40% FiO2. Physical examination shows use of accessory muscles of respiration and a prolonged expiratory phase. He is initiated on non-invasive ventilation (NIV). Which of the following statements *incorrectly* describes the pathophysiological consequences or management principles related to dynamic hyperinflation and auto-PEEP in this patient?",
+    "options": {
+      "A": "The increased inspiratory work of breathing in this patient is primarily due to the need to overcome the auto-PEEP before inspiratory flow can begin.",
+      "B": "Administering a small amount of extrinsic PEEP via NIV can paradoxically decrease the work of breathing by opposing early airway collapse.",
+      "C": "This patient's hyperinflation predisposes him to decreased cardiac output by reducing venous return to the heart.",
+      "D": "The elevated PaCO2 and low pH classify his condition as a mild COPD exacerbation with impending respiratory failure, requiring close monitoring."
+    },
+    "correctAnswer": "D",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The patient's ABG (pH 7.28, PaCO2 70 mmHg) clearly indicates a severe acute exacerbation of COPD with Type II respiratory failure. According to the provided context, 'Severe (patient requires hospitalization or with resp failure). * ABG PaCO2 > 45mmHg (Type II resp failure) * PH < 7.35'. The patient's values exceed these thresholds for severe exacerbation. Therefore, classifying this as a 'mild COPD exacerbation with impending respiratory failure' is incorrect. All other statements correctly describe the pathophysiology and management principles related to dynamic hyperinflation and auto-PEEP in COPD.",
+    "highYieldPearl": "Rio's Take: Always correlate ABG values with clinical presentation and classification criteria. pH < 7.35 and PaCO2 > 45 mmHg in a COPD exacerbation signify severe respiratory failure, demanding urgent and definitive intervention like NIV, not just close monitoring for impending failure.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This statement is correct. The provided context explicitly highlights that 'More WOB to overcome AutoPEEP' leads to '↑ TWOB', illustrating the increased effort required to initiate inspiration against intrinsic PEEP.",
+      "B": "This statement is correct. While not explicitly in the provided text, it is a well-established therapeutic principle for auto-PEEP in obstructive lung diseases. Applying a small amount of extrinsic PEEP (less than the intrinsic PEEP) can 'splint' airways open, preventing premature collapse and thereby reducing the threshold pressure the patient needs to generate to initiate inspiration, thus decreasing WOB.",
+      "C": "This statement is correct. The context lists '↓ venous return → ↓ Cardiac output' as a disadvantage of auto-PEEP, which is a direct consequence of increased intrathoracic pressure from hyperinflation.",
+      "D": "This statement is incorrect. The patient's ABG (pH 7.28, PaCO2 70 mmHg) meets the criteria for a 'Severe' COPD exacerbation with Type II respiratory failure (PaCO2 > 45 mmHg, pH < 7.35) as per the provided context. It is not a mild exacerbation or merely 'impending' respiratory failure; it is established severe respiratory failure."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_d1948ee5",
+    "question": "A 58-year-old male with a 40-pack-year smoking history presents with severe dyspnea, cough, and fever for 3 days. He has a known history of COPD. On admission, his ABG on room air shows pH 7.36, PaCO2 50 mmHg, PaO2 60 mmHg. Chest X-ray reveals bilateral infiltrates. He is started on oxygen via nasal cannula and broad-spectrum antibiotics. Despite this, his respiratory status deteriorates. Four hours later, on a Venturi mask with FiO2 0.5, his ABG shows pH 7.25, PaCO2 65 mmHg, PaO2 50 mmHg. He is now somnolent. Which of the following would be the *most appropriate immediate next step* in managing this patient's evolving respiratory failure?",
+    "options": {
+      "A": "Initiate high-flow nasal cannula (HFNC) with close monitoring of respiratory effort.",
+      "B": "Commence non-invasive positive pressure ventilation (NIV).",
+      "C": "Prepare for immediate endotracheal intubation and mechanical ventilation.",
+      "D": "Administer a continuous infusion of a short-acting neuromuscular blocking agent to improve ventilator synchrony."
+    },
+    "correctAnswer": "C",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The patient initially presents with chronic hypercapnia (pH 7.36, PaCO2 50 mmHg) and hypoxemia. His deterioration is marked by acute worsening of respiratory acidosis (pH 7.25, PaCO2 65 mmHg) despite oxygen, and critically, new-onset somnolence. Somnolence (altered mental status) in the context of severe acute hypercapnic respiratory failure (severe acute on chronic Type II RF) is a strong contraindication for NIV and indicates an inability to protect the airway. While NIV is generally considered a 'gamechanger' for COPD exacerbations with respiratory failure, the presence of severe acidosis and somnolence warrants immediate definitive airway management via endotracheal intubation to ensure adequate ventilation, oxygenation, and airway protection.",
+    "highYieldPearl": "Rio's Take: While NIV is often the first-line intervention for acute hypercapnic respiratory failure in COPD, altered mental status (e.g., somnolence, coma) and severe acidosis (typically pH < 7.20-7.25, depending on clinical context) are critical contraindications that necessitate immediate endotracheal intubation.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "HFNC provides some ventilatory support but is generally insufficient for severe acute hypercapnic respiratory failure, especially in a somnolent patient where definitive ventilatory support and airway protection are paramount. It would likely delay appropriate intervention.",
+      "B": "NIV is the preferred modality for acute hypercapnic respiratory failure in COPD exacerbations (as highlighted in the context as a 'gamechanger'). However, the patient's somnolence and severe acidosis (pH 7.25, PaCO2 65 mmHg) are strong contraindications to NIV. Attempting NIV in a somnolent patient carries a high risk of failure, aspiration, and further deterioration.",
+      "C": "This is the most appropriate immediate next step. The patient's profound acidosis and, crucially, somnolence indicate an inability to protect his airway and likely impending respiratory arrest. Intubation ensures definitive airway control, allows for effective mechanical ventilation to correct the acidosis, and addresses the risk of aspiration.",
+      "D": "Neuromuscular blocking agents are used *after* intubation and initiation of mechanical ventilation to facilitate ventilator synchrony, particularly in severe ARDS. It is not a primary intervention for respiratory failure and certainly not an appropriate step before establishing an airway and initiating ventilation in a somnolent patient."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_9740dbd7",
+    "question": "A 62-year-old male is admitted to the ICU with severe Acute Respiratory Distress Syndrome (ARDS) secondary to aspiration pneumonia. His PaO₂/FiO₂ ratio is consistently < 100 mmHg despite optimized ventilatory support. Based on the provided 'Therapies Under Investigation' graph and its legend, which of the following therapeutic interventions is *least* likely to represent a strong recommendation *for* this patient in the acute phase of ARDS?",
+    "options": {
+      "A": "Application of prone positioning for prolonged periods.",
+      "B": "Initiation of High-Frequency Oscillatory Ventilation (HFOV).",
+      "C": "Implementation of pressure and volume limited ventilation with a low tidal volume strategy.",
+      "D": "Consideration of continuous neuromuscular blocking agents for 48 hours."
+    },
+    "correctAnswer": "B",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The provided graph and its legend clearly indicate the recommendations for various therapies in Acute Respiratory Failure. High-Frequency Oscillatory Ventilation (HFOV) is explicitly marked with a 'Red bar: Strong Recommendation Against'. This means it is strongly not recommended for use in ARDS patients, making it the intervention 'least likely to be a strong recommendation *for*'.\n\nIn contrast, Prone Positioning and Pressure and Volume Limited Ventilation (lung-protective ventilation) are marked with a 'Green bar: Strong Recommendation For', indicating strong endorsement. While Neuromuscular Blocking Agents (NMBA) are shown with a 'Dotted line: No Recommendation' and the text highlights recent evidence warranting an update, it is not a strong recommendation *against* their use. Historically, NMBA were conditionally recommended in severe ARDS but recent trials have tempered enthusiasm, making 'no recommendation' distinct from a 'strong recommendation against'.",
+    "highYieldPearl": "Rio's Take: Always differentiate between 'no recommendation' (where evidence is insufficient or conflicting) and a 'strong recommendation against' (where evidence actively shows harm or lack of benefit). For severe ARDS, HFOV is no longer recommended, while prone positioning and lung-protective ventilation are cornerstone therapies.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is a strong recommendation for severe ARDS, as indicated by the 'Green bar'. It represents a positive intervention, hence not the answer.",
+      "B": "This is marked with a 'Red bar: Strong Recommendation Against'. Therefore, it is definitively the 'least likely to be a strong recommendation *for*', making it the correct answer.",
+      "C": "This is also a strong recommendation for ARDS ('Green bar'), representing a cornerstone of lung-protective ventilation strategies. It is a positive intervention, hence not the answer.",
+      "D": "NMBA are shown with a 'Dotted line: No Recommendation'. While not a strong recommendation *for*, it is also not a strong recommendation *against* in the same vein as HFOV. The text mentions newer evidence challenging older views, making it a nuanced area, but HFOV has a more definitive 'against' recommendation in the provided context."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_6b2643d9",
+    "question": "A 70-year-old male with a history of severe COPD is admitted with an acute exacerbation requiring mechanical ventilation. During assessment, the patient is noted to have significant dynamic hyperinflation and an AutoPEEP of +5 cm H₂O. Assuming atmospheric pressure is 0 cm H₂O and an inspiratory flow threshold of -2 cm H₂O is required to trigger a breath, what is the *approximate* additional inspiratory effort (in cm H₂O) this patient must exert to initiate a breath compared to a normal individual without AutoPEEP?",
+    "options": {
+      "A": "2 cm H₂O",
+      "B": "3 cm H₂O",
+      "C": "5 cm H₂O",
+      "D": "7 cm H₂O"
+    },
+    "correctAnswer": "C",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The provided text details the impact of AutoPEEP on the Work of Breathing (WOB). For a normal individual, the effort required to initiate a breath is to generate a pressure drop from 0 cm H₂O (atmospheric) to -2 cm H₂O (inspiratory flow threshold), which is an effort of 2 cm H₂O.\n\nIn a patient with AutoPEEP, the end-expiratory intra-alveolar pressure is elevated. In this scenario, the AutoPEEP is +5 cm H₂O. To initiate inspiratory flow, the patient must drop their intra-alveolar pressure from +5 cm H₂O down to -2 cm H₂O. The total pressure change (effort) required is the difference between these two pressures: (+5) - (-2) = 7 cm H₂O.\n\nComparing this to the normal effort of 2 cm H₂O, the *additional* inspiratory effort the patient must exert is 7 cm H₂O (patient's total effort) - 2 cm H₂O (normal total effort) = 5 cm H₂O.",
+    "highYieldPearl": "Rio's Take: AutoPEEP significantly increases the work of breathing, not just by adding to the baseline pressure but by increasing the *delta* pressure required to initiate flow and overcome the ventilator trigger threshold. This often leads to patient-ventilator asynchrony and ventilatory muscle fatigue.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This represents the *normal* inspiratory effort required to trigger a breath, not the additional effort in the presence of AutoPEEP.",
+      "B": "This value is incorrect. It might be derived from 5-2 = 3, but this does not correctly account for the inspiratory trigger threshold below atmospheric pressure.",
+      "C": "This is the correct additional inspiratory effort. The patient must overcome +5 cm H₂O of AutoPEEP and then generate an additional -2 cm H₂O pressure, totaling 7 cm H₂O of effort. The additional effort compared to a normal individual (2 cm H₂O) is 7 - 2 = 5 cm H₂O.",
+      "D": "This represents the *total* inspiratory effort (7 cm H₂O) required by the patient with AutoPEEP to trigger a breath (from +5 to -2 cm H₂O), not the *additional* effort compared to a normal individual."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_af753680",
+    "question": "A 68-year-old male with a known history of COPD presents to the emergency department with acute worsening of dyspnea, increased cough with purulent sputum, and peripheral edema. His initial arterial blood gas (ABG) shows pH 7.28, PaCO₂ 65 mmHg, PaO₂ 55 mmHg, HCO₃⁻ 30 mEq/L, on room air. Despite initial bronchodilator therapy and steroids, his condition deteriorates.",
+    "options": {
+      "A": "The patient's presentation classifies as a moderate COPD exacerbation, and he should receive antibiotics along with continued bronchodilators and steroids.",
+      "B": "The ABG results indicate Type 1 respiratory failure, primarily due to hypoxemia, warranting high-flow oxygen therapy via nasal cannula as the first-line intervention.",
+      "C": "The patient's condition represents a severe COPD exacerbation with Type 2 respiratory failure, for which Non-Invasive Ventilation (NIV) is a highly recommended and game-changing intervention.",
+      "D": "Given the hypercapnic respiratory failure, conventional mechanical ventilation should be initiated immediately to prevent further respiratory acidosis and potential cardiac compromise."
+    },
+    "correctAnswer": "C",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The patient's ABG (pH 7.28 [<7.35] and PaCO₂ 65 mmHg [>45 mmHg]) clearly meets the criteria for a 'Severe' COPD exacerbation with Type II respiratory failure, as defined in the provided text. Type II respiratory failure is characterized by hypercapnia (PaCO₂ > 45 mmHg) and often hypoxemia. The low pH indicates acute respiratory acidosis. The text explicitly states that NIV is a 'gamechanger' for COPD, reducing the risk of pneumothorax and VAP, making it the preferred first-line ventilatory support in acute hypercapnic respiratory failure due to COPD exacerbation, provided there are no contraindications.",
+    "highYieldPearl": "Rio's Take: Always interpret ABGs carefully to classify respiratory failure and exacerbation severity. In COPD exacerbations with acute hypercapnic respiratory failure, NIV is the cornerstone of management, often preventing the need for invasive mechanical ventilation and improving outcomes while reducing complications like VAP.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is incorrect. The ABG criteria (pH < 7.35, PaCO₂ > 45 mmHg) classify this as a 'Severe' exacerbation, not moderate. While antibiotics are often given in severe exacerbations with purulent sputum, the severity classification is incorrect.",
+      "B": "This is incorrect. The elevated PaCO₂ (65 mmHg) indicates Type 2 (hypercapnic) respiratory failure, not Type 1 (hypoxemic only). High-flow oxygen in an unmonitored setting for Type 2 RF can suppress respiratory drive and worsen hypercapnia.",
+      "C": "This is the most accurate statement. The ABG aligns with a severe exacerbation and Type 2 respiratory failure. The text highlights NIV as a 'gamechanger' for COPD, making it the appropriate first-line ventilatory support in this scenario.",
+      "D": "While the patient has hypercapnic respiratory failure, immediate conventional mechanical ventilation is generally reserved for NIV failure or patients with contraindications to NIV. The provided text emphasizes NIV as a 'gamechanger' in COPD, indicating it should be attempted first before proceeding to invasive ventilation."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988488,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_59e0ab56",
+    "question": "A 70-year-old male with a history of severe COPD presents to the emergency department with increasing dyspnea, cough, and sputum production for the past 3 days. On examination, he is tachypneic (RR 30/min), accessory muscle use, and has diminished breath sounds with diffuse wheezes. Arterial Blood Gas (ABG) shows pH 7.28, PaCO₂ 65 mmHg, PaO₂ 55 mmHg, HCO₃⁻ 32 mEq/L on room air. His oxygen saturation is 88%. Based on the current presentation and provided context, what is the most appropriate initial ventilatory management for this patient?",
+    "options": {
+      "A": "Initiation of Non-Invasive Ventilation (NIV)",
+      "B": "Immediate endotracheal intubation and mechanical ventilation",
+      "C": "High-flow nasal cannula (HFNC) with 100% oxygen",
+      "D": "Aggressive nebulization with short-acting beta-agonists and systemic corticosteroids every hour"
+    },
+    "correctAnswer": "A",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "This patient presents with a severe acute exacerbation of COPD (AECOPD) complicated by Type 2 respiratory failure (pH < 7.35, PaCO₂ > 45 mmHg). The context highlights NIV as a 'gamechanger' for COPD, reducing the risk of pneumothorax and ventilator-associated pneumonia (VAP). For severe AECOPD with acute respiratory failure, NIV is the recommended first-line ventilatory support, provided the patient is conscious, cooperative, and hemodynamically stable, which is implied by the vignette not mentioning contraindications. NIV helps to reduce work of breathing, improve gas exchange, and decrease the need for invasive mechanical ventilation.",
+    "highYieldPearl": "Rio's Take: Non-Invasive Ventilation (NIV) is the cornerstone initial ventilatory support for severe COPD exacerbations with acute Type 2 respiratory failure, significantly improving patient outcomes and reducing complications compared to invasive ventilation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct initial management. NIV is strongly recommended for severe COPD exacerbations with Type 2 respiratory failure, as per guidelines and the provided context.",
+      "B": "Immediate endotracheal intubation is generally reserved for patients who fail NIV, have severe contraindications to NIV (e.g., altered mental status, aspiration risk, hemodynamic instability), or present with life-threatening complications. It is not the *most appropriate initial* step if NIV is an option.",
+      "C": "While oxygen is needed, HFNC provides only oxygen support and modest positive airway pressure, which is usually insufficient to correct hypercapnia and reduce the work of breathing in severe Type 2 respiratory failure. Moreover, high concentrations of oxygen in COPD can suppress hypoxic drive and worsen hypercapnia.",
+      "D": "Aggressive bronchodilator therapy and corticosteroids are crucial components of medical management for AECOPD. However, they address the underlying bronchospasm and inflammation, not the immediate ventilatory failure. Ventilatory support is required to offload respiratory muscles and improve CO2 clearance, making this an adjunctive therapy, not the primary ventilatory management."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_b5619e93",
+    "question": "A 65-year-old patient with long-standing COPD is admitted to the ICU due to an acute exacerbation requiring mechanical ventilation. During assessment, the respiratory therapist notes that the patient struggles to trigger breaths despite appropriate sensitivity settings, and there is persistent positive pressure in the alveoli at the end of exhalation, even when the ventilator is set to zero PEEP. Which of the following is a direct clinical consequence of the physiological phenomenon observed in this patient?",
+    "options": {
+      "A": "Decreased work of breathing",
+      "B": "Improved venous return to the heart",
+      "C": "Increased risk of barotrauma",
+      "D": "Reduced functional residual capacity (FRC)"
+    },
+    "correctAnswer": "C",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The vignette describes the presence of AutoPEEP (intrinsic PEEP), which is common in COPD patients due to dynamic hyperinflation caused by increased airway resistance and early airway closure during expiration. The provided context explicitly lists the 'Disadvantages of AutoPEEP' as: 1. Increased Work of Breathing (WOB), 2. Barotrauma, and 3. Decreased venous return leading to decreased cardiac output. Therefore, an increased risk of barotrauma is a direct clinical consequence.",
+    "highYieldPearl": "Rio's Take: AutoPEEP, a hallmark of severe obstructive lung disease, significantly increases the work of breathing and predisposes to barotrauma and reduced cardiac output due to impaired venous return.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "The context clearly states that AutoPEEP leads to '↑ TWOB' (increased total work of breathing) as the patient needs to generate more effort to overcome the positive end-expiratory pressure before inspiratory flow can begin. Thus, decreased work of breathing is incorrect.",
+      "B": "The context lists '↓ venous return → ↓ Cardiac output' as a disadvantage of AutoPEEP due to increased intrathoracic pressure. Therefore, improved venous return is incorrect.",
+      "C": "The context explicitly lists 'Barotrauma' as a disadvantage of AutoPEEP, arising from the elevated intra-alveolar pressures. This is the correct answer.",
+      "D": "In COPD, due to air trapping and dynamic hyperinflation, the functional residual capacity (FRC) and residual volume (RV) are *increased*, not reduced, as the lung cannot fully empty during expiration. AutoPEEP is a manifestation of this increased lung volume. Therefore, reduced FRC is incorrect."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_cc85ad99",
+    "question": "A 50-year-old male is admitted to the ICU with severe pneumonia leading to Acute Respiratory Distress Syndrome (ARDS). His PaO₂/FiO₂ ratio is consistently between 120-140 despite optimal lung-protective ventilation (pressure and volume limited ventilation, high PEEP strategy) and neuromuscular blockade. Based on the provided 'Therapies Under Investigation' and current guidelines for ARDS, which of the following interventions should be considered next for this patient?",
+    "options": {
+      "A": "Initiation of High-Frequency Oscillatory Ventilation (HFOV)",
+      "B": "Administration of inhaled pulmonary vasodilators",
+      "C": "Application of prone positioning",
+      "D": "Consideration for VV-ECMO"
+    },
+    "correctAnswer": "C",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "This patient has severe ARDS (PaO₂/FiO₂ 120-140) and is already receiving lung-protective ventilation and neuromuscular blockade. According to the 'Therapies Under Investigation' graph, for patients with ARDS in this severity range (PaO₂/FiO₂ around 100-150): \n- Prone Positioning is marked 'Green: Recommended'.\n- High-Frequency Oscillatory Ventilation (HFOV) is marked 'Red: Not recommended'.\n- Inhaled Pulmonary Vasodilators have 'No Recommendation More Research Needed' (white bar/dotted line).\n- VV-ECMO is indicated for extremely severe refractory ARDS (typically PaO₂/FiO₂ < 100), and is the highest intensity treatment. While the patient is severe, prone positioning is a recommended intervention often implemented before escalation to ECMO for refractory hypoxemia within this PaO₂/FiO₂ range.",
+    "highYieldPearl": "Rio's Take: For patients with moderate-to-severe ARDS (PaO₂/FiO₂ < 150) refractory to lung-protective ventilation, prone positioning is a strongly recommended intervention that improves oxygenation and outcomes, typically preceding advanced rescue therapies like VV-ECMO.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "The 'Therapies Under Investigation' graph explicitly marks High-Frequency Oscillatory Ventilation (HFOV) as 'Red: Not recommended', indicating a strong recommendation against its use in ARDS due to lack of benefit or potential harm in recent trials.",
+      "B": "The graph indicates 'No Recommendation More Research Needed' for Inhaled Pulmonary Vasodilators. While they might be used in select cases, they are not a broadly recommended next-line therapy for severe ARDS as per current guidelines and the provided context.",
+      "C": "The graph marks Prone Positioning as 'Green: Recommended' for ARDS patients, including those with PaO₂/FiO₂ in the 100-150 range. It is a well-established intervention for severe ARDS to improve ventilation-perfusion matching and reduce lung injury. This is the correct choice.",
+      "D": "VV-ECMO is a life-saving intervention for refractory ARDS, but it is the highest intensity therapy and generally considered when PaO₂/FiO₂ is persistently below 80-100 despite other optimized strategies, including prone positioning. The patient's PaO₂/FiO₂ of 120-140, while severe, suggests there's still a step (prone positioning) before escalating to ECMO."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_8b7a3858",
+    "question": "A 45-year-old male develops acute respiratory distress syndrome (ARDS) following severe sepsis. Despite optimization of lung-protective ventilation strategy (tidal volume 6 mL/kg PBW, PEEP 12 cmH2O), his PaO2/FiO2 ratio remains persistently at 110. Which of the following interventions is most strongly recommended at this stage to improve oxygenation?",
+    "options": {
+      "A": "Initiation of high-frequency oscillatory ventilation (HFOV).",
+      "B": "Administration of inhaled nitric oxide.",
+      "C": "Prone positioning for at least 12-16 hours daily.",
+      "D": "Commencement of continuous neuromuscular blockade."
+    },
+    "correctAnswer": "C",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The provided context, specifically the 'Therapies under investigation' graph and its legend, clearly identifies 'Prone Positioning' with a 'Green bar: Strong Recommendation For' in the context of acute respiratory failure (implied ARDS given the PaO2/FiO2 values). HFOV is marked with a 'Red bar: Strong Recommendation Against.' Inhaled pulmonary vasodilators (like nitric oxide, a type of inhaled pulmonary vasodilator) are shown with 'No recommendation more research needed.' While neuromuscular blockade (NMBA) can be considered, the context indicates that 'new evidence... warrant update,' implying a less definitive or conditional recommendation compared to prone positioning which has a strong 'Recommended' status for severe ARDS (PaO2/FiO2 < 150).",
+    "highYieldPearl": "Rio's Take: In severe ARDS, after initiating lung-protective ventilation, prone positioning is the most impactful and strongly recommended intervention to improve oxygenation and reduce mortality.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Trap - HFOV was historically used, but current evidence (as indicated by the 'Red: Not recommended' bar in the context) strongly advises against its routine use in ARDS.",
+      "B": "Trap - Inhaled pulmonary vasodilators like nitric oxide can transiently improve oxygenation but have not consistently shown a mortality benefit and are not routinely recommended, as indicated by 'No recommendation more research needed' in the context for these agents.",
+      "C": "Correct - This is explicitly marked as 'Green: Recommended' in the provided chart for ARDS management, especially for severe ARDS.",
+      "D": "Trap - NMBA can be considered for severe ARDS to facilitate lung-protective ventilation and reduce ventilator-patient asynchrony. However, the context notes that 'new evidence from Rose Trial NEJM 2019 and SR/MA AlHazzani ICM 2020 warrant update,' implying a less definitive or conditional recommendation compared to prone positioning which has a strong 'Recommended' status."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_46d2c762",
+    "question": "A 68-year-old male with a history of severe COPD is admitted to the ICU with an acute exacerbation requiring invasive mechanical ventilation. His ABG on admission showed pH 7.26, PaCO2 72 mmHg, PaO2 60 mmHg. Despite appropriate bronchodilator therapy and steroids, he exhibits persistent high inspiratory pressures and inadequate expiratory flow, with the expiratory flow waveform on the ventilator graphics not returning to zero before the next inspiration. This physiological phenomenon directly leads to increased work of breathing by the patient, as described in the provided context. Which of the following best describes this phenomenon?",
+    "options": {
+      "A": "Increased intrinsic positive end-expiratory pressure (auto-PEEP).",
+      "B": "Reduced pulmonary compliance due to alveolar edema.",
+      "C": "Dynamic alveolar collapse during expiration.",
+      "D": "Increased diaphragmatic fatigue from hyperventilation."
+    },
+    "correctAnswer": "A",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The vignette describes a patient with severe COPD exacerbation (Type 2 RF) on mechanical ventilation, presenting with inadequate expiratory flow not returning to zero and high inspiratory pressures. The context on 'Airway Mechanics in COPD' explicitly states that in COPD, due to increased elastases, airways close early during expiration leading to air trapping, dynamic hyperinflation, and subsequently, increased positive intra-alveolar pressure, which is 'Auto PEEP'. The text further details 'Disadvantages of AutoPEEP' including increased work of breathing ('↑ TWOB') because more effort is required to overcome this intrinsic PEEP. The expiratory flow waveform not returning to zero is a classic sign of auto-PEEP.",
+    "highYieldPearl": "Rio's Take: In COPD, auto-PEEP arises from dynamic hyperinflation due to early airway closure and insufficient expiratory time. It's a critical contributor to increased work of breathing and adverse hemodynamic effects.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct - The vignette directly describes the classical ventilator graphic findings (expiratory flow not returning to zero) and the physiological consequence (increased WOB) associated with auto-PEEP, which is a hallmark of dynamic hyperinflation in COPD as detailed in the context.",
+      "B": "Trap - While alveolar edema can reduce compliance, this is more characteristic of conditions like ARDS or cardiogenic pulmonary edema. The vignette points specifically to airflow obstruction and incomplete expiration, which are not primarily compliance issues, but rather resistance/air trapping issues.",
+      "C": "Trap - In COPD, the issue is often *air trapping* and hyperinflation due to early airway closure preventing full exhalation, rather than dynamic alveolar collapse.",
+      "D": "Trap - While diaphragmatic fatigue is a consequence of increased WOB and hyperinflation, auto-PEEP is the *direct physiological phenomenon* (as requested by the question) that *causes* the increased WOB described, rather than a symptom or an independent cause of increased WOB in this specific context."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_f3411b16",
+    "question": "A 72-year-old male with a known history of severe COPD presents to the emergency department with acute worsening of dyspnea, increased sputum production, and altered sensorium (drowsy but arousable to verbal commands). His arterial blood gas (ABG) analysis on arrival shows pH 7.28, PaCO2 70 mmHg, PaO2 50 mmHg on 4L/min oxygen. Physical examination reveals accessory muscle use and paradoxical abdominal breathing. Based on the provided context, what is the most appropriate initial respiratory management strategy?",
+    "options": {
+      "A": "Administer a high-flow nasal cannula (HFNC) with aggressive bronchodilator therapy.",
+      "B": "Prepare for immediate endotracheal intubation and invasive mechanical ventilation.",
+      "C": "Initiate non-invasive ventilation (NIV) with concomitant bronchodilators and systemic corticosteroids.",
+      "D": "Commence continuous positive airway pressure (CPAP) via a face mask."
+    },
+    "correctAnswer": "C",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The patient presents with a severe COPD exacerbation, indicated by acute worsening of symptoms, altered sensorium (drowsiness), and severe Type 2 respiratory failure (pH < 7.35, PaCO2 > 45 mmHg). The context explicitly mentions that 'Severe (patient requires hospitalization or with resp failure. * ABG PaCO2 > 45mmHg (Type II resp failure) * PH < 7.35)' and highlights NIV as a 'gamechanger' for COPD, reducing risks like pneumothorax and VAP. For hypercapnic respiratory failure in COPD exacerbation, NIV is the preferred initial strategy if the patient is not profoundly comatose or hemodynamically unstable, or has other absolute contraindications. The patient is drowsy but arousable, suggesting he can cooperate with NIV, making it the most appropriate initial intervention.",
+    "highYieldPearl": "Rio's Take: NIV is the cornerstone initial treatment for severe COPD exacerbations presenting with acute hypercapnic respiratory failure, significantly improving outcomes and preventing intubation in appropriate patients.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Trap - While bronchodilators are essential, HFNC primarily provides oxygen and some PEEP, but is generally insufficient to correct severe hypercapnia and reduce the work of breathing in acute Type 2 respiratory failure, especially with altered mental status.",
+      "B": "Trap - Although the patient has severe respiratory failure and altered mental status, NIV is the first-line treatment for acute hypercapnic respiratory failure in COPD exacerbations unless there are absolute contraindications (e.g., severe hemodynamic instability, cardiac arrest, uncooperative patient, inability to protect airway with profound coma), which are not fully met here. The context explicitly favors NIV.",
+      "C": "Correct - This aligns perfectly with the provided context ('NIV * ↓ RISK of Pneumothorax ↓ VAP') and standard guidelines for severe COPD exacerbation with acute hypercapnic respiratory failure (pH < 7.35, PaCO2 > 45 mmHg) in a drowsy but arousable patient.",
+      "D": "Trap - CPAP provides positive pressure throughout the respiratory cycle, which can help with oxygenation and maintain airway patency, but it does not provide ventilatory support (pressure support for inspiration) to assist in CO2 removal, which is critical for hypercapnic respiratory failure (Type 2 RF). BiPAP (a form of NIV) would be preferred over CPAP in this scenario."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_d751d35f",
+    "question": "A 68-year-old male with a history of severe COPD presents to the ED with acute-on-chronic dyspnea, increased sputum production, and worsening cough. ABG shows pH 7.28, PaCO₂ 65 mmHg, PaO₂ 55 mmHg on room air. He is tachypneic (RR 32/min) and accessory muscle use is evident. His chest X-ray shows hyperinflation. The intensivist initiates non-invasive ventilation (NIV). Which of the following statements regarding the patient's condition and initial management is MOST accurate?",
+    "options": {
+      "A": "The increased work of breathing in this patient is primarily due to dynamic hyperinflation and auto-PEEP, requiring a greater pressure gradient to initiate inspiratory flow.",
+      "B": "Early closure of small airways during expiration is a direct consequence of increased residual volume and functional residual capacity.",
+      "C": "High-frequency oscillatory ventilation (HFOV) would be a recommended strategy if NIV fails to correct the hypercapnia and hypoxemia.",
+      "D": "Administering a strong neuromuscular blockade would be indicated if the patient develops refractory hypoxemia despite maximal bronchodilator therapy."
+    },
+    "correctAnswer": "A",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The patient presents with an acute exacerbation of COPD leading to Type II respiratory failure (pH 7.28, PaCO₂ 65 mmHg). In COPD, chronic airway inflammation and loss of elastic recoil lead to early airway closure and air trapping, resulting in dynamic hyperinflation and auto-PEEP. As explained in the provided text, 'More WOB to overcome AutoPEEP → ↑ TWOB' due to the need to generate a higher negative intrapleural pressure to overcome the intrinsic positive alveolar pressure before inspiratory flow can begin (e.g., 4 cmH₂O instead of 2 cmH₂O in normal individuals). Therefore, option A accurately describes a key physiological consequence of auto-PEEP in this patient.",
+    "highYieldPearl": "Rio's Take: Dynamic hyperinflation and auto-PEEP significantly increase the work of breathing in obstructive lung diseases by demanding a greater inspiratory effort to overcome the intrinsic positive end-expiratory pressure before airflow can be initiated. Recognizing this mechanism is crucial for ventilatory management.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This option correctly describes the mechanism by which auto-PEEP increases the work of breathing, directly referenced in the provided text.",
+      "B": "This statement reverses cause and effect. The text indicates that early airway closure leads to air trapping, which in turn causes increased residual volume (RV), functional residual capacity (FRC), and total lung capacity (TLC). Increased volumes are a *consequence* of early airway closure, not a *cause* that contributes to it.",
+      "C": "The provided 'Therapies Under Investigation' graph explicitly lists 'High Frequency Oscillatory Ventilation (Red: Not recommended)'. This is a strong recommendation against HFOV in acute respiratory failure scenarios, regardless of the underlying cause (Type I or Type II).",
+      "D": "Neuromuscular blockade (NMBA) is primarily considered for severe ARDS (Type I respiratory failure) with refractory hypoxemia (low PaO₂/FiO₂ ratios) to reduce oxygen consumption, improve patient-ventilator synchrony, and minimize ventilator-induced lung injury. The provided graph lists NMBA for lower PaO₂/FiO₂ values, implying Type I ARF. It is not a standard first-line intervention for refractory hypoxemia in COPD exacerbation, which primarily presents as Type II RF, and is typically addressed by optimizing ventilation, bronchodilators, and corticosteroids, followed by intubation if NIV fails. The note on NMBA in the text ('warrant update') further suggests its role is nuanced and not universally indicated."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_5aef184a",
+    "question": "A 45-year-old patient is admitted to the ICU with severe community-acquired pneumonia, rapidly progressing to ARDS. Current ventilator settings show a PaO₂/FiO₂ ratio of 90, despite high PEEP and appropriate tidal volumes. The patient is already receiving pressure and volume-limited ventilation. The intensivist is considering additional strategies to improve oxygenation and outcomes. Based on the provided 'Therapies Under Investigation' graph and recommendations, which of the following therapies would be CONTRAINDICATED or NOT RECOMMENDED for this patient?",
+    "options": {
+      "A": "Prone positioning",
+      "B": "High-frequency oscillatory ventilation (HFOV)",
+      "C": "Inhaled pulmonary vasodilators",
+      "D": "VV-ECMO"
+    },
+    "correctAnswer": "B",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The patient has severe ARDS (PaO₂/FiO₂ ratio of 90 is well below 100). The 'Therapies Under Investigation' graph provides explicit recommendations for various treatments in acute respiratory failure. High-frequency oscillatory ventilation (HFOV) is clearly marked with a 'Red bar: Strong Recommendation Against' and 'Not recommended'. This makes it the definitively contraindicated or not recommended therapy among the options.",
+    "highYieldPearl": "Rio's Take: For INI-SS, pay close attention to graphical information and legends. A 'Red bar: Strong Recommendation Against' is a definitive exclusion, while 'Dotted line: No Recommendation' or 'White bar: No Recommendation More Research Needed' indicates uncertainty or lack of clear benefit, but not necessarily harm or contraindication.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Prone positioning is marked with a 'Green bar: Recommended' in the graph. It is a well-established therapy for severe ARDS to improve oxygenation and reduce mortality.",
+      "B": "HFOV is explicitly listed as 'Red: Not recommended' in the graph, indicating a strong recommendation against its use in acute respiratory failure. This is the correct answer.",
+      "C": "Inhaled pulmonary vasodilators are listed with a 'Dotted line: No Recommendation' in the graph. While not recommended, this differs from a 'Strong Recommendation Against' (Red bar). 'No recommendation' means insufficient evidence for routine use, not necessarily harmful or contraindicated.",
+      "D": "VV-ECMO is positioned as a high-intensity treatment for very low PaO₂/FiO₂ ratios, suitable for severe ARDS refractory to conventional ventilation. Although it has a 'White bar: No Recommendation More Research Needed' for ECCO₂R (a related but distinct therapy), VV-ECMO itself is considered a rescue therapy and is not contraindicated in this context. The graph lists VV-ECMO as an 'Increasing Intensity of Treatment' relevant to severe ARF."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_c23ecfdd",
+    "question": "A 72-year-old male with long-standing emphysema is admitted with pneumonia. He develops acute respiratory failure requiring mechanical ventilation. Initial settings are volume-controlled, TV 6 mL/kg PBW, PEEP 5 cmH₂O, RR 20/min. End-expiratory flow does not return to baseline before the next breath, and plateau pressure is 32 cmH₂O. ABG on these settings shows pH 7.25, PaCO₂ 68 mmHg, PaO₂ 80 mmHg (FiO₂ 0.5). Considering the provided information, which of the following statements is LEAST accurate?",
+    "options": {
+      "A": "The patient is exhibiting signs of dynamic hyperinflation and intrinsic positive end-expiratory pressure (auto-PEEP).",
+      "B": "The increased total lung capacity (TLC) and functional residual capacity (FRC) in his chronic condition contribute to early airway closure during expiration.",
+      "C": "This patient primarily presents with Type II respiratory failure, complicated by a moderate hypoxemic component and risk of ventilator-induced lung injury (VILI).",
+      "D": "To mitigate auto-PEEP and its associated work of breathing, decreasing the inspiratory time and increasing the expiratory time would be a beneficial ventilatory adjustment."
+    },
+    "correctAnswer": "B",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The patient's clinical presentation and ABG indicate acute-on-chronic Type II respiratory failure. The problem asks for the LEAST accurate statement. \n\nOption A is accurate: 'End-expiratory flow does not return to baseline' is a hallmark of air trapping, leading to dynamic hyperinflation and auto-PEEP. The elevated plateau pressure (32 cmH₂O) in an emphysematous patient on low PEEP further suggests the presence of significant auto-PEEP.\n\nOption C is accurate: pH 7.25 and PaCO₂ 68 mmHg unequivocally indicate Type II (hypercapnic) respiratory failure. The PaO₂ 80 mmHg on FiO₂ 0.5 results in a PaO₂/FiO₂ ratio of 160, indicating a moderate hypoxemic component (Type I failure) likely from the pneumonia/ARDS. A plateau pressure of 32 cmH₂O, while not extremely high, approaches the upper safety limits for preventing VILI, especially in a patient with pre-existing lung damage.\n\nOption D is accurate: In obstructive lung diseases, increasing expiratory time (often by decreasing inspiratory time or respiratory rate) is a common strategy to allow more time for exhalation, reduce air trapping, and thereby decrease dynamic hyperinflation and auto-PEEP, which in turn reduces the work of breathing.\n\nOption B is the LEAST accurate statement: The text states that in COPD, 'Airways close early during expiration' which leads to 'Airtrapping in alveoli' and subsequently '↑ RV, ↑ FRC, ↑ TLC'. Therefore, increased TLC and FRC are *consequences* of early airway closure and air trapping, not factors that *contribute* to the early airway closure itself. Early airway closure is primarily due to the loss of elastic recoil, increased elastases, and inflammatory changes affecting the small airways.",
+    "highYieldPearl": "Rio's Take: Understanding the correct sequence of pathophysiological events is crucial. In COPD, airway damage (elastases, inflammation) leads to early airway closure, which causes air trapping. This air trapping then manifests as increased RV, FRC, and TLC. The increased volumes are not the cause of early closure.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Correctly identifies signs of dynamic hyperinflation and auto-PEEP, which are critical in COPD exacerbation.",
+      "B": "This statement reverses the causality. Increased TLC/FRC are *results* of air trapping caused by early airway closure, not contributors to the early closure itself. This is the LEAST accurate statement.",
+      "C": "Accurately describes the mixed respiratory failure (Type II primary, Type I secondary) and the potential for VILI given the plateau pressure.",
+      "D": "Describes a standard and beneficial ventilator adjustment for auto-PEEP in obstructive lung disease, aiming to increase expiratory time to allow for more complete exhalation."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_275550eb",
+    "question": "A 68-year-old male with a long history of COPD presents to the emergency department with acute worsening of dyspnea, cough, and increased sputum production. On examination, he is tachypneic (RR 32/min), using accessory muscles of respiration, and has diffuse wheezes. His arterial blood gas shows pH 7.28, PaCO2 70 mmHg, PaO2 55 mmHg on room air. Despite receiving inhaled bronchodilators, his work of breathing remains significantly high. What is the primary physiological mechanism contributing to the markedly increased work of breathing in this patient?",
+    "options": {
+      "A": "The inspiratory effort required to overcome dynamic hyperinflation and intrinsic PEEP.",
+      "B": "Severe hypoxemia leading to increased ventilatory drive.",
+      "C": "Increased dead space ventilation due to emphysematous changes.",
+      "D": "Impaired diaphragmatic function due to chronic hyperinflation."
+    },
+    "correctAnswer": "A",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The patient is in acute exacerbation of COPD with Type 2 respiratory failure (high PaCO2, low pH). The provided text explicitly details how in COPD, increased airway resistance and early airway closure during expiration lead to air trapping, dynamic hyperinflation, and increased positive intra-alveolar pressure, known as AutoPEEP. This AutoPEEP significantly increases the 'Total Work of Breathing' (TWOB) because the patient must generate a greater inspiratory pressure drop to overcome this positive end-expiratory pressure before inspiratory airflow can even begin. The text illustrates this by showing that a normal inspiration might require 2 cm H2O effort, whereas with 2 cm H2O AutoPEEP, 4 cm H2O effort is needed. This mechanical load is a primary driver of increased WOB.",
+    "highYieldPearl": "Rio's Take: AutoPEEP is a critical mechanical load in COPD exacerbations, directly increasing the work of breathing by requiring greater inspiratory effort to overcome the positive intra-alveolar pressure before airflow can commence. Understanding this mechanism is vital for both diagnosis and therapeutic interventions, including ventilator settings.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. This directly aligns with the provided information on AutoPEEP and its impact on the work of breathing in COPD, which explicitly states that overcoming AutoPEEP increases TWOB.",
+      "B": "Severe hypoxemia certainly increases ventilatory drive, but it is not the primary *mechanical* reason for the *increased work of breathing* due to obstructed airways and air trapping. The question asks for the primary physiological mechanism contributing to the *markedly increased work of breathing*, which is the mechanical effort.",
+      "C": "Increased dead space ventilation is a characteristic feature of COPD and contributes to hypercapnia, but it does not directly explain the *mechanical effort* the patient needs to exert to initiate inspiratory flow against positive end-expiratory pressure.",
+      "D": "Impaired diaphragmatic function can be a long-term consequence of chronic hyperinflation in COPD. However, in an acute exacerbation with dynamic hyperinflation and AutoPEEP, the primary acute increase in WOB stems from the need to overcome the positive intra-alveolar pressure, as detailed in the provided text."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_70580fac",
+    "question": "A 45-year-old male is admitted to the ICU with severe pneumonia, rapidly progressing to ARDS. Despite initial management with low tidal volume ventilation and PEEP, his condition deteriorates. Current arterial blood gas shows PaO2 60 mmHg on FiO2 0.8, resulting in a PaO2/FiO2 ratio of 75. All other supportive measures have been optimized. Based on the provided 'Therapies Under Investigation' graph for Acute Respiratory Failure, which of the following interventions is most strongly recommended at this stage for this patient?",
+    "options": {
+      "A": "Prone Positioning",
+      "B": "High Frequency Oscillatory Ventilation (HFOV)",
+      "C": "Extracorporeal CO2 Removal (ECCO2R)",
+      "D": "High PEEP Strategy"
+    },
+    "correctAnswer": "A",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The patient has severe ARDS, indicated by a PaO2/FiO2 ratio of 75 (which is <100). Consulting the 'Therapies Under Investigation' graph, for Acute Respiratory Failure with a low PaO2/FiO2 ratio (in the 100 range), 'Prone Positioning' is clearly marked with a 'Green bar: Recommended'. This indicates a strong recommendation based on the synthesis of guidelines referenced in the graph. The graph is designed to show recommendations based on the intensity of treatment and severity of ARDS (PaO2/FiO2).",
+    "highYieldPearl": "Rio's Take: For severe ARDS with refractory hypoxemia (PaO2/FiO2 < 150, especially < 100), prone positioning is a strongly recommended intervention. It has consistently shown benefits in improving oxygenation and reducing mortality in this patient population, as highlighted by 'Green: Recommended' status in current guidelines.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. The graph explicitly shows 'Prone Positioning (Green: Recommended)' for severe ARDS (low PaO2/FiO2 ratio), making it the most appropriate choice based on the provided information.",
+      "B": "HFOV is explicitly marked with a 'Red bar: Not recommended' in the provided graph, indicating it is not a recommended therapy for ARDS.",
+      "C": "ECCO2R is marked with 'Blue: More studies needed' or 'White bar: No Recommendation More Research Needed' in the legend. This means it lacks strong evidence for routine recommendation in the context of the provided graph, unlike prone positioning.",
+      "D": "While PEEP optimization is a part of ARDS management, the graph does not assign a 'Green: Recommended' bar specifically to 'High PEEP Strategy' for severe ARDS that would be comparable to the strong recommendation for prone positioning. The graph depicts it lower on the intensity scale, and its associated recommendation bar (if considered for this severity) would fall under 'No Recommendation' or 'More Research Needed' based on the graph's legend for the depicted therapies compared to the clear green for prone."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_00490fdc",
+    "question": "A 72-year-old male with a known history of severe COPD presents with acute exacerbation. He is drowsy but arousable, tachypneic (RR 30/min), and his ABG on admission shows pH 7.22, PaCO2 80 mmHg, PaO2 50 mmHg on 4L nasal cannula, and HCO3 30 mEq/L. What is the most appropriate initial ventilatory management strategy for this patient?",
+    "options": {
+      "A": "Endotracheal intubation and invasive mechanical ventilation.",
+      "B": "High-flow nasal cannula (HFNC) with oxygen supplementation.",
+      "C": "Non-invasive positive pressure ventilation (NIV).",
+      "D": "Aggressive nebulization with bronchodilators and systemic corticosteroids only."
+    },
+    "correctAnswer": "C",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The patient is experiencing a severe COPD exacerbation with acute on chronic Type 2 respiratory failure. The ABG criteria (pH 7.22 < 7.35 and PaCO2 80 mmHg > 45 mmHg) align with the definition of severe exacerbation requiring hospitalization and presenting with respiratory failure, as per the provided text. The text specifically highlights NIV as a 'COPD gamechanger', noting its benefits in reducing the risk of pneumothorax and VAP. Given the patient's arousable state, NIV is the first-line ventilatory support strategy for acute hypercapnic respiratory failure in COPD exacerbations.",
+    "highYieldPearl": "Rio's Take: Non-invasive ventilation (NIV) is the cornerstone of ventilatory support for acute exacerbations of COPD with Type 2 respiratory failure, provided the patient is cooperative and lacks contraindications (e.g., profound altered mental status, aspiration risk, hemodynamic instability). It is preferred over invasive ventilation due to improved outcomes and reduced complications.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Endotracheal intubation and invasive mechanical ventilation are typically considered if NIV fails or if the patient has absolute contraindications to NIV or indications for immediate intubation (e.g., severe altered mental status, hemodynamic instability, uncontrolled secretions). Given the patient is drowsy but arousable, NIV should be the initial approach.",
+      "B": "High-flow nasal cannula provides oxygen and some positive airway pressure, but it is generally insufficient to effectively offload the respiratory muscles and improve CO2 clearance in severe hypercapnic respiratory failure as seen in this patient. NIV is superior for this purpose.",
+      "C": "Correct. The provided text emphasizes NIV as a 'gamechanger' in COPD exacerbations, especially for patients with respiratory failure (PaCO2 > 45mmHg, pH < 7.35). It is the recommended first-line ventilatory support for this clinical scenario.",
+      "D": "While aggressive nebulization with bronchodilators and systemic corticosteroids are essential medical therapies for COPD exacerbations, they are not sufficient as the *initial ventilatory management strategy* for a patient presenting with established acute Type 2 respiratory failure. Ventilatory support is immediately required to improve gas exchange and reduce work of breathing."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_3da0184e",
+    "question": "A 68-year-old male with a long history of COPD presents to the emergency department with acute worsening of dyspnea, increased cough, and purulent sputum. He is tachypneic (RR 32/min), using accessory muscles, and drowsy. His SpO2 is 88% on room air. ABG on room air reveals pH 7.28, PaCO2 70 mmHg, PaO2 55 mmHg, HCO3- 32 mEq/L. Physical examination shows diminished breath sounds with prolonged expiration and distant wheezes. Chest X-ray shows hyperinflated lungs. He is immediately placed on oxygen via a venturi mask at 40%. Despite this, his respiratory effort remains high.\n\nWhich of the following interventions, in addition to bronchodilators and systemic corticosteroids, is most crucial in managing this patient's acute respiratory failure and addressing the underlying ventilatory mechanics?",
+    "options": {
+      "A": "Initiating non-invasive positive pressure ventilation (NIPPV).",
+      "B": "Administering an immediate intravenous bolus of furosemide to reduce lung congestion.",
+      "C": "Preparing for emergent intubation and mechanical ventilation due to drowsiness.",
+      "D": "Administering high-dose sedatives to reduce work of breathing."
+    },
+    "correctAnswer": "A",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "This patient presents with a severe acute exacerbation of COPD (AECOPD) characterized by Type II respiratory failure (pH < 7.35, PaCO2 > 45 mmHg) and signs of impending respiratory muscle fatigue (tachypnea, accessory muscle use, drowsiness indicating hypercapnic encephalopathy). The underlying ventilatory mechanics in COPD exacerbation involve increased airway resistance, dynamic hyperinflation, and auto-PEEP, which significantly increase the work of breathing. The provided text highlights NIV as a 'gamechanger' in COPD, reducing the risk of pneumothorax and VAP. NIV helps to overcome auto-PEEP, reduce the work of breathing, improve alveolar ventilation, and prevent the need for invasive mechanical ventilation, which carries higher risks. Its early application is crucial in such scenarios.",
+    "highYieldPearl": "Rio's Take: In severe COPD exacerbations with hypercapnic respiratory failure, especially those with acidosis (pH < 7.35), NIV is often the first-line intervention to improve ventilation, reduce work of breathing, and prevent intubation, aligning with the concept of it being a 'gamechanger'.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Correct option. NIV is strongly indicated for severe AECOPD with hypercapnic respiratory failure and acidosis, as per guidelines and the context provided, being a 'gamechanger' to avert intubation.",
+      "B": "Trap. Furosemide is a diuretic indicated for fluid overload (e.g., heart failure). The vignette does not suggest cardiogenic pulmonary edema. Administering it without indication can lead to volume depletion, worsening the patient's condition.",
+      "C": "Trap. While drowsiness is a concern, NIV is often successful in improving ventilation and mental status, thereby preventing the need for intubation. Intubation carries significant risks in COPD patients. It should be considered if NIV fails or in cases of profound encephalopathy or cardiorespiratory arrest, but it's not the *most crucial initial* step in this scenario.",
+      "D": "Trap. Sedatives can further depress respiratory drive, worsen hypercapnia, and mask neurological deterioration in a patient with Type II respiratory failure. This would be detrimental and is contraindicated."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_e78307cc",
+    "question": "A 45-year-old patient develops severe acute respiratory distress syndrome (ARDS) following severe sepsis. Despite initial optimization with protective lung ventilation (tidal volume 6 mL/kg predicted body weight, PEEP 10 cmH2O) and a PaO2/FiO2 ratio fluctuating between 80-100 for the past 12 hours, the patient continues to experience refractory hypoxemia. The managing team is considering additional advanced interventions.\n\nBased on the provided 'Therapies Under Investigation' data, which of the following interventions is most appropriately considered for this patient at this stage?",
+    "options": {
+      "A": "Initiating high-frequency oscillatory ventilation (HFOV).",
+      "B": "Implementing prone positioning strategy.",
+      "C": "Starting continuous inhaled pulmonary vasodilators.",
+      "D": "Preparing for extracorporeal carbon dioxide removal (ECCO2R)."
+    },
+    "correctAnswer": "B",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The patient exhibits severe ARDS with a PaO2/FiO2 ratio between 80-100, indicating refractory hypoxemia despite initial protective lung ventilation. Consulting the 'Therapies Under Investigation' graph, 'Prone Positioning' is explicitly marked as '(Green: Recommended)'. This aligns with current evidence-based guidelines which strongly recommend prone positioning for severe ARDS to improve oxygenation and reduce mortality. In contrast, 'High Frequency Oscillatory Ventilation (HFOV)' is marked as '(Red: Not recommended)', indicating a strong recommendation against its use in ARDS. 'Inhaled Pulmonary Vasodilators' have a 'White bar' (No Recommendation More Research Needed), and 'ECCO2R' has a 'Blue: More studies needed' notation. Therefore, prone positioning is the most appropriate and strongly recommended intervention among the choices based on the provided data.",
+    "highYieldPearl": "Rio's Take: Always cross-reference text-specific recommendations (e.g., Green: Recommended) with general legend guidelines when interpreting complex therapy graphs. For severe ARDS with refractory hypoxemia, prone positioning is a strongly recommended intervention.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Trap. The graph explicitly states 'High Frequency Oscillatory Ventilation (Red: Not recommended)'. This indicates a strong recommendation against its use, making it an incorrect choice for ARDS management based on the provided data.",
+      "B": "Correct option. The graph explicitly states 'Prone Positioning (Green: Recommended)', indicating a strong recommendation for this intervention in ARDS, particularly in cases of refractory hypoxemia (P/F ratio 80-100).",
+      "C": "Trap. 'Inhaled Pulmonary Vasodilators' are marked with a 'White bar' (No Recommendation More Research Needed). While used in some specific scenarios, they lack strong recommendation in general ARDS management based on this data.",
+      "D": "Trap. 'ECCO2R' is marked as 'Blue: More studies needed'. While an advanced therapy, it is primarily for CO2 removal and its role in improving refractory hypoxemia in ARDS is still under investigation, not strongly recommended over prone positioning according to this data."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_994c0578",
+    "question": "A 55-year-old male with chronic bronchitis is admitted with acute severe dyspnea and wheezing. He is receiving mechanical ventilation due to refractory hypercapnic respiratory failure. Despite bronchodilator therapy, his peak inspiratory pressures are high, and he exhibits signs of auto-PEEP on the ventilator screen. The resident notes his end-expiratory flow does not return to zero. His blood pressure has recently dropped from 120/80 mmHg to 90/60 mmHg, and his urine output has decreased.\n\nWhich of the following physiological consequences of dynamic hyperinflation and auto-PEEP is most directly responsible for the observed cardiovascular compromise in this patient?",
+    "options": {
+      "A": "Increased intrathoracic pressure leading to decreased venous return to the heart.",
+      "B": "Barotrauma leading to tension pneumothorax and subsequent hemodynamic collapse.",
+      "C": "Increased pulmonary vascular resistance due to alveolar overdistension.",
+      "D": "Exacerbated myocardial stunning from systemic inflammatory response."
+    },
+    "correctAnswer": "A",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "This patient is experiencing dynamic hyperinflation and auto-PEEP due to severe airflow limitation, common in chronic bronchitis. The provided text explicitly lists 'Disadvantages of AutoPEEP' including '↓ venous return → ↓ Cardiac output'. Dynamic hyperinflation and auto-PEEP cause an increase in mean intrathoracic pressure. This elevated pressure impedes the pressure gradient for venous blood return from the systemic circulation into the right atrium, thereby reducing cardiac preload. A reduction in preload directly leads to a decrease in stroke volume and subsequently cardiac output, manifesting as hypotension and decreased organ perfusion (e.g., reduced urine output). This is the most direct and common cardiovascular consequence of significant auto-PEEP.",
+    "highYieldPearl": "Rio's Take: Dynamic hyperinflation and auto-PEEP primarily impair cardiovascular function by increasing intrathoracic pressure, which decreases venous return and subsequently cardiac output. This direct mechanical effect should be prioritized over secondary or unconfirmed complications.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Correct option. The provided text directly links auto-PEEP to '↓ venous return → ↓ Cardiac output'. Increased intrathoracic pressure due to auto-PEEP directly impedes venous return, leading to decreased preload and subsequent hypotension.",
+      "B": "Trap. While barotrauma (a disadvantage of auto-PEEP) can lead to pneumothorax and hemodynamic collapse, the vignette does not state that a pneumothorax has occurred. Decreased venous return is a direct consequence of auto-PEEP *itself*, even without a pneumothorax, making it the more direct explanation for the observed compromise.",
+      "C": "Trap. Increased pulmonary vascular resistance can occur with alveolar overdistension, potentially affecting right ventricular afterload and contributing to cardiovascular compromise. However, the most direct and universally recognized impact of increased intrathoracic pressure from auto-PEEP on systemic hemodynamics is decreased venous return and preload.",
+      "D": "Trap. Myocardial stunning is a phenomenon of myocardial dysfunction often seen in sepsis or critical illness, but it is not a *direct physiological consequence of dynamic hyperinflation and auto-PEEP* on cardiovascular function. While plausible in a critically ill patient, it does not answer the question about the specific effects of auto-PEEP."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_07a16f9f",
+    "question": "A 65-year-old male with a known history of COPD presents to the emergency department with acutely worsening shortness of breath and increased cough with purulent sputum for the past 2 days. On examination, he is tachypneic, uses accessory muscles of respiration, and has diffuse wheezes. Arterial Blood Gas (ABG) analysis shows pH 7.28, PaCO2 55 mmHg, PaO2 60 mmHg, HCO3 28 mEq/L on room air. Based on the provided clinical information and ABG, how would this patient's respiratory status be classified according to the provided context?",
+    "options": {
+      "A": "Mild COPD exacerbation with Type 1 respiratory failure.",
+      "B": "Moderate COPD exacerbation with compensated Type 2 respiratory failure.",
+      "C": "Severe COPD exacerbation with acute Type 2 respiratory failure.",
+      "D": "Severe COPD exacerbation with mixed respiratory failure."
+    },
+    "correctAnswer": "C",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The provided text classifies COPD exacerbations as 'Severe' if the patient requires hospitalization or is in respiratory failure, specifically noting '* ABG PaCO2 > 45mmHg (Type II resp failure) * PH < 7.35'. In this patient, the PaCO2 is 55 mmHg (above 45 mmHg) and the pH is 7.28 (below 7.35), clearly indicating acute Type 2 respiratory failure in the context of a severe COPD exacerbation. While hypoxemia (PaO2 60 mmHg) is also present, the defining features for Type 2 respiratory failure are hypercapnia and acidosis.",
+    "highYieldPearl": "Rio's Take: Acute hypercapnic respiratory failure (Type 2 RF) is characterized by PaCO2 > 45 mmHg and pH < 7.35 in the context of an acute event. In COPD exacerbations, this indicates a severe exacerbation requiring prompt management, often including non-invasive or invasive ventilation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. Mild exacerbations do not typically present with such severe ABG abnormalities. Type 1 respiratory failure is primarily hypoxemic without significant hypercapnia.",
+      "B": "Incorrect. Moderate exacerbations would not have these severe ABG derangements. 'Compensated' Type 2 respiratory failure implies a near-normal pH despite elevated PaCO2, which is not the case here (pH 7.28 indicates acute acidosis).",
+      "C": "Correct. The ABG values (PaCO2 > 45 mmHg and pH < 7.35) directly match the criteria for severe exacerbation with Type 2 respiratory failure as defined in the provided text.",
+      "D": "Plausible but less precise. While hypoxemia (Type 1 component) is present alongside hypercapnia (Type 2 component), the primary and most urgent classification in this hypercapnic, acidotic patient is acute Type 2 respiratory failure, indicating ventilatory failure. The classification provided in the context directly points to Type 2 RF for these ABG values."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_da8b9b7a",
+    "question": "A 70-year-old male with severe COPD is intubated and mechanically ventilated due to an acute exacerbation. During a routine ventilator check, the respiratory therapist observes incomplete exhalation and a progressively rising end-expiratory pressure alarm on the ventilator. This phenomenon, known as auto-PEEP, is often seen in such patients. Which of the following is a direct consequence of this physiological phenomenon?",
+    "options": {
+      "A": "Decreased residual volume (RV).",
+      "B": "Reduced work of breathing (WOB).",
+      "C": "Increased venous return to the heart.",
+      "D": "Elevated intrathoracic pressure leading to decreased cardiac output."
+    },
+    "correctAnswer": "D",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The provided text on 'Disadvantages of AutoPEEP' explicitly lists '↓ venous return → ↓ Cardiac output'. This occurs because auto-PEEP, a positive pressure remaining in the alveoli at the end of exhalation, leads to increased mean intrathoracic pressure. This elevated pressure impedes venous blood flow back to the heart, consequently reducing cardiac preload and output.",
+    "highYieldPearl": "Rio's Take: Auto-PEEP in COPD leads to dynamic hyperinflation and is a significant contributor to increased work of breathing and adverse hemodynamic effects due to elevated intrathoracic pressure.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. The text states that in COPD, there is 'Air trapping in alveoli' leading to '↑ RV (Residual Volume)' and '↑ FRC (Functional Residual Capacity)'. Auto-PEEP is a manifestation of this air trapping.",
+      "B": "Incorrect. The text clearly states that auto-PEEP leads to '↑ TWOB (Work of Breathing)' because more effort is required to overcome the positive intra-alveolar pressure.",
+      "C": "Incorrect. The text explicitly states that auto-PEEP leads to '↓ venous return', not increased, due to increased intrathoracic pressure.",
+      "D": "Correct. This directly reflects the disadvantage of auto-PEEP as described in the text: '↓ venous return → ↓ Cardiac output', which is mediated by elevated intrathoracic pressure."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_d9832324",
+    "question": "A 55-year-old patient with severe sepsis develops Acute Respiratory Distress Syndrome (ARDS) requiring mechanical ventilation. Her PaO2/FiO2 ratio is 110. The clinical team is discussing ventilatory strategies and adjunctive therapies to optimize oxygenation and lung protection. Based on the provided guidelines for ARDS management, which of the following ventilation strategies is generally recommended?",
+    "options": {
+      "A": "High Frequency Oscillatory Ventilation (HFOV).",
+      "B": "Maintaining high tidal volumes to improve oxygenation.",
+      "C": "Pressure and Volume Limited Ventilation.",
+      "D": "Continuous use of inhaled pulmonary vasodilators."
+    },
+    "correctAnswer": "C",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The provided 'Therapies Under Investigation' graph clearly indicates 'Pressure and Volume Limited Ventilation' with a green bar, signifying a 'Strong Recommendation For'. This refers to lung-protective ventilation strategies that limit tidal volume and plateau pressure to prevent ventilator-induced lung injury in ARDS.",
+    "highYieldPearl": "Rio's Take: Lung protective ventilation (low tidal volume and plateau pressure limitation) is a cornerstone of ARDS management and is strongly recommended to improve patient outcomes.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. The graph shows 'High Frequency Oscillatory Ventilation' with a red bar, indicating 'Strong Recommendation Against'.",
+      "B": "Incorrect. Pressure and volume-limited ventilation, which is recommended, implicitly means avoiding high tidal volumes. High tidal volumes are known to cause ventilator-induced lung injury in ARDS.",
+      "C": "Correct. The graph explicitly lists 'Pressure and Volume Limited Ventilation' as 'Green: Recommended', indicating a strong recommendation.",
+      "D": "Incorrect. The graph shows 'Inhaled Pulmonary Vasodilators' with a dotted line, indicating 'No Recommendation'. Therefore, continuous or routine use is not generally recommended."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_a44c4998",
+    "question": "A 68-year-old male with a history of COPD presents to the emergency department with acute worsening of dyspnea, increased sputum purulence, and drowsiness. Arterial blood gas analysis on room air reveals pH 7.26, PaCO2 62 mmHg, and PaO2 50 mmHg. His respiratory rate is 30 breaths/min with accessory muscle use. Which of the following therapeutic interventions is most strongly recommended for the immediate management of his respiratory failure?",
+    "options": {
+      "A": "Initiation of non-invasive ventilation (NIV)",
+      "B": "Immediate intubation and invasive mechanical ventilation",
+      "C": "High-frequency oscillatory ventilation (HFOV)",
+      "D": "Administration of systemic corticosteroids alone"
+    },
+    "correctAnswer": "A",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The patient's clinical presentation with a history of COPD, acute worsening of symptoms, drowsiness, and ABG showing acidosis (pH 7.26) with hypercapnia (PaCO2 62 mmHg) and hypoxemia (PaO2 50 mmHg) is characteristic of a severe acute exacerbation of COPD with Type 2 respiratory failure. The provided text highlights NIV as a 'game changer' in COPD, specifically mentioning its benefits in reducing pneumothorax risk and VAP. For severe COPD exacerbations with respiratory failure (PaCO2 > 45mmHg, pH < 7.35), NIV is the first-line and most strongly recommended ventilatory support.",
+    "highYieldPearl": "Rio's Take: For severe COPD exacerbations presenting with acute Type 2 respiratory failure (hypercapnic acidosis), Non-invasive Ventilation (NIV) is the cornerstone of ventilatory management and is considered a 'game changer', improving outcomes by reducing the need for intubation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct answer. The text explicitly states NIV is a 'game changer' in COPD exacerbations and reduces complications like pneumothorax and VAP, making it the most appropriate initial ventilatory support for severe exacerbations with Type 2 respiratory failure.",
+      "B": "While intubation may be necessary if NIV fails or in cases of severe life-threatening conditions (e.g., profound encephalopathy, hemodynamic instability), it is generally considered after a trial of NIV in COPD exacerbations. NIV is the preferred initial approach to avoid the complications associated with invasive ventilation.",
+      "C": "HFOV is not recommended for the management of COPD exacerbations. The provided graph indicates HFOV is 'Not recommended' for ARDS, and its use in obstructive airway disease is generally contraindicated due to the risk of severe air trapping and dynamic hyperinflation.",
+      "D": "Systemic corticosteroids are an essential component of pharmacological management for COPD exacerbations. However, they address the inflammatory component rather than providing immediate ventilatory support for the severe respiratory failure. The question asks for the 'most strongly recommended' therapeutic intervention for the *respiratory failure* itself, which NIV directly addresses."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_342e9eec",
+    "question": "A 72-year-old male with long-standing severe COPD is admitted to the ICU due to an acute exacerbation. He is on mechanical ventilation. During routine assessment, the intensivist notes significant dynamic hyperinflation and an intrinsic positive end-expiratory pressure (Auto-PEEP). Which of the following is a direct disadvantage associated with this Auto-PEEP in mechanically ventilated patients?",
+    "options": {
+      "A": "Decreased work of breathing for the patient",
+      "B": "Increased venous return to the heart, improving cardiac output",
+      "C": "Increased risk of barotrauma to the lungs",
+      "D": "Increased functional residual capacity (FRC) to a new resting lung volume lower than normal FRC"
+    },
+    "correctAnswer": "C",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The provided text on 'Disadvantages of AutoPEEP' explicitly lists 'Barotrauma' as one of the key negative consequences. Auto-PEEP represents trapped air in the alveoli at the end of expiration, leading to increased intrathoracic pressure. This increased pressure can exert excessive stress on lung tissue, raising the risk of barotrauma (e.g., pneumothorax, pneumomediastinum). The text also mentions increased work of breathing and decreased venous return as disadvantages.",
+    "highYieldPearl": "Rio's Take: Auto-PEEP in COPD, resulting from dynamic hyperinflation and early airway closure, significantly increases the work of breathing, decreases venous return and cardiac output, and elevates the risk of barotrauma.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "The text explicitly states Auto-PEEP leads to '↑ TWOB' (Increased Work of Breathing) because the patient has to generate more effort to overcome the positive intra-alveolar pressure before inspiration can begin. So, decreased work of breathing is incorrect.",
+      "B": "Auto-PEEP increases intrathoracic pressure, which impedes venous return to the heart, thereby decreasing cardiac output, not increasing venous return. This is clearly stated in the text under 'Disadvantages of AutoPEEP'.",
+      "C": "This is the correct answer. The text directly lists 'Barotrauma' as a disadvantage of Auto-PEEP, due to the sustained positive pressure within the alveoli.",
+      "D": "Dynamic hyperinflation leads to a 'new resting lung volume > FRC', meaning the FRC is *increased* above the normal relaxation volume, not lower than normal FRC. This option presents the opposite effect."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_45dc5c6b",
+    "question": "A 55-year-old male is admitted to the ICU with severe acute respiratory distress syndrome (ARDS) due to sepsis, with a PaO2/FiO2 ratio of 100 on mechanical ventilation. Despite lung-protective ventilation, his oxygenation remains critically low. Based on the provided guidelines for therapies in acute respiratory failure, which of the following interventions is strongly recommended for improving oxygenation in such a patient?",
+    "options": {
+      "A": "High Frequency Oscillatory Ventilation (HFOV)",
+      "B": "Initiation of inhaled pulmonary vasodilators",
+      "C": "Prone positioning",
+      "D": "Early implementation of extracorporeal CO2 removal (ECCO2R)"
+    },
+    "correctAnswer": "C",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The clinical scenario describes a patient with severe ARDS and persistent hypoxemia. The provided graph 'Therapies under investigation' explicitly indicates 'Prone Positioning' with a 'Green' bar, signifying a 'Strong Recommendation For' this intervention. This is a key strategy for improving oxygenation in severe ARDS. In contrast, HFOV is 'Red: Not recommended', inhaled pulmonary vasodilators have 'No Recommendation More Research Needed', and ECCO2R also has 'No Recommendation More Research Needed' (more studies needed).",
+    "highYieldPearl": "Rio's Take: In severe ARDS, prone positioning is a strongly recommended intervention to improve oxygenation and outcomes. Conversely, HFOV is not recommended.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "The graph explicitly states 'High Frequency Oscillatory Ventilation (HFOV)' with a 'Red' bar, indicating 'Strong Recommendation Against' or 'Not recommended'. This would be an incorrect choice.",
+      "B": "The graph lists 'Inhaled Pulmonary Vasodilators' in the section with 'No Recommendation More Research Needed' (represented by white bar/space), meaning it is not a strongly recommended intervention. Therefore, it is not the best answer.",
+      "C": "This is the correct answer. The graph clearly shows 'Prone Positioning' with a 'Green' bar, which means 'Strong Recommendation For' in ARDS management.",
+      "D": "The graph lists 'ECCO2R' with 'Blue: More studies needed', indicating 'No Recommendation More Research Needed'. While it's a therapy under investigation, it's not a 'strongly recommended' intervention based on the provided context."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_c8635148",
+    "question": "A 45-year-old male is admitted to the ICU with severe community-acquired pneumonia, rapidly progressing to ARDS. Despite optimal conventional mechanical ventilation with a PEEP of 10 cm H2O and FiO2 of 0.8, his PaO2/FiO2 ratio remains 120. His plateau pressure is 28 cm H2O. Which of the following interventions has a strong recommendation for improving outcomes in such a patient based on current evidence?",
+    "options": {
+      "A": "Initiation of prone positioning for 12-16 hours daily.",
+      "B": "Immediate initiation of high-frequency oscillatory ventilation (HFOV).",
+      "C": "Administration of inhaled pulmonary vasodilators.",
+      "D": "Deep sedation and continuous neuromuscular blockade."
+    },
+    "correctAnswer": "A",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The patient presents with severe ARDS, indicated by a PaO2/FiO2 ratio of 120 (less than 150). The 'Therapies under investigation' graph clearly indicates 'Prone Positioning (Green: Recommended)' as a strong recommendation for improving outcomes in acute respiratory failure across a range of PaO2/FiO2 values from 300 down to 100. This is a cornerstone of ARDS management in severe cases. Other strongly recommended therapies (not options here) include pressure and volume limited ventilation.",
+    "highYieldPearl": "Rio's Take: In severe ARDS (PaO2/FiO2 < 150), prone positioning for 12-16 hours daily is a strongly recommended intervention to improve oxygenation and mortality, alongside lung-protective ventilation strategies.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct option. Prone positioning is a well-established and strongly recommended intervention for severe ARDS to improve gas exchange and reduce mortality.",
+      "B": "Incorrect. The provided graph explicitly states 'High Frequency Oscillatory Ventilation (Red: Not recommended)' for acute respiratory failure. Large randomized controlled trials have shown no benefit and potential harm.",
+      "C": "Incorrect. The graph categorizes 'Inhaled Pulmonary Vasodilators' with a 'No Recommendation More Research Needed' indicator (white bar). While they might improve oxygenation transiently, they are not strongly recommended for improving outcomes in ARDS.",
+      "D": "Incorrect. The graph lists 'NMBA' with a 'No Recommendation' (dotted line) and notes that 'new evidence from Rose Trial NEJM 2019 and SR/MA AlHazzani ICM 2020 warrant update'. Recent evidence suggests that continuous neuromuscular blockade does not improve mortality in moderate-to-severe ARDS, although it can be used for severe ventilator dyssynchrony. It's not a strong primary recommendation for improving overall outcomes."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_bc8003f0",
+    "question": "A 70-year-old male with a history of severe COPD presents with an acute exacerbation and is intubated for worsening hypercapnic respiratory failure. On mechanical ventilation, despite appropriate tidal volumes and respiratory rate settings, he develops significant auto-PEEP of 10 cm H2O. This condition is most likely to result in which of the following physiological consequences?",
+    "options": {
+      "A": "Decreased work of breathing.",
+      "B": "Improved venous return to the heart.",
+      "C": "Increased risk of barotrauma.",
+      "D": "Reduced functional residual capacity (FRC)."
+    },
+    "correctAnswer": "C",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The text on 'Disadvantages of AutoPEEP' clearly lists 'Barotrauma' as one of the key negative consequences. Auto-PEEP represents positive intra-alveolar pressure at end-expiration, which contributes to lung overdistension and increases the risk of ventilator-induced lung injury (VILI), including barotrauma. The patient's history of COPD makes him prone to dynamic hyperinflation and auto-PEEP.",
+    "highYieldPearl": "Rio's Take: Auto-PEEP in COPD exacerbations is a critical issue that increases work of breathing, impairs hemodynamics by decreasing venous return and cardiac output, and significantly elevates the risk of barotrauma and volutrauma.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. The text states that auto-PEEP leads to '↑ TWOB' (increased total work of breathing) as the patient has to generate more negative inspiratory pressure to overcome the intrinsic PEEP before inspiratory flow can begin.",
+      "B": "Incorrect. The text explicitly states that a disadvantage of auto-PEEP is '↓ venous return → ↓ Cardiac output'. The elevated intrathoracic pressure impedes venous flow back to the heart.",
+      "C": "Correct option. The text identifies 'Barotrauma' as a direct disadvantage of auto-PEEP, due to the persistently elevated intra-alveolar pressure.",
+      "D": "Incorrect. The text explains that auto-PEEP is a result of 'Dynamic Hyperinflation' where the 'Lung can't reach to its normal relaxation volume [FRC] ⇒ New resting lung volume > FRC'. This means the FRC is *increased*, not reduced, due to air trapping."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_d8992d3a",
+    "question": "A 65-year-old male with known COPD presents to the emergency department with acute worsening of dyspnea, increased cough, and purulent sputum for two days. His initial arterial blood gas analysis reveals pH 7.28, PaCO2 60 mmHg, PaO2 55 mmHg on room air, and HCO3 30 mEq/L. He is lethargic but able to protect his airway. Which of the following is the most appropriate initial management strategy?",
+    "options": {
+      "A": "Administration of high-flow oxygen via nasal cannula to achieve PaO2 > 90 mmHg.",
+      "B": "Initiation of non-invasive positive pressure ventilation (NIV).",
+      "C": "Intubation and invasive mechanical ventilation immediately.",
+      "D": "Nebulized short-acting bronchodilators only, with close observation."
+    },
+    "correctAnswer": "B",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The patient's ABG (pH 7.28, PaCO2 60 mmHg) indicates acute hypercapnic respiratory failure with acidosis (Type II respiratory failure), which, according to the provided text under 'CLASSIFICATION', signifies a 'Severe' COPD exacerbation (ABG PaCO2 > 45mmHg, pH < 7.35). For such severe exacerbations, the text highlights 'COPD gamechanger ⇒ NIV *'. Non-invasive ventilation (NIV) is the first-line therapy for acute hypercapnic respiratory failure in COPD, especially if the patient can protect their airway and is not in immediate cardiorespiratory arrest, as it reduces the need for intubation, decreases hospital mortality, and lowers the risk of complications like VAP. The patient being lethargic but able to protect his airway makes him a suitable candidate for NIV.",
+    "highYieldPearl": "Rio's Take: Non-invasive ventilation is a critical 'game-changer' and first-line therapy for acute hypercapnic respiratory failure in severe COPD exacerbations, significantly improving patient outcomes and avoiding invasive ventilation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. While oxygen is needed, administering high-flow oxygen to achieve a PaO2 > 90 mmHg could suppress hypoxic drive in a chronic CO2 retainer, worsening hypercapnia and acidosis. A target PaO2 of 60-65 mmHg (SpO2 88-92%) is generally safer for COPD patients.",
+      "B": "Correct option. The patient's severe hypercapnic respiratory failure (pH < 7.35, PaCO2 > 45) in the setting of COPD exacerbation, with the ability to protect his airway, makes NIV the most appropriate initial management to prevent intubation and improve outcomes.",
+      "C": "Incorrect. While intubation might be considered if NIV fails or if the patient's airway is compromised, NIV is the preferred first-line intervention in this scenario given the patient can protect his airway. Early intubation increases risks and complications.",
+      "D": "Incorrect. This level of management is insufficient for a severe COPD exacerbation with acute respiratory failure and acidosis. The classification notes that 'Moderate' exacerbations require SABDs + steroid ± antibiotics, but 'Severe' exacerbations with respiratory failure require more aggressive intervention like NIV."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_cbe2b10b",
+    "question": "A 68-year-old male with a known history of COPD presents to the emergency department with progressively worsening dyspnea, increased cough, and purulent sputum for 3 days. On examination, he is tachypneic with prolonged expiration and uses accessory muscles of respiration. Arterial blood gas analysis reveals pH 7.28, PaCO₂ 65 mmHg, PaO₂ 55 mmHg, HCO₃⁻ 30 mEq/L. Which of the following statements regarding his current respiratory status and management is most accurate, based on the provided context?",
+    "options": {
+      "A": "His increased work of breathing is primarily due to the need to overcome an intrinsic PEEP of approximately 2 cm H₂O.",
+      "B": "High-frequency oscillatory ventilation is a recommended strategy to improve oxygenation in his condition.",
+      "C": "The patient is experiencing a severe COPD exacerbation with Type II respiratory failure, for which Non-Invasive Ventilation (NIV) is indicated.",
+      "D": "Systemic corticosteroids are contraindicated as per current recommendations for non-COVID related acute respiratory failure."
+    },
+    "correctAnswer": "C",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The patient's ABG (pH 7.28, PaCO₂ 65 mmHg) indicates a severe COPD exacerbation leading to acute Type II respiratory failure (PaCO₂ > 45mmHg and pH < 7.35). The provided text states that NIV is a 'gamechanger' for COPD, reducing the risk of pneumothorax and VAP, making it an indicated therapy in this scenario. This reflects standard management protocols for severe COPD exacerbations with hypercapnic respiratory failure.",
+    "highYieldPearl": "Rio's Take: Severe COPD exacerbations with acute hypercapnic respiratory failure are critically managed with NIV to reduce work of breathing and improve gas exchange, avoiding intubation if possible. Recognizing the ABG criteria for severe exacerbation is key.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "The context states that in COPD with AutoPEEP, the effort required to generate airflow (work of breathing) is approximately 4 cm H₂O, not 2 cm H₂O (which is normal). This option misquotes the specific value provided for increased WOB due to autoPEEP.",
+      "B": "The 'Therapies under investigation' graph explicitly lists 'High Frequency Oscillatory Ventilation (Red: Not recommended)', indicating it is not a recommended strategy.",
+      "C": "This is the correct answer. The ABG criteria (PaCO₂ > 45mmHg, pH < 7.35) define a severe exacerbation with Type II respiratory failure. The text highlights NIV as a 'gamechanger' in COPD, supporting its use.",
+      "D": "The graph states 'Steroids *Excluding COVID-19' has a 'Dotted line: No Recommendation', which signifies 'No Recommendation', not a contraindication. In clinical practice, systemic corticosteroids are commonly used for COPD exacerbations, and the context provided does not contraindicate them for non-COVID ARF."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_6cda9d9c",
+    "question": "A 45-year-old patient develops severe acute respiratory distress syndrome (ARDS) following a septic event, with a PaO₂/FiO₂ ratio of 120. Which of the following therapeutic interventions is strongly recommended for this patient, based on the provided 'Therapies under investigation' graph?",
+    "options": {
+      "A": "High Frequency Oscillatory Ventilation",
+      "B": "Extracorporeal CO₂ Removal (ECCO₂R)",
+      "C": "Prone Positioning",
+      "D": "Neuro Muscular Blockade (NMBA)"
+    },
+    "correctAnswer": "C",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The patient's PaO₂/FiO₂ ratio of 120 falls within the range for severe acute respiratory failure/ARDS on the provided graph. The graph explicitly indicates 'Prone Positioning (Green: Recommended)' as a strong recommendation for managing acute respiratory failure. This reflects its established role in improving oxygenation in severe ARDS.",
+    "highYieldPearl": "Rio's Take: For severe ARDS, prone positioning is a strongly recommended intervention due to its proven benefits in improving V/Q matching and oxygenation. Always refer to guidelines for specific recommendations.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "The graph explicitly states 'High Frequency Oscillatory Ventilation (Red: Not recommended)', meaning it is not recommended for acute respiratory failure.",
+      "B": "The graph indicates 'ECCO₂R (Blue: More studies needed)', which corresponds to a 'White bar: No Recommendation More Research Needed'. This is not a strong recommendation for current practice.",
+      "C": "This is the correct answer. The graph clearly shows 'Prone Positioning (Green: Recommended)', which corresponds to a 'Green bar: Strong Recommendation For'.",
+      "D": "The graph shows 'NMBA** (Neuro Muscular Blockade only)' with a 'Dotted line: No Recommendation' and a note about 'new evidence... warrant update'. This does not constitute a strong recommendation according to the legend provided."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_abpa_44fe47e1",
+    "question": "Which of the following is NOT a direct consequence of the altered airway mechanics described in COPD that contributes to respiratory failure?",
+    "options": {
+      "A": "Increased residual volume leading to air trapping.",
+      "B": "Early airway closure during expiration.",
+      "C": "Reduced total lung capacity due to alveolar destruction.",
+      "D": "Elevated functional residual capacity and dynamic hyperinflation."
+    },
+    "correctAnswer": "C",
+    "topic": "Respiratory Failure (Type 1 and Type 2)",
+    "deepDiveExplanation": "The provided text on 'Airway Mechanics In COPD' explicitly lists the consequences: '↑ RV (Residual Volume)', '↑ FRC (Functional Residual Capacity)', '↑ TLC (Total Lung Capacity)', and 'Airtrapping in alveoli'. Therefore, a *reduced* total lung capacity is an incorrect statement, as TLC is increased in COPD due to air trapping and hyperinflation. This question tests direct recall and understanding of the pathophysiological changes in COPD as described.",
+    "highYieldPearl": "Rio's Take: COPD is characterized by chronic air trapping, leading to increased residual volume, functional residual capacity, and total lung capacity, not a reduction in TLC. These changes contribute significantly to increased work of breathing and respiratory failure.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "The text states '↑ RV (Residual Volume)... Airtrapping in alveoli' as a direct consequence, making this a correct consequence.",
+      "B": "The text explicitly states 'Airways close early during expiration' as a consequence in COPD, making this a correct consequence.",
+      "C": "This is the correct answer. The text clearly states '↑ TLC (Total Lung Capacity)' in COPD, not a reduction. This option contradicts the provided information.",
+      "D": "The text states '↑ FRC (Functional Residual Capacity)' and explains 'Dynamic Hyperinflation' as consequences of air trapping, making this a correct consequence."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS AND RELATED SYNDROMES",
+      "pageNumber": 185
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_493",
+    "generatedAt": 1767060988489,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "Which serological finding is an essential diagnostic criterion for ABPA?",
+    "options": {
+      "A": "Elevated serum IgA",
+      "B": "Elevated serum total IgE",
+      "C": "Elevated serum IgM",
+      "D": "Elevated serum C-reactive protein"
+    },
+    "correctAnswer": "B",
+    "topic": "abpa",
+    "deepDiveExplanation": "Elevated total IgE is a cornerstone of ABPA diagnosis. ISHAM criteria include total IgE > 1000 IU/mL (or > 500 IU/mL if other criteria are strongly met). It reflects the allergic inflammatory response to Aspergillus antigens.",
+    "highYieldPearl": "Total IgE is not only diagnostic but also crucial for monitoring disease activity and treatment response in ABPA.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Other options are not primary serological diagnostic criteria for ABPA. Peripheral eosinophilia is a hematological finding, not strictly serological, and while common, not as specific or universally elevated as total IgE in all stages.",
+    "isOneLiner": true,
+    "id": "one_liner_abpa_v7f5qsj5"
+  },
+  {
+    "question": "ABPA primarily involves which types of hypersensitivity reactions?",
+    "options": {
+      "A": "Type II and Type IV",
+      "B": "Type I and Type II",
+      "C": "Type III and Type IV",
+      "D": "Type I and Type III"
+    },
+    "correctAnswer": "D",
+    "topic": "abpa",
+    "deepDiveExplanation": "ABPA is characterized by an exaggerated immune response to Aspergillus fumigatus antigens. Type I (IgE-mediated) hypersensitivity leads to bronchospasm and eosinophilic inflammation. Type III (immune complex-mediated) hypersensitivity contributes to immune complex deposition in the airways, leading to inflammation and tissue damage.",
+    "highYieldPearl": "The combination of Type I and Type III hypersensitivity reactions explains the characteristic IgE elevation, eosinophilia, and immune complex-mediated inflammation leading to bronchiectasis in ABPA.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Confusing the types of hypersensitivity is common. Type II is cytotoxic and Type IV is delayed-type; neither are primary mechanisms in ABPA.",
+    "isOneLiner": true,
+    "id": "one_liner_abpa_pz2qqack"
+  },
+  {
+    "question": "The gold standard imaging modality for detecting central bronchiectasis in ABPA is?",
+    "options": {
+      "A": "Chest X-ray",
+      "B": "Bronchoscopy with lavage",
+      "C": "High-resolution computed tomography (HRCT)",
+      "D": "Magnetic resonance imaging (MRI)"
+    },
+    "correctAnswer": "C",
+    "topic": "abpa",
+    "deepDiveExplanation": "HRCT provides detailed imaging of the lung parenchyma and airways, allowing for precise identification of central bronchiectasis, which is a hallmark feature of ABPA. Chest X-ray is often insensitive for early or mild bronchiectasis.",
+    "highYieldPearl": "Central bronchiectasis is a major diagnostic criterion for ABPA (especially by Rosenberg-Patterson criteria), and HRCT is the definitive tool to identify it.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Chest X-ray is too insensitive. Bronchoscopy is invasive and not primarily for anatomical diagnosis of bronchiectasis. MRI has limited utility for lung parenchyma compared to HRCT.",
+    "isOneLiner": true,
+    "id": "one_liner_abpa_lan1t4kw"
+  },
+  {
+    "question": "What is the first-line pharmacotherapy for acute exacerbations of ABPA?",
+    "options": {
+      "A": "Oral itraconazole",
+      "B": "Inhaled corticosteroids",
+      "C": "Oral corticosteroids",
+      "D": "Omalizumab"
+    },
+    "correctAnswer": "C",
+    "topic": "abpa",
+    "deepDiveExplanation": "Oral corticosteroids (e.g., prednisone) are the cornerstone of treatment for acute exacerbations of ABPA, rapidly suppressing the inflammatory response and preventing progressive lung damage. Antifungals like itraconazole are often added for their steroid-sparing effect and to reduce fungal burden, but steroids are primary for acute inflammation.",
+    "highYieldPearl": "Systemic corticosteroids are the primary anti-inflammatory agents in ABPA; antifungals are adjunctive, mainly for steroid-sparing or recalcitrant cases, not first-line for acute exacerbations.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Itraconazole is important but not first-line for acute exacerbations. Inhaled corticosteroids are less effective for systemic inflammation. Omalizumab is a biologic for severe, refractory cases, not initial first-line.",
+    "isOneLiner": true,
+    "id": "one_liner_abpa_5oxvrvi2"
+  },
+  {
+    "question": "Which marker is primarily used to monitor ABPA treatment response and disease activity?",
+    "options": {
+      "A": "Peripheral eosinophil count",
+      "B": "Serum Aspergillus-specific IgG",
+      "C": "Serum total IgE levels",
+      "D": "FEV1 on spirometry"
+    },
+    "correctAnswer": "C",
+    "topic": "abpa",
+    "deepDiveExplanation": "Serum total IgE levels correlate well with disease activity in ABPA. A significant drop (e.g., >25-35%) in total IgE after corticosteroid therapy indicates a good response. Rising IgE levels can signal a relapse or exacerbation.",
+    "highYieldPearl": "Total IgE is the most practical and widely accepted biomarker for monitoring ABPA disease activity and response to therapy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Peripheral eosinophil count can be used but is less specific and can be influenced by other factors. Aspergillus-specific IgG levels are generally less dynamic than total IgE for monitoring. FEV1 measures lung function but doesn't directly reflect the inflammatory activity as well as IgE.",
+    "isOneLiner": true,
+    "id": "one_liner_abpa_e1vkfdon"
+  },
+  {
+    "question": "Which serological finding is an essential diagnostic criterion for ABPA?",
+    "options": {
+      "A": "Elevated serum IgA",
+      "B": "Elevated serum total IgE",
+      "C": "Elevated serum IgM",
+      "D": "Elevated serum C-reactive protein"
+    },
+    "correctAnswer": "B",
+    "topic": "abpa",
+    "deepDiveExplanation": "Elevated total IgE is a cornerstone of ABPA diagnosis. ISHAM criteria include total IgE > 1000 IU/mL (or > 500 IU/mL if other criteria are strongly met). It reflects the allergic inflammatory response to Aspergillus antigens.",
+    "highYieldPearl": "Total IgE is not only diagnostic but also crucial for monitoring disease activity and treatment response in ABPA.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Other options are not primary serological diagnostic criteria for ABPA. Peripheral eosinophilia is a hematological finding, not strictly serological, and while common, not as specific or universally elevated as total IgE in all stages.",
+    "isOneLiner": true,
+    "id": "one_liner_abpa_owol3q5c"
+  },
+  {
+    "question": "ABPA primarily involves which types of hypersensitivity reactions?",
+    "options": {
+      "A": "Type II and Type IV",
+      "B": "Type I and Type II",
+      "C": "Type III and Type IV",
+      "D": "Type I and Type III"
+    },
+    "correctAnswer": "D",
+    "topic": "abpa",
+    "deepDiveExplanation": "ABPA is characterized by an exaggerated immune response to Aspergillus fumigatus antigens. Type I (IgE-mediated) hypersensitivity leads to bronchospasm and eosinophilic inflammation. Type III (immune complex-mediated) hypersensitivity contributes to immune complex deposition in the airways, leading to inflammation and tissue damage.",
+    "highYieldPearl": "The combination of Type I and Type III hypersensitivity reactions explains the characteristic IgE elevation, eosinophilia, and immune complex-mediated inflammation leading to bronchiectasis in ABPA.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Confusing the types of hypersensitivity is common. Type II is cytotoxic and Type IV is delayed-type; neither are primary mechanisms in ABPA.",
+    "isOneLiner": true,
+    "id": "one_liner_abpa_n2orvvj9"
+  },
+  {
+    "question": "The gold standard imaging modality for detecting central bronchiectasis in ABPA is?",
+    "options": {
+      "A": "Chest X-ray",
+      "B": "Bronchoscopy with lavage",
+      "C": "High-resolution computed tomography (HRCT)",
+      "D": "Magnetic resonance imaging (MRI)"
+    },
+    "correctAnswer": "C",
+    "topic": "abpa",
+    "deepDiveExplanation": "HRCT provides detailed imaging of the lung parenchyma and airways, allowing for precise identification of central bronchiectasis, which is a hallmark feature of ABPA. Chest X-ray is often insensitive for early or mild bronchiectasis.",
+    "highYieldPearl": "Central bronchiectasis is a major diagnostic criterion for ABPA (especially by Rosenberg-Patterson criteria), and HRCT is the definitive tool to identify it.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Chest X-ray is too insensitive. Bronchoscopy is invasive and not primarily for anatomical diagnosis of bronchiectasis. MRI has limited utility for lung parenchyma compared to HRCT.",
+    "isOneLiner": true,
+    "id": "one_liner_abpa_dkb4o0mj"
+  },
+  {
+    "question": "What is the first-line pharmacotherapy for acute exacerbations of ABPA?",
+    "options": {
+      "A": "Oral itraconazole",
+      "B": "Inhaled corticosteroids",
+      "C": "Oral corticosteroids",
+      "D": "Omalizumab"
+    },
+    "correctAnswer": "C",
+    "topic": "abpa",
+    "deepDiveExplanation": "Oral corticosteroids (e.g., prednisone) are the cornerstone of treatment for acute exacerbations of ABPA, rapidly suppressing the inflammatory response and preventing progressive lung damage. Antifungals like itraconazole are often added for their steroid-sparing effect and to reduce fungal burden, but steroids are primary for acute inflammation.",
+    "highYieldPearl": "Systemic corticosteroids are the primary anti-inflammatory agents in ABPA; antifungals are adjunctive, mainly for steroid-sparing or recalcitrant cases, not first-line for acute exacerbations.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Itraconazole is important but not first-line for acute exacerbations. Inhaled corticosteroids are less effective for systemic inflammation. Omalizumab is a biologic for severe, refractory cases, not initial first-line.",
+    "isOneLiner": true,
+    "id": "one_liner_abpa_e2fzt4wg"
+  },
+  {
+    "question": "Which marker is primarily used to monitor ABPA treatment response and disease activity?",
+    "options": {
+      "A": "Peripheral eosinophil count",
+      "B": "Serum Aspergillus-specific IgG",
+      "C": "Serum total IgE levels",
+      "D": "FEV1 on spirometry"
+    },
+    "correctAnswer": "C",
+    "topic": "abpa",
+    "deepDiveExplanation": "Serum total IgE levels correlate well with disease activity in ABPA. A significant drop (e.g., >25-35%) in total IgE after corticosteroid therapy indicates a good response. Rising IgE levels can signal a relapse or exacerbation.",
+    "highYieldPearl": "Total IgE is the most practical and widely accepted biomarker for monitoring ABPA disease activity and response to therapy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Peripheral eosinophil count can be used but is less specific and can be influenced by other factors. Aspergillus-specific IgG levels are generally less dynamic than total IgE for monitoring. FEV1 measures lung function but doesn't directly reflect the inflammatory activity as well as IgE.",
+    "isOneLiner": true,
+    "id": "one_liner_abpa_cvee8mog"
+  }
+]

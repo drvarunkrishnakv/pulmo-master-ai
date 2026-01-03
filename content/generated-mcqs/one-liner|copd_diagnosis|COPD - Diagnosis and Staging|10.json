@@ -1,0 +1,182 @@
+[
+  {
+    "question": "The definitive spirometric criterion for diagnosing COPD post-bronchodilator is an FEV1/FVC ratio below what value?",
+    "options": {
+      "A": "0.80",
+      "B": "0.75",
+      "C": "0.70",
+      "D": "0.65"
+    },
+    "correctAnswer": "C",
+    "topic": "copd_diagnosis",
+    "deepDiveExplanation": "The Global Initiative for Chronic Obstructive Lung Disease (GOLD) guidelines define COPD spirometrically by a post-bronchodilator FEV1/FVC ratio less than 0.70. This fixed ratio is widely adopted for its simplicity and robustness across populations, although the Lower Limit of Normal (LLN) for FEV1/FVC is sometimes preferred to avoid overdiagnosis in the elderly.",
+    "highYieldPearl": "Post-bronchodilator FEV1/FVC < 0.70 is the cornerstone of COPD spirometric diagnosis according to GOLD guidelines.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Traps include other arbitrary ratios, or not emphasizing 'post-bronchodilator,' which is crucial for distinguishing fixed from reversible airflow limitation.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|copd_diagnosis|COPD - Diagnosis and Staging|10_xts068o3"
+  },
+  {
+    "question": "Which GOLD spirometric severity stage is defined by an FEV1 between 30% and 49% of the predicted value?",
+    "options": {
+      "A": "GOLD 1",
+      "B": "GOLD 2",
+      "C": "GOLD 3",
+      "D": "GOLD 4"
+    },
+    "correctAnswer": "C",
+    "topic": "copd_diagnosis",
+    "deepDiveExplanation": "GOLD spirometric staging (based on FEV1 % predicted post-bronchodilator):\n    GOLD 1 (Mild): FEV1 ≥ 80% predicted\n    GOLD 2 (Moderate): 50% ≤ FEV1 < 80% predicted\n    GOLD 3 (Severe): 30% ≤ FEV1 < 50% predicted\n    GOLD 4 (Very Severe): FEV1 < 30% predicted",
+    "highYieldPearl": "Memorize GOLD FEV1 percentages for severity staging: 80, 50, 30 for the cut-offs.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The trap lies in confusing the percentage ranges for different GOLD stages. Candidates must recall the specific thresholds.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|copd_diagnosis|COPD - Diagnosis and Staging|10_miubymlp"
+  },
+  {
+    "question": "A COPD patient with mMRC score 0-1 and zero or one moderate exacerbation not leading to hospitalization belongs to which GOLD group?",
+    "options": {
+      "A": "Group A",
+      "B": "Group B",
+      "C": "Group C",
+      "D": "Group D"
+    },
+    "correctAnswer": "A",
+    "topic": "copd_diagnosis",
+    "deepDiveExplanation": "GOLD patient groups (A, B, C, D) combine symptom assessment (mMRC or CAT) with exacerbation history to guide management.\n    Group A: mMRC 0-1 or CAT < 10 AND 0 or 1 moderate exacerbation (not leading to hospitalization).\n    Group B: mMRC ≥ 2 or CAT ≥ 10 AND 0 or 1 moderate exacerbation (not leading to hospitalization).\n    Group C: mMRC 0-1 or CAT < 10 AND ≥ 2 moderate exacerbations OR ≥ 1 exacerbation leading to hospitalization.\n    Group D: mMRC ≥ 2 or CAT ≥ 10 AND ≥ 2 moderate exacerbations OR ≥ 1 exacerbation leading to hospitalization.",
+    "highYieldPearl": "Group A is 'low symptom, low risk.' Risk is defined by exacerbations.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The trap involves mixing up the criteria for symptoms (mMRC/CAT) and exacerbation frequency/severity across the four GOLD groups.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|copd_diagnosis|COPD - Diagnosis and Staging|10_hab5oirl"
+  },
+  {
+    "question": "In the context of COPD diagnosis, what is the primary clinical utility of assessing bronchodilator reversibility?",
+    "options": {
+      "A": "Confirming COPD diagnosis",
+      "B": "Differentiating COPD from asthma",
+      "C": "Guiding initial bronchodilator choice",
+      "D": "Predicting long-term disease progression"
+    },
+    "correctAnswer": "C",
+    "topic": "copd_diagnosis",
+    "deepDiveExplanation": "While bronchodilator reversibility testing doesn't confirm or exclude COPD, and doesn't definitively differentiate it from asthma, it provides valuable prognostic information and can help guide the choice and intensity of bronchodilator therapy. A significant response may suggest a better response to bronchodilators.",
+    "highYieldPearl": "Bronchodilator reversibility in COPD is for prognosis and treatment guidance, not for diagnosis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Common misconceptions are that reversibility rules out COPD or is the primary differentiator from asthma. The key is its role in treatment and prognosis.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|copd_diagnosis|COPD - Diagnosis and Staging|10_abxtsg2g"
+  },
+  {
+    "question": "Which symptom assessment tool is recommended by GOLD to evaluate the impact of dyspnea on a COPD patient's daily life for group classification?",
+    "options": {
+      "A": "CAT score",
+      "B": "mMRC scale",
+      "C": "St. George's Respiratory Questionnaire",
+      "D": "BODE index"
+    },
+    "correctAnswer": "B",
+    "topic": "copd_diagnosis",
+    "deepDiveExplanation": "The modified Medical Research Council (mMRC) scale is a simple, widely used questionnaire to assess the degree of breathlessness. A score of 0-1 indicates less dyspnea, while ≥2 indicates more significant dyspnea impacting daily activities. The CAT (COPD Assessment Test) is a broader assessment of overall health status and symptom impact.",
+    "highYieldPearl": "mMRC specifically assesses dyspnea, while CAT assesses overall symptom burden. Both are used for GOLD grouping.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Confusing mMRC (dyspnea specific) with CAT (broader symptom impact) is a common trap. St. George's is more comprehensive for research. BODE is a prognostic index.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|copd_diagnosis|COPD - Diagnosis and Staging|10_szuat7a4"
+  },
+  {
+    "question": "Screening for alpha-1 antitrypsin deficiency is strongly recommended for COPD patients diagnosed at what age, regardless of family history?",
+    "options": {
+      "A": "< 60 years",
+      "B": "< 50 years",
+      "C": "< 45 years",
+      "D": "< 40 years"
+    },
+    "correctAnswer": "C",
+    "topic": "copd_diagnosis",
+    "deepDiveExplanation": "GOLD guidelines recommend screening all symptomatic adults with persistent airflow obstruction for AATD. Strong indications for screening include early-onset COPD (especially before 45 years), panacinar emphysema, COPD with a family history of AATD or liver disease, and non-smokers with COPD.",
+    "highYieldPearl": "Consider AATD in young COPD patients (<45 years) or those with panacinar emphysema.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The trap is recalling the specific age cutoff. Other ages might be plausible but <45 is the most emphasized.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|copd_diagnosis|COPD - Diagnosis and Staging|10_airpmaey"
+  },
+  {
+    "question": "The use of the Lower Limit of Normal (LLN) instead of the fixed 0.70 ratio for FEV1/FVC in COPD diagnosis primarily prevents which diagnostic error in older adults?",
+    "options": {
+      "A": "Underdiagnosis",
+      "B": "Overdiagnosis",
+      "C": "Misdiagnosis of asthma",
+      "D": "Incorrect severity staging"
+    },
+    "correctAnswer": "B",
+    "topic": "copd_diagnosis",
+    "deepDiveExplanation": "The fixed FEV1/FVC < 0.70 ratio can lead to overdiagnosis of COPD in older adults because FEV1/FVC naturally declines with age. The LLN, which is derived from a healthy reference population and accounts for age, sex, and height, is a more statistically appropriate threshold that reduces this age-related overdiagnosis.",
+    "highYieldPearl": "LLN avoids overdiagnosis in the elderly and underdiagnosis in the young, providing a more precise definition of airflow obstruction.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "Understanding the implications of using a fixed ratio versus a statistically derived LLN is key. Many might incorrectly assume it prevents underdiagnosis or has no significant impact.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|copd_diagnosis|COPD - Diagnosis and Staging|10_gpjtaj29"
+  },
+  {
+    "question": "A COPD patient with an mMRC score ≥2 and two or more moderate exacerbations or at least one hospitalization for exacerbation belongs to which GOLD group?",
+    "options": {
+      "A": "Group A",
+      "B": "Group B",
+      "C": "Group C",
+      "D": "Group D"
+    },
+    "correctAnswer": "D",
+    "topic": "copd_diagnosis",
+    "deepDiveExplanation": "GOLD Group D represents patients with high symptom burden (mMRC ≥2 or CAT ≥10) and high exacerbation risk (≥2 moderate exacerbations or ≥1 leading to hospitalization). These patients require the most intensive management strategies.",
+    "highYieldPearl": "Group D is 'high symptom, high risk' – the most severe combination for treatment stratification.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Similar to Q3, the trap involves accurately recalling the combined criteria for symptoms and exacerbation history that define Group D.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|copd_diagnosis|COPD - Diagnosis and Staging|10_v8g5ey0r"
+  },
+  {
+    "question": "Which of the following is NOT a primary diagnostic criterion for COPD, but rather an indicator for assessing disease impact or comorbidities?",
+    "options": {
+      "A": "Post-bronchodilator FEV1/FVC < 0.70",
+      "B": "Presence of chronic respiratory symptoms",
+      "C": "Smoking history",
+      "D": "CAT score > 10"
+    },
+    "correctAnswer": "D",
+    "topic": "copd_diagnosis",
+    "deepDiveExplanation": "The diagnostic criteria for COPD primarily rely on spirometry (post-bronchodilator FEV1/FVC < 0.70) in individuals with exposure to risk factors (like smoking) and chronic respiratory symptoms. While symptoms and smoking history prompt investigation, they are not diagnostic criteria themselves. The CAT score assesses the impact of symptoms and is used for GOLD group classification, not for the initial diagnosis.",
+    "highYieldPearl": "Spirometry is diagnostic. Symptoms and risk factors indicate who to test. Assessment tools (like CAT) quantify impact after diagnosis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Candidates might confuse risk factors or symptoms that suggest COPD with the definitive diagnostic criteria. The CAT score is an assessment tool, not a diagnostic one.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|copd_diagnosis|COPD - Diagnosis and Staging|10_ouufu8kf"
+  },
+  {
+    "question": "What is the primary role of a chest X-ray in the initial assessment of a patient suspected of having COPD?",
+    "options": {
+      "A": "To confirm the diagnosis of emphysema",
+      "B": "To rule out alternative diagnoses",
+      "C": "To quantify the severity of airflow obstruction",
+      "D": "To assess bronchodilator responsiveness"
+    },
+    "correctAnswer": "B",
+    "topic": "copd_diagnosis",
+    "deepDiveExplanation": "A chest X-ray is often performed in the initial workup of suspected COPD, not to diagnose COPD itself (as it's often normal or shows non-specific changes), but primarily to exclude other conditions that can mimic COPD symptoms, such as congestive heart failure, bronchiectasis, tuberculosis, or lung cancer. High-resolution CT (HRCT) is superior for confirming emphysema.",
+    "highYieldPearl": "CXR in COPD is for differential diagnosis, not primary diagnosis or severity assessment.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "A common trap is to overestimate the diagnostic power of a chest X-ray for COPD or emphysema, when HRCT is more definitive for parenchymal changes and spirometry for airflow obstruction.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|copd_diagnosis|COPD - Diagnosis and Staging|10_bppev8fm"
+  }
+]

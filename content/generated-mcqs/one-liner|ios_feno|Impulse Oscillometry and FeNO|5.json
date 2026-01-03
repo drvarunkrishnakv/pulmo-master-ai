@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Elevated fractional exhaled nitric oxide (FeNO) primarily indicates increased expression of which enzyme?",
+    "options": {
+      "A": "eNOS",
+      "B": "nNOS",
+      "C": "iNOS",
+      "D": "cNOS"
+    },
+    "correctAnswer": "C",
+    "topic": "ios_feno",
+    "deepDiveExplanation": "Fractional exhaled nitric oxide (FeNO) is a non-invasive biomarker of eosinophilic airway inflammation, especially in asthma. The increased NO production is primarily mediated by the inducible nitric oxide synthase (iNOS) enzyme, which is upregulated in airway epithelial cells by Th2 cytokines like IL-4 and IL-13.",
+    "highYieldPearl": "iNOS activity, driven by Th2 inflammation, is the main source of elevated FeNO in asthma.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Distinguishing between the different isoforms of nitric oxide synthase (NOS) is crucial. eNOS (endothelial) and nNOS (neuronal) are constitutively expressed, while iNOS (inducible) is associated with inflammation.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|ios_feno|Impulse Oscillometry and FeNO|5_hgcucs0a"
+  },
+  {
+    "question": "In Impulse Oscillometry, an increased difference between R5 and R20 resistance values most accurately reflects dysfunction in which airway region?",
+    "options": {
+      "A": "Trachea",
+      "B": "Central airways",
+      "C": "Peripheral airways",
+      "D": "Upper airways"
+    },
+    "correctAnswer": "C",
+    "topic": "ios_feno",
+    "deepDiveExplanation": "Impulse Oscillometry (IOS) measures respiratory impedance. R5 represents total airway resistance (central + peripheral), while R20 primarily reflects central airway resistance. An increased R5-R20 difference signifies increased peripheral (small) airway resistance, as the peripheral resistance component is more pronounced at lower frequencies (like 5 Hz) compared to higher frequencies (like 20 Hz).",
+    "highYieldPearl": "R5-R20 difference is a key IOS parameter for assessing small airway obstruction.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Candidates might incorrectly assume R5-R20 relates to total resistance or central airways. Understanding the frequency dependence of resistance measurements in IOS is key.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|ios_feno|Impulse Oscillometry and FeNO|5_bqr82l3x"
+  },
+  {
+    "question": "Which of the following is a primary clinical application of serial fractional exhaled nitric oxide (FeNO) measurements in asthma management?",
+    "options": {
+      "A": "Assessing airflow obstruction severity",
+      "B": "Monitoring inhaled corticosteroid adherence",
+      "C": "Quantifying bronchodilator responsiveness",
+      "D": "Diagnosing vocal cord dysfunction"
+    },
+    "correctAnswer": "B",
+    "topic": "ios_feno",
+    "deepDiveExplanation": "FeNO levels are suppressed by inhaled corticosteroids (ICS). A sustained high FeNO despite prescribed ICS therapy can indicate poor adherence to medication, allowing clinicians to address this issue. It also helps in predicting response to ICS and guiding step-up/step-down therapy.",
+    "highYieldPearl": "A persistently high FeNO in a treated asthmatic suggests poor ICS adherence or inadequate dose.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While FeNO can guide treatment decisions, its direct measurement of inflammation makes it particularly useful for adherence monitoring, especially since ICS directly reduces FeNO. Other options are assessed by spirometry or laryngoscopy.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|ios_feno|Impulse Oscillometry and FeNO|5_atgjk81a"
+  },
+  {
+    "question": "Impulse Oscillometry (IOS) offers a distinct advantage over spirometry for assessing lung mechanics due to its independence from which patient factor?",
+    "options": {
+      "A": "Age",
+      "B": "Effort",
+      "C": "Body mass index",
+      "D": "Smoking status"
+    },
+    "correctAnswer": "B",
+    "topic": "ios_feno",
+    "deepDiveExplanation": "IOS is a passive, non-effort dependent test, making it suitable for patients unable to perform forced maneuvers required for spirometry, such as young children, the elderly, or those with severe respiratory compromise. The patient breathes quietly through a mouthpiece while small pressure oscillations are applied.",
+    "highYieldPearl": "IOS is ideal for pediatric and uncooperative patients as it requires only tidal breathing.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While IOS is often used in children (related to age), the fundamental advantage is its effort independence. Age itself is not the factor, but rather the inability of very young or very old to perform forced maneuvers.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|ios_feno|Impulse Oscillometry and FeNO|5_y973l1ix"
+  },
+  {
+    "question": "Which of the following factors typically causes a decrease in fractional exhaled nitric oxide (FeNO) levels?",
+    "options": {
+      "A": "Atopy",
+      "B": "Acute viral infection",
+      "C": "Inhaled corticosteroid use",
+      "D": "Allergic rhinitis"
+    },
+    "correctAnswer": "C",
+    "topic": "ios_feno",
+    "deepDiveExplanation": "Inhaled corticosteroids (ICS) are potent anti-inflammatory agents that reduce eosinophilic inflammation in the airways, thereby decreasing the expression of iNOS and subsequently lowering FeNO levels. Atopy, acute viral infections, and allergic rhinitis are generally associated with increased airway inflammation and thus higher FeNO levels.",
+    "highYieldPearl": "ICS therapy is the most significant pharmacological intervention that consistently lowers FeNO.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "It's important to differentiate between factors that increase FeNO (inflammation, allergies, infections) and those that decrease it (anti-inflammatory treatments like ICS, or acute smoking). Acute smoking can temporarily decrease FeNO, but chronic smoking can increase it.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|ios_feno|Impulse Oscillometry and FeNO|5_g7q8eugk"
+  }
+]

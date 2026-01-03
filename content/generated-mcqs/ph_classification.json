@@ -1,0 +1,1724 @@
+[
+  {
+    "id": "rag_ph_classification_302157b8",
+    "question": "Which of the following conditions is NOT classified under Group 3 Pulmonary Hypertension (PH) according to the World Symposium on Pulmonary Hypertension (WSPH) classification?",
+    "options": {
+      "A": "Obstructive lung disease",
+      "B": "Restrictive lung disease",
+      "C": "Hypoxia without lung disease",
+      "D": "PAH associated with Systemic Sclerosis"
+    },
+    "correctAnswer": "D",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "The WSPH classification categorizes pulmonary hypertension into five groups. Group 3 PH is specifically defined as PH due to lung diseases and/or hypoxia, including obstructive lung disease, restrictive lung disease, other lung disease with mixed restrictive/obstructive patterns, hypoxia without lung disease, and developmental lung disorders. PAH (Pulmonary Arterial Hypertension) associated with Systemic Sclerosis, while a form of PH that can involve lung pathology (e.g., interstitial lung disease), is explicitly classified under Group 1 PAH, which has distinct clinical characteristics, pathogenesis, and treatment approaches.",
+    "highYieldPearl": "Rio's Take: Always remember the core components of each WSPH PH group. Distinguishing Group 1 (PAH) from Group 3 (Lung Disease/Hypoxia) is crucial as it significantly impacts diagnosis and therapeutic decisions. Systemic Sclerosis-associated PH, although potentially having lung involvement, is classified as Group 1 PAH.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Obstructive lung disease is a direct component of Group 3 PH, making this a plausible but incorrect option if chosen.",
+      "B": "Restrictive lung disease is a direct component of Group 3 PH, making this a plausible but incorrect option if chosen.",
+      "C": "Hypoxia without lung disease is a direct component of Group 3 PH, such as high-altitude PH, making this a plausible but incorrect option if chosen.",
+      "D": "This is the correct answer. PAH associated with Systemic Sclerosis is a specific subtype listed under Group 1 PAH, not Group 3. Patients with Systemic Sclerosis can develop Group 3 PH (due to severe ILD) or Group 2 PH (due to left heart disease), but the 'PAH associated with' classification points specifically to Group 1."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_9151382a",
+    "question": "A 68-year-old patient with severe chronic obstructive pulmonary disease (COPD) is diagnosed with pulmonary hypertension (PH) via right heart catheterization, confirming it as Group 3 PH. Regarding the management of this patient's PH, which statement is most accurate?",
+    "options": {
+      "A": "Specific pulmonary vasodilator therapies approved for Group 1 PAH are generally recommended as first-line treatment.",
+      "B": "Lung transplantation is typically contraindicated in patients with Group 3 PH.",
+      "C": "Directed medical therapy specifically targeting Group 3 PH, unlike Group 1 or Group 4, is largely unavailable.",
+      "D": "Prognosis assessment for Group 3 PH is typically performed only at baseline due to its stable nature."
+    },
+    "correctAnswer": "C",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "The provided text explicitly states that 'Unfortunately, directed medical therapy does not exist for most other forms of PH other than chronic thromboembolic PH (CTEPH)'. This includes Group 3 PH. While treatments for the underlying lung disease (e.g., oxygen therapy for COPD) can indirectly benefit PH, specific pulmonary vasodilators used for Group 1 PAH are not generally recommended for Group 3 PH and may even be harmful. Prognosis assessment should be regular, not just at baseline, and lung transplantation is a potential consideration for severe lung disease, not typically contraindicated.",
+    "highYieldPearl": "Rio's Take: A critical distinction in PH management is the availability of 'directed medical therapy'. This is primarily for Group 1 PAH and Group 4 CTEPH. For Group 3 PH, management focuses on treating the underlying lung disease and supportive care, as specific targeted therapies are generally lacking.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is incorrect. The text highlights that directed medical therapy for Group 1 PAH is not generally used for other PH groups, including Group 3. Applying these therapies can be ineffective or even detrimental.",
+      "B": "This is incorrect. For patients with severe lung disease causing Group 3 PH, lung transplantation can be a consideration, not a contraindication, for end-stage lung disease.",
+      "C": "This is the correct answer. The text clearly states that directed medical therapy is generally unavailable for most PH groups outside of Group 1 and Group 4 (CTEPH).",
+      "D": "This is incorrect. The text advises, 'Prognosis should be assessed at baseline and every 3 to 6 months by measuring laboratory biomarkers, echocardiogr...' indicating ongoing monitoring for PH, irrespective of the group, rather than just a single baseline assessment."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_c4a0d872",
+    "question": "A patient with long-standing interstitial lung disease (ILD) presents with progressive dyspnea and signs suggestive of pulmonary hypertension. To establish the definitive diagnosis of PH and properly classify it as Group 3 (due to lung disease), which of the following diagnostic procedures is considered mandatory?",
+    "options": {
+      "A": "Transthoracic echocardiography (TTE)",
+      "B": "Ventilation-perfusion (V/Q) scan",
+      "C": "Right heart catheterization (RHC)",
+      "D": "Computed tomography (CT) of the chest with high-resolution protocol"
+    },
+    "correctAnswer": "C",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "The text explicitly states: 'Right heart catheterization is mandatory for establishing the diagnosis of PH and for determining the proper clinical classification.' While TTE is the screening test of choice, V/Q scan is imperative to rule out CTEPH (Group 4), and CT can reveal parenchymal abnormalities characteristic of ILD (suggesting Group 3), RHC is the gold standard for hemodynamic confirmation and precise classification of PH into its various groups.",
+    "highYieldPearl": "Rio's Take: Never forget the hierarchy of diagnostic tests in PH. TTE screens, V/Q rules out CTEPH, CT provides anatomical context (like ILD for Group 3), but RHC *mandatorily* confirms the diagnosis and, critically, determines the WSPH clinical classification.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "TTE is an excellent screening tool for PH, used to estimate pressures and assess heart function, but it is not mandatory for *definitive diagnosis and classification* according to the text.",
+      "B": "V/Q scan is imperative to rule out Group 4 (CTEPH), which is a crucial step in the overall PH workup, but it does not definitively diagnose or classify PH as Group 3.",
+      "C": "This is the correct answer. RHC provides direct hemodynamic measurements, which are essential to confirm PH and distinguish between pre-capillary and post-capillary PH, thus allowing for accurate WSPH classification.",
+      "D": "CT of the chest is valuable for identifying underlying lung diseases like ILD, which can point towards Group 3 PH, but it does not provide the hemodynamic data necessary for definitive PH diagnosis and classification per se."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_1abb96bd",
+    "question": "A 68-year-old male with a 40-pack-year smoking history and severe COPD (FEV1 30% predicted, DLco 45% predicted) presents with progressive exertional dyspnea, ankle edema, and presyncope. He requires 4L/min continuous oxygen. Echocardiography shows severe right ventricular hypertrophy and dilatation, an estimated pulmonary artery systolic pressure of 75 mmHg, and normal left ventricular size and function (LVEF 60%). A V/Q scan is normal. Right heart catheterization reveals the following: mean pulmonary artery pressure (mPAP) 38 mmHg, pulmonary capillary wedge pressure (PCWP) 12 mmHg, pulmonary vascular resistance (PVR) 6 Wood units, Cardiac Index 2.0 L/min/m². Pulmonary angiography shows no significant thromboembolic disease. Which of the following statements regarding this patient's pulmonary hypertension classification is most accurate?",
+    "options": {
+      "A": "The most appropriate classification for this patient's pulmonary hypertension is Group 3, secondary to lung disease.",
+      "B": "The patient primarily has Group 1 Pulmonary Arterial Hypertension (PAH), given the pre-capillary hemodynamics.",
+      "C": "This presentation is highly suggestive of Group 2 PH due to occult left heart failure with preserved ejection fraction.",
+      "D": "Further investigations, including a pulmonary biopsy, are required to differentiate between Group 3 PH and Group 4 CTEPH."
+    },
+    "correctAnswer": "A",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "The patient presents with severe COPD, which is a significant underlying lung disease. The hemodynamic findings from right heart catheterization (mPAP 38 mmHg, PCWP 12 mmHg, PVR 6 Wood units) meet the criteria for pulmonary hypertension (mPAP >= 20 mmHg) with pre-capillary characteristics (PCWP <= 15 mmHg, PVR >= 3 Wood units). Given the clear presence of severe obstructive lung disease (COPD) as the primary etiology, the PH is classified as Group 3: PH due to lung diseases and/or hypoxia. The normal V/Q scan and pulmonary angiography rule out chronic thromboembolic PH (Group 4). Normal LVEF and PCWP below 15 mmHg rule out Group 2 PH due to left heart disease.",
+    "highYieldPearl": "Rio's Take: Pre-capillary PH (mPAP > 20, PCWP <= 15, PVR >= 3) can be seen in Group 1 (PAH), Group 3 (Lung Disease/Hypoxia), and Group 4 (CTEPH). The key to differentiation lies in identifying the underlying cause: absence of alternative causes for Group 1, presence of significant lung disease/hypoxia for Group 3, and chronic thromboembolism for Group 4.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Correct. Severe COPD is a clear cause of Group 3 PH. The hemodynamics are consistent with pre-capillary PH, which is characteristic of PH due to lung disease.",
+      "B": "Incorrect. While the hemodynamics are pre-capillary, Group 1 PAH is a diagnosis of exclusion after ruling out other causes of PH, including lung disease. The patient's severe COPD is a definite 'alternative cause' that places him in Group 3.",
+      "C": "Incorrect. Group 2 PH due to heart failure with preserved ejection fraction (HFpEF) would present with a PCWP of 15 mmHg or greater (post-capillary PH). This patient's PCWP is 12 mmHg, and LVEF is normal, effectively ruling out Group 2 PH as the primary cause.",
+      "D": "Incorrect. A normal V/Q scan and pulmonary angiography already rule out significant CTEPH (Group 4). Pulmonary biopsy is generally not indicated for the classification of PH in this context, especially with a clear underlying lung disease and established hemodynamics; its risks typically outweigh the benefits for this purpose."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_0f90036c",
+    "question": "A 55-year-old female with known diffuse cutaneous systemic sclerosis (SSc) for 8 years, previously stable on immunosuppression, presents with progressive dyspnea and a dry cough. Her predicted diffusion capacity for carbon monoxide (DLco) is 48%, and forced vital capacity (FVC) is 65% predicted. High-resolution CT chest reveals extensive bilateral ground-glass opacities and honeycombing, predominantly in the lung bases. Echocardiography shows moderate RV enlargement, estimated systolic pulmonary artery pressure (sPAP) of 65 mmHg, and mild LV diastolic dysfunction (E/e' ratio 12, LVEF 58%). A V/Q scan is normal. Subsequent right heart catheterization reveals mPAP 35 mmHg, PCWP 14 mmHg, PVR 5 Wood units, and Cardiac Index 2.2 L/min/m². Which of the following is the most accurate classification of this patient's pulmonary hypertension?",
+    "options": {
+      "A": "Pulmonary Arterial Hypertension associated with Systemic Sclerosis (Group 1 PAH).",
+      "B": "Pulmonary Hypertension due to heart failure with preserved left ventricular ejection fraction (Group 2 PH).",
+      "C": "Pulmonary Hypertension due to interstitial lung disease (Group 3 PH).",
+      "D": "Chronic Thromboembolic Pulmonary Hypertension (Group 4 PH)."
+    },
+    "correctAnswer": "C",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "The patient has systemic sclerosis (SSc), which is a risk factor for various types of PH (Group 1, 2, and 3). However, the crucial information here is the presence of extensive interstitial lung disease (ILD) on HRCT (ground-glass opacities, honeycombing), significantly reduced DLco (48%), and a restrictive ventilatory defect (FVC 65%). These findings strongly point to ILD as the primary driver of PH. The right heart catheterization shows pre-capillary PH (mPAP 35 mmHg, PCWP 14 mmHg, PVR 5 WU). While SSc can cause Group 1 PAH, the significant underlying ILD makes Group 3 PH the more accurate classification, as per the 6th WSPH, which recognizes PH due to restrictive lung disease (like ILD) as Group 3. The DETECT study also highlighted that a percentage of SSc patients can have Group 3 PH based on a greater degree of underlying ILD. The mild LV diastolic dysfunction (E/e' 12) is a distractor for Group 2, but the PCWP of 14 mmHg (below 15 mmHg) excludes Group 2 PH as the primary cause.",
+    "highYieldPearl": "Rio's Take: In patients with Systemic Sclerosis, PH can arise from Group 1 (PAH), Group 2 (LHD), or Group 3 (ILD). The distinction hinges on identifying the predominant etiology. Extensive ILD with pre-capillary hemodynamics points strongly to Group 3 PH, even if the patient has a CTD known for Group 1 PAH.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Incorrect. While SSc is a common cause of Group 1 PAH, the extensive and clearly documented interstitial lung disease (ILD) in this patient, along with the restrictive lung function, makes Group 3 PH a more appropriate primary classification. Group 1 PAH is typically reserved for cases where other causes, including significant lung disease, are absent or not the primary driver.",
+      "B": "Incorrect. Group 2 PH due to left heart disease, including HFpEF, requires a PCWP of 15 mmHg or greater. This patient's PCWP is 14 mmHg, which is below the threshold for post-capillary PH, despite the presence of mild diastolic dysfunction.",
+      "C": "Correct. The patient's extensive interstitial lung disease (documented by HRCT, DLco, and FVC) is a direct cause of Group 3 PH (restrictive lung disease). The hemodynamics are consistent with pre-capillary PH.",
+      "D": "Incorrect. A normal V/Q scan effectively rules out chronic thromboembolic pulmonary hypertension (CTEPH), which is Group 4 PH."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_84e9f86f",
+    "question": "A 42-year-old obese male (BMI 38 kg/m²) presents with chronic fatigue, loud snoring, observed apneic episodes, and progressive exertional dyspnea. Polysomnography confirms severe obstructive sleep apnea (AHI 65 events/hour) with significant nocturnal desaturations (nadir SpO2 78%). His chest X-ray and high-resolution CT chest are unremarkable for parenchymal lung disease or significant emphysema. Lung function tests show normal FEV1/FVC ratio (80%), FVC 95% predicted, and DLco 85% predicted. Echocardiography reveals moderate right ventricular dilatation, estimated sPAP of 60 mmHg, and normal left ventricular function. A V/Q scan is normal. Right heart catheterization shows mPAP 32 mmHg, PCWP 10 mmHg, PVR 4.5 Wood units, and Cardiac Index 2.5 L/min/m². Which of the following interventions, if successful, is most likely to lead to a significant reversal of this patient's pulmonary hypertension and is considered a primary treatment for his PH classification?",
+    "options": {
+      "A": "Initiation of a prostacyclin analog (e.g., treprostinil).",
+      "B": "Continuous positive airway pressure (CPAP) therapy.",
+      "C": "Diuretic therapy and cardiac glycosides for right heart failure.",
+      "D": "Pulmonary endarterectomy, given the pre-capillary nature of PH."
+    },
+    "correctAnswer": "B",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "This patient's clinical presentation (obesity, severe OSA with nocturnal hypoxemia), normal lung function tests (FEV1, FVC, DLco), and unremarkable chest imaging strongly point towards PH primarily due to hypoxia without significant underlying structural lung disease. This fits the 'Hypoxia without lung disease' category within Group 3 PH. The right heart catheterization confirms pre-capillary PH (mPAP 32 mmHg, PCWP 10 mmHg, PVR 4.5 WU). For Group 3 PH, directed medical therapies for PAH are generally not effective and not indicated. The primary treatment involves addressing the underlying cause of hypoxia. In this case, CPAP therapy for severe OSA will mitigate nocturnal desaturations and chronic hypoxemia, thereby reducing pulmonary vasoconstriction and leading to a significant reversal of the PH. This is considered the primary and most effective treatment strategy.",
+    "highYieldPearl": "Rio's Take: For Group 3 PH, direct treatment of the underlying lung disease or hypoxia is paramount. Unlike Group 1 PAH, specific PAH-targeted therapies are generally not indicated. Successful treatment of conditions like OSA (e.g., with CPAP) or providing supplemental oxygen for hypoxemia can lead to significant PH improvement in Group 3.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Incorrect. Prostacyclin analogs are targeted therapies for Group 1 PAH. For Group 3 PH, the text explicitly states that 'directed medical therapy does not exist for most other forms of PH other than chronic thromboembolic PH (CTEPH).' Administering these drugs for Group 3 PH is not appropriate and can even be harmful.",
+      "B": "Correct. The patient's PH is due to hypoxia secondary to severe obstructive sleep apnea (Group 3 PH, 'Hypoxia without lung disease'). CPAP therapy effectively treats OSA by preventing airway collapse and improving nocturnal oxygenation, thereby directly addressing the underlying cause of PH and leading to its reversal.",
+      "C": "Incorrect. Diuretics and cardiac glycosides are supportive therapies for symptoms of right heart failure but do not address the underlying mechanism of pulmonary hypertension or lead to its reversal. They are not primary treatments for PH itself.",
+      "D": "Incorrect. Pulmonary endarterectomy is the definitive treatment for Group 4 Chronic Thromboembolic Pulmonary Hypertension (CTEPH). This patient's V/Q scan is normal, ruling out CTEPH."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_b274f8e6",
+    "question": "A 68-year-old male with a 20-year history of severe chronic obstructive pulmonary disease (COPD) presents with progressive dyspnea and fatigue. His FEV1 is 35% predicted. Echocardiography shows right ventricular enlargement and an estimated systolic pulmonary artery pressure of 60 mmHg. Right heart catheterization (RHC) reveals a mean pulmonary artery pressure (mPAP) of 32 mmHg, pulmonary capillary wedge pressure (PCWP) of 10 mmHg, and pulmonary vascular resistance (PVR) of 4 Wood Units. He has no history of left heart disease, congenital heart disease, or chronic thromboembolic events.",
+    "options": {
+      "A": "Group 3 PH due to lung disease",
+      "B": "Group 1 Pulmonary Arterial Hypertension (PAH)",
+      "C": "Group 2 PH due to left heart disease",
+      "D": "Group 4 Chronic Thromboembolic PH (CTEPH)"
+    },
+    "correctAnswer": "A",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "The patient's RHC findings (mPAP > 20 mmHg, PCWP ≤ 15 mmHg, PVR ≥ 3 WU) are consistent with pre-capillary pulmonary hypertension. Given the extensive history of severe chronic obstructive pulmonary disease, which is explicitly classified under Group 3 PH (PH due to lung diseases and/or hypoxia), this is the most appropriate classification. The absence of other conditions like left heart disease or chronic thromboembolic disease further supports this classification.",
+    "highYieldPearl": "Rio's Take: Pre-capillary PH (mPAP > 20, PCWP ≤ 15, PVR ≥ 3) in the setting of significant underlying lung disease, such as COPD or ILD, is always classified as Group 3 PH, not Group 1 PAH.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct classification based on RHC findings (pre-capillary PH) and a clear underlying Group 3 lung disease (severe COPD).",
+      "B": "This is a plausible distractor because the RHC findings are consistent with pre-capillary PH (like PAH). However, Group 1 PAH is a diagnosis of exclusion. The presence of a clear, severe underlying lung disease (COPD) immediately places the PH into Group 3, overriding a Group 1 classification.",
+      "C": "The PCWP of 10 mmHg is ≤ 15 mmHg, indicating pre-capillary PH. Group 2 PH (due to left heart disease) is post-capillary and defined by a PCWP > 15 mmHg. The vignette also explicitly states no history of left heart disease.",
+      "D": "The vignette explicitly states no history of chronic thromboembolic events. While a V/Q scan is usually needed to definitively rule out CTEPH, based on the provided clinical information, there is no evidence to suggest Group 4 PH."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_6140d766",
+    "question": "A 55-year-old female with established idiopathic pulmonary fibrosis (IPF) presents with increasing exertional dyspnea. Her FVC is 50% predicted, and DLco is 30% predicted. Echocardiography suggests moderate pulmonary hypertension. Right heart catheterization confirms mean pulmonary artery pressure (mPAP) of 28 mmHg, pulmonary capillary wedge pressure (PCWP) of 12 mmHg, and pulmonary vascular resistance (PVR) of 3.5 Wood Units. She is receiving antifibrotic therapy for her IPF and supplemental oxygen at night.",
+    "options": {
+      "A": "Initiate a phosphodiesterase-5 inhibitor (e.g., sildenafil)",
+      "B": "Consider evaluation for lung transplantation",
+      "C": "Administer systemic anticoagulation",
+      "D": "Start an endothelin receptor antagonist (e.g., bosentan)"
+    },
+    "correctAnswer": "B",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "The patient has severe restrictive lung disease (IPF) and RHC findings consistent with pre-capillary PH (mPAP 28 mmHg, PCWP 12 mmHg, PVR 3.5 WU). This classifies her PH as Group 3. The provided text states that 'directed medical therapy does not exist for most other forms of PH other than chronic thromboembolic PH (CTEPH) and PAH.' Therefore, specific PAH-targeted therapies (like PDE5 inhibitors or ERAs) are generally not indicated for Group 3 PH due to lack of proven benefit and potential harm. Given the severe underlying lung disease (FVC 50%, DLco 30%) and progressive symptoms, evaluation for lung transplantation becomes a crucial management strategy for her overall prognosis.",
+    "highYieldPearl": "Rio's Take: For Group 3 PH, management primarily focuses on optimizing the underlying lung disease and oxygenation. Specific PAH-targeted therapies are generally not recommended. In severe cases, lung transplantation is a key consideration.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Phosphodiesterase-5 inhibitors are specific PAH-targeted therapies for Group 1 PAH. They are not indicated as a primary management strategy for Group 3 PH and may be harmful in some cases.",
+      "B": "Correct. With severe underlying lung disease (IPF) and associated PH, lung transplantation offers the best long-term prognosis for selected patients. This is a critical management step once the underlying lung disease and PH are advanced.",
+      "C": "Systemic anticoagulation is primarily indicated for Group 4 CTEPH or in some cases of Group 1 PAH. It is not a standard primary treatment for Group 3 PH.",
+      "D": "Endothelin receptor antagonists are specific PAH-targeted therapies for Group 1 PAH. Similar to PDE5 inhibitors, they are generally not indicated for Group 3 PH."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_0fcbe699",
+    "question": "A 62-year-old female with systemic sclerosis (SSc) for 8 years presents with progressive dyspnea. Her baseline DLco was 55% predicted, and a recent high-resolution CT chest shows significant interstitial lung disease (ILD) with features of usual interstitial pneumonia pattern. Echocardiography estimates a systolic pulmonary artery pressure of 58 mmHg. Right heart catheterization shows a mean pulmonary artery pressure (mPAP) of 35 mmHg, pulmonary capillary wedge pressure (PCWP) of 14 mmHg, and pulmonary vascular resistance (PVR) of 4.8 Wood Units. She has no evidence of left heart disease or other risk factors for Group 1 PAH.",
+    "options": {
+      "A": "Group 1 PAH associated with connective tissue disease",
+      "B": "Group 3 PH due to lung diseases",
+      "C": "Group 2 PH due to left heart disease",
+      "D": "Group 4 Chronic Thromboembolic PH"
+    },
+    "correctAnswer": "B",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "The patient has systemic sclerosis (SSc), which can be associated with both Group 1 PAH and Group 3 PH. Her RHC findings (mPAP > 20 mmHg, PCWP ≤ 15 mmHg, PVR ≥ 3 WU) indicate pre-capillary PH. The crucial differentiating factor here is the 'significant interstitial lung disease (ILD)' on HRCT. The provided text from the DETECT study specifically notes that in SSc patients with PH, '6% had group 3 PH based on greater degree of underlying interstitial lung disease.' When severe ILD is the primary driver of the pulmonary hypertension, even in the context of SSc, the PH is classified as Group 3.",
+    "highYieldPearl": "Rio's Take: In patients with systemic sclerosis, PH can be Group 1 (PAH) or Group 3 (due to ILD). Significant ILD on imaging, rather than the CTD itself, should guide classification to Group 3 if it appears to be the primary cause of the PH.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a strong distractor. SSc is a well-known risk factor for Group 1 PAH. However, the vignette specifically emphasizes 'significant interstitial lung disease,' which, as per the DETECT study findings, classifies PH as Group 3 when the ILD is the primary driver.",
+      "B": "Correct. The presence of significant interstitial lung disease (ILD) in a patient with pre-capillary PH means the PH is primarily 'due to lung diseases' (Group 3), even though the patient has SSc.",
+      "C": "The PCWP of 14 mmHg is ≤ 15 mmHg, indicating pre-capillary PH, not post-capillary (Group 2) PH due to left heart disease (which requires PCWP > 15 mmHg). The vignette also states no evidence of left heart disease.",
+      "D": "No information in the vignette suggests chronic thromboembolic disease, ruling out Group 4 PH."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_b4ed39cd",
+    "question": "A 68-year-old male with a 20-year history of severe chronic obstructive pulmonary disease (COPD) presents with progressive dyspnea and fatigue. Echocardiography reveals an estimated systolic pulmonary artery pressure of 45 mmHg. Right heart catheterization confirms mean pulmonary artery pressure (mPAP) of 28 mmHg, pulmonary capillary wedge pressure (PCWP) of 10 mmHg, and pulmonary vascular resistance (PVR) of 3.5 Wood units. Left ventricular function is normal.",
+    "options": {
+      "A": "Group 1: Pulmonary Arterial Hypertension (PAH)",
+      "B": "Group 2: PH Due to Left Heart Disease",
+      "C": "Group 3: PH Due to Lung Diseases and/or Hypoxia",
+      "D": "Group 4: PH Due to Pulmonary Artery Obstruction"
+    },
+    "correctAnswer": "C",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "The patient has a clear history of severe chronic obstructive pulmonary disease (COPD), which is classified as an obstructive lung disease. According to Table 83.2, 'Obstructive lung disease' is explicitly listed under Group 3 PH: PH Due to Lung Diseases and/or Hypoxia. The hemodynamic parameters (mPAP > 20 mmHg, PCWP ≤ 15 mmHg, PVR ≥ 3 Wood units) indicate pre-capillary PH, which is characteristic of Group 3. The normal PCWP and left ventricular function rule out Group 2 PH.",
+    "highYieldPearl": "Rio's Take: When classifying PH, always identify the primary underlying cause. Chronic lung diseases, such as COPD, are a common etiology for Group 3 PH, often resulting in pre-capillary PH due to hypoxic vasoconstriction and vascular remodeling.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Group 1 (PAH): While the hemodynamic criteria for pre-capillary PH are met, the presence of severe underlying COPD makes PAH less likely as the primary cause. Group 1 is typically a diagnosis of exclusion or for specific associated conditions without significant primary lung disease.",
+      "B": "Group 2 (PH Due to Left Heart Disease): This is incorrect because the PCWP is normal (10 mmHg), which rules out significant left heart disease causing post-capillary PH. Left ventricular function is also explicitly stated as normal.",
+      "C": "Correct. Severe COPD is an obstructive lung disease, a clear cause of Group 3 PH.",
+      "D": "Group 4 (PH Due to Pulmonary Artery Obstruction): There is no clinical or radiological evidence (e.g., V/Q scan abnormalities, history of PE) in the vignette to suggest chronic thromboembolic disease or other pulmonary artery obstructions."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_91bc293e",
+    "question": "A 55-year-old female with long-standing systemic sclerosis (SSc) presents with progressive exertional dyspnea. Echocardiography suggests pulmonary hypertension. Subsequent right heart catheterization reveals a mean pulmonary artery pressure (mPAP) of 32 mmHg, pulmonary capillary wedge pressure (PCWP) of 11 mmHg, and pulmonary vascular resistance (PVR) of 4 Wood units. High-resolution computed tomography (HRCT) of the chest shows extensive interstitial lung disease (ILD).",
+    "options": {
+      "A": "Group 1: Pulmonary Arterial Hypertension (PAH) associated with connective tissue disease",
+      "B": "Group 2: PH Due to Left Heart Disease",
+      "C": "Group 3: PH Due to Lung Diseases and/or Hypoxia (Restrictive lung disease)",
+      "D": "Group 4: Chronic Thromboembolic PH (CTEPH)"
+    },
+    "correctAnswer": "C",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "The patient has systemic sclerosis (SSc), which can be associated with various PH groups. The hemodynamic findings (mPAP > 20 mmHg, PCWP ≤ 15 mmHg, PVR ≥ 3 Wood units) indicate pre-capillary PH. The critical differentiating factor here is the presence of *extensive interstitial lung disease (ILD)* on HRCT. According to Table 83.2, 'Restrictive lung disease' (of which ILD is a prime example) is classified under Group 3 PH: PH Due to Lung Diseases and/or Hypoxia. The provided text also mentions that SSc patients can have Group 3 PH 'based on greater degree of underlying interstitial lung disease.' The normal PCWP rules out Group 2 PH.",
+    "highYieldPearl": "Rio's Take: In patients with systemic sclerosis and PH, differentiating between Group 1 PAH and Group 3 PH due to ILD is crucial for appropriate management. The extent and severity of ILD on HRCT, along with hemodynamic parameters, are key to this distinction.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Group 1 (PAH associated with CTD): This is a plausible trap as SSc is a common cause of Group 1 PAH. However, the presence of *extensive ILD* strongly shifts the primary etiology towards Group 3. While some patients may have mixed pathology, 'extensive ILD' makes Group 3 the most appropriate primary classification.",
+      "B": "Group 2 (PH Due to Left Heart Disease): This is incorrect because the PCWP is normal (11 mmHg), ruling out significant left heart disease as the cause of PH.",
+      "C": "Correct. Extensive ILD, a form of restrictive lung disease, is a direct cause of Group 3 PH, even in the context of SSc.",
+      "D": "Group 4 (CTEPH): There are no features in the vignette (e.g., history of pulmonary embolism, specific V/Q scan findings) to suggest chronic thromboembolic disease."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_ae05f1c7",
+    "question": "A 42-year-old male presents with severe obstructive sleep apnea (OSA) and chronic nocturnal hypoxemia. He reports progressive dyspnea and leg swelling. Echocardiography shows right ventricular enlargement and an estimated systolic pulmonary artery pressure of 50 mmHg. Right heart catheterization reveals a mean pulmonary artery pressure (mPAP) of 35 mmHg, pulmonary capillary wedge pressure (PCWP) of 13 mmHg, and pulmonary vascular resistance (PVR) of 4.2 Wood units. Left heart function is preserved.",
+    "options": {
+      "A": "Group 1: Pulmonary Arterial Hypertension (PAH)",
+      "B": "Group 2: PH Due to Left Heart Disease",
+      "C": "Group 3: PH Due to Lung Diseases and/or Hypoxia",
+      "D": "Group 4: PH Due to Pulmonary Artery Obstruction"
+    },
+    "correctAnswer": "C",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "The patient has severe obstructive sleep apnea (OSA) leading to chronic nocturnal hypoxemia. Chronic hypoxia is a well-established cause of pulmonary hypertension due to pulmonary vasoconstriction and subsequent vascular remodeling. According to Table 83.2, 'Hypoxia without lung disease' is specifically included under Group 3 PH: PH Due to Lung Diseases and/or Hypoxia. Although OSA can be seen as a respiratory disorder, the mechanism for PH in this case is primarily the chronic hypoxia, fitting this subgroup. The hemodynamic findings (mPAP > 20 mmHg, PCWP ≤ 15 mmHg, PVR ≥ 3 Wood units) confirm pre-capillary PH, which is consistent with Group 3. Left heart function is preserved, and PCWP is normal.",
+    "highYieldPearl": "Rio's Take: Chronic hypoxia from conditions like severe OSA, high-altitude exposure, or central hypoventilation syndromes, even without primary parenchymal lung disease, can lead to Group 3 PH. Addressing the underlying hypoxic condition is key to management.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Group 1 (PAH): While the hemodynamics are consistent with pre-capillary PH, the clear underlying cause of chronic hypoxemia from OSA points directly to Group 3. Group 1 PAH is typically a diagnosis of exclusion when significant underlying conditions like severe hypoxia are present.",
+      "B": "Group 2 (PH Due to Left Heart Disease): This is incorrect as the PCWP is normal (13 mmHg) and left heart function is explicitly stated as preserved.",
+      "C": "Correct. Chronic hypoxemia secondary to severe OSA is classified under Group 3 PH as 'Hypoxia without lung disease'.",
+      "D": "Group 4 (PH Due to Pulmonary Artery Obstruction): There is no clinical indication of chronic thromboembolic disease or other forms of pulmonary artery obstruction in the vignette."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_3d1c45bb",
+    "question": "Which of the following conditions is categorized under Group 3 Pulmonary Hypertension according to the World Symposium on Pulmonary Hypertension (WSPH) classification?",
+    "options": {
+      "A": "PH due to heart failure with preserved left ventricular ejection fraction",
+      "B": "Chronic thromboembolic PH",
+      "C": "Hypoxia without lung disease",
+      "D": "PAH associated with connective tissue disease"
+    },
+    "correctAnswer": "C",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "The WSPH classification organizes pulmonary hypertension into five distinct groups to guide diagnosis and management. Group 3 specifically encompasses PH due to lung diseases and/or hypoxia. 'Hypoxia without lung disease' is explicitly listed as a sub-category within Group 3, recognizing that hypoxemia itself, even without an underlying parenchymal lung disease, can drive PH. This differentiation is critical as it impacts the diagnostic workup and therapeutic approach.",
+    "highYieldPearl": "Rio's Take: Accurate classification of PH is crucial as treatment strategies vary significantly across groups. Group 3 PH, often driven by hypoxia from various lung pathologies or isolated hypoxemia, primarily focuses on managing the underlying lung disease and optimizing oxygenation, unlike Group 1 PAH which has specific targeted therapies.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option describes PH due to Left Heart Disease, which is classified as Group 2 PH. A candidate might confuse the primary drivers of PH if not familiar with the specific WSPH grouping.",
+      "B": "Chronic thromboembolic PH (CTEPH) is a distinct entity classified as Group 4 PH (PH due to Pulmonary Artery Obstruction). This is a well-known separate group and a common distracter for classification questions.",
+      "C": "This is the correct answer. It's a direct listing from Table 83.2 under Group 3, representing PH primarily driven by hypoxic vasoconstriction.",
+      "D": "PAH associated with connective tissue disease, such as systemic sclerosis, falls under Group 1 Pulmonary Arterial Hypertension (PAH). While connective tissue diseases can also cause interstitial lung disease leading to Group 3 PH, the option specifically states 'PAH associated with connective tissue disease', which is Group 1."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_04da470c",
+    "question": "A 65-year-old male presents with progressive dyspnea and is diagnosed with pulmonary hypertension (PH) via right heart catheterization. Further evaluation reveals severe emphysema with chronic hypoxemia, but no evidence of left heart disease, significant pulmonary artery obstruction, or connective tissue disease. This patient's PH would most appropriately be classified into which WSPH group?",
+    "options": {
+      "A": "Group 1: Pulmonary Arterial Hypertension",
+      "B": "Group 2: PH due to Left Heart Disease",
+      "C": "Group 3: PH due to Lung Diseases and/or Hypoxia",
+      "D": "Group 4: PH due to Pulmonary Artery Obstruction"
+    },
+    "correctAnswer": "C",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "The patient's clinical presentation with 'severe emphysema' (an obstructive lung disease) and 'chronic hypoxemia' directly points to Group 3 PH. The WSPH classification places PH arising from obstructive lung disease and/or hypoxia in this group. The scenario explicitly rules out other major causes: 'no evidence of left heart disease' (excludes Group 2), 'no evidence of significant pulmonary artery obstruction' (excludes Group 4), and 'no evidence of connective tissue disease' (helps differentiate from Group 1 PAH associated with CTD, although primary PAH is generally absent with severe lung disease as the cause). Therefore, Group 3 is the most appropriate classification.",
+    "highYieldPearl": "Rio's Take: In clinical scenarios, accurately identifying the underlying cause of PH is paramount. When lung pathology (like COPD/emphysema, ILD) or chronic hypoxemia is the primary driver and other major causes are excluded, Group 3 PH is the classification. Management for Group 3 primarily focuses on treating the underlying lung disease and optimizing oxygenation, with targeted PAH therapies generally not indicated.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Group 1 PAH is typically characterized by distinct pathogenic mechanisms in the pulmonary arterioles and is not primarily caused by lung parenchymal disease or hypoxemia. The clinical scenario explicitly points away from primary PAH etiology.",
+      "B": "Group 2 PH is due to left heart disease. The scenario explicitly states 'no evidence of left heart disease', making this option incorrect.",
+      "C": "This is the correct classification. Severe emphysema is an obstructive lung disease, and chronic hypoxemia are both direct causes of Group 3 PH according to the WSPH classification. The clinical picture perfectly fits this group.",
+      "D": "Group 4 PH is due to chronic thromboembolic disease or other pulmonary artery obstructions. The scenario explicitly states 'no evidence of significant pulmonary artery obstruction', thereby ruling out Group 4."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_81acc2f0",
+    "question": "All of the following are recognized sub-classifications of Group 3 Pulmonary Hypertension (PH due to Lung Diseases and/or Hypoxia) according to the World Symposium on Pulmonary Hypertension, EXCEPT:",
+    "options": {
+      "A": "Restrictive lung disease",
+      "B": "Obstructive lung disease",
+      "C": "Hypoxia without lung disease",
+      "D": "Developmental lung disorders",
+      "E": "PAH with overt features of venous/capillary involvement"
+    },
+    "correctAnswer": "E",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "Group 3 PH specifically encompasses conditions where lung disease or hypoxia is the primary driver. The sub-classifications directly listed in Table 83.2 for Group 3 include Obstructive lung disease, Restrictive lung disease, Other lung disease with mixed restrictive/obstructive pattern, Hypoxia without lung disease, and Developmental lung disorders. 'PAH with overt features of venous/capillary involvement' (such as Pulmonary Veno-Occlusive Disease/Pulmonary Capillary Hemangiomatosis, PVOD/PCH) is a specific sub-type of Group 1 Pulmonary Arterial Hypertension (PAH), not Group 3. This distinction is important for understanding the underlying pathology and treatment considerations, as PVOD/PCH carries a particularly poor prognosis and different management approach than typical PAH.",
+    "highYieldPearl": "Rio's Take: While many conditions can lead to PH, the WSPH classification precisely delineates the primary etiology. Always differentiate between primary pulmonary vascular diseases (Group 1) and those secondary to lung parenchyma/hypoxia (Group 3) or left heart disease (Group 2), as treatments diverge significantly. Remember PVOD/PCH are Group 1 variants and not part of Group 3.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Restrictive lung disease (e.g., ILD) is a direct sub-category of Group 3 PH. This is a correct component of Group 3.",
+      "B": "Obstructive lung disease (e.g., COPD) is a direct sub-category of Group 3 PH. This is a correct component of Group 3.",
+      "C": "Hypoxia without lung disease is a direct sub-category of Group 3 PH. This is a correct component of Group 3.",
+      "D": "Developmental lung disorders are a direct sub-category of Group 3 PH. This is a correct component of Group 3.",
+      "E": "This is the correct answer because 'PAH with overt features of venous/capillary involvement' is explicitly listed under Group 1 PAH, not Group 3. It's a key distinction within the PAH group itself."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_5bc93311",
+    "question": "A 68-year-old male with a 40-pack-year smoking history and known severe COPD (FEV1 45% predicted, FEV1/FVC 0.55) presents with progressive dyspnea and fatigue. Echocardiography shows moderate right ventricular dilation and hypertrophy with an estimated systolic pulmonary artery pressure of 55 mmHg. Right heart catheterization reveals a mean pulmonary artery pressure (mPAP) of 32 mmHg, pulmonary capillary wedge pressure (PCWP) of 12 mmHg, and pulmonary vascular resistance (PVR) of 4.5 Wood units. A ventilation-perfusion (V/Q) scan is negative for segmental perfusion defects. Based on the clinical presentation and hemodynamic findings, which of the following is the most appropriate classification for this patient's pulmonary hypertension?",
+    "options": {
+      "A": "Group 1: Pulmonary Arterial Hypertension (PAH)",
+      "B": "Group 2: PH due to Left Heart Disease",
+      "C": "Group 3: PH due to Lung Diseases and/or Hypoxia",
+      "D": "Group 4: Chronic Thromboembolic PH (CTEPH)"
+    },
+    "correctAnswer": "C",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "This patient's clinical picture includes severe COPD, which is an obstructive lung disease. The right heart catheterization findings (mPAP > 20 mmHg, PCWP ≤ 15 mmHg, PVR ≥ 3 Wood units) define pre-capillary pulmonary hypertension. However, the presence of an underlying lung disease like COPD is considered an 'alternative cause for elevated pulmonary pressures,' which specifically excludes the diagnosis of Group 1 PAH. Therefore, PH occurring secondary to COPD is classified under Group 3: PH due to Lung Diseases and/or Hypoxia. The negative V/Q scan effectively rules out Group 4 CTEPH, and the normal PCWP rules out Group 2 PH due to left heart disease.",
+    "highYieldPearl": "Rio's Take: While Group 1 PAH is defined by specific hemodynamic criteria, the presence of a significant underlying lung disease (like severe COPD or ILD) or left heart disease reclassifies the PH to Group 3 or Group 2, respectively, regardless of similar hemodynamic profiles. Always prioritize the underlying etiology in the classification.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a trap because the hemodynamic criteria (mPAP > 20, PCWP ≤ 15, PVR ≥ 3) *do* fit the definition of pre-capillary PH often seen in PAH. However, the text explicitly states that PAH is defined by the 'absence of alternative causes for elevated pulmonary pressures, including... pulmonary disease.' The severe COPD in this patient constitutes a pulmonary disease causing the PH, thus classifying it as Group 3, not Group 1.",
+      "B": "This is incorrect because the PCWP is 12 mmHg, which is not elevated (it must be >15 mmHg for Group 2 PH due to LHD).",
+      "C": "This is the correct answer. The patient has an obstructive lung disease (COPD) which is the primary driver of their PH. This perfectly aligns with the definition of Group 3 PH.",
+      "D": "This is incorrect because the V/Q scan was negative for segmental perfusion defects, which makes CTEPH (Group 4) highly unlikely."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_68b6099f",
+    "question": "Which of the following statements regarding Pulmonary Hypertension (PH) due to lung diseases (Group 3 PH) is LEAST accurate?",
+    "options": {
+      "A": "Right heart catheterization is mandatory for definitive diagnosis and proper clinical classification of Group 3 PH.",
+      "B": "Treatment with PAH-specific therapies (e.g., endothelin receptor antagonists, phosphodiesterase-5 inhibitors) is generally recommended for Group 3 PH.",
+      "C": "Ventilation-perfusion scanning is an imperative diagnostic step in patients with suspected PH to rule out chronic thromboembolic PH (CTEPH).",
+      "D": "Transthoracic echocardiography is the initial screening test of choice for suspected PH in patients with underlying lung disease."
+    },
+    "correctAnswer": "B",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "The provided text clearly states, 'Unfortunately, directed medical therapy does not exist for most other forms of PH other than chronic thromboembolic PH.' This highlights that while specific therapies are available for Group 1 PAH and Group 4 CTEPH, they are generally not recommended or effective for Group 3 PH. Management for Group 3 PH primarily focuses on optimizing the underlying lung disease and improving oxygenation, rather than using PAH-specific vasodilators.",
+    "highYieldPearl": "Rio's Take: A critical distinction in PH classification is its impact on treatment. Unlike Group 1 PAH and Group 4 CTEPH, Group 3 PH (and Group 2 PH) generally do not benefit from PAH-specific vasodilators, and such therapies can even be harmful in some contexts. Treatment focuses on the primary lung or heart disease.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This statement is accurate. The text explicitly states, 'Right heart catheterization is mandatory for establishing the diagnosis of PH and for determining the proper clinical classification.'",
+      "B": "This is the least accurate statement. The text implies that directed medical therapy (referring to PAH-specific drugs) is not available for Group 3 PH, making its general recommendation incorrect. This is the correct answer.",
+      "C": "This statement is accurate. The text notes, 'In patients with suspected PH, ventilation-perfusion scanning is imperative to rule out chronic thrombo-embolic PH.' This is a crucial step in the diagnostic workup for all PH groups.",
+      "D": "This statement is accurate. The text mentions, 'Transthoracic echocardiography is the screening test of choice for PH...' This is the standard initial non-invasive assessment."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_dbd4f500",
+    "question": "A 55-year-old female with known systemic sclerosis (SSc) for 8 years presents for routine screening for pulmonary hypertension. Her pulmonary function tests (PFTs) show FVC 65% predicted and DLco 50% predicted. Echocardiography suggests moderate PH (estimated sPAP 60 mmHg) with normal left ventricular function. A high-resolution CT (HRCT) chest reveals extensive interstitial lung disease (ILD) with traction bronchiectasis and honeycombing. Right heart catheterization shows mPAP 35 mmHg, PCWP 14 mmHg, and PVR 4 Wood units. Based on these findings, what is the most likely classification of her pulmonary hypertension?",
+    "options": {
+      "A": "Group 1: Pulmonary Arterial Hypertension (PAH) associated with SSc",
+      "B": "Group 2: PH due to left heart disease",
+      "C": "Group 3: PH due to lung diseases (Interstitial Lung Disease)",
+      "D": "Group 4: Chronic thromboembolic PH (CTEPH)"
+    },
+    "correctAnswer": "C",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "The patient has systemic sclerosis (SSc), which is a known risk factor for various types of PH. While PAH (Group 1) is common in SSc, the presence of extensive interstitial lung disease (ILD) on HRCT and PFTs (FVC 65%, DLco 50%) signifies significant parenchymal lung disease. The right heart catheterization shows pre-capillary PH (mPAP > 20, PCWP ≤ 15, PVR ≥ 3). Since PAH (Group 1) is defined by the 'absence of alternative causes for elevated pulmonary pressures, including... pulmonary disease,' the extensive ILD acts as the primary driver of PH, classifying it as Group 3: PH due to Lung Diseases. The DETECT study data specifically mentioned that some SSc patients had Group 3 PH based on the degree of underlying ILD, despite also having SSc. The normal PCWP rules out Group 2, and no information suggests CTEPH (Group 4).",
+    "highYieldPearl": "Rio's Take: In patients with systemic sclerosis (SSc), PH can manifest as Group 1 PAH, Group 2 PH (due to LHD, e.g., diastolic dysfunction), or Group 3 PH (due to ILD). Careful evaluation, especially with HRCT and RHC, is crucial to differentiate these, as treatment approaches differ significantly. If severe ILD is the predominant cause of PH, it's Group 3.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a plausible trap. SSc is strongly associated with PAH (Group 1). However, the definition of PAH excludes PH due to 'pulmonary disease.' In this case, the 'extensive interstitial lung disease' is the 'pulmonary disease' and is the likely primary cause of PH, therefore reclassifying it as Group 3. This distinction is subtle but critical for correct classification.",
+      "B": "This is incorrect because the PCWP is 14 mmHg, which is not elevated (it must be >15 mmHg for Group 2 PH due to LHD).",
+      "C": "This is the correct answer. The presence of extensive interstitial lung disease (a restrictive lung disease) as the primary cause of PH with pre-capillary hemodynamics firmly places it in Group 3.",
+      "D": "This is incorrect. While V/Q scan results aren't given, there's a clear, well-established underlying lung disease (ILD) that explains the PH. There are no features suggestive of chronic thromboembolic disease as the primary cause."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_bad5c891",
+    "question": "A 58-year-old male with severe alpha-1 antitrypsin deficiency-related panacinar emphysema, FEV1 28% predicted, and chronic hypoxemia (PaO2 55 mmHg on room air) presents with progressive exertional dyspnea, peripheral edema, and syncope. Right heart catheterization (RHC) confirms pulmonary hypertension with mean pulmonary artery pressure (mPAP) of 35 mmHg, pulmonary capillary wedge pressure (PCWP) of 10 mmHg, and pulmonary vascular resistance (PVR) of 6 Wood units. His PaO2 improves to 70 mmHg with continuous supplemental oxygen. What is the most appropriate initial management strategy for his pulmonary hypertension?",
+    "options": {
+      "A": "Initiate a phosphodiesterase-5 inhibitor (e.g., sildenafil) and refer for lung transplantation evaluation.",
+      "B": "Optimize long-term oxygen therapy, pulmonary rehabilitation, and address the underlying emphysema.",
+      "C": "Start a prostacyclin analogue (e.g., epoprostenol) and reassess hemodynamics in 3 months.",
+      "D": "Administer diuretics for edema and initiate an endothelin receptor antagonist (e.g., bosentan)."
+    },
+    "correctAnswer": "B",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "The patient presents with severe emphysema (a type of obstructive lung disease) and chronic hypoxemia, which are classic features predisposing to Group 3 pulmonary hypertension. The RHC findings (mPAP 35 mmHg, PCWP 10 mmHg, PVR 6 WU) confirm pre-capillary PH. In Group 3 PH, the primary management strategy is to optimize the underlying lung disease and address hypoxemia, as targeted pulmonary vasodilator therapies for Group 1 PAH generally do not show benefit and can even be harmful in these patients. The provided text explicitly states: 'Unfortunately, directed medical therapy does not exist for most other forms of PH other than chronic thromboembolic PH (CTEPH).' Therefore, optimizing long-term oxygen therapy (to address hypoxemia), pulmonary rehabilitation, and managing the underlying emphysema are the cornerstones of treatment. While lung transplantation may be a future consideration for severe lung disease, it's not the *initial* management for PH itself.",
+    "highYieldPearl": "Rio's Take: For Group 3 PH, the mainstay of therapy is treating the underlying lung disease and addressing hypoxemia. PAH-specific vasodilator therapies are generally not indicated and can worsen V/Q mismatch and outcomes.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is a trap for Group 1 PAH. While lung transplantation may be considered for severe lung disease with PH, initiating specific PAH therapies (like sildenafil) for Group 3 PH is generally not recommended as per current guidelines and may worsen V/Q mismatch.",
+      "B": "This is the correct approach. Oxygen therapy directly addresses the hypoxemia, a key driver of Group 3 PH, and pulmonary rehabilitation improves functional capacity. Addressing the underlying emphysema (e.g., bronchodilators, steroids if indicated) is fundamental.",
+      "C": "This is a highly aggressive and potent therapy reserved for severe Group 1 PAH, not indicated for Group 3 PH.",
+      "D": "Diuretics manage symptoms of right heart failure but are not a primary treatment for the PH itself. Endothelin receptor antagonists are specific PAH therapies (Group 1) and are not indicated for Group 3 PH."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_c5638b9e",
+    "question": "A 45-year-old female with known diffuse cutaneous systemic sclerosis (SSc) for 7 years presents with progressive dyspnea and cough. Her predicted diffusion capacity for carbon monoxide (DLco) is 38%. High-resolution computed tomography (HRCT) of the chest reveals extensive usual interstitial pneumonia (UIP) pattern with honeycomb changes. Echocardiography suggests right ventricular dysfunction and elevated pulmonary pressures. Right heart catheterization (RHC) confirms mean pulmonary artery pressure (mPAP) of 32 mmHg, pulmonary capillary wedge pressure (PCWP) of 13 mmHg, and pulmonary vascular resistance (PVR) of 5.5 Wood units. Given the clinical context and RHC findings, what is the *most likely* primary classification of her pulmonary hypertension?",
+    "options": {
+      "A": "Group 1 Pulmonary Arterial Hypertension (PAH) associated with Systemic Sclerosis.",
+      "B": "Group 2 Pulmonary Hypertension due to Left Heart Disease.",
+      "C": "Group 3 Pulmonary Hypertension due to restrictive lung disease.",
+      "D": "Group 4 Chronic Thromboembolic Pulmonary Hypertension (CTEPH)."
+    },
+    "correctAnswer": "C",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "The patient has systemic sclerosis, which can be associated with various PH groups (1, 2, or 3). However, the key information is the 'extensive usual interstitial pneumonia (UIP) pattern with honeycomb changes' and significantly reduced DLco (38%). The RHC findings (mPAP 32 mmHg, PCWP 13 mmHg, PVR 5.5 WU) confirm pre-capillary PH (mPAP >20, PCWP <=15, PVR >=3). While PAH (Group 1) is associated with SSc, the presence of severe, extensive interstitial lung disease (ILD) as the predominant driver of pre-capillary PH typically classifies it as Group 3 PH. The provided text notes that in the DETECT study, '6% had group 3 PH based on greater degree of underlying interstitial lung disease' in SSc patients. Given the severe ILD in this patient, Group 3 is the most appropriate primary classification.",
+    "highYieldPearl": "Rio's Take: In connective tissue diseases like SSc, it's crucial to differentiate between PAH (Group 1) and PH primarily driven by severe interstitial lung disease (Group 3), as management strategies differ significantly. The degree and severity of ILD are key discriminators when pre-capillary hemodynamics are present.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is a plausible trap. SSc is a common cause of Group 1 PAH. However, the *extensive* ILD with UIP pattern and very low DLco strongly suggest the primary driver is the lung disease, making Group 3 more likely. The question asks for the 'most likely *primary* classification.'",
+      "B": "This is incorrect. The PCWP is 13 mmHg, which is not elevated (>15 mmHg), ruling out post-capillary PH due to left heart disease.",
+      "C": "This is the correct answer. The severe ILD (UIP with honeycomb) directly causes restrictive lung disease and is the most likely primary cause of pre-capillary PH in this context.",
+      "D": "There is no information in the vignette to suggest chronic thromboembolic disease (e.g., history of PE, V/Q scan results)."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_b5f69c5b",
+    "question": "A 62-year-old male with a history of severe obstructive sleep apnea (OSA), diagnosed by polysomnography with an AHI of 55, presents with worsening fatigue and exertional dyspnea despite 4 months of consistent CPAP use. He has no history of other lung diseases or cardiac conditions. Right heart catheterization (RHC) is performed, revealing mean pulmonary artery pressure (mPAP) of 23 mmHg, pulmonary capillary wedge pressure (PCWP) of 14 mmHg, and pulmonary vascular resistance (PVR) of 2.8 Wood units. What is the most appropriate interpretation of these findings and the next step in management?",
+    "options": {
+      "A": "The patient meets criteria for Group 3 PH due to hypoxia, and he should be started on an endothelin receptor antagonist.",
+      "B": "He has borderline pulmonary hypertension (mPAP >20, PCWP ≤15, PVR <3), and the primary focus remains on optimizing CPAP adherence and evaluating for other causes of dyspnea.",
+      "C": "The RHC confirms Group 2 PH, necessitating further echocardiographic evaluation for left ventricular diastolic dysfunction.",
+      "D": "This presentation is suggestive of Group 1 PAH, and a referral to a specialized PH center for advanced diagnostic workup is warranted."
+    },
+    "correctAnswer": "B",
+    "topic": "Group 3 PH (Due to Lung Disease / Hypoxia)",
+    "deepDiveExplanation": "The patient has severe OSA, which is a condition that can lead to Group 3 PH ('Hypoxia without lung disease'). The RHC results show an elevated mPAP (23 mmHg), a normal PCWP (14 mmHg), but a PVR of 2.8 Wood units. While mPAP is >20 mmHg and PCWP is <=15 mmHg (consistent with pre-capillary PH), the PVR is less than 3 Wood units, which is the current consensus threshold for definitively classifying established pre-capillary PH (including Group 1, 3, 4). In such cases, where mPAP is elevated but PVR is below 3 WU, it is often termed 'borderline PH' or 'PH with normal PVR.' For Group 3 PH, especially due to OSA, optimization of the underlying condition (CPAP adherence in this case) is paramount. Targeted PAH therapies are generally not indicated for Group 3 PH and certainly not for borderline PH. Therefore, continuing to optimize OSA management and investigating other causes of dyspnea (as CPAP adherence hasn't fully resolved symptoms) is the most appropriate next step.",
+    "highYieldPearl": "Rio's Take: The hemodynamic definition of *established* pre-capillary PH (Groups 1, 3, 4) generally requires mPAP ≥20 mmHg, PCWP ≤15 mmHg, *AND* PVR ≥3 Wood Units. Patients with mPAP ≥20 mmHg but PVR <3 WU are considered to have 'borderline PH' or 'PH with normal PVR,' for whom treatment of the underlying condition is the main strategy, and targeted PAH therapies are not recommended.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is incorrect for two reasons: 1) While OSA can lead to Group 3 PH, the PVR < 3 WU means it doesn't meet full criteria for established pre-capillary PH, and 2) Endothelin receptor antagonists are specific for Group 1 PAH and are not indicated for Group 3 PH or borderline PH.",
+      "B": "This is the correct interpretation. The hemodynamics indicate borderline PH, and management should focus on the underlying OSA and exploring other causes for persistent symptoms, rather than initiating specific PH therapies.",
+      "C": "This is incorrect. PCWP of 14 mmHg is within the normal range (≤15 mmHg), ruling out post-capillary PH (Group 2), which requires a PCWP >15 mmHg.",
+      "D": "This is incorrect. The clinical context (OSA, no other typical PAH risk factors) and the PVR < 3 WU make Group 1 PAH highly unlikely. Furthermore, referral to a PH center for advanced therapies would be premature and inappropriate given the borderline hemodynamics and the primary driver being OSA."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_8bd54810",
+    "question": "A 62-year-old female with long-standing systemic sclerosis presents with progressive dyspnea. Echocardiography shows RV dilatation and elevated sPAP. Right heart catheterization reveals a mean pulmonary artery pressure (mPAP) of 32 mmHg, pulmonary capillary wedge pressure (PCWP) of 12 mmHg, and pulmonary vascular resistance (PVR) of 5 Wood units. High-resolution CT chest shows mild basal fibrotic changes, inconsistent with severe interstitial lung disease, and no significant emphysema. What is the most likely classification of her pulmonary hypertension?",
+    "options": {
+      "A": "Group 1 PH (PAH associated with SSc)",
+      "B": "Group 3 PH (Due to restrictive lung disease)",
+      "C": "Group 2 PH (Due to left heart disease)",
+      "D": "Mixed Group 1 and Group 3 PH"
+    },
+    "correctAnswer": "A",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "The patient's hemodynamic profile (mPAP 32 mmHg, PCWP 12 mmHg, PVR 5 WU) defines pre-capillary pulmonary hypertension. Since the PCWP is within normal limits (≤ 15 mmHg), Group 2 PH (post-capillary due to left heart disease) is excluded. The high PVR (≥ 3 WU) is consistent with pulmonary vascular disease. While systemic sclerosis can be associated with Group 3 PH (due to interstitial lung disease, ILD), the HRCT finding of 'mild basal fibrotic changes, inconsistent with severe interstitial lung disease' indicates that significant ILD is not the primary driver of PH in this case. Therefore, the most likely classification, given the pre-capillary hemodynamics and absence of significant alternative causes like severe ILD or left heart disease, is Group 1 PH (Pulmonary Arterial Hypertension associated with systemic sclerosis).",
+    "highYieldPearl": "Rio's Take: Scleroderma can cause PH belonging to Groups 1, 2, or 3. Proper classification requires careful assessment of hemodynamics (mPAP, PCWP, PVR) to differentiate pre-capillary from post-capillary PH, and thorough evaluation of underlying lung and cardiac pathology to identify the primary etiology.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This option correctly identifies the classification based on hemodynamic criteria (pre-capillary PH with high PVR) and ruling out significant Group 2 and Group 3 etiologies from the provided clinical context. The association with SSc places it appropriately within Group 1.",
+      "B": "Plausible because SSc is known to cause ILD, which can lead to Group 3 PH. However, the scenario explicitly states 'inconsistent with severe interstitial lung disease,' making Group 3 PH due to significant ILD unlikely as the primary cause here. Misinterpreting the severity of ILD is the trap.",
+      "C": "Plausible as SSc can indirectly affect the heart. However, the PCWP of 12 mmHg rules out Group 2 PH, which is characterized by an elevated PCWP (> 15 mmHg). Overlooking the PCWP value is the trap.",
+      "D": "While mixed PH can occur in complex diseases like SSc, the information provided guides towards a predominant classification. The 'inconsistent with severe ILD' makes a significant Group 3 component less likely to be the primary diagnosis, while the hemodynamics clearly fit Group 1. Considering mixed PH without strong evidence for both significant components is the trap."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_46854099",
+    "question": "Which of the following statements regarding Group 3 Pulmonary Hypertension (PH) is LEAST accurate?",
+    "options": {
+      "A": "Evaluation for Group 3 PH often involves a comprehensive assessment of lung parenchyma using high-resolution computed tomography.",
+      "B": "The hemodynamic definition of Group 3 PH includes a mean pulmonary artery pressure (mPAP) of ≥ 20 mmHg and a pulmonary capillary wedge pressure (PCWP) of ≤ 15 mmHg.",
+      "C": "Specific pulmonary vasodilator therapies, typically used for Group 1 PAH, are generally not recommended for Group 3 PH due to lack of demonstrated benefit and potential harm.",
+      "D": "Oxygen therapy, when indicated, is a cornerstone of management for Group 3 PH, aiming to reduce hypoxic vasoconstriction."
+    },
+    "correctAnswer": "B",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "Group 3 PH is classified primarily by its etiology: 'PH due to lung diseases and/or hypoxia.' While Group 3 PH is typically *hemodynamically characterized* as pre-capillary (mPAP ≥ 20 mmHg, PCWP ≤ 15 mmHg), the PCWP ≤ 15 mmHg is not an absolute *definitive criterion for classification* of Group 3 PH itself, as it is for differentiating pre-capillary from post-capillary PH. The classification of Group 3 is based on the underlying lung disease. Patients with lung disease may sometimes have a slightly elevated PCWP due to complex cardiorespiratory interactions or co-existing mild left heart dysfunction, yet their primary PH classification remains Group 3 if the lung disease is the overwhelming cause. Other options are generally accurate: HRCT for lung disease assessment (A), lack of approved PAH-specific therapies (C), and oxygen therapy for hypoxemia (D).",
+    "highYieldPearl": "Rio's Take: Group 3 PH is an *etiological* classification based on lung disease/hypoxia. While commonly presenting as pre-capillary PH, the PCWP value isn't a strict defining criterion for its *classification* as Group 3, unlike Group 1 (PAH) or Group 2 (LHD) which have explicit hemodynamic components in their definitions.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Plausible/Correct Statement: HRCT is indispensable for diagnosing and characterizing the underlying lung diseases (e.g., ILD, emphysema) that lead to Group 3 PH. This is a correct statement, so it's not the least accurate.",
+      "B": "Least Accurate/Correct Answer: This statement implies that PCWP ≤ 15 mmHg is a *defining hemodynamic criterion* for Group 3 PH, similar to how it defines pre-capillary PH. While Group 3 is *typically* pre-capillary, its classification is based on the *etiology* (lung disease/hypoxia), not solely its hemodynamics. A patient with severe lung disease and PH whose PCWP is slightly above 15 mmHg might still be classified as Group 3 if the lung disease is the overwhelming cause. This makes the statement 'includes... PCWP ≤ 15 mmHg' too restrictive and thus the least accurate. The trap is assuming that the typical hemodynamic presentation is an absolute definitional component of the *classification* itself.",
+      "C": "Plausible/Correct Statement: The text explicitly states, 'directed medical therapy does not exist for most other forms of PH other than chronic thromboembolic PH.' This accurately reflects the current therapeutic approach for Group 3 PH, where PAH-specific vasodilators are often ineffective or harmful.",
+      "D": "Plausible/Correct Statement: Oxygen therapy is a fundamental treatment for hypoxemia, which is a major driver of Group 3 PH by causing pulmonary vasoconstriction. Improving oxygenation is a primary goal in managing Group 3 PH."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_b6268f4e",
+    "question": "Regarding the Detection of PAH in SSc (DETECT) study and its algorithm for pulmonary hypertension in systemic sclerosis, which of the following statements is CORRECT?",
+    "options": {
+      "A": "The algorithm primarily aims to identify patients with Group 2 PH due to the high prevalence of left heart disease in systemic sclerosis.",
+      "B": "Patients with a forced vital capacity less than 40% predicted were specifically included in the DETECT study to assess severe restrictive lung disease as a risk factor.",
+      "C": "The algorithm was developed using a set of eight clinical variables to predict the presence of pulmonary hypertension on right heart catheterization.",
+      "D": "Implementation of the DETECT algorithm is primarily intended to identify patients with severe pulmonary hypertension (mPAP > 25 mmHg) who would benefit from immediate vasodilator therapy."
+    },
+    "correctAnswer": "C",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "The text directly states, 'These analyses identified eight clinical variables that, when applied in a two‑step algorithm, predicted the presence of PH on RHC.' This confirms option C. The DETECT study's primary aim was to identify PAH (Group 1) in systemic sclerosis patients, and it specifically *excluded* patients with left heart disease (Group 2) or severe lung disease (e.g., FVC < 40% predicted, which would likely lead to Group 3). Furthermore, the algorithm is noted to increase the identification of patients with *mildly* elevated pulmonary pressures (mPAP 21-24 mmHg) for whom no approved therapies exist, not necessarily severe PH for immediate treatment.",
+    "highYieldPearl": "Rio's Take: The DETECT algorithm is a practical tool for screening PAH in SSc, derived from specific clinical variables to predict PH on RHC, and aims to identify PH early, even mild forms, in a high-risk group. It's important to remember what patient groups were *excluded* from the study.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "The text mentions 'evaluation of PH is often undertaken to identify or exclude PAH (WSPH Group 1 disease)' and the algorithm had a 'low missed-PAH rate (4%).' It also states Group 2 patients (with left heart disease) were among those 'excluded' from the study. The trap is misinterpreting the primary target of the algorithm.",
+      "B": "The text explicitly states, 'Patients with a forced vital capacity < 40% predicted... were excluded.' This option directly contradicts the inclusion/exclusion criteria. The trap is confusing inclusion with exclusion criteria.",
+      "C": "This statement is directly supported by the text: 'These analyses identified eight clinical variables that, when applied in a two‑step algorithm, predicted the presence of PH on RHC.'",
+      "D": "The text indicates that the algorithm 'will likely increase identification of patients with mildly elevated pulmonary pressures (mPAP = 21-24 mmHg) for whom there are no approved therapies.' This contradicts the idea of identifying *severe* PH for *immediate* therapy. The trap is misinterpreting the implications of the algorithm for mild vs. severe PH and treatment indications."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_55ac77e0",
+    "question": "A 58-year-old woman with a 12-year history of diffuse cutaneous systemic sclerosis presents with gradually worsening dyspnea on exertion and fatigue. Her initial DLco was 75% predicted, and FVC was 85% predicted five years ago. Recent transthoracic echocardiography estimates a right ventricular systolic pressure of 60 mmHg and shows moderate right ventricular dilation. Right heart catheterization (RHC) confirms pulmonary hypertension with a mean pulmonary artery pressure (mPAP) of 35 mmHg, pulmonary capillary wedge pressure (PCWP) of 9 mmHg, and pulmonary vascular resistance (PVR) of 5 Wood Units.\n\nWhich of the following additional findings would most strongly support a diagnosis of Group 3 pulmonary hypertension (due to lung disease) rather than Group 1 pulmonary arterial hypertension (PAH) in this patient?",
+    "options": {
+      "A": "High-resolution computed tomography (HRCT) scan revealing extensive basal predominant reticulation, traction bronchiectasis, and honeycombing.",
+      "B": "Pulmonary function tests (PFTs) showing an isolated reduction in diffusion capacity (DLco) to 35% predicted, with a preserved forced vital capacity (FVC) of 80% predicted.",
+      "C": "Absence of significant parenchymal abnormalities on a recent chest HRCT scan.",
+      "D": "Positive serology for anti-Scl-70 antibodies."
+    },
+    "correctAnswer": "A",
+    "topic": "Group 3 PH (Due to Lung Disease)",
+    "deepDiveExplanation": "The patient's right heart catheterization results (mPAP 35 mmHg, PCWP 9 mmHg, PVR 5 WU) indicate pre-capillary pulmonary hypertension. In a patient with systemic sclerosis (SSc), pre-capillary PH can be classified as either Group 1 (Pulmonary Arterial Hypertension, PAH associated with CTD) or Group 3 (PH due to Lung Diseases and/or Hypoxia). The CONTEXT provided explicitly notes that in the DETECT study, 6% of SSc patients with PH had Group 3 PH \"based on greater degree of underlying interstitial lung disease.\" Therefore, the presence of extensive basal predominant reticulation, traction bronchiectasis, and honeycombing on HRCT scan (indicative of severe interstitial lung disease, or SSc-ILD) would strongly classify this as Group 3 PH due to lung disease. In Group 1 PAH, the primary pathology is in the pulmonary vasculature, and significant parenchymal lung disease (especially severe forms like honeycombing) is typically absent or only very mild, not sufficient to be the primary driver of PH.",
+    "highYieldPearl": "Rio's Take: In systemic sclerosis, both Group 1 PAH and Group 3 PH (due to interstitial lung disease, SSc-ILD) can manifest with pre-capillary PH. Differentiation is critical for management, as specific PAH therapies are not indicated for Group 3 PH. High-resolution CT scan is the key modality to assess the presence and severity of interstitial lung disease, which, if significant, leads to a Group 3 classification, irrespective of SSc association.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option directly points to severe interstitial lung disease (ILD), a clear cause for Group 3 PH. Extensive ILD, especially with features like honeycombing, signifies significant parenchymal lung disease driving the pulmonary hypertension, aligning with the WSPH Group 3 classification.",
+      "B": "An isolated reduction in DLco with preserved FVC is a PFT pattern often associated with pulmonary vascular disease (like Group 1 PAH) or very mild, non-fibrotic ILD. It does not indicate the 'greater degree of underlying interstitial lung disease' necessary to classify PH as Group 3, which typically involves a restrictive ventilatory defect (reduced FVC) in addition to reduced DLco, especially when severe enough to cause PH.",
+      "C": "The absence of significant parenchymal abnormalities on HRCT would argue *against* Group 3 PH due to lung disease and would instead favor a diagnosis of Group 1 PAH, where the primary pathology is in the pulmonary arteries themselves.",
+      "D": "Positive serology for anti-Scl-70 antibodies is strongly associated with diffuse cutaneous systemic sclerosis and increases the risk of both ILD and PAH. However, the presence of anti-Scl-70 alone does not quantify the *severity* of ILD or definitively classify the PH as Group 3. Patients with anti-Scl-70 can still have predominant PAH (Group 1) with minimal or mild ILD, or even Group 3 PH. The question asks for the *strongest support* for Group 3, which requires direct evidence of significant lung disease, as provided by HRCT findings."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_1a529144",
+    "question": "A 45-year-old male presents to the emergency department with acute onset dyspnea and pleuritic chest pain for 3 hours. He denies any history of prior DVT/PE, recent surgery, or prolonged immobility. Vital signs are stable: HR 88 bpm, BP 130/80 mmHg, RR 20/min, SpO2 96% on room air. Physical examination is unremarkable. Calculation of the Wells score for pulmonary embolism yields a low clinical probability. What is the most appropriate next step in the diagnostic evaluation for pulmonary embolism in this patient?",
+    "options": {
+      "A": "Order a high-sensitivity D-dimer test.",
+      "B": "Proceed directly to Computed Tomography Pulmonary Angiography (CTPA).",
+      "C": "Arrange for a Ventilation-Perfusion (V/Q) scan.",
+      "D": "Initiate empirical therapeutic anticoagulation."
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Embolism - Diagnosis",
+    "deepDiveExplanation": "In patients with a low clinical pre-test probability for pulmonary embolism, based on validated clinical prediction rules like the Wells score, a negative high-sensitivity D-dimer test is highly effective in ruling out PE. This strategy allows for safe avoidance of more invasive and costly imaging studies such as CTPA, which carry risks of radiation exposure and contrast-induced nephropathy. If the D-dimer result is positive, further imaging (typically CTPA) would then be warranted.",
+    "highYieldPearl": "Rio's Take: The PERC rule and D-dimer assay are invaluable tools for ruling out PE in low-risk patients, preventing unnecessary imaging while maintaining diagnostic safety. Always consider clinical probability before ordering advanced imaging.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct initial step in a stable patient with low clinical probability for PE. A negative high-sensitivity D-dimer can rule out PE and prevent unnecessary imaging.",
+      "B": "Proceeding directly to CTPA is generally reserved for patients with intermediate or high clinical probability, or for those with a positive D-dimer in a low-probability setting. Performing it upfront in a low-probability, stable patient is not cost-effective and unnecessarily exposes the patient to radiation and contrast.",
+      "C": "A V/Q scan is an alternative to CTPA, typically considered for patients who cannot undergo CTPA (e.g., severe renal impairment, contrast allergy, pregnancy), or when radiation dose is a major concern. It is not the primary next step after establishing low clinical probability in a stable patient.",
+      "D": "Empirical therapeutic anticoagulation is indicated for patients with high clinical probability of PE, especially those who are hemodynamically unstable, while awaiting definitive diagnostic imaging. This patient is stable and has a low clinical probability, so immediate anticoagulation is not warranted at this stage of diagnosis."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_baa756e4",
+    "question": "A 62-year-old female presents with acute dyspnea and chest discomfort. Her medical history includes chronic kidney disease (eGFR 35 mL/min/1.73m²) and a known contrast allergy to iodinated contrast. Pulmonary embolism is suspected. Which of the following statements regarding the diagnostic approach to pulmonary embolism in this patient is LEAST accurate?",
+    "options": {
+      "A": "A negative age-adjusted D-dimer result would likely rule out PE if her clinical pre-test probability is low.",
+      "B": "A Ventilation-Perfusion (V/Q) scan is generally preferred over Computed Tomography Pulmonary Angiography (CTPA) in her case.",
+      "C": "Echocardiography showing right ventricular dysfunction can confirm the diagnosis of PE.",
+      "D": "Lower extremity compression ultrasonography for DVT could be a reasonable alternative or adjunct if PE imaging is equivocal or contraindicated."
+    },
+    "correctAnswer": "C",
+    "topic": "Pulmonary Embolism - Diagnosis",
+    "deepDiveExplanation": "While echocardiography demonstrating right ventricular dysfunction, acute right heart strain, or McConnell's sign is highly suggestive of pulmonary embolism and crucial for risk stratification, it does not definitively confirm the diagnosis of PE. RV dysfunction can occur in other conditions (e.g., primary pulmonary hypertension, severe COPD exacerbation, acute respiratory distress syndrome). The diagnosis of PE typically requires direct visualization of thrombus (e.g., on CTPA or pulmonary angiography) or demonstration of significant perfusion defects (e.g., on V/Q scan).",
+    "highYieldPearl": "Rio's Take: Echocardiography is vital for assessing PE severity and prognosis via RV function, but it's a supportive, not confirmatory, diagnostic tool for PE itself. The presence of DVT on ultrasound or direct visualization of thrombus on CTPA/V/Q scan are confirmatory.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This statement is accurate. Age-adjusted D-dimer (age x 10 for patients >50 years) improves the specificity of the test, and a negative result effectively rules out PE in low clinical probability patients, even in this older demographic.",
+      "B": "This statement is accurate. Given the patient's chronic kidney disease and contrast allergy, CTPA is relatively contraindicated due to the risk of contrast-induced nephropathy and allergic reaction. A V/Q scan, which uses inhaled and intravenous radionuclides, is a preferred alternative in such scenarios.",
+      "C": "This statement is LEAST accurate. Echocardiography is excellent for assessing the hemodynamic impact and risk stratification of PE by evaluating right ventricular function, but it cannot definitively confirm the presence of pulmonary emboli. RV dysfunction can have multiple causes.",
+      "D": "This statement is accurate. Since most PEs originate from DVT in the lower extremities, identifying a DVT via compression ultrasonography, especially a proximal DVT, strongly supports the diagnosis of PE and can guide management when definitive PE imaging is difficult or contraindicated."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_243e1d7e",
+    "question": "A 70-year-old male with a history of hypertension and diabetes presents with sudden onset severe dyspnea, syncope, and hypotension (BP 85/50 mmHg). He is suspected to have massive pulmonary embolism. An urgent bedside echocardiography is performed. Which of the following echocardiographic findings would be most indicative of severe right ventricular strain or dysfunction consistent with high-risk pulmonary embolism in this patient?",
+    "options": {
+      "A": "Mild tricuspid regurgitation.",
+      "B": "Paradoxical interventricular septal flattening.",
+      "C": "Increased E/A ratio of mitral inflow.",
+      "D": "Left ventricular ejection fraction of 50%."
+    },
+    "correctAnswer": "B",
+    "topic": "Pulmonary Embolism - Diagnosis",
+    "deepDiveExplanation": "In acute massive pulmonary embolism, the sudden increase in pulmonary vascular resistance leads to acute right ventricular (RV) pressure overload. This causes RV dilatation and strain, pushing the interventricular septum towards the left ventricle (LV) during systole and diastole, resulting in a 'D-shaped' LV in short axis (septal flattening). This paradoxical septal motion is a key echocardiographic sign of acute severe RV pressure overload and is highly indicative of significant RV dysfunction in the context of high-risk PE, correlating with adverse outcomes.",
+    "highYieldPearl": "Rio's Take: 'D-shaped' LV on echo is a critical sign of acute RV pressure overload due to PE. It's often associated with hemodynamic compromise and signifies a high-risk PE, guiding urgent therapeutic interventions.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Mild tricuspid regurgitation is a common finding and can be physiologic. While severe TR can indicate RV pressure overload, mild TR alone is not specific for severe acute RV strain due to PE.",
+      "B": "This is the most indicative finding. Paradoxical interventricular septal flattening (a 'D-shaped' left ventricle) reflects acute right ventricular pressure overload and dilatation, which is a hallmark of severe RV strain in acute PE and signifies a high-risk or massive PE.",
+      "C": "An increased E/A ratio of mitral inflow is a marker of left ventricular diastolic dysfunction, typically seen in conditions like heart failure with preserved ejection fraction (HFpEF). It is not directly indicative of acute right ventricular strain due to PE.",
+      "D": "A left ventricular ejection fraction (LVEF) of 50% is within the low-normal range. While severe RV dysfunction can secondarily impact LV filling and function, an LVEF of 50% itself does not primarily indicate acute RV strain or massive PE. The focus in acute PE with hemodynamic compromise is on RV function and its signs of strain."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_043cbc74",
+    "question": "A 68-year-old male, 3 days post-abdominal surgery, develops acute dyspnea and pleuritic chest pain. His Wells score for PE is 4.5 (intermediate probability). He has known chronic kidney disease (eGFR 28 mL/min/1.73m²) and a documented allergy to iodinated contrast. His D-dimer is elevated at 1200 ng/mL (upper limit of normal 500 ng/mL). Chest X-ray is normal. Oxygen saturation is 92% on room air. What is the most appropriate next diagnostic step?",
+    "options": {
+      "A": "Ventilation-perfusion (V/Q) scan",
+      "B": "Computed Tomography Pulmonary Angiography (CTPA)",
+      "C": "Compression Duplex Ultrasonography of lower extremities",
+      "D": "Pulmonary angiography via catheter"
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Embolism - Diagnosis",
+    "deepDiveExplanation": "This patient presents with an intermediate pre-test probability for PE based on the Wells score, an elevated D-dimer, and acute symptoms suggestive of PE. However, there are significant contraindications to CTPA, which is typically the first-line imaging modality: chronic kidney disease (eGFR 28 mL/min/1.73m² puts him at high risk for contrast-induced nephropathy) and a documented allergy to iodinated contrast. In such situations, a Ventilation-Perfusion (V/Q) scan becomes the preferred alternative, especially when the chest X-ray is normal, as it significantly increases the likelihood of a diagnostic (high probability or normal) result. A 'normal' or 'high probability' V/Q scan can either rule out or confirm PE, respectively, without the use of iodinated contrast.",
+    "highYieldPearl": "Rio's Take: In patients with intermediate or high pre-test probability for PE but contraindications to CTPA (e.g., severe renal impairment, contrast allergy), a V/Q scan is the preferred alternative, particularly if the chest X-ray is normal.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Correct. V/Q scan is the most appropriate non-contrast imaging alternative when CTPA is contraindicated due to renal failure or contrast allergy, especially with a normal chest X-ray which improves its diagnostic yield.",
+      "B": "Incorrect. CTPA is contraindicated in this patient due to severe renal impairment (eGFR 28 mL/min) and a documented iodinated contrast allergy. Administering contrast could lead to acute kidney injury or severe allergic reaction.",
+      "C": "Incorrect. While a positive Compression Duplex Ultrasonography (CUS) of the lower extremities would support the diagnosis of VTE and warrant anticoagulation, a negative CUS does not rule out PE. It is not a direct diagnostic test for PE and would not definitively establish or exclude the diagnosis of pulmonary embolism itself. It might be considered if the V/Q scan is indeterminate, but it is not the primary next step to diagnose PE in this setting.",
+      "D": "Incorrect. Pulmonary angiography is an invasive procedure with higher risks and is typically reserved for cases where non-invasive imaging is non-diagnostic, when there is a strong need for definitive diagnosis (e.g., considering thrombolysis in a stable patient without RV dysfunction but equivocal imaging), or for guiding interventional procedures. It is not the initial non-invasive step after CTPA contraindication."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_f3d5a6c0",
+    "question": "A 55-year-old female presents to the emergency department with sudden onset of severe dyspnea, syncope, and hypotension (BP 80/50 mmHg, HR 120 bpm, RR 30/min, SpO2 88% on NRBM). Her Wells score for PE is 7.5 (high probability), largely due to a history of recent orthopedic surgery. ECG shows S1Q3T3 pattern and right axis deviation. Given her hemodynamic status, which of the following is the most appropriate *initial* diagnostic investigation to guide immediate management?",
+    "options": {
+      "A": "Computed Tomography Pulmonary Angiography (CTPA)",
+      "B": "Transthoracic Echocardiography (TTE)",
+      "C": "D-dimer assay",
+      "D": "Lower extremity Compression Ultrasonography (LE CUS)"
+    },
+    "correctAnswer": "B",
+    "topic": "Pulmonary Embolism - Diagnosis",
+    "deepDiveExplanation": "This patient is presenting with signs of massive pulmonary embolism, characterized by hemodynamic instability (hypotension, syncope). In this critical situation, rapid assessment for right ventricular (RV) dysfunction and identification of alternative causes of shock are paramount to guide immediate life-saving interventions like thrombolysis. Transthoracic Echocardiography (TTE) is the most appropriate initial diagnostic investigation. It is a bedside, non-invasive tool that can quickly assess for RV strain (e.g., RV dilation, paradoxical septal motion, tricuspid regurgitation) and estimate pulmonary artery pressures, supporting the diagnosis of massive PE. Crucially, it can also rule out other acute cardiac causes of shock (e.g., pericardial tamponade, severe valvular dysfunction, acute myocardial infarction). While CTPA is the gold standard for definitive anatomical diagnosis of PE, moving a hemodynamically unstable patient to the CT scanner can be risky and time-consuming, delaying critical treatment. TTE provides actionable information much faster.",
+    "highYieldPearl": "Rio's Take: In hemodynamically unstable patients with suspected massive PE, Transthoracic Echocardiography (TTE) is the *initial* diagnostic test of choice to rapidly assess for RV dysfunction and guide immediate management, including empiric thrombolysis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Incorrect. While CTPA is the gold standard for definitive diagnosis of PE, it requires transporting an unstable patient to the radiology suite, which can be hazardous and delay critical interventions. TTE provides faster, bedside information to guide initial management in massive PE.",
+      "B": "Correct. TTE is a rapid, non-invasive, bedside investigation crucial for assessing right ventricular function (RV strain, dilation) and excluding other cardiac causes of shock in hemodynamically unstable patients with suspected massive PE. It directly guides decisions regarding reperfusion therapy.",
+      "C": "Incorrect. A D-dimer assay would be elevated in this high-probability patient but adds no diagnostic or prognostic value in the acute, life-threatening setting of suspected massive PE. Its role is primarily for ruling out PE in low-to-intermediate probability patients.",
+      "D": "Incorrect. Lower extremity Compression Ultrasonography (LE CUS) is useful for identifying the source of PE (DVT), and a positive finding can support the diagnosis of VTE and prompt anticoagulation. However, a negative LE CUS does not rule out PE, and it does not provide information about the severity of PE or the patient's hemodynamic status, which is critical for immediate management in this scenario."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_c14be547",
+    "question": "A 42-year-old non-smoker female presents with gradual onset dyspnea and atypical chest discomfort for 3 days. Her Wells score for PE is 6.0 (high probability), largely due to a history of oral contraceptive use and unilateral leg swelling. D-dimer is elevated at 950 ng/mL. Initial chest X-ray is normal. A Ventilation-Perfusion (V/Q) scan is performed, which reports a 'low probability' for PE. What is the most appropriate next step in the diagnostic management of this patient?",
+    "options": {
+      "A": "Initiate anticoagulant therapy and discharge with close follow-up.",
+      "B": "Perform a Computed Tomography Pulmonary Angiography (CTPA).",
+      "C": "Repeat the D-dimer assay in 24 hours.",
+      "D": "Obtain a Compression Duplex Ultrasonography (CUS) of the lower extremities."
+    },
+    "correctAnswer": "B",
+    "topic": "Pulmonary Embolism - Diagnosis",
+    "deepDiveExplanation": "This patient presents with a high clinical pre-test probability for PE (Wells score 6.0, including risk factors like oral contraceptive use and unilateral leg swelling) and an elevated D-dimer. Despite a 'low probability' V/Q scan, a low probability result does not reliably rule out PE in a patient with a high clinical probability. The PIOPED II study and other guidelines emphasize that a 'low probability' V/Q scan is only sufficient to exclude PE in patients with a *low* clinical probability. When there is a discordance between a high clinical probability and a 'low probability' V/Q scan, further imaging is required to definitively rule in or rule out PE. CTPA is the most appropriate next step to achieve a definitive diagnosis by directly visualizing the pulmonary arteries.",
+    "highYieldPearl": "Rio's Take: A 'low probability' V/Q scan does NOT exclude pulmonary embolism in a patient with high clinical pre-test probability. Discordant results necessitate further definitive imaging, typically CTPA.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Incorrect. Initiating anticoagulation without a definitive diagnosis is premature and carries bleeding risks, especially since a 'low probability' V/Q scan, while not definitive in high clinical probability, is not a 'high probability' result either. Discharging without clarification is unsafe given the high clinical suspicion.",
+      "B": "Correct. In a patient with a high clinical probability of PE, a 'low probability' V/Q scan is considered non-diagnostic. The diagnostic algorithm dictates that such patients require further definitive imaging, and CTPA is the next gold standard to either confirm or exclude PE.",
+      "C": "Incorrect. The D-dimer is already elevated, confirming that a thrombotic process might be occurring. Repeating it in 24 hours adds no diagnostic value and will likely remain elevated, providing no further guidance to rule in or rule out PE.",
+      "D": "Incorrect. While a Compression Duplex Ultrasonography (CUS) of the lower extremities could identify a DVT, a negative CUS does not rule out PE (which can originate from other sites or be a distal DVT). Even a positive CUS, while indicating VTE, does not precisely characterize the pulmonary embolism. The primary goal here is to image the pulmonary arteries directly to confirm or exclude PE, for which CTPA is superior to LE CUS in this scenario."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_9226e008",
+    "question": "A 48-year-old female presents to the emergency department with sudden onset dyspnea and pleuritic chest pain that began a few hours after a 10-hour international flight. She denies any history of cardiopulmonary disease. On examination, she is hemodynamically stable with a blood pressure of 125/80 mmHg, heart rate of 96 bpm, respiratory rate of 20 breaths/min, and oxygen saturation of 95% on room air. Her chest examination is clear, and there is no overt leg swelling. An ECG shows sinus tachycardia. Applying the Wells criteria, her clinical probability for pulmonary embolism is calculated as 3 points (intermediate probability). What is the most appropriate next diagnostic step?",
+    "options": {
+      "A": "D-dimer assay",
+      "B": "Computed Tomography Pulmonary Angiography (CTPA)",
+      "C": "Transthoracic Echocardiography",
+      "D": "Lower extremity Duplex Ultrasonography"
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Embolism - Diagnosis",
+    "deepDiveExplanation": "For hemodynamically stable patients with a suspected pulmonary embolism and an intermediate clinical probability (as per Wells or Revised Geneva scores), the D-dimer assay is the most appropriate initial diagnostic step. A negative D-dimer result in a patient with low or intermediate clinical probability can effectively rule out PE, avoiding the need for more invasive or radiation-exposing imaging studies like CTPA. If the D-dimer is elevated, further imaging, typically CTPA, would be indicated.",
+    "highYieldPearl": "Rio's Take: Always start with clinical probability assessment (Wells/Revised Geneva) and D-dimer in stable patients. D-dimer is excellent for 'ruling out' PE in low-to-intermediate probability patients.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct initial step for a stable patient with intermediate clinical probability. A negative D-dimer effectively rules out PE, while a positive result mandates further imaging.",
+      "B": "CTPA is the gold standard for diagnosing PE, but for intermediate probability, it should generally be preceded by a D-dimer assay to avoid unnecessary radiation exposure and contrast administration if PE can be ruled out by a negative D-dimer.",
+      "C": "Transthoracic echocardiography is primarily used to assess right ventricular function and strain in patients with suspected PE, particularly in hemodynamically unstable individuals, to aid in risk stratification and guide therapy. It is not a primary diagnostic tool for the presence of the embolus itself in stable patients.",
+      "D": "Lower extremity Duplex Ultrasonography is used to diagnose deep venous thrombosis (DVT), which is the most common source of PE. While a positive DVT study supports the diagnosis of VTE, a negative study does not rule out PE (emboli can originate from other sites or detach completely), and it is not the primary diagnostic test for PE in this scenario. The focus is directly on diagnosing PE."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_5006ace7",
+    "question": "A 72-year-old male presents to the emergency department with sudden onset severe dyspnea, syncope, and chest pain. He underwent total hip replacement surgery 1 week ago. On examination, he is tachypneic and hypotensive (BP 85/50 mmHg), tachycardic (HR 125 bpm), and his oxygen saturation is 88% on a 100% non-rebreather mask. Jugular venous distension is noted. ECG shows new-onset right bundle branch block and T-wave inversions in leads V1-V4. Assuming the patient can be safely transported for imaging, what is the most appropriate definitive diagnostic step for pulmonary embolism in this patient?",
+    "options": {
+      "A": "Computed Tomography Pulmonary Angiography (CTPA)",
+      "B": "Bedside Transthoracic Echocardiography",
+      "C": "Ventilation-Perfusion (V/Q) scan",
+      "D": "D-dimer assay"
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Embolism - Diagnosis",
+    "deepDiveExplanation": "This patient presents with severe hemodynamic instability (hypotension, tachycardia, syncope, hypoxemia) and significant risk factors (recent surgery), strongly suggesting massive or high-risk pulmonary embolism. In such cases, rapid and definitive diagnosis is crucial for guiding emergent treatment. CTPA is the gold standard imaging modality for diagnosing PE and can directly visualize emboli within the pulmonary arteries. Assuming the patient can be safely transported and can hold their breath briefly, CTPA offers the most direct and comprehensive diagnostic information.",
+    "highYieldPearl": "Rio's Take: For hemodynamically unstable patients with high suspicion of PE, rapid definitive imaging (CTPA) is paramount if feasible. D-dimer is irrelevant in this context.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. For hemodynamically unstable patients with high clinical suspicion of PE, CTPA is the definitive diagnostic test, providing direct visualization of emboli and guiding immediate therapeutic decisions, assuming the patient can be safely transported.",
+      "B": "Bedside transthoracic echocardiography is an invaluable tool in hemodynamically unstable patients with suspected PE. It can quickly assess for right ventricular dysfunction and pulmonary hypertension, providing strong supportive evidence for PE and aiding in risk stratification. However, it is an indirect test for PE and cannot definitively confirm the presence or location of emboli as precisely as CTPA. It would be the primary choice if the patient is too unstable to move to CT.",
+      "C": "A Ventilation-Perfusion (V/Q) scan is generally less sensitive and specific than CTPA, especially in the acute, unstable setting where rapid and precise diagnosis is needed. Its utility is diminished in patients with pre-existing lung disease and is usually reserved for stable patients with contraindications to CTPA.",
+      "D": "D-dimer assays are not indicated in patients with high clinical probability of PE, especially those who are hemodynamically unstable. In this setting, the D-dimer is almost certainly elevated, and awaiting its result would cause critical delays in diagnosis and treatment without adding useful information."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_99c833dd",
+    "question": "A 65-year-old male with a history of chronic kidney disease (eGFR 28 mL/min/1.73m²) and recent hospitalization for pneumonia, presents with sudden onset dyspnea and right-sided pleuritic chest pain. He is hemodynamically stable (BP 130/80 mmHg, HR 92 bpm, RR 20 breaths/min, SpO2 94% on room air). His chest X-ray shows no acute infiltrates or effusions. Wells criteria for PE yield a score of 4 points (intermediate probability). Given the patient's renal function, which of the following is the most appropriate diagnostic imaging study to evaluate for pulmonary embolism?",
+    "options": {
+      "A": "Ventilation-Perfusion (V/Q) scan",
+      "B": "Computed Tomography Pulmonary Angiography (CTPA)",
+      "C": "Magnetic Resonance Angiography (MRA)",
+      "D": "Conventional Pulmonary Angiography"
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Embolism - Diagnosis",
+    "deepDiveExplanation": "This patient has an intermediate clinical probability for PE and is hemodynamically stable. However, he has severe chronic kidney disease (eGFR 28 mL/min/1.73m²), which makes iodinated contrast administration for CTPA risky due to the potential for contrast-induced nephropathy. In this scenario, with a normal chest X-ray, a Ventilation-Perfusion (V/Q) scan is the most appropriate diagnostic imaging study. A normal chest X-ray enhances the diagnostic utility of V/Q scanning.",
+    "highYieldPearl": "Rio's Take: In stable patients with intermediate probability and contraindications to iodinated contrast (like severe renal impairment), V/Q scan (especially with a normal CXR) is the go-to alternative to CTPA.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. For a stable patient with intermediate probability of PE and severe renal impairment (contraindication to iodinated contrast for CTPA), a V/Q scan, particularly with a normal chest X-ray, is the most appropriate and safest alternative imaging modality.",
+      "B": "CTPA is the gold standard for PE diagnosis, but it involves iodinated contrast, which is nephrotoxic. In patients with severe chronic kidney disease (eGFR < 30 mL/min), the risk of contrast-induced nephropathy is high, making it generally contraindicated or requiring significant precautions that might delay diagnosis.",
+      "C": "While Magnetic Resonance Angiography (MRA) can be used to diagnose PE, it often requires gadolinium-based contrast agents. Although newer agents have a lower risk, gadolinium can still cause nephrogenic systemic fibrosis in patients with severe renal impairment (eGFR < 30 mL/min). Moreover, MRA for PE is less widely available and less extensively validated than CTPA or V/Q scanning.",
+      "D": "Conventional Pulmonary Angiography is considered the most invasive and definitive test for PE. However, it carries higher risks (bleeding, arrhythmias, contrast-related complications) and is rarely used as a first-line diagnostic test due to its invasiveness. It is typically reserved for cases where non-invasive imaging is inconclusive or when therapeutic intervention (e.g., catheter-directed thrombolysis) is planned simultaneously."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_2bc61494",
+    "question": "A 72-year-old male with a history of hypertension, coronary artery disease, and stage 3 chronic kidney disease (eGFR 40 mL/min/1.73m²) presents to the emergency department with sudden onset dyspnea and pleuritic chest pain for 4 hours. He had knee replacement surgery 3 weeks ago. His vital signs are: BP 100/60 mmHg, HR 118 bpm, RR 28 bpm, SpO2 90% on room air. ECG shows sinus tachycardia and new right bundle branch block. Bedside echocardiography reveals right ventricular dilation and septal flattening. His D-dimer is 1200 ng/mL (upper limit of normal 500 ng/mL). Given his renal impairment, the attending physician is hesitant to perform a CTPA immediately.",
+    "options": {
+      "A": "Proceed directly to conventional pulmonary angiography.",
+      "B": "Initiate empiric anticoagulation and perform a lower extremity duplex ultrasound.",
+      "C": "Perform a Ventilation-Perfusion (V/Q) scan.",
+      "D": "Administer intravenous fluids, assess hemodynamic response, and then reconsider CTPA with optimized contrast."
+    },
+    "correctAnswer": "D",
+    "topic": "Pulmonary Embolism - Diagnosis",
+    "deepDiveExplanation": "This patient presents with a high clinical probability of pulmonary embolism (PE) given the acute dyspnea, pleuritic chest pain, recent surgery (major risk factor), and signs of hemodynamic instability (hypotension, tachycardia, hypoxemia). The ECG shows new RBBB, and bedside echocardiography demonstrates right ventricular (RV) dilation and septal flattening, all indicative of acute RV strain, classifying this as a high-risk PE. For high-risk PE, rapid diagnosis and consideration of reperfusion therapy are critical. The gold standard for diagnosis is CT Pulmonary Angiography (CTPA).\n\nThe primary challenge here is the patient's stage 3 chronic kidney disease, which makes the use of iodinated contrast for CTPA risky. However, the physician is 'hesitant,' not stating an absolute contraindication, implying that if the benefit-risk ratio shifts, CTPA might still be an option.\n\nOption D addresses two critical aspects: first, the patient's hemodynamic instability (BP 100/60 mmHg). Administering intravenous fluids is the initial management step for hypotension in PE to improve RV preload and cardiac output. If the patient stabilizes and blood pressure improves, CTPA becomes safer and more feasible with optimized contrast protocols (e.g., hydration, lowest possible contrast volume). This approach aims for the definitive diagnostic test (CTPA) by first mitigating the patient's instability and the risk of contrast-induced nephropathy.\n\nOption A, conventional pulmonary angiography, is the gold standard but highly invasive, carries significant risks, and is usually reserved for cases where CTPA is inconclusive or strongly contraindicated, or for specific interventional procedures. It is not the most appropriate immediate next step given other less invasive options that might suffice.\n\nOption B, initiating empiric anticoagulation, is appropriate given the high suspicion of PE in an unstable patient, but the question specifically asks for the 'most appropriate next *diagnostic* step.' While a positive lower extremity duplex ultrasound confirming DVT can support the diagnosis of VTE, it does not directly visualize the PE, nor does a negative study rule out PE. It is a reasonable alternative if CTPA is completely impossible, but it is less definitive for PE itself than CTPA.\n\nOption C, a Ventilation-Perfusion (V/Q) scan, is an alternative to CTPA in patients with renal impairment. However, in an emergency setting, V/Q scans may not be immediately available, and in patients with pre-existing lung disease (like this elderly patient, potentially with underlying CAD affecting lung parenchyma), they often yield non-diagnostic 'intermediate probability' results, which would then necessitate further imaging like CTPA, delaying definitive diagnosis.",
+    "highYieldPearl": "In high-risk PE with contraindications or concerns for CTPA (e.g., renal impairment), stabilize the patient first. If stabilization makes CTPA feasible with optimized contrast, it remains the preferred diagnostic imaging. If CTPA is absolutely impossible, bedside echocardiography and lower limb duplex ultrasound may suffice to support diagnosis for treatment decisions.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is the gold standard but highly invasive and generally not the initial step. Choosing it implies overlooking less invasive, yet effective, alternatives and the risks associated with an invasive procedure in an unstable patient.",
+      "B": "Empiric anticoagulation is correct for management, but the question asks for a *diagnostic* step. While a positive duplex can confirm DVT and support VTE diagnosis, a negative one doesn't rule out PE, and it doesn't directly image the PE or its burden in the pulmonary arteries, which is crucial for high-risk PE.",
+      "C": "V/Q scans are an option for renal impairment, but in unstable patients or those with underlying lung issues, they frequently yield non-diagnostic results, requiring subsequent CTPA and delaying definitive management.",
+      "D": "This option is attractive as it addresses both the patient's immediate instability (therapeutic) and then aims for the most definitive imaging for PE (diagnostic) while mitigating the risk related to CKD. The trap is to separate 'diagnostic' from 'management' too strictly, as stabilization is often a prerequisite for safe and effective diagnosis in critical scenarios."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_36fce0fd",
+    "question": "A 48-year-old female presents to the emergency department with gradually worsening dyspnea and vague chest discomfort for 5 days. She has a history of well-controlled rheumatoid arthritis on methotrexate and recently recovered from a severe viral pneumonia 2 weeks ago. She reports no leg swelling or pain. Her vital signs are stable: BP 120/80 mmHg, HR 88 bpm, RR 18 bpm, SpO2 96% on room air. Wells score for PE is 2 (Intermediate Probability). Her D-dimer is 800 ng/mL (upper limit of normal 500 ng/mL). Chest X-ray shows residual patchy infiltrates consistent with resolving pneumonia. An age-adjusted D-dimer threshold (age x 10 ng/mL) would be 480 ng/mL.",
+    "options": {
+      "A": "Discharge home with advice to return if symptoms worsen, given stable vitals and recent pneumonia explaining D-dimer.",
+      "B": "Proceed directly to a Computed Tomography Pulmonary Angiography (CTPA).",
+      "C": "Perform a Ventilation-Perfusion (V/Q) scan.",
+      "D": "Repeat D-dimer after 24 hours to observe for trend."
+    },
+    "correctAnswer": "B",
+    "topic": "Pulmonary Embolism - Diagnosis",
+    "deepDiveExplanation": "The patient presents with an intermediate clinical probability of PE according to the Wells score (2 points). In this scenario, D-dimer testing is used to help rule out PE. Her D-dimer level is 800 ng/mL, which is above both the standard threshold (500 ng/mL) and her age-adjusted threshold (480 ng/mL for a 48-year-old). An elevated D-dimer in a patient with intermediate clinical probability means PE cannot be ruled out and further imaging is required.\n\nOption B, proceeding directly to CTPA, is the most appropriate next step. CTPA is the preferred imaging modality for diagnosing PE due to its high sensitivity and specificity. Given her stable hemodynamics, CTPA can be safely performed.\n\nOption A is unsafe. An intermediate probability for PE with an elevated D-dimer warrants further investigation, not discharge. While recent pneumonia and rheumatoid arthritis can elevate D-dimer, these conditions do not negate the need to rule out PE when the clinical probability is intermediate and D-dimer is positive.\n\nOption C, performing a V/Q scan, is less suitable here. The patient's chest X-ray shows 'residual patchy infiltrates consistent with resolving pneumonia.' The presence of abnormal chest X-ray findings significantly increases the likelihood that a V/Q scan will be non-diagnostic (intermediate probability), necessitating a CTPA afterward and thus delaying diagnosis.\n\nOption D, repeating D-dimer, is not a standard diagnostic approach for acute PE in this context. A single elevated D-dimer (above threshold) in an intermediate probability patient is sufficient to warrant definitive imaging; observing trends delays critical diagnosis.",
+    "highYieldPearl": "For intermediate clinical probability of PE with an elevated D-dimer (even age-adjusted), CTPA is the definitive next step. Avoid V/Q scans if CXR is abnormal, as they are likely to be indeterminate.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is a dangerous trap. While stable vitals and alternative causes for elevated D-dimer exist (pneumonia, RA), an intermediate Wells score with an elevated D-dimer necessitates further workup, making discharge unsafe.",
+      "B": "This is the correct choice, as it directly targets the diagnosis of PE with the most accurate imaging modality when D-dimer is positive in an intermediate-probability patient.",
+      "C": "The presence of residual infiltrates on CXR is a key distractor. While V/Q is an alternative to CTPA, abnormal CXR findings make V/Q scans frequently non-diagnostic, thus less efficient and delaying diagnosis in this scenario.",
+      "D": "This option introduces an unnecessary delay. D-dimer trends are not used for initial diagnosis. An elevated D-dimer in this clinical context warrants immediate definitive imaging."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_1540a478",
+    "question": "A 60-year-old male with a history of recurrent syncope and chronic obstructive pulmonary disease (COPD) presents with sudden onset worsening dyspnea and pre-syncopal episodes. His vital signs are: BP 110/70 mmHg, HR 105 bpm, RR 24 bpm, SpO2 92% on 2L O2. ECG shows sinus tachycardia with S1Q3T3 pattern. A CTPA is performed and reveals subsegmental pulmonary emboli bilaterally, primarily in the right lower lobe. However, the CTPA report notes 'mild right ventricular prominence, but without overt signs of acute pressure overload.' Troponin I is mildly elevated at 0.08 ng/mL (ULN 0.04 ng/mL), and BNP is 300 pg/mL (ULN 100 pg/mL).",
+    "options": {
+      "A": "Immediate conventional pulmonary angiography to confirm the extent of subsegmental emboli.",
+      "B": "Serial electrocardiograms and troponin levels to monitor for myocardial injury.",
+      "C": "Transthoracic echocardiography with specific evaluation for right ventricular function.",
+      "D": "Lower extremity compression ultrasonography to identify the source of emboli."
+    },
+    "correctAnswer": "C",
+    "topic": "Pulmonary Embolism - Diagnosis",
+    "deepDiveExplanation": "This patient has a confirmed diagnosis of pulmonary embolism (PE) by CTPA, specifically subsegmental emboli. The clinical picture (worsening dyspnea, pre-syncopal episodes, S1Q3T3 pattern on ECG) suggests potential hemodynamic compromise or significant right ventricular (RV) strain. The CTPA report mentioning 'mild RV prominence, but without overt signs of acute pressure overload' is somewhat reassuring but potentially misleading given the clinical and biochemical markers.\n\nThe key to this difficult scenario lies in integrating the conflicting or ambiguous findings for risk stratification. The patient has elevated cardiac biomarkers (Troponin I and BNP), which are strong indicators of myocardial injury and RV dysfunction in the context of PE. These biomarkers, combined with the pre-syncopal symptoms and ECG findings, suggest that the patient is at intermediate-high risk for adverse outcomes, despite the subsegmental nature of the emboli and the CTPA report's cautious interpretation of RV changes.\n\nAccurate risk stratification in intermediate-risk PE is crucial for guiding management decisions, particularly whether to consider advanced therapies (e.g., catheter-directed thrombolysis or systemic thrombolysis). Transthoracic echocardiography (TTE) is the most appropriate next diagnostic evaluation because it provides a dynamic and detailed assessment of RV size, systolic function (e.g., TAPSE, S', RV free wall strain), and estimated pulmonary artery pressures. This functional assessment is often more sensitive and clinically relevant than static CT findings for detecting acute RV failure and guiding prognosis and therapy.\n\nOption A, immediate conventional pulmonary angiography, is overly invasive and generally not indicated solely for assessing the extent of already diagnosed subsegmental emboli. The PE is confirmed.\n\nOption B, serial ECGs and troponin levels, is part of monitoring, but the initial levels are already elevated, pointing towards RV strain. The primary need is a direct assessment of RV function, not just continued monitoring of biomarkers, to inform immediate management decisions.\n\nOption D, lower extremity compression ultrasonography, identifies the source of emboli (DVT) and is important for guiding long-term anticoagulation, but it does not contribute to the immediate risk stratification or management decisions related to the already diagnosed PE and its impact on the heart.",
+    "highYieldPearl": "In confirmed PE with clinical or biochemical signs of RV dysfunction (e.g., pre-syncope, elevated troponin/BNP, S1Q3T3 on ECG), even if CTPA findings for RV strain are subtle, a detailed transthoracic echocardiography is crucial for accurate risk stratification (intermediate-high vs. intermediate-low risk) to guide management.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This option is a trap by offering the 'gold standard.' However, the PE is already diagnosed by CTPA. Further invasive imaging simply for 'extent' of subsegmental emboli is rarely justified when the main clinical question is about RV function and risk stratification, not merely anatomical detail.",
+      "B": "Monitoring is important, but the question asks for a *diagnostic evaluation to guide management*. The initial biomarker levels are already informative. What's needed is a direct, functional assessment of the RV, which TTE provides.",
+      "C": "This is the correct answer. The patient's symptoms (pre-syncope), ECG (S1Q3T3), and elevated biomarkers (Troponin, BNP) strongly suggest RV dysfunction, despite the CTPA's 'mild prominence' comment. TTE provides crucial dynamic assessment of RV function for risk stratification, which directly impacts management decisions in intermediate-risk PE.",
+      "D": "While identifying the DVT source is part of VTE workup, it does not directly contribute to the immediate risk stratification and management of the *pulmonary embolism itself*, which is the focus here. The PE is already confirmed."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_2bb062cb",
+    "question": "A 32-year-old primigravida at 28 weeks gestation presents to the emergency department with acute onset dyspnea and pleuritic chest pain. She has no significant past medical history apart from occasional mild asthma, well-controlled. Her heart rate is 105 bpm, respiratory rate 24 bpm, blood pressure 118/72 mmHg, and SpO2 94% on room air. Lung auscultation reveals clear breath sounds. ECG shows sinus tachycardia with an incomplete right bundle branch block. A modified Geneva score is calculated as 2 (intermediate clinical probability). Her D-dimer result is 850 ng/mL (FEU, upper limit for age/pregnancy adjusted is 500 ng/mL). What is the most appropriate next step in her diagnostic workup?",
+    "options": {
+      "A": "Perform a ventilation-perfusion (V/Q) scan.",
+      "B": "Administer therapeutic anticoagulation immediately.",
+      "C": "Proceed directly to Computed Tomography Pulmonary Angiography (CTPA).",
+      "D": "Obtain a lower extremity venous duplex ultrasound."
+    },
+    "correctAnswer": "A",
+    "topic": "Pulmonary Embolism - Diagnosis",
+    "deepDiveExplanation": "This patient presents with acute dyspnea and pleuritic chest pain in the setting of pregnancy. Her intermediate clinical probability and elevated D-dimer necessitate further imaging for pulmonary embolism. Given her pregnancy, minimizing fetal radiation exposure is a primary concern. With a normal chest X-ray (implied by clear lung sounds and no mentioned abnormalities), a V/Q scan is the preferred initial imaging modality due to its lower fetal radiation dose compared to CTPA. A normal chest X-ray increases the likelihood of a diagnostic V/Q scan (normal or high probability). If the V/Q scan were non-diagnostic, or if the initial CXR was abnormal, then CTPA might be considered, weighing the risks and benefits.",
+    "highYieldPearl": "Rio's Take: In pregnant patients with suspected PE and a normal chest X-ray, V/Q scanning is the preferred initial imaging modality due to lower fetal radiation exposure. CTPA is generally reserved for cases where V/Q scan is non-diagnostic or contraindicated, or if the chest X-ray is abnormal.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is the correct approach due to pregnancy and the preference for V/Q scans in this specific population with a presumed normal chest X-ray, balancing diagnostic accuracy with radiation safety for the fetus.",
+      "B": "While PE is suspected, initiating therapeutic anticoagulation without a definitive diagnosis in an intermediate probability patient is generally not the 'most appropriate next step' when safer diagnostic options are available. Anticoagulation carries bleeding risks, and a definitive diagnosis helps avoid unnecessary treatment.",
+      "C": "CTPA is the gold standard for PE diagnosis but delivers a higher radiation dose to the fetus compared to a V/Q scan. It is typically deferred in pregnant patients with a normal chest X-ray until a V/Q scan is proven non-diagnostic or if the clinical probability is very high and urgent diagnosis for massive PE is critical.",
+      "D": "Lower extremity venous duplex ultrasound is useful for identifying the source of PE (DVT) and is often done concurrently or when PE imaging is inconclusive. However, it does not directly diagnose PE or explain the patient's acute respiratory symptoms. It is not the primary diagnostic test for PE in this scenario."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_d4f27a03",
+    "question": "A 68-year-old male, two weeks post-left total knee arthroplasty, presents with sudden onset severe dyspnea, central chest pain, and lightheadedness. On examination, he is hypotensive (BP 90/60 mmHg), tachycardic (HR 120 bpm), and tachypneic (RR 28 bpm). His SpO2 is 88% on room air. ECG shows S1Q3T3 pattern and right ventricular strain. His D-dimer result is 320 ng/mL (FEU, normal < 500 ng/mL). Given these findings, what is the most appropriate next diagnostic step?",
+    "options": {
+      "A": "Rule out PE with the negative D-dimer and investigate other causes of shock.",
+      "B": "Perform a bedside echocardiogram to assess for right ventricular dysfunction.",
+      "C": "Proceed directly to Computed Tomography Pulmonary Angiography (CTPA) after stabilizing the patient.",
+      "D": "Obtain a lower extremity venous duplex ultrasound to confirm DVT."
+    },
+    "correctAnswer": "B",
+    "topic": "Pulmonary Embolism - Diagnosis",
+    "deepDiveExplanation": "This patient presents with clear signs of hemodynamic instability (hypotension, tachycardia) and clinical features highly suggestive of massive pulmonary embolism (recent surgery, sudden severe dyspnea, chest pain, S1Q3T3, right ventricular strain on ECG, hypoxia). In such high clinical probability and unstable patients, D-dimer has a limited role in ruling out PE. The D-dimer's high negative predictive value is primarily for patients with low clinical pre-test probability. A negative D-dimer should not be used to exclude PE in a patient with high clinical suspicion for massive PE. A bedside echocardiogram can rapidly assess for right ventricular (RV) dilation, dysfunction, and signs of pulmonary hypertension, which are characteristic of massive PE. This information can support the presumptive diagnosis and guide immediate life-saving management (e.g., thrombolysis) even before definitive imaging like CTPA, especially if the patient is too unstable for transfer to the CT scanner.",
+    "highYieldPearl": "Rio's Take: D-dimer should not be used to rule out pulmonary embolism in patients with high clinical probability or hemodynamic instability suggestive of massive PE. In hemodynamically unstable patients with suspected massive PE, a bedside echocardiogram is the most appropriate rapid diagnostic step to assess for RV dysfunction and guide immediate management.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is a critical trap. While D-dimer has a high negative predictive value, its utility is primarily in ruling out PE in patients with low or intermediate clinical probability. In a patient with high clinical probability and signs of massive PE, a negative D-dimer cannot reliably exclude the diagnosis, and relying on it would lead to dangerous delays in diagnosis and treatment.",
+      "B": "This is the most appropriate next diagnostic step. A bedside echocardiogram provides rapid, non-invasive assessment of RV function and hemodynamics, strongly supporting the diagnosis of massive PE and informing immediate therapeutic decisions in an unstable patient, often more quickly and safely than attempting a CTPA.",
+      "C": "CTPA is the gold standard for definitive diagnosis of PE. However, in a hypotensive and unstable patient, the logistics of transport to the CT scanner and the potential for contrast-induced deterioration make it a riskier initial step than a rapid bedside echocardiogram. While CTPA may be performed once the patient is stabilized, immediate bedside echo provides crucial information faster.",
+      "D": "Lower extremity venous duplex ultrasound can identify the source of emboli (DVT). While relevant, confirming DVT does not definitively diagnose PE as the cause of the patient's hemodynamic instability, nor does it provide the immediate prognostic or diagnostic information needed for an unstable patient that an echocardiogram would."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_ph_classification_a83b5fc1",
+    "question": "A 75-year-old male with a history of hypertension, type 2 diabetes, and stage 4 chronic kidney disease (eGFR 25 mL/min/1.73m²) presents with subacute onset of progressive dyspnea and cough for the past week. He denies chest pain or hemoptysis. His Wells score is 4 (moderate clinical probability). A D-dimer assay returns a value of 650 ng/mL (FEU, age-adjusted upper limit 750 ng/mL for age > 50). His chest X-ray shows mild bilateral interstitial changes, consistent with his known interstitial lung disease. Given his renal function, which of the following is the most appropriate next step in diagnosing or excluding pulmonary embolism?",
+    "options": {
+      "A": "Proceed directly to Computed Tomography Pulmonary Angiography (CTPA) with careful hydration and N-acetylcysteine pre-treatment.",
+      "B": "Obtain a ventilation-perfusion (V/Q) scan.",
+      "C": "Start empiric therapeutic anticoagulation and reassess in 24-48 hours.",
+      "D": "Perform a lower extremity venous duplex ultrasound followed by an echocardiogram."
+    },
+    "correctAnswer": "B",
+    "topic": "Pulmonary Embolism - Diagnosis",
+    "deepDiveExplanation": "This patient has a moderate clinical probability of PE and an elevated D-dimer (even considering age-adjustment, his D-dimer is higher than the standard cutoff of 500 ng/mL), indicating the need for further imaging. However, he has severe chronic kidney disease (Stage 4 CKD with eGFR 25 mL/min/1.73m²). Iodinated contrast used in CTPA carries a significant risk of contrast-induced nephropathy, which could worsen his renal function. While mitigation strategies like hydration and N-acetylcysteine exist, the risk remains substantial in severe CKD. A V/Q scan is a non-contrast study and is therefore the preferred initial imaging modality in patients with significant renal impairment. Although his interstitial lung disease might theoretically affect V/Q scan interpretation, a V/Q scan can still be diagnostic (normal or high probability) or provide valuable information. The benefit of avoiding contrast outweighs the potential interpretive challenges, making it the most appropriate initial diagnostic step in this specific high-risk renal patient.",
+    "highYieldPearl": "Rio's Take: In patients with suspected PE and severe renal impairment (e.g., eGFR < 30 mL/min/1.73m²), V/Q scanning is generally preferred over CTPA due to the risk of contrast-induced nephropathy with iodinated contrast, even in the presence of underlying lung disease that might slightly complicate V/Q interpretation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "CTPA is the gold standard for PE diagnosis, but in patients with severe renal impairment (eGFR < 30), the risk of contrast-induced nephropathy is high. Even with prophylactic measures, it's not the 'most appropriate' first choice when a safer alternative exists.",
+      "B": "This is the most appropriate next step. V/Q scanning does not require iodinated contrast and is therefore safer for patients with severe renal dysfunction, even if a pre-existing interstitial lung disease might introduce some complexity in interpretation. A normal or high-probability V/Q scan can be diagnostic.",
+      "C": "Starting empiric therapeutic anticoagulation is generally reserved for patients with high clinical probability or when definitive imaging is significantly delayed or unavailable. For a patient with moderate probability, a confirmed diagnosis is usually sought before initiating therapy due to the bleeding risks associated with anticoagulation.",
+      "D": "Lower extremity venous duplex ultrasound and echocardiogram are useful ancillary tests, but neither is a primary diagnostic test for PE itself. Duplex ultrasound can identify DVT, but a positive finding doesn't definitively prove PE as the cause of current symptoms. Echocardiography assesses RV function but does not directly visualize emboli in the pulmonary arteries."
+    },
+    "sourceLocation": {
+      "bookName": "79.PHTN (1)",
+      "chapter": "Etiology of PH in a Large Community Study",
+      "section": null,
+      "pageNumber": 7
+    },
+    "bookId": "79.PHTN (1)",
+    "chunkId": "79.PHTN_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988497,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "According to the 6th World Symposium on PH (2018), pulmonary hypertension is defined by a mean pulmonary arterial pressure (mPAP) greater than what value at rest?",
+    "options": {
+      "A": "20 mmHg",
+      "B": "25 mmHg",
+      "C": "15 mmHg",
+      "D": "30 mmHg"
+    },
+    "correctAnswer": "A",
+    "topic": "ph_classification",
+    "deepDiveExplanation": "The definition of pulmonary hypertension was revised at the 6th World Symposium on Pulmonary Hypertension (Nice, 2018) from a mean pulmonary arterial pressure (mPAP) > 25 mmHg to mPAP > 20 mmHg at rest, measured by right heart catheterization. This change reflects evidence that outcomes begin to worsen at lower pressure thresholds.",
+    "highYieldPearl": "The 2018 Nice definition of PH (mPAP > 20 mmHg) is crucial. For Pulmonary Arterial Hypertension (Group 1), additional criteria are PCWP ≤ 15 mmHg and PVR > 2 Wood units.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "The most common trap is selecting the older definition of 25 mmHg. Candidates must be updated with the latest classification guidelines.",
+    "isOneLiner": true,
+    "id": "one_liner_ph_classification_k50iom64"
+  },
+  {
+    "question": "Which condition is classified under Group 1 Pulmonary Arterial Hypertension (PAH)?",
+    "options": {
+      "A": "Left Ventricular Systolic Dysfunction",
+      "B": "Chronic Obstructive Pulmonary Disease",
+      "C": "Portal Hypertension",
+      "D": "Chronic Thromboembolic Pulmonary Hypertension"
+    },
+    "correctAnswer": "C",
+    "topic": "ph_classification",
+    "deepDiveExplanation": "Group 1 Pulmonary Arterial Hypertension (PAH) includes conditions where PH arises from intrinsic pathology of the pulmonary arterioles. Portal hypertension-associated PAH is a specific subtype within Group 1, alongside idiopathic, heritable, drug/toxin-induced, connective tissue diseases, HIV, and congenital heart disease.",
+    "highYieldPearl": "Remember the specific etiologies listed under Group 1 PAH. Portal hypertension, HIV infection, and systemic sclerosis are common examples in exams.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Each incorrect option represents another major WHO PH group (Group 2, 3, and 4 respectively), making them plausible distractors if the specific classifications are not clear.",
+    "isOneLiner": true,
+    "id": "one_liner_ph_classification_etjp5jxz"
+  },
+  {
+    "question": "Pulmonary hypertension due to left heart disease is categorized under which WHO group?",
+    "options": {
+      "A": "Group 1",
+      "B": "Group 2",
+      "C": "Group 3",
+      "D": "Group 4"
+    },
+    "correctAnswer": "B",
+    "topic": "ph_classification",
+    "deepDiveExplanation": "Group 2 Pulmonary Hypertension is the most common form of PH and encompasses all conditions where PH is secondary to left heart disease, including left ventricular systolic or diastolic dysfunction and valvular heart disease (e.g., mitral stenosis, aortic stenosis/regurgitation).",
+    "highYieldPearl": "Group 2 PH is characterized by elevated left-sided filling pressures (PCWP > 15 mmHg). It can be isolated post-capillary (PVR ≤ 2 Wood units) or combined pre- and post-capillary (PVR > 2 Wood units).",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "This is a foundational question. The trap would be confusing the primary causes of PH with other categories. Group 2 is distinctly 'left heart disease'.",
+    "isOneLiner": true,
+    "id": "one_liner_ph_classification_z52m7ttu"
+  },
+  {
+    "question": "Which of the following conditions is a primary cause of Group 3 Pulmonary Hypertension?",
+    "options": {
+      "A": "HIV infection",
+      "B": "Interstitial Lung Disease",
+      "C": "Chronic Hemolytic Anemia",
+      "D": "Congenital Heart Disease"
+    },
+    "correctAnswer": "B",
+    "topic": "ph_classification",
+    "deepDiveExplanation": "Group 3 Pulmonary Hypertension is associated with lung diseases and/or hypoxia. This group includes conditions like COPD, interstitial lung disease (ILD), sleep-disordered breathing, alveolar hypoventilation disorders, and chronic exposure to high altitude. ILD is a significant cause within this group.",
+    "highYieldPearl": "Think 'lung disease and hypoxia' for Group 3. The pulmonary vasoconstriction and remodeling are primarily driven by alveolar hypoxia.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "HIV infection, chronic hemolytic anemia, and congenital heart disease are all causes of Group 1 PAH, making them strong distractors. Correct classification of these specific conditions is key.",
+    "isOneLiner": true,
+    "id": "one_liner_ph_classification_26ad5s81"
+  },
+  {
+    "question": "Chronic Thromboembolic Pulmonary Hypertension (CTEPH) falls under which WHO classification group?",
+    "options": {
+      "A": "Group 1",
+      "B": "Group 2",
+      "C": "Group 3",
+      "D": "Group 4"
+    },
+    "correctAnswer": "D",
+    "topic": "ph_classification",
+    "deepDiveExplanation": "Chronic Thromboembolic Pulmonary Hypertension (CTEPH) is a distinct entity classified as Group 4 PH. It results from incomplete resolution of pulmonary emboli, leading to chronic obstruction and remodeling of the pulmonary arteries.",
+    "highYieldPearl": "CTEPH is unique as it is potentially curable with Pulmonary Endarterectomy (PEA) surgery. Distinguishing it from other forms of PH is critical for management.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Confusing CTEPH with other forms of PH, especially Group 1 PAH, is a common error. While both are pre-capillary, their etiologies and treatments differ vastly.",
+    "isOneLiner": true,
+    "id": "one_liner_ph_classification_l2v4bxio"
+  },
+  {
+    "question": "Pulmonary hypertension due to multifactorial or unclear mechanisms, such as sarcoidosis or chronic renal failure, belongs to which WHO group?",
+    "options": {
+      "A": "Group 1",
+      "B": "Group 3",
+      "C": "Group 4",
+      "D": "Group 5"
+    },
+    "correctAnswer": "D",
+    "topic": "ph_classification",
+    "deepDiveExplanation": "Group 5 Pulmonary Hypertension is a heterogeneous category for PH with unclear and/or multifactorial mechanisms. It includes various conditions like hematologic disorders (e.g., chronic hemolytic anemia, myeloproliferative disorders), systemic inflammatory diseases (e.g., sarcoidosis, histiocytosis X), metabolic disorders, and chronic renal failure on dialysis.",
+    "highYieldPearl": "Group 5 is the 'miscellaneous' group. If a condition doesn't fit neatly into Groups 1-4, it often belongs here. Recognize common examples like sarcoidosis, chronic renal failure, and thyroid disorders.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The diffuse nature of Group 5 makes it a potential trap. Candidates might try to force these conditions into other groups (e.g., sarcoidosis into Group 3 due to lung involvement, but its PH mechanism is often multifactorial beyond hypoxia).",
+    "isOneLiner": true,
+    "id": "one_liner_ph_classification_0tkdqpsw"
+  },
+  {
+    "question": "Pre-capillary pulmonary hypertension is hemodynamically defined by what combination of parameters?",
+    "options": {
+      "A": "mPAP > 20 mmHg, PCWP > 15 mmHg, PVR > 2 Wood units",
+      "B": "mPAP > 20 mmHg, PCWP ≤ 15 mmHg, PVR > 2 Wood units",
+      "C": "mPAP > 20 mmHg, PCWP ≤ 15 mmHg, PVR ≤ 2 Wood units",
+      "D": "mPAP > 20 mmHg, PCWP > 15 mmHg, PVR ≤ 2 Wood units"
+    },
+    "correctAnswer": "B",
+    "topic": "ph_classification",
+    "deepDiveExplanation": "Pre-capillary PH (Groups 1, 3, 4, and some Group 5) is characterized by an elevated mean pulmonary arterial pressure (mPAP > 20 mmHg), a normal or low pulmonary capillary wedge pressure (PCWP ≤ 15 mmHg), indicating the primary pathology is in the pulmonary arterioles, and an elevated pulmonary vascular resistance (PVR > 2 Wood units).",
+    "highYieldPearl": "The PCWP is the key differentiator: normal (≤15 mmHg) for pre-capillary, elevated (>15 mmHg) for post-capillary. PVR indicates the 'resistance' component.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "This question tests the precise hemodynamic definitions, which are critical for diagnosis and classification. Mixing up the PCWP and PVR thresholds, or their normal/abnormal values, is the main trap.",
+    "isOneLiner": true,
+    "id": "one_liner_ph_classification_c1mdzpeb"
+  },
+  {
+    "question": "What hemodynamic profile defines isolated post-capillary pulmonary hypertension?",
+    "options": {
+      "A": "mPAP > 20 mmHg, PCWP > 15 mmHg, PVR > 2 Wood units",
+      "B": "mPAP > 20 mmHg, PCWP > 15 mmHg, PVR ≤ 2 Wood units",
+      "C": "mPAP > 20 mmHg, PCWP ≤ 15 mmHg, PVR > 2 Wood units",
+      "D": "mPAP > 20 mmHg, PCWP ≤ 15 mmHg, PVR ≤ 2 Wood units"
+    },
+    "correctAnswer": "B",
+    "topic": "ph_classification",
+    "deepDiveExplanation": "Isolated post-capillary PH (IPH), typically seen in Group 2 PH (left heart disease), is defined by an elevated mPAP (> 20 mmHg), an elevated PCWP (> 15 mmHg) reflecting increased left atrial pressure, and a normal pulmonary vascular resistance (PVR ≤ 2 Wood units). This indicates passive back-pressure from the left heart without significant intrinsic pulmonary vascular remodeling.",
+    "highYieldPearl": "In IPH, the PVR is normal, implying that the pulmonary vasculature is passively responding to increased left heart pressures. If PVR is also high, it becomes combined pre- and post-capillary PH (CPH).",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "Differentiating IPH from combined pre- and post-capillary PH (CPH) is crucial. The PVR value is the distinguishing factor when PCWP is elevated. Option A describes CPH.",
+    "isOneLiner": true,
+    "id": "one_liner_ph_classification_hd2gba9c"
+  },
+  {
+    "question": "Combined pre- and post-capillary pulmonary hypertension (CPH) is characterized by which hemodynamic parameters?",
+    "options": {
+      "A": "mPAP > 20 mmHg, PCWP ≤ 15 mmHg, PVR > 2 Wood units",
+      "B": "mPAP > 20 mmHg, PCWP > 15 mmHg, PVR ≤ 2 Wood units",
+      "C": "mPAP > 20 mmHg, PCWP > 15 mmHg, PVR > 2 Wood units",
+      "D": "mPAP > 20 mmHg, PCWP ≤ 15 mmHg, PVR ≤ 2 Wood units"
+    },
+    "correctAnswer": "C",
+    "topic": "ph_classification",
+    "deepDiveExplanation": "Combined pre- and post-capillary pulmonary hypertension (CPH) occurs when there is significant left heart disease (leading to elevated PCWP > 15 mmHg) AND concurrent intrinsic pulmonary vascular remodeling (leading to elevated PVR > 2 Wood units). The mPAP is, of course, also elevated (> 20 mmHg). This reflects a more severe form of Group 2 PH.",
+    "highYieldPearl": "CPH indicates both a 'back-pressure' problem from the left heart and a 'resistance' problem within the pulmonary arteries. Management often involves addressing both aspects.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "This question directly contrasts with isolated post-capillary PH. The key differentiator is the elevated PVR in CPH, which is normal in IPH. Options A, B, and D represent other PH hemodynamic profiles.",
+    "isOneLiner": true,
+    "id": "one_liner_ph_classification_i61lkmab"
+  },
+  {
+    "question": "Vasoreactivity testing is primarily relevant for classifying and guiding treatment in which WHO PH group?",
+    "options": {
+      "A": "Group 2",
+      "B": "Group 3",
+      "C": "Group 4",
+      "D": "Group 1"
+    },
+    "correctAnswer": "D",
+    "topic": "ph_classification",
+    "deepDiveExplanation": "Acute vasoreactivity testing, typically performed during right heart catheterization, is primarily indicated for patients with Group 1 Pulmonary Arterial Hypertension (PAH), specifically idiopathic, heritable, and drug/toxin-induced PAH. A positive response identifies a small subset of patients who may benefit from high-dose calcium channel blockers.",
+    "highYieldPearl": "A positive vasoreactivity test is defined by a fall in mPAP by ≥ 10 mmHg to achieve an mPAP ≤ 40 mmHg, with an increased or unchanged cardiac output. It is NOT recommended for routine use in other PH groups.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The trap lies in assuming vasoreactivity testing is broadly applicable across all PH groups. Its utility is highly specific to a subset of Group 1 PAH, which is a critical point for PG-level understanding.",
+    "isOneLiner": true,
+    "id": "one_liner_ph_classification_qg5mukjy"
+  },
+  {
+    "question": "According to the 6th World Symposium on PH (2018), pulmonary hypertension is defined by a mean pulmonary arterial pressure (mPAP) greater than what value at rest?",
+    "options": {
+      "A": "20 mmHg",
+      "B": "25 mmHg",
+      "C": "15 mmHg",
+      "D": "30 mmHg"
+    },
+    "correctAnswer": "A",
+    "topic": "ph_classification",
+    "deepDiveExplanation": "The definition of pulmonary hypertension was revised at the 6th World Symposium on Pulmonary Hypertension (Nice, 2018) from a mean pulmonary arterial pressure (mPAP) > 25 mmHg to mPAP > 20 mmHg at rest, measured by right heart catheterization. This change reflects evidence that outcomes begin to worsen at lower pressure thresholds.",
+    "highYieldPearl": "The 2018 Nice definition of PH (mPAP > 20 mmHg) is crucial. For Pulmonary Arterial Hypertension (Group 1), additional criteria are PCWP ≤ 15 mmHg and PVR > 2 Wood units.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "The most common trap is selecting the older definition of 25 mmHg. Candidates must be updated with the latest classification guidelines.",
+    "isOneLiner": true,
+    "id": "one_liner_ph_classification_uliu43ib"
+  },
+  {
+    "question": "Which condition is classified under Group 1 Pulmonary Arterial Hypertension (PAH)?",
+    "options": {
+      "A": "Left Ventricular Systolic Dysfunction",
+      "B": "Chronic Obstructive Pulmonary Disease",
+      "C": "Portal Hypertension",
+      "D": "Chronic Thromboembolic Pulmonary Hypertension"
+    },
+    "correctAnswer": "C",
+    "topic": "ph_classification",
+    "deepDiveExplanation": "Group 1 Pulmonary Arterial Hypertension (PAH) includes conditions where PH arises from intrinsic pathology of the pulmonary arterioles. Portal hypertension-associated PAH is a specific subtype within Group 1, alongside idiopathic, heritable, drug/toxin-induced, connective tissue diseases, HIV, and congenital heart disease.",
+    "highYieldPearl": "Remember the specific etiologies listed under Group 1 PAH. Portal hypertension, HIV infection, and systemic sclerosis are common examples in exams.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Each incorrect option represents another major WHO PH group (Group 2, 3, and 4 respectively), making them plausible distractors if the specific classifications are not clear.",
+    "isOneLiner": true,
+    "id": "one_liner_ph_classification_o1hdjgjt"
+  },
+  {
+    "question": "Pulmonary hypertension due to left heart disease is categorized under which WHO group?",
+    "options": {
+      "A": "Group 1",
+      "B": "Group 2",
+      "C": "Group 3",
+      "D": "Group 4"
+    },
+    "correctAnswer": "B",
+    "topic": "ph_classification",
+    "deepDiveExplanation": "Group 2 Pulmonary Hypertension is the most common form of PH and encompasses all conditions where PH is secondary to left heart disease, including left ventricular systolic or diastolic dysfunction and valvular heart disease (e.g., mitral stenosis, aortic stenosis/regurgitation).",
+    "highYieldPearl": "Group 2 PH is characterized by elevated left-sided filling pressures (PCWP > 15 mmHg). It can be isolated post-capillary (PVR ≤ 2 Wood units) or combined pre- and post-capillary (PVR > 2 Wood units).",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "This is a foundational question. The trap would be confusing the primary causes of PH with other categories. Group 2 is distinctly 'left heart disease'.",
+    "isOneLiner": true,
+    "id": "one_liner_ph_classification_6ip1qfov"
+  },
+  {
+    "question": "Which of the following conditions is a primary cause of Group 3 Pulmonary Hypertension?",
+    "options": {
+      "A": "HIV infection",
+      "B": "Interstitial Lung Disease",
+      "C": "Chronic Hemolytic Anemia",
+      "D": "Congenital Heart Disease"
+    },
+    "correctAnswer": "B",
+    "topic": "ph_classification",
+    "deepDiveExplanation": "Group 3 Pulmonary Hypertension is associated with lung diseases and/or hypoxia. This group includes conditions like COPD, interstitial lung disease (ILD), sleep-disordered breathing, alveolar hypoventilation disorders, and chronic exposure to high altitude. ILD is a significant cause within this group.",
+    "highYieldPearl": "Think 'lung disease and hypoxia' for Group 3. The pulmonary vasoconstriction and remodeling are primarily driven by alveolar hypoxia.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "HIV infection, chronic hemolytic anemia, and congenital heart disease are all causes of Group 1 PAH, making them strong distractors. Correct classification of these specific conditions is key.",
+    "isOneLiner": true,
+    "id": "one_liner_ph_classification_byjghw6w"
+  },
+  {
+    "question": "Chronic Thromboembolic Pulmonary Hypertension (CTEPH) falls under which WHO classification group?",
+    "options": {
+      "A": "Group 1",
+      "B": "Group 2",
+      "C": "Group 3",
+      "D": "Group 4"
+    },
+    "correctAnswer": "D",
+    "topic": "ph_classification",
+    "deepDiveExplanation": "Chronic Thromboembolic Pulmonary Hypertension (CTEPH) is a distinct entity classified as Group 4 PH. It results from incomplete resolution of pulmonary emboli, leading to chronic obstruction and remodeling of the pulmonary arteries.",
+    "highYieldPearl": "CTEPH is unique as it is potentially curable with Pulmonary Endarterectomy (PEA) surgery. Distinguishing it from other forms of PH is critical for management.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Confusing CTEPH with other forms of PH, especially Group 1 PAH, is a common error. While both are pre-capillary, their etiologies and treatments differ vastly.",
+    "isOneLiner": true,
+    "id": "one_liner_ph_classification_h93loir2"
+  },
+  {
+    "question": "Pulmonary hypertension due to multifactorial or unclear mechanisms, such as sarcoidosis or chronic renal failure, belongs to which WHO group?",
+    "options": {
+      "A": "Group 1",
+      "B": "Group 3",
+      "C": "Group 4",
+      "D": "Group 5"
+    },
+    "correctAnswer": "D",
+    "topic": "ph_classification",
+    "deepDiveExplanation": "Group 5 Pulmonary Hypertension is a heterogeneous category for PH with unclear and/or multifactorial mechanisms. It includes various conditions like hematologic disorders (e.g., chronic hemolytic anemia, myeloproliferative disorders), systemic inflammatory diseases (e.g., sarcoidosis, histiocytosis X), metabolic disorders, and chronic renal failure on dialysis.",
+    "highYieldPearl": "Group 5 is the 'miscellaneous' group. If a condition doesn't fit neatly into Groups 1-4, it often belongs here. Recognize common examples like sarcoidosis, chronic renal failure, and thyroid disorders.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The diffuse nature of Group 5 makes it a potential trap. Candidates might try to force these conditions into other groups (e.g., sarcoidosis into Group 3 due to lung involvement, but its PH mechanism is often multifactorial beyond hypoxia).",
+    "isOneLiner": true,
+    "id": "one_liner_ph_classification_zamd9pwc"
+  },
+  {
+    "question": "Pre-capillary pulmonary hypertension is hemodynamically defined by what combination of parameters?",
+    "options": {
+      "A": "mPAP > 20 mmHg, PCWP > 15 mmHg, PVR > 2 Wood units",
+      "B": "mPAP > 20 mmHg, PCWP ≤ 15 mmHg, PVR > 2 Wood units",
+      "C": "mPAP > 20 mmHg, PCWP ≤ 15 mmHg, PVR ≤ 2 Wood units",
+      "D": "mPAP > 20 mmHg, PCWP > 15 mmHg, PVR ≤ 2 Wood units"
+    },
+    "correctAnswer": "B",
+    "topic": "ph_classification",
+    "deepDiveExplanation": "Pre-capillary PH (Groups 1, 3, 4, and some Group 5) is characterized by an elevated mean pulmonary arterial pressure (mPAP > 20 mmHg), a normal or low pulmonary capillary wedge pressure (PCWP ≤ 15 mmHg), indicating the primary pathology is in the pulmonary arterioles, and an elevated pulmonary vascular resistance (PVR > 2 Wood units).",
+    "highYieldPearl": "The PCWP is the key differentiator: normal (≤15 mmHg) for pre-capillary, elevated (>15 mmHg) for post-capillary. PVR indicates the 'resistance' component.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "This question tests the precise hemodynamic definitions, which are critical for diagnosis and classification. Mixing up the PCWP and PVR thresholds, or their normal/abnormal values, is the main trap.",
+    "isOneLiner": true,
+    "id": "one_liner_ph_classification_dbjpxxui"
+  },
+  {
+    "question": "What hemodynamic profile defines isolated post-capillary pulmonary hypertension?",
+    "options": {
+      "A": "mPAP > 20 mmHg, PCWP > 15 mmHg, PVR > 2 Wood units",
+      "B": "mPAP > 20 mmHg, PCWP > 15 mmHg, PVR ≤ 2 Wood units",
+      "C": "mPAP > 20 mmHg, PCWP ≤ 15 mmHg, PVR > 2 Wood units",
+      "D": "mPAP > 20 mmHg, PCWP ≤ 15 mmHg, PVR ≤ 2 Wood units"
+    },
+    "correctAnswer": "B",
+    "topic": "ph_classification",
+    "deepDiveExplanation": "Isolated post-capillary PH (IPH), typically seen in Group 2 PH (left heart disease), is defined by an elevated mPAP (> 20 mmHg), an elevated PCWP (> 15 mmHg) reflecting increased left atrial pressure, and a normal pulmonary vascular resistance (PVR ≤ 2 Wood units). This indicates passive back-pressure from the left heart without significant intrinsic pulmonary vascular remodeling.",
+    "highYieldPearl": "In IPH, the PVR is normal, implying that the pulmonary vasculature is passively responding to increased left heart pressures. If PVR is also high, it becomes combined pre- and post-capillary PH (CPH).",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "Differentiating IPH from combined pre- and post-capillary PH (CPH) is crucial. The PVR value is the distinguishing factor when PCWP is elevated. Option A describes CPH.",
+    "isOneLiner": true,
+    "id": "one_liner_ph_classification_i8blztcl"
+  },
+  {
+    "question": "Combined pre- and post-capillary pulmonary hypertension (CPH) is characterized by which hemodynamic parameters?",
+    "options": {
+      "A": "mPAP > 20 mmHg, PCWP ≤ 15 mmHg, PVR > 2 Wood units",
+      "B": "mPAP > 20 mmHg, PCWP > 15 mmHg, PVR ≤ 2 Wood units",
+      "C": "mPAP > 20 mmHg, PCWP > 15 mmHg, PVR > 2 Wood units",
+      "D": "mPAP > 20 mmHg, PCWP ≤ 15 mmHg, PVR ≤ 2 Wood units"
+    },
+    "correctAnswer": "C",
+    "topic": "ph_classification",
+    "deepDiveExplanation": "Combined pre- and post-capillary pulmonary hypertension (CPH) occurs when there is significant left heart disease (leading to elevated PCWP > 15 mmHg) AND concurrent intrinsic pulmonary vascular remodeling (leading to elevated PVR > 2 Wood units). The mPAP is, of course, also elevated (> 20 mmHg). This reflects a more severe form of Group 2 PH.",
+    "highYieldPearl": "CPH indicates both a 'back-pressure' problem from the left heart and a 'resistance' problem within the pulmonary arteries. Management often involves addressing both aspects.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "This question directly contrasts with isolated post-capillary PH. The key differentiator is the elevated PVR in CPH, which is normal in IPH. Options A, B, and D represent other PH hemodynamic profiles.",
+    "isOneLiner": true,
+    "id": "one_liner_ph_classification_hppevonp"
+  },
+  {
+    "question": "Vasoreactivity testing is primarily relevant for classifying and guiding treatment in which WHO PH group?",
+    "options": {
+      "A": "Group 2",
+      "B": "Group 3",
+      "C": "Group 4",
+      "D": "Group 1"
+    },
+    "correctAnswer": "D",
+    "topic": "ph_classification",
+    "deepDiveExplanation": "Acute vasoreactivity testing, typically performed during right heart catheterization, is primarily indicated for patients with Group 1 Pulmonary Arterial Hypertension (PAH), specifically idiopathic, heritable, and drug/toxin-induced PAH. A positive response identifies a small subset of patients who may benefit from high-dose calcium channel blockers.",
+    "highYieldPearl": "A positive vasoreactivity test is defined by a fall in mPAP by ≥ 10 mmHg to achieve an mPAP ≤ 40 mmHg, with an increased or unchanged cardiac output. It is NOT recommended for routine use in other PH groups.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The trap lies in assuming vasoreactivity testing is broadly applicable across all PH groups. Its utility is highly specific to a subset of Group 1 PAH, which is a critical point for PG-level understanding.",
+    "isOneLiner": true,
+    "id": "one_liner_ph_classification_zr36rxfl"
+  }
+]

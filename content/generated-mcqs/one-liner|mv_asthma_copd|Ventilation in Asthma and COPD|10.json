@@ -1,0 +1,182 @@
+[
+  {
+    "question": "The most accurate method to measure auto-PEEP during passive mechanical ventilation is via:",
+    "options": {
+      "A": "Inspiratory hold maneuver",
+      "B": "End-expiratory hold maneuver",
+      "C": "Esophageal pressure measurement",
+      "D": "Flow-volume loop analysis"
+    },
+    "correctAnswer": "B",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "Auto-PEEP (intrinsic PEEP) is generated when expiration is incomplete, leading to gas trapping. An end-expiratory hold maneuver stops flow, allowing pressure to equilibrate throughout the circuit and lungs, revealing the total PEEP (extrinsic + auto-PEEP). If extrinsic PEEP is zero, the measured pressure is auto-PEEP.",
+    "highYieldPearl": "Auto-PEEP increases work of breathing, can trigger barotrauma, and makes patient-ventilator synchrony difficult. It's crucial to identify and manage it.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Inspiratory hold measures plateau pressure. Esophageal pressure measures pleural pressure. Flow-volume loops suggest auto-PEEP but don't quantify it directly.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|mv_asthma_copd|Ventilation in Asthma and COPD|10_ruraqwd3"
+  },
+  {
+    "question": "The primary objective of permissive hypercapnia strategy in mechanically ventilated severe asthma is to:",
+    "options": {
+      "A": "Improve oxygenation",
+      "B": "Reduce airway pressures and barotrauma",
+      "C": "Decrease respiratory drive",
+      "D": "Enhance bronchodilation"
+    },
+    "correctAnswer": "B",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "Permissive hypercapnia involves tolerating elevated PaCO2 (e.g., up to 60-80 mmHg) and corresponding acidosis (pH > 7.15-7.20) to allow for lower tidal volumes and respiratory rates. This reduces peak/plateau airway pressures and intrinsic PEEP, protecting lungs from ventilator-induced lung injury (VILI) and barotrauma.",
+    "highYieldPearl": "The goal is lung protection, not necessarily normalizing blood gases. The priority is to minimize dynamic hyperinflation and barotrauma risk.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While some CO2 may have mild bronchodilator effects, it's not the primary goal. Decreasing respiratory drive is a consequence, not the primary objective. Improving oxygenation is not the goal, as permissive hypercapnia implies allowing higher PaCO2.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|mv_asthma_copd|Ventilation in Asthma and COPD|10_ek1f4mvw"
+  },
+  {
+    "question": "To mitigate dynamic hyperinflation in mechanically ventilated AECOPD, the primary ventilator adjustment involves:",
+    "options": {
+      "A": "Increasing tidal volume",
+      "B": "Decreasing inspiratory time",
+      "C": "Increasing respiratory rate",
+      "D": "Prolonging expiratory time"
+    },
+    "correctAnswer": "D",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "Dynamic hyperinflation occurs when expiratory time is insufficient for complete exhalation, leading to progressive air trapping. Prolonging expiratory time (by reducing respiratory rate or reducing I:E ratio) allows more time for gas to exit the lungs, reducing trapped volume and auto-PEEP.",
+    "highYieldPearl": "Prioritize sufficient expiratory time over achieving normal minute ventilation in severe obstructive disease. An I:E ratio of 1:3 or 1:4 is often targeted.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Increasing tidal volume or respiratory rate would worsen hyperinflation. Decreasing inspiratory time can indirectly prolong expiratory time, but directly prolonging expiratory time is the most effective adjustment.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|mv_asthma_copd|Ventilation in Asthma and COPD|10_1pwam1ns"
+  },
+  {
+    "question": "The strongest indication for Non-Invasive Ventilation (NIV) in acute exacerbation of COPD is:",
+    "options": {
+      "A": "Mild hypoxemia without hypercapnia",
+      "B": "Hypercapnic respiratory failure with acidosis",
+      "C": "Prophylaxis post-extubation in stable patients",
+      "D": "Acute cardiogenic pulmonary edema"
+    },
+    "correctAnswer": "B",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "Numerous randomized controlled trials have shown that NIV significantly reduces the need for intubation, hospital mortality, and length of hospital stay in patients with hypercapnic respiratory failure due to AECOPD (pH < 7.35, PaCO2 > 45 mmHg). It improves gas exchange and reduces work of breathing.",
+    "highYieldPearl": "NIV is a first-line therapy for moderate to severe AECOPD with hypercapnic respiratory failure, especially when accompanied by respiratory acidosis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While NIV can be used post-extubation, it's not the *strongest* indication for AECOPD. Acute cardiogenic pulmonary edema is another strong indication for NIV, but the question specifies AECOPD.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|mv_asthma_copd|Ventilation in Asthma and COPD|10_0ba4dena"
+  },
+  {
+    "question": "Heliox improves ventilation in severe acute asthma primarily by:",
+    "options": {
+      "A": "Reducing airway inflammation",
+      "B": "Increasing oxygen carrying capacity",
+      "C": "Decreasing gas density",
+      "D": "Potentiating bronchodilators"
+    },
+    "correctAnswer": "C",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "Heliox (a mixture of helium and oxygen) has a much lower density than air or oxygen. This reduced density leads to a decrease in airway resistance, particularly in turbulent flow, which is prominent in narrowed airways during severe asthma. This allows for more laminar flow, improved gas delivery, and reduced work of breathing.",
+    "highYieldPearl": "Heliox is typically used as a bridge therapy for severe, refractory asthma exacerbations, not a definitive treatment, to buy time for other therapies to work.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Heliox does not directly reduce inflammation or increase oxygen carrying capacity. While it can improve delivery of nebulized bronchodilators, its primary mechanism is distinct.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|mv_asthma_copd|Ventilation in Asthma and COPD|10_86naj8yq"
+  },
+  {
+    "question": "In mechanically ventilated obstructive lung disease, driving pressure primarily reflects:",
+    "options": {
+      "A": "Airway resistance",
+      "B": "Static lung compliance",
+      "C": "Intrinsic PEEP",
+      "D": "Tidal volume"
+    },
+    "correctAnswer": "B",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "Driving pressure (Plateau Pressure - Total PEEP) is essentially the tidal volume divided by the static compliance of the respiratory system (Vt/Crs). It represents the pressure gradient required to inflate the lung from its end-expiratory volume to its end-inspiratory volume, reflecting lung stress.",
+    "highYieldPearl": "Limiting driving pressure (<15 cmH2O) is a key lung-protective ventilation strategy, as it is a strong predictor of mortality, especially in ARDS.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While airway resistance is high in obstructive disease, driving pressure does not directly measure it. Intrinsic PEEP contributes to total PEEP, but driving pressure itself reflects the pressure needed to deliver tidal volume against the elastic recoil.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|mv_asthma_copd|Ventilation in Asthma and COPD|10_d1vb3mfb"
+  },
+  {
+    "question": "A crucial predictor for successful weaning from mechanical ventilation in COPD patients is:",
+    "options": {
+      "A": "High PaO2/FiO2 ratio",
+      "B": "Low Rapid Shallow Breathing Index (RSBI)",
+      "C": "Normal chest X-ray",
+      "D": "Absence of fever"
+    },
+    "correctAnswer": "B",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "RSBI (Respiratory Rate / Tidal Volume in Liters) reflects the efficiency of breathing. A low RSBI (<105 breaths/min/L) indicates that the patient can maintain adequate minute ventilation with a relatively low respiratory rate and good tidal volume, suggesting sufficient respiratory muscle strength and endurance for spontaneous breathing.",
+    "highYieldPearl": "RSBI is a cornerstone of weaning assessment, often used in conjunction with other criteria during a Spontaneous Breathing Trial (SBT).",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While good oxygenation (high PaO2/FiO2), clear CXR, and absence of fever are general indicators of readiness for weaning, RSBI is a highly specific and validated predictor of extubation success.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|mv_asthma_copd|Ventilation in Asthma and COPD|10_0phgxi3e"
+  },
+  {
+    "question": "Compared to conventional oxygen, High-Flow Nasal Cannula in mild AECOPD primarily offers:",
+    "options": {
+      "A": "Superior CO2 clearance",
+      "B": "Better bronchodilation",
+      "C": "Reduced work of breathing",
+      "D": "Lower risk of aspiration"
+    },
+    "correctAnswer": "C",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "HFNC delivers heated and humidified oxygen at high flow rates. This washes out nasopharyngeal dead space (reducing rebreathing of CO2), generates a small amount of positive end-expiratory pressure (PEEP), improves oxygenation, and significantly reduces the work of breathing by providing a stable, high-flow gas source that matches or exceeds inspiratory demand.",
+    "highYieldPearl": "HFNC is increasingly used in AECOPD as an alternative or bridge therapy, especially for patients who might not tolerate NIV or with milder respiratory failure.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While HFNC can provide some CO2 washout, its effect on overall CO2 clearance is less pronounced than NIV. It doesn't directly cause bronchodilation. Lower aspiration risk is a benefit of non-invasive support over intubation, but not a primary advantage of HFNC over conventional oxygen delivery.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|mv_asthma_copd|Ventilation in Asthma and COPD|10_6vh3f8ix"
+  },
+  {
+    "question": "The most effective ventilator strategy to reduce dynamic hyperinflation in severe acute asthma is:",
+    "options": {
+      "A": "Increasing peak inspiratory flow",
+      "B": "Decreasing respiratory rate",
+      "C": "Increasing tidal volume",
+      "D": "Applying external PEEP"
+    },
+    "correctAnswer": "B",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "Dynamic hyperinflation is a hallmark of severe asthma, leading to increased intrathoracic pressure and increased work of breathing. The most direct way to combat this is to allow more time for exhalation. Decreasing the respiratory rate directly lengthens the expiratory time, facilitating more complete emptying of the lungs and reducing trapped gas volume and auto-PEEP.",
+    "highYieldPearl": "Prioritizing a long expiratory time (e.g., I:E ratio of 1:3 or 1:4) is critical in managing severe asthma on mechanical ventilation, often at the expense of normocapnia.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Increasing tidal volume or respiratory rate would worsen hyperinflation. Increasing peak inspiratory flow shortens inspiratory time, which *can* indirectly lengthen expiratory time, but directly decreasing respiratory rate has a more substantial impact on extending the expiratory phase.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|mv_asthma_copd|Ventilation in Asthma and COPD|10_snnezoqh"
+  },
+  {
+    "question": "In mechanically ventilated COPD patients with significant auto-PEEP, applying appropriate extrinsic PEEP can primarily:",
+    "options": {
+      "A": "Increase barotrauma risk",
+      "B": "Worsen air trapping",
+      "C": "Reduce patient work of breathing",
+      "D": "Decrease oxygenation"
+    },
+    "correctAnswer": "C",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "When auto-PEEP is present, the patient must generate significant negative inspiratory pressure to overcome this intrinsic pressure before a breath can be triggered. Applying extrinsic PEEP that is slightly less than the auto-PEEP (e.g., 80-90% of auto-PEEP) can 'balance' this threshold, reducing the inspiratory effort required by the patient and thereby decreasing the work of breathing without significantly worsening hyperinflation.",
+    "highYieldPearl": "Careful titration of extrinsic PEEP is crucial; too much can worsen hyperinflation, while an appropriate amount can improve patient comfort, ventilator synchrony, and reduce work of breathing.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "If the applied extrinsic PEEP is less than or equal to the auto-PEEP, it generally does not worsen air trapping or significantly increase barotrauma. It typically improves oxygenation, not decreases it.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|mv_asthma_copd|Ventilation in Asthma and COPD|10_awxjwhtt"
+  }
+]

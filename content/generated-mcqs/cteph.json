@@ -1,0 +1,1032 @@
+[
+  {
+    "id": "rag_cteph_36a34751",
+    "question": "A 55-year-old male with severe ARDS is receiving mechanical ventilation. To optimize lung mechanics and minimize ventilator-induced lung injury (VILI), the medical team performs PEEP titration guided by imaging, assessing percentages of lung overdistension and collapse. The following data is recorded:\n\n| PEEP (cmH2O) | Overdistension (%) | Collapse (%) |\n| :----------- | :----------------- | :----------- |\n| 26.3         | 57                 | 0            |\n| 23.3         | 46                 | 0            |\n| 21.4         | 34                 | 0            |\n| 19.5         | 21                 | 0            |\n| 17.5         | 12                 | 0            |\n| 15.4         | 7                  | 3            |\n| 13.5         | 3                  | 10           |\n| 11.4         | 1                  | 16           |\n\nBased on this data, which PEEP level would be most appropriate to minimize VILI by balancing recruitment and preventing overdistension?",
+    "options": {
+      "A": "11.4 cmH2O",
+      "B": "13.5 cmH2O",
+      "C": "15.4 cmH2O",
+      "D": "17.5 cmH2O"
+    },
+    "correctAnswer": "C",
+    "topic": "PEEP and Lung Recruitment",
+    "deepDiveExplanation": "The goal of PEEP titration in ARDS is to find the optimal PEEP level that maintains alveolar recruitment (minimizing collapse) while avoiding excessive overdistension. Analyzing the provided data:\n- At 11.4 cmH2O, there is 16% collapse, indicating significant atelectrauma risk.\n- At 13.5 cmH2O, collapse is 10%, still substantial.\n- At 15.4 cmH2O, collapse is reduced to 3% with 7% overdistension. This represents the best balance, achieving significant recruitment with relatively low overdistension.\n- At 17.5 cmH2O, collapse is 0%, but overdistension increases to 12%. While achieving full recruitment, the increase in overdistension might not be necessary if a slightly lower PEEP (15.4 cmH2O) offers a better overall balance of risks.",
+    "highYieldPearl": "Rio's Take: Optimal PEEP aims to minimize both atelectrauma (collapse) and volutrauma (overdistension). This often involves selecting the lowest PEEP that effectively recruits the lung without causing significant overdistension in other areas.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Choosing a PEEP too low results in significant lung collapse (atelectrauma) despite minimal overdistension, failing to meet the goal of lung recruitment.",
+      "B": "Similar to option A, 13.5 cmH2O still results in 10% collapse, indicating suboptimal recruitment and a high risk of atelectrauma.",
+      "C": "This PEEP level offers the best balance, achieving minimal lung collapse (3%) while keeping overdistension at an acceptable level (7%), thereby minimizing the combined risk of atelectrauma and volutrauma.",
+      "D": "While 17.5 cmH2O eliminates collapse, it increases overdistension to 12%. If a slightly lower PEEP (15.4 cmH2O) can achieve nearly full recruitment with less overdistension, it might be preferred to reduce overall VILI risk."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_084399b3",
+    "question": "A 45-year-old male with severe COVID-19 ARDS undergoes a lung recruitment maneuver followed by a decremental PEEP titration protocol guided by lung ultrasound (LUS) and oxygenation. After successfully recruiting the lung to an 'N' (normal aeration) pattern at higher pressures, PEEP is gradually decreased. The following LUS patterns and combined PaO2+PaCO2 values are observed during the decremental PEEP phase:\n\n*   PEEP 24 cmH2O: N pattern, PaO2+PaCO2 = 420.5 mm Hg\n*   PEEP 22 cmH2O: N pattern, PaO2+PaCO2 = 416.2 mm Hg\n*   PEEP 20 cmH2O: N pattern, PaO2+PaCO2 = 404.9 mm Hg\n*   PEEP 18 cmH2O: N pattern, PaO2+PaCO2 = 401.6 mm Hg\n*   PEEP 16 cmH2O: N pattern, PaO2+PaCO2 = 399.8 mm Hg\n*   PEEP 14 cmH2O: B1 pattern, PaO2+PaCO2 = 352.2 mm Hg\n*   PEEP 12 cmH2O: B2 pattern, PaO2+PaCO2 = 337.8 mm Hg\n\nBased on this LUS-guided titration, what is the most appropriate PEEP level to maintain lung recruitment while avoiding excessive pressure?",
+    "options": {
+      "A": "20 cmH2O",
+      "B": "18 cmH2O",
+      "C": "16 cmH2O",
+      "D": "14 cmH2O"
+    },
+    "correctAnswer": "C",
+    "topic": "PEEP and Lung Recruitment",
+    "deepDiveExplanation": "The decremental PEEP titration aims to identify the lowest PEEP level that maintains lung recruitment (typically indicated by the 'N' or normal aeration pattern on LUS) before derecruitment occurs. In this sequence, the lung maintains an 'N' pattern down to a PEEP of 16 cmH2O, with good oxygenation. At 14 cmH2O, the LUS pattern changes to 'B1', indicating the onset of moderate lung derecruitment or aeration loss, accompanied by a drop in PaO2+PaCO2. Therefore, 16 cmH2O is the optimal PEEP level, as it is the lowest pressure that successfully maintains recruitment (N pattern) before derecruitment begins.",
+    "highYieldPearl": "Rio's Take: LUS-guided decremental PEEP titration involves finding the PEEP level just above where derecruitment starts (e.g., transition from N to B1/B2 pattern) to optimize recruitment-maintenance while minimizing overdistension.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "While 20 cmH2O maintains recruitment, it might be an unnecessarily high PEEP if a lower PEEP (like 16 cmH2O) can achieve the same recruitment, potentially increasing the risk of overdistension or hemodynamic compromise.",
+      "B": "Similar to 20 cmH2O, 18 cmH2O maintains recruitment but is not the lowest PEEP to do so, potentially exposing the patient to higher pressures than needed.",
+      "C": "This is the lowest PEEP level that successfully maintains the 'N' (normal aeration) pattern, indicating that the lung remains fully recruited without derecruitment. This is the ideal balance to maintain recruitment with the least amount of pressure.",
+      "D": "At 14 cmH2O, the LUS pattern shifts to 'B1', indicating the onset of derecruitment. Selecting this PEEP would mean losing the benefits of the recruitment maneuver and risking atelectrauma."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_8c13a7d8",
+    "question": "A 60-year-old patient with severe ARDS is receiving mechanical ventilation. Despite initial optimization of tidal volume and PEEP, the patient develops worsening lung compliance and persistent hypoxemia. Imaging reveals areas of both overdistension and collapse within the lung parenchyma. Which of the following physiological parameters is the primary mediator of both volutrauma (overdistension) and atelectrauma (collapse/recruitment) in this patient's lungs?",
+    "options": {
+      "A": "Airway pressure (Paw)",
+      "B": "Pleural pressure (Ppl)",
+      "C": "Transpulmonary pressure (Ptp)",
+      "D": "End-expiratory lung volume (EELV)"
+    },
+    "correctAnswer": "C",
+    "topic": "PEEP and Lung Recruitment",
+    "deepDiveExplanation": "Transpulmonary pressure (Ptp), defined as the difference between airway pressure (Paw) and pleural pressure (Ppl) (Ptp = Paw - Ppl), represents the distending pressure across the alveolar wall. It is the fundamental force responsible for lung inflation and deflation. Excessive Ptp directly leads to overdistension of alveoli, causing volutrauma. Conversely, insufficient Ptp or heterogeneous distribution of Ptp can lead to alveolar collapse and cyclic opening and closing, which contributes to atelectrauma. Therefore, Ptp is the direct physiological parameter mediating both forms of VILI.",
+    "highYieldPearl": "Rio's Take: Transpulmonary pressure (Ptp) is the critical determinant of alveolar stretch and collapse. Managing Ptp, rather than just airway pressure, is key to lung-protective ventilation in ARDS.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Airway pressure is the pressure measured at the airway opening and is an important component of transpulmonary pressure. However, it does not solely reflect the stress on the alveolar wall because the pleural pressure (surrounding the lung) also varies significantly in ARDS.",
+      "B": "Pleural pressure is the pressure surrounding the lung and also a crucial component of transpulmonary pressure. While its changes are important, it is the *difference* across the lung (TPP) that causes stretch and collapse, not pleural pressure alone.",
+      "C": "Transpulmonary pressure (Ptp) is the actual pressure gradient across the lung tissue. Both overdistension (volutrauma) and the shear stress from cyclic collapse and recruitment (atelectrauma) are directly mediated by excessive or inappropriately distributed transpulmonary pressures.",
+      "D": "End-expiratory lung volume is an important outcome of ventilator settings and PEEP, and low EELV can contribute to atelectrauma. However, EELV itself is a volume, not the direct pressure mediator of stress and strain on the lung parenchyma."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_2700910e",
+    "question": "A 55-year-old male with severe ARDS due to COVID-19 is on mechanical ventilation. Initial PEEP of 5 cmH2O was associated with persistent hypoxemia and a 'C-pattern' on lung ultrasound (LUS). A recruitment maneuver (RM) was performed, gradually increasing CPAP up to 60 cmH2O, which resulted in an 'N-pattern' on LUS and significant improvement in oxygenation. Following the RM, PEEP was carefully titrated downwards, with the following LUS patterns and PaO2+PaCO2 values observed:\n\n*   PEEP 20 cmH2O: N-pattern, PaO2+PaCO2 = 404.9 mmHg\n*   PEEP 18 cmH2O: N-pattern, PaO2+PaCO2 = 401.6 mmHg\n*   PEEP 16 cmH2O: N-pattern, PaO2+PaCO2 = 399.8 mmHg\n*   PEEP 14 cmH2O: B1-pattern, PaO2+PaCO2 = 352.2 mmHg\n*   PEEP 12 cmH2O: B2-pattern, PaO2+PaCO2 = 337.8 mmHg\n\nBased on these findings and the principles of lung-protective ventilation in ARDS, what is the most appropriate PEEP setting for this patient?",
+    "options": {
+      "A": "16 cmH2O",
+      "B": "12 cmH2O",
+      "C": "20 cmH2O",
+      "D": "24 cmH2O"
+    },
+    "correctAnswer": "A",
+    "topic": "PEEP and Lung Recruitment",
+    "deepDiveExplanation": "Optimal PEEP in ARDS aims to maintain alveolar recruitment while minimizing overdistension and its associated risks (volutrauma, barotrauma, hemodynamic compromise). The provided LUS findings show that an 'N-pattern' (normal aeration) was maintained down to a PEEP of 16 cmH2O, with corresponding good oxygenation (PaO2+PaCO2 = 399.8 mmHg). However, when PEEP was further reduced to 14 cmH2O, the LUS pattern changed to a 'B1-pattern', indicating the onset of alveolar derecruitment and loss of aeration. Concurrently, there was a noticeable drop in oxygenation (PaO2+PaCO2 decreased to 352.2 mmHg). Therefore, setting the PEEP at 16 cmH2O would be the most appropriate choice, as it is the lowest PEEP that effectively maintains alveolar recruitment (N-pattern) as identified by lung ultrasound, thereby preventing atelectrauma, without unnecessarily high pressures that could lead to overdistension or hemodynamic instability. This approach aligns with the principle of reducing atelectrauma and increasing alveolar recruitment with higher PEEP, while indirectly minimizing volutrauma by preventing cyclical collapse and reopening.",
+    "highYieldPearl": "Rio's Take: Optimal PEEP titration in ARDS, often guided by bedside tools like lung ultrasound, aims to identify the PEEP level just above the derecruitment point. This strategy ensures maintained alveolar recruitment (preventing atelectrauma) while minimizing the risk of overdistension and associated ventilator-induced lung injury (VILI) and hemodynamic compromise.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. It represents the lowest PEEP that maintains alveolar recruitment (N-pattern on LUS) and good oxygenation, preventing atelectrauma without excessive pressure.",
+      "B": "This PEEP level (12 cmH2O) results in a B2-pattern and a significant drop in oxygenation, indicating substantial derecruitment. This would promote atelectrauma (tidal recruitment) and worsen gas exchange, contradicting lung-protective ventilation goals.",
+      "C": "While 20 cmH2O maintains an N-pattern, it is higher than 16 cmH2O, which also effectively maintains recruitment. Using unnecessarily high PEEP increases the risk of overdistension (volutrauma) and potential for decreased cardiac output, without providing additional recruitment benefits compared to 16 cmH2O. The goal is the lowest effective PEEP.",
+      "D": "This PEEP level (24 cmH2O, implicitly from the initial post-RM N-pattern) is even higher than 20 cmH2O. Although it maintains an N-pattern, it carries the highest risk of overdistension and hemodynamic compromise among the options that maintain recruitment. It does not offer additional recruitment benefit compared to 16 cmH2O, making it suboptimal due to increased risk."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_8836fe05",
+    "question": "A 68-year-old male is being evaluated for extubation after 5 days of mechanical ventilation for community-acquired pneumonia. He has a history of hypertension and dyslipidemia. His Spontaneous Breathing Trial (SBT) was successful. Which of the following, if present, would classify him as a high-risk patient, potentially benefiting from non-invasive ventilation (NIV) to prevent post-extubation respiratory failure?",
+    "options": {
+      "A": "History of chronic heart failure.",
+      "B": "Single prior successful weaning trial.",
+      "C": "Presence of hypertension as his only comorbidity.",
+      "D": "PaCO2 of 40 mmHg immediately after extubation."
+    },
+    "correctAnswer": "A",
+    "topic": "Weaning from Mechanical Ventilation",
+    "deepDiveExplanation": "The provided guidelines identify several criteria for classifying a patient as high-risk for post-extubation respiratory failure, for whom NIV can be considered to prevent further complications. These criteria include 'Chronic heart failure', 'More than one consecutive failure of weaning trial', 'PaCO2 >45 mm Hg after extubation', and 'More than one co-morbidity (excluding chronic heart failure)'. A patient with a history of chronic heart failure directly meets one of these high-risk criteria.",
+    "highYieldPearl": "Rio's Take: Remember the key high-risk criteria for considering preventive NIV post-extubation: multiple weaning failures, chronic heart failure, elevated PaCO2 (>45 mmHg) post-extubation, or multiple comorbidities (excluding CHF itself).",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option is correct as a 'History of chronic heart failure' is explicitly listed as a high-risk criterion in the provided text for considering NIV to prevent post-extubation respiratory failure.",
+      "B": "The text states 'More than one consecutive failure of weaning trial' as a high-risk factor. A 'single prior successful weaning trial' does not meet this criterion, making this option incorrect.",
+      "C": "The text specifies 'More than one co-morbidity (excluding chronic heart failure)' as a high-risk factor. 'Hypertension as his only comorbidity' does not meet the 'more than one' requirement, thus this option is incorrect.",
+      "D": "The text indicates 'PaCO2 >45 mm Hg after extubation' as a high-risk factor. A 'PaCO2 of 40 mmHg' is within the normal range and thus does not qualify the patient as high-risk based on this criterion, making this option incorrect."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_382f8bce",
+    "question": "A 55-year-old patient, successfully extubated 6 hours ago, develops acute respiratory distress with increasing work of breathing, hypoxemia, and hypercapnia. Arterial blood gas shows pH 7.28, PaCO2 60 mmHg, PaO2 55 mmHg on 50% FiO2. The clinical picture confirms established post-extubation respiratory failure. What is the most appropriate recommendation regarding non-invasive ventilation (NIV) in this situation?",
+    "options": {
+      "A": "NIV should be initiated immediately to prevent re-intubation.",
+      "B": "NIV should be considered, especially if the patient has hypercapnic respiratory failure.",
+      "C": "NIV should not be used in the treatment of established post-extubation respiratory failure.",
+      "D": "NIV can be used, but only in patients considered high-risk for re-intubation."
+    },
+    "correctAnswer": "C",
+    "topic": "Weaning from Mechanical Ventilation",
+    "deepDiveExplanation": "The provided text explicitly states that 'NIV should not be used in the treatment of patients with established post-extubation respiratory failure.' The clinical vignette clearly describes a patient with 'established post-extubation respiratory failure,' making NIV an inappropriate treatment in this specific context.",
+    "highYieldPearl": "Rio's Take: Distinguish between preventing post-extubation respiratory failure (where NIV can be used in high-risk patients) and treating *established* post-extubation respiratory failure (where NIV is explicitly discouraged).",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option is incorrect. While NIV is sometimes used to *prevent* post-extubation respiratory failure in high-risk patients, the text explicitly contraindicates its use for the *treatment* of established post-extubation respiratory failure, which is the scenario described.",
+      "B": "This option is incorrect. The guideline regarding NIV for hypercapnic respiratory failure applies to *facilitating weaning from invasive mechanical ventilation*, not for treating established respiratory failure post-extubation.",
+      "C": "This option is correct. The text directly states: 'NIV should not be used in the treatment of patients with established post-extubation respiratory failure.'",
+      "D": "This option is incorrect. While NIV can be used for *prevention* in high-risk patients, the text makes a clear distinction: once respiratory failure is *established* post-extubation, NIV should not be used for its treatment, regardless of prior risk status."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_942511ba",
+    "question": "A 70-year-old male with severe COPD is undergoing a prolonged weaning process from mechanical ventilation after an exacerbation. He continues to require invasive mechanical ventilation despite multiple attempts to liberate him. The medical team is considering implementing non-invasive ventilation (NIV) to facilitate weaning from the invasive ventilator. In which scenario would the use of NIV to facilitate weaning be suggested?",
+    "options": {
+      "A": "When the patient primarily has hypoxemic respiratory failure.",
+      "B": "When the patient has hypercapnic respiratory failure.",
+      "C": "For all patients who have failed at least two weaning trials, regardless of the type of respiratory failure.",
+      "D": "Only if the patient has underlying chronic heart failure and has failed weaning."
+    },
+    "correctAnswer": "B",
+    "topic": "Weaning from Mechanical Ventilation",
+    "deepDiveExplanation": "The guidelines state: 'We suggest NIV be used to facilitate weaning from mechanical ventilation in patients with hypercapnic respiratory failure.' For hypoxemic patients, the guidelines offer no specific recommendation regarding NIV to facilitate weaning. Therefore, the presence of hypercapnic respiratory failure is the key indicator for considering NIV in this context.",
+    "highYieldPearl": "Rio's Take: NIV can assist weaning, but specifically look for hypercapnic respiratory failure. No recommendation is given for hypoxemic patients in this context.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option is incorrect. The text explicitly states, 'We do not make any recommendation for hypoxaemic patients' regarding NIV to facilitate weaning.",
+      "B": "This option is correct. The text clearly recommends: 'We suggest NIV be used to facilitate weaning from mechanical ventilation in patients with hypercapnic respiratory failure.'",
+      "C": "This option is incorrect. The recommendation is specific to the type of respiratory failure (hypercapnic) and does not apply broadly to all patients who have failed weaning, especially not those with primarily hypoxemic failure.",
+      "D": "This option is incorrect. While chronic heart failure is a high-risk factor for *preventing post-extubation respiratory failure*, it is not the specific criterion for suggesting NIV to *facilitate weaning from invasive ventilation*. The criterion for facilitating weaning is hypercapnic respiratory failure."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_5eb005f8",
+    "question": "A 68-year-old male with a history of COPD and chronic heart failure was intubated for an acute exacerbation of COPD. After 5 days, he successfully passed a spontaneous breathing trial and was extubated. His arterial blood gas immediately post-extubation revealed PaCO2 of 48 mmHg. To prevent post-extubation respiratory failure, what is the most appropriate next step regarding Non-Invasive Ventilation (NIV)?",
+    "options": {
+      "A": "Initiate NIV immediately.",
+      "B": "Monitor closely without NIV, as there is low certainty of evidence for its use.",
+      "C": "Initiate NIV only if signs of respiratory distress develop.",
+      "D": "Administer high-flow nasal cannula (HFNC) instead of NIV."
+    },
+    "correctAnswer": "A",
+    "topic": "Weaning from Mechanical Ventilation",
+    "deepDiveExplanation": "The patient meets multiple criteria for being considered a 'high-risk patient' for post-extubation respiratory failure: he has chronic heart failure, a PaCO2 > 45 mmHg (48 mmHg) after extubation, and more than one co-morbidity (COPD and chronic heart failure). According to the provided guidelines, NIV can be used to prevent post-extubation respiratory failure in high-risk patients post-extubation, despite the low certainty of evidence. Therefore, initiating NIV immediately for prevention is the recommended approach.",
+    "highYieldPearl": "Rio's Take: Always identify high-risk patients for post-extubation failure (e.g., CHF, post-extubation hypercapnia >45 mmHg, multiple weaning failures, >1 comorbidity). For these patients, NIV is a tool for *prevention*, not just for treatment.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. This patient fulfills multiple criteria for being high-risk (chronic heart failure, post-extubation PaCO2 > 45 mmHg, multiple comorbidities), for whom NIV can be used to prevent post-extubation respiratory failure.",
+      "B": "Incorrect. While the evidence certainty is low, the guideline explicitly states NIV 'can be used' for high-risk patients. Not initiating it would go against the conditional recommendation for this specific group.",
+      "C": "Incorrect. Waiting for respiratory distress means treating *established* respiratory failure. The guidelines explicitly state that NIV 'should not be used in the treatment of patients with established post-extubation respiratory failure'. This option misapplies NIV to a scenario where it is contraindicated.",
+      "D": "Incorrect. While HFNC is a form of respiratory support, the provided text specifically addresses the role of NIV in this context. There is no mention of HFNC as the primary recommended preventive measure in high-risk patients for post-extubation respiratory failure within these guidelines."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_0c0604fe",
+    "question": "A 72-year-old male with no significant prior comorbidities was successfully extubated after 3 days of mechanical ventilation for community-acquired pneumonia. Six hours later, he developed increasing dyspnea, tachypnea (respiratory rate 32/min), accessory muscle use, and hypoxemia. Arterial blood gas showed pH 7.28, PaCO2 58 mmHg, PaO2 65 mmHg on 40% oxygen via face mask. What is the most appropriate immediate respiratory support for this patient?",
+    "options": {
+      "A": "Initiate Non-Invasive Ventilation (NIV).",
+      "B": "Re-intubate the patient.",
+      "C": "Administer high-flow nasal cannula (HFNC).",
+      "D": "Provide supplemental oxygen and close observation."
+    },
+    "correctAnswer": "B",
+    "topic": "Weaning from Mechanical Ventilation",
+    "deepDiveExplanation": "This patient has developed *established* post-extubation respiratory failure, characterized by severe symptoms (dyspnea, tachypnea, accessory muscle use) and significant derangement in arterial blood gases (acidosis, severe hypercapnia, and hypoxemia). The provided guidelines clearly state: 'NIV *should not be used in the treatment* of patients with *established post-extubation respiratory failure*.' Therefore, NIV is contraindicated in this scenario. Given the severity of the respiratory failure, re-intubation is the most appropriate immediate definitive respiratory support.",
+    "highYieldPearl": "Rio's Take: Differentiate between NIV for *prevention* in high-risk patients vs. NIV for *treatment* of established post-extubation respiratory failure. NIV is generally *not* recommended for treating established failure, which often necessitates re-intubation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. This is a crucial trap. The guidelines explicitly state that NIV 'should not be used in the treatment of patients with established post-extubation respiratory failure'. The patient's clinical picture and ABGs clearly indicate established respiratory failure.",
+      "B": "Correct. Given the severe, established post-extubation respiratory failure, with significant acidosis, hypercapnia, and hypoxemia, and the contraindication for NIV in this setting, re-intubation is the standard and most appropriate immediate intervention.",
+      "C": "Incorrect. While HFNC provides respiratory support, it is unlikely to be sufficient for such severe and established respiratory failure, especially with hypercapnic acidosis. The guidelines do not recommend HFNC in this specific context over NIV for prevention/treatment.",
+      "D": "Incorrect. Providing only supplemental oxygen and observation is insufficient for a patient with established and severe respiratory failure and acute hypercapnic acidosis. More aggressive ventilatory support is required."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_d35c0886",
+    "question": "A 55-year-old male with a long history of severe COPD was admitted with acute on chronic respiratory failure requiring invasive mechanical ventilation. After stabilization, he has consistently failed several spontaneous breathing trials due to persistent hypercapnia (PaCO2 consistently above 55 mmHg during trials). His oxygenation is otherwise adequate. The medical team is considering strategies to facilitate weaning. What is the most appropriate role for Non-Invasive Ventilation (NIV) in this patient's weaning plan?",
+    "options": {
+      "A": "NIV should be initiated immediately post-extubation to prevent re-intubation.",
+      "B": "NIV should be used to facilitate weaning prior to extubation.",
+      "C": "NIV is not recommended for weaning in patients with hypercapnic respiratory failure.",
+      "D": "NIV should only be considered if the patient fails extubation and develops established respiratory failure."
+    },
+    "correctAnswer": "B",
+    "topic": "Weaning from Mechanical Ventilation",
+    "deepDiveExplanation": "The patient presents with hypercapnic respiratory failure and difficulty weaning from invasive mechanical ventilation. The guidelines state: 'We suggest NIV be used to facilitate weaning from mechanical ventilation in patients with hypercapnic respiratory failure.' This recommendation specifically applies to using NIV as a transition or aid *before* final extubation in patients who are difficult to wean due to hypercapnia, helping to reduce the duration of invasive ventilation.",
+    "highYieldPearl": "Rio's Take: For patients with hypercapnic respiratory failure who are difficult to wean, NIV plays a critical role in *facilitating weaning* (i.e., as a step-down from invasive ventilation) rather than solely for post-extubation prevention or treatment of established failure.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. While this patient has COPD and is at high risk, the primary problem described is difficulty *weaning* due to hypercapnia. The specific recommendation for hypercapnic patients is to use NIV to *facilitate weaning* (often before extubation), not solely for post-extubation prevention after an extubation attempt has already failed repeatedly. Also, the patient has *failed* SBTs, so extubating and then initiating NIV for prevention is not the primary approach in this context.",
+      "B": "Correct. This directly aligns with the guideline: 'We suggest NIV be used to facilitate weaning from mechanical ventilation in patients with hypercapnic respiratory failure.' This implies its use as part of the weaning process, potentially as a step-down from invasive ventilation.",
+      "C": "Incorrect. This contradicts the provided guideline, which specifically recommends NIV for facilitating weaning in patients with hypercapnic respiratory failure.",
+      "D": "Incorrect. This option suggests using NIV for *established* post-extubation respiratory failure, which is explicitly contraindicated by the guidelines. Furthermore, it ignores the primary indication for NIV to facilitate weaning in hypercapnic patients *before* extubation failure."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_e4689ed5",
+    "question": "A 65-year-old patient intubated for acute respiratory failure due to pneumonia is undergoing assessment for extubation. He has a history of type 2 diabetes and hypertension. Which of the following factors would **NOT** categorize this patient as high-risk for post-extubation respiratory failure, according to the provided guidelines, warranting consideration of prophylactic Non-Invasive Ventilation (NIV)?",
+    "options": {
+      "A": "History of two consecutive failed weaning trials in the current hospitalization.",
+      "B": "Baseline PaCO2 of 40 mmHg on mechanical ventilation.",
+      "C": "History of chronic heart failure.",
+      "D": "The patient has type 2 diabetes and hypertension."
+    },
+    "correctAnswer": "B",
+    "topic": "Weaning from Mechanical Ventilation",
+    "deepDiveExplanation": "The provided guidelines identify several criteria for high-risk patients where prophylactic NIV can be considered to prevent post-extubation respiratory failure. These include: more than one consecutive failure of weaning trial, chronic heart failure, PaCO2 >45 mmHg after extubation, and more than one co-morbidity (excluding chronic heart failure). \n\nOption A (history of two consecutive failed weaning trials) directly matches 'More than one consecutive failure of weaning trial,' making the patient high-risk. \nOption C (history of chronic heart failure) is explicitly listed as a high-risk factor. \nOption D (type 2 diabetes and hypertension) represents two comorbidities, fulfilling the 'More than one co-morbidity' criterion, thereby making the patient high-risk. \n\nOption B (baseline PaCO2 of 40 mmHg on mechanical ventilation) is a normal PaCO2 value and does not meet the high-risk criterion of 'PaCO2 >45 mmHg after extubation.' Therefore, this factor would not categorize the patient as high-risk for post-extubation respiratory failure.",
+    "highYieldPearl": "Rio's Take: Prophylactic NIV post-extubation is recommended for high-risk patients to prevent respiratory failure. Key high-risk factors include prior weaning failure, CHF, specific post-extubation hypercapnia, and multiple comorbidities. Distinguish this from NIV for established post-extubation failure, which is generally not recommended.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option is a direct high-risk factor (more than one consecutive failure of weaning trial). Students might incorrectly select this if they misinterpret the question or the high-risk criteria.",
+      "B": "This is the correct answer. A normal PaCO2 on mechanical ventilation does not fit any of the high-risk criteria, especially not 'PaCO2 >45 mmHg after extubation'.",
+      "C": "This option is a direct high-risk factor (chronic heart failure). Students might incorrectly select this if they misinterpret the question or the high-risk criteria.",
+      "D": "This option describes two comorbidities, fulfilling the 'more than one co-morbidity' criterion for high risk. Students might overlook that two comorbidities qualify as high-risk."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_5c99522a",
+    "question": "A 58-year-old male with no significant past medical history was intubated for severe community-acquired pneumonia. After 7 days, he was successfully extubated following a spontaneous breathing trial. Three hours post-extubation, he develops increasing dyspnea, uses accessory muscles of respiration, and his arterial blood gas shows pH 7.28, PaCO2 62 mmHg, PaO2 70 mmHg on 8 L/min oxygen via face mask. What is the most appropriate next step in management?",
+    "options": {
+      "A": "Initiate non-invasive ventilation (NIV) immediately.",
+      "B": "Administer a high-dose nebulized bronchodilator and reassess in 30 minutes.",
+      "C": "Prepare for re-intubation and re-initiation of mechanical ventilation.",
+      "D": "Increase oxygen flow to 15 L/min via non-rebreather mask and monitor closely."
+    },
+    "correctAnswer": "C",
+    "topic": "Weaning from Mechanical Ventilation",
+    "deepDiveExplanation": "The patient's clinical presentation (increasing dyspnea, accessory muscle use, severe acidosis with hypercapnia, and hypoxemia) three hours post-extubation indicates established post-extubation respiratory failure. The provided guidelines state, 'NIV *should not be used in the treatment* of patients with *established post-extubation respiratory failure*.' In such a scenario, attempting NIV is likely to delay definitive airway management (re-intubation) and may worsen patient outcomes. Therefore, the most appropriate next step is to prepare for re-intubation to secure the airway and reinstitute invasive mechanical ventilation.",
+    "highYieldPearl": "Rio's Take: While NIV can prevent post-extubation failure in high-risk patients, it is generally contraindicated for treating *established* post-extubation respiratory failure. In such cases, prompt re-intubation is crucial to prevent adverse outcomes.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a common trap. While NIV is useful in other contexts, the guidelines explicitly contraindicate its use for *established* post-extubation respiratory failure. Implementing NIV here would delay re-intubation.",
+      "B": "Bronchodilators are not indicated as the primary treatment for severe hypercapnic respiratory failure in the absence of clear bronchospasm. This approach delays definitive management and is unlikely to resolve the severe respiratory acidosis.",
+      "C": "This is the correct answer. The patient's severe clinical and blood gas deterioration signifies established respiratory failure requiring urgent airway control and ventilatory support.",
+      "D": "Increasing oxygen addresses only the hypoxemia, which is secondary to hypoventilation. It does not address the severe hypercapnia and impending respiratory arrest, delaying crucial intervention."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_43c09efd",
+    "question": "A 70-year-old female with severe COPD and chronic hypercapnic respiratory failure is mechanically ventilated. She has shown some improvement and is now stable on minimal ventilatory support (PSV 8 cmH2O, PEEP 5 cmH2O, FiO2 0.3). Her arterial blood gas shows pH 7.33, PaCO2 58 mmHg, PaO2 85 mmHg. The team is considering strategies to facilitate her weaning from invasive mechanical ventilation. Which of the following approaches is most supported by current guidelines in this scenario?",
+    "options": {
+      "A": "Immediate extubation followed by conventional oxygen therapy.",
+      "B": "A trial of non-invasive ventilation (NIV) to facilitate weaning prior to extubation.",
+      "C": "Prolonged invasive mechanical ventilation until PaCO2 normalizes to <45 mmHg.",
+      "D": "Tracheostomy to facilitate long-term weaning."
+    },
+    "correctAnswer": "B",
+    "topic": "Weaning from Mechanical Ventilation",
+    "deepDiveExplanation": "The patient has chronic hypercapnic respiratory failure (consistent with severe COPD and PaCO2 of 58 mmHg) and is currently mechanically ventilated, stable on minimal support, and being considered for weaning. The provided guidelines state, 'We suggest NIV be used to facilitate weaning from mechanical ventilation in patients with hypercapnic respiratory failure.' This strategy aims to bridge the patient from invasive ventilation to spontaneous breathing with NIV support, potentially reducing the duration of invasive ventilation and preventing extubation failure.\n\nOption A (immediate extubation) is risky given the underlying chronic hypercapnic respiratory failure, which predicts a higher risk of post-extubation failure without facilitative strategies.\nOption C (prolonged invasive mechanical ventilation) is generally undesirable as it increases complications. For chronic hypercapnic patients, achieving normocapnia (<45 mmHg) may not be realistic or necessary for successful weaning.\nOption D (tracheostomy) is a more invasive procedure indicated for prolonged ventilation or difficult long-term weaning. While it can facilitate long-term ventilation, it is not the most immediate and evidence-supported strategy for *facilitating weaning* in a patient who is already stable on minimal support and potentially suitable for NIV transition.",
+    "highYieldPearl": "Rio's Take: For patients with hypercapnic respiratory failure who are difficult to wean from invasive mechanical ventilation, NIV can serve as a valuable tool to facilitate the weaning process. This approach is distinct from prophylactic NIV (post-extubation) or therapeutic NIV for established respiratory failure (not recommended).",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option is plausible if the patient were low-risk, but given chronic hypercapnic respiratory failure, a facilitative strategy like NIV is preferred over immediate extubation.",
+      "B": "This is the correct answer, directly supported by the guideline's conditional recommendation for using NIV to facilitate weaning in hypercapnic respiratory failure.",
+      "C": "This is a trap related to the common misconception that PaCO2 must normalize. For chronic hypercapnic patients, the goal is often optimal ventilation and stable gas exchange rather than strict normocapnia, and prolonged MV carries risks.",
+      "D": "While tracheostomy is a weaning tool, it's more invasive than NIV and usually reserved for longer-term ventilation or when simpler strategies have failed. It's not the *most supported* initial strategy for facilitating weaning in this context per the guidelines."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_8006697d",
+    "question": "A 65-year-old male with a history of hypertension and Type 2 Diabetes is being evaluated for extubation after 5 days of mechanical ventilation for community-acquired pneumonia. He has successfully completed a spontaneous breathing trial today. Which of the following conditions, if present, would categorize this patient as high-risk for post-extubation respiratory failure, making him a candidate for prophylactic Non-Invasive Ventilation (NIV)?",
+    "options": {
+      "A": "History of chronic heart failure.",
+      "B": "A single failed spontaneous breathing trial during the current weaning attempt.",
+      "C": "Current PaCO2 of 40 mmHg immediately prior to extubation.",
+      "D": "Diagnosis of Type 2 Diabetes as his sole co-morbidity."
+    },
+    "correctAnswer": "A",
+    "topic": "Weaning from Mechanical Ventilation",
+    "deepDiveExplanation": "The provided guidelines state that Non-Invasive Ventilation (NIV) can be used to prevent post-extubation respiratory failure in high-risk patients. High-risk patients are defined by several criteria, including 'Chronic heart failure'. The other options do not meet the criteria for high-risk status as per the provided text.",
+    "highYieldPearl": "Rio's Take: Prophylactic NIV post-extubation is selectively recommended for high-risk patients. Remember the key high-risk criteria: chronic heart failure, more than one consecutive failed weaning trial, PaCO2 >45 mmHg post-extubation, and more than one co-morbidity (excluding CHF).",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is a direct high-risk criterion explicitly mentioned in the text for considering prophylactic NIV.",
+      "B": "The guideline specifies 'More than one consecutive failure of weaning trial'. A single failed trial, especially if followed by a successful one, does not meet this criterion.",
+      "C": "The criterion for PaCO2 is '>45 mm Hg *after extubation*', not immediately prior, and 40 mmHg is a normal value.",
+      "D": "The criterion for co-morbidities is 'More than one co-morbidity (excluding chronic heart failure)'. A single co-morbidity like Type 2 Diabetes alone does not qualify."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_d41ef0c9",
+    "question": "A 72-year-old patient, extubated 3 hours ago after successful weaning from mechanical ventilation, develops sudden onset of dyspnea, tachypnea, and increasing oxygen requirements, consistent with acute respiratory failure. Regarding the use of Non-Invasive Ventilation (NIV) in this specific situation, which of the following statements is most appropriate according to current guidelines?",
+    "options": {
+      "A": "NIV should be initiated immediately to prevent re-intubation.",
+      "B": "NIV should be considered only if the patient has underlying hypercapnic respiratory failure.",
+      "C": "NIV should not be used in the treatment of established post-extubation respiratory failure.",
+      "D": "NIV is beneficial if initiated within the first hour of respiratory failure onset."
+    },
+    "correctAnswer": "C",
+    "topic": "Weaning from Mechanical Ventilation",
+    "deepDiveExplanation": "The provided guidelines explicitly state: 'NIV *should not be used in the treatment* of patients with *established post-extubation respiratory failure*.' This is a clear directive regarding the management of patients who have already developed respiratory failure after extubation.",
+    "highYieldPearl": "Rio's Take: Do NOT confuse prophylactic NIV post-extubation in high-risk patients with NIV for *established* post-extubation respiratory failure. The latter is generally not recommended by these guidelines.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is a common clinical misconception or practice but directly contradicts the guideline stating NIV should not be used for established post-extubation respiratory failure.",
+      "B": "The recommendation regarding hypercapnic respiratory failure applies to facilitating weaning *from invasive mechanical ventilation*, not to treating established respiratory failure post-extubation.",
+      "C": "This statement is a direct recall from the provided text, which gives a strong recommendation against using NIV in this scenario.",
+      "D": "There is no time-dependent benefit for NIV in established post-extubation respiratory failure; the overall recommendation is against its use as per the guideline."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_d7873a9a",
+    "question": "A 58-year-old patient on invasive mechanical ventilation for a severe COPD exacerbation with hypercapnic respiratory failure is being evaluated for weaning. He has met all criteria for a spontaneous breathing trial and is physiologically ready for liberation from the ventilator. In this specific scenario, what is the recommendation regarding the use of Non-Invasive Ventilation (NIV) to facilitate weaning from invasive mechanical ventilation?",
+    "options": {
+      "A": "NIV is strongly recommended for all patients being weaned from mechanical ventilation.",
+      "B": "NIV is suggested to facilitate weaning in patients with hypercapnic respiratory failure.",
+      "C": "NIV should only be considered for patients with hypoxemic respiratory failure during weaning.",
+      "D": "NIV offers no significant benefit in facilitating weaning from invasive mechanical ventilation."
+    },
+    "correctAnswer": "B",
+    "topic": "Weaning from Mechanical Ventilation",
+    "deepDiveExplanation": "The provided text states: 'We suggest NIV be used to facilitate weaning from mechanical ventilation in patients with hypercapnic respiratory failure.' This is a conditional recommendation with moderate certainty of evidence, specifically applicable to patients with hypercapnic respiratory failure being weaned from invasive mechanical ventilation.",
+    "highYieldPearl": "Rio's Take: For weaning from invasive mechanical ventilation, NIV is particularly useful in hypercapnic patients. No recommendation is made for hypoxemic patients in this context.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "The recommendation is 'conditional' and specific to hypercapnic respiratory failure, not 'strongly recommended for all patients'.",
+      "B": "This statement accurately reflects the guideline's recommendation for using NIV to facilitate weaning in patients with hypercapnic respiratory failure.",
+      "C": "The guideline explicitly states, 'We do not make any recommendation for hypoxaemic patients' regarding NIV to facilitate weaning, making this option incorrect.",
+      "D": "This statement is incorrect as the guideline suggests NIV for hypercapnic respiratory failure to facilitate weaning, implying a benefit."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_f9d16d89",
+    "question": "A 68-year-old male with a history of chronic heart failure (NYHA Class III) and COPD was intubated for an acute exacerbation of COPD with hypercapnic respiratory failure. After 5 days, he successfully completed a spontaneous breathing trial and is deemed ready for extubation. Considering his risk factors, which of the following is the most appropriate approach regarding non-invasive ventilation (NIV) immediately post-extubation?",
+    "options": {
+      "A": "Prophylactic NIV should be initiated to prevent post-extubation respiratory failure.",
+      "B": "NIV should be reserved only for treatment if he develops post-extubation respiratory failure.",
+      "C": "NIV is contraindicated as he successfully passed the spontaneous breathing trial.",
+      "D": "NIV should only be considered if his PaCO2 is >45 mmHg after extubation."
+    },
+    "correctAnswer": "A",
+    "topic": "Weaning from Mechanical Ventilation",
+    "deepDiveExplanation": "The patient in the vignette is at high risk for post-extubation respiratory failure due to his history of chronic heart failure. According to the provided guidelines, NIV can be used to prevent post-extubation respiratory failure in high-risk patients. High-risk criteria include chronic heart failure, more than one consecutive failure of weaning trial, PaCO2 >45 mm Hg after extubation, or more than one co-morbidity (excluding chronic heart failure). Since this patient has chronic heart failure, he qualifies as high-risk, making prophylactic NIV an appropriate consideration to prevent post-extubation respiratory failure.",
+    "highYieldPearl": "Rio's Take: Prophylactic NIV should be considered for high-risk patients after extubation to prevent respiratory failure, even if they pass a spontaneous breathing trial. Key high-risk factors include CHF and prior weaning failures.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option is correct. The patient has chronic heart failure, which is a high-risk factor for post-extubation respiratory failure, justifying the use of prophylactic NIV.",
+      "B": "This is a trap. The guidelines explicitly state that NIV should NOT be used in the treatment of established post-extubation respiratory failure. Therefore, reserving it for treatment is inappropriate and potentially harmful.",
+      "C": "This is incorrect. While passing an SBT is a positive sign, it does not negate the high-risk status conferred by chronic heart failure. High-risk patients may still benefit from prophylactic NIV despite a successful SBT.",
+      "D": "This is a partial high-risk criterion. While a PaCO2 >45 mmHg after extubation is a high-risk factor, the patient already meets a high-risk criterion (chronic heart failure) before extubation, warranting prophylactic NIV. Waiting for post-extubation hypercapnia would mean missing the opportunity for prevention."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_72114d44",
+    "question": "A 72-year-old patient was extubated after recovering from pneumonia. Two hours later, he develops increasing dyspnea, tachypnea (respiratory rate 32 breaths/min), and accessory muscle use. Arterial blood gas shows pH 7.28, PaCO2 62 mmHg, PaO2 80 mmHg on 60% oxygen via face mask. What is the most appropriate management strategy regarding non-invasive ventilation (NIV)?",
+    "options": {
+      "A": "Immediate re-intubation should be considered, as NIV is not recommended for established post-extubation respiratory failure.",
+      "B": "NIV should be initiated promptly to avoid re-intubation, given the hypercapnic respiratory failure.",
+      "C": "A trial of high-flow nasal cannula (HFNC) should be attempted before considering NIV or re-intubation.",
+      "D": "NIV can be attempted, but only in a monitored setting with a low threshold for re-intubation."
+    },
+    "correctAnswer": "A",
+    "topic": "Weaning from Mechanical Ventilation",
+    "deepDiveExplanation": "The patient is experiencing established post-extubation respiratory failure, evidenced by severe dyspnea, tachypnea, accessory muscle use, and significant hypercapnia (PaCO2 62 mmHg, pH 7.28). According to the provided guidelines, NIV should NOT be used in the treatment of patients with established post-extubation respiratory failure. In such a scenario, the priority is to provide adequate ventilatory support, which typically means re-intubation, given the failure of spontaneous breathing and the clear signs of respiratory distress and decompensation.",
+    "highYieldPearl": "Rio's Take: For *established* post-extubation respiratory failure, NIV is *not* recommended. Re-intubation should be considered early to prevent further deterioration.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. The guidelines explicitly contraindicate NIV for the treatment of established post-extubation respiratory failure. Given the patient's severe respiratory distress and hypercapnia, re-intubation is the appropriate next step.",
+      "B": "This is incorrect. While the patient has hypercapnic respiratory failure, the guidelines specifically advise against using NIV for treatment in this established post-extubation context.",
+      "C": "This is a plausible distractor. While HFNC is a therapy for respiratory support, the provided text does not mention its use for established post-extubation respiratory failure, and more importantly, the primary focus of the question is on the role of NIV as per the given context, which strongly advises against it in this scenario.",
+      "D": "This is incorrect. The guideline provides a strong negative recommendation ('NIV *should not be used*') for established post-extubation respiratory failure, making an attempt at NIV, even with a low threshold for re-intubation, inconsistent with the stated guidance."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_ad534413",
+    "question": "A 55-year-old male with severe kyphoscoliosis and chronic respiratory failure due to neuromuscular weakness has been on invasive mechanical ventilation for 3 weeks following a respiratory infection. He is now stable and has passed several spontaneous breathing trials. His primary respiratory failure pattern is hypercapnic. Which of the following statements regarding the use of non-invasive ventilation (NIV) to facilitate his weaning from invasive mechanical ventilation is most accurate?",
+    "options": {
+      "A": "NIV is suggested to facilitate weaning in patients with hypercapnic respiratory failure.",
+      "B": "NIV should be avoided to facilitate weaning due to the underlying neuromuscular weakness.",
+      "C": "NIV is only recommended for weaning facilitation in hypoxemic patients.",
+      "D": "The use of NIV to facilitate weaning is strongly recommended for all types of respiratory failure."
+    },
+    "correctAnswer": "A",
+    "topic": "Weaning from Mechanical Ventilation",
+    "deepDiveExplanation": "The patient has hypercapnic respiratory failure and is undergoing the weaning process from invasive mechanical ventilation. The guidelines state: 'We suggest NIV be used to facilitate weaning from mechanical ventilation in patients with hypercapnic respiratory failure.' This directly supports the use of NIV in this patient's scenario, irrespective of the underlying cause (neuromuscular weakness leading to chronic hypercapnia).",
+    "highYieldPearl": "Rio's Take: NIV can be a valuable tool to facilitate weaning from invasive mechanical ventilation, particularly in patients with hypercapnic respiratory failure. Its role in hypoxemic patients for weaning facilitation is not established by the provided text.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct statement, directly reflecting the guideline's conditional recommendation for NIV to facilitate weaning in patients with hypercapnic respiratory failure.",
+      "B": "This is a trap. While neuromuscular weakness is the underlying cause, the guideline specifically addresses the type of respiratory failure (hypercapnic) for which NIV is suggested to facilitate weaning. The underlying etiology does not preclude this recommendation.",
+      "C": "This is incorrect. The guideline states that 'We do not make any recommendation for hypoxaemic patients' regarding NIV to facilitate weaning, and specifically suggests it for hypercapnic patients.",
+      "D": "This is incorrect. The recommendation for NIV to facilitate weaning is specific to hypercapnic respiratory failure and is a 'suggestion' (conditional recommendation), not a 'strong recommendation' for all types of respiratory failure."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_9a92bad7",
+    "question": "A 68-year-old male with a history of severe COPD and Type 2 Diabetes Mellitus was intubated for an acute exacerbation. After 5 days of mechanical ventilation, he successfully passed a spontaneous breathing trial (SBT). Prior to this successful SBT, he had failed one previous SBT attempt due to tachypnea. The intensivist is now considering extubation. Based on the current evidence for preventing post-extubation respiratory failure, which of the following is the most appropriate next step regarding Non-invasive Ventilation (NIV)?",
+    "options": {
+      "A": "Initiate NIV immediately after extubation to prevent post-extubation respiratory failure.",
+      "B": "Extubate and closely monitor, as NIV is generally not recommended for prevention in this patient.",
+      "C": "Defer extubation and continue invasive mechanical ventilation for another 24 hours to ensure readiness.",
+      "D": "Administer high-flow nasal cannula (HFNC) after extubation instead of NIV, regardless of risk."
+    },
+    "correctAnswer": "A",
+    "topic": "Weaning from Mechanical Ventilation",
+    "deepDiveExplanation": "The patient in the vignette exhibits multiple risk factors for post-extubation respiratory failure: a history of severe COPD, Type 2 Diabetes Mellitus (representing more than one comorbidity), and a failed previous spontaneous breathing trial. According to guidelines, NIV can be used to prevent post-extubation respiratory failure in high-risk patients. Since this patient meets the criteria for a high-risk individual, initiating NIV post-extubation to prevent respiratory failure is an appropriate and recommended approach. This is a conditional recommendation with low certainty of evidence, but it is the specified action for high-risk patients.",
+    "highYieldPearl": "Rio's Take: NIV can prevent post-extubation respiratory failure in high-risk patients (e.g., >1 failed SBT, CHF, PaCO2 >45 post-extubation, >1 comorbidity). Do not use it for prevention in non-high-risk patients.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. The patient is high-risk due to multiple comorbidities and a prior failed SBT, making preventive NIV a valid strategy.",
+      "B": "This is incorrect. While NIV is not recommended for prevention in non-high-risk patients, this patient *is* high-risk, making preventive NIV a consideration.",
+      "C": "Deferring extubation is not directly supported by the provided text regarding NIV strategies post-SBT. A successful SBT generally indicates readiness for extubation, and delaying unnecessarily carries its own risks.",
+      "D": "HFNC is not discussed in the provided text as an alternative or equivalent to NIV for the prevention of post-extubation respiratory failure in this specific context. The question focuses on NIV based on the provided guidelines."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_0abf1ed3",
+    "question": "A 72-year-old patient with no significant comorbidities was successfully extubated after 4 days of mechanical ventilation for severe aspiration pneumonia. Two hours post-extubation, he develops acute respiratory distress characterized by increasing dyspnea, tachypnea (RR 32/min), accessory muscle use, and an SpO2 of 89% on a high-concentration oxygen mask. Arterial blood gas shows pH 7.29, PaCO2 55 mmHg, PaO2 60 mmHg. The clinical team is debating the role of Non-invasive Ventilation (NIV) in his management. Which of the following is the most appropriate approach based on current recommendations?",
+    "options": {
+      "A": "Initiate NIV promptly, as it has been shown to reduce the need for re-intubation in established post-extubation respiratory failure.",
+      "B": "Prepare for re-intubation and invasive mechanical ventilation, as NIV is not recommended for established post-extubation respiratory failure.",
+      "C": "Start high-flow nasal cannula (HFNC) and closely monitor the patient for 6-12 hours before considering re-intubation or NIV.",
+      "D": "Administer aggressive diuresis and bronchodilators, then reassess respiratory status before any ventilatory intervention."
+    },
+    "correctAnswer": "B",
+    "topic": "Weaning from Mechanical Ventilation",
+    "deepDiveExplanation": "The patient is experiencing clear signs of established post-extubation respiratory failure, evidenced by severe dyspnea, tachypnea, accessory muscle use, hypoxemia, and hypercapnic acidosis. According to current guidelines, NIV should not be used in the treatment of patients with established post-extubation respiratory failure. In such cases, the appropriate course of action is to re-evaluate the need for invasive mechanical ventilation and proceed with re-intubation if criteria for respiratory failure persist or worsen.",
+    "highYieldPearl": "Rio's Take: NIV is NOT recommended for the treatment of *established* post-extubation respiratory failure. Focus shifts to re-intubation if severe.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a common misconception and directly contradicts the guideline. While NIV has roles in prevention and facilitation of weaning, it is not recommended for established post-extubation failure.",
+      "B": "This is the correct answer. The guideline explicitly states that NIV should not be used for established post-extubation respiratory failure, making re-intubation the next appropriate step for severe cases.",
+      "C": "HFNC is not mentioned in the provided context for established post-extubation respiratory failure, and delaying definitive management like re-intubation with such severe deterioration is not advisable.",
+      "D": "While underlying causes might need treatment (e.g., diuresis for heart failure, bronchodilators for COPD), these are adjuncts. In the face of acute, severe respiratory failure with acidosis and hypoxemia, immediate ventilatory support (re-intubation) takes precedence over medical therapy alone."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_6387f788",
+    "question": "Regarding the use of Non-invasive Ventilation (NIV) to facilitate weaning from invasive mechanical ventilation, which of the following statements is TRUE?",
+    "options": {
+      "A": "NIV is strongly recommended to facilitate weaning in patients experiencing hypoxemic respiratory failure.",
+      "B": "NIV is suggested to facilitate weaning in patients with hypercapnic respiratory failure.",
+      "C": "NIV should not be used to facilitate weaning in any patient population, irrespective of their respiratory failure type.",
+      "D": "The use of NIV to facilitate weaning is primarily beneficial in non-high-risk patients post-extubation."
+    },
+    "correctAnswer": "B",
+    "topic": "Weaning from Mechanical Ventilation",
+    "deepDiveExplanation": "The provided guidelines explicitly state, 'We suggest NIV be used to facilitate weaning from mechanical ventilation in patients with hypercapnic respiratory failure.' This is a conditional recommendation with moderate certainty of evidence. For hypoxemic patients, the guidelines state, 'We do not make any recommendation.' Therefore, NIV has a role in facilitating weaning, specifically in the hypercapnic population.",
+    "highYieldPearl": "Rio's Take: NIV facilitates weaning in hypercapnic respiratory failure (suggested). No recommendation for hypoxemic patients in this context.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is incorrect. The guideline states 'No recommendation' for hypoxemic patients. Furthermore, even for hypercapnic patients, it's 'suggested' (conditional), not 'strongly recommended'.",
+      "B": "This is the correct statement, directly reflecting the guideline: 'We suggest NIV be used to facilitate weaning from mechanical ventilation in patients with hypercapnic respiratory failure.'",
+      "C": "This is incorrect. NIV *is* suggested for facilitating weaning in patients with hypercapnic respiratory failure.",
+      "D": "This option confuses the indication for facilitating weaning with the indication for *preventing* post-extubation respiratory failure. The high-risk/non-high-risk distinction applies to preventive NIV post-extubation, not to facilitating weaning from invasive ventilation itself."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_57f02e65",
+    "question": "A patient is being evaluated for extubation. According to current guidelines, all of the following are considered criteria for classifying a patient as high-risk for post-extubation respiratory failure, EXCEPT:",
+    "options": {
+      "A": "Chronic heart failure",
+      "B": "PaCO2 > 45 mm Hg after extubation",
+      "C": "More than one consecutive failure of weaning trial",
+      "D": "A single significant co-morbidity"
+    },
+    "correctAnswer": "D",
+    "topic": "Weaning from Mechanical Ventilation",
+    "deepDiveExplanation": "The provided guidelines specify that patients are considered high-risk for post-extubation respiratory failure if they have 'More than one co-morbidity (excluding chronic heart failure)'. Therefore, having only 'A single significant co-morbidity' does not meet this specific criterion for classifying a patient as high-risk for the purpose of prophylactic NIV use.",
+    "highYieldPearl": "Rio's Take: The definition of 'high-risk' for post-extubation respiratory failure is crucial for deciding on prophylactic NIV. Remember the 'more than one' rule for co-morbidities, distinct from chronic heart failure.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Chronic heart failure is explicitly listed as a high-risk criterion. This is a correct criterion.",
+      "B": "PaCO2 > 45 mm Hg after extubation is explicitly listed as a high-risk criterion. This is a correct criterion.",
+      "C": "More than one consecutive failure of weaning trial is explicitly listed as a high-risk criterion. This is a correct criterion.",
+      "D": "The guideline states '>1 co-morbidity (excluding chronic heart failure)'. A 'single significant co-morbidity' does not fulfill the 'more than one' requirement, making this the incorrect option in an EXCEPT question."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_b03b9c42",
+    "question": "A patient successfully extubated 3 hours ago develops acute respiratory distress with signs of respiratory failure. Based on current evidence, what is the recommended approach regarding Non-Invasive Ventilation (NIV) in this patient?",
+    "options": {
+      "A": "NIV should be initiated promptly to prevent re-intubation.",
+      "B": "NIV is not recommended for the treatment of established post-extubation respiratory failure.",
+      "C": "NIV should be considered only if the patient presents with hypercapnic respiratory failure.",
+      "D": "NIV is effective if applied within the first hour of onset of respiratory failure."
+    },
+    "correctAnswer": "B",
+    "topic": "Weaning from Mechanical Ventilation",
+    "deepDiveExplanation": "The provided text clearly states: 'NIV should not be used in the treatment of patients with established post-extubation respiratory failure.' This distinguishes the role of NIV in prevention (for high-risk patients) from its use in treating respiratory failure once it has already developed after extubation.",
+    "highYieldPearl": "Rio's Take: It's vital to differentiate between preventing post-extubation respiratory failure (where NIV *can* be used in high-risk patients) and treating *established* post-extubation respiratory failure (where NIV *should not* be used).",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option is plausible but incorrect. While NIV can prevent respiratory failure in *high-risk* patients post-extubation, it is not recommended for the *treatment* of established failure. This confuses prevention with treatment.",
+      "B": "This statement is directly supported by the text: 'NIV should not be used in the treatment of patients with established post-extubation respiratory failure.'",
+      "C": "This option confuses the use of NIV to *facilitate weaning* in hypercapnic patients with its use in treating *established post-extubation respiratory failure*. The text makes no such conditional recommendation for *treatment* based on hypercapnia.",
+      "D": "This option introduces an unsupported time-based criterion and incorrectly suggests efficacy for established post-extubation respiratory failure, which contradicts the guideline."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_cteph_368ce524",
+    "question": "Non-Invasive Ventilation (NIV) is suggested to facilitate weaning from mechanical ventilation in patients with which of the following conditions?",
+    "options": {
+      "A": "Hypoxemic respiratory failure",
+      "B": "Hypercapnic respiratory failure",
+      "C": "Acute cardiogenic pulmonary edema",
+      "D": "Severe acute respiratory distress syndrome (ARDS)"
+    },
+    "correctAnswer": "B",
+    "topic": "Weaning from Mechanical Ventilation",
+    "deepDiveExplanation": "The guidelines state: 'We suggest NIV be used to facilitate weaning from mechanical ventilation in patients with hypercapnic respiratory failure.' It explicitly adds, 'We do not make any recommendation for hypoxaemic patients.'",
+    "highYieldPearl": "Rio's Take: For facilitating weaning, NIV has a specific role in hypercapnic respiratory failure patients. No such recommendation exists for hypoxemic patients in this context.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "The text explicitly states: 'We do not make any recommendation for hypoxaemic patients' when discussing NIV to facilitate weaning. This is a direct contradiction to the correct answer.",
+      "B": "This is the correct answer, as directly stated in the text: 'We suggest NIV be used to facilitate weaning from mechanical ventilation in patients with hypercapnic respiratory failure.'",
+      "C": "Acute cardiogenic pulmonary edema is a condition where NIV is often used for acute management, but the provided text does not mention it in the context of facilitating *weaning* from invasive mechanical ventilation.",
+      "D": "Severe ARDS typically involves significant hypoxemia, for which no recommendation is made regarding NIV to facilitate weaning. It is also a condition of acute lung injury, not specifically addressed for NIV in weaning facilitation in the given context."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": null,
+      "section": "Persistent Acute Pulmonary Artery Filling Defects and Related Conditions",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_062",
+    "generatedAt": 1767060988500,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "What is the gold standard diagnostic test for Chronic Thromboembolic Pulmonary Hypertension (CTEPH)?",
+    "options": {
+      "A": "Ventilation-Perfusion Scan",
+      "B": "CT Pulmonary Angiography",
+      "C": "Right Heart Catheterization",
+      "D": "Conventional Pulmonary Angiography"
+    },
+    "correctAnswer": "D",
+    "topic": "cteph",
+    "deepDiveExplanation": "Conventional pulmonary angiography provides the highest resolution imaging of the pulmonary arterial tree, allowing direct visualization of organized thrombi, webs, bands, and stenoses characteristic of CTEPH, which is crucial for surgical planning. While V/Q scan screens, CTPA can show thrombi, and RHC confirms PH, none are the 'gold standard' for definitive diagnosis and operability assessment like conventional angiography.",
+    "highYieldPearl": "Conventional pulmonary angiography is essential for confirming the diagnosis of CTEPH and assessing the extent and accessibility of the disease for pulmonary endarterectomy (PEA).",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Students might confuse the screening test (V/Q scan) or the general PH diagnostic test (RHC) with the definitive CTEPH diagnostic and operability assessment tool.",
+    "isOneLiner": true,
+    "id": "one_liner_cteph_liuu0rgq"
+  },
+  {
+    "question": "The definitive curative treatment for surgically accessible Chronic Thromboembolic Pulmonary Hypertension (CTEPH) is?",
+    "options": {
+      "A": "Riociguat",
+      "B": "Balloon Pulmonary Angioplasty",
+      "C": "Pulmonary Endarterectomy",
+      "D": "Lung Transplantation"
+    },
+    "correctAnswer": "C",
+    "topic": "cteph",
+    "deepDiveExplanation": "Pulmonary Endarterectomy (PEA) is the only potentially curative treatment for CTEPH. It involves surgical removal of organized thrombi and fibrotic material from the pulmonary arteries. It is reserved for patients with surgically accessible disease and is performed by highly specialized centers.",
+    "highYieldPearl": "PEA is the gold standard treatment for operable CTEPH, offering significant hemodynamic and symptomatic improvement, and often a cure.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Students might consider other options like Riociguat (medical therapy) or BPA (for inoperable/residual disease) as definitive treatments, but PEA stands out for its curative potential in operable cases.",
+    "isOneLiner": true,
+    "id": "one_liner_cteph_jngmzcds"
+  },
+  {
+    "question": "Which medication is specifically approved for inoperable or persistent/recurrent Chronic Thromboembolic Pulmonary Hypertension?",
+    "options": {
+      "A": "Sildenafil",
+      "B": "Bosentan",
+      "C": "Riociguat",
+      "D": "Treprostinil"
+    },
+    "correctAnswer": "C",
+    "topic": "cteph",
+    "deepDiveExplanation": "Riociguat, a soluble guanylate cyclase stimulator, is the only medication specifically approved for the treatment of inoperable CTEPH or persistent/recurrent PH after pulmonary endarterectomy. While other PH-specific therapies (like sildenafil, bosentan, treprostinil) might be used off-label, Riociguat has specific approval.",
+    "highYieldPearl": "Riociguat is the first and only drug specifically approved for CTEPH patients who are not candidates for PEA or have persistent/recurrent PH after surgery.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "All listed options are PH-specific drugs. The key is 'specifically approved' for CTEPH, which points to Riociguat due to its unique mechanism and trial data in this specific population.",
+    "isOneLiner": true,
+    "id": "one_liner_cteph_dwdpb3ou"
+  },
+  {
+    "question": "The primary cause of persistent obstruction in Chronic Thromboembolic Pulmonary Hypertension is organized thrombi in which vessels?",
+    "options": {
+      "A": "Pulmonary arterioles",
+      "B": "Pulmonary capillaries",
+      "C": "Distal pulmonary arteries",
+      "D": "Proximal pulmonary arteries"
+    },
+    "correctAnswer": "D",
+    "topic": "cteph",
+    "deepDiveExplanation": "CTEPH is characterized by the failure of acute pulmonary emboli to resolve, leading to organization and fibrosis of thrombi within the proximal pulmonary arteries. This chronic obstruction then leads to increased pulmonary vascular resistance and subsequent microvascular remodeling in the distal pulmonary circulation.",
+    "highYieldPearl": "The hallmark of CTEPH is organized, fibrotic thrombi in the elastic pulmonary arteries (proximal), unlike other forms of PH primarily affecting arterioles.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Students might be misled by the 'microvascular remodeling' aspect of PH, but the initiating and primary obstructive lesion in CTEPH is the organized thrombus in the larger, more proximal pulmonary arteries.",
+    "isOneLiner": true,
+    "id": "one_liner_cteph_mt7gfv3m"
+  },
+  {
+    "question": "What is the recommended initial screening investigation for suspected Chronic Thromboembolic Pulmonary Hypertension?",
+    "options": {
+      "A": "Echocardiography",
+      "B": "CT Pulmonary Angiography",
+      "C": "Ventilation-Perfusion Scan",
+      "D": "Right Heart Catheterization"
+    },
+    "correctAnswer": "C",
+    "topic": "cteph",
+    "deepDiveExplanation": "A Ventilation-Perfusion (V/Q) scan is the most sensitive and recommended initial screening test for CTEPH. A normal V/Q scan essentially rules out CTEPH (high negative predictive value). While echocardiography can suggest PH, and CTPA can show thrombi, V/Q scan's high sensitivity for perfusion defects makes it ideal for screening.",
+    "highYieldPearl": "A normal V/Q scan makes CTEPH highly unlikely; it is the most sensitive screening test for CTEPH.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Students might confuse the initial 'screening' test with definitive diagnostic tests (like RHC or conventional angiography) or other imaging modalities.",
+    "isOneLiner": true,
+    "id": "one_liner_cteph_sh8yfyne"
+  },
+  {
+    "question": "What is the gold standard diagnostic test for Chronic Thromboembolic Pulmonary Hypertension (CTEPH)?",
+    "options": {
+      "A": "Ventilation-Perfusion Scan",
+      "B": "CT Pulmonary Angiography",
+      "C": "Right Heart Catheterization",
+      "D": "Conventional Pulmonary Angiography"
+    },
+    "correctAnswer": "D",
+    "topic": "cteph",
+    "deepDiveExplanation": "Conventional pulmonary angiography provides the highest resolution imaging of the pulmonary arterial tree, allowing direct visualization of organized thrombi, webs, bands, and stenoses characteristic of CTEPH, which is crucial for surgical planning. While V/Q scan screens, CTPA can show thrombi, and RHC confirms PH, none are the 'gold standard' for definitive diagnosis and operability assessment like conventional angiography.",
+    "highYieldPearl": "Conventional pulmonary angiography is essential for confirming the diagnosis of CTEPH and assessing the extent and accessibility of the disease for pulmonary endarterectomy (PEA).",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Students might confuse the screening test (V/Q scan) or the general PH diagnostic test (RHC) with the definitive CTEPH diagnostic and operability assessment tool.",
+    "isOneLiner": true,
+    "id": "one_liner_cteph_jfxv0bs0"
+  },
+  {
+    "question": "The definitive curative treatment for surgically accessible Chronic Thromboembolic Pulmonary Hypertension (CTEPH) is?",
+    "options": {
+      "A": "Riociguat",
+      "B": "Balloon Pulmonary Angioplasty",
+      "C": "Pulmonary Endarterectomy",
+      "D": "Lung Transplantation"
+    },
+    "correctAnswer": "C",
+    "topic": "cteph",
+    "deepDiveExplanation": "Pulmonary Endarterectomy (PEA) is the only potentially curative treatment for CTEPH. It involves surgical removal of organized thrombi and fibrotic material from the pulmonary arteries. It is reserved for patients with surgically accessible disease and is performed by highly specialized centers.",
+    "highYieldPearl": "PEA is the gold standard treatment for operable CTEPH, offering significant hemodynamic and symptomatic improvement, and often a cure.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Students might consider other options like Riociguat (medical therapy) or BPA (for inoperable/residual disease) as definitive treatments, but PEA stands out for its curative potential in operable cases.",
+    "isOneLiner": true,
+    "id": "one_liner_cteph_kt451lp2"
+  },
+  {
+    "question": "Which medication is specifically approved for inoperable or persistent/recurrent Chronic Thromboembolic Pulmonary Hypertension?",
+    "options": {
+      "A": "Sildenafil",
+      "B": "Bosentan",
+      "C": "Riociguat",
+      "D": "Treprostinil"
+    },
+    "correctAnswer": "C",
+    "topic": "cteph",
+    "deepDiveExplanation": "Riociguat, a soluble guanylate cyclase stimulator, is the only medication specifically approved for the treatment of inoperable CTEPH or persistent/recurrent PH after pulmonary endarterectomy. While other PH-specific therapies (like sildenafil, bosentan, treprostinil) might be used off-label, Riociguat has specific approval.",
+    "highYieldPearl": "Riociguat is the first and only drug specifically approved for CTEPH patients who are not candidates for PEA or have persistent/recurrent PH after surgery.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "All listed options are PH-specific drugs. The key is 'specifically approved' for CTEPH, which points to Riociguat due to its unique mechanism and trial data in this specific population.",
+    "isOneLiner": true,
+    "id": "one_liner_cteph_2ghwkdfw"
+  },
+  {
+    "question": "The primary cause of persistent obstruction in Chronic Thromboembolic Pulmonary Hypertension is organized thrombi in which vessels?",
+    "options": {
+      "A": "Pulmonary arterioles",
+      "B": "Pulmonary capillaries",
+      "C": "Distal pulmonary arteries",
+      "D": "Proximal pulmonary arteries"
+    },
+    "correctAnswer": "D",
+    "topic": "cteph",
+    "deepDiveExplanation": "CTEPH is characterized by the failure of acute pulmonary emboli to resolve, leading to organization and fibrosis of thrombi within the proximal pulmonary arteries. This chronic obstruction then leads to increased pulmonary vascular resistance and subsequent microvascular remodeling in the distal pulmonary circulation.",
+    "highYieldPearl": "The hallmark of CTEPH is organized, fibrotic thrombi in the elastic pulmonary arteries (proximal), unlike other forms of PH primarily affecting arterioles.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Students might be misled by the 'microvascular remodeling' aspect of PH, but the initiating and primary obstructive lesion in CTEPH is the organized thrombus in the larger, more proximal pulmonary arteries.",
+    "isOneLiner": true,
+    "id": "one_liner_cteph_iwv11eo2"
+  },
+  {
+    "question": "What is the recommended initial screening investigation for suspected Chronic Thromboembolic Pulmonary Hypertension?",
+    "options": {
+      "A": "Echocardiography",
+      "B": "CT Pulmonary Angiography",
+      "C": "Ventilation-Perfusion Scan",
+      "D": "Right Heart Catheterization"
+    },
+    "correctAnswer": "C",
+    "topic": "cteph",
+    "deepDiveExplanation": "A Ventilation-Perfusion (V/Q) scan is the most sensitive and recommended initial screening test for CTEPH. A normal V/Q scan essentially rules out CTEPH (high negative predictive value). While echocardiography can suggest PH, and CTPA can show thrombi, V/Q scan's high sensitivity for perfusion defects makes it ideal for screening.",
+    "highYieldPearl": "A normal V/Q scan makes CTEPH highly unlikely; it is the most sensitive screening test for CTEPH.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Students might confuse the initial 'screening' test with definitive diagnostic tests (like RHC or conventional angiography) or other imaging modalities.",
+    "isOneLiner": true,
+    "id": "one_liner_cteph_j750hdbp"
+  }
+]

@@ -1,0 +1,1306 @@
+[
+  {
+    "id": "rag_exercise_testing_d2b04be9",
+    "question": "A 28-year-old female presents with a 6-month history of recurrent shortness of breath and cough, occurring mostly during exercise and sometimes at night. She reports needing her short-acting beta-agonist (SABA) inhaler 3-4 times a week, and awakens due to asthma symptoms about twice a month. She can perform most daily activities but occasionally needs to slow down due to breathlessness. Her FEV1 is 85% of predicted, and FEV1/FVC ratio is 0.72. She has not had any severe exacerbations requiring oral corticosteroids in the past year. According to GINA guidelines, what is the most appropriate classification of this patient's asthma severity?",
+    "options": {
+      "A": "Mild Persistent Asthma",
+      "B": "Moderate Persistent Asthma",
+      "C": "Intermittent Asthma",
+      "D": "Severe Persistent Asthma"
+    },
+    "correctAnswer": "A",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "According to GINA (Global Initiative for Asthma) guidelines, asthma severity in an untreated patient is classified based on symptom frequency, night awakenings, SABA use, activity limitation, and lung function (FEV1). For this patient:\n-   Symptoms: '3-4 times a week' (more than twice a week but not daily) - consistent with Mild Persistent.\n-   Night awakenings: 'twice a month' (>=2 times a month) - consistent with Mild Persistent.\n-   SABA use: '3-4 times a week' (more than twice a week but not daily) - consistent with Mild Persistent.\n-   Activity limitation: 'occasionally needs to slow down' (minor limitation) - consistent with Mild Persistent.\n-   FEV1: '85% of predicted' (>80% predicted) - consistent with Mild Persistent.\nAll criteria align with a classification of Mild Persistent Asthma.",
+    "highYieldPearl": "Rio's Take: Asthma severity classification based on GINA applies to patients *before* treatment or when their current treatment level is inadequate. It's crucial not to confuse severity (inherent disease characteristic) with control (how well symptoms are managed on current therapy).",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct classification based on the aggregate of symptoms, SABA use, night awakenings, FEV1, and activity limitation as per GINA criteria for mild persistent asthma.",
+      "B": "Incorrect. Moderate Persistent Asthma typically involves daily symptoms, weekly night awakenings, daily SABA use, and/or an FEV1 between 60-80% predicted. This patient's FEV1 is higher, and symptoms/SABA use are not daily.",
+      "C": "Incorrect. Intermittent Asthma is characterized by symptoms <2 days/week, SABA use <2 days/week, night awakenings <2 times/month, and no activity limitation. This patient exceeds these frequencies for symptoms, SABA use, and night awakenings.",
+      "D": "Incorrect. Severe Persistent Asthma involves continual symptoms, frequent night awakenings (e.g., nightly), severe activity limitation, and/or an FEV1 <60% predicted. This patient's profile is much milder."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_1e83ff11",
+    "question": "A 45-year-old male with known asthma on a low-dose inhaled corticosteroid (ICS) and formoterol as reliever, reports his symptoms over the past four weeks. He experiences daytime asthma symptoms approximately 3 times a week, requires his reliever inhaler 4 times a week, and wakes up once a week due to asthma. He reports no limitations to his daily activities and has not had any asthma exacerbations requiring oral corticosteroids in the last month. Based on GINA guidelines, what is the most appropriate classification of this patient's asthma control level?",
+    "options": {
+      "A": "Well-controlled asthma",
+      "B": "Partly controlled asthma",
+      "C": "Uncontrolled asthma",
+      "D": "Severe asthma"
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "GINA guidelines assess asthma control over the past four weeks using four key parameters:\n1.  Daytime asthma symptoms more than twice a week?\n2.  Any night awakenings due to asthma?\n3.  Reliever needed more than twice a week?\n4.  Any activity limitation due to asthma?\n\nClassification of control:\n-   Well-controlled: None of the above.\n-   Partly controlled: 1-2 of the above.\n-   Uncontrolled: 3-4 of the above.\n\nApplying this to the patient:\n-   Daytime symptoms: '3 times a week' -> YES (more than twice a week).\n-   Night awakenings: 'once a week' -> YES (any night awakenings).\n-   Reliever needed: '4 times a week' -> YES (more than twice a week).\n-   Activity limitation: 'no limitations' -> NO.\n\nSince 3 out of the 4 criteria are met ('YES'), the patient's asthma is classified as Uncontrolled.",
+    "highYieldPearl": "Rio's Take: Distinguish between 'severity' (inherent characteristic) and 'control' (response to treatment). Control is assessed using simple, practical questions over the past 4 weeks. Any 'Yes' to night awakenings immediately takes it out of the 'Well-controlled' category.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. Well-controlled asthma requires 'No' to all four GINA control questions. This patient has three 'Yes' answers.",
+      "B": "Incorrect. Partly controlled asthma corresponds to 1 or 2 'Yes' answers to the GINA control questions. This patient has 3 'Yes' answers.",
+      "C": "Correct. With 3 'Yes' responses to the GINA control questions (daytime symptoms >2x/week, night awakenings, reliever use >2x/week), the patient's asthma is classified as uncontrolled.",
+      "D": "Incorrect. 'Severe asthma' is a classification of severity, not a level of control. While uncontrolled asthma often occurs in severe asthma, 'Uncontrolled' is the correct term for describing the current state of disease management."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_6e1feb20",
+    "question": "A 35-year-old non-smoking male presents with a 9-month history of intermittent cough, wheezing, and shortness of breath, particularly worse at night and with exercise. Physical examination reveals occasional scattered expiratory wheezes. His baseline spirometry shows FEV1 75% of predicted, FVC 85% of predicted, and FEV1/FVC ratio 0.65. After administering 400 mcg salbutamol, his FEV1 improves to 88% of predicted, and FEV1/FVC ratio is 0.72. The absolute increase in FEV1 is 450 mL (from 2.4 L to 2.85 L). What is the most appropriate conclusion based on these findings?",
+    "options": {
+      "A": "Start treatment for COPD as FEV1/FVC ratio is persistently low.",
+      "B": "Initiate trial of inhaled corticosteroids for suspected asthma.",
+      "C": "Perform a methacholine challenge test to confirm bronchial hyperresponsiveness.",
+      "D": "The current spirometry results already confirm a diagnosis of asthma."
+    },
+    "correctAnswer": "D",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "The diagnosis of asthma is confirmed by the presence of variable airflow limitation. In this case, the patient presents with classic asthma symptoms (intermittent cough, wheezing, shortness of breath, worse at night/exercise). The spirometry shows airflow obstruction at baseline (FEV1/FVC ratio 0.65). Crucially, after bronchodilator administration, there is significant bronchodilator reversibility, defined as an increase in FEV1 by >12% *and* >200 mL from baseline. Here, the FEV1 increased by 450 mL (which is >200 mL) and by 18.75% (which is >12%). This clearly demonstrates significant reversibility and, in conjunction with the clinical history, confirms the diagnosis of asthma. No further diagnostic tests are immediately required.",
+    "highYieldPearl": "Rio's Take: Diagnostic spirometry for asthma requires demonstrating variable airflow limitation. Significant bronchodilator reversibility (FEV1 increase >12% AND >200 mL) in a symptomatic patient is often sufficient for diagnosis, negating the need for a methacholine challenge.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. While the baseline FEV1/FVC is low, the significant bronchodilator reversibility (450 mL and 18.75% FEV1 increase) strongly points away from COPD, which is characterized by fixed or poorly reversible airflow limitation, especially in a non-smoker.",
+      "B": "Incorrect. Initiating treatment (inhaled corticosteroids) is the subsequent management step, but the question asks for the 'most appropriate conclusion' regarding the diagnosis. The diagnosis itself is already confirmed by the spirometry.",
+      "C": "Incorrect. A methacholine challenge test (bronchial hyperresponsiveness testing) is typically performed when asthma is suspected, but baseline spirometry is normal or bronchodilator reversibility is inconclusive/absent. Since significant reversibility is demonstrated, this test is not needed to confirm the diagnosis.",
+      "D": "Correct. The combination of typical asthma symptoms and objective evidence of significant bronchodilator reversibility on spirometry definitively confirms the diagnosis of asthma according to international guidelines."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_f0cde35a",
+    "question": "A 28-year-old male presents with a 6-month history of recurrent cough, particularly at night and early morning, associated with wheezing and shortness of breath. He reports these symptoms worsening during exposure to dust and exercise, and they improve after using an inhaler (given by a local physician for 'cough'). On examination, occasional mild polyphonic wheeze is heard. His Chest X-ray is normal. What is the most appropriate initial diagnostic investigation to confirm the diagnosis of asthma in this patient?",
+    "options": {
+      "A": "Spirometry with bronchodilator reversibility testing",
+      "B": "Methacholine challenge test",
+      "C": "Peak expiratory flow (PEF) variability monitoring",
+      "D": "Fractional exhaled nitric oxide (FeNO) measurement"
+    },
+    "correctAnswer": "A",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "Spirometry with bronchodilator reversibility testing is the cornerstone of asthma diagnosis, especially in patients with typical symptoms. It objectively demonstrates variable airflow limitation, characterized by an FEV1/FVC ratio <0.70 (or <lower limit of normal) and a significant reversibility (increase in FEV1 of >12% and >200 mL from baseline 10-15 minutes after 200-400 mcg of salbutamol or equivalent). This patient's history strongly suggests asthma, making spirometry the logical first step.",
+    "highYieldPearl": "Rio's Take: Always start with spirometry with bronchodilator reversibility for suspected asthma; it's the most widely accepted and accessible objective test for variable airflow obstruction.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct. This is the primary diagnostic test for asthma, demonstrating variable airflow limitation and reversibility.",
+      "B": "Incorrect. A methacholine challenge test (bronchial provocation test) is performed when baseline spirometry is normal or inconclusive but asthma is still highly suspected. It is not the initial test in a patient with classic symptoms and likely demonstrable reversibility.",
+      "C": "Incorrect. While PEF monitoring can show diurnal variability, it is less objective and sensitive than spirometry and typically used as an adjunct or for long-term monitoring rather than initial diagnosis.",
+      "D": "Incorrect. FeNO measurement indicates eosinophilic airway inflammation but does not directly diagnose asthma or confirm airflow limitation. It is used as an adjunct in diagnosis, for phenotyping, or for guiding treatment, especially in patients with normal spirometry."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_d0534a13",
+    "question": "A 45-year-old female with known asthma reports using her short-acting beta-agonist (SABA) reliever inhaler 3-4 times per week for daytime symptoms. She wakes up due to asthma symptoms about once a week. Her daily activities are mildly limited by asthma. She has not had any asthma exacerbations requiring oral corticosteroids in the last year. Her FEV1 is 82% of predicted. According to the GINA 2023 guidelines, how would you classify this patient's level of asthma control?",
+    "options": {
+      "A": "Well-controlled",
+      "B": "Partially controlled",
+      "C": "Uncontrolled",
+      "D": "Severe asthma"
+    },
+    "correctAnswer": "B",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "According to GINA (Global Initiative for Asthma) guidelines, asthma control is assessed based on two domains: symptom control and risk factors for future exacerbations. For symptom control, a patient is classified as:\n*   Well-controlled: Daytime symptoms <2 times/week, no nocturnal awakenings, SABA use <2 times/week, no activity limitation.\n*   Partially controlled: Any of the following in any given week: Daytime symptoms >2 times/week, any nocturnal awakenings, SABA use >2 times/week, or any activity limitation.\n*   Uncontrolled: 3 or more features of partially controlled asthma present in any week.\n\nThis patient has daytime symptoms 3-4 times/week (exceeds <2 times/week), nocturnal awakenings once a week (any), and SABA use 3-4 times/week (exceeds <2 times/week). Thus, she meets criteria for partially controlled asthma.",
+    "highYieldPearl": "Rio's Take: Remember the key GINA criteria for asthma control – frequency of daytime symptoms, nocturnal awakenings, SABA use, and activity limitation. Any deviation from 'well-controlled' in these categories pushes it to 'partially controlled'.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. Well-controlled asthma requires daytime symptoms <2 times/week, no nocturnal awakenings, and SABA use <2 times/week, none of which this patient meets.",
+      "B": "Correct. The patient exhibits multiple features (daytime symptoms >2 times/week, nocturnal awakenings, SABA use >2 times/week, and activity limitation) that classify her asthma as partially controlled.",
+      "C": "Incorrect. Uncontrolled asthma typically involves 3 or more features of partially controlled asthma or severe exacerbations. While this patient has multiple features, they do not meet the full criteria for 'uncontrolled' as defined by GINA.",
+      "D": "Incorrect. 'Severe asthma' is a classification of intrinsic disease severity (asthma that remains uncontrolled despite high-dose ICS/LABA, or requires OCS to maintain control, or worsens on OCS reduction), not a classification of current control level based on recent symptoms and SABA use."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_8f97e0a4",
+    "question": "A 16-year-old athlete experiences recurrent cough and exertional dyspnea, particularly after intense training sessions. He occasionally reports wheezing during these episodes. His baseline spirometry with bronchodilator reversibility is normal (FEV1 95% predicted, no significant reversibility). A Chest X-ray is unremarkable. His symptoms are highly suggestive of asthma, possibly exercise-induced. What is the most appropriate next step in the diagnostic workup for this patient?",
+    "options": {
+      "A": "Bronchial provocation test (e.g., methacholine challenge or exercise challenge)",
+      "B": "Initiate a trial of inhaled corticosteroids (ICS)",
+      "C": "Order a high-resolution computed tomography (HRCT) of the chest",
+      "D": "Refer for allergy testing and serum IgE levels"
+    },
+    "correctAnswer": "A",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "When there is a strong clinical suspicion of asthma, especially exercise-induced or cough-variant asthma, but baseline spirometry is normal or non-diagnostic, a bronchial provocation test is indicated. This test aims to demonstrate airway hyperresponsiveness, a hallmark of asthma. An exercise challenge or methacholine challenge can effectively reveal this in patients with normal baseline lung function.",
+    "highYieldPearl": "Rio's Take: When asthma is suspected but spirometry is normal, the next logical step is to prove airway hyperresponsiveness using a challenge test. Think exercise challenge for exercise-induced symptoms.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct. In patients with highly suggestive symptoms but normal spirometry, a bronchial provocation test is crucial to confirm airway hyperresponsiveness, which is diagnostic for asthma. An exercise challenge would be particularly relevant given the history.",
+      "B": "Incorrect. Initiating chronic treatment like ICS without a definitive diagnosis is not recommended. Diagnosis should precede chronic therapy.",
+      "C": "Incorrect. HRCT of the chest is typically used to rule out structural lung diseases (e.g., bronchiectasis, interstitial lung disease) or other rarer causes of respiratory symptoms. It is not a primary diagnostic tool for asthma, especially when a more direct test for airway hyperresponsiveness is available and indicated.",
+      "D": "Incorrect. Allergy testing can identify potential triggers for allergic asthma but does not confirm the diagnosis of asthma itself (which requires demonstration of variable airflow limitation and/or airway hyperresponsiveness). While useful for comprehensive management once asthma is diagnosed, it's not the next step for diagnosis in this scenario."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_2b2f864b",
+    "question": "A 35-year-old male presents with recurrent episodes of cough, wheezing, and shortness of breath, particularly at night and with exercise, for the past 6 months. He denies any smoking history. Baseline spirometry reveals FEV1 of 2.8 L (70% predicted), FVC of 4.0 L (85% predicted), and an FEV1/FVC ratio of 0.70. After administration of 400 mcg salbutamol, his repeat spirometry shows FEV1 of 3.2 L (80% predicted), FVC of 4.1 L (87% predicted), and an FEV1/FVC ratio of 0.78. Based on these findings, what is the most appropriate diagnosis?",
+    "options": {
+      "A": "Chronic Obstructive Pulmonary Disease (COPD)",
+      "B": "Bronchial Asthma",
+      "C": "Restrictive Lung Disease",
+      "D": "Normal spirometry with exercise-induced dyspnea"
+    },
+    "correctAnswer": "B",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "The patient's pre-bronchodilator spirometry shows an obstructive pattern (FEV1/FVC ratio of 0.70, which is below the common threshold of 0.70 or LLN, and FEV1 70% predicted). More importantly, the post-bronchodilator spirometry demonstrates significant reversibility: FEV1 increased by 0.4 L (3.2 L - 2.8 L) and by approximately 14.3% (0.4 L / 2.8 L * 100%). According to GINA and other guidelines, a significant bronchodilator response is defined as an increase in FEV1 of >12% AND >200 mL from baseline. Both criteria are met here. This combination of reversible airflow obstruction in a non-smoker with classic symptoms (nocturnal, exercise-induced, recurrent) strongly points to Bronchial Asthma.",
+    "highYieldPearl": "The diagnostic hallmark of asthma is variable and reversible airflow limitation. Spirometry showing significant bronchodilator reversibility (increase in FEV1 >12% and >200 mL) confirms the diagnosis in symptomatic patients.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "While the patient has an obstructive pattern, the significant reversibility and lack of smoking history make COPD highly unlikely. COPD is characterized by persistent, irreversible airflow limitation.",
+      "B": "Correct. The patient meets the spirometric criteria for asthma diagnosis with reversible airflow obstruction.",
+      "C": "Restrictive lung disease is characterized by a reduced FVC with a normal or increased FEV1/FVC ratio. This patient has a reduced FEV1/FVC ratio, indicating obstruction.",
+      "D": "The spirometry is clearly abnormal, showing an obstructive pattern with reduced FEV1 and FEV1/FVC ratio, thus ruling out normal spirometry."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_b4b0b8be",
+    "question": "A 28-year-old woman experiences asthma symptoms (wheezing, shortness of breath) 3-4 times per week, waking her from sleep 2-3 times per month. She reports using her short-acting beta-agonist (SABA) inhaler almost daily. Her last spirometry showed FEV1 75% predicted, and she has no history of intubation or intensive care unit admissions for asthma. She is not currently on any regular controller medication. According to standard guidelines for initial assessment (prior to initiating controller therapy), how would her asthma most appropriately be classified in terms of severity?",
+    "options": {
+      "A": "Intermittent Asthma",
+      "B": "Mild Persistent Asthma",
+      "C": "Moderate Persistent Asthma",
+      "D": "Severe Persistent Asthma"
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "For classifying asthma severity prior to treatment, a common framework (e.g., adapted from GINA 2014-2016 or NHLBI) considers symptom frequency, night awakenings, SABA use, and FEV1.\n-   **Intermittent Asthma:** Symptoms < 2 days/week, night awakenings < 2 times/month, SABA use < 2 days/week, FEV1 > 80% predicted.\n-   **Mild Persistent Asthma:** Symptoms > 2 days/week but not daily, night awakenings 3-4 times/month, SABA use > 2 days/week but not daily, FEV1 > 80% predicted.\n-   **Moderate Persistent Asthma:** Daily symptoms, night awakenings > 1 time/week but not nightly, SABA use daily, FEV1 60-80% predicted.\n-   **Severe Persistent Asthma:** Symptoms throughout the day, night awakenings nightly, SABA use several times per day, FEV1 < 60% predicted.\n\nThis patient's data:\n-   Symptoms: 3-4 times/week (suggests Mild Persistent)\n-   Night awakenings: 2-3 times/month (suggests Mild Persistent)\n-   SABA use: Almost daily (suggests Moderate Persistent)\n-   FEV1: 75% predicted (suggests Moderate Persistent)\n\nWhen different parameters fall into different categories, the asthma is classified by the most severe category. In this case, both her SABA use (almost daily) and FEV1 (75% predicted) place her in the Moderate Persistent Asthma category.",
+    "highYieldPearl": "Initial asthma severity classification combines clinical symptoms (frequency, nocturnal awakenings, SABA use) with lung function (FEV1% predicted). When parameters fall into different categories, the highest category typically determines the overall severity.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Intermittent asthma is incorrect as her symptoms, SABA use, and FEV1 are all more frequent/lower than the criteria for intermittent asthma.",
+      "B": "Mild persistent asthma is incorrect because her SABA use is almost daily and her FEV1 is 75% predicted, both of which exceed the criteria for mild persistent asthma.",
+      "C": "Correct. Her daily SABA use and FEV1 of 75% predicted place her in the moderate persistent category.",
+      "D": "Severe persistent asthma is incorrect as her FEV1 is not less than 60% predicted and her night awakenings are not nightly."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_8672232d",
+    "question": "A 40-year-old female presents with persistent cough and shortness of breath, primarily during exertion, for several months. Her spirometry shows FEV1 90% predicted, FVC 95% predicted, and FEV1/FVC 0.82, with no significant bronchodilator reversibility. A 6-week trial of standard-dose inhaled corticosteroids did not significantly improve her symptoms. She has a history of seasonal allergies. What is the most appropriate next diagnostic step in this patient to confirm or rule out asthma?",
+    "options": {
+      "A": "Initiate a higher dose of inhaled corticosteroids.",
+      "B": "Order a high-resolution chest CT scan (HRCT).",
+      "C": "Perform a methacholine challenge test.",
+      "D": "Refer for bronchoscopy to evaluate for vocal cord dysfunction."
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "The patient presents with classic asthma symptoms (cough, exertional dyspnea, history of allergies), but her spirometry is normal and does not show bronchodilator reversibility. When there is a high clinical suspicion of asthma despite normal spirometry, a bronchial provocation test, such as a methacholine challenge, is the most appropriate next diagnostic step. This test assesses for airway hyperresponsiveness, a hallmark feature of asthma that may not be evident during periods of quiescence or with normal baseline lung function.",
+    "highYieldPearl": "In patients with typical asthma symptoms but normal spirometry and no bronchodilator reversibility, a methacholine challenge test (or other bronchial provocation test) is crucial for diagnosing airway hyperresponsiveness and confirming asthma.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Initiating a higher dose of inhaled corticosteroids is a treatment step for confirmed or highly suspected asthma, not a diagnostic step. Without a definitive diagnosis, escalating treatment is premature.",
+      "B": "An HRCT scan is primarily used to investigate structural lung diseases (e.g., bronchiectasis, interstitial lung disease) or emphysema. While it might rule out other conditions, it is not the most direct or appropriate first step to confirm or rule out asthma when clinical suspicion is high and spirometry is normal.",
+      "C": "Correct. A methacholine challenge test is indicated when asthma is suspected but spirometry is normal, to objectively assess for airway hyperresponsiveness.",
+      "D": "Vocal cord dysfunction (VCD) can mimic asthma, especially with exertional dyspnea, but it's often characterized by inspiratory stridor and can be distinguished by a flow-volume loop demonstrating inspiratory flattening. While it's a differential diagnosis, performing an invasive procedure like bronchoscopy is generally reserved for when less invasive tests (like methacholine challenge) have failed to establish a diagnosis, or if VCD is strongly suspected and requires direct visualization, and it is not the first diagnostic step to confirm or rule out asthma itself."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_663646d8",
+    "question": "Which of the following findings, when present in isolation, is LEAST likely to provide sufficient objective evidence to confirm a diagnosis of asthma?",
+    "options": {
+      "A": "Post-bronchodilator FEV1 increase of 15% from baseline and 250 mL.",
+      "B": "Sustained daily peak expiratory flow (PEF) variability of 12% over two weeks.",
+      "C": "Positive methacholine challenge test with PC20 of 3 mg/mL.",
+      "D": "Exhaled Nitric Oxide (FeNO) value of 60 ppb in an adult."
+    },
+    "correctAnswer": "D",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "Asthma diagnosis requires objective evidence of variable expiratory airflow limitation. This can be demonstrated by significant bronchodilator reversibility (option A, FEV1 increase ≥12% and ≥200 mL, or ≥10% of predicted FEV1), significant diurnal or day-to-day variability in PEF (option B, typically >10% over 1-2 weeks), or a positive bronchial challenge test (option C, PC20 < 8 mg/mL with methacholine). While an elevated FeNO (option D) indicates eosinophilic airway inflammation and supports the likelihood of asthma, it does not directly demonstrate variable airflow limitation and therefore is not sufficient *in isolation* to confirm the diagnosis of asthma. FeNO is a useful biomarker for predicting ICS response and identifying a T2 phenotype but is not a standalone diagnostic criterion.",
+    "highYieldPearl": "Rio's Take: Remember the 'three legs of the stool' for asthma diagnosis: symptoms, risk factors, and *objective evidence of variable airflow limitation*. FeNO helps identify the T2 phenotype and guides therapy, but it doesn't replace spirometry, reversibility, or challenge tests for diagnosis.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This option describes a clear-cut positive bronchodilator response, a primary diagnostic criterion for asthma. It meets the GINA criteria for FEV1 reversibility.",
+      "B": "This option describes significant peak expiratory flow (PEF) variability, which is an alternative objective measure of variable airflow limitation and a valid diagnostic criterion for asthma, especially when spirometry is equivocal or unavailable.",
+      "C": "A positive methacholine challenge test confirms bronchial hyperresponsiveness, a hallmark feature of asthma and a definitive diagnostic criterion when symptoms are present and other tests are inconclusive. PC20 of 3 mg/mL is well within the positive range (<8 mg/mL).",
+      "D": "An elevated FeNO value (e.g., 60 ppb) is strongly associated with eosinophilic airway inflammation and is helpful in supporting an asthma diagnosis, predicting corticosteroid response, and identifying the T2 phenotype. However, FeNO does not directly demonstrate variable airflow limitation, which is the cornerstone of asthma diagnosis. Thus, it is insufficient on its own to confirm asthma."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_e54765f3",
+    "question": "A 35-year-old male with a history of asthma presents for review. He is currently on Budesonide/Formoterol 200/6 mcg one puff twice daily and reports good symptom control with no daytime symptoms, no nocturnal awakenings, and no need for rescue inhaler use in the past 3 months. He has not had any exacerbations in the last year. His FEV1 is 95% predicted. He also reports experiencing occasional reflux symptoms and admits to smoking 5 cigarettes per day.\n\nAccording to GINA 2023 guidelines, how should this patient's asthma control be primarily classified, and what would be the most appropriate next step in his management?",
+    "options": {
+      "A": "Well-controlled asthma; maintain current therapy and actively manage comorbidities.",
+      "B": "Well-controlled asthma; consider step-down therapy after addressing smoking and reflux.",
+      "C": "Partially controlled asthma; escalate therapy due to smoking and reflux.",
+      "D": "Uncontrolled asthma; initiate oral corticosteroids and review adherence."
+    },
+    "correctAnswer": "A",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "Based on GINA 2023 criteria, this patient has \"well-controlled asthma\" (no daytime symptoms, no nocturnal awakenings, no reliever use, and no activity limitation over the last 3 months, with no exacerbations in the past year and normal lung function). While GINA generally advises considering step-down therapy after 2-3 months of good control, it explicitly states that if modifiable risk factors for exacerbations (such as smoking and gastroesophageal reflux disease, or GERD) are present, the patient may benefit from maintaining their current dose of controller medication or addressing the risk factors *before* considering step-down. Therefore, maintaining the current effective therapy while aggressively addressing his smoking and reflux is the most appropriate and cautious approach to ensure sustained control and reduce future risk.",
+    "highYieldPearl": "Rio's Take: GINA distinguishes between current symptom control and risk factors for future exacerbations. Modifiable risk factors like smoking and uncontrolled GERD should be addressed even in well-controlled patients, and their presence can justify maintaining current therapy rather than stepping down.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This option correctly classifies the patient's asthma as well-controlled based on his symptom profile and lung function. The management strategy aligns with GINA's cautious approach of maintaining current therapy while actively managing modifiable risk factors (smoking, reflux) for future exacerbations, rather than immediately stepping down.",
+      "B": "While step-down therapy is generally considered for well-controlled asthma, GINA recommends caution or delaying step-down in the presence of unaddressed modifiable risk factors. Prioritizing step-down 'after addressing' implies step-down is the next immediate goal, but maintaining current stable control *while* addressing risks is often preferred.",
+      "C": "This option incorrectly classifies the patient's asthma. He meets all criteria for well-controlled asthma based on symptoms and lung function. Smoking and reflux are risk factors for exacerbations and poor control, not direct indicators of current partial control requiring therapy escalation.",
+      "D": "This option incorrectly classifies the patient's asthma as uncontrolled, which is contradicted by his symptom-free status. Initiating oral corticosteroids is an extreme measure for uncontrolled asthma and completely inappropriate here."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_f3d49149",
+    "question": "A 50-year-old male with severe asthma, managed at GINA Step 5, requires frequent oral corticosteroid bursts for exacerbations. His blood eosinophil count is consistently 450 cells/µL, FeNO is 70 ppb, and he has a history of nasal polyposis and aspirin-exacerbated respiratory disease (AERD). His FEV1 averages 65% predicted despite high-dose inhaled corticosteroids and a long-acting beta2-agonist.\n\nWhich of the following therapeutic strategies would be LEAST likely to be beneficial for this patient's severe asthma?",
+    "options": {
+      "A": "Initiation of a biologic agent targeting IL-5 or its receptor.",
+      "B": "Low-dose oral corticosteroids for maintenance therapy.",
+      "C": "Mepolizumab.",
+      "D": "Bronchial thermoplasty."
+    },
+    "correctAnswer": "D",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "This patient presents with classic features of severe eosinophilic (Type 2) asthma: high blood eosinophils (450 cells/µL, well above the ≥300 cells/µL threshold), elevated FeNO (70 ppb, indicating significant T2 inflammation), nasal polyposis, and aspirin-exacerbated respiratory disease (AERD). These are strong indicators for targeted biologic therapy. Biologic agents targeting Type 2 inflammation, such as anti-IL-5 (e.g., Mepolizumab, Reslizumab) or anti-IL-5Rα (e.g., Benralizumab), are highly effective and recommended for such patients to reduce exacerbations and oral corticosteroid dependence (Options A and C). Low-dose oral corticosteroids (Option B) can be beneficial in controlling severe inflammation, but their long-term use is associated with significant side effects and is generally pursued when other options are exhausted or insufficient. Bronchial thermoplasty (BT) (Option D) is a non-pharmacological procedure for severe asthma. GINA guidelines suggest considering BT as an add-on treatment for selected adult patients with severe asthma *who remain symptomatic despite adherence to high-dose ICS/LABA and biologic therapy (if appropriate and available)*. For a patient with a clear Type 2 phenotype and strong indication for biologic therapy, initiating BT *instead of or before* biologics would be a less effective and less targeted approach, making it the LEAST likely to be beneficial *as a primary strategy* in optimizing his severe Type 2 asthma management.",
+    "highYieldPearl": "Rio's Take: In severe asthma with a clear Type 2 phenotype (high eosinophils, FeNO, nasal polyps, AERD), biologics targeting IL-5/IL-5R or IL-4R are the cornerstone of therapy. Bronchial thermoplasty is generally reserved for patients who remain symptomatic despite optimal pharmacotherapy, *including biologics*, or those with non-Type 2 severe asthma.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This option represents a highly beneficial therapeutic strategy for this patient's severe eosinophilic asthma. Biologics targeting the IL-5 pathway are a first-line add-on therapy for such patients according to GINA guidelines.",
+      "B": "While long-term oral corticosteroids are associated with significant side effects and an OCS-sparing effect is a goal with biologics, low-dose OCS *is* undeniably beneficial in reducing severe airway inflammation and controlling symptoms in severe asthma. The question asks for 'LEAST likely to be beneficial,' and OCS certainly provides a benefit, albeit with risks.",
+      "C": "Mepolizumab is a specific anti-IL-5 biologic agent, and thus a highly beneficial and targeted therapy for this patient's severe eosinophilic asthma. This option is a specific example of option A.",
+      "D": "Bronchial thermoplasty (BT) is a recognized treatment for severe asthma, but it is not specifically targeted at Type 2 inflammation. Its role is generally considered after optimal pharmacotherapy, including biologics, has been exhausted, or for patients with non-T2 severe asthma. For a patient with such a clear Type 2 phenotype, biologics offer a more targeted and typically more beneficial approach. Therefore, BT would be the LEAST likely to be beneficial *as a primary or early intervention* compared to the highly effective biologic options for his specific type of severe asthma."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_686a23ef",
+    "question": "A 38-year-old non-smoking female presents with intermittent exertional dyspnea, chest tightness, and a dry cough, particularly worse at night and with exercise. Her symptoms have been present for 6 months. Initial spirometry shows FEV1 78% predicted, FVC 85% predicted, and FEV1/FVC ratio 0.73. After administration of 400 mcg salbutamol, her FEV1 increases by 11% from baseline and by 190 mL. She has no significant medical history. Which of the following investigations is MOST likely to establish a diagnosis of asthma in this patient, assuming clinical suspicion remains high?",
+    "options": {
+      "A": "Measurement of sputum eosinophils",
+      "B": "Methacholine bronchial challenge test",
+      "C": "Serial peak expiratory flow (PEF) variability monitoring for 2 weeks",
+      "D": "Trial of high-dose inhaled corticosteroids (ICS) for 8 weeks"
+    },
+    "correctAnswer": "B",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "This patient presents with classic asthmatic symptoms (intermittent exertional dyspnea, chest tightness, nocturnal cough, exercise-induced symptoms). Her spirometry shows a mild obstructive pattern (FEV1/FVC 0.73) with a borderline bronchodilator response (11% and 190 mL increase in FEV1). The GINA criteria for significant bronchodilator reversibility is an increase in FEV1 of >12% AND >200 mL. Since her response falls just short of both criteria, and her clinical suspicion for asthma is high, a methacholine bronchial challenge test is the most appropriate next step to confirm airway hyperresponsiveness, a cardinal feature of asthma. A positive methacholine challenge (PC20 < 8 mg/mL) would definitively diagnose asthma.",
+    "highYieldPearl": "Rio's Take: When clinical suspicion for asthma is high but bronchodilator reversibility is absent or borderline, direct bronchial challenge testing (e.g., methacholine, mannitol) is the gold standard to demonstrate airway hyperresponsiveness and confirm the diagnosis. Ensure good spirometry technique and interpretation are paramount.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Measurement of sputum eosinophils is useful for phenotyping asthma (eosinophilic vs. non-eosinophilic) and guiding specific therapies, but it is not a primary diagnostic test for asthma itself. Not all asthmatics have eosinophilic inflammation.",
+      "B": "Correct. The borderline reversibility warrants a direct test of airway hyperresponsiveness. Methacholine challenge is a sensitive and specific test for this.",
+      "C": "Serial PEF variability monitoring (e.g., >10% diurnal variation over 2 weeks) is a valid diagnostic criterion for asthma. However, it relies heavily on patient compliance and accurate technique over an extended period. A methacholine challenge offers a more definitive and often quicker answer in a clinical setting with borderline spirometry.",
+      "D": "A trial of ICS is often used empirically when asthma is suspected, and symptom improvement can support the diagnosis. However, it is not a direct diagnostic test. A definitive diagnosis is preferred before committing to long-term therapy, especially when more specific diagnostic tests are available to confirm the underlying pathology."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_eb719f15",
+    "question": "A 45-year-old male has been on high-dose inhaled corticosteroids (ICS) and a long-acting beta-agonist (LABA) combination for over a year, with adherence confirmed by pill count and inhaler technique review. Despite this, he experiences frequent severe exacerbations requiring oral corticosteroids (OCS) at least twice monthly, and his Asthma Control Test (ACT) score is consistently below 15. He also reports persistent dyspnea and nocturnal awakenings. Peripheral blood eosinophil count is 450 cells/µL, and his fractional exhaled nitric oxide (FeNO) is 35 ppb.\n\nAccording to GINA guidelines, which of the following statements regarding this patient's asthma classification and potential management is MOST accurate?",
+    "options": {
+      "A": "This patient's asthma is classified as severe asthma, and he would benefit most from a trial of a long-acting muscarinic antagonist (LAMA) before considering a biologic.",
+      "B": "This patient's asthma is classified as severe asthma, and he meets criteria for consideration of a type 2 targeted biologic therapy such as anti-IL-5 or anti-IgE.",
+      "C": "This patient has difficult-to-treat asthma but does not meet the specific criteria for severe asthma until other comorbidities are thoroughly ruled out.",
+      "D": "Given his FeNO and eosinophil levels, his asthma is likely non-eosinophilic, and he should be assessed for non-type 2 inflammatory endotypes."
+    },
+    "correctAnswer": "B",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "The patient's condition meets the GINA definition of severe asthma: asthma that requires treatment with high-dose ICS and a second controller (LABA) to remain controlled, or which remains uncontrolled despite this treatment. He is uncontrolled despite maximal therapy (high-dose ICS/LABA, good adherence/technique) with frequent OCS requirements and poor ACT score. His peripheral blood eosinophil count (450 cells/µL) and FeNO (35 ppb) are both elevated, indicating a strong Type 2 inflammatory phenotype (e.g., eosinophilic asthma). For patients with severe, uncontrolled Type 2 asthma, targeted biologic therapies (e.g., anti-IgE for allergic asthma, anti-IL-5/5R or anti-IL-4Rα for severe eosinophilic asthma) are appropriate considerations to reduce exacerbations and improve control.",
+    "highYieldPearl": "Rio's Take: Severe asthma is defined by uncontrolled symptoms or frequent exacerbations despite optimal high-dose ICS/LABA therapy. The presence of elevated blood eosinophils (e.g., >150-300 cells/µL) or FeNO (>20-25 ppb) in this setting indicates a Type 2 inflammatory endotype, making the patient a strong candidate for targeted biologic therapies.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "While LAMA is an additional controller therapy for uncontrolled asthma (GINA Step 4-5), for severe uncontrolled Type 2 asthma with frequent OCS requirements, especially when already on high-dose ICS/LABA, biologics are a more potent and targeted intervention. Considering the severity and Type 2 markers, a biologic is a more accurate 'next most likely' step for significant improvement compared to just adding a LAMA at this stage for a patient with such severe exacerbations.",
+      "B": "Correct. This patient fulfills the criteria for severe asthma and demonstrates clear Type 2 inflammation, making him eligible for biologic therapies targeting this pathway.",
+      "C": "This patient's asthma clearly fits the definition of severe asthma based on being uncontrolled despite maximal optimized therapy. While ruling out comorbidities is crucial in the workup of 'difficult-to-treat asthma' (a broader term), it doesn't preclude the 'severe asthma' classification itself.",
+      "D": "His eosinophil count of 450 cells/µL and FeNO of 35 ppb are both elevated, strongly indicating an eosinophilic/Type 2 inflammatory endotype, not a non-eosinophilic one."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_e9ed593d",
+    "question": "A 60-year-old patient presents with new-onset wheezing, dyspnea, and cough, unresponsive to standard inhaled bronchodilators. Initial spirometry shows a moderate obstructive pattern with only mild bronchodilator reversibility (FEV1 increase of 8% and 150 mL). Chest X-ray is normal. Before diagnosing adult-onset asthma and escalating therapy, a thorough workup should be considered to rule out other conditions that may mimic or exacerbate asthma.\n\nAll of the following conditions should be considered in the differential diagnosis or as contributing factors to difficult-to-treat asthma in this patient, EXCEPT:",
+    "options": {
+      "A": "Vocal Cord Dysfunction (VCD)",
+      "B": "Eosinophilic Granulomatosis with Polyangiitis (EGPA)",
+      "C": "Alpha-1 antitrypsin deficiency",
+      "D": "Gastroesophageal Reflux Disease (GERD)",
+      "E": "Central Airway Obstruction"
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "The patient's presentation (new-onset wheezing, dyspnea, cough, unresponsive to bronchodilators, mild reversibility) in an older adult raises suspicion for conditions other than typical asthma or complicates its management. \n\n*   **Vocal Cord Dysfunction (VCD)** is a common mimic of asthma, characterized by paradoxical adduction of vocal cords during inspiration, leading to upper airway obstruction, wheezing (often inspiratory and localized), and dyspnea.\n*   **Eosinophilic Granulomatosis with Polyangiitis (EGPA)**, formerly Churg-Strauss Syndrome, is a systemic vasculitis where severe, refractory asthma is a cardinal feature, often presenting with eosinophilia and other systemic symptoms. It makes asthma 'difficult to treat' because it's a specific underlying systemic cause.\n*   **Gastroesophageal Reflux Disease (GERD)** is a common comorbidity that can exacerbate asthma symptoms, leading to chronic cough, nocturnal awakenings, and increased airway hyperresponsiveness, thus contributing to 'difficult-to-treat asthma'.\n*   **Central Airway Obstruction** (e.g., due to tumors, strictures, or tracheobronchomalacia) can present with new-onset wheezing, dyspnea, and cough, mimicking asthma, especially if the obstruction is dynamic or partial. The wheeze may be monophonic or localized.\n\n**Alpha-1 Antitrypsin (AAT) deficiency** is a genetic condition that primarily causes panacinar emphysema and COPD, especially in smokers or those with environmental exposure. While it causes airflow obstruction and dyspnea, it is typically considered a primary obstructive lung disease (COPD) in its own right, rather than a condition that *mimics* asthma's core pathophysiology or acts as a comorbidity that *exacerbates* pre-existing asthma in the same way the other options do. While distinguishing asthma from COPD is critical, and AAT deficiency is a cause of COPD, it's not a 'mimic' or 'exacerbating factor' for asthma in the same direct sense. It's a distinct diagnosis that may coexist or mimic *COPD* symptoms that overlap with asthma, but it's not specifically an asthma mimic/exacerbator from this list.",
+    "highYieldPearl": "Rio's Take: In adults with new-onset or difficult-to-treat asthma, always consider mimics (VCD, central airway obstruction, heart failure) and significant comorbidities (GERD, rhinosinusitis, obesity) before escalating asthma therapy. AAT deficiency causes emphysema/COPD and is a distinct diagnosis rather than an asthma mimic or exacerbator.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "VCD is a classic mimic of asthma, especially difficult-to-treat asthma, and should always be considered in the differential.",
+      "B": "EGPA is a systemic disease where severe asthma is a key component, making it a critical consideration in difficult-to-treat asthma workup.",
+      "C": "Correct. AAT deficiency is a genetic cause of emphysema/COPD. While it causes airflow obstruction, it is a primary diagnosis of obstructive lung disease itself, rather than a condition that 'mimics' asthma's underlying pathology or 'exacerbates' asthma in the way comorbidities like GERD do. It's a distinct disease process, not primarily an asthma mimic or exacerbator.",
+      "D": "GERD is a very common comorbidity known to exacerbate asthma symptoms and contribute to chronic cough, making asthma appear difficult to treat.",
+      "E": "Central airway obstruction can present with wheezing and dyspnea, often mimicking asthma, and may not respond to bronchodilators, necessitating investigation to rule out structural causes."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_8452d5c2",
+    "question": "A 28-year-old male presents with intermittent cough, wheezing, and shortness of breath, primarily at night and with exercise, for the past 3 months. He has a history of allergic rhinitis. Baseline spirometry reveals FEV1 2.5 L (70% predicted), FVC 3.8 L (85% predicted). After administration of 400 mcg salbutamol, his FEV1 improves to 2.9 L (81% predicted) and FVC to 4.0 L (90% predicted).",
+    "options": {
+      "A": "The patient demonstrates significant bronchodilator reversibility, confirming the diagnosis of asthma.",
+      "B": "The FEV1/FVC ratio is normal, indicating that asthma is unlikely without further investigation.",
+      "C": "While there is an obstructive pattern, the FEV1 increase is not sufficiently significant to diagnose asthma based on spirometry alone.",
+      "D": "A positive bronchodilator response requires an FEV1 increase of at least 15% from baseline."
+    },
+    "correctAnswer": "A",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "The patient's baseline FEV1/FVC ratio is 2.5 L / 3.8 L = 0.65 (65%), which is below the normal threshold of 0.70 or the lower limit of normal (LLN), indicating an obstructive ventilatory defect. After bronchodilator, his FEV1 increased from 2.5 L to 2.9 L, an absolute increase of 0.4 L (400 mL). The percentage increase in FEV1 is (0.4 L / 2.5 L) * 100% = 16%. According to international guidelines (GINA, ATS/ERS), a significant bronchodilator response diagnostic of asthma is defined by an increase in FEV1 of ≥12% AND ≥200 mL from baseline. Both criteria are met in this case (16% and 400 mL), thus confirming the presence of reversible airway obstruction consistent with asthma, especially in the context of typical symptoms and an allergic history.",
+    "highYieldPearl": "Rio's Take: Significant bronchodilator reversibility is a key diagnostic criterion for asthma, defined by an increase in FEV1 of ≥12% AND ≥200 mL from baseline. Remember to check both percentage and absolute volume criteria.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct interpretation. The patient meets both criteria for significant bronchodilator reversibility (16% and 400 mL increase in FEV1).",
+      "B": "The FEV1/FVC ratio of 0.65 (65%) is indicative of an obstructive pattern, not normal. This option tests basic spirometry interpretation.",
+      "C": "The FEV1 increase of 16% and 400 mL is indeed significant as per diagnostic criteria. This option misleads by suggesting the change is insufficient.",
+      "D": "While an FEV1 increase of >15% is certainly significant, the standard clinical criterion for bronchodilator reversibility in asthma is ≥12% AND ≥200 mL. This option provides a slightly higher, incomplete threshold as a distractor."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_2727fc37",
+    "question": "A 35-year-old female presents with asthma symptoms. She reports experiencing wheezing and shortness of breath 3-4 times per week, requiring her to use her salbutamol inhaler. She wakes up at night with symptoms twice a month. Her symptoms frequently interfere with her daily activities, and she has had one exacerbation requiring oral corticosteroids in the last year. She is currently not on any regular controller medication. Her FEV1 is 80% predicted with no significant reversibility on a previous test (though an initial diagnosis of asthma was made previously based on other factors or clinical judgment).",
+    "options": {
+      "A": "Intermittent asthma",
+      "B": "Mild persistent asthma",
+      "C": "Moderate persistent asthma",
+      "D": "Severe persistent asthma"
+    },
+    "correctAnswer": "B",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "According to GINA (Global Initiative for Asthma) guidelines for initial assessment of severity in *untreated* patients (which guides initial treatment steps): \n-   **Intermittent asthma:** Symptoms <2 times/week; nighttime awakenings <2 times/month; SABA use <2 times/week; no interference with normal activity; 0-1 exacerbations/year (not requiring OCS).\n-   **Mild persistent asthma:** Symptoms >2 times/week but < daily; nighttime awakenings 2-3 times/month; SABA use >2 times/week but < daily; some interference with normal activity; >0 exacerbations/year (e.g., 1 requiring OCS).\n-   **Moderate persistent asthma:** Daily symptoms; nighttime awakenings >1 time/week; daily SABA use; some activity limitation; >1 exacerbation or severe exacerbation.\n-   **Severe persistent asthma:** Symptoms most days or continuous; nightly awakenings; daily SABA use; extreme activity limitation; frequent exacerbations.\n\nThis patient's symptoms (daytime 3-4 times/week, nighttime 2 times/month, SABA 3-4 times/week, frequently interfering with daily activity, and 1 exacerbation requiring OCS in the last year) most closely align with the criteria for Mild Persistent Asthma.",
+    "highYieldPearl": "Rio's Take: GINA's initial asthma severity classification (for untreated patients) is crucial for guiding the first step of controller therapy. Pay close attention to the frequency of daytime symptoms, nighttime awakenings, SABA use, activity limitation, and exacerbation history.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Intermittent asthma is ruled out by the frequency of daytime symptoms (3-4 times/week is >2 times/week) and the history of an exacerbation requiring oral corticosteroids.",
+      "B": "This is the correct classification. All symptom parameters (daytime, nighttime, SABA use, activity interference, and exacerbation history) fit the definition of mild persistent asthma.",
+      "C": "Moderate persistent asthma typically involves daily symptoms, more frequent nighttime awakenings (>1 time/week), or more frequent/severe exacerbations. The patient's symptoms are less frequent than daily.",
+      "D": "Severe persistent asthma involves continuous symptoms, frequent nightly awakenings, and severe activity limitation, which is not described in this patient's presentation."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_d20528ab",
+    "question": "A 40-year-old non-smoker presents with a chronic cough, exertional dyspnea, and occasional wheezing for the past 6 months. He denies fever, weight loss, or hemoptysis. He was given a trial of inhaled short-acting beta-agonists and low-dose inhaled corticosteroids for 4 weeks without significant improvement. Spirometry shows FEV1 90% predicted, FVC 95% predicted, and FEV1/FVC ratio 0.78. There was no significant bronchodilator reversibility.",
+    "options": {
+      "A": "High-resolution computed tomography (HRCT) of the thorax.",
+      "B": "Methacholine challenge test.",
+      "C": "Alpha-1 antitrypsin level.",
+      "D": "Gastroesophageal reflux disease (GERD) evaluation (e.g., pH monitoring)."
+    },
+    "correctAnswer": "B",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "This patient presents with classic asthma-like symptoms (cough, dyspnea, wheezing) but has normal spirometry and no significant bronchodilator reversibility. Additionally, he has not responded to an empirical trial of asthma medications. In such a scenario, where asthma is suspected but objective evidence from spirometry is inconclusive or absent, the next most appropriate step to confirm or rule out asthma is to assess for bronchial hyperresponsiveness (BHR). A methacholine challenge test is the standard method for this, as it directly evaluates airway sensitivity and can diagnose asthma even when baseline spirometry is normal.",
+    "highYieldPearl": "Rio's Take: When asthma is suspected but spirometry is normal or non-diagnostic for obstruction/reversibility, and symptoms persist, a bronchial challenge test (e.g., methacholine challenge) is the most appropriate next diagnostic step to confirm or exclude bronchial hyperresponsiveness.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "HRCT of the thorax would be indicated if there were concerns for structural lung disease (e.g., bronchiectasis, interstitial lung disease) or if other lung pathologies were strongly suspected. While a differential, it's not the most direct test for diagnosing asthma in this context.",
+      "B": "This is the most appropriate next step. The methacholine challenge test directly assesses for bronchial hyperresponsiveness, a hallmark of asthma, which can be present even with normal baseline spirometry.",
+      "C": "Alpha-1 antitrypsin deficiency is primarily associated with early-onset emphysema/COPD. This patient's normal spirometry and lack of smoking history do not strongly support this diagnosis.",
+      "D": "GERD can cause chronic cough and sometimes even wheezing, and is a valid differential diagnosis, especially if symptoms are refractory to initial asthma treatment. However, the question asks for the best step to 'confirm or rule out asthma.' While GERD evaluation might be considered if the methacholine challenge test is negative, assessing for BHR is the more direct step for asthma diagnosis first."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_2c8626a4",
+    "question": "A 45-year-old male presents with a persistent cough, low-grade fever, and localized wheeze in the left upper lobe for 3 weeks. Bronchoscopy reveals a segment of the left upper lobe bronchus with diffuse, prominent mucosal swelling and intense redness extending into the surrounding tissue. No whitish cheesy material, distinct endobronchial masses, or ulcerations are noted. Biopsy confirms granulomatous inflammation consistent with tuberculosis. Based on these bronchoscopic findings, which subtype of Endobronchial Tuberculosis is most likely?",
+    "options": {
+      "A": "Granular subtype",
+      "B": "Edematous-hyperemic subtype",
+      "C": "Nonspecific bronchitic subtype",
+      "D": "Ulcerative subtype"
+    },
+    "correctAnswer": "B",
+    "topic": "Endobronchial Tuberculosis - Diagnosis and Classification",
+    "deepDiveExplanation": "The patient's bronchoscopic findings of 'diffuse, prominent mucosal swelling and intense redness extending into the surrounding tissue' directly align with the description of the Edematous-hyperemic subtype of Endobronchial Tuberculosis (EBTB): 'Extensive mucosal swelling with surrounding hyperemia.' The absence of whitish cheese-like material, distinct masses, or ulcerations helps differentiate it from actively caseating, tumorous, or ulcerative subtypes, respectively. While nonspecific bronchitic also involves mucosal swelling and hyperemia, the description 'prominent mucosal swelling and intense redness' suggests a more extensive and severe inflammation than the 'mild mucosal swelling and/or hyperemia' characteristic of the nonspecific subtype. This presentation commonly mimics asthma or pneumonia, as highlighted in the provided text.",
+    "highYieldPearl": "Rio's Take: Differentiating EBTB subtypes often hinges on subtle bronchoscopic findings. 'Extensive mucosal swelling with surrounding hyperemia' without visible caseation or ulceration strongly points to the edematous-hyperemic type, which can be an early, more diffuse form of EBTB.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "The granular subtype is characterized by an 'appearance like scattered grains of boiled rice,' which is not described. The diffuse swelling and hyperemia are inconsistent with discrete granular lesions.",
+      "B": "Correct. This subtype precisely matches the description of 'extensive mucosal swelling with surrounding hyperemia,' indicating a significant inflammatory response without overt caseation or ulceration.",
+      "C": "The nonspecific bronchitic subtype presents with 'only mild mucosal swelling and/or hyperemia.' The vignette describes 'prominent mucosal swelling and intense redness,' implying a more severe presentation than 'mild,' making this option less likely.",
+      "D": "The ulcerative subtype is defined by 'ulcerated airway mucosa.' The vignette explicitly states 'No... ulcerations are noted,' ruling out this subtype."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_37c32dbd",
+    "question": "A 62-year-old patient, who underwent antitubercular treatment for pulmonary tuberculosis 5 years ago, now presents with gradually worsening dyspnea and recurrent episodes of post-obstructive pneumonia in the right middle lobe. Flexible bronchoscopy is performed and reveals significant concentric narrowing of the right middle lobe bronchus with tough, pale, non-inflamed tissue. No active inflammation, caseous material, or endobronchial masses are identified. The lumen is estimated to be reduced to approximately 20% of its normal diameter. Which complication or subtype of Endobronchial Tuberculosis is most likely responsible for this presentation?",
+    "options": {
+      "A": "Actively caseating subtype",
+      "B": "Edematous-hyperemic subtype",
+      "C": "Fibro-stenotic subtype",
+      "D": "Tumorous subtype"
+    },
+    "correctAnswer": "C",
+    "topic": "Endobronchial Tuberculosis - Diagnosis and Classification",
+    "deepDiveExplanation": "The clinical presentation of 'gradually worsening dyspnea and recurrent episodes of post-obstructive pneumonia' occurring '5 years after' initial TB treatment, coupled with bronchoscopic findings of 'significant concentric narrowing... with tough, pale, non-inflamed tissue,' is highly characteristic of bronchial stenosis due to fibrosis. The provided text explicitly states that 'Bronchial stenosis most significant complication: presents with slowly progressive SOB years after the diagnosis and treatment,' and lists 'post-obstructive pneumonia' as a consequence of bronchial stenosis. The 'Fibro-stenotic' subtype is described as 'Marked narrowing of the bronchial lumen with fibrosis,' perfectly matching the late-stage fibrotic changes observed here. The absence of active inflammation or caseous material rules out the active forms of EBTB.",
+    "highYieldPearl": "Rio's Take: Late-onset, slowly progressive dyspnea and recurrent infections in a patient with a history of TB, especially when bronchoscopy shows fixed airway narrowing with pale, fibrotic tissue, should immediately raise suspicion for fibro-stenotic EBTB, a major long-term complication.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "The actively caseating subtype is characterized by 'swollen hyperemic bronchial mucosa covered with whitish cheese-like material.' This describes an acute, active inflammatory process, not the chronic, fibrotic changes seen years after treatment.",
+      "B": "The edematous-hyperemic subtype involves 'extensive mucosal swelling with surrounding hyperemia.' This is also an active, acute phase finding and does not account for the chronic fibrotic stenosis described.",
+      "C": "Correct. This subtype is defined by 'marked narrowing of the bronchial lumen with fibrosis.' The scenario perfectly depicts a long-term complication of EBTB, where healing of deep ulcers with extensive fibrosis leads to bronchial stenosis, resulting in the described symptoms.",
+      "D": "The tumorous subtype presents as an 'endobronchial mass with surface covered by caseous material and near total occlusion.' While it causes occlusion, the current findings emphasize tough, pale, non-inflamed fibrotic tissue without an active 'mass' or 'caseous material,' distinguishing it from the tumorous subtype which implies active disease."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_81d07ed8",
+    "question": "A 7-year-old child with a recent history of primary tuberculosis exposure presents with acute onset respiratory distress, productive cough, and a high-pitched inspiratory stridor, mimicking a foreign body aspiration. Bronchoscopy reveals a near-total occlusion of the right main bronchus by a firm, cauliflower-like endobronchial lesion, partially covered with soft, yellowish, necrotic material. Histopathology confirms active granulomatous inflammation. Which bronchoscopic subtype of Endobronchial Tuberculosis best describes these findings?",
+    "options": {
+      "A": "Actively caseating subtype",
+      "B": "Edematous-hyperemic subtype",
+      "C": "Tumorous subtype",
+      "D": "Granular subtype"
+    },
+    "correctAnswer": "C",
+    "topic": "Endobronchial Tuberculosis - Diagnosis and Classification",
+    "deepDiveExplanation": "The vignette describes a 'firm, cauliflower-like endobronchial lesion' causing 'near-total occlusion' and 'partially covered with soft, yellowish, necrotic material.' This directly corresponds to the description of the 'Tumorous' subtype: 'Endobronchial mass with surface covered by caseous material and near total occlusion of the bronchial lumen.' The presentation in a child with primary TB, mimicking 'foreign body aspiration,' is also consistent with the text stating EBTB can mimic FB aspiration and is usually a complication of primary TB in children. The 'necrotic material' indicates caseation on the surface of the mass.",
+    "highYieldPearl": "Rio's Take: The 'tumorous' subtype of EBTB is a critical diagnosis, especially in children, as it can mimic foreign body aspiration or even malignancy. Key features are an endobronchial mass causing significant occlusion, often with superficial caseation. This form necessitates prompt recognition and management to prevent severe complications.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "The actively caseating subtype describes 'swollen hyperemic bronchial mucosa covered with whitish cheese-like material.' While caseation (necrotic material) is present, the defining feature here is a distinct 'cauliflower-like endobronchial lesion' (a mass), which is more characteristic of the tumorous subtype than simple mucosal involvement.",
+      "B": "The edematous-hyperemic subtype involves 'extensive mucosal swelling with surrounding hyperemia.' This does not involve a discrete mass causing near-total occlusion, which is a hallmark of the tumorous type.",
+      "C": "Correct. This subtype is defined by an 'endobronchial mass with surface covered by caseous material and near total occlusion of the bronchial lumen.' The description of a 'cauliflower-like endobronchial lesion' causing 'near-total occlusion' and 'partially covered with soft, yellowish, necrotic material' aligns perfectly with this definition.",
+      "D": "The granular subtype is characterized by an 'appearance like scattered grains of boiled rice.' This is a diffuse, less obstructive pattern, unlike the discrete, obstructive mass described in the vignette."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_c96d0556",
+    "question": "A 35-year-old non-smoker presents with recurrent episodes of wheezing, shortness of breath, chest tightness, and cough, particularly at night and in the early morning. These symptoms have been occurring for the past 6 months, often triggered by exercise or exposure to dust. He denies fever, weight loss, or hemoptysis. Physical examination reveals diffuse expiratory polyphonic wheezes. Initial spirometry shows FEV1 75% of predicted, FVC 85% of predicted, and FEV1/FVC ratio 70%. What is the most appropriate next step to confirm the diagnosis of asthma in this patient?",
+    "options": {
+      "A": "Administer a short-acting beta-2 agonist (SABA) and repeat spirometry to assess for reversibility.",
+      "B": "Perform a methacholine challenge test to assess for bronchial hyperresponsiveness.",
+      "C": "Order a high-resolution computed tomography (HRCT) scan of the chest to rule out other lung diseases.",
+      "D": "Prescribe a trial of inhaled corticosteroids and assess symptom improvement."
+    },
+    "correctAnswer": "A",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "The patient presents with classical symptoms of asthma (recurrent wheezing, shortness of breath, chest tightness, cough, nocturnal/early morning pattern, triggers) and objective evidence of airflow limitation on initial spirometry (FEV1/FVC ratio < 0.70 or <LLN, FEV1 75% predicted). According to GINA guidelines, the diagnosis of asthma requires documentation of variable airflow limitation. The most direct and common way to demonstrate this in a patient with airflow limitation is by showing significant bronchodilator reversibility. A significant response is defined as an increase in FEV1 by >12% and >200 mL from baseline after administering a SABA (e.g., 400 mcg salbutamol). This finding would confirm the diagnosis by demonstrating the characteristic variability of airflow limitation in asthma.",
+    "highYieldPearl": "Rio's Take: The definitive next step for confirming asthma in a patient with obstructive spirometry is demonstrating significant bronchodilator reversibility (FEV1 increase >12% and >200 mL).",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the definitive next step for confirming asthma in a patient with obstructive spirometry by demonstrating bronchodilator reversibility, which is a key diagnostic feature.",
+      "B": "Methacholine challenge testing is primarily used when baseline spirometry is normal or near normal but asthma is strongly suspected. Since this patient already has objective airflow limitation, assessing reversibility is a more direct and appropriate diagnostic step than evaluating hyperresponsiveness.",
+      "C": "HRCT is not a primary diagnostic tool for asthma. While it can be useful in ruling out alternative diagnoses (e.g., bronchiectasis, COPD, interstitial lung disease) in atypical presentations or severe asthma, it is not the initial or most appropriate diagnostic step for a classic presentation of asthma with airflow limitation.",
+      "D": "While inhaled corticosteroids are the cornerstone of asthma treatment and symptom improvement would support the diagnosis, prescribing a therapeutic trial is not a definitive diagnostic test. Objective evidence of variable airflow limitation is crucial for confirming the diagnosis, and relying solely on symptom response can be misleading or delay appropriate management if the diagnosis is incorrect."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_7fd140c8",
+    "question": "A 40-year-old male with known asthma, currently on a daily low-dose inhaled corticosteroid (ICS) and formoterol as needed (MART approach), presents for a review. Over the past month, he reports daytime asthma symptoms 3 times a week, uses his reliever inhaler twice a week, has no nocturnal awakenings, and has had no exacerbations. His FEV1 is 90% of predicted. According to GINA guidelines, how would his asthma control be classified?",
+    "options": {
+      "A": "Well-controlled",
+      "B": "Partially controlled",
+      "C": "Uncontrolled",
+      "D": "Mild Persistent Asthma"
+    },
+    "correctAnswer": "B",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "According to GINA guidelines, asthma control is assessed by evaluating four key components over the past 4 weeks:\n1.  Daytime asthma symptoms (more than twice a week)\n2.  Any night waking due to asthma\n3.  Need for reliever medication (more than twice a week)\n4.  Any activity limitation due to asthma\n\nClassification:\n*   **Well-controlled asthma:** None of the above.\n*   **Partially controlled asthma:** 1 or 2 of the above.\n*   **Uncontrolled asthma:** 3 or 4 of the above.\n\nIn this patient's case:\n1.  Daytime symptoms occur 3 times a week, which is >2 times/week. (Meets one criterion for partially/uncontrolled).\n2.  No nocturnal awakenings.\n3.  Reliever inhaler used twice a week, which is NOT >2 times/week.\n4.  No activity limitation mentioned and no exacerbations.\n\nSince only one criterion (daytime symptoms >2 times/week) is met, the patient's asthma is classified as **Partially controlled**.",
+    "highYieldPearl": "Rio's Take: GINA assesses asthma *control* (on treatment) based on four domains: daytime symptoms, nocturnal awakenings, reliever use frequency, and activity limitation. Meeting 1-2 of these criteria classifies asthma as partially controlled.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. The patient experiences daytime symptoms 3 times a week, which exceeds the criteria for well-controlled asthma (where symptoms should be no more than twice a week).",
+      "B": "Correct. The patient meets one criterion for partial control (daytime symptoms >2 times a week). The other criteria (no nocturnal awakenings, reliever use not >2 times a week, no activity limitation, no exacerbations) align more with well-controlled, but the single problematic criterion shifts the overall classification to partially controlled.",
+      "C": "Incorrect. For asthma to be classified as uncontrolled, the patient would need to meet 3 or 4 of the control criteria (e.g., more frequent symptoms, nocturnal awakenings, high reliever use, and activity limitation). This patient only meets one.",
+      "D": "Incorrect. 'Mild Persistent Asthma' refers to asthma *severity* (a pre-treatment classification), not *control* (an on-treatment assessment). GINA guidelines emphasize assessing control for patients already on treatment, and if uncontrolled, evaluating treatment step. The traditional severity terms are not used to describe control on therapy."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_fac54302",
+    "question": "A 22-year-old female presents with asthma-like symptoms for the first time. She reports experiencing shortness of breath and wheezing about 3-4 times per week, requiring her rescue inhaler (SABA) on most of these occasions. She wakes up with asthma symptoms approximately 2-3 times per month. She denies any activity limitation or emergency visits. Spirometry performed today after withholding bronchodilators shows FEV1 85% of predicted, and FEV1/FVC ratio 78%. Bronchodilator reversibility test is positive (FEV1 increased by 15% and 350 mL). Based on GINA guidelines for initial assessment of severity in an untreated patient, what is the most appropriate classification for this patient's asthma?",
+    "options": {
+      "A": "Intermittent Asthma",
+      "B": "Mild Persistent Asthma",
+      "C": "Moderate Persistent Asthma",
+      "D": "Severe Persistent Asthma"
+    },
+    "correctAnswer": "B",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "The initial classification of asthma severity in an untreated patient, while current GINA guidelines primarily focus on control for patients on treatment, is still an important concept for initial diagnosis and management planning. Traditional severity classification is based on symptom frequency, nocturnal awakenings, SABA reliever use, and lung function (FEV1) BEFORE starting controller therapy.\n\nCriteria:\n*   **Intermittent Asthma:** Symptoms ≤2 times/week; nocturnal symptoms ≤2 times/month; SABA use ≤2 times/week; FEV1 >80% predicted.\n*   **Mild Persistent Asthma:** Symptoms >2 times/week but not daily; nocturnal symptoms 3-4 times/month; SABA use >2 times/week but not daily; FEV1 >80% predicted.\n*   **Moderate Persistent Asthma:** Daily symptoms; nocturnal symptoms >1 time/week; daily SABA use; FEV1 60-80% predicted.\n*   **Severe Persistent Asthma:** Continuous symptoms; nightly nocturnal symptoms; SABA use several times/day; FEV1 <60% predicted.\n\nIn this patient's case:\n1.  **Daytime Symptoms:** 3-4 times per week (exceeds intermittent, consistent with mild persistent).\n2.  **Nocturnal Symptoms:** 2-3 times per month (exceeds intermittent, consistent with mild persistent).\n3.  **SABA use:** 3-4 times per week (exceeds intermittent, consistent with mild persistent).\n4.  **FEV1:** 85% of predicted (>80%, consistent with intermittent or mild persistent).\n\nSince the patient consistently exceeds the criteria for intermittent asthma in multiple domains (symptom frequency, nocturnal awakenings, SABA use) but does not meet the criteria for daily symptoms or significantly impaired FEV1, the most appropriate classification is **Mild Persistent Asthma**.",
+    "highYieldPearl": "Rio's Take: Initial asthma severity classification (intermittent, mild, moderate, severe persistent) is based on symptom frequency, nocturnal awakenings, reliever use, and lung function *before* starting controller therapy. The highest severity category met by *any* criterion determines the overall classification.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. The patient's symptom frequency (3-4 times/week), nocturnal awakenings (2-3 times/month), and SABA use (3-4 times/week) all exceed the thresholds for intermittent asthma (which requires ≤2 times/week/month for these parameters).",
+      "B": "Correct. The patient's symptom profile (daytime symptoms >2 times/week but not daily, nocturnal symptoms 2-3 times/month, SABA use >2 times/week but not daily) directly matches the GINA criteria for mild persistent asthma, with FEV1 still >80% predicted.",
+      "C": "Incorrect. Moderate persistent asthma would typically involve daily symptoms, nocturnal symptoms >1 time/week, and/or an FEV1 between 60-80% predicted. This patient's symptoms are not daily, nocturnal awakenings are less frequent, and FEV1 is higher.",
+      "D": "Incorrect. Severe persistent asthma is characterized by continuous symptoms, nightly nocturnal awakenings, very frequent SABA use, and FEV1 <60% predicted. This patient's symptoms are far less severe than what would classify as severe persistent asthma."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_9c3225b6",
+    "question": "A 28-year-old male presents with intermittent episodes of cough, shortness of breath, and wheezing, particularly at night and after exposure to dust. His symptoms are typically relieved by an inhaled short-acting beta-agonist. Physical examination reveals bilateral expiratory wheezes. Which of the following findings is most essential for confirming a diagnosis of asthma in this patient?",
+    "options": {
+      "A": "An increase in FEV1 of ≥12% and ≥200 mL from baseline after bronchodilator administration.",
+      "B": "An elevated fractional exhaled nitric oxide (FeNO) level.",
+      "C": "A positive methacholine challenge test with a PC20 ≤ 8 mg/mL.",
+      "D": "A significant diurnal variation in peak expiratory flow (PEF) readings."
+    },
+    "correctAnswer": "A",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "The diagnosis of asthma relies on demonstrating variable airflow limitation. The most crucial and commonly used objective test for this is spirometry with bronchodilator reversibility. A significant bronchodilator response, defined by GINA as an increase in FEV1 of ≥12% and ≥200 mL from baseline (or ≥10% of predicted FEV1), confirms variable airflow obstruction and is a cornerstone for asthma diagnosis. While other tests like FeNO, methacholine challenge, and PEF variability provide supportive evidence or are used when bronchodilator reversibility is not observed, bronchodilator reversibility on spirometry is considered the most direct and essential initial diagnostic finding.",
+    "highYieldPearl": "Rio's Take: Bronchodilator reversibility on spirometry is the gold standard for confirming variable airflow limitation, a hallmark of asthma. Remember the specific criteria: ≥12% and ≥200 mL increase in FEV1.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option describes the definitive spirometric criterion for bronchodilator reversibility, which is central to asthma diagnosis. It directly confirms variable airflow limitation.",
+      "B": "Elevated FeNO suggests eosinophilic airway inflammation and helps predict response to ICS, but it's not universally elevated in all asthmatics and is not sufficient alone for diagnosis.",
+      "C": "A positive methacholine challenge test indicates airway hyperresponsiveness, a characteristic feature of asthma, but it is typically performed when spirometry is normal and asthma is still suspected. It confirms hyperresponsiveness, but not necessarily variable airflow limitation in the way bronchodilator reversibility does, and is not the *most essential* initial finding if reversibility can be shown.",
+      "D": "Significant diurnal PEF variation (typically >10-20%) is highly suggestive of asthma and indicates variable airflow, but spirometry with bronchodilator reversibility is generally considered more precise and a more robust diagnostic criterion when available."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_c724cfdf",
+    "question": "A 35-year-old woman with a known history of asthma reports using her reliever inhaler (SABA) three times a week for daytime symptoms. She denies any nocturnal awakenings due to asthma, and her daily activities are not limited. Her spirometry shows FEV1 90% predicted. According to current GINA (Global Initiative for Asthma) guidelines, how would her asthma control be classified?",
+    "options": {
+      "A": "Well-controlled",
+      "B": "Partially controlled",
+      "C": "Uncontrolled",
+      "D": "Severe persistent"
+    },
+    "correctAnswer": "B",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "According to GINA guidelines for assessing asthma control, a patient is classified based on four criteria over the past 4 weeks:\n1.  Daytime asthma symptoms: ≤2 times/week\n2.  Any night waking due to asthma: No\n3.  Need for reliever: ≤2 times/week\n4.  Any activity limitation due to asthma: No\n\n*   **Well-controlled:** All four criteria met.\n*   **Partially controlled:** Any 1-2 criteria not met.\n*   **Uncontrolled:** 3 or 4 criteria not met.\n\nIn this patient, she uses her reliever 3 times a week (not meeting criterion 3: ≤2 times/week) and has daytime symptoms 3 times a week (not meeting criterion 1: ≤2 times/week). She meets two criteria for not being well-controlled. Therefore, her asthma is classified as 'Partially controlled'.",
+    "highYieldPearl": "Rio's Take: GINA's asthma control classification is crucial. Remember the thresholds: ≤2 times/week for daytime symptoms and SABA use. Missing 1-2 criteria means 'partially controlled'; missing 3-4 means 'uncontrolled'.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. The patient's SABA use (3 times/week) and daytime symptoms (3 times/week) exceed the '≤2 times/week' threshold for well-controlled asthma.",
+      "B": "Correct. The patient has two criteria (daytime symptoms >2 times/week and SABA use >2 times/week) that do not meet the definition of 'well-controlled,' which places her in the 'partially controlled' category (1-2 criteria not met).",
+      "C": "Incorrect. 'Uncontrolled' asthma requires at least three out of the four control criteria to be unmet. This patient only has two unmet criteria.",
+      "D": "Incorrect. 'Severe persistent' is an outdated classification based on severity before treatment. GINA now primarily uses 'control' to guide management, and 'severe asthma' is defined by poor control despite optimized Step 4/5 treatment or requiring high-dose ICS-LABA to maintain control."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_61b907da",
+    "question": "A 22-year-old non-smoking male is newly diagnosed with asthma. He experiences mild shortness of breath and wheezing approximately once every two weeks, primarily triggered by exercise. He has no nocturnal awakenings and his spirometry is normal. Which of the following is the most appropriate initial long-term treatment strategy according to GINA guidelines?",
+    "options": {
+      "A": "Low-dose inhaled corticosteroid (ICS) taken daily.",
+      "B": "As-needed low-dose ICS-formoterol.",
+      "C": "Short-acting beta-agonist (SABA) as needed only.",
+      "D": "Leukotriene receptor antagonist (LTRA) daily."
+    },
+    "correctAnswer": "B",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "According to GINA guidelines (since 2019/2021), for adults and adolescents, a short-acting beta-agonist (SABA) alone is no longer recommended for regular use at any step, primarily due to evidence linking SABA-only use with increased risk of severe exacerbations. For patients with infrequent symptoms (like this patient, falling under GINA Step 1 or Step 2), the preferred initial treatment strategy is as-needed low-dose ICS-formoterol. This approach provides both rapid symptom relief (formoterol) and anti-inflammatory benefit (ICS), addressing the underlying inflammation even with infrequent symptoms and reducing the risk of exacerbations.",
+    "highYieldPearl": "Rio's Take: This is a critical update in GINA. For adults and adolescents, SABA-alone is out! As-needed low-dose ICS-formoterol is the recommended reliever and initial controller for Step 1 and 2, providing both quick relief and anti-inflammatory action.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Daily low-dose ICS is a controller option typically considered for Step 2 and above, often alongside a SABA reliever. While effective, it's not the *most appropriate* initial strategy for patients with very infrequent symptoms as per recent GINA guidelines, which prioritize as-needed ICS-formoterol for these cases to ensure some anti-inflammatory action with every reliever use.",
+      "B": "Correct. GINA guidelines recommend as-needed low-dose ICS-formoterol as the preferred reliever and initial controller for adults and adolescents, including those with infrequent symptoms (GINA Step 1 or Step 2). This ensures anti-inflammatory treatment is given whenever a reliever is needed.",
+      "C": "Incorrect. While SABA-only was historically used for intermittent asthma, current GINA guidelines no longer recommend SABA alone due to an increased risk of severe exacerbations. It's a common trap for those not updated on the latest guidelines.",
+      "D": "LTRA daily can be an alternative controller option, often considered as Step 2 or an add-on therapy, particularly for patients with co-existing allergic rhinitis or aspirin-exacerbated respiratory disease. However, for initial management of typical newly diagnosed asthma, especially with infrequent symptoms, as-needed ICS-formoterol is preferred over daily LTRA as the first-line GINA recommendation for adults/adolescents."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_41c75bcd",
+    "question": "A 35-year-old male with a 10-year history of asthma reports experiencing daily shortness of breath and wheezing. He uses his short-acting beta-agonist (SABA) reliever inhaler 4-5 times a week. He wakes up with asthma symptoms about 3 nights a month. His symptoms significantly limit his work activities 1-2 times a week. He had one asthma exacerbation requiring oral corticosteroids in the last year. His FEV1 is consistently 75% of predicted.",
+    "options": {
+      "A": "Well-controlled asthma",
+      "B": "Partly controlled asthma",
+      "C": "Uncontrolled asthma",
+      "D": "Mild persistent asthma"
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "According to GINA (Global Initiative for Asthma) guidelines, asthma control is assessed based on symptom control over the past 4 weeks and risk factors for future exacerbations. For symptom control, four key parameters are evaluated: daytime symptoms, SABA use, nocturnal awakenings, and activity limitation. If a patient exhibits 3 or 4 of these features as 'not well-controlled', their asthma is classified as 'uncontrolled'.\n\nThis patient's features:\n1.  Daytime symptoms: Daily (More than twice a week - not well-controlled)\n2.  SABA use: 4-5 times a week (More than twice a week - not well-controlled)\n3.  Nocturnal awakenings: 3 nights a month (Any nocturnal awakenings - not well-controlled)\n4.  Activity limitation: 1-2 times a week (Any activity limitation - not well-controlled)\n\nSince all four symptom control parameters indicate 'not well-controlled', the patient's asthma is classified as uncontrolled. While one exacerbation in the last year is a risk factor, the immediate classification of control is primarily driven by the number of uncontrolled symptom features.",
+    "highYieldPearl": "Rio's Take: GINA classifies asthma control into 'well-controlled', 'partly controlled', and 'uncontrolled' based on symptom frequency (daytime, SABA use, nocturnal awakenings, activity limitation) over the past 4 weeks. Three or more 'not well-controlled' symptom features define 'uncontrolled asthma'. Severity (e.g., mild persistent) is distinct from control.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. Well-controlled asthma requires no more than two daytime symptoms/SABA use per week, no nocturnal awakenings, and no activity limitation. This patient fails all these criteria.",
+      "B": "Incorrect. Partly controlled asthma is defined by having 1 or 2 'not well-controlled' symptom features. This patient has 4 such features.",
+      "C": "Correct. This patient meets all four criteria for not being well-controlled in terms of symptom control, which per GINA, classifies the asthma as uncontrolled.",
+      "D": "Incorrect. 'Mild persistent asthma' is a classification of asthma severity, based on symptom frequency, lung function, and exacerbation risk. The question specifically asks for classification of asthma *control*, which is a different assessment."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_454bfc9f",
+    "question": "A 48-year-old non-smoker presents with a 6-month history of episodic dyspnea, non-productive cough, and wheezing, particularly at night and after exposure to cold air. Her baseline spirometry shows FEV1 70% of predicted, FVC 85% of predicted, and FEV1/FVC ratio 65%. After inhaling 400 mcg of Salbutamol, her FEV1 increases by 15% and 350 mL from her baseline value, and the FEV1/FVC ratio becomes 70%. A methacholine challenge test shows a PC20 of 1.5 mg/mL.",
+    "options": {
+      "A": "Asthma",
+      "B": "Chronic Obstructive Pulmonary Disease (COPD)",
+      "C": "Vocal Cord Dysfunction (VCD)",
+      "D": "Bronchiectasis"
+    },
+    "correctAnswer": "A",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "The clinical history of episodic dyspnea, non-productive cough, nocturnal wheezing, and triggers like cold air is highly suggestive of asthma. The spirometry results show an obstructive pattern (FEV1/FVC ratio < 70%). The significant bronchodilator reversibility (FEV1 increase of 15% and 350 mL, exceeding the diagnostic threshold of >= 12% AND >= 200 mL) is a key diagnostic criterion for asthma. Furthermore, a positive methacholine challenge test (PC20 < 8 mg/mL, with 1.5 mg/mL being strongly positive) confirms bronchial hyperresponsiveness, which is a hallmark of asthma. Combining these findings, asthma is the most likely diagnosis.",
+    "highYieldPearl": "Rio's Take: Diagnosis of asthma is based on a combination of clinical features suggestive of variable airway inflammation (episodic symptoms, triggers) and objective evidence of variable airflow limitation (significant bronchodilator reversibility in spirometry) or bronchial hyperresponsiveness (positive methacholine challenge).",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. The clinical history, obstructive spirometry with significant bronchodilator reversibility, and positive methacholine challenge are all classic diagnostic features of asthma.",
+      "B": "Incorrect. While COPD also presents with obstructive spirometry, it is less likely in a non-smoker, and typically shows fixed (or minimally reversible) airflow limitation. The robust bronchodilator reversibility and positive methacholine challenge argue against COPD as the primary diagnosis.",
+      "C": "Incorrect. VCD can mimic asthma symptoms, but spirometry usually shows flattening of the inspiratory loop and normal FEV1/FVC, often without significant response to bronchodilators, and would not typically cause a positive methacholine challenge.",
+      "D": "Incorrect. Bronchiectasis typically presents with chronic cough and copious sputum production, and its diagnosis relies on characteristic HRCT findings. While it can cause obstructive spirometry, the profound bronchodilator reversibility and bronchial hyperresponsiveness are not primary diagnostic features for bronchiectasis itself."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_d130b174",
+    "question": "A 55-year-old female presents with severe, uncontrolled asthma despite adherence to high-dose inhaled corticosteroids (ICS) and a long-acting beta-agonist (LABA), along with a long-acting muscarinic antagonist (LAMA). She reports daily symptoms, frequent nocturnal awakenings, and has had 3 severe exacerbations requiring oral steroids in the past year. Her peripheral blood eosinophil count is consistently elevated at 700 cells/µL. She also has a history of chronic rhinosinusitis with nasal polyps and has experienced severe bronchospasm following aspirin ingestion in the past.",
+    "options": {
+      "A": "Allergic asthma",
+      "B": "Late-onset non-allergic asthma",
+      "C": "Aspirin-exacerbated respiratory disease (AERD)",
+      "D": "Obesity-related asthma"
+    },
+    "correctAnswer": "C",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "This patient's presentation perfectly aligns with Aspirin-exacerbated respiratory disease (AERD), also known as Samter's Triad. This phenotype is characterized by a triad of severe asthma, chronic rhinosinusitis with nasal polyps, and documented sensitivity to aspirin and other NSAIDs (manifesting as severe bronchospasm). The consistently elevated peripheral blood eosinophil count (700 cells/µL) is also a common feature of AERD, indicating a prominent eosinophilic inflammatory pathway. AERD is typically a severe, late-onset asthma phenotype that is often difficult to control with conventional therapies.",
+    "highYieldPearl": "Rio's Take: Samter's Triad (AERD) is a critical asthma phenotype characterized by asthma, chronic rhinosinusitis with nasal polyps, and aspirin/NSAID sensitivity. It's often severe, eosinophilic, and late-onset. Recognition is important for tailored management, including potential aspirin desensitization or specific biologics.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. While allergic asthma can be severe and eosinophilic, the definitive features of aspirin sensitivity and nasal polyps point specifically to AERD, which is a distinct and more precise phenotype than general allergic asthma.",
+      "B": "Incorrect. While this patient has late-onset asthma and her aspirin sensitivity indicates it's not typically IgE-mediated allergic asthma, 'late-onset non-allergic asthma' is a broad category. AERD is a much more specific and accurate phenotypic diagnosis given the complete clinical picture.",
+      "C": "Correct. The combination of severe asthma, chronic rhinosinusitis with nasal polyps, elevated eosinophils, and severe bronchospasm following aspirin ingestion is pathognomonic for Aspirin-exacerbated respiratory disease (AERD).",
+      "D": "Incorrect. There is no information in the vignette regarding the patient's body mass index or any symptoms suggestive of obesity-related asthma. The described features are classic for AERD, making this option less plausible."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_87eafa7e",
+    "question": "A 40-year-old patient with known asthma reports the following over the past month: daytime symptoms twice a week, no night awakenings, reliever medication use twice a week, and no limitation of activity. How would you classify this patient's asthma control according to GINA guidelines?",
+    "options": {
+      "A": "Well-controlled",
+      "B": "Partly controlled",
+      "C": "Uncontrolled",
+      "D": "Mild persistent asthma"
+    },
+    "correctAnswer": "A",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "According to GINA (Global Initiative for Asthma) guidelines, asthma control is assessed based on four key features over the past four weeks: daytime symptoms, night awakenings, need for reliever medication, and activity limitation. For asthma to be classified as 'well-controlled', the patient must have had daytime symptoms no more than twice a week, no night awakenings due to asthma, needed reliever medication no more than twice a week, and no activity limitation due to asthma. This patient meets all criteria for well-controlled asthma.",
+    "highYieldPearl": "Rio's Take: GINA asthma control classification is crucial for guiding treatment adjustments. Remember the 2x rule: 'Well-controlled' means <= 2 days/week for symptoms AND reliever use, and no night awakenings/activity limitation. If any of these are >2x/week, it shifts to 'partly controlled'.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct answer. The patient meets all criteria for well-controlled asthma (daytime symptoms ≤2/week, no night awakenings, reliever use ≤2/week, no activity limitation).",
+      "B": "Incorrect. Partly controlled asthma requires at least one of the following: daytime symptoms >2/week, any night awakenings, reliever use >2/week, or any activity limitation. This patient does not meet any of these criteria.",
+      "C": "Incorrect. Uncontrolled asthma is defined by three or more features of partly controlled asthma being present in any given week, or one severe exacerbation in the past month. This patient's symptoms are minimal.",
+      "D": "Incorrect. 'Mild persistent asthma' is a classification of asthma severity (often used for initial assessment prior to treatment), not asthma control. Control classification applies to patients who are already on treatment or to assess the current state regardless of treatment history."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_44e8f0f8",
+    "question": "A 28-year-old female presents with a 6-month history of intermittent cough, wheezing, and shortness of breath, worse at night and with exercise. Her baseline spirometry shows FEV1 75% predicted, FVC 85% predicted, and FEV1/FVC ratio 0.68. After administration of a short-acting bronchodilator, her FEV1 increased by 14% from baseline and 280 mL. What is the significance of the post-bronchodilator spirometry finding in this patient?",
+    "options": {
+      "A": "It confirms significant bronchodilator reversibility, supporting an asthma diagnosis.",
+      "B": "It suggests an inadequate bronchodilator response, making asthma less likely.",
+      "C": "It indicates fixed airflow obstruction, requiring further investigation for COPD.",
+      "D": "It represents a normal bronchodilator response, not specific to asthma."
+    },
+    "correctAnswer": "A",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "The current standard for significant bronchodilator reversibility, indicative of asthma, is an increase in FEV1 of >12% *and* >200 mL from baseline after administration of a short-acting bronchodilator. In this patient, the FEV1 increased by 14% and 280 mL, meeting both criteria. This finding strongly supports a diagnosis of asthma, especially in the context of her clinical symptoms (intermittent cough, wheezing, nocturnal and exercise-induced symptoms).",
+    "highYieldPearl": "Rio's Take: Remember the dual criteria for significant bronchodilator reversibility in adults: FEV1 increase >12% AND >200mL. Both must be met. This is a cornerstone for asthma diagnosis via spirometry.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct answer. The patient's FEV1 increased by 14% (which is >12%) and 280 mL (which is >200 mL), fulfilling the criteria for significant bronchodilator reversibility, a key diagnostic feature of asthma.",
+      "B": "Incorrect. An increase of 14% and 280 mL is a significant, not inadequate, response to a bronchodilator.",
+      "C": "Incorrect. While the baseline FEV1/FVC ratio of 0.68 indicates airflow obstruction, the significant reversibility makes asthma a strong possibility rather than fixed obstruction typically seen in COPD, especially in a younger patient without significant smoking history. Further, the reversibility makes 'fixed' less likely.",
+      "D": "Incorrect. This is a specific and significant response that strongly points towards variable airflow obstruction, characteristic of asthma, rather than a non-specific normal response."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_exercise_testing_21cfd9a6",
+    "question": "A 19-year-old college student presents with a history of wheezing and shortness of breath occurring three to four times a week. He uses his short-acting beta-agonist (SABA) approximately three times a week for symptom relief. He has had no night awakenings or hospitalizations related to his respiratory symptoms in the past year, and his daily activities are mildly limited on symptomatic days. He is not currently on any regular asthma controller medication. Based on these findings, how would you initially classify his asthma severity (prior to starting controller therapy)?",
+    "options": {
+      "A": "Intermittent asthma",
+      "B": "Mild persistent asthma",
+      "C": "Moderate persistent asthma",
+      "D": "Severe persistent asthma"
+    },
+    "correctAnswer": "B",
+    "topic": "Asthma - Diagnosis and Classification",
+    "deepDiveExplanation": "Initial asthma severity classification for untreated patients is based on symptom frequency, night awakenings, SABA use, and impact on activity. \n*   **Intermittent asthma:** Symptoms ≤ 2 days/week, SABA use ≤ 2 days/week, no night awakenings, FEV1 > 80% predicted, FEV1/FVC normal.\n*   **Mild persistent asthma:** Symptoms > 2 days/week but not daily, SABA use > 2 days/week but not daily, 3-4 night awakenings/month, minor activity limitation, FEV1 > 80% predicted, FEV1/FVC normal.\n*   **Moderate persistent asthma:** Daily symptoms, daily SABA use, >1 night awakening/week, some activity limitation, FEV1 60-80% predicted, FEV1/FVC reduced by 5%.\n*   **Severe persistent asthma:** Continuous symptoms, frequent night awakenings, severe activity limitation, FEV1 < 60% predicted, FEV1/FVC reduced by >5%.\n\nThis patient's symptoms (3-4 times a week) and SABA use (3 times a week) exceed the criteria for intermittent asthma but fit well within the definition of mild persistent asthma.",
+    "highYieldPearl": "Rio's Take: Distinguish initial asthma severity (before treatment) from asthma control (after treatment). For initial severity, 'Mild Persistent' is often the sweet spot for questions, characterized by symptoms/SABA use >2 days/week but not daily. Always consider the patient's current medication status.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. Intermittent asthma is characterized by symptoms occurring ≤ 2 days/week and SABA use ≤ 2 days/week. This patient's symptoms and SABA use frequency exceed these criteria.",
+      "B": "Correct answer. The patient's symptoms (3-4 times a week) and SABA use (3 times a week) are consistent with the definition of mild persistent asthma, which involves symptoms >2 days/week but not daily, and SABA use >2 days/week but not daily.",
+      "C": "Incorrect. Moderate persistent asthma typically involves daily symptoms and daily SABA use, or more frequent night awakenings. This patient does not meet these more severe criteria.",
+      "D": "Incorrect. Severe persistent asthma involves continuous symptoms, frequent night awakenings (often 7 times/week), and severe limitation of physical activity, none of which are present in this patient's history."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_10_OCR",
+      "chapter": "PART 3 – Clinical Respiratory Medicine",
+      "section": "1154 PART 3 ⚫ **Clinical Respiratory Medicine**",
+      "pageNumber": 78
+    },
+    "bookId": "MurrayNadel_Section_10_OCR",
+    "chunkId": "MurrayNadel_Section_10_OCR_chunk_223",
+    "generatedAt": 1767060988518,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "The primary physiological parameter assessed by the Six-Minute Walk Test (6MWT) is?",
+    "options": {
+      "A": "Peak oxygen uptake (VO2peak)",
+      "B": "Ventilatory threshold",
+      "C": "Functional exercise capacity",
+      "D": "Anaerobic threshold"
+    },
+    "correctAnswer": "C",
+    "topic": "exercise_testing",
+    "deepDiveExplanation": "The 6MWT is a submaximal exercise test primarily used to assess functional exercise capacity and endurance. It measures the distance an individual can walk in 6 minutes and is widely used for prognosis, disease severity assessment, and response to therapy in cardiopulmonary diseases. It does not directly measure peak oxygen uptake or other detailed physiological parameters typically assessed by Cardiopulmonary Exercise Testing (CPET).",
+    "highYieldPearl": "6MWT quantifies functional capacity and endurance, not peak cardiorespiratory fitness. It's a practical, field-based test.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Distinguishes 6MWT from maximal exercise tests like CPET. Options A, B, and D are parameters typically derived from CPET, which can be confusing if the fundamental purpose of 6MWT is not clear.",
+    "isOneLiner": true,
+    "id": "one_liner_exercise_testing_g2wccwux"
+  },
+  {
+    "question": "Which is considered the gold standard for objective assessment of exercise limitation?",
+    "options": {
+      "A": "Six-Minute Walk Test (6MWT)",
+      "B": "Cardiopulmonary Exercise Testing (CPET)",
+      "C": "Incremental Shuttle Walk Test (ISWT)",
+      "D": "Stair Climb Test"
+    },
+    "correctAnswer": "B",
+    "topic": "exercise_testing",
+    "deepDiveExplanation": "Cardiopulmonary Exercise Testing (CPET) is the gold standard for objective assessment of exercise limitation because it provides a comprehensive, integrated evaluation of the cardiovascular, pulmonary, and metabolic systems' responses to exercise. It allows for precise determination of peak oxygen uptake (VO2peak) and identification of the physiological mechanisms underlying exercise intolerance.",
+    "highYieldPearl": "CPET offers the most comprehensive and objective analysis of exercise intolerance, pinpointing the primary limiting system (cardiac, pulmonary, or deconditioning).",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Other options are field exercise tests, but they lack the detailed physiological measurements and diagnostic capabilities of CPET, which is crucial for identifying the cause of limitation.",
+    "isOneLiner": true,
+    "id": "one_liner_exercise_testing_nnafkqd8"
+  },
+  {
+    "question": "An elevated ventilatory equivalent for carbon dioxide (VE/VCO2) nadir during CPET primarily suggests?",
+    "options": {
+      "A": "Cardiac limitation",
+      "B": "Impaired ventilatory efficiency",
+      "C": "Peripheral muscle deconditioning",
+      "D": "Anemia"
+    },
+    "correctAnswer": "B",
+    "topic": "exercise_testing",
+    "deepDiveExplanation": "An elevated VE/VCO2 nadir (or slope) indicates that a greater amount of ventilation is required to eliminate a given amount of carbon dioxide. This signifies impaired ventilatory efficiency, often due to increased dead space ventilation (e.g., in pulmonary vascular disease), ventilation-perfusion (V/Q) mismatch, or restrictive lung disease. It reflects the physiological cost of breathing during exercise.",
+    "highYieldPearl": "High VE/VCO2 points to inefficient gas exchange, commonly seen in pulmonary hypertension, ILD, or severe COPD.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "While cardiac limitation, deconditioning, and anemia can all cause exercise intolerance, an elevated VE/VCO2 is a specific marker for ventilatory inefficiency, distinguishing it from other causes. It requires understanding specific CPET parameters.",
+    "isOneLiner": true,
+    "id": "one_liner_exercise_testing_61xcxrwq"
+  },
+  {
+    "question": "The most robust CPET parameter correlating with mortality in advanced lung disease is?",
+    "options": {
+      "A": "Peak heart rate",
+      "B": "Peak oxygen uptake (VO2peak)",
+      "C": "Respiratory exchange ratio (RER)",
+      "D": "Oxygen pulse"
+    },
+    "correctAnswer": "B",
+    "topic": "exercise_testing",
+    "deepDiveExplanation": "Peak oxygen uptake (VO2peak) is consistently identified as the strongest independent predictor of mortality and morbidity across a wide range of chronic cardiopulmonary diseases, including COPD, interstitial lung disease, and pulmonary hypertension. It reflects the overall functional capacity of the cardiovascular and pulmonary systems to deliver oxygen to working muscles.",
+    "highYieldPearl": "VO2peak is a powerful prognostic marker in chronic respiratory diseases; lower values predict higher mortality.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "All options are CPET parameters. RER indicates maximal effort, not directly prognosis. Peak heart rate and oxygen pulse provide insights into cardiac function and oxygen extraction but are not as universally robust as VO2peak for overall mortality prediction in lung disease.",
+    "isOneLiner": true,
+    "id": "one_liner_exercise_testing_qt6kol33"
+  },
+  {
+    "question": "An absolute contraindication for performing a Six-Minute Walk Test is?",
+    "options": {
+      "A": "Resting oxygen saturation <90%",
+      "B": "Exercise-induced bronchospasm",
+      "C": "Unstable angina within the last month",
+      "D": "Mild exertional dyspnea"
+    },
+    "correctAnswer": "C",
+    "topic": "exercise_testing",
+    "deepDiveExplanation": "Absolute contraindications for the 6MWT are primarily acute cardiac events that pose a significant risk with exertion. These include unstable angina or myocardial infarction within the preceding month. Other conditions like resting hypoxemia (A) or exercise-induced bronchospasm (B) are often reasons to perform the test (to assess desaturation or symptoms) and can be managed, but are not absolute contraindications to the test itself.",
+    "highYieldPearl": "Acute cardiac instability (unstable angina, recent MI) are critical absolute contraindications for 6MWT due to safety concerns.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Options A, B, and D are either relative contraindications or conditions for which the 6MWT is performed to assess functional impact. The key is distinguishing absolute life-threatening risks from manageable conditions.",
+    "isOneLiner": true,
+    "id": "one_liner_exercise_testing_tyd5j01g"
+  },
+  {
+    "question": "The primary physiological parameter assessed by the Six-Minute Walk Test (6MWT) is?",
+    "options": {
+      "A": "Peak oxygen uptake (VO2peak)",
+      "B": "Ventilatory threshold",
+      "C": "Functional exercise capacity",
+      "D": "Anaerobic threshold"
+    },
+    "correctAnswer": "C",
+    "topic": "exercise_testing",
+    "deepDiveExplanation": "The 6MWT is a submaximal exercise test primarily used to assess functional exercise capacity and endurance. It measures the distance an individual can walk in 6 minutes and is widely used for prognosis, disease severity assessment, and response to therapy in cardiopulmonary diseases. It does not directly measure peak oxygen uptake or other detailed physiological parameters typically assessed by Cardiopulmonary Exercise Testing (CPET).",
+    "highYieldPearl": "6MWT quantifies functional capacity and endurance, not peak cardiorespiratory fitness. It's a practical, field-based test.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Distinguishes 6MWT from maximal exercise tests like CPET. Options A, B, and D are parameters typically derived from CPET, which can be confusing if the fundamental purpose of 6MWT is not clear.",
+    "isOneLiner": true,
+    "id": "one_liner_exercise_testing_yd6vzw4z"
+  },
+  {
+    "question": "Which is considered the gold standard for objective assessment of exercise limitation?",
+    "options": {
+      "A": "Six-Minute Walk Test (6MWT)",
+      "B": "Cardiopulmonary Exercise Testing (CPET)",
+      "C": "Incremental Shuttle Walk Test (ISWT)",
+      "D": "Stair Climb Test"
+    },
+    "correctAnswer": "B",
+    "topic": "exercise_testing",
+    "deepDiveExplanation": "Cardiopulmonary Exercise Testing (CPET) is the gold standard for objective assessment of exercise limitation because it provides a comprehensive, integrated evaluation of the cardiovascular, pulmonary, and metabolic systems' responses to exercise. It allows for precise determination of peak oxygen uptake (VO2peak) and identification of the physiological mechanisms underlying exercise intolerance.",
+    "highYieldPearl": "CPET offers the most comprehensive and objective analysis of exercise intolerance, pinpointing the primary limiting system (cardiac, pulmonary, or deconditioning).",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Other options are field exercise tests, but they lack the detailed physiological measurements and diagnostic capabilities of CPET, which is crucial for identifying the cause of limitation.",
+    "isOneLiner": true,
+    "id": "one_liner_exercise_testing_76zhaekk"
+  },
+  {
+    "question": "An elevated ventilatory equivalent for carbon dioxide (VE/VCO2) nadir during CPET primarily suggests?",
+    "options": {
+      "A": "Cardiac limitation",
+      "B": "Impaired ventilatory efficiency",
+      "C": "Peripheral muscle deconditioning",
+      "D": "Anemia"
+    },
+    "correctAnswer": "B",
+    "topic": "exercise_testing",
+    "deepDiveExplanation": "An elevated VE/VCO2 nadir (or slope) indicates that a greater amount of ventilation is required to eliminate a given amount of carbon dioxide. This signifies impaired ventilatory efficiency, often due to increased dead space ventilation (e.g., in pulmonary vascular disease), ventilation-perfusion (V/Q) mismatch, or restrictive lung disease. It reflects the physiological cost of breathing during exercise.",
+    "highYieldPearl": "High VE/VCO2 points to inefficient gas exchange, commonly seen in pulmonary hypertension, ILD, or severe COPD.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "While cardiac limitation, deconditioning, and anemia can all cause exercise intolerance, an elevated VE/VCO2 is a specific marker for ventilatory inefficiency, distinguishing it from other causes. It requires understanding specific CPET parameters.",
+    "isOneLiner": true,
+    "id": "one_liner_exercise_testing_7elx3lzl"
+  },
+  {
+    "question": "The most robust CPET parameter correlating with mortality in advanced lung disease is?",
+    "options": {
+      "A": "Peak heart rate",
+      "B": "Peak oxygen uptake (VO2peak)",
+      "C": "Respiratory exchange ratio (RER)",
+      "D": "Oxygen pulse"
+    },
+    "correctAnswer": "B",
+    "topic": "exercise_testing",
+    "deepDiveExplanation": "Peak oxygen uptake (VO2peak) is consistently identified as the strongest independent predictor of mortality and morbidity across a wide range of chronic cardiopulmonary diseases, including COPD, interstitial lung disease, and pulmonary hypertension. It reflects the overall functional capacity of the cardiovascular and pulmonary systems to deliver oxygen to working muscles.",
+    "highYieldPearl": "VO2peak is a powerful prognostic marker in chronic respiratory diseases; lower values predict higher mortality.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "All options are CPET parameters. RER indicates maximal effort, not directly prognosis. Peak heart rate and oxygen pulse provide insights into cardiac function and oxygen extraction but are not as universally robust as VO2peak for overall mortality prediction in lung disease.",
+    "isOneLiner": true,
+    "id": "one_liner_exercise_testing_z56ncs9c"
+  },
+  {
+    "question": "An absolute contraindication for performing a Six-Minute Walk Test is?",
+    "options": {
+      "A": "Resting oxygen saturation <90%",
+      "B": "Exercise-induced bronchospasm",
+      "C": "Unstable angina within the last month",
+      "D": "Mild exertional dyspnea"
+    },
+    "correctAnswer": "C",
+    "topic": "exercise_testing",
+    "deepDiveExplanation": "Absolute contraindications for the 6MWT are primarily acute cardiac events that pose a significant risk with exertion. These include unstable angina or myocardial infarction within the preceding month. Other conditions like resting hypoxemia (A) or exercise-induced bronchospasm (B) are often reasons to perform the test (to assess desaturation or symptoms) and can be managed, but are not absolute contraindications to the test itself.",
+    "highYieldPearl": "Acute cardiac instability (unstable angina, recent MI) are critical absolute contraindications for 6MWT due to safety concerns.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Options A, B, and D are either relative contraindications or conditions for which the 6MWT is performed to assess functional impact. The key is distinguishing absolute life-threatening risks from manageable conditions.",
+    "isOneLiner": true,
+    "id": "one_liner_exercise_testing_lpgsykhn"
+  }
+]

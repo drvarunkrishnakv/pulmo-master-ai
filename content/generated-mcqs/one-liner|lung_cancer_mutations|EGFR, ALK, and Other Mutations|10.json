@@ -1,0 +1,182 @@
+[
+  {
+    "question": "First-line treatment for advanced NSCLC with common activating EGFR mutations (Exon 19 deletion/L858R) is a/an?",
+    "options": {
+      "A": "Immunotherapy",
+      "B": "Platinum-based chemotherapy",
+      "C": "EGFR TKI",
+      "D": "ALK inhibitor"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "Activating EGFR mutations, primarily exon 19 deletions and L858R point mutations in exon 21, define a distinct subset of NSCLC that is highly sensitive to EGFR Tyrosine Kinase Inhibitors (TKIs). First-generation (e.g., gefitinib, erlotinib), second-generation (e.g., afatinib, dacomitinib), and third-generation (osimertinib) EGFR TKIs are standard first-line therapies, with osimertinib currently preferred due to superior efficacy and CNS penetration.",
+    "highYieldPearl": "Osimertinib is now the preferred first-line EGFR TKI for common EGFR mutations due to improved progression-free and overall survival, and better CNS activity.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Candidates might be tempted by immunotherapy, but for oncogene-driven NSCLC, targeted therapy is superior to immunotherapy or chemotherapy as first-line. ALK inhibitors are for ALK rearrangements, not EGFR mutations.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_cancer_mutations|EGFR, ALK, and Other Mutations|10_mnsbsnin"
+  },
+  {
+    "question": "The most common acquired resistance mechanism to first-generation EGFR TKIs is a mutation in which exon?",
+    "options": {
+      "A": "Exon 18",
+      "B": "Exon 19",
+      "C": "Exon 20",
+      "D": "Exon 21"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "The EGFR T790M mutation, located in exon 20, is the most common acquired resistance mechanism (approximately 50-60% of cases) to first- and second-generation EGFR TKIs. This 'gatekeeper' mutation increases ATP affinity, reducing the effectiveness of these inhibitors. Third-generation EGFR TKIs like osimertinib were specifically designed to overcome T790M.",
+    "highYieldPearl": "T790M is located in EGFR exon 20 and is the primary target for third-generation EGFR TKIs after acquired resistance.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While exons 19 and 21 harbor common activating mutations, exon 20 contains the crucial T790M resistance mutation. Misidentifying the exon for resistance vs. activation is a common pitfall.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_cancer_mutations|EGFR, ALK, and Other Mutations|10_x477pi71"
+  },
+  {
+    "question": "The gold standard for detecting ALK gene rearrangements in NSCLC is?",
+    "options": {
+      "A": "Immunohistochemistry (IHC)",
+      "B": "Fluorescence In Situ Hybridization (FISH)",
+      "C": "Polymerase Chain Reaction (PCR)",
+      "D": "Next-Generation Sequencing (NGS)"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "While NGS is increasingly used for comprehensive genomic profiling and IHC is a sensitive screening tool, FISH for ALK break-apart probes has historically been considered the gold standard for definitive ALK rearrangement detection in NSCLC, validated in clinical trials leading to ALK inhibitor approvals. NGS can detect a broader range of fusion partners and is becoming the preferred method in many centers.",
+    "highYieldPearl": "FISH is the historical gold standard for ALK; NGS is the modern comprehensive approach.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "IHC is a good screening test, and NGS is comprehensive, but FISH remains the 'gold standard' often cited for ALK in exams, especially when a single best answer is required based on historical validation.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_cancer_mutations|EGFR, ALK, and Other Mutations|10_xt13pp0n"
+  },
+  {
+    "question": "Osimertinib is a third-generation EGFR TKI primarily targeting which EGFR mutation?",
+    "options": {
+      "A": "Exon 19 deletion",
+      "B": "L858R",
+      "C": "T790M",
+      "D": "Exon 20 insertion"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "Osimertinib is highly effective against the EGFR T790M resistance mutation, which commonly emerges after treatment with first- or second-generation EGFR TKIs. It also effectively targets the common activating mutations (Exon 19 deletion and L858R) and is now approved as a first-line therapy for these as well.",
+    "highYieldPearl": "Osimertinib's unique strength lies in overcoming T790M resistance, in addition to its efficacy against common activating mutations.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While Osimertinib also targets Exon 19 deletion and L858R, its *primary* and distinguishing target for its development and approval in the second-line setting was T790M.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_cancer_mutations|EGFR, ALK, and Other Mutations|10_k55z40fw"
+  },
+  {
+    "question": "Crizotinib is approved for NSCLC harboring rearrangements in ALK and which other gene?",
+    "options": {
+      "A": "EGFR",
+      "B": "KRAS",
+      "C": "ROS1",
+      "D": "BRAF"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "Crizotinib, a first-generation ALK inhibitor, is also active against ROS1 rearrangements. ROS1-rearranged NSCLC shares clinical and pathological features with ALK-rearranged NSCLC and responds well to ALK/ROS1 TKIs.",
+    "highYieldPearl": "Crizotinib is a dual ALK/ROS1 inhibitor.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While ALK is well-known for crizotinib, remembering its activity against ROS1 is key. The other options are distinct oncogenic drivers with different targeted therapies.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_cancer_mutations|EGFR, ALK, and Other Mutations|10_hb1oxft1"
+  },
+  {
+    "question": "Treatment for BRAF V600E mutated NSCLC typically involves combination therapy with a BRAF inhibitor and a/an?",
+    "options": {
+      "A": "ALK inhibitor",
+      "B": "MEK inhibitor",
+      "C": "EGFR TKI",
+      "D": "PD-1 inhibitor"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "BRAF V600E mutations activate the MAPK pathway. While BRAF inhibitors (e.g., dabrafenib) are effective, combining them with MEK inhibitors (e.g., trametinib) provides synergistic inhibition, reduces resistance, and improves outcomes in BRAF V600E-mutated NSCLC, similar to melanoma.",
+    "highYieldPearl": "BRAF V600E treatment in NSCLC mimics melanoma: BRAF inhibitor + MEK inhibitor combination.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Knowing that BRAF mutations are part of the MAPK pathway helps identify MEK as the logical co-target. The other options are for different molecular targets.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_cancer_mutations|EGFR, ALK, and Other Mutations|10_ow4rr8b9"
+  },
+  {
+    "question": "Which molecular testing method is most sensitive for detecting MET exon 14 skipping mutations?",
+    "options": {
+      "A": "FISH",
+      "B": "Immunohistochemistry (IHC)",
+      "C": "RNA-based sequencing",
+      "D": "DNA-based sequencing"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "MET exon 14 skipping mutations are splice site mutations that lead to the skipping of exon 14 during mRNA transcription. Since these are RNA-level events affecting splicing, RNA-based sequencing (e.g., RNA-seq) is superior to DNA-based sequencing for their detection, as DNA sequencing might miss the functional consequence of the splice site alteration.",
+    "highYieldPearl": "For splice variants like MET exon 14 skipping, RNA-based sequencing offers higher sensitivity.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "While DNA-based NGS is common, understanding the nature of a splice mutation (affecting RNA processing) points to RNA-based methods as more sensitive. FISH and IHC are not appropriate for this type of mutation.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_cancer_mutations|EGFR, ALK, and Other Mutations|10_92eat8nl"
+  },
+  {
+    "question": "Sotorasib is a targeted therapy specifically approved for NSCLC patients with which mutation?",
+    "options": {
+      "A": "EGFR L858R",
+      "B": "ALK fusion",
+      "C": "KRAS G12C",
+      "D": "RET fusion"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "KRAS G12C is a specific subtype of KRAS mutation, historically considered 'undruggable.' Sotorasib (and adagrasib) are the first direct KRAS G12C inhibitors approved, marking a significant breakthrough in targeted therapy for NSCLC.",
+    "highYieldPearl": "Sotorasib is a landmark drug, the first approved direct KRAS G12C inhibitor.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "KRAS has long been a challenging target. Sotorasib's approval for the G12C subtype is a recent, high-yield development. Confusing it with other common targets is the main trap.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_cancer_mutations|EGFR, ALK, and Other Mutations|10_24dnuey4"
+  },
+  {
+    "question": "Amivantamab is a bispecific antibody targeting EGFR and MET for NSCLC with which specific EGFR mutation?",
+    "options": {
+      "A": "L858R",
+      "B": "Exon 19 deletion",
+      "C": "T790M",
+      "D": "Exon 20 insertion"
+    },
+    "correctAnswer": "D",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "EGFR exon 20 insertion mutations are distinct from common EGFR mutations (Exon 19 deletion, L858R) and are generally resistant to first- and second-generation EGFR TKIs. Amivantamab is a bispecific antibody designed to target both EGFR and MET, offering a specific treatment option for this challenging mutation.",
+    "highYieldPearl": "Amivantamab is a key targeted therapy for the previously hard-to-treat EGFR Exon 20 insertion mutations.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "EGFR exon 20 insertions are often confused with the T790M resistance mutation (also in exon 20) or the common activating mutations. Knowing the specific drug for this distinct mutation is crucial.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_cancer_mutations|EGFR, ALK, and Other Mutations|10_swf6il0p"
+  },
+  {
+    "question": "Selpercatinib is a highly selective inhibitor approved for NSCLC with fusions involving which gene?",
+    "options": {
+      "A": "BRAF",
+      "B": "ROS1",
+      "C": "RET",
+      "D": "HER2"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_mutations",
+    "deepDiveExplanation": "RET rearrangements (fusions) define a small but distinct molecular subset of NSCLC. Selpercatinib is a potent and highly selective RET inhibitor specifically approved for the treatment of RET fusion-positive NSCLC, as well as medullary thyroid cancer and other RET-altered thyroid cancers.",
+    "highYieldPearl": "Selpercatinib and pralsetinib are highly selective RET inhibitors for RET fusion-positive NSCLC.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "This tests direct knowledge of specific drugs for specific fusions. Confusing RET with other fusion genes like ALK or ROS1, which have their own inhibitors, is the main trap.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_cancer_mutations|EGFR, ALK, and Other Mutations|10_ab0jfkey"
+  }
+]

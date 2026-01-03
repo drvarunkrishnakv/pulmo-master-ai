@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What is the definitive gold standard for diagnosing active pulmonary tuberculosis?",
+    "options": {
+      "A": "Sputum smear microscopy",
+      "B": "Chest X-ray",
+      "C": "Mycobacterial culture",
+      "D": "GeneXpert MTB/RIF"
+    },
+    "correctAnswer": "C",
+    "topic": "tb_diagnosis",
+    "deepDiveExplanation": "Mycobacterial culture, particularly liquid culture systems like MGIT, remains the gold standard for diagnosing active tuberculosis. It allows for definitive identification of Mycobacterium tuberculosis complex and provides isolates for comprehensive drug susceptibility testing.",
+    "highYieldPearl": "Culture is essential for confirming diagnosis and performing phenotypic drug susceptibility testing, which is crucial for guiding appropriate treatment regimens, especially in drug-resistant cases.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "GeneXpert MTB/RIF is a rapid molecular test but does not replace culture for definitive diagnosis and comprehensive drug susceptibility testing. Smear microscopy has low sensitivity, and chest X-ray is suggestive but not diagnostic.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|tb_diagnosis|Pulmonary Tuberculosis - Diagnosis|10_ozkladjm"
+  },
+  {
+    "question": "Which rapid molecular test simultaneously detects Mycobacterium tuberculosis and rifampicin resistance?",
+    "options": {
+      "A": "Line Probe Assay",
+      "B": "Truenat MTB",
+      "C": "GeneXpert MTB/RIF",
+      "D": "Loop-mediated isothermal amplification (LAMP)"
+    },
+    "correctAnswer": "C",
+    "topic": "tb_diagnosis",
+    "deepDiveExplanation": "GeneXpert MTB/RIF is a fully automated, real-time PCR-based assay endorsed by WHO. It detects M. tuberculosis DNA and mutations associated with rifampicin resistance (primarily in the rpoB gene) directly from sputum samples, providing results within two hours.",
+    "highYieldPearl": "GeneXpert is a critical tool for rapid diagnosis of TB and early detection of rifampicin resistance, which is a surrogate marker for multidrug-resistant TB (MDR-TB).",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Truenat MTB also detects MTB and rifampicin resistance but is a different platform. Line Probe Assay (LPA) requires a positive smear or culture and detects resistance to multiple drugs. LAMP is a different molecular amplification method.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|tb_diagnosis|Pulmonary Tuberculosis - Diagnosis|10_zmue7rwh"
+  },
+  {
+    "question": "Which diagnostic test for latent tuberculosis infection is least affected by prior BCG vaccination?",
+    "options": {
+      "A": "Tuberculin Skin Test (TST)",
+      "B": "QuantiFERON-TB Gold Plus",
+      "C": "Mantoux test",
+      "D": "Chest X-ray"
+    },
+    "correctAnswer": "B",
+    "topic": "tb_diagnosis",
+    "deepDiveExplanation": "Interferon-gamma release assays (IGRAs), such as QuantiFERON-TB Gold Plus, measure the T-cell immune response to M. tuberculosis-specific antigens (ESAT-6, CFP-10, TB7.7). These antigens are absent from the BCG vaccine strain and most non-tuberculous mycobacteria, making IGRAs less prone to false-positive results in BCG-vaccinated individuals compared to TST.",
+    "highYieldPearl": "IGRAs are the preferred method for diagnosing latent TB infection in populations with prior BCG vaccination or those who may have been exposed to non-tuberculous mycobacteria.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The Tuberculin Skin Test (TST), also known as the Mantoux test, uses PPD, which contains antigens shared with BCG and NTM, leading to cross-reactivity and false positives in vaccinated individuals. Chest X-ray is not a direct diagnostic test for LTBI.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|tb_diagnosis|Pulmonary Tuberculosis - Diagnosis|10_be2d103q"
+  },
+  {
+    "question": "The main limitation of sputum smear microscopy for pulmonary TB diagnosis is its low:",
+    "options": {
+      "A": "Specificity",
+      "B": "Sensitivity",
+      "C": "Reproducibility",
+      "D": "Cost-effectiveness"
+    },
+    "correctAnswer": "B",
+    "topic": "tb_diagnosis",
+    "deepDiveExplanation": "Sputum smear microscopy for acid-fast bacilli (AFB) has a low sensitivity, typically ranging from 20-60%, because it requires a high bacterial load (approximately 5,000-10,000 bacilli/mL of sputum) to be positive. This makes it less effective for diagnosing paucibacillary disease, extrapulmonary TB, or TB in immunocompromised patients.",
+    "highYieldPearl": "A negative sputum smear does not rule out active pulmonary tuberculosis, necessitating further diagnostic tests like culture or molecular assays.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Specificity is generally high in endemic areas (though NTM can cause false positives). Reproducibility is good with proper training. Cost-effectiveness is a strength, not a limitation.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|tb_diagnosis|Pulmonary Tuberculosis - Diagnosis|10_qda006f3"
+  },
+  {
+    "question": "Elevated adenosine deaminase (ADA) levels are a useful diagnostic marker for tuberculosis in which body fluid?",
+    "options": {
+      "A": "Sputum",
+      "B": "Urine",
+      "C": "Pleural fluid",
+      "D": "Blood serum"
+    },
+    "correctAnswer": "C",
+    "topic": "tb_diagnosis",
+    "deepDiveExplanation": "Adenosine deaminase (ADA) is an enzyme involved in purine metabolism, and its levels are elevated in conditions with high cellular turnover, particularly T-lymphocyte activity. In pleural fluid, an ADA level above a specific cutoff (typically 30-40 U/L, varying by region) is highly sensitive and specific for tuberculous pleurisy.",
+    "highYieldPearl": "Pleural fluid ADA is a rapid, inexpensive, and highly valuable test for the diagnosis of tuberculous pleurisy, especially in resource-limited settings.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While serum ADA can be elevated in disseminated TB, its diagnostic utility is lower due to poor specificity. Sputum and urine are not typically used for ADA testing in TB diagnosis.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|tb_diagnosis|Pulmonary Tuberculosis - Diagnosis|10_1oe9gis2"
+  },
+  {
+    "question": "Which imaging modality provides the most detailed anatomical information for diagnosing subtle pulmonary tuberculosis lesions?",
+    "options": {
+      "A": "Standard Chest X-ray",
+      "B": "Fluoroscopy",
+      "C": "High-resolution CT scan of the chest",
+      "D": "Ultrasound"
+    },
+    "correctAnswer": "C",
+    "topic": "tb_diagnosis",
+    "deepDiveExplanation": "High-resolution computed tomography (HRCT) of the chest offers superior spatial resolution compared to plain chest radiography. It can detect subtle parenchymal changes such as centrilobular nodules, 'tree-in-bud' opacities, small cavitations, and bronchiectasis, which are often missed on conventional X-rays, aiding in the diagnosis of early or atypical pulmonary TB.",
+    "highYieldPearl": "HRCT is particularly useful in evaluating complex TB cases, suspected multi-drug resistant TB, or when differentiating TB from other lung pathologies.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Chest X-ray is the initial screening tool but lacks the sensitivity for subtle lesions. Fluoroscopy and ultrasound have limited roles in detailed pulmonary parenchymal evaluation.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|tb_diagnosis|Pulmonary Tuberculosis - Diagnosis|10_nwh705wy"
+  },
+  {
+    "question": "Which molecular test can rapidly detect resistance to both rifampicin and isoniazid from a clinical specimen?",
+    "options": {
+      "A": "GeneXpert MTB/RIF",
+      "B": "Truenat MTB Plus",
+      "C": "Line Probe Assay (LPA)",
+      "D": "MGIT culture"
+    },
+    "correctAnswer": "C",
+    "topic": "tb_diagnosis",
+    "deepDiveExplanation": "First-line Line Probe Assays (e.g., GenoType MTBDRplus) are molecular tests that detect specific mutations in the *rpoB* gene (for rifampicin resistance) and the *katG* and *inhA* genes (for isoniazid resistance). They can be performed directly on smear-positive sputum samples or mycobacterial cultures, providing results within 1-2 days.",
+    "highYieldPearl": "LPAs are crucial for rapid identification of multidrug-resistant TB (MDR-TB), which is defined by resistance to at least rifampicin and isoniazid, allowing for prompt initiation of appropriate treatment.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "GeneXpert MTB/RIF primarily detects rifampicin resistance. Truenat MTB Plus can detect RIF resistance. MGIT is a liquid culture system for growth and phenotypic DST, not a rapid molecular test for direct resistance detection.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|tb_diagnosis|Pulmonary Tuberculosis - Diagnosis|10_ql543tbq"
+  },
+  {
+    "question": "For paucibacillary tuberculosis, which diagnostic method offers the highest sensitivity?",
+    "options": {
+      "A": "AFB smear microscopy",
+      "B": "Liquid culture",
+      "C": "Chest X-ray",
+      "D": "Tuberculin skin test"
+    },
+    "correctAnswer": "B",
+    "topic": "tb_diagnosis",
+    "deepDiveExplanation": "Liquid culture systems (e.g., MGIT, BACTEC) are significantly more sensitive than solid media cultures and smear microscopy for detecting Mycobacterium tuberculosis. They can detect very low bacterial loads (10-100 bacilli/mL), making them superior for diagnosing paucibacillary forms of TB, such as extrapulmonary TB or in immunocompromised patients where bacterial burden is often low.",
+    "highYieldPearl": "Always prioritize mycobacterial culture, especially liquid culture, when paucibacillary TB is suspected, even if smear microscopy results are negative.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "AFB smear microscopy has poor sensitivity for paucibacillary disease. Chest X-ray is an imaging tool, not a definitive diagnostic method. Tuberculin skin test detects latent infection, not active disease.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|tb_diagnosis|Pulmonary Tuberculosis - Diagnosis|10_tdbp2pci"
+  },
+  {
+    "question": "The hallmark histological finding suggestive of tuberculosis in tissue biopsy is the presence of:",
+    "options": {
+      "A": "Neutrophilic abscesses",
+      "B": "Granulomas with caseous necrosis",
+      "C": "Lymphoid hyperplasia",
+      "D": "Fibrotic scars"
+    },
+    "correctAnswer": "B",
+    "topic": "tb_diagnosis",
+    "deepDiveExplanation": "The characteristic histopathological feature of tuberculosis is the formation of granulomas, which are organized collections of epithelioid macrophages, often surrounded by lymphocytes and fibroblasts. A key distinguishing feature, though not universally present, is central caseous necrosis, a 'cheese-like' amorphous material resulting from cellular destruction.",
+    "highYieldPearl": "Histopathological examination of tissue biopsies (e.g., lymph node, pleura, lung) is often crucial for diagnosing extrapulmonary tuberculosis and can guide further investigations like AFB staining or molecular tests on the tissue.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Neutrophilic abscesses are typical of acute bacterial infections. Lymphoid hyperplasia is a non-specific reaction. Fibrotic scars represent healing or chronic changes.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|tb_diagnosis|Pulmonary Tuberculosis - Diagnosis|10_lb9947iu"
+  },
+  {
+    "question": "Which WHO-endorsed molecular point-of-care test for TB diagnosis is designed for use in peripheral health facilities?",
+    "options": {
+      "A": "Line Probe Assay",
+      "B": "Xpert Ultra",
+      "C": "Truenat",
+      "D": "MGIT culture"
+    },
+    "correctAnswer": "C",
+    "topic": "tb_diagnosis",
+    "deepDiveExplanation": "Truenat is a WHO-endorsed, chip-based, real-time micro PCR test system that detects Mycobacterium tuberculosis and rifampicin resistance. Its compact, portable, and battery-operated design makes it suitable for use in peripheral health facilities with minimal infrastructure, facilitating decentralized TB diagnosis.",
+    "highYieldPearl": "Truenat's portability and ease of use are key advantages for expanding rapid molecular diagnostics to underserved areas, improving access to early TB diagnosis and drug resistance detection.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "While Xpert Ultra is also WHO-endorsed and can be used at point-of-care, Truenat was specifically developed and highlighted for its adaptability to more basic, peripheral settings. LPA and MGIT require more sophisticated laboratory infrastructure.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|tb_diagnosis|Pulmonary Tuberculosis - Diagnosis|10_9xw2xvqc"
+  }
+]

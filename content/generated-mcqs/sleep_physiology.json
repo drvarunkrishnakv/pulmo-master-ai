@@ -1,0 +1,896 @@
+[
+  {
+    "id": "rag_sleep_physiology_9ea1eef4",
+    "question": "A 45-year-old male presents with persistent cough, fever, and weight loss for 3 months. Sputum microscopy is positive for Acid-Fast Bacilli (AFB). Subsequent drug susceptibility testing (DST) reveals resistance to two key anti-tubercular drugs. According to current definitions, which combination of drug resistances characterizes Multi-Drug Resistant Tuberculosis (MDR-TB)?",
+    "options": {
+      "A": "Isoniazid and Rifampicin",
+      "B": "Isoniazid and Ethambutol",
+      "C": "Rifampicin and Pyrazinamide",
+      "D": "Isoniazid, Rifampicin, and any Fluoroquinolone"
+    },
+    "correctAnswer": "A",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "Multi-Drug Resistant Tuberculosis (MDR-TB) is defined by resistance to at least the two most potent first-line anti-TB drugs, Isoniazid (H) and Rifampicin (R). This definition is critical for guiding appropriate treatment regimens, as standard first-line therapy containing these drugs would be ineffective. Other forms of resistance include mono-resistance (resistance to one first-line drug), poly-resistance (resistance to more than one first-line drug, but not both H and R), Pre-XDR TB (MDR-TB plus resistance to any fluoroquinolone), and XDR TB (MDR-TB plus resistance to any fluoroquinolone and at least one additional Group A drug, typically an injectable or bedaquiline/linezolid).",
+    "highYieldPearl": "Rio's Take: The core definition of MDR-TB (resistance to both Isoniazid and Rifampicin) is absolutely essential. Any scenario involving these two drugs being resistant points directly to MDR-TB, forming the basis for further resistance classifications like Pre-XDR and XDR.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct definition of MDR-TB as per global guidelines and the provided context.",
+      "B": "Resistance to Isoniazid and Ethambutol constitutes poly-resistance but not specifically MDR-TB, as it doesn't include Rifampicin.",
+      "C": "Resistance to Rifampicin and Pyrazinamide is also poly-resistance but does not fit the definition of MDR-TB which requires both Isoniazid and Rifampicin.",
+      "D": "Resistance to Isoniazid, Rifampicin, and any Fluoroquinolone defines Pre-Extensively Drug Resistant (Pre-XDR) TB, not MDR-TB. This option is a common distractor for higher levels of resistance."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Sleep physiology & Classification of sleep disorders",
+      "section": null,
+      "pageNumber": 16
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_sleep_physiology_2db027c2",
+    "question": "A 32-year-old patient diagnosed with pulmonary tuberculosis is initiated on standard Category I antitubercular treatment. After two months, the patient's symptoms persist, and sputum microscopy remains positive (2+ AFB). The physician is considering potential drug resistance. Regarding the utility of sputum smear microscopy in this scenario, which of the following statements is true?",
+    "options": {
+      "A": "Auramine O staining is superior to ZN staining for differentiating drug-resistant from drug-sensitive MTB.",
+      "B": "Automated slide reader systems can quantify drug resistance based on bacillary morphology.",
+      "C": "Microscopy can distinguish between live and dead bacilli, indicating treatment response.",
+      "D": "Sputum microscopy cannot differentiate between drug-sensitive and drug-resistant Mycobacterium tuberculosis."
+    },
+    "correctAnswer": "D",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "Sputum smear microscopy, whether using Ziehl-Neelsen (ZN) or Auramine O fluorescent staining, is a rapid and cost-effective method for detecting Acid-Fast Bacilli (AFB), indicating the presence of Mycobacterium tuberculosis. While Auramine O is more sensitive than ZN stain due to better contrast and detection of lower bacillary loads, neither method can differentiate between various species of Mycobacteria, nor can they distinguish between drug-sensitive and drug-resistant strains of M. tuberculosis. Furthermore, microscopy cannot differentiate between live and dead bacilli, making it an unreliable tool for assessing treatment efficacy in the short term regarding bacterial viability. Molecular tests or culture-based drug susceptibility testing are required to determine drug resistance.",
+    "highYieldPearl": "Rio's Take: Remember the key limitation of all forms of microscopy for TB: it can tell you 'TB is present' but *never* 'this TB is drug-resistant' or 'this TB is dead.' For drug resistance or viability, you need molecular tests or cultures.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Auramine O staining is more sensitive than ZN staining (as mentioned in the context), but it cannot differentiate between drug-resistant and drug-sensitive MTB (explicitly stated on page 32). This is a partial truth that leads to an incorrect conclusion.",
+      "B": "Automated slide reader systems improve the efficiency and consistency of reading microscopic slides, but they are still based on microscopy, which cannot determine drug resistance (page 32).",
+      "C": "Microscopy cannot differentiate between alive and dead bacilli (page 32), meaning it cannot indicate treatment response based on bacterial viability.",
+      "D": "This statement is explicitly mentioned in the context (page 32): 'Cannot distinguish between drug resistant and drug-sensitive MTB'. This is a fundamental limitation of microscopy."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Sleep physiology & Classification of sleep disorders",
+      "section": null,
+      "pageNumber": 16
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_sleep_physiology_7ced1a20",
+    "question": "A 50-year-old male with a history of previous tuberculosis treatment relapse is suspected of having drug-resistant TB. A GenoType® MTBDDRplus assay is performed on his sputum sample. The assay detects the absence of a wild-type probe for the rpoB gene and the presence of a specific mutation probe. Based on the principle of GenoType® MTBDDRplus assay, what does this finding indicate regarding the patient's tuberculosis?",
+    "options": {
+      "A": "The patient has sensitivity to Rifampicin.",
+      "B": "The patient has resistance to Isoniazid.",
+      "C": "The patient has resistance to Rifampicin.",
+      "D": "The patient has a latent tuberculosis infection."
+    },
+    "correctAnswer": "C",
+    "topic": "Drug-Resistant TB (MDR/XDR)",
+    "deepDiveExplanation": "The GenoType® MTBDDRplus assay is a molecular line probe assay designed to rapidly detect resistance to Rifampicin and Isoniazid. It works by detecting specific mutations in genes associated with drug resistance. For Rifampicin resistance, the assay targets the rpoB gene, which encodes the beta-subunit of RNA polymerase. The absence of hybridization to wild-type probes for rpoB and/or the presence of hybridization to specific mutation probes (e.g., rpoB MUT1, MUT2A, MUT2B, MUT3) indicates the presence of mutations associated with Rifampicin resistance. Similarly, for Isoniazid, it targets katG and inhA genes. This direct detection of resistance-conferring mutations allows for a much faster diagnosis of drug resistance compared to traditional culture-based drug susceptibility testing.",
+    "highYieldPearl": "Rio's Take: GenoType assays (like MTBDDRplus) detect resistance by looking for *mutations* in specific genes (e.g., rpoB for Rifampicin, katG/inhA for Isoniazid). Absence of the 'normal' wild-type gene sequence and/or presence of a specific 'mutated' sequence equals resistance. It's a key rapid diagnostic tool for MDR-TB.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "The principle states that 'Any Absence of wild type or presence of mutated type ↓ Indicates Resistance' (page 63). Therefore, this finding indicates resistance, not sensitivity.",
+      "B": "The rpoB gene locus is associated with Rifampicin resistance, while katG and inhA loci are associated with Isoniazid resistance (page 63). This option incorrectly attributes rpoB to Isoniazid resistance.",
+      "C": "This correctly interprets the principle that absence of a wild-type probe and presence of a mutation probe in the rpoB locus indicates Rifampicin resistance (page 63).",
+      "D": "A GenoType assay on a sputum sample detects active M. tuberculosis infection and its drug resistance profile, not latent tuberculosis infection."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Sleep physiology & Classification of sleep disorders",
+      "section": null,
+      "pageNumber": 16
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_sleep_physiology_534e9d41",
+    "question": "A 30-year-old male presents with a one-month history of low-grade fever, unintentional weight loss of 4 kg, persistent cough, and right-sided pleuritic chest pain. His chest X-ray shows a moderate right pleural effusion. Thoracentesis yields straw-colored fluid which is exudative (protein 4.5 g/dL, LDH 350 U/L, Glucose 60 mg/dL), with lymphocytic predominance (90%). Pleural fluid Adenosine Deaminase (ADA) level is 68 U/L (reference < 40 U/L). Sputum GeneXpert for M. tuberculosis is negative. Given the high suspicion of tuberculosis, what is the MOST appropriate next diagnostic step?",
+    "options": {
+      "A": "Initiate empirical anti-tubercular treatment (ATT) immediately.",
+      "B": "Perform a pleural biopsy (blind or image-guided) for histopathology and mycobacterial culture.",
+      "C": "Order a contrast-enhanced computed tomography (CECT) scan of the chest to evaluate for parenchymal disease and mediastinal lymphadenopathy.",
+      "D": "Repeat pleural fluid analysis, including interferon-gamma release assay (IGRA) on the fluid."
+    },
+    "correctAnswer": "B",
+    "topic": "Pleural and Lymph Node TB",
+    "deepDiveExplanation": "In a patient with a strong clinical suspicion of tuberculous pleural effusion (exudative lymphocytic effusion, elevated ADA), a pleural biopsy for histopathological examination (looking for granulomas) and mycobacterial culture is considered the gold standard for definitive diagnosis. While a high pleural fluid ADA level strongly suggests TB, it is not 100% specific, and other conditions like lymphoma or rheumatoid pleuritis can rarely cause elevated ADA. Empirical ATT (Option A) is often considered in high-prevalence areas when clinical suspicion is very high and a biopsy is not feasible, but it is not the 'most appropriate diagnostic step'. CECT chest (Option C) is useful for assessing the extent of disease (parenchymal lesions, lymphadenopathy) but does not provide a definitive tissue diagnosis for the pleural effusion itself. Repeating pleural fluid analysis (Option D) without a biopsy is unlikely to add significant diagnostic yield beyond the initial tests, and IGRA on pleural fluid, while showing promise, is not yet a standalone definitive diagnostic test.",
+    "highYieldPearl": "Rio's Take: While high pleural fluid ADA is highly suggestive of TB pleurisy, a pleural biopsy for histopathology and mycobacterial culture remains the gold standard for definitive diagnosis due to its high sensitivity and specificity, allowing for direct visualization of granulomas and isolation of the organism.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Empirical ATT is tempting, especially with a high ADA, but it bypasses definitive diagnosis, which can lead to misdiagnosis if another condition mimics TB, or unnecessary drug exposure. The question asks for the 'most appropriate *diagnostic* step'.",
+      "B": "This option offers the most definitive diagnostic approach, providing both histological confirmation (granulomas) and microbiological evidence (culture), which is crucial for guiding specific treatment.",
+      "C": "CECT chest is valuable for staging and assessing associated findings but does not directly diagnose pleural TB itself. It might confirm suspicion but not provide a definitive tissue diagnosis of the effusion.",
+      "D": "Repeating pleural fluid tests without a biopsy is less likely to provide a definitive diagnosis than a tissue biopsy, especially since the initial analysis already pointed strongly towards TB. IGRA on fluid is not widely standardized as a primary diagnostic tool."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Sleep physiology & Classification of sleep disorders",
+      "section": null,
+      "pageNumber": 16
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_sleep_physiology_b3e88d2f",
+    "question": "A 28-year-old female presents with a 2-month history of worsening cough, mild stridor, and occasional dysphagia. A contrast-enhanced CT chest reveals significant mediastinal lymphadenopathy, with a large, centrally necrotic subcarinal lymph node causing extrinsic compression of the trachea and distal esophagus. Bronchoscopy confirms severe extrinsic compression of the trachea with intact mucosa. Bronchial washings are positive for M. tuberculosis by CBNAAT, and the strain is Rifampicin-sensitive. She has been initiated on a standard four-drug anti-tubercular treatment (ATT) regimen. Considering her ongoing compressive symptoms, which of the following additional therapeutic interventions is MOST appropriate?",
+    "options": {
+      "A": "Add a short course of oral corticosteroids.",
+      "B": "Refer for urgent surgical excision of the compressing lymph node.",
+      "C": "Perform bronchoscopic balloon dilatation of the compressed tracheal segment.",
+      "D": "Increase the dose and frequency of her current ATT regimen."
+    },
+    "correctAnswer": "A",
+    "topic": "Pleural and Lymph Node TB",
+    "deepDiveExplanation": "Mediastinal lymphadenopathy in tuberculosis, particularly in primary TB, can cause significant mass effect leading to airway compression (cough, stridor) or esophageal compression (dysphagia). While ATT will ultimately reduce the lymph node size, this process can take time, and immediate symptomatic relief is often required. Oral corticosteroids are commonly used as an adjunct to ATT in cases of symptomatic mediastinal lymphadenopathy to rapidly reduce inflammation and swelling, thereby alleviating compressive symptoms. Surgical excision (Option B) is highly invasive and generally reserved for cases that fail to respond to medical therapy, or for persistent severe obstruction after adequate ATT. Bronchoscopic balloon dilatation (Option C) addresses the symptom but not the underlying cause and is usually considered for intraluminal obstruction or severe extrinsic compression refractory to medical management. Increasing ATT dose/frequency (Option D) is not indicated as the patient has drug-sensitive TB and has just started treatment; it won't hasten the reduction in lymph node size and carries increased risk of side effects.",
+    "highYieldPearl": "Rio's Take: In cases of symptomatic mediastinal TB lymphadenopathy with compressive features, a short course of oral corticosteroids added to standard ATT can rapidly reduce inflammation and provide symptomatic relief, often preventing the need for invasive procedures.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Corticosteroids are well-established for reducing inflammation and edema associated with large, symptomatic TB lymph nodes, providing quicker relief than ATT alone.",
+      "B": "Surgical excision is a major intervention with risks and is typically reserved for refractory cases or complications that do not respond to medical management (ATT + corticosteroids).",
+      "C": "Bronchoscopic balloon dilatation is a palliative measure for severe airway compromise. It addresses the effect (compression) rather than the cause (lymph node swelling) and is generally a temporary fix or a last resort if medical therapy fails.",
+      "D": "The patient has just started ATT, and there's no evidence of drug resistance or treatment failure. Increasing ATT dose/frequency would not specifically alleviate acute compressive symptoms and could lead to increased toxicity."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Sleep physiology & Classification of sleep disorders",
+      "section": null,
+      "pageNumber": 16
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_sleep_physiology_e41987ba",
+    "question": "A 45-year-old male with recently diagnosed HIV infection (CD4 count 65 cells/µL) presents with 4 weeks of high-grade fever, night sweats, significant weight loss, and generalized weakness. His chest X-ray shows diffuse fine reticulonodular infiltrates. Sputum AFB smear and GeneXpert are negative. A subsequent CECT chest demonstrates widespread tiny (2-4 mm) nodular opacities uniformly distributed throughout both lung fields, along with mild mediastinal lymphadenopathy and hepatosplenomegaly. Considering the high suspicion of miliary tuberculosis in an immunocompromised patient, which of the following diagnostic procedures is MOST likely to yield a definitive diagnosis?",
+    "options": {
+      "A": "Bronchoalveolar lavage (BAL) for AFB smear, mycobacterial culture, and CBNAAT.",
+      "B": "Bone marrow biopsy for histopathology and AFB culture.",
+      "C": "Repeat sputum induction with hypertonic saline for GeneXpert.",
+      "D": "Empirical initiation of anti-tubercular treatment (ATT) with close monitoring."
+    },
+    "correctAnswer": "B",
+    "topic": "Pleural and Lymph Node TB",
+    "deepDiveExplanation": "Miliary tuberculosis is a disseminated form of TB, often seen in immunocompromised individuals like HIV patients, where sputum tests are frequently negative due to the paucibacillary nature of the disease in the airways. The classic CT finding of diffuse tiny nodules, coupled with extrapulmonary involvement (hepatosplenomegaly), points strongly to miliary TB. In such cases, tissue biopsy is often required for a definitive diagnosis. Bone marrow biopsy (Option B) is a highly useful diagnostic procedure for miliary TB, especially in HIV-positive patients, with a diagnostic yield ranging from 50-80% for AFB culture and/or granulomas. Given the systemic dissemination, it is a relatively less invasive option compared to a surgical lung biopsy and often yields positive results. BAL (Option A) has a variable yield (30-70%) for miliary TB and might not be definitive. Repeat sputum induction (Option C) is unlikely to be successful as sputum tests are typically negative in miliary TB. Empirical ATT (Option D) is a treatment, not a diagnostic step, and while sometimes initiated in critically ill patients with very high suspicion, definitive diagnosis is preferred when feasible to rule out other infections common in HIV (e.g., fungal, PCP).",
+    "highYieldPearl": "Rio's Take: For disseminated tuberculosis, especially miliary TB in immunocompromised patients with negative sputum, tissue biopsy from an involved site (e.g., bone marrow, liver, lymph node, or lung) is crucial for definitive diagnosis. Bone marrow biopsy is often preferred due to its good yield and relatively lower invasiveness.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "While BAL is useful for many diffuse lung diseases, its diagnostic yield for smear and culture in miliary TB is lower compared to tissue biopsies, as miliary TB is often paucibacillary in the airways.",
+      "B": "Miliary TB is a disseminated disease, and bone marrow is a common site of involvement. Bone marrow biopsy offers a high diagnostic yield for both granulomas and AFB culture in disseminated TB, particularly in HIV patients, making it a very effective and relatively less invasive option for definitive diagnosis.",
+      "C": "Sputum tests, even after induction, have a notoriously low yield in miliary TB because the infection is primarily parenchymal and systemic, not localized to the airways with cavitation.",
+      "D": "Empirical ATT is a treatment strategy. While it might be considered in very sick patients where diagnosis is delayed, the question asks for the 'most appropriate *diagnostic* procedure' to obtain a definitive diagnosis, which is crucial for confirming TB and guiding appropriate treatment, especially in an immunocompromised patient where other opportunistic infections could mimic TB."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Sleep physiology & Classification of sleep disorders",
+      "section": null,
+      "pageNumber": 16
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_sleep_physiology_95786203",
+    "question": "A 7-year-old child presents with chronic cough, low-grade fever, weight loss, and recurrent wheezing for two months. Physical examination reveals decreased breath sounds in the right middle lobe and palpable cervical lymph nodes. Chest X-ray shows right hilar lymphadenopathy and collapse of the right middle lobe. A CT chest confirms enlarged, centrally necrotic right hilar and paratracheal lymph nodes causing significant narrowing of the right middle lobe bronchus, along with a small ipsilateral pleural effusion. Sputum induced by saline nebulization is negative for AFB smear but positive for M. tuberculosis on CBNAAT, with no rifampicin resistance. Tuberculin skin test shows 18mm induration. What is the most appropriate initial diagnosis and treatment strategy for this child?",
+    "options": {
+      "A": "Primary progressive pulmonary tuberculosis with complications of bronchial compression, right middle lobe collapse, and pleural effusion, requiring a 6-month course of standard antitubercular therapy.",
+      "B": "Primary progressive pulmonary tuberculosis with extrapulmonary involvement and severe airway obstruction, necessitating corticosteroids and a 9-month course of antitubercular therapy.",
+      "C": "Disseminated tuberculosis with significant intrathoracic complications, requiring intensive phase augmentation and careful monitoring for paradoxical reactions.",
+      "D": "Secondary pulmonary tuberculosis with cavitary disease and potential drug resistance, demanding immediate drug susceptibility testing and initiation of a prolonged multi-drug regimen."
+    },
+    "correctAnswer": "A",
+    "topic": "Pleural and Lymph Node TB",
+    "deepDiveExplanation": "This patient presents with a classic clinical and radiological picture of primary progressive tuberculosis (TB). The child's age, chronic constitutional symptoms, hilar/paratracheal lymphadenopathy, and complications such as right middle lobe collapse (due to bronchial compression by enlarged lymph nodes) and ipsilateral pleural effusion are all characteristic features of primary TB. The positive CBNAAT confirms M. tuberculosis infection. For primary progressive pulmonary TB, even with intrathoracic complications like lymph node disease and pleural effusion, the standard duration of antitubercular therapy (ATT) is 6 months (2 months of HRZE followed by 4 months of HR). While corticosteroids may be considered in severe cases of bronchial obstruction by lymph nodes, it is not a universal requirement for all cases, and the standard regimen duration is typically 6 months for these specific sites. There is no evidence of widespread extrapulmonary dissemination that would necessitate a longer duration or 'intensive phase augmentation'.",
+    "highYieldPearl": "Rio's Take: Primary progressive TB often presents with significant intrathoracic lymphadenopathy and its complications (bronchial compression, atelectasis, pleural effusion). Standard 6-month ATT is usually sufficient for pulmonary TB, lymph node TB, and pleural TB, even with these complications, unless CNS or bone/joint involvement is present or drug resistance is identified.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This option correctly identifies the primary progressive nature of the disease and its associated intrathoracic complications, along with the appropriate standard 6-month ATT duration for this clinical scenario.",
+      "B": "This is a trap because while corticosteroids might be considered for severe airway obstruction, it's not a mandatory initial step for *all* such cases, and a 9-month duration is generally reserved for CNS or bone/joint TB, or drug-resistant cases, not the specific constellation of pulmonary, lymph node, and pleural TB described here.",
+      "C": "This option inaccurately uses the term 'disseminated tuberculosis' which usually implies wider systemic spread beyond the chest, not just intrathoracic complications. 'Intensive phase augmentation' is not a standard therapeutic term in this context. Paradoxical reactions are post-ATT phenomena, not an initial treatment strategy.",
+      "D": "This option describes secondary pulmonary tuberculosis with cavitary disease, which typically occurs in older individuals or with reactivation, and usually presents with different radiological features (e.g., upper lobe cavitation without prominent hilar adenopathy as the primary active lesion). The patient's age and the described radiological findings are highly suggestive of primary TB in a child."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Sleep physiology & Classification of sleep disorders",
+      "section": null,
+      "pageNumber": 16
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_sleep_physiology_503eba19",
+    "question": "A 28-year-old male presents with acute onset pleuritic chest pain, dyspnea, and low-grade fever for 2 weeks. Chest X-ray reveals a large right-sided pleural effusion. Thoracentesis yields straw-colored fluid with the following analysis: Protein 4.8 g/dL (serum protein 7.0 g/dL), LDH 350 U/L (serum LDH 200 U/L), Glucose 80 mg/dL (serum glucose 100 mg/dL), pH 7.35, Total nucleated cells 1800/µL with 90% lymphocytes. Gram stain and bacterial cultures are negative. Pleural fluid ADA is 65 U/L (normal < 40 U/L). Considering the most likely diagnosis, which of the following statements regarding the pathogenesis and management of this condition is correct?",
+    "options": {
+      "A": "The pleural effusion is primarily a result of a delayed-type hypersensitivity reaction, and a 6-month antitubercular regimen is appropriate, with adjunctive corticosteroids considered in select cases for symptom control or severe inflammation.",
+      "B": "The elevated ADA and lymphocytic exudate confirm high bacterial burden within the pleural space, necessitating a prolonged 9-12 month antitubercular regimen due to the risk of recurrence and systemic dissemination.",
+      "C": "Pleural fluid nucleic acid amplification test (NAAT) for M. tuberculosis is the definitive diagnostic test, and thoracoscopic drainage with decortication is recommended to prevent lung entrapment in all symptomatic patients.",
+      "D": "The pleural fluid findings are highly suggestive of a malignant effusion, requiring urgent cytopathology and oncology consultation prior to any anti-tuberculosis treatment."
+    },
+    "correctAnswer": "A",
+    "topic": "Pleural and Lymph Node TB",
+    "deepDiveExplanation": "The patient's clinical presentation (young male, pleuritic pain, fever, effusion) combined with the pleural fluid analysis (exudative, lymphocytic predominance, very high ADA >60 U/L) is highly characteristic of tuberculous pleural effusion (TPE). TPE is generally considered a delayed-type hypersensitivity reaction to mycobacterial antigens in the pleural space, often with a low bacterial load (hence negative AFB smears and cultures). The standard treatment for TPE is a 6-month course of antitubercular therapy (2HRZE/4HR). While corticosteroids have been studied, they are not routinely indicated for all cases but may be considered in severe or symptomatic effusions to reduce inflammation, pain, or potentially accelerate fluid resolution, though their role in preventing pleural thickening is debated.",
+    "highYieldPearl": "Rio's Take: Tuberculous pleural effusion is an exudative lymphocytic effusion, typically a hypersensitivity reaction with low bacterial burden. Elevated ADA (>40 U/L, often >60 U/L) is a strong diagnostic marker. Standard ATT is 6 months. Corticosteroids are adjunctive and considered in selected severe cases, not routinely mandated.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This option correctly describes the pathogenesis (hypersensitivity reaction), the standard 6-month ATT duration, and the nuanced role of adjunctive corticosteroids in TPE, making it the most accurate statement.",
+      "B": "This is a trap. TPE typically involves a *low* bacterial burden in the pleural fluid, not a high one, which is why AFB cultures are often negative. Also, the standard duration for TPE is 6 months, not 9-12 months (which is reserved for conditions like CNS or bone/joint TB, or drug-resistant cases).",
+      "C": "This is a trap. While pleural fluid NAAT is a valuable diagnostic tool, its sensitivity can vary, and pleural biopsy for granulomas is often considered the 'gold standard.' Thoracoscopic drainage with decortication is an invasive procedure reserved for complicated cases like empyema or severe fibrotic lung entrapment, not a routine recommendation for all symptomatic TPE patients.",
+      "D": "This is a trap. While malignant effusions can be exudative and lymphocytic, the very high pleural fluid ADA level (65 U/L) strongly favors tuberculosis over malignancy. Malignant effusions typically have normal or only mildly elevated ADA levels."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Sleep physiology & Classification of sleep disorders",
+      "section": null,
+      "pageNumber": 16
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_sleep_physiology_939fa7a3",
+    "question": "A 65-year-old male with a remote history of treated pulmonary TB in his 30s presents with insidious onset of cough, night sweats, and fatigue for 3 months. Chest X-ray reveals fibronodular infiltrates and cavitation in the right upper lobe apex. A CT scan of the chest further shows an irregular thick-walled cavity in the right S1 segment, adjacent pleural thickening, and small subpleural calcified nodules in both upper lobes. A tiny, subintimal granulomatous lesion is also noted in a segmental pulmonary vein on the right side. Sputum smear is positive for AFB. Based on the clinical presentation and radiological findings, which of the following statements best describes this patient's condition and a specific associated pathological finding?",
+    "options": {
+      "A": "The patient has primary progressive tuberculosis, characterized by extensive hilar lymphadenopathy and the presence of a Ranke's complex in the upper lobe.",
+      "B": "This is a case of secondary (reactivation) pulmonary tuberculosis with localized cavitary disease, and the subintimal granuloma in the pulmonary vein is specifically referred to as a Weigart focus.",
+      "C": "The findings are consistent with hematogenous dissemination from a latent primary complex, with the subpleural calcified nodules representing Simon foci indicative of an active miliary disease.",
+      "D": "The disease is likely a reinfection rather than reactivation, given the upper lobe cavitation, and the infraclavicular infiltrates are typical Assman foci, indicating rapid progression."
+    },
+    "correctAnswer": "B",
+    "topic": "Pleural and Lymph Node TB",
+    "deepDiveExplanation": "This patient's age, remote history of treated TB, insidious constitutional symptoms, and the presence of fibronodular infiltrates and cavitation in the upper lobe apex are classic features of secondary (reactivation) pulmonary tuberculosis. Unlike primary TB, which typically involves the mid-lower lobes and prominent hilar lymphadenopathy, secondary TB often affects the lung apices and presents with cavitation. The 'subintimal granulomatous lesion in a segmental pulmonary vein' is a specific, though rare, pathological finding known as a Weigart focus. These foci represent granulomatous lesions within the intima of blood vessels, particularly pulmonary veins, and are important as they can erode and lead to hematogenous dissemination of the bacilli. The subpleural calcified nodules could represent healed Simon foci, which are old healed subpleural lesions resulting from prior hematogenous spread, but the question asks for the best description including the *active* disease and the specific pathological finding, which Weigart focus directly addresses.",
+    "highYieldPearl": "Rio's Take: Reactivation TB commonly presents as apical cavitary disease. Specific pathological names like Weigart focus (subintimal granuloma in pulmonary vein, potential for dissemination) are high-yield details that test deep knowledge of TB pathology.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This option incorrectly identifies the disease as primary progressive TB. Primary TB typically occurs in children or immunosuppressed individuals, involves mid-lower zones, and is characterized by a Ghon's complex with hilar lymphadenopathy. Ranke's complex refers to a *healed* primary complex, not an active upper lobe lesion.",
+      "B": "This option correctly identifies the condition as secondary (reactivation) pulmonary tuberculosis with localized cavitary disease, which aligns with the clinical and radiological findings. Crucially, it accurately names the specific pathological finding (Weigart focus) which demonstrates a detailed understanding of TB pathology and specific nomenclature.",
+      "C": "This is a trap. While apical cavitation is a result of progressive disease, it does not signify an active miliary pattern, which would involve diffuse small nodules throughout both lungs. Rich foci are typically cortical TB granulomas, not subpleural calcified nodules. Simon foci are *healed* subpleural lesions, not indicative of *active* miliary disease in this context.",
+      "D": "This is a trap. While reinfection is possible, it's difficult to definitively distinguish clinically from reactivation. Ghon's focus with progressive hilar lymphadenopathy characterizes primary TB, not the apical cavitation seen here. Assman foci are infraclavicular infiltrates of reactivation, but the primary active lesion described is apical cavitation, and 'rapid progression' is not universally implied by their presence."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Sleep physiology & Classification of sleep disorders",
+      "section": null,
+      "pageNumber": 16
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_sleep_physiology_7afc08c2",
+    "question": "A 7-year-old child presents with mild fever and occasional pleuritic chest pain. A chest X-ray shows a small, well-defined parenchymal opacity in the right middle lobe and ipsilateral hilar lymphadenopathy. Over several years, without specific anti-tubercular treatment, these lesions spontaneously heal, resulting in a calcified nodule in the lung and calcified hilar lymph nodes. Which of the following statements best describes the final healed complex observed in this child?",
+    "options": {
+      "A": "Ghon's focus",
+      "B": "Ghon's complex",
+      "C": "Ranke's complex",
+      "D": "Simon's focus"
+    },
+    "correctAnswer": "C",
+    "topic": "Pleural and Lymph Node TB",
+    "deepDiveExplanation": "The clinical vignette describes the classic progression of primary tuberculosis. The initial parenchymal opacity (Ghon's focus) combined with hilar lymphadenopathy forms the Ghon's complex. In individuals with preserved immunity, this complex often heals spontaneously through calcification and fibrosis. The fully healed and calcified Ghon's complex is specifically known as Ranke's complex. Simon's focus refers to a subpleural upper lobe focus that develops during hematogenous spread and subsequently heals with scarring, distinct from the primary complex.",
+    "highYieldPearl": "Rio's Take: Understand the progression of primary TB lesions: Ghon's focus (initial parenchymal lesion) + hilar LN enlargement = Ghon's complex. The healing and calcification of a Ghon's complex results in a Ranke's complex. These are fundamental terms in TB pathogenesis.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Ghon's focus is only the initial parenchymal lesion, not the combination with lymph nodes, nor its healed state.",
+      "B": "Ghon's complex refers to the active, non-healed primary complex (parenchymal lesion + hilar LN). The question asks for the *final healed complex*.",
+      "C": "Ranke's complex correctly identifies the fibrosed and calcified Ghon's complex, representing the healed primary infection.",
+      "D": "Simon's focus is a different entity, representing a healed subpleural upper lobe focus resulting from hematogenous dissemination, not the healed primary Ghon's complex."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Sleep physiology & Classification of sleep disorders",
+      "section": null,
+      "pageNumber": 16
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_sleep_physiology_2baac20e",
+    "question": "A 5-year-old boy presents with persistent cough, recurrent wheezing, and failure to gain weight. Chest X-ray and subsequent CECT chest reveal significantly enlarged mediastinal lymph nodes, one of which is compressing the right main bronchus, leading to partial collapse and air trapping in the right middle lobe. Sputum CBNAAT confirms *Mycobacterium tuberculosis*. The most likely complication leading to the boy's respiratory symptoms in this scenario is:",
+    "options": {
+      "A": "Miliary tuberculosis",
+      "B": "Pleural effusion",
+      "C": "Bronchial compression by enlarged lymph nodes",
+      "D": "Localized cavitary disease"
+    },
+    "correctAnswer": "C",
+    "topic": "Pleural and Lymph Node TB",
+    "deepDiveExplanation": "The provided text explicitly lists 'Enlarged lymph nodes may compress bronchi → RML Collapse + Bronchiectasis' as a complication of primary TB. The clinical vignette directly describes this scenario: enlarged mediastinal lymph nodes compressing the right main bronchus, resulting in collapse. This mechanical compression directly explains the persistent cough and wheezing. Miliary tuberculosis is disseminated disease, pleural effusion is fluid accumulation, and localized cavitary disease is destruction of lung tissue, none of which directly match the described mechanism of symptoms.",
+    "highYieldPearl": "Rio's Take: In children with primary TB, enlarged hilar and mediastinal lymph nodes are common. A critical complication to remember is bronchial compression by these nodes, leading to obstructive symptoms, atelectasis, or bronchiectasis, particularly in the right middle lobe (RML syndrome).",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Miliary tuberculosis represents widespread hematogenous dissemination, which would present with more systemic symptoms and diffuse infiltrates, not primarily localized bronchial compression and collapse.",
+      "B": "Pleural effusion is a known complication of primary TB, but the vignette specifically attributes the symptoms to bronchial compression and collapse, not fluid in the pleural space.",
+      "C": "This option accurately describes the cause of the boy's symptoms, aligning directly with the complication of primary TB mentioned in the text.",
+      "D": "Localized cavitary disease is typically associated with secondary TB or more advanced progressive primary TB, and while it involves lung destruction, it does not explain bronchial compression and collapse as the primary mechanism for the described symptoms."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Sleep physiology & Classification of sleep disorders",
+      "section": null,
+      "pageNumber": 16
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_sleep_physiology_fb982d7f",
+    "question": "All of the following statements about the pathogenesis and specific foci in Tuberculosis are true, EXCEPT:",
+    "options": {
+      "A": "Ranke's complex represents a fibrosed and calcified Ghon's complex.",
+      "B": "Primary infection in children most commonly resolves into healed or latent lesions.",
+      "C": "Localized cavitary disease is a hallmark of primary progressive TB.",
+      "D": "Reactivation of latent lesions is a common pathway leading to secondary tuberculosis in adults."
+    },
+    "correctAnswer": "C",
+    "topic": "Pleural and Lymph Node TB",
+    "deepDiveExplanation": "According to the provided text and diagrams:\n- A. 'Ranke complex: fibrosed & calcified ghon's complex' is explicitly stated, making option A true.\n- B. The diagram shows 'PRIMARY INFECTION children' commonly leading to 'HEALED / CALCIFIED FOCI' and 'LATENT LESIONS', making option B true.\n- D. The diagram indicates 'Adult REACTIVATION' and that 'SECONDARY TUBERCULOSIS' originates from 'LATENT LESIONS via Reactivation', making option D true.\n- C. The diagram for 'PROGRESSIVE PRIMARY TB' primarily leads to 'Massive hematogenous dissemination' and 'MILIARY TB'. 'LOCALISED CAVITORY DISEASE' is shown as a feature of 'SECONDARY TUBERCULOSIS' or a later outcome from the primary complex, not as the hallmark of primary progressive TB. Therefore, localized cavitary disease is not the defining characteristic of primary progressive TB, which is more associated with widespread dissemination.",
+    "highYieldPearl": "Rio's Take: Differentiate the outcomes of primary TB. While 'Primary Progressive TB' can be severe, its hallmark is typically hematogenous dissemination (miliary TB). Localized cavitary disease is more characteristic of Secondary (Reactivation) TB.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This statement is directly from the text and is a correct definition of Ranke's complex.",
+      "B": "This accurately describes the most common outcome of primary infection in children, leading to asymptomatic healing or latent infection.",
+      "C": "This statement is incorrect. Primary progressive TB is characterized by rapid progression and hematogenous dissemination, leading to miliary TB or CNS TB. Localized cavitary disease is typically a feature of secondary tuberculosis or advanced, severe forms, not the 'hallmark' of primary progressive TB.",
+      "D": "This accurately describes one of the two main origins of secondary tuberculosis in adults (the other being reinfection), making it a true statement."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Sleep physiology & Classification of sleep disorders",
+      "section": null,
+      "pageNumber": 16
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_sleep_physiology_2712c795",
+    "question": "A 7-year-old child presents with a persistent cough, low-grade fever, and a history of recurrent pneumonia in the past year. Chest X-ray reveals a collapsed right middle lobe and significant right hilar lymphadenopathy. Sputum smear for Acid-Fast Bacilli (AFB) is negative. A tuberculin skin test is strongly positive. Which of the following statements best describes the likely pathogenesis of this child's condition?",
+    "options": {
+      "A": "The right middle lobe collapse is a direct result of extensive parenchymal cavitation in the initial primary focus.",
+      "B": "The enlarged hilar lymph nodes are compressing the bronchial wall, leading to post-obstructive changes.",
+      "C": "This presentation suggests a primary infection that has rapidly progressed to miliary tuberculosis.",
+      "D": "The recurrent pneumonia indicates a secondary pulmonary tuberculosis due to reactivation of latent bacilli."
+    },
+    "correctAnswer": "B",
+    "topic": "Pleural and Lymph Node TB",
+    "deepDiveExplanation": "The clinical scenario describes classic features of primary tuberculosis complications in a child. A positive tuberculin skin test indicates prior exposure. The presence of significant hilar lymphadenopathy and right middle lobe collapse (often referred to as 'middle lobe syndrome' in this context) is a well-known complication where enlarged lymph nodes compress the adjacent bronchial wall, leading to atelectasis and post-obstructive pneumonia/bronchiectasis. Sputum AFB negativity is common in pediatric primary TB due to the nature of the disease and difficulty in obtaining good samples. Cavitation is generally a feature of secondary/reactivation TB, not typically direct cavitation in the primary focus leading to RML collapse. Miliary TB involves widespread hematogenous dissemination and presents differently. Secondary tuberculosis due to reactivation is usually seen in adults and has a distinct presentation.",
+    "highYieldPearl": "Rio's Take: In children, primary TB often manifests with hilar lymphadenopathy and its complications, such as bronchial compression leading to atelectasis (e.g., RML collapse) and post-obstructive bronchiectasis. Sputum AFB is frequently negative in these cases.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option is a trap by conflating primary TB complications with features more typical of secondary/reactivation TB (extensive cavitation). The RML collapse here is due to extrinsic compression, not intrinsic parenchymal destruction by a primary focus.",
+      "B": "This is the correct statement, directly referencing a well-established complication of primary TB, as described in the provided text: 'Enlarged lymph nodes may compress bronchi → RML Collapse + Bronchiectasis'.",
+      "C": "This option is a trap by suggesting miliary TB, which is a form of hematogenous dissemination leading to widespread small foci. While a serious complication, it presents differently than localized RML collapse and hilar lymphadenopathy.",
+      "D": "This option is a trap as reactivation TB (secondary TB) is more common in adults and typically involves upper lobe cavitary lesions. The clinical picture of recurrent pneumonia due to obstruction in a child with hilar lymphadenopathy is characteristic of primary TB complications, not reactivation."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Sleep physiology & Classification of sleep disorders",
+      "section": null,
+      "pageNumber": 16
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_sleep_physiology_5375841b",
+    "question": "Which of the following findings is LEAST characteristic of uncomplicated primary pulmonary tuberculosis in an immunocompetent adult?",
+    "options": {
+      "A": "Involvement predominantly in the mid and lower lung zones.",
+      "B": "Presence of asymptomatic hilar and mediastinal lymph node enlargement.",
+      "C": "Formation of extensive apical cavitary lesions with associated hemoptysis.",
+      "D": "A brief febrile illness occurring at the time of tuberculin conversion."
+    },
+    "correctAnswer": "C",
+    "topic": "Pleural and Lymph Node TB",
+    "deepDiveExplanation": "Uncomplicated primary pulmonary tuberculosis in an immunocompetent adult is often asymptomatic, characterized by mid and lower lung zone involvement (areas of high ventilation), and associated with hilar/mediastinal lymph node enlargement. A brief febrile illness can occur at the time of tuberculin conversion. Extensive apical cavitary lesions with hemoptysis are hallmark features of secondary (reactivation) tuberculosis, which typically affects the upper lobes due to higher oxygen tension and impaired lymphatic drainage, leading to caseation, cavitation, and bacillary dissemination (making patients more infective).",
+    "highYieldPearl": "Rio's Take: Differentiate primary TB (often asymptomatic, mid/lower zones, LN involvement, low infectivity) from secondary/reactivation TB (symptomatic, apical cavitary lesions, high infectivity).",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is characteristic of primary TB as mentioned in the text: 'Mid and lower zones involved'. Therefore, it is not the least characteristic.",
+      "B": "This is characteristic of primary TB: 'Associated with hilar and mediastinal lymphnode enlargement' and 'Asymptomatic: A great majority especially adults'. Therefore, it is not the least characteristic.",
+      "C": "This is the correct answer. The text and common understanding classify 'LOCALISED CAVITORY DISEASE' under 'Secondary progressive TB & DISSEMINATION' or 'SECONDARY TUBERCULOSIS' from latent lesions/reinfection, not uncomplicated primary TB. Such lesions are hallmark of reactivation/secondary TB.",
+      "D": "This is characteristic of primary TB: 'Brief febrile illness: At the time of tuberculin conversion'. Therefore, it is not the least characteristic."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Sleep physiology & Classification of sleep disorders",
+      "section": null,
+      "pageNumber": 16
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_sleep_physiology_87215072",
+    "question": "A 30-year-old healthy individual tests positive for a tuberculin skin test but has no active symptoms or radiological evidence of disease. Years later, at age 65, after starting immunosuppressive therapy for an autoimmune condition, he develops new onset cough, weight loss, and an upper lobe cavitary lesion on chest imaging. Which sequence best describes the most likely progression of his tuberculosis disease?",
+    "options": {
+      "A": "Primary infection → Healed lesions → Secondary progressive TB via Reinfection",
+      "B": "Primary infection → Latent lesions → Secondary progressive TB via Reactivation",
+      "C": "Primary progressive TB → Miliary TB → Localized cavitary disease",
+      "D": "Primary infection → Ghon's complex → Progressive primary TB"
+    },
+    "correctAnswer": "B",
+    "topic": "Pleural and Lymph Node TB",
+    "deepDiveExplanation": "The initial positive tuberculin skin test without active disease indicates a primary infection followed by the establishment of latent tuberculosis, where dormant bacilli reside in the body. Years later, with the onset of immunosuppression, the latent bacilli are reactivated, leading to secondary (or post-primary) tuberculosis. This often manifests as pulmonary disease, frequently involving the upper lobes with cavitation, as described in the clinical vignette. Reinfection is possible but less likely to be the 'most likely' pathway when a known latent state exists and is reactivated by immunosuppression. Primary progressive TB usually occurs soon after the initial infection, and miliary TB is a form of disseminated disease rather than a precursor to localized cavitary disease in this long-term context.",
+    "highYieldPearl": "Rio's Take: Latent TB, established after primary infection, is the reservoir for most adult TB cases, especially when immunity wanes (e.g., with immunosuppression), leading to reactivation and secondary TB.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a trap because 'Healed lesions' imply non-viable organisms, making subsequent disease from them impossible. While reinfection can lead to secondary TB, given the clinical history of a positive TST and subsequent immunosuppression, reactivation from latent lesions is the more direct and common pathway.",
+      "B": "This is the correct sequence. The initial positive TST signifies a 'Primary infection' leading to 'Latent lesions' with dormant bacilli. The later immunosuppression triggers 'Reactivation' of these dormant bacilli, resulting in 'Secondary progressive TB' (often with cavitary lesions as described). This aligns perfectly with the provided 'Pathogenic pathways' diagram.",
+      "C": "This is a trap as 'Primary progressive TB' and 'Miliary TB' usually occur closer to the initial infection, especially in immunocompromised states. This sequence (Miliary TB then localized cavitary disease) is not typical for a decades-long interval and reactivation scenario.",
+      "D": "This is a trap. 'Progressive primary TB' typically occurs early after the primary infection and can lead to dissemination (like miliary TB) or significant localized disease quickly. It doesn't usually describe a decades-long asymptomatic period followed by reactivation-type disease."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Sleep physiology & Classification of sleep disorders",
+      "section": null,
+      "pageNumber": 16
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_sleep_physiology_e6a45c75",
+    "question": "A 28-year-old female presents with a 2-month history of persistent cough, exertional dyspnea, and occasional wheezing. She also reports low-grade fever and unexplained weight loss. Her chest X-ray shows right hilar prominence. A subsequent CECT chest reveals significantly enlarged, peripherally rim-enhancing, necrotic mediastinal lymph nodes, with one node causing moderate compression of the right main bronchus. Sputum CBNAAT is positive for *Mycobacterium tuberculosis*, rifampicin sensitive. Which of the following is the most likely pathological process causing her current symptoms?",
+    "options": {
+      "A": "Progressive primary tuberculosis with mediastinal lymphadenopathy and bronchial compression.",
+      "B": "Reactivation of latent tuberculosis with cavitating lung disease and secondary lymphadenopathy.",
+      "C": "Miliary tuberculosis leading to diffuse parenchymal infiltrates and reactive lymph node enlargement.",
+      "D": "Endobronchial tuberculosis causing intrinsic granuloma formation and subsequent bronchial stenosis."
+    },
+    "correctAnswer": "A",
+    "topic": "Pleural and Lymph Node TB",
+    "deepDiveExplanation": "The patient's presentation with significant mediastinal lymphadenopathy causing bronchial compression, low-grade fever, weight loss, and positive CBNAAT for M.tb, in the absence of typical features of secondary (reactivation) TB like upper lobe cavitation, is highly characteristic of progressive primary tuberculosis. Primary TB often involves prominent hilar and mediastinal lymph node enlargement, which can progress to cause compression of adjacent structures like bronchi, leading to symptoms like cough, dyspnea, and wheezing. The 'peripherally rim-enhancing, necrotic' description of lymph nodes is classic for tuberculous lymphadenitis.",
+    "highYieldPearl": "Rio's Take: Significant mediastinal lymphadenopathy, especially with necrotic features and compressive symptoms, in a young adult with positive TB diagnostics, should strongly suggest progressive primary TB, not necessarily miliary or reactivation TB.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option accurately describes the features of progressive primary TB, where lymph node enlargement and associated complications (like bronchial compression) are common, especially in symptomatic presentations.",
+      "B": "Reactivation TB (secondary TB) typically presents with features like upper lobe cavitating lesions, rather than primarily lymph node compression. While lymphadenopathy can occur, it's usually secondary to extensive parenchymal disease, which is not described here.",
+      "C": "Miliary tuberculosis would typically present with diffuse, fine nodular infiltrates on imaging due to hematogenous dissemination, and while lymph nodes may be enlarged, the predominant clinical picture would be different from the specific bronchial compression described.",
+      "D": "Endobronchial TB refers to intrinsic disease within the bronchial lumen (granuloma, ulceration, stricture). While it can be a complication of lymph node erosion into the bronchus, the vignette specifically describes 'moderate compression of the right main bronchus' by an enlarged lymph node, pointing to an extrinsic compressive etiology as the primary problem."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Sleep physiology & Classification of sleep disorders",
+      "section": null,
+      "pageNumber": 16
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_sleep_physiology_61a2843a",
+    "question": "A 6-year-old boy, recently immigrated from a region endemic for tuberculosis, presents for a routine health check-up. His chest X-ray reveals a small calcified nodule in the right lower lobe periphery and ipsilateral calcified hilar lymph nodes. A tuberculin skin test (TST) is strongly positive. He has no current symptoms. Based on these findings, which of the following is the most accurate description of his condition?",
+    "options": {
+      "A": "Healed primary complex (Ranke's complex) with latent tuberculosis infection.",
+      "B": "Active primary progressive tuberculosis with ongoing local dissemination.",
+      "C": "Reactivation secondary tuberculosis with a residual Ghon's focus.",
+      "D": "Miliary tuberculosis with resolution of active lesions."
+    },
+    "correctAnswer": "A",
+    "topic": "Pleural and Lymph Node TB",
+    "deepDiveExplanation": "The presence of a calcified parenchymal nodule (Ghon's focus) and ipsilateral calcified hilar lymph nodes represents a healed Ghon's complex, also known as a Ranke's complex. This indicates a prior primary tuberculosis infection that has resolved spontaneously. The strongly positive TST in an asymptomatic individual with healed lesions signifies latent tuberculosis infection, where viable bacilli are dormant within the body.",
+    "highYieldPearl": "Rio's Take: The hallmark of healed primary TB is the Ranke's complex (calcified Ghon's focus + calcified hilar LN). A positive TST in an asymptomatic individual with such findings indicates latent TB, not active disease.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option correctly identifies the radiological findings as a Ranke's complex (healed Ghon's complex) and correlates the positive TST in an asymptomatic individual with latent tuberculosis infection, representing the most common outcome of primary TB.",
+      "B": "Active primary progressive tuberculosis would imply ongoing symptoms, uncalcified lesions, and potentially worsening disease, none of which are present in this asymptomatic child with calcified lesions.",
+      "C": "Reactivation secondary tuberculosis typically occurs in adults, involves reactivation of latent bacilli, and often presents with upper lobe cavitary lesions. A Ghon's focus is characteristic of primary infection, not a 'residual' from secondary TB.",
+      "D": "Miliary tuberculosis involves diffuse micronodular infiltrates throughout both lungs due to widespread hematogenous dissemination. The described localized calcified lesions do not fit the radiological picture of miliary TB, even if resolved."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Sleep physiology & Classification of sleep disorders",
+      "section": null,
+      "pageNumber": 16
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_sleep_physiology_39762d21",
+    "question": "A 35-year-old previously healthy male presents with a 3-week history of low-grade fever, non-productive cough, and right-sided pleuritic chest pain. Physical examination reveals decreased breath sounds and dullness to percussion over the right lower hemithorax. A chest X-ray confirms a moderate-sized right unilateral pleural effusion. Thoracentesis yields an exudative fluid with high adenosine deaminase (ADA) levels (>40 U/L) and lymphocytic predominance. Sputum acid-fast bacilli (AFB) smears are negative. Which of the following is the most appropriate initial management strategy?",
+    "options": {
+      "A": "Initiate a standard four-drug anti-tubercular therapy (ATT) regimen.",
+      "B": "Perform a diagnostic video-assisted thoracoscopic surgery (VATS) for pleural biopsy.",
+      "C": "Administer corticosteroids along with symptomatic management for pleurisy.",
+      "D": "Repeat sputum AFB smears and culture to rule out active pulmonary tuberculosis."
+    },
+    "correctAnswer": "A",
+    "topic": "Pleural and Lymph Node TB",
+    "deepDiveExplanation": "The clinical presentation (low-grade fever, pleuritic chest pain, cough) combined with pleural fluid analysis (exudative, lymphocytic predominance, high ADA) is highly suggestive of tuberculous pleural effusion. Tuberculous pleurisy is a common extrapulmonary manifestation of TB, often occurring as a complication of primary infection. Sputum AFB smears are frequently negative in tuberculous pleural effusion because the infection is primarily confined to the pleura without significant communication with the airways. In such cases with a strong clinical and biochemical suspicion, initiating empiric standard four-drug anti-tubercular therapy (ATT) is the most appropriate initial management strategy, especially in TB-endemic regions.",
+    "highYieldPearl": "Rio's Take: For highly suspicious tuberculous pleural effusion (exudative, lymphocytic, high ADA), particularly with negative sputum AFB, empiric ATT is often the initial and definitive management. Delaying treatment for further invasive diagnostics is generally not recommended if suspicion is high.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct approach. The combination of clinical symptoms and classic pleural fluid findings (exudative, lymphocytic, high ADA) provides strong evidence for tuberculous pleurisy, warranting prompt initiation of ATT without further delay.",
+      "B": "While VATS with pleural biopsy offers high diagnostic yield, it is an invasive procedure. Given the high probability of tuberculous pleurisy based on the non-invasive fluid analysis, empirical ATT is generally preferred as the initial step. VATS may be reserved for cases where the diagnosis remains uncertain or there is no response to ATT.",
+      "C": "Corticosteroids may be considered as adjunctive therapy in tuberculous pleurisy to reduce inflammation and potential fibrotic complications, but they must *never* be administered alone. They are always given in conjunction with a full course of ATT.",
+      "D": "Sputum AFB smears are frequently negative in pleural tuberculosis, as the pathology is primarily in the pleura rather than the lung parenchyma communicating with the airways. While a negative sputum doesn't entirely rule out concurrent pulmonary TB, waiting for repeat sputum smears or cultures delays appropriate treatment for the highly likely diagnosis of tuberculous pleurisy."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Sleep physiology & Classification of sleep disorders",
+      "section": null,
+      "pageNumber": 16
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_sleep_physiology_854849fb",
+    "question": "A 6-year-old child presents with persistent cough, mild fever, and poor weight gain for two months. Her tuberculin skin test is strongly positive, and a chest X-ray reveals right hilar lymphadenopathy with a small, ill-defined infiltrate in the right lower lobe. Sputum CBNAAT detects *M. tuberculosis* and is rifampicin sensitive. Which of the following is **LEAST LIKELY** as a direct complication or characteristic outcome of this primary tuberculosis infection in an otherwise immunocompetent child?",
+    "options": {
+      "A": "Development of a Ranke's complex upon complete healing of the primary complex.",
+      "B": "Unilateral pleural effusion developing in the subsequent weeks.",
+      "C": "Right middle lobe collapse due to extrinsic compression of a bronchus by an enlarged lymph node.",
+      "D": "Rapid progression to significant cavitary disease predominantly located in the lung apex."
+    },
+    "correctAnswer": "D",
+    "topic": "Pleural and Lymph Node TB",
+    "deepDiveExplanation": "Primary tuberculosis in immunocompetent individuals typically involves the mid and lower lung zones, often associated with hilar and mediastinal lymphadenopathy (Ghon's complex). It usually heals spontaneously, forming a calcified Ranke's complex, or can remain latent. Complications such as bronchial compression leading to collapse (e.g., RML collapse) or pleural effusion are known features of primary progressive TB. However, rapid progression to cavitary disease predominantly in the lung apex is characteristic of secondary (reactivation) tuberculosis, which usually affects adults and is less typical for primary infection, especially in a child without significant immunosuppression.",
+    "highYieldPearl": "Rio's Take: Apical cavitary disease is the classic presentation of secondary/reactivation TB. While primary TB can progress or disseminate, it typically affects mid/lower zones and massive cavitary destruction in the apex is not its usual rapid progression pattern, particularly in children.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Ranke's complex is the calcified/healed Ghon's complex and represents the typical outcome of a healed primary infection, making this a plausible characteristic.",
+      "B": "Pleural effusion is a recognized complication of primary TB, as highlighted in the provided text.",
+      "C": "Enlarged lymph nodes compressing bronchi (e.g., leading to RML collapse) is a well-known complication of primary pulmonary TB, especially in children.",
+      "D": "This option describes a hallmark of secondary (reactivation) TB, not primary TB. While progressive primary TB can occur, cavitary disease, particularly apical, is much more typical of secondary disease."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Sleep physiology & Classification of sleep disorders",
+      "section": null,
+      "pageNumber": 16
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_sleep_physiology_998e16d9",
+    "question": "A 28-year-old female presents with progressive dyspnea, dry cough, and mild fever for 2 months. She denies hemoptysis or significant weight loss. Her past medical history is unremarkable. Chest X-ray reveals a widened mediastinum. A subsequent CECT chest shows large, peripherally rim-enhancing necrotic mediastinal lymph nodes, with one particularly large node causing significant tracheal compression. Sputum CBNAAT detects *M. tuberculosis* and is rifampicin sensitive. Which of the following statements regarding her condition is most appropriate?",
+    "options": {
+      "A": "This presentation, particularly the extent of mediastinal lymphadenopathy and tracheal compression, is more typical of secondary pulmonary tuberculosis than primary infection.",
+      "B": "The tracheal compression warrants immediate surgical intervention for lymph node debulking prior to starting anti-tubercular therapy (ATT).",
+      "C": "Clinical improvement, including reduction in tracheal compression, is expected within 2-4 weeks of initiating appropriate ATT.",
+      "D": "The presence of necrotic mediastinal lymph nodes suggests a high likelihood of disseminated miliary tuberculosis requiring an extended duration of ATT beyond 6-9 months."
+    },
+    "correctAnswer": "C",
+    "topic": "Pleural and Lymph Node TB",
+    "deepDiveExplanation": "The clinical scenario of prominent mediastinal lymphadenopathy causing tracheal compression in a young adult is highly characteristic of primary tuberculosis, especially progressive primary TB. Secondary TB usually manifests with apical cavitary lesions. For TB lymphadenitis, the primary treatment is anti-tubercular therapy (ATT). Surgical intervention is rarely the first line for tracheal compression due to TB lymph nodes, as they typically respond well to ATT, leading to clinical improvement and reduction in compression within weeks. The provided text indicates 'Initial improvement in 2 weeks, significant improvement in 4-8 Weeks'. While necrotic lymph nodes are a feature of TB, they do not automatically signify disseminated miliary TB, which would require specific evidence of widespread dissemination.",
+    "highYieldPearl": "Rio's Take: Progressive primary TB, especially in young adults, often presents with symptomatic lymphadenopathy (e.g., tracheal compression). ATT is the cornerstone treatment, with significant clinical and radiological response expected within weeks. Surgical debulking is reserved for refractory cases or acute life-threatening obstruction after initial ATT.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This statement is incorrect. Extensive mediastinal lymphadenopathy, especially causing compression, is a hallmark of primary tuberculosis, not secondary. Secondary TB typically presents with upper lobe cavitary disease.",
+      "B": "Immediate surgical intervention prior to ATT is generally not indicated for TB lymphadenitis-induced tracheal compression. ATT is the primary treatment and often resolves the compression. Surgical intervention is reserved for severe, refractory cases or those with acute airway compromise that does not respond to medical management including steroids.",
+      "C": "The provided text indicates 'Initial improvement in 2 weeks, significant improvement in 4-8 Weeks' with ATT. This option accurately reflects the expected timeline for clinical response, including resolution of compression, making it the most appropriate statement.",
+      "D": "Necrotic lymph nodes are a common finding in TB lymphadenitis but do not automatically indicate disseminated miliary TB. While progressive primary TB can lead to miliary TB, the diagnosis requires evidence of widespread hematogenous dissemination. The duration of ATT for nodal TB is typically 6-9 months, and 'extended duration beyond 6-9 months' is not universally required based solely on necrotic nodes."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Sleep physiology & Classification of sleep disorders",
+      "section": null,
+      "pageNumber": 16
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_sleep_physiology_b1651f77",
+    "question": "Regarding the pathogenesis and terminology of tuberculosis, consider the following statements:\n\n**Assertion (A):** The Ranke's complex represents the fibrosed and calcified remnants of the primary tuberculosis complex, and it may harbor viable, dormant *M. tuberculosis* bacilli.\n\n**Reason (R):** Latent tuberculosis infection (LTBI) is defined by the presence of viable but non-replicating *M. tuberculosis* organisms within the host, without clinical symptoms or evidence of active disease.",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A.",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A.",
+      "C": "A is true, but R is false.",
+      "D": "A is false, but R is true."
+    },
+    "correctAnswer": "B",
+    "topic": "Pleural and Lymph Node TB",
+    "deepDiveExplanation": "Assertion (A) is true: The Ranke's complex is explicitly defined as the 'fibrosed & calcified ghon's complex' in the provided text. The text also states that 'HEALED / CALCIFIED FOCI' (which the Ranke's complex represents) can contain 'Dormant bacilli' leading to 'LATENT LESIONS'. Therefore, it can harbor viable, dormant bacilli.\n\nReason (R) is true: The definition of 'LATENT LESIONS' in the text refers to 'organisms dormant; pulmonary or extrapulmonary', aligning with the standard definition of Latent Tuberculosis Infection (LTBI) as the presence of viable, non-replicating *M. tuberculosis* without active disease.\n\nHowever, R is not the correct explanation of A. Assertion A describes the anatomical and pathological nature of the Ranke's complex. Reason R defines what constitutes a latent infection. While a Ranke's complex can be the site of a latent infection, the definition of latency (R) does not explain *why* the Ranke's complex forms or its composition as fibrosed and calcified remnants. They are related concepts, but R explains the biological state of the bacteria in latency, not the specific formation or nature of the anatomical complex itself.",
+    "highYieldPearl": "Rio's Take: Ranke's complex is the calcified scar of primary TB, and it can be a reservoir for latent infection. Latent TB describes the dormant state of the bacteria within the host. While linked, the definition of latency doesn't explain the formation of the complex itself.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This would be chosen if one misunderstands the relationship, believing the definition of LTBI directly explains the anatomical formation and potential content of the Ranke's complex.",
+      "B": "This is the correct answer. Both statements are factually accurate based on the provided content. However, R (definition of LTBI) does not explain A (the nature and content of a Ranke's complex), but rather describes a related biological state that can be harbored within such a complex.",
+      "C": "Incorrect, as Reason (R) is a true statement describing LTBI.",
+      "D": "Incorrect, as Assertion (A) is a true statement describing the Ranke's complex."
+    },
+    "sourceLocation": {
+      "bookName": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+      "chapter": "Sleep physiology & Classification of sleep disorders",
+      "section": null,
+      "pageNumber": 16
+    },
+    "bookId": "67.SLEEP DISORDERS CLSSFCN PHYSIO (1)",
+    "chunkId": "67.SLEEP DISORDERS CLSSFCN PHYSIO_OCR_Complete (1)_chunk_003",
+    "generatedAt": 1767060988516,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "Which hypothalamic nucleus primarily promotes NREM sleep?",
+    "options": {
+      "A": "Suprachiasmatic Nucleus",
+      "B": "Ventrolateral Preoptic Area",
+      "C": "Lateral Hypothalamic Area",
+      "D": "Mammillary Bodies"
+    },
+    "correctAnswer": "B",
+    "topic": "sleep_physiology",
+    "deepDiveExplanation": "The Ventrolateral Preoptic Area (VLPO) of the hypothalamus is a key sleep-promoting center. It contains GABAergic and galaninergic neurons that inhibit wake-promoting nuclei, including the tuberomammillary nucleus (TMN), locus coeruleus (LC), dorsal and median raphe nuclei, and the lateral hypothalamic area (LHA), thereby initiating and maintaining NREM sleep.",
+    "highYieldPearl": "VLPO is the 'sleep switch' for NREM sleep.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The SCN regulates circadian rhythm, not direct sleep initiation. The LHA promotes wakefulness. Mammillary bodies are involved in memory formation and recall, not primary sleep initiation.",
+    "isOneLiner": true,
+    "id": "one_liner_sleep_physiology_cpre3w9j"
+  },
+  {
+    "question": "Which neurotransmitter system is primarily responsible for muscle atonia during REM sleep?",
+    "options": {
+      "A": "Cholinergic",
+      "B": "Noradrenergic",
+      "C": "Glycinergic",
+      "D": "Dopaminergic"
+    },
+    "correctAnswer": "C",
+    "topic": "sleep_physiology",
+    "deepDiveExplanation": "During REM sleep, muscle atonia is mediated by active inhibition of motor neurons in the spinal cord and brainstem. This inhibition is primarily achieved through the release of glycine and GABA from interneurons, leading to hyperpolarization of motor neurons and suppression of muscle activity. While cholinergic neurons are crucial for REM sleep generation and PGO waves, they do not directly cause atonia.",
+    "highYieldPearl": "Glycine and GABA are key for REM sleep atonia.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Cholinergic activity is high in REM and crucial for its generation, but glycine/GABA directly cause atonia. Noradrenergic and dopaminergic systems are generally less active during REM and are associated with wakefulness/arousal.",
+    "isOneLiner": true,
+    "id": "one_liner_sleep_physiology_nxu3pqev"
+  },
+  {
+    "question": "What EEG characteristic defines NREM Stage 3 sleep?",
+    "options": {
+      "A": "Sleep spindles and K-complexes",
+      "B": "Delta waves comprising >20% of the epoch",
+      "C": "Predominant alpha waves",
+      "D": "Sawtooth waves"
+    },
+    "correctAnswer": "B",
+    "topic": "sleep_physiology",
+    "deepDiveExplanation": "NREM Stage 3 (N3), also known as slow-wave sleep (SWS), is characterized by the presence of high-amplitude, low-frequency delta waves (0.5-2 Hz). For N3 sleep, delta waves must comprise 20% or more of the epoch. This is a key diagnostic criterion in polysomnography.",
+    "highYieldPearl": "NREM Stage 3 = Slow Wave Sleep = Delta waves >20%.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Option A describes NREM Stage 2. Option C describes relaxed wakefulness. Option D (sawtooth waves) are characteristic of REM sleep. The percentage threshold for delta waves is critical for N3 definition.",
+    "isOneLiner": true,
+    "id": "one_liner_sleep_physiology_oozsjjoy"
+  },
+  {
+    "question": "The Suprachiasmatic Nucleus (SCN) of the hypothalamus is the primary regulator of which physiological process?",
+    "options": {
+      "A": "REM sleep generation",
+      "B": "Sleep-wake homeostasis",
+      "C": "Circadian rhythmicity",
+      "D": "Muscle atonia"
+    },
+    "correctAnswer": "C",
+    "topic": "sleep_physiology",
+    "deepDiveExplanation": "The Suprachiasmatic Nucleus (SCN), located in the anterior hypothalamus, is the master circadian pacemaker in mammals. It receives direct light input from the retina via the retinohypothalamic tract and synchronizes endogenous biological rhythms, including the sleep-wake cycle, with the external light-dark cycle.",
+    "highYieldPearl": "SCN = Master Circadian Clock.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "REM sleep generation involves brainstem nuclei. Sleep-wake homeostasis is regulated by the accumulation of sleep drive (e.g., adenosine). Muscle atonia is a feature of REM sleep, mediated by brainstem/spinal cord mechanisms, not the SCN.",
+    "isOneLiner": true,
+    "id": "one_liner_sleep_physiology_gdbg40ts"
+  },
+  {
+    "question": "Which thermoregulatory change is characteristic of REM sleep?",
+    "options": {
+      "A": "Increased shivering threshold",
+      "B": "Decreased sweating threshold",
+      "C": "Poikilothermy",
+      "D": "Stable core body temperature"
+    },
+    "correctAnswer": "C",
+    "topic": "sleep_physiology",
+    "deepDiveExplanation": "During REM sleep, the body's thermoregulatory mechanisms are effectively suspended. This leads to a state of 'poikilothermy' or 'cold-bloodedness,' where the body loses its ability to maintain a stable core temperature through shivering, sweating, or vasoconstriction/dilation in response to environmental changes. This is distinct from NREM sleep where thermoregulation is actively maintained.",
+    "highYieldPearl": "REM sleep is characterized by poikilothermy (loss of thermoregulation).",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "While shivering and sweating thresholds are indeed altered during REM sleep (e.g., suppressed heat loss responses), the overarching characteristic is the complete failure of thermoregulation, leading to poikilothermy. Stable core body temperature is generally maintained during NREM sleep.",
+    "isOneLiner": true,
+    "id": "one_liner_sleep_physiology_t8ywrrr8"
+  },
+  {
+    "question": "Which hypothalamic nucleus primarily promotes NREM sleep?",
+    "options": {
+      "A": "Suprachiasmatic Nucleus",
+      "B": "Ventrolateral Preoptic Area",
+      "C": "Lateral Hypothalamic Area",
+      "D": "Mammillary Bodies"
+    },
+    "correctAnswer": "B",
+    "topic": "sleep_physiology",
+    "deepDiveExplanation": "The Ventrolateral Preoptic Area (VLPO) of the hypothalamus is a key sleep-promoting center. It contains GABAergic and galaninergic neurons that inhibit wake-promoting nuclei, including the tuberomammillary nucleus (TMN), locus coeruleus (LC), dorsal and median raphe nuclei, and the lateral hypothalamic area (LHA), thereby initiating and maintaining NREM sleep.",
+    "highYieldPearl": "VLPO is the 'sleep switch' for NREM sleep.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The SCN regulates circadian rhythm, not direct sleep initiation. The LHA promotes wakefulness. Mammillary bodies are involved in memory formation and recall, not primary sleep initiation.",
+    "isOneLiner": true,
+    "id": "one_liner_sleep_physiology_7gaykv61"
+  },
+  {
+    "question": "Which neurotransmitter system is primarily responsible for muscle atonia during REM sleep?",
+    "options": {
+      "A": "Cholinergic",
+      "B": "Noradrenergic",
+      "C": "Glycinergic",
+      "D": "Dopaminergic"
+    },
+    "correctAnswer": "C",
+    "topic": "sleep_physiology",
+    "deepDiveExplanation": "During REM sleep, muscle atonia is mediated by active inhibition of motor neurons in the spinal cord and brainstem. This inhibition is primarily achieved through the release of glycine and GABA from interneurons, leading to hyperpolarization of motor neurons and suppression of muscle activity. While cholinergic neurons are crucial for REM sleep generation and PGO waves, they do not directly cause atonia.",
+    "highYieldPearl": "Glycine and GABA are key for REM sleep atonia.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Cholinergic activity is high in REM and crucial for its generation, but glycine/GABA directly cause atonia. Noradrenergic and dopaminergic systems are generally less active during REM and are associated with wakefulness/arousal.",
+    "isOneLiner": true,
+    "id": "one_liner_sleep_physiology_zhvr3p3x"
+  },
+  {
+    "question": "What EEG characteristic defines NREM Stage 3 sleep?",
+    "options": {
+      "A": "Sleep spindles and K-complexes",
+      "B": "Delta waves comprising >20% of the epoch",
+      "C": "Predominant alpha waves",
+      "D": "Sawtooth waves"
+    },
+    "correctAnswer": "B",
+    "topic": "sleep_physiology",
+    "deepDiveExplanation": "NREM Stage 3 (N3), also known as slow-wave sleep (SWS), is characterized by the presence of high-amplitude, low-frequency delta waves (0.5-2 Hz). For N3 sleep, delta waves must comprise 20% or more of the epoch. This is a key diagnostic criterion in polysomnography.",
+    "highYieldPearl": "NREM Stage 3 = Slow Wave Sleep = Delta waves >20%.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Option A describes NREM Stage 2. Option C describes relaxed wakefulness. Option D (sawtooth waves) are characteristic of REM sleep. The percentage threshold for delta waves is critical for N3 definition.",
+    "isOneLiner": true,
+    "id": "one_liner_sleep_physiology_304m0z9s"
+  },
+  {
+    "question": "The Suprachiasmatic Nucleus (SCN) of the hypothalamus is the primary regulator of which physiological process?",
+    "options": {
+      "A": "REM sleep generation",
+      "B": "Sleep-wake homeostasis",
+      "C": "Circadian rhythmicity",
+      "D": "Muscle atonia"
+    },
+    "correctAnswer": "C",
+    "topic": "sleep_physiology",
+    "deepDiveExplanation": "The Suprachiasmatic Nucleus (SCN), located in the anterior hypothalamus, is the master circadian pacemaker in mammals. It receives direct light input from the retina via the retinohypothalamic tract and synchronizes endogenous biological rhythms, including the sleep-wake cycle, with the external light-dark cycle.",
+    "highYieldPearl": "SCN = Master Circadian Clock.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "REM sleep generation involves brainstem nuclei. Sleep-wake homeostasis is regulated by the accumulation of sleep drive (e.g., adenosine). Muscle atonia is a feature of REM sleep, mediated by brainstem/spinal cord mechanisms, not the SCN.",
+    "isOneLiner": true,
+    "id": "one_liner_sleep_physiology_8z412ifd"
+  },
+  {
+    "question": "Which thermoregulatory change is characteristic of REM sleep?",
+    "options": {
+      "A": "Increased shivering threshold",
+      "B": "Decreased sweating threshold",
+      "C": "Poikilothermy",
+      "D": "Stable core body temperature"
+    },
+    "correctAnswer": "C",
+    "topic": "sleep_physiology",
+    "deepDiveExplanation": "During REM sleep, the body's thermoregulatory mechanisms are effectively suspended. This leads to a state of 'poikilothermy' or 'cold-bloodedness,' where the body loses its ability to maintain a stable core temperature through shivering, sweating, or vasoconstriction/dilation in response to environmental changes. This is distinct from NREM sleep where thermoregulation is actively maintained.",
+    "highYieldPearl": "REM sleep is characterized by poikilothermy (loss of thermoregulation).",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "While shivering and sweating thresholds are indeed altered during REM sleep (e.g., suppressed heat loss responses), the overarching characteristic is the complete failure of thermoregulation, leading to poikilothermy. Stable core body temperature is generally maintained during NREM sleep.",
+    "isOneLiner": true,
+    "id": "one_liner_sleep_physiology_2j3wf72j"
+  }
+]

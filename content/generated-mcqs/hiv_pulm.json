@@ -1,0 +1,1236 @@
+[
+  {
+    "id": "rag_hiv_pulm_7db38728",
+    "question": "A 62-year-old male presents with severe daytime sleepiness, loud snoring, and witnessed apneas. His STOP-Bang score is 7. He has a medical history significant for poorly controlled Type 2 Diabetes Mellitus, newly diagnosed atrial fibrillation requiring anticoagulation, and a recent nocturnal fall without clear cause. His primary care physician is considering a sleep study to evaluate for Obstructive Sleep Apnea. Which of the following is the MOST appropriate initial diagnostic approach for this patient?",
+    "options": {
+      "A": "Portable home sleep apnea testing (HSAT) using a Type 3 device.",
+      "B": "Portable home sleep apnea testing (HSAT) using a Type 4 device.",
+      "C": "Attended in-laboratory polysomnography (Type 1).",
+      "D": "Unattended in-laboratory polysomnography (Type 2)."
+    },
+    "correctAnswer": "C",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "The patient presents with a high pretest probability of moderate to severe OSA (STOP-Bang score 7). However, the presence of significant comorbidities, including poorly controlled Type 2 Diabetes Mellitus, new-onset Atrial Fibrillation, and a nocturnal fall of unknown etiology, makes an attended in-laboratory polysomnography (Type 1) the most appropriate initial diagnostic approach. According to guidelines, patients with comorbid medical disorders, especially significant cardiac, pulmonary, or neuromuscular conditions, should undergo in-laboratory PSG because limited channel recordings (Type 3 or 4 HSAT) may be insufficient for accurate interpretation or safe monitoring. Type 1 PSG offers comprehensive monitoring (≥7 channels including neurological and cardiorespiratory parameters) and, crucially, is attended by a technologist, allowing for immediate intervention in case of severe events or other sleep disorders, which is vital given the patient's new-onset atrial fibrillation and nocturnal fall history. While Type 2 PSG is also comprehensive (≥7 channels), it is unattended, which might be less suitable for a patient with such complex medical issues requiring potential real-time oversight.",
+    "highYieldPearl": "Rio's Take: While HSAT is convenient for high pretest probability of moderate-to-severe OSA in otherwise healthy individuals, the presence of significant comorbidities (especially cardiac, pulmonary, or neurological issues, or other complex sleep disorders) necessitates the comprehensive and attended monitoring of a Type 1 in-laboratory polysomnography for both diagnostic accuracy and patient safety.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This option is a trap because the high STOP-Bang score might lead one to consider HSAT. However, the presence of multiple significant comorbidities, particularly cardiac issues (new-onset AFib) and unexplained nocturnal fall, contraindicates the use of limited channel studies like Type 3 HSAT, as their interpretation can be limited in such complex cases.",
+      "B": "Similar to Option A, this option is incorrect due to the patient's significant comorbidities. Type 4 HSAT is even more limited (1-2 channels) than Type 3 and would be highly inadequate for a patient with new-onset atrial fibrillation and a history of nocturnal falls, where comprehensive monitoring for arrhythmias or other complex sleep-related events is critical.",
+      "C": "This is the correct answer. The patient's complex medical history, including new-onset atrial fibrillation and an unexplained nocturnal fall, necessitates the comprehensive data acquisition and continuous medical supervision offered by an attended in-laboratory (Type 1) polysomnography. This ensures accurate diagnosis of sleep disorders and allows for real-time monitoring and intervention for any co-existing medical issues.",
+      "D": "While Type 2 PSG is an in-laboratory study with comprehensive channels (≥7), it is unattended. For a patient with significant cardiac comorbidities like new-onset atrial fibrillation and an unexplained nocturnal fall, the attendance of a technologist (as in Type 1 PSG) is preferred to ensure safety and allow for immediate intervention or observation during the study, making Type 1 a superior choice in this specific scenario."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_a30bcfa5",
+    "question": "Which of the following conditions is LEAST likely to be reliably diagnosed or comprehensively assessed using a Type 4 polysomnography study (typically 1-2 channels, such as airflow and/or O2 saturation) alone?",
+    "options": {
+      "A": "Moderate Obstructive Sleep Apnea in a young, otherwise healthy individual.",
+      "B": "Sleep-related hypoventilation in a patient with advanced neuromuscular disease.",
+      "C": "Nocturnal hypoxemia secondary to severe chronic obstructive pulmonary disease.",
+      "D": "Central Sleep Apnea in a patient with congestive heart failure."
+    },
+    "correctAnswer": "B",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "The provided text explicitly states: 'continuous recording of oxygen saturation alone can have limitations in the evaluation of hypercapnia. Oxygen desaturation may be associated with hypoventilation but, because oxygen desaturation can also be seen with obstructive and central respiratory events, it cannot be relied on alone in diagnosing sleep hypoventilation.' Type 4 PSG, with its minimal channels (often just SpO2 or airflow + SpO2), is particularly limited in diagnosing sleep hypoventilation. Hypoventilation often results in sustained hypoxemia and hypercapnia, which requires more comprehensive respiratory monitoring (e.g., end-tidal CO2, transcutaneous CO2, or more detailed ventilatory measures like tidal volume, minute ventilation, or effort bands) to differentiate from other causes of desaturation or to confirm hypercapnia, which Type 4 PSG typically lacks. The presence of advanced neuromuscular disease further complicates the respiratory pattern, making accurate diagnosis with limited channels highly unreliable.",
+    "highYieldPearl": "Rio's Take: While Type 4 PSG can screen for apneas/hypopneas and detect nocturnal hypoxemia, it is critically insufficient for definitively diagnosing sleep-related hypoventilation. Distinguishing hypoventilation from other breathing disorders, especially in complex patients, requires more comprehensive channels including CO2 monitoring or detailed effort sensors.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Type 4 PSG, by including airflow and/or O2 saturation, can often detect the recurrent desaturations and airflow limitations characteristic of moderate OSA, especially in a healthy individual. While it may not fully characterize every event or sleep stage, it can provide strong evidence for OSA presence, making it not the 'least reliably diagnosed' among the options.",
+      "B": "This is the correct answer. The context explicitly highlights the limitation of O2 saturation alone in diagnosing sleep hypoventilation. Type 4 PSG's minimal channels are inadequate for assessing the sustained changes in ventilation and hypercapnia that define hypoventilation, particularly in patients with complex respiratory mechanics like those with advanced neuromuscular disease.",
+      "C": "Nocturnal hypoxemia secondary to severe COPD can be reliably assessed by the oxygen saturation channel, which is a core component of even the most basic Type 4 studies. While it doesn't diagnose the underlying COPD or other sleep-related breathing events, it effectively measures the *presence* and *severity* of hypoxemia.",
+      "D": "If a Type 4 PSG includes airflow and O2 saturation, it can detect the cessation of airflow and associated desaturation that defines an apnea. However, it typically lacks respiratory effort sensors (thoracoabdominal movements). Without effort sensors, a Type 4 PSG cannot definitively *differentiate* between central and obstructive apneas. Therefore, while it can identify an 'apnea event', reliably diagnosing it specifically as 'central' without effort is impossible. This makes it challenging, but the unreliability for hypoventilation is more explicitly stated and fundamental to the limited channel set."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_6c1cbd2f",
+    "question": "Which of the following statements regarding polysomnography (PSG) interpretation is MOST accurate in differentiating between Obstructive Sleep Apnea (OSA) and Central Sleep Apnea (CSA)?",
+    "options": {
+      "A": "The presence of recurrent oxygen desaturations in isolation is sufficient to diagnose Obstructive Sleep Apnea.",
+      "B": "Sleep stage architecture (EEG and EOG) is primarily utilized to identify respiratory effort during sleep.",
+      "C": "Thoracoabdominal movement sensors are essential to distinguish between obstructive and central apneas.",
+      "D": "A sustained reduction in airflow without associated oxygen desaturation reliably indicates sleep-related hypoventilation."
+    },
+    "correctAnswer": "C",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "To differentiate between Obstructive Sleep Apnea (OSA) and Central Sleep Apnea (CSA), it is crucial to assess respiratory effort during an apneic event. OSA is characterized by a cessation of airflow despite continued or increased respiratory effort, indicating an upper airway obstruction. CSA, in contrast, involves a cessation of both airflow and respiratory effort, reflecting a lack of central respiratory drive. Thoracoabdominal movement sensors (effort belts) directly measure respiratory effort, making them essential for this critical differentiation. Without these sensors, an apnea can be identified (cessation of airflow), but its type (obstructive vs. central) cannot be reliably determined.",
+    "highYieldPearl": "Rio's Take: The core differentiator between obstructive and central apneas on PSG is respiratory effort. Effort sensors (thoracoabdominal bands) are indispensable; without them, you can identify an apnea, but not its underlying mechanism.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This statement is inaccurate. While recurrent oxygen desaturations are a common feature of OSA, they are not sufficient for diagnosis in isolation. Diagnosis requires evidence of respiratory events (apneas, hypopneas, or respiratory effort-related arousals) linked to the desaturations. Desaturations can also occur in other conditions like hypoventilation or pulmonary diseases.",
+      "B": "This statement is incorrect. EEG (electroencephalogram) and EOG (electrooculogram) are primarily used to identify and score sleep stages (NREM 1-3, REM) and detect arousals. Respiratory effort is measured by dedicated thoracoabdominal movement sensors (effort belts), not by EEG or EOG.",
+      "C": "This is the correct statement. Thoracoabdominal movement sensors measure the effort of breathing. If airflow ceases but effort continues, it indicates an obstructive event. If both airflow and effort cease, it indicates a central event. These sensors are therefore fundamental for distinguishing between OSA and CSA.",
+      "D": "This statement is inaccurate. Sleep-related hypoventilation typically involves a sustained reduction in ventilation leading to both hypercapnia (increased CO2) and often, though not always, oxygen desaturation. A reduction in airflow *without* associated oxygen desaturation might indicate a mild event or artifact, but it does not reliably diagnose significant hypoventilation, especially if hypercapnia is not simultaneously assessed."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_ff3bfb84",
+    "question": "Which of the following physiological parameters is typically NOT considered a standard channel recorded during a Type 1 fully attended polysomnography?",
+    "options": {
+      "A": "Electroencephalogram (EEG)",
+      "B": "Thoracoabdominal movement",
+      "C": "Esophageal pH monitoring",
+      "D": "Electrooculogram (EOG)"
+    },
+    "correctAnswer": "C",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "Type 1 polysomnography is the gold standard, involving comprehensive monitoring of at least 7 physiological parameters in an attended laboratory setting. These include neurological channels (Electroencephalogram for brain activity, Electrooculogram for eye movements, Electromyogram for muscle tone) and cardiorespiratory channels (Electrocardiogram/heart rate, Thoracoabdominal movements for respiratory effort, Airflow, and Oximetry for oxygen saturation). Esophageal pH monitoring is used to evaluate gastroesophageal reflux disease (GERD) and is not a standard component of routine polysomnography.",
+    "highYieldPearl": "Rio's Take: Remember the core components of Type 1 PSG as neurological (EEG, EOG, EMG) and cardiorespiratory (ECG, Thoracoabdominal, Airflow, Oximetry). Any parameter outside these categories is likely not standard.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "EEG is a primary neurological channel crucial for sleep staging. This is a standard component.",
+      "B": "Thoracoabdominal movements are essential for assessing respiratory effort and distinguishing types of sleep apnea. This is a standard component.",
+      "C": "Esophageal pH monitoring is specifically for evaluating acid reflux and is not a part of standard PSG. This is the correct answer.",
+      "D": "EOG is a neurological channel used to detect eye movements, which is vital for identifying REM sleep. This is a standard component."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_c0184f1f",
+    "question": "Which of the following patient scenarios would most likely warrant an **in-laboratory polysomnography (Type 1 or 2)** over a portable home sleep apnea test (HSAT) as the initial diagnostic study for suspected obstructive sleep apnea (OSA)?",
+    "options": {
+      "A": "A 45-year-old obese male with a high STOP-Bang score, presenting with loud snoring and daytime sleepiness, and no other known medical conditions.",
+      "B": "A 30-year-old female complaining of unrefreshing sleep and morning headaches, with a family history of OSA, and no significant comorbidities.",
+      "C": "A 60-year-old male with new-onset atrial fibrillation, systemic hypertension, and excessive daytime sleepiness, suspected of having OSA.",
+      "D": "A truck driver with a high pretest probability of moderate OSA, presenting for a routine Department of Transportation (DOT) physical, and otherwise healthy."
+    },
+    "correctAnswer": "C",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "The decision tree for diagnostic testing in suspected OSA indicates that in-laboratory polysomnography (Type 1 or 2) is preferred when the patient has signs or symptoms of comorbid medical disorders or comorbid sleep disorders. Both new-onset atrial fibrillation and systemic hypertension are significant comorbid medical conditions (listed among conditions for OSA evaluation) that can complicate OSA and require comprehensive monitoring not adequately provided by limited-channel portable studies. Patients with high pretest probability of moderate to severe OSA without significant comorbidities are typically suitable for initial portable HSAT.",
+    "highYieldPearl": "Rio's Take: Always opt for in-lab PSG if a patient with suspected OSA has significant comorbidities (e.g., cardiac, pulmonary, neuromuscular, other sleep disorders) as these conditions necessitate the comprehensive monitoring and expert oversight of a lab study.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This patient has a high pretest probability of OSA but no listed comorbid medical conditions, making HSAT an appropriate initial choice.",
+      "B": "This patient has symptoms suggestive of OSA and a family history but no significant comorbidities, making HSAT an appropriate initial choice.",
+      "C": "New-onset atrial fibrillation and systemic hypertension are serious comorbidities that warrant the more comprehensive evaluation of an in-laboratory PSG to ensure accurate diagnosis and safe management. This is the correct answer.",
+      "D": "This patient has a high pretest probability of moderate OSA and is otherwise healthy, making HSAT an appropriate initial choice, especially for screening purposes."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_bfc3342b",
+    "question": "According to the classification of polysomnography, a Level 3 study is characterized by which of the following?",
+    "options": {
+      "A": "Fully attended, with greater than 7 channels, performed in a laboratory setting.",
+      "B": "Fully unattended, utilizing 1-2 channels, typically monitoring airflow and/or O2 saturation.",
+      "C": "Fully unattended, with a minimum of 4 channels, primarily focused on cardiorespiratory parameters.",
+      "D": "Fully unattended, with greater than 7 channels, performed in a home setting."
+    },
+    "correctAnswer": "C",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "Level 3 polysomnography is defined as a limited channel study that is fully unattended. It typically involves a minimum of 4 channels (and up to 7 channels), focusing primarily on cardiorespiratory parameters such as airflow, respiratory effort (thoracoabdominal movements), heart rate, and oximetry. It notably excludes neurological channels like EEG, EOG, and EMG, which are characteristic of Level 1 and 2 studies.",
+    "highYieldPearl": "Rio's Take: Level 3 studies are home-based and emphasize cardiorespiratory monitoring (e.g., airflow, effort, SpO2) with fewer channels than Level 1/2, making them suitable for uncomplicated OSA suspects without other sleep disorders.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This description aligns with a Level 1 (Type 1) polysomnography.",
+      "B": "This description aligns with a Level 4 (Type 4) study, which is the most limited form of sleep testing.",
+      "C": "This accurately describes a Level 3 (Type 3) study, which is unattended, uses 4-7 channels, and concentrates on cardiorespiratory parameters. This is the correct answer.",
+      "D": "This description aligns with a Level 2 (Type 2) polysomnography, which is also unattended but has a full complement of channels like Level 1."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_2f078572",
+    "question": "A 60-year-old male with a history of type 2 diabetes mellitus and severe obstructive sleep apnea (OSA) managed with CPAP for 5 years presents with increasing daytime sleepiness (Epworth Sleepiness Scale score 14), despite self-reported good CPAP adherence. His wife reports frequent leg jerks during sleep and occasional episodes of him shouting out loud in his sleep. Which of the following is the most appropriate initial diagnostic investigation?",
+    "options": {
+      "A": "In-lab Polysomnography (Level 1)",
+      "B": "Home Sleep Apnea Test (Level 3)",
+      "C": "Multiple Sleep Latency Test (MSLT)",
+      "D": "Overnight oximetry with actigraphy"
+    },
+    "correctAnswer": "A",
+    "topic": "Polysomnography Interpretation",
+    "deepDiveExplanation": "This patient presents with a complex picture: persistent excessive daytime sleepiness (EDS) despite CPAP adherence for known OSA, along with new symptoms suggestive of comorbid sleep disorders (frequent leg jerks indicating Periodic Limb Movement Disorder/Restless Legs Syndrome, and shouting during sleep indicating a parasomnia like REM Sleep Behavior Disorder). According to the provided context and standard guidelines, when comorbid sleep disorders are suspected or present, a comprehensive in-lab Polysomnography (Level 1) is indicated. Level 1 PSG involves fully attended, multi-channel (≥7) monitoring in a laboratory setting, including EEG, EOG, and EMG, which are essential for diagnosing and characterizing movement disorders, parasomnias, and for detailed sleep architecture analysis to identify other causes of EDS.",
+    "highYieldPearl": "Rio's Take: For patients with suspected comorbid sleep disorders (e.g., parasomnias, movement disorders, narcolepsy), or when home sleep apnea testing is inconclusive, an in-lab, attended polysomnography (Level 1) is typically the diagnostic gold standard, offering comprehensive neurological and cardiorespiratory monitoring.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct choice because the patient's new symptoms (leg jerks, shouting during sleep) strongly indicate comorbid sleep disorders (e.g., PLMD/RLS, parasomnia). These conditions, along with persistent EDS despite CPAP, necessitate the comprehensive neurological and cardiorespiratory monitoring provided by an in-lab Level 1 PSG to accurately diagnose and characterize them.",
+      "B": "This is a trap. A Home Sleep Apnea Test (Level 3) is a limited channel study primarily focused on cardiorespiratory parameters (airflow, effort, oximetry). It lacks the EEG, EOG, and limb EMG channels crucial for diagnosing movement disorders, parasomnias, or for detailed sleep staging and evaluation of other non-OSA causes of EDS. While useful for initial OSA diagnosis in select patients, it is inadequate for this complex presentation.",
+      "C": "This is a trap. While the patient has persistent EDS, an MSLT is primarily used to diagnose narcolepsy or idiopathic hypersomnia. However, an MSLT must always be preceded by a full nocturnal PSG to ensure adequate sleep and to rule out other treatable causes of EDS (such as residual sleep apnea or other nocturnal sleep disorders) before proceeding with a test for central hypersomnias. Performing an MSLT without a preceding comprehensive PSG would be premature and potentially yield misleading results.",
+      "D": "This is a trap. Overnight oximetry (often part of a Level 4 study) primarily measures oxygen saturation and heart rate, which is insufficient for diagnosing OSA, and completely inadequate for diagnosing movement disorders, parasomnias, or evaluating sleep architecture. Actigraphy tracks sleep-wake patterns but cannot diagnose specific sleep disorders or differentiate the causes of sleep fragmentation or EDS in this complex clinical scenario."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_cf08d139",
+    "question": "A healthy individual is in a state of quiet, relaxed wakefulness, just prior to falling asleep, with their eyes closed. Which of the following brainwave frequencies would predominantly characterize their electroencephalogram (EEG) at this moment?",
+    "options": {
+      "A": "Delta waves (0-4 Hz)",
+      "B": "Theta waves (4-8 Hz)",
+      "C": "Alpha waves (8-12 Hz)",
+      "D": "Beta waves (12-40 Hz)"
+    },
+    "correctAnswer": "C",
+    "topic": "Sleep Physiology and Neuroanatomy",
+    "deepDiveExplanation": "The state of quiet, relaxed wakefulness with eyes closed, prior to sleep onset, is characterized by a predominance of Alpha waves (8-12 Hz) on the EEG. These waves are associated with a 'reflective, restful' state, indicating a relaxed but awake mind. As drowsiness (NREM Stage N1) sets in, Alpha waves decrease and Theta waves become more prominent.",
+    "highYieldPearl": "Rio's Take: Alpha waves are the hallmark of relaxed wakefulness, whereas Theta waves signify drowsiness (NREM Stage N1). Delta waves define deep NREM sleep (N3), and Beta waves indicate an active, alert mind.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Delta waves are characteristic of deep sleep (NREM Stage N3) and dreaming, not quiet wakefulness.",
+      "B": "Theta waves are associated with drowsiness and light sleep (NREM Stage N1 and N2), a state further into sleep than quiet, relaxed wakefulness.",
+      "C": "This option correctly identifies Alpha waves, which are prominent during relaxed wakefulness with eyes closed.",
+      "D": "Beta waves are associated with an 'active, busy mind' or alert concentration, which is distinct from a relaxed wakeful state prior to sleep."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_46dfbdfa",
+    "question": "A 68-year-old male develops profound somnolence and an inability to maintain sustained wakefulness following a brainstem stroke. Neuroimaging reveals a lesion affecting a critical network responsible for promoting alertness. Based on current understanding of sleep neuroanatomy, which of the following best describes the system most likely impaired and a key neurotransmitter involved in its wakefulness-promoting function?",
+    "options": {
+      "A": "Ventrolateral Preoptic Area (VLPO) – GABA",
+      "B": "Ascending Reticular Activating System (ARAS) – Acetylcholine",
+      "C": "Suprachiasmatic Nucleus (SCN) – Vasopressin",
+      "D": "Raphe Nuclei – Serotonin"
+    },
+    "correctAnswer": "B",
+    "topic": "Sleep Physiology and Neuroanatomy",
+    "deepDiveExplanation": "The Ascending Reticular Activating System (ARAS) is a complex network of nuclei in the brainstem and hypothalamus that projects to the thalamus and cortex, playing a crucial role in maintaining wakefulness and arousal. Key neurotransmitters involved in its wakefulness-promoting function include acetylcholine (from cholinergic neurons in the basal forebrain and brainstem), glutamate, norepinephrine, serotonin, histamine, and orexin. A lesion in the ARAS would lead to profound somnolence. While Raphe Nuclei (serotonin) are part of the ARAS, the provided context specifically mentions glutamate and acetylcholine as neurotransmitters involved in ARAS activation for wakefulness, making Acetylcholine a directly supported and strong choice.",
+    "highYieldPearl": "Rio's Take: The ARAS is vital for wakefulness. Damage to it, especially involving cholinergic pathways, results in severe somnolence. The VLPO promotes sleep, while the SCN is the master circadian clock.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "The Ventrolateral Preoptic Area (VLPO) is a sleep-promoting center, releasing GABA to inhibit wake-promoting neurons. A lesion in the VLPO would typically lead to insomnia, not somnolence.",
+      "B": "This option correctly identifies the Ascending Reticular Activating System (ARAS) as the primary wake-promoting system and Acetylcholine as a key neurotransmitter involved in cortical activation for wakefulness, directly supported by the provided text.",
+      "C": "The Suprachiasmatic Nucleus (SCN) is the master circadian clock, regulating the timing of sleep-wake cycles, but it is not directly involved in *maintaining* wakefulness through acute neurotransmission in the same way the ARAS is. Vasopressin is a neurotransmitter found in the SCN but its primary role here is circadian regulation, not direct wakefulness promotion in the context of a brainstem lesion.",
+      "D": "Raphe Nuclei release Serotonin and are indeed part of the ARAS, contributing to wakefulness. However, the context specifically highlights 'glutamate, acetylcholine' for wakefulness maintenance by ARAS. While serotonin is a plausible neurotransmitter for wakefulness promotion, acetylcholine is a more direct and explicitly mentioned option in the provided text snippet."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_b06903da",
+    "question": "A 55-year-old obese male presents with excessive daytime sleepiness, loud snoring, and witnessed apneic episodes. Polysomnography confirms severe Obstructive Sleep Apnea (OSA). Considering the impact of OSA on sleep architecture and brainwave activity, which of the following findings is most characteristic of severe untreated OSA?",
+    "options": {
+      "A": "An increase in the proportion of Delta wave activity (0-4 Hz) in the early part of the night.",
+      "B": "Sustained periods of Gamma wave activity (40-100 Hz) associated with vivid dreaming.",
+      "C": "Frequent shifts to lighter sleep stages or brief arousals, leading to reduced REM and N3 sleep.",
+      "D": "Predominance of Alpha wave activity (8-12 Hz) during all sleep stages due to increased muscle tone."
+    },
+    "correctAnswer": "C",
+    "topic": "Sleep Physiology and Neuroanatomy",
+    "deepDiveExplanation": "Severe Obstructive Sleep Apnea (OSA) is characterized by recurrent episodes of upper airway collapse during sleep, leading to hypoxemia and/or hypercapnia. These events trigger 'arousals' (brief awakenings, often unnoticed by the patient) that fragment sleep. This sleep fragmentation prevents the patient from achieving sustained periods of deeper, restorative sleep stages, specifically NREM Stage N3 (slow-wave sleep, characterized by Delta waves) and REM sleep, which are crucial for physical and cognitive restoration. The repeated arousals lead to a shift towards lighter sleep stages (N1, N2).",
+    "highYieldPearl": "Rio's Take: Sleep fragmentation, reduced deep sleep (N3), and decreased REM sleep are hallmarks of untreated OSA, directly contributing to excessive daytime sleepiness.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Delta wave activity (characteristic of NREM Stage N3, or slow-wave sleep) is typically *reduced*, not increased, in severe OSA due to sleep fragmentation caused by frequent arousals.",
+      "B": "Gamma waves are associated with active wakefulness, problem-solving, and concentration. Vivid dreaming occurs during REM sleep, which is characterized by mixed frequency EEG (theta, beta, and alpha activity), not predominantly Gamma waves, and REM sleep is often *reduced* in severe OSA.",
+      "C": "This option accurately describes the classic impact of severe OSA on sleep architecture. The repeated respiratory events cause frequent arousals, leading to fragmented sleep and a reduction in the more restorative deep sleep stages (N3 and REM sleep).",
+      "D": "Alpha waves are associated with relaxed wakefulness or microarousals. While alpha intrusions are observed during arousals in OSA, stating their 'predominance during *all* sleep stages' is incorrect. Sleep stages are defined by specific EEG patterns, and a constant predominance of alpha waves would indicate persistent wakefulness or severe sleep fragmentation, but not 'all sleep stages'. Muscle tone is actually *reduced* significantly in REM sleep in healthy individuals, and while upper airway tone is affected in OSA, it doesn't lead to a global predominance of alpha waves across all sleep stages."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_22ecf1e7",
+    "question": "A 35-year-old man presents with a 6-month history of profound, unremitting somnolence, spending nearly 18 hours per day asleep. His wife reports that even during brief periods of wakefulness, he appears confused and disoriented. Polysomnography reveals continuous, high-amplitude delta activity dominating the EEG for extended periods, minimal alpha rhythm, and severely impaired ability to achieve or maintain REM sleep. There are no features of cataplexy or hypnagogic hallucinations. Which of the following neuroanatomical or neurochemical alterations is LEAST consistent with this patient's clinical and polysomnographic presentation?",
+    "options": {
+      "A": "Bilateral pontomesencephalic lesions compromising the ascending reticular activating system (ARAS).",
+      "B": "A severe congenital deficiency in the production of orexin (hypocretin) peptides from the lateral hypothalamus.",
+      "C": "Pathological overactivity of the ventrolateral preoptic (VLPO) nucleus, overriding wake-promoting circuits.",
+      "D": "Widespread degeneration of cholinergic neurons within the basal forebrain and pedunculopontine tegmental nucleus."
+    },
+    "correctAnswer": "B",
+    "topic": "Sleep Physiology and Neuroanatomy",
+    "deepDiveExplanation": "The patient's presentation of profound, unremitting somnolence with continuous, high-amplitude delta activity and minimal REM sleep suggests a severe impairment of wake-promoting systems or a profound overdrive of sleep-promoting systems, leading to a state resembling a deep NREM sleep coma. \n\n*   **A. Bilateral pontomesencephalic lesions compromising the ARAS:** The ARAS is crucial for maintaining wakefulness. Damage to this system would directly lead to profound somnolence or coma with slow-wave EEG activity, consistent with the description.\n*   **C. Pathological overactivity of the VLPO nucleus:** The VLPO is the primary sleep-promoting center, releasing GABA and galanin to inhibit wake-promoting neurons. Excessive activity would powerfully drive NREM sleep and inhibit wakefulness, consistent with the profound somnolence and delta dominance.\n*   **D. Widespread degeneration of cholinergic neurons in the basal forebrain and pedunculopontine tegmental nucleus:** Cholinergic neurons in these regions are critical for cortical activation (wakefulness) and for the generation and maintenance of REM sleep. Their degeneration would impair wakefulness, leading to somnolence, and also significantly suppress REM sleep, which aligns with the 'severely impaired ability to achieve or maintain REM sleep'.\n*   **B. Severe congenital deficiency in orexin (hypocretin) peptides:** Orexin deficiency is the hallmark of Narcolepsy Type 1. While narcolepsy causes excessive daytime sleepiness (EDS) and an inability to maintain wakefulness, its characteristic polysomnographic features include sleep onset REM periods (SOREMPs), fragmented nocturnal sleep, and dysregulated REM sleep (e.g., cataplexy, hypnagogic hallucinations). The description of 'continuous, high-amplitude delta activity dominating the EEG for extended periods' and 'severely impaired ability to achieve or maintain REM sleep' is fundamentally inconsistent with the pathophysiology of narcolepsy, where REM sleep is disinhibited rather than suppressed, and NREM SWS is not typically 'prolonged' in this manner.",
+    "highYieldPearl": "Rio's Take: Understand the distinct roles of key nuclei (ARAS, VLPO, LHA, PPN/LDT) and their neurotransmitters in wakefulness, NREM, and REM sleep. Orexin deficiency leads to disinhibited REM sleep and fragmented wakefulness, not a state of prolonged, deep NREM with minimal REM.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Plausible as ARAS lesions cause severe wakefulness impairment and slow-wave EEG.",
+      "B": "This is the correct answer. The trap is that orexin deficiency causes somnolence (EDS), but the *specific* EEG features (prolonged delta, minimal REM) and absence of cataplexy/hallucinations make it inconsistent with classic narcolepsy.",
+      "C": "Plausible as VLPO is the 'sleep switch'; its overactivity would profoundly induce NREM sleep.",
+      "D": "Plausible as cholinergic systems are vital for cortical arousal and REM sleep. Their degeneration would impair both wakefulness and REM."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_bca58231",
+    "question": "A 28-year-old medical resident, after completing a grueling 48-hour on-call shift, finally gets an opportunity for a recovery sleep. Which of the following polysomnographic findings would be MOST characteristically observed during the initial hours of this recovery sleep period, reflecting the primary homeostatic response to severe sleep deprivation?",
+    "options": {
+      "A": "An immediate and pronounced increase in REM sleep percentage, often with earlier onset of REM sleep periods.",
+      "B": "A significant rebound in NREM Stage N3 sleep, characterized by a higher density and amplitude of delta waves, primarily occurring in the first few sleep cycles.",
+      "C": "Persistent fragmentation of sleep architecture with frequent awakenings and shifts to lighter NREM stages due to accumulated stress.",
+      "D": "Dominance of theta and alpha activity throughout the initial sleep cycles, indicative of sustained brain activity and resistance to deeper sleep states."
+    },
+    "correctAnswer": "B",
+    "topic": "Sleep Physiology and Neuroanatomy",
+    "deepDiveExplanation": "After prolonged sleep deprivation, the body's homeostatic drive for sleep is intensely high. This homeostatic drive primarily targets NREM slow-wave sleep (SWS), or Stage N3 sleep, which is characterized by high-amplitude, low-frequency delta waves (0-4 Hz). SWS is considered the most restorative stage of sleep.\n\n*   **A. Immediate and pronounced increase in REM sleep percentage:** While REM rebound does occur after sleep deprivation, the *initial* and most dominant compensatory response is the rebound of SWS. REM rebound typically becomes more pronounced later in the recovery period or is less quantitatively significant than the SWS rebound.\n*   **B. A significant rebound in NREM Stage N3 sleep:** This is the classical and most robust homeostatic response to sleep deprivation. The brain prioritizes recovering SWS debt, leading to an increase in both the duration and intensity (higher density and amplitude of delta waves) of NREM Stage N3 sleep, especially in the first few sleep cycles of recovery. This mechanism is crucial for metabolic restoration and memory consolidation.\n*   **C. Persistent fragmentation of sleep architecture:** While stress can lead to fragmented sleep, the overwhelming homeostatic pressure after severe sleep deprivation typically results in a consolidated, deep initial sleep period (dominated by SWS), as the body struggles to make up for lost sleep. Fragmentation would contradict this strong drive.\n*   **D. Dominance of theta and alpha activity:** Theta activity (4-8 Hz) is characteristic of NREM Stage N1 (drowsiness) and often seen in REM sleep. Alpha activity (8-12 Hz) is typical of relaxed wakefulness. Dominance of these rhythms during sleep, instead of delta activity, would indicate very light or superficial sleep, which is contrary to the intense drive for deep, restorative sleep after severe deprivation.",
+    "highYieldPearl": "Rio's Take: Sleep deprivation induces a powerful homeostatic drive. The first and most significant 'rebound' is in NREM Stage N3 (SWS), marked by increased delta wave activity. REM rebound occurs, but generally follows the SWS recovery.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Plausible because REM rebound is known, but it's not the *most characteristic initial* response. The 'immediate and pronounced' phrasing can mislead.",
+      "B": "Correct. This accurately describes the primary homeostatic compensatory mechanism for sleep debt.",
+      "C": "Plausible as stress is common in residents, but the acute homeostatic drive overrides this for the initial recovery sleep.",
+      "D": "Plausible as fatigue might suggest lighter sleep, but physiologically, the brain prioritizes deep sleep after severe deprivation."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_d2971e29",
+    "question": "A 5-year-old child diagnosed with Congenital Central Hypoventilation Syndrome (CCHS) exhibits normal ventilatory patterns when awake and engaged in play, but consistently develops profound hypoxemia and hypercapnia during all stages of sleep, requiring nocturnal mechanical ventilation. Genetic sequencing confirms a mutation in the PHOX2B gene. Considering the neuroanatomical control of respiration and sleep, which of the following best describes the specific physiological deficit underlying this child's sleep-related breathing disorder?",
+    "options": {
+      "A": "An uncoupling of the cortical voluntary respiratory drive from the brainstem autonomic centers during NREM sleep.",
+      "B": "A primary deficiency in the rhythmic activity generated by the preBötzinger complex, exclusively during REM sleep.",
+      "C": "A severe impairment in the responsiveness of central and peripheral chemoreceptors, particularly affecting their integration by medullary nuclei during sleep.",
+      "D": "Dysregulation of the ascending reticular activating system (ARAS) activity leading to profound brainstem respiratory motor neuron suppression across all sleep stages."
+    },
+    "correctAnswer": "C",
+    "topic": "Sleep Physiology and Neuroanatomy",
+    "deepDiveExplanation": "Congenital Central Hypoventilation Syndrome (CCHS), often referred to as Ondine's Curse, is a rare genetic disorder characterized by a failure of the automatic control of breathing, which becomes most evident or severe during sleep when voluntary cortical input to respiration is absent. The PHOX2B gene mutation is found in over 90% of CCHS cases and is critical for the development of the autonomic nervous system, including neurons involved in respiratory control and chemoreception.\n\n*   **A. Uncoupling of cortical voluntary respiratory drive:** The problem in CCHS is not an uncoupling of voluntary drive (which is preserved), but a profound failure of the *automatic* respiratory drive. During wakefulness, cortical voluntary control can temporarily compensate for the autonomic deficit, explaining why breathing is normal while awake.\n*   **B. Primary deficiency in the rhythmic activity generated by the preBötzinger complex, exclusively during REM sleep:** While CCHS affects the brainstem respiratory networks (including the preBötzinger complex, which generates the inspiratory rhythm), the deficit in automatic breathing is present during *all* sleep stages (NREM and REM), not exclusively during REM sleep. The preBötzinger complex generates the basic rhythm, but the *modulation* by chemoreceptors is the key deficit in CCHS.\n*   **C. A severe impairment in the responsiveness of central and peripheral chemoreceptors, particularly affecting their integration by medullary nuclei during sleep:** This is the most accurate and specific description of the physiological deficit in CCHS. Patients with CCHS have a blunted or absent ventilatory response to hypercapnia (high CO2 sensed by central chemoreceptors in the medulla) and hypoxia (low O2 sensed by peripheral chemoreceptors in carotid and aortic bodies). These chemoreceptors are crucial for adjusting breathing automatically to maintain blood gas homeostasis, especially during sleep when metabolic rates and CO2 production can change, and there is no conscious control over breathing. The PHOX2B mutation disrupts the development of these essential autonomic pathways.\n*   **D. Dysregulation of ARAS activity leading to profound brainstem respiratory motor neuron suppression:** ARAS primarily controls wakefulness. While profound brainstem depression (e.g., in coma) can lead to hypoventilation, the issue in CCHS is specific to the *control* of respiration (especially chemosensitivity), not a generalized ARAS-mediated suppression of motor neurons. The respiratory motor neurons themselves (phrenic, intercostal) are typically functional, but they don't receive appropriate drive from the central pattern generator and chemosensitive inputs during sleep.",
+    "highYieldPearl": "Rio's Take: CCHS is a disorder of automatic respiratory control due to PHOX2B mutation, leading to impaired chemosensitivity (to CO2 and O2) and its integration in brainstem respiratory centers, primarily manifesting during sleep when voluntary drive is absent.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Plausible as sleep removes voluntary control, but misrepresents the core defect as uncoupling, rather than a primary failure of automatic drive.",
+      "B": "Plausible as preBötzinger is critical for rhythm, but the deficit is not exclusive to REM and the primary issue is chemosensitivity, not just rhythm generation.",
+      "C": "Correct. This precisely describes the well-established pathophysiology of CCHS, integrating neuroanatomy (medullary nuclei, chemoreceptors) and sleep physiology.",
+      "D": "Plausible as ARAS is in the brainstem, but CCHS is not primarily an ARAS dysfunction leading to general motor neuron suppression; it's a specific defect in respiratory *control* and chemosensitivity."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_b4561190",
+    "question": "A 45-year-old male presents with excessive daytime sleepiness and difficulty maintaining wakefulness, following a brainstem stroke. Polysomnography reveals prolonged sleep latency and fragmented sleep architecture. Which of the following neurotransmitter systems, primarily associated with the ascending reticular activating system (ARAS), is crucial for maintaining wakefulness and is likely affected in this patient?",
+    "options": {
+      "A": "Acetylcholine and Glutamate",
+      "B": "Serotonin and Dopamine",
+      "C": "GABA and Glycine",
+      "D": "Adenosine and Melatonin"
+    },
+    "correctAnswer": "A",
+    "topic": "Sleep Physiology and Neuroanatomy",
+    "deepDiveExplanation": "The ascending reticular activating system (ARAS) is a network of nuclei in the brainstem, hypothalamus, and basal forebrain that plays a critical role in regulating wakefulness and consciousness. Key neurotransmitters involved in promoting wakefulness through the ARAS include acetylcholine (from the pontine and basal forebrain cholinergic nuclei) and glutamate (from various brainstem nuclei like the locus coeruleus and raphe nuclei projections). Lesions in the brainstem can disrupt these pathways, leading to disorders of arousal like hypersomnia and fragmented sleep.",
+    "highYieldPearl": "Rio's Take: Remember ARAS as the 'wakefulness switchboard.' Acetylcholine and Glutamate are primary excitatory players keeping the brain alert.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. The provided text explicitly mentions 'glutamate, acetylcholine' as neurotransmitters involved in maintaining wakefulness via the ARAS. These are primary excitatory neurotransmitters for arousal.",
+      "B": "Serotonin (from raphe nuclei) contributes to sleep onset and maintenance, though some serotonergic neurons fire during wakefulness. Dopamine is also involved in wakefulness and arousal but is not considered *primarily* part of the core ARAS system as explicitly as ACh and Glutamate in the context of brainstem stroke affecting ARAS function. It's a plausible distractor as these are important neuromodulators.",
+      "C": "GABA and Glycine are inhibitory neurotransmitters, primarily involved in promoting sleep and reducing arousal, rather than maintaining wakefulness. Therefore, their impairment would likely lead to increased arousal, not difficulty maintaining wakefulness.",
+      "D": "Adenosine accumulates during wakefulness and promotes sleep by inhibiting arousal-promoting neurons. Melatonin is a hormone secreted by the pineal gland that helps regulate circadian rhythms and promotes sleep. While crucial for sleep regulation, they are not primary neurotransmitters of the ARAS involved in maintaining wakefulness in the same direct sense as ACh/Glutamate."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_9de293d1",
+    "question": "A polysomnography technician observes EEG readings from a healthy 30-year-old patient during the transition from quiet wakefulness to early sleep. The patient is noted to be in a relaxed, reflective state with closed eyes. Which characteristic brainwave pattern is most likely predominant during this stage, preceding the onset of deeper sleep?",
+    "options": {
+      "A": "Predominantly Delta waves (< 4 Hz)",
+      "B": "Irregular high-frequency Gamma waves (40-100 Hz)",
+      "C": "Synchronized Alpha waves (8-12 Hz)",
+      "D": "Low-amplitude, mixed-frequency Beta waves (12-40 Hz)"
+    },
+    "correctAnswer": "C",
+    "topic": "Sleep Physiology and Neuroanatomy",
+    "deepDiveExplanation": "The transition from active wakefulness to sleep typically involves a sequence of EEG changes. During quiet wakefulness with closed eyes, a relaxed and reflective state is characterized by the predominance of Alpha waves (8-12 Hz). As sleep deepens, Alpha waves give way to Theta waves (4-8 Hz) in Stage N1, followed by K-complexes and sleep spindles in Stage N2, and finally Delta waves (0-4 Hz) in Stage N3 (slow-wave sleep).",
+    "highYieldPearl": "Rio's Take: Alpha waves are your 'zen' waves – relaxed, eyes closed, before you drift off. Know the Hz ranges for each state.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Delta waves are characteristic of deep, slow-wave sleep (N3) and dreaming, not the relaxed state preceding sleep onset. The frequency range is too low for this state.",
+      "B": "Gamma waves are associated with intense cognitive activity, problem-solving, and concentration. This is an active, highly alert state, opposite to the relaxed state described.",
+      "C": "Correct. The provided text explicitly links Alpha waves (8-12 Hz) to a 'Reflective, restful' state, which perfectly matches the clinical description of quiet wakefulness with closed eyes, preceding the onset of deeper sleep.",
+      "D": "Beta waves are characteristic of an active, busy, or alert mind, typically seen during active wakefulness, problem-solving, or stress, not a relaxed state."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_a72c94bc",
+    "question": "A 55-year-old male presents with increasing daytime somnolence and nocturnal hypoxemia. His wife reports periods where he stops breathing entirely for up to 30 seconds multiple times an hour during sleep, without snoring or effort. Clinical evaluation and imaging reveal a localized lesion in the ventrolateral medulla. This patient's presentation is most consistent with a disorder affecting the automatic control of respiration, which is primarily mediated by which of the following mechanisms during sleep?",
+    "options": {
+      "A": "Chemoreceptor sensitivity to hypoxemia, overriding central inspiratory drive.",
+      "B": "Activity of the dorsal respiratory group (DRG) and ventral respiratory group (VRG) in the brainstem.",
+      "C": "Cortical input to phrenic and intercostal motor neurons.",
+      "D": "Enhanced upper airway dilator muscle tone in response to sleep."
+    },
+    "correctAnswer": "B",
+    "topic": "Sleep Physiology and Neuroanatomy",
+    "deepDiveExplanation": "The clinical vignette describes central sleep apnea (CSA), characterized by cessation of breathing without respiratory effort, associated with a localized lesion in the ventrolateral medulla. The medulla houses the primary respiratory control centers: the dorsal respiratory group (DRG), primarily responsible for inspiration and setting the basic rhythm, and the ventral respiratory group (VRG), involved in both inspiration and expiration, particularly during forced breathing. These nuclei form the core of the automatic respiratory control system, which is crucial for maintaining breathing during sleep when volitional (cortical) control is diminished. A lesion in this area would directly impair this automatic drive.",
+    "highYieldPearl": "Rio's Take: Think of the DRG/VRG in the brainstem as the 'pacemaker' for breathing, especially critical during automatic breathing in sleep. Medullary lesions can silence this pacemaker, leading to central apnea.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "While chemoreceptors (central and peripheral) *modulate* breathing in response to changes in O2, CO2, and pH, they are not the *primary mediators* of the automatic respiratory rhythm itself. Their signals are fed into the brainstem respiratory groups, which then generate the motor output. In this case, the lesion impairs the central drive itself, not just its modulation by chemoreceptors.",
+      "B": "Correct. The DRG and VRG in the brainstem are the fundamental rhythm generators for automatic breathing. A lesion in the ventrolateral medulla (which contains parts of these groups) would directly impair their function, leading to central apnea, especially pronounced during sleep when volitional control is diminished.",
+      "C": "Cortical input mediates *volitional* control of breathing (e.g., holding breath, speaking). While present during wakefulness, its contribution diminishes significantly during sleep, and automatic brainstem control becomes dominant. Central sleep apnea is characterized by *absent* automatic drive, not impaired volitional drive.",
+      "D": "During sleep, upper airway dilator muscle tone *decreases*, predisposing to obstructive sleep apnea. This patient has central apnea, characterized by absent effort, not upper airway obstruction; therefore, enhanced dilator tone is incorrect and irrelevant to the central pathology."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_bc639eb7",
+    "question": "A 35-year-old male presents with irresistible daytime sleepiness, episodes of sudden muscle weakness triggered by strong emotions (e.g., laughter, anger), and vivid, dream-like experiences upon falling asleep. Polysomnography shows sleep-onset REM periods and disrupted nocturnal sleep. A lumbar puncture reveals very low levels of a specific neuropeptide in the cerebrospinal fluid. Which of the following neuronal populations is most likely deficient in this patient, contributing to his primary sleep disorder?",
+    "options": {
+      "A": "Ventrolateral preoptic area (VLPO) GABAergic neurons",
+      "B": "Locus Coeruleus noradrenergic neurons",
+      "C": "Raphe nuclei serotonergic neurons",
+      "D": "Lateral hypothalamic orexinergic neurons"
+    },
+    "correctAnswer": "D",
+    "topic": "Sleep Physiology and Neuroanatomy",
+    "deepDiveExplanation": "The clinical vignette describes classic symptoms of Narcolepsy Type 1, including excessive daytime sleepiness, cataplexy (sudden muscle weakness triggered by emotions), hypnagogic hallucinations, and sleep-onset REM periods on polysomnography. The hallmark of Narcolepsy Type 1 is the degeneration of orexinergic (hypocretinergic) neurons in the lateral hypothalamus. Orexin is a neuropeptide crucial for maintaining wakefulness and stabilizing the sleep-wake cycle, as well as suppressing REM sleep. Its deficiency leads to fragmented wakefulness (daytime sleepiness) and uncontrolled intrusions of REM sleep components (cataplexy, sleep paralysis, hypnagogic hallucinations) into wakefulness.",
+    "highYieldPearl": "Rio's Take: Narcolepsy Type 1 is primarily a disorder of orexin (hypocretin) deficiency due to the loss of orexinergic neurons in the lateral hypothalamus. Orexin acts as a 'wakefulness-promoting' and 'REM-suppressing' neurotransmitter.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "VLPO GABAergic neurons are sleep-promoting neurons. Their activation promotes sleep, and their deficiency would typically lead to insomnia or increased wakefulness, not the characteristic symptoms of narcolepsy.",
+      "B": "Locus Coeruleus noradrenergic neurons are part of the ascending reticular activating system (ARAS) and promote wakefulness and arousal. While their activity changes in narcolepsy, their primary deficiency is not the underlying cause of Narcolepsy Type 1. They are also important for maintaining muscle tone during wakefulness.",
+      "C": "Raphe nuclei serotonergic neurons are also part of the ARAS, promoting wakefulness and suppressing REM sleep. While their function is modulated in narcolepsy, their primary deficiency is not the etiology of Narcolepsy Type 1. They contribute to general arousal and mood regulation.",
+      "D": "This is the correct answer. The degeneration of orexinergic neurons in the lateral hypothalamus leads to low CSF orexin levels and is the pathological basis of Narcolepsy Type 1, explaining both the excessive daytime sleepiness and cataplexy."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_7a67ec28",
+    "question": "A 28-year-old graduate student, highly anxious about an upcoming thesis defense, reports extreme difficulty falling asleep for the past 3 months. When she finally drifts off, her sleep feels unrefreshing, and she often wakes up feeling exhausted. Polysomnography (PSG) is performed, revealing prolonged sleep latency, increased awakenings, and a disproportionate amount of sleep spent in lighter stages. Analysis of her EEG during apparent sleep shows persistent activity predominantly in the 15-30 Hz range, even when she subjectively reports being asleep. Based on the provided EEG frequency table, the persistent EEG activity observed in this patient during perceived sleep is most indicative of which underlying state, hindering restorative sleep?",
+    "options": {
+      "A": "Deep sleep with vivid dreaming",
+      "B": "A state of mental relaxation and rest",
+      "C": "An overactive and busy mental state",
+      "D": "A state of early drowsiness and light sleep"
+    },
+    "correctAnswer": "C",
+    "topic": "Sleep Physiology and Neuroanatomy",
+    "deepDiveExplanation": "The patient's symptoms (difficulty falling asleep, unrefreshing sleep despite perceived sleep, anxiety) and PSG findings (prolonged sleep latency, increased awakenings, light sleep stages) are classic for psychophysiological insomnia, often associated with hyper-arousal. The EEG frequency table indicates that Beta waves (12-40 Hz) are associated with a 'busy, active mind.' Persistent activity predominantly in the 15-30 Hz range, which falls within the Beta band, during perceived sleep suggests that the brain is in a hyper-aroused, 'busy' state, rather than transitioning into deeper, restorative sleep stages. This reflects the disconnect between subjective sleep perception and objective brain activity.",
+    "highYieldPearl": "Rio's Take: Persistent Beta activity (12-40 Hz) during perceived sleep is a key indicator of psychophysiological insomnia, reflecting cerebral hyper-arousal even when an individual believes they are sleeping. This prevents entry into deeper, restorative sleep stages.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Deep sleep with vivid dreaming would typically be associated with Delta waves (0-4 Hz) for deep NREM sleep or mixed frequencies (including Theta and Beta, often with Sawtooth waves) for REM sleep, which is when most vivid dreaming occurs. Persistent 15-30 Hz (Beta) activity does not fit this description.",
+      "B": "A state of mental relaxation and rest is primarily associated with Alpha waves (8-12 Hz), as indicated in the provided table. The patient's EEG shows higher frequency Beta activity.",
+      "C": "This is the correct answer. The persistent 15-30 Hz activity falls into the Beta wave range (12-40 Hz), which the table associates with a 'busy, active mind.' This aligns with the concept of cerebral hyper-arousal characteristic of psychophysiological insomnia, where the brain struggles to disengage from wakefulness and achieve restorative sleep.",
+      "D": "A state of early drowsiness and light sleep (N1/N2) is predominantly characterized by Theta waves (4-8 Hz) along with sleep spindles and K-complexes. The persistent 15-30 Hz (Beta) activity is inconsistent with early drowsiness or light sleep."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_7639b583",
+    "question": "A 60-year-old blind patient, who lost vision due to bilateral optic nerve damage 10 years ago, presents with a 6-month history of recurrent, debilitating insomnia followed by periods of excessive daytime sleepiness, cycling approximately every 24.5 to 25 hours. He struggles to maintain a regular sleep schedule, despite strict adherence to behavioral therapies. His other neurological examinations are unremarkable. The most likely explanation for this patient's sleep-wake disturbance involves a dysfunction in the direct projection of which of the following pathways to the primary circadian pacemaker?",
+    "options": {
+      "A": "Geniculohypothalamic tract from the lateral geniculate nucleus",
+      "B": "Retinohypothalamic tract containing melanopsin-expressing retinal ganglion cells",
+      "C": "Tectospinal tract originating from the superior colliculus",
+      "D": "Spinothalamic tract providing nociceptive input"
+    },
+    "correctAnswer": "B",
+    "topic": "Sleep Physiology and Neuroanatomy",
+    "deepDiveExplanation": "The patient's clinical presentation, particularly being totally blind due to optic nerve damage and experiencing a sleep-wake cycle that is longer than 24 hours (approximately 24.5-25 hours), is characteristic of Non-24-hour Sleep-Wake Rhythm Disorder. This disorder occurs when the primary circadian pacemaker, the suprachiasmatic nucleus (SCN) of the hypothalamus, can no longer be entrained by light. The retinohypothalamic tract (RHT) is the direct pathway for light signals from the retina to the SCN. This tract contains specialized intrinsically photosensitive retinal ganglion cells (ipRGCs) that express the photopigment melanopsin, which detect light primarily for non-image-forming functions, including circadian photoentrainment. Optic nerve damage disrupts this critical input, preventing the SCN from synchronizing with the 24-hour light-dark cycle, leading to a 'free-running' rhythm dictated by the SCN's intrinsic period (which is often slightly longer than 24 hours).",
+    "highYieldPearl": "Rio's Take: The retinohypothalamic tract (RHT), carrying signals from melanopsin-expressing retinal ganglion cells, is the primary pathway for photic entrainment of the suprachiasmatic nucleus (SCN). Damage to this pathway, as seen in bilateral optic nerve damage, leads to Non-24-hour Sleep-Wake Rhythm Disorder.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "The geniculohypothalamic tract originates from the intergeniculate leaflet of the lateral geniculate nucleus and projects to the SCN. While it plays a role in modulating circadian rhythms, it is primarily involved in indirect light effects via arousal/attention and non-photic entrainment, not the direct photic entrainment that is lost in this scenario.",
+      "B": "This is the correct answer. The retinohypothalamic tract, specifically its connection via melanopsin-containing retinal ganglion cells, is essential for transmitting light information directly to the SCN for circadian entrainment. Damage to the optic nerves severs this critical pathway, leading to a 'free-running' circadian rhythm.",
+      "C": "The tectospinal tract is involved in reflex postural movements of the head and neck in response to visual and auditory stimuli. It has no direct role in circadian rhythm entrainment.",
+      "D": "The spinothalamic tract transmits pain and temperature sensation from the body to the thalamus. It is entirely unrelated to circadian rhythm regulation or visual pathways."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_98298785",
+    "question": "A 45-year-old patient undergoes polysomnography as part of an evaluation for suspected sleep-related breathing disorder. During the study, the electroencephalogram (EEG) predominantly shows high amplitude, slow-frequency waves within the 0-4 Hz range. This pattern is associated with profound relaxation and restorative processes. Which of the following brain wave patterns is being described, and what state is it typically associated with?",
+    "options": {
+      "A": "Delta waves; Deep sleep and dreaming",
+      "B": "Theta waves; Drowsiness",
+      "C": "Alpha waves; Reflective, restful state",
+      "D": "Beta waves; Busy, active mind"
+    },
+    "correctAnswer": "A",
+    "topic": "Sleep Physiology and Neuroanatomy",
+    "deepDiveExplanation": "Delta waves are the slowest and highest amplitude brain waves, with frequencies ranging from 0 to 4 Hz. They are characteristic of slow-wave sleep (NREM stage N3 or deep sleep), which is crucial for physical restoration, memory consolidation, and growth hormone release. The presence of these waves signifies a state of deep unconsciousness and is essential for the restorative functions of sleep.",
+    "highYieldPearl": "Rio's Take: Understanding the characteristic EEG patterns and their associated frequencies (Delta: deep sleep, Theta: drowsiness, Alpha: restful wakefulness, Beta: active thought, Gamma: problem-solving) is fundamental for interpreting sleep studies and understanding sleep architecture.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option correctly identifies Delta waves and their association with deep sleep/dreaming, directly matching the 0-4 Hz frequency and description of profound relaxation and restorative processes from the context.",
+      "B": "Theta waves (4-8 Hz) are associated with drowsiness, which is a plausible state during polysomnography. However, the specified frequency range (0-4 Hz) in the vignette explicitly points to Delta waves, making this an incorrect match for the given frequency.",
+      "C": "Alpha waves (8-12 Hz) are characteristic of a relaxed, yet awake or early drowsy state. While 'restful' might sound similar to 'profound relaxation,' the frequency range is significantly higher than 0-4 Hz, and it's not typically associated with deep sleep or dreaming.",
+      "D": "Beta waves (12-40 Hz) are associated with an active, busy mind and are predominant during alert wakefulness. This option is incorrect as the vignette describes a slow-frequency wave pattern typical of sleep, not an active mental state."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_b174b3bc",
+    "question": "A 60-year-old male with a history of stroke affecting his brainstem presents with persistent excessive daytime somnolence and difficulty maintaining wakefulness despite adequate sleep hygiene. Neurological imaging reveals a lesion in the upper brainstem. The patient's inability to stay alert points to a dysfunction in the neural system primarily responsible for arousal. Which of the following neuroanatomical systems is most directly implicated in maintaining wakefulness and alertness?",
+    "options": {
+      "A": "Ascending Reticular Activating System (ARAS)",
+      "B": "Basal Ganglia",
+      "C": "Cerebellum",
+      "D": "Hippocampus"
+    },
+    "correctAnswer": "A",
+    "topic": "Sleep Physiology and Neuroanatomy",
+    "deepDiveExplanation": "The Ascending Reticular Activating System (ARAS) is a crucial network of nuclei located in the brainstem (pons, midbrain) and posterior hypothalamus, with widespread projections to the thalamus and cerebral cortex. It plays a pivotal role in maintaining consciousness, wakefulness, and alertness by promoting cortical arousal. Damage to the ARAS, as suggested by a brainstem lesion in the vignette, can lead to severe disturbances in consciousness, including somnolence or coma.",
+    "highYieldPearl": "Rio's Take: The ARAS is the 'master switch' for wakefulness. Key neurotransmitters like acetylcholine, norepinephrine, serotonin, histamine, and orexin are involved in its excitatory functions. Understanding its role is vital for explaining various consciousness disorders.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option correctly identifies the Ascending Reticular Activating System (ARAS) as the primary system for maintaining wakefulness, consistent with the provided context and the clinical presentation of persistent somnolence due to a brainstem lesion.",
+      "B": "The Basal Ganglia are primarily involved in motor control, executive functions, and emotions. While important for overall brain function, they are not the main system responsible for global wakefulness and arousal. This is a distracter based on general neuroanatomy knowledge.",
+      "C": "The Cerebellum is crucial for motor coordination, balance, and learning motor skills. It does not play a direct role in maintaining the state of wakefulness or alertness. This is a distracter based on common brain regions.",
+      "D": "The Hippocampus is a key structure for memory formation and spatial navigation. While vital for cognitive function, it is not directly responsible for the global state of wakefulness. This is a distracter that tests specific functional knowledge of brain structures."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_33aad07e",
+    "question": "A 58-year-old obese male with a 10-year history of asthma reports increasing daytime fatigue, loud snoring, and episodes of gasping during sleep, as observed by his wife. Despite regular use of inhaled corticosteroids and long-acting beta-agonists, his asthma control remains poor, with frequent nocturnal awakenings due to cough and shortness of breath. The pulmonologist suspects an underlying sleep disorder contributing to his refractory asthma. Which of the following conditions is the most likely comorbidity contributing to his symptoms?",
+    "options": {
+      "A": "Central Sleep Apnea (CSA)",
+      "B": "Restless Legs Syndrome (RLS)",
+      "C": "Obstructive Sleep Apnea (OSA)",
+      "D": "Narcolepsy"
+    },
+    "correctAnswer": "C",
+    "topic": "Sleep Physiology and Neuroanatomy",
+    "deepDiveExplanation": "Obstructive Sleep Apnea (OSA) is characterized by recurrent episodes of upper airway collapse during sleep, leading to snoring, gasping, and intermittent hypoxia. Obesity is a major risk factor. OSA is a well-recognized comorbidity of asthma, especially in obese patients, and can exacerbate asthma severity, leading to poorer control despite optimal medical therapy. The chronic intermittent hypoxia and inflammation associated with OSA can worsen airway hyperresponsiveness and reflux, both of which contribute to asthma symptoms.",
+    "highYieldPearl": "Rio's Take: In an obese patient with refractory asthma and classic symptoms of snoring and daytime sleepiness, always consider OSA. Addressing OSA through CPAP or other interventions can significantly improve asthma control and quality of life.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Central Sleep Apnea (CSA) involves a lack of respiratory effort from the brain and typically does not present with loud snoring or is primarily associated with obesity as a direct cause. While it can cause sleep disruption, the patient's classic symptoms (obesity, loud snoring, gasping) strongly point away from CSA.",
+      "B": "Restless Legs Syndrome (RLS) is characterized by an irresistible urge to move the legs, often accompanied by uncomfortable sensations, which typically worsens at night and is relieved by movement. It causes sleep disturbance and daytime fatigue but does not involve snoring or gasping, nor is it a direct comorbidity that exacerbates asthma in this manner.",
+      "C": "This option is the most likely diagnosis. The patient's presentation of obesity, loud snoring, gasping during sleep, daytime fatigue, and poorly controlled asthma are classic features of Obstructive Sleep Apnea (OSA). The context specifically highlights OSA as a comorbidity for asthma in obese patients.",
+      "D": "Narcolepsy is a neurological disorder characterized by overwhelming daytime sleepiness, often with cataplexy, sleep paralysis, and hypnagogic hallucinations. While it causes severe daytime sleepiness, it is not associated with loud snoring or gasping episodes, nor is it a listed comorbidity that directly exacerbates asthma in the way OSA does."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_715d7f06",
+    "question": "A 45-year-old male presents with irresistible daytime sleepiness, cataplexy, and fragmented nocturnal sleep. Polysomnography (PSG) reveals reduced REM sleep latency and multiple sleep-onset REM periods. Further investigation points to a neurodegenerative process primarily affecting a specific neuronal population. Which of the following is the most likely neuroanatomical substrate primarily responsible for this patient's core symptoms?",
+    "options": {
+      "A": "Degeneration of GABAergic neurons in the ventrolateral preoptic area (VLPO).",
+      "B": "Loss of hypocretin-secreting neurons in the lateral hypothalamus.",
+      "C": "Dysfunction of cholinergic neurons in the pontine reticular formation.",
+      "D": "Impaired activity of the ascending serotonergic pathways originating from the raphe nuclei."
+    },
+    "correctAnswer": "B",
+    "topic": "Sleep Physiology and Neuroanatomy",
+    "deepDiveExplanation": "The patient's symptoms (irresistible daytime sleepiness, cataplexy, reduced REM sleep latency, sleep-onset REM periods) are classic for Narcolepsy Type 1 (with cataplexy). This condition is primarily caused by the selective loss of hypocretin (also known as orexin) producing neurons located in the lateral hypothalamus. Hypocretin plays a critical role in stabilizing the wakefulness state and preventing unwanted intrusions of REM sleep into wakefulness. Its deficiency leads to a unstable sleep-wake flip-flop switch, resulting in sudden sleep attacks and cataplexy (triggered by strong emotions, due to REM-atonia intruding into wakefulness).",
+    "highYieldPearl": "Rio's Take: Narcolepsy Type 1 is a classic example of how specific neuroanatomical lesions (lateral hypothalamus) and neurotransmitter deficiencies (hypocretin) lead to distinct sleep-wake disorders. Understand the 'flip-flop switch' model and the roles of key players like VLPO, ARAS, and hypocretin.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "The ventrolateral preoptic area (VLPO) contains GABAergic neurons that are active during sleep and project to and inhibit wake-promoting centers in the ARAS. Degeneration of VLPO neurons would primarily lead to insomnia and difficulty initiating/maintaining sleep, not excessive daytime sleepiness and cataplexy.",
+      "B": "This is the correct answer. The specific loss of hypocretin/orexin neurons in the lateral hypothalamus is the hallmark pathophysiology of Narcolepsy Type 1, leading to the instability of the sleep-wake states and the characteristic symptoms of cataplexy and sleep-onset REM periods.",
+      "C": "Cholinergic neurons in the pontine reticular formation are crucial for the generation and maintenance of REM sleep phenomena, including muscle atonia, rapid eye movements, and PGO waves. While REM sleep dysregulation is part of narcolepsy, the primary pathology isn't a *dysfunction* of these neurons in the context of driving the narcolepsy phenotype; rather, it's the lack of hypocretin to stabilize wakefulness, allowing REM sleep to intrude. Dysfunction in these pathways is more directly implicated in conditions like REM sleep behavior disorder.",
+      "D": "Ascending serotonergic pathways (from raphe nuclei) contribute to wakefulness and suppress REM sleep. While their modulation is important for overall sleep-wake regulation, their primary impairment is not the direct, specific cause of Narcolepsy Type 1. Antidepressants that modulate serotonin can be used to manage cataplexy, but this is symptomatic treatment, not addressing the core hypocretin deficiency."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_fe03b7c5",
+    "question": "A researcher is monitoring the electroencephalogram (EEG) of a healthy young adult undergoing an overnight sleep study. During a specific deep sleep stage, the EEG is characterized by synchronized, very high-amplitude, slow-wave activity, with delta waves comprising a significant proportion (>20%) of the epoch, without rapid eye movements or muscle atonia. This stage is critically involved in declarative memory consolidation and physical restoration. Which of the following statements regarding the predominant EEG frequency during this stage is most accurate?",
+    "options": {
+      "A": "It is characterized by waveforms predominantly between 0-4 Hz, indicative of deep sleep.",
+      "B": "It exhibits a dominant rhythm of 8-12 Hz, signifying restful wakefulness.",
+      "C": "Theta activity (4-8 Hz) becomes the most prominent feature, reflecting early drowsiness.",
+      "D": "Beta activity (12-40 Hz) with intermittent gamma bursts characterizes this period, crucial for problem-solving."
+    },
+    "correctAnswer": "A",
+    "topic": "Sleep Physiology and Neuroanatomy",
+    "deepDiveExplanation": "The description provided—'synchronized, very high-amplitude, slow-wave activity, with delta waves comprising a significant proportion (>20%) of the epoch, without rapid eye movements or muscle atonia'—is characteristic of NREM Stage 3 sleep, also known as slow-wave sleep (SWS) or deep sleep. This stage is primarily defined by the presence of delta waves, which have frequencies between 0 and 4 Hz. SWS is indeed crucial for declarative memory consolidation and physical restoration. The table provided on page 15 directly links 'Delta (0-4 Hz)' to 'Sleep, dreaming' (though NREM deep sleep is not typically associated with vivid dreaming, delta waves are the key feature of NREM SWS).",
+    "highYieldPearl": "Rio's Take: Memorize the key EEG rhythms and their associated sleep/wake stages: Beta (awake, active), Alpha (awake, relaxed), Theta (N1, N2, drowsiness), Delta (N3/SWS, deep sleep). Note that while REM sleep is associated with dreaming, its EEG resembles wakefulness (low voltage, mixed frequency), not delta waves. The provided table's 'Delta: Sleep, dreaming' is slightly oversimplified for 'dreaming' primarily in NREM, but 'sleep' and the 0-4Hz range are spot on for SWS.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This correctly identifies delta waves (0-4 Hz) as the predominant EEG frequency in NREM Stage 3 (deep sleep), matching the description and the provided EEG frequency table.",
+      "B": "8-12 Hz corresponds to alpha waves, which are characteristic of relaxed wakefulness, not deep sleep. The patient is explicitly described as being in a deep sleep stage.",
+      "C": "Theta activity (4-8 Hz) is prominent in NREM Stage 1 (drowsiness) and NREM Stage 2, but the description specifies 'very high-amplitude, slow-wave activity' with a 'significant proportion' of delta waves, clearly indicating NREM Stage 3, where delta is predominant.",
+      "D": "Beta activity (12-40 Hz) and gamma bursts (40-100 Hz) are associated with active wakefulness, concentration, and problem-solving, as stated in the provided table. This is entirely inconsistent with a deep sleep stage."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_1a4a3d25",
+    "question": "A 60-year-old patient with a long history of chronic obstructive pulmonary disease (COPD) and morbid obesity is undergoing evaluation for significant daytime somnolence and nocturnal hypoventilation. Polysomnography confirms severe obstructive sleep apnea (OSA) with prolonged desaturations and also reveals evidence of central sleep apneas, particularly during REM sleep. Considering the neuroanatomical and physiological changes during sleep that impact respiratory control, all of the following mechanisms are likely to contribute to nocturnal hypoventilation in this patient, EXCEPT:",
+    "options": {
+      "A": "Decreased chemosensitivity of the central and peripheral chemoreceptors to hypoxia and hypercapnia, particularly during NREM sleep.",
+      "B": "Reduced ventilatory drive due to decreased metabolic rate and neural output from the medullary respiratory centers during deep NREM sleep.",
+      "C": "Increased upper airway collapsibility due to decreased pharyngeal dilator muscle tone, especially during REM sleep.",
+      "D": "Attenuation of both automatic and voluntary respiratory control pathways, mediated by suppression of brainstem and cortical activity, specifically sparing the Hering-Breuer reflex during REM sleep."
+    },
+    "correctAnswer": "D",
+    "topic": "Sleep Physiology and Neuroanatomy",
+    "deepDiveExplanation": "Nocturnal hypoventilation in patients with conditions like COPD and obesity is multifactorial and significantly worsened during sleep. Options A, B, and C describe well-established physiological changes in sleep that contribute to hypoventilation.\n\n*   **A) Decreased chemosensitivity:** During NREM sleep, there is a physiological decrease in the sensitivity of both central (to CO2) and peripheral (to O2) chemoreceptors. This means a higher CO2 level is tolerated before increasing ventilation, contributing to hypoventilation.\n*   **B) Reduced ventilatory drive:** Sleep is associated with a decrease in metabolic rate, leading to reduced CO2 production. Concurrently, the neural output from the medullary respiratory centers (the primary automatic control) is reduced, resulting in a lower overall ventilatory drive, especially in deep NREM sleep.\n*   **C) Increased upper airway collapsibility:** During sleep, particularly REM sleep, there is a significant reduction in the tone of pharyngeal dilator muscles (e.g., genioglossus). This increases the collapsibility of the upper airway, predisposing to obstructive events and worsening hypoventilation in patients with OSA.\n\n*   **D) Attenuation of control pathways and Hering-Breuer reflex:** While it is true that both automatic (brainstem) and voluntary (cortical) respiratory control pathways are attenuated during sleep, the statement 'specifically sparing the Hering-Breuer reflex during REM sleep' is incorrect. The Hering-Breuer reflex (which involves vagal afferents from lung stretch receptors) is generally not 'spared' but rather attenuated, like other respiratory reflexes, during sleep. In REM sleep, respiratory control becomes highly irregular and less responsive to chemical and reflex drives, including vagal reflexes. Overall, respiratory regulation is less stable and more blunted during REM sleep, making 'sparing' of any key reflex unlikely in this context. Therefore, this statement describes an unlikely or inaccurate physiological phenomenon.",
+    "highYieldPearl": "Rio's Take: Sleep profoundly impacts respiratory control: chemosensitivity decreases, ventilatory drive reduces, and upper airway muscle tone falls (worst in REM). Understanding which reflexes are attenuated (most are) versus spared is crucial for difficult questions. Respiratory control is at its most vulnerable and irregular during REM sleep.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is a correct physiological change during sleep. Reduced chemosensitivity means the body tolerates higher CO2 and lower O2 before increasing breathing, contributing to hypoventilation. This is a plausible contributing factor.",
+      "B": "This is also a correct physiological change. The overall metabolic demand and the direct neural drive from the respiratory rhythm generators decrease during sleep, leading to reduced minute ventilation. This is a plausible contributing factor.",
+      "C": "This is a key mechanism for obstructive sleep apnea (OSA). Decreased tone of upper airway muscles allows the pharynx to collapse, especially during REM sleep when muscle atonia is most pronounced. This is a plausible contributing factor.",
+      "D": "While automatic and voluntary respiratory control pathways are indeed attenuated in sleep, the claim that the Hering-Breuer reflex is 'specifically spared during REM sleep' is incorrect. Respiratory control, including reflex responses, is generally blunted and irregular during REM sleep, not selectively 'spared.' Therefore, this statement is the exception and does not contribute to nocturnal hypoventilation in the manner implied."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_452376f2",
+    "question": "A 65-year-old male undergoes polysomnography for suspected obstructive sleep apnea (OSA). During the study, the technologist observes periods on the electroencephalogram (EEG) characterized by the presence of K-complexes and sleep spindles, interspersed with a background of theta wave activity (4-8 Hz). There are no rapid eye movements during these periods, and the patient's muscle tone is reduced compared to wakefulness.",
+    "options": {
+      "A": "Stage N1 (NREM 1) sleep",
+      "B": "Stage N2 (NREM 2) sleep",
+      "C": "Stage N3 (NREM 3) sleep",
+      "D": "REM sleep"
+    },
+    "correctAnswer": "B",
+    "topic": "Sleep Physiology and Neuroanatomy",
+    "deepDiveExplanation": "The vignette describes key characteristics of Stage N2 (NREM 2) sleep. Stage N2 is defined by the presence of K-complexes (high-amplitude, biphasic waves lasting >0.5 seconds) and sleep spindles (bursts of 12-14 Hz activity lasting >0.5 seconds), against a background of theta activity (4-8 Hz). Muscle tone is typically reduced, and eye movements are absent or slow rolling. This stage constitutes about 45-55% of total sleep time in adults.",
+    "highYieldPearl": "Rio's Take: NREM 2 is the most abundant sleep stage, identified by K-complexes and sleep spindles. While N1 is drowsiness and N3 is slow-wave (delta) sleep, N2 is the hallmark for 'true' NREM sleep, often where breathing events in OSA begin to escalate.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Stage N1 (NREM 1) sleep is characterized by a transition from alpha to theta waves, slow rolling eye movements, and loss of muscle tone. K-complexes and sleep spindles are typically absent, making it a plausible but incorrect choice given the specific EEG findings.",
+      "B": "Correct. The combination of K-complexes, sleep spindles, and a background of theta waves are pathognomonic for Stage N2 sleep.",
+      "C": "Stage N3 (NREM 3) sleep, also known as slow-wave sleep, is characterized by a predominance of delta waves (0-4 Hz, >20% of the epoch). While delta waves are low frequency as mentioned in the provided table as 'Sleep, dreaming,' N3 lacks K-complexes and sleep spindles, which are specific to N2.",
+      "D": "REM sleep is characterized by low-amplitude, mixed-frequency EEG activity (similar to wakefulness), rapid eye movements, and muscle atonia (except for ocular and diaphragmatic muscles). The absence of rapid eye movements and presence of K-complexes/sleep spindles rule out REM sleep."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_7dee44cb",
+    "question": "A 35-year-old male presents with sudden, irresistible attacks of sleep, often associated with vivid dream-like experiences at sleep onset (hypnagogic hallucinations) and temporary muscle weakness triggered by strong emotions like laughter or anger. Polysomnography reveals reduced REM latency and sleep-onset REM periods. These symptoms are most consistent with a primary deficiency in which of the following neuroanatomical pathways?",
+    "options": {
+      "A": "Hypocretin (orexin) neurons in the lateral hypothalamus",
+      "B": "Serotonergic neurons in the dorsal raphe nucleus",
+      "C": "Cholinergic neurons in the pontine reticular formation",
+      "D": "Noradrenergic neurons in the locus coeruleus"
+    },
+    "correctAnswer": "A",
+    "topic": "Sleep Physiology and Neuroanatomy",
+    "deepDiveExplanation": "The clinical presentation of irresistible sleep attacks, cataplexy (temporary muscle weakness triggered by emotions), and sleep-onset REM periods is classic for narcolepsy with cataplexy. This condition is primarily caused by a deficiency in hypocretin (orexin) neuropeptides, produced by neurons located in the lateral hypothalamus. Hypocretin plays a critical role in stabilizing wakefulness and preventing abnormal transitions into REM sleep, particularly during wakefulness.",
+    "highYieldPearl": "Rio's Take: Narcolepsy with cataplexy is a high-yield concept directly linked to hypocretin deficiency. Remember the 'HAT' trick: Hypnagogic hallucinations, Atonia (cataplexy), and excessive daytime Tiredness, often with sleep-onset REM. The lateral hypothalamus is the key anatomical site.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. Narcolepsy with cataplexy is strongly associated with the loss of hypocretin (orexin) neurons in the lateral hypothalamus, leading to unstable sleep-wake states and abnormal REM sleep phenomena.",
+      "B": "Serotonergic neurons in the dorsal raphe nucleus are crucial for promoting NREM sleep and maintaining wakefulness. While dysfunction can cause sleep disturbances, it's not the primary defect in narcolepsy with cataplexy.",
+      "C": "Cholinergic neurons in the pontine reticular formation are critical for generating REM sleep, including muscle atonia and rapid eye movements. While REM phenomena are prominent in narcolepsy, the primary deficit lies upstream in the wake-promoting and REM-inhibiting hypocretin system, not directly in the REM-generating cholinergic system itself.",
+      "D": "Noradrenergic neurons in the locus coeruleus are active during wakefulness and NREM sleep, contributing to wakefulness maintenance and muscle tone, and are typically inhibited during REM sleep. Their dysfunction could lead to sleep fragmentation or altered wakefulness, but not the specific constellation of symptoms seen in narcolepsy with cataplexy."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_ab505987",
+    "question": "A 40-year-old patient with a C2-C3 complete spinal cord injury sustained 8 years ago is chronically ventilator-dependent. Despite optimized ventilator settings and tracheostomy care, he reports persistent morning headaches and daytime fatigue. Polysomnography shows frequent episodes of central apnea, particularly during NREM sleep, with absent respiratory effort recorded at the diaphragm and chest wall, along with significant sleep fragmentation. His pharyngeal airway is patent.",
+    "options": {
+      "A": "Damage to the descending pathways from brainstem respiratory centers to phrenic motor neurons",
+      "B": "Impaired function of the central chemoreceptors in the medulla oblongata",
+      "C": "Primary dysfunction of the pre-Bötzinger complex",
+      "D": "Compromised efferent control of upper airway dilator muscles"
+    },
+    "correctAnswer": "A",
+    "topic": "Sleep Physiology and Neuroanatomy",
+    "deepDiveExplanation": "A C2-C3 complete spinal cord injury directly impacts the descending motor pathways from the brainstem respiratory centers (e.g., medullary respiratory groups) that synapse on the phrenic motor neurons (located in the C3-C5 spinal segments). This disruption severs the connection between the brainstem's respiratory pattern generator and the primary respiratory muscle, the diaphragm. As a result, even if the brainstem generates a respiratory drive, the signal cannot reach the diaphragm, leading to an absence of diaphragmatic and chest wall effort, clinically manifesting as central apneas. This is especially problematic during NREM sleep when the overall respiratory drive from wakefulness is reduced, and breathing becomes more dependent on metabolic feedback that cannot adequately translate into muscle contraction.",
+    "highYieldPearl": "Rio's Take: High cervical SCI (C1-C5) is a classic cause of respiratory failure due to phrenic nerve impairment. While ventilatory support can sustain life, the underlying neuroanatomical disconnection means brainstem respiratory signals don't reach the diaphragm, leading to 'central' lack of effort, especially evident during the reduced drive of NREM sleep. It's not a primary brainstem lesion, but an interruption of its efferent pathway.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. A C2-C3 spinal cord injury disrupts the descending tracts from the brainstem to the phrenic motor neurons (C3-C5), preventing the diaphragm from receiving neural commands. This leads to an absence of respiratory effort (central apnea) despite an intact central pattern generator, particularly exacerbated during sleep when respiratory drive is inherently lower.",
+      "B": "Impaired function of central chemoreceptors would lead to a reduced drive to breathe based on CO2 levels. While this can cause central hypoventilation, a high cervical SCI primarily affects the *transmission* of the drive, not its *generation* in response to chemical stimuli, unless there's a coexisting brainstem pathology, which is not implied.",
+      "C": "The pre-Bötzinger complex is considered the primary central pattern generator for respiration in the brainstem. A primary dysfunction of this complex would cause congenital central hypoventilation syndrome (Ondine's curse), which is a distinct condition from the effects of spinal cord injury.",
+      "D": "Compromised efferent control of upper airway dilator muscles primarily leads to obstructive sleep apnea. While patients with SCI can also have upper airway dysfunction, the vignette explicitly states 'patent pharyngeal airway' and describes 'central apnea' with 'absent respiratory effort' on chest wall and diaphragm, ruling out a primary obstructive issue as the cause of these specific events."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_e4753836",
+    "question": "A 55-year-old male undergoes spirometry as part of a routine health check-up. During the forced expiratory maneuvers, the technician observes several issues. Which of the following findings would render a single forced expiratory maneuver **unacceptable** based on current ATS/ERS spirometry standards?",
+    "options": {
+      "A": "The patient exhales forcefully for 5 seconds, but the volume-time curve does not show a clear plateau.",
+      "B": "A cough is noted immediately after the start of forced exhalation, within the first 0.5 seconds.",
+      "C": "The patient inhales maximally, but the inspiratory effort is slightly hesitant before commencing forced exhalation.",
+      "D": "The forced vital capacity (FVC) measurement is 150 mL less than the previous best maneuver in the same session."
+    },
+    "correctAnswer": "B",
+    "topic": "Spirometry - Technique and Interpretation",
+    "deepDiveExplanation": "According to the 2019 ATS/ERS standardization of spirometry, a forced expiratory maneuver is considered unacceptable if there are artifacts such as a cough or glottic closure in the first second of forced exhalation. A cough within the initial 0.5 to 1 second significantly invalidates the FEV1 measurement, making the maneuver unusable. Other criteria for unacceptability include submaximal effort (e.g., hesitation, variable flow), a leak around the mouthpiece, or an obstruction of the mouthpiece.",
+    "highYieldPearl": "Rio's Take: A cough or glottic closure in the first second of forced exhalation is a primary reason for deeming a spirometry maneuver unacceptable, as it directly impacts the accuracy of FEV1.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "While a minimum of 6 seconds of forced exhalation is recommended for adults (or until a plateau for at least 1 second), a 5-second exhalation without a plateau might be acceptable in patients with severe obstruction who cannot exhale longer, or if no further volume change is observed for 1 second. However, a cough in the first second is a more definitive criterion for unacceptability regardless of exhalation time.",
+      "B": "This is the correct answer. A cough within the first second of forced exhalation significantly alters the flow-volume and volume-time curves, making the FEV1 measurement inaccurate and thus the maneuver unacceptable.",
+      "C": "A hesitant inspiratory effort prior to exhalation can affect the accuracy of the TLC from which the FVC is initiated, potentially reducing the FVC. However, if the subsequent forced exhalation is maximal and free of artifacts, the FEV1 and FVC might still be considered acceptable, though the overall test might be less reliable. It's generally less critical for individual maneuver acceptability than a cough during forced exhalation.",
+      "D": "This statement describes a potential issue with *reproducibility* between maneuvers, not the *acceptability* of a single maneuver. For reproducibility, FVC and FEV1 values from the two best acceptable maneuvers should be within 150 mL (or 5% if FVC is less than 1.0 L). A difference of 150 mL (or more) between best maneuvers would lead to the test being considered unreproducible, requiring more maneuvers, but it doesn't automatically make a single maneuver unacceptable."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_219aebb9",
+    "question": "A 60-year-old male presents with a 15-year history of daily cough productive of sputum, associated with progressive exertional dyspnea. He has a 40 pack-year smoking history. Initial spirometry shows FEV1 1.8 L (60% predicted), FVC 3.0 L (75% predicted), and FEV1/FVC ratio 0.60. After administration of 400 mcg salbutamol, repeat spirometry shows FEV1 2.1 L (70% predicted), FVC 3.1 L (77% predicted), and FEV1/FVC ratio 0.68. What is the most appropriate interpretation of these results?",
+    "options": {
+      "A": "Significant bronchodilator reversibility is present, indicating a diagnosis of asthma.",
+      "B": "Bronchodilator reversibility is absent, confirming a diagnosis of Chronic Obstructive Pulmonary Disease (COPD).",
+      "C": "Significant bronchodilator reversibility is present, but this does not definitively differentiate between asthma and COPD.",
+      "D": "The increase in FEV1 is significant, but the change in FEV1/FVC ratio suggests persistent obstruction, making the reversibility equivocal."
+    },
+    "correctAnswer": "C",
+    "topic": "Spirometry - Technique and Interpretation",
+    "deepDiveExplanation": "According to ATS/ERS criteria, significant bronchodilator reversibility is defined as an increase in FEV1 and/or FVC of ≥12% from the pre-bronchodilator value AND an absolute increase of ≥200 mL. \nIn this patient: \n- FEV1 change: 2.1 L - 1.8 L = 0.3 L (300 mL). \n- Percentage change in FEV1: (0.3 L / 1.8 L) * 100% = 16.67%. \nBoth criteria (≥12% and ≥200 mL) are met for FEV1. Therefore, significant bronchodilator reversibility is present. However, bronchodilator reversibility, while characteristic of asthma, can also be observed in a significant proportion of patients with COPD. The presence of reversibility does not rule out COPD, especially in a patient with a heavy smoking history and chronic symptoms consistent with COPD. Therefore, reversibility does not definitively differentiate between asthma and COPD.",
+    "highYieldPearl": "Rio's Take: Significant bronchodilator reversibility is defined by a ≥12% and ≥200 mL increase in FEV1 and/or FVC. It is common in asthma but can also occur in COPD, thus it doesn't definitively distinguish between the two conditions.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "While significant bronchodilator reversibility is indeed present, stating it 'indicates a diagnosis of asthma' is incorrect. Reversibility can be seen in a substantial percentage of COPD patients, especially those with asthmatic features or allergic components. The patient's smoking history and chronic productive cough strongly suggest COPD.",
+      "B": "This is incorrect. The calculations clearly show significant bronchodilator reversibility (FEV1 increased by 16.67% and 300 mL).",
+      "C": "This is the correct interpretation. Significant bronchodilator reversibility is present based on the FEV1 change. However, as noted, reversibility can be found in both asthma and COPD, making it a non-discriminatory feature for definitive diagnosis between these two common obstructive lung diseases.",
+      "D": "The increase in FEV1 is significant and meets the criteria for reversibility. While the FEV1/FVC ratio remains below 0.70 (indicating persistent airflow obstruction), this fact does not make the *reversibility itself* equivocal. The reversibility (defined by the change in FEV1/FVC) is clear. The term 'equivocal' is misleading here."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_hiv_pulm_2da4b27c",
+    "question": "A 45-year-old male presents with progressively worsening stridor, hoarseness, and dyspnea over the past 6 months. He has a 20 pack-year smoking history. Spirometry reveals a pre-bronchodilator FEV1 of 2.0 L (65% predicted), FVC of 2.8 L (70% predicted), and an FEV1/FVC ratio of 0.71. The flow-volume loop is characterized by flattening of both the inspiratory and expiratory limbs, appearing as a 'box-like' or 'square' configuration. What is the most likely diagnosis?",
+    "options": {
+      "A": "Peripheral airway obstruction due to emphysema.",
+      "B": "Severe interstitial lung disease.",
+      "C": "Fixed upper airway obstruction.",
+      "D": "Variable extrathoracic obstruction."
+    },
+    "correctAnswer": "C",
+    "topic": "Spirometry - Technique and Interpretation",
+    "deepDiveExplanation": "The characteristic 'box-like' or 'square' configuration of the flow-volume loop, with flattening of both the inspiratory and expiratory limbs, is a hallmark finding of fixed upper airway obstruction. This occurs when there is a fixed narrowing in the trachea or major bronchi, limiting airflow uniformly during both inspiration and expiration. The clinical presentation of stridor, hoarseness, and dyspnea also strongly points towards upper airway pathology. A normal FEV1/FVC ratio with reduced absolute FEV1 and FVC can be seen if both inspiratory and expiratory flows are proportionally limited by the fixed obstruction.",
+    "highYieldPearl": "Rio's Take: A 'box-like' or 'square' flow-volume loop (flattening of both inspiratory and expiratory limbs) is highly suggestive of fixed upper airway obstruction.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Peripheral airway obstruction (e.g., emphysema or chronic bronchitis) typically presents with a reduced FEV1/FVC ratio and a 'scooped-out' appearance of the expiratory limb, while the inspiratory limb is usually preserved. This does not match the 'box-like' loop described.",
+      "B": "Severe interstitial lung disease (a restrictive pattern) would show reduced lung volumes (FVC, TLC) and often an increased FEV1/FVC ratio. The flow-volume loop itself would be smaller but typically retains a normal shape, without the characteristic flattening of both limbs.",
+      "C": "This is the correct answer. Fixed upper airway obstruction causes a constant limitation of airflow during both inspiration and expiration, leading to the pathognomonic 'box-like' or 'square' flattening of both limbs of the flow-volume loop, consistent with the clinical picture.",
+      "D": "Variable extrathoracic obstruction (e.g., vocal cord dysfunction, unilateral vocal cord paralysis, or masses external to the trachea) primarily affects the inspiratory limb due to negative intrathoracic pressure causing further collapse, while the expiratory limb remains relatively normal or has only minor flattening. The described loop flattens both limbs."
+    },
+    "sourceLocation": {
+      "bookName": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+      "chapter": "Respiratory Muscle Dysfunction",
+      "section": "Sjögrens syndrome",
+      "pageNumber": 14
+    },
+    "bookId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO (1)",
+    "chunkId": "54.CTD AND LUNG PART2 HYPERSENSITIVE PNEUMO_OCR_Complete (1)_chunk_007",
+    "generatedAt": 1767060988524,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "The CD4 count threshold for initiating primary Pneumocystis jirovecii pneumonia prophylaxis in HIV is?",
+    "options": {
+      "A": "CD4 < 100 cells/µL",
+      "B": "CD4 < 200 cells/µL",
+      "C": "CD4 < 300 cells/µL",
+      "D": "CD4 < 400 cells/µL"
+    },
+    "correctAnswer": "B",
+    "topic": "hiv_pulm",
+    "deepDiveExplanation": "Primary prophylaxis for Pneumocystis jirovecii pneumonia (PJP) is recommended for all HIV-infected individuals with a CD4 count less than 200 cells/µL or with a history of oropharyngeal candidiasis, or unexplained fever for more than two weeks, irrespective of CD4 count. It is also indicated if the CD4 percentage is less than 14%. Trimethoprim-sulfamethoxazole (TMP-SMX) is the agent of choice.",
+    "highYieldPearl": "PJP prophylaxis starts at CD4 < 200 cells/µL, usually with TMP-SMX.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Other CD4 thresholds are relevant for different opportunistic infections (e.g., MAC at <50, Toxoplasmosis at <100), but 200 is specific for PJP.",
+    "isOneLiner": true,
+    "id": "one_liner_hiv_pulm_t0lwu7su"
+  },
+  {
+    "question": "In advanced HIV, pulmonary tuberculosis often presents with which predominant chest X-ray pattern?",
+    "options": {
+      "A": "Apical cavitations",
+      "B": "Ghon complex",
+      "C": "Lower lobe infiltrates",
+      "D": "Calcified granulomas"
+    },
+    "correctAnswer": "C",
+    "topic": "hiv_pulm",
+    "deepDiveExplanation": "In early HIV infection (CD4 > 350 cells/µL), pulmonary TB often presents similarly to immunocompetent individuals, with upper lobe infiltrates and cavitation. However, in advanced HIV (CD4 < 200 cells/µL), the immune response is severely impaired, leading to atypical presentations. These include lower lobe infiltrates, hilar or mediastinal lymphadenopathy (often without cavitation), diffuse interstitial infiltrates, or even miliary patterns. Lack of cavitation is a key feature in advanced HIV due to reduced granuloma formation.",
+    "highYieldPearl": "Advanced HIV-TB often shows atypical CXR patterns like lower lobe infiltrates or lymphadenopathy, with less cavitation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Apical cavitations are classic for TB in immunocompetent individuals or early HIV, but less common in advanced HIV, making this a common distractor.",
+    "isOneLiner": true,
+    "id": "one_liner_hiv_pulm_0t8vuckr"
+  },
+  {
+    "question": "The definitive diagnostic method for pulmonary Kaposi's Sarcoma in HIV, if lesions are accessible, is?",
+    "options": {
+      "A": "Sputum cytology",
+      "B": "Bronchial washings",
+      "C": "Bronchoalveolar lavage",
+      "D": "Endobronchial biopsy"
+    },
+    "correctAnswer": "D",
+    "topic": "hiv_pulm",
+    "deepDiveExplanation": "Pulmonary Kaposi's Sarcoma (PKS) is a common manifestation of disseminated Kaposi's Sarcoma in advanced HIV. While imaging (CT scan) can suggest the diagnosis, definitive confirmation requires histopathology. Endobronchial biopsy of visible lesions during bronchoscopy is the most direct and definitive method. However, due to the vascular nature of KS lesions, there is a significant risk of bleeding, and transbronchial biopsy is generally contraindicated. Bronchial washings and BAL may show spindle cells but are not definitive.",
+    "highYieldPearl": "Endobronchial biopsy confirms pulmonary KS, but caution is needed due to bleeding risk.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Bronchoalveolar lavage and bronchial washings can provide supportive evidence but are not definitive. Transbronchial biopsy is usually avoided due to bleeding risk, making endobronchial biopsy of visible lesions the preferred definitive method.",
+    "isOneLiner": true,
+    "id": "one_liner_hiv_pulm_hrnp5cqj"
+  },
+  {
+    "question": "Which non-infectious pulmonary complication is most commonly seen in pediatric HIV patients?",
+    "options": {
+      "A": "Non-specific interstitial pneumonia",
+      "B": "Cryptogenic organizing pneumonia",
+      "C": "Lymphoid interstitial pneumonia",
+      "D": "Pulmonary hypertension"
+    },
+    "correctAnswer": "C",
+    "topic": "hiv_pulm",
+    "deepDiveExplanation": "Lymphoid Interstitial Pneumonia (LIP) is a common pulmonary complication in HIV-infected children, often presenting with chronic cough, hypoxemia, and diffuse interstitial infiltrates on CXR. It is characterized by polyclonal lymphocytic infiltration of the alveolar septa and peribronchiolar regions. While other non-infectious complications can occur, LIP is particularly characteristic and more prevalent in pediatric HIV than in adults.",
+    "highYieldPearl": "LIP is a hallmark non-infectious pulmonary complication in pediatric HIV.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Other interstitial pneumonias can occur in HIV, but LIP has a strong association with pediatric HIV, making it the most distinctive choice.",
+    "isOneLiner": true,
+    "id": "one_liner_hiv_pulm_z3f12oz9"
+  },
+  {
+    "question": "The recommended first-line treatment for Pneumocystis jirovecii pneumonia in HIV patients is?",
+    "options": {
+      "A": "Azithromycin",
+      "B": "Dapsone",
+      "C": "Trimethoprim-sulfamethoxazole",
+      "D": "Pentamidine"
+    },
+    "correctAnswer": "C",
+    "topic": "hiv_pulm",
+    "deepDiveExplanation": "Trimethoprim-sulfamethoxazole (TMP-SMX) is the drug of choice for treating Pneumocystis jirovecii pneumonia (PJP) due to its high efficacy and relatively low cost. The typical regimen involves high-dose oral or intravenous TMP-SMX for 21 days. For patients intolerant to TMP-SMX, alternative regimens include clindamycin plus primaquine, or intravenous pentamidine, or atovaquone. Dapsone is primarily used for prophylaxis or as an alternative for mild PJP.",
+    "highYieldPearl": "TMP-SMX is the undisputed first-line treatment for PJP in HIV.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Dapsone and Pentamidine are alternative agents or used for prophylaxis, but TMP-SMX remains the first-line treatment, making them plausible distractors.",
+    "isOneLiner": true,
+    "id": "one_liner_hiv_pulm_8bluahea"
+  },
+  {
+    "question": "The CD4 count threshold for initiating primary Pneumocystis jirovecii pneumonia prophylaxis in HIV is?",
+    "options": {
+      "A": "CD4 < 100 cells/µL",
+      "B": "CD4 < 200 cells/µL",
+      "C": "CD4 < 300 cells/µL",
+      "D": "CD4 < 400 cells/µL"
+    },
+    "correctAnswer": "B",
+    "topic": "hiv_pulm",
+    "deepDiveExplanation": "Primary prophylaxis for Pneumocystis jirovecii pneumonia (PJP) is recommended for all HIV-infected individuals with a CD4 count less than 200 cells/µL or with a history of oropharyngeal candidiasis, or unexplained fever for more than two weeks, irrespective of CD4 count. It is also indicated if the CD4 percentage is less than 14%. Trimethoprim-sulfamethoxazole (TMP-SMX) is the agent of choice.",
+    "highYieldPearl": "PJP prophylaxis starts at CD4 < 200 cells/µL, usually with TMP-SMX.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Other CD4 thresholds are relevant for different opportunistic infections (e.g., MAC at <50, Toxoplasmosis at <100), but 200 is specific for PJP.",
+    "isOneLiner": true,
+    "id": "one_liner_hiv_pulm_lj5jg0se"
+  },
+  {
+    "question": "In advanced HIV, pulmonary tuberculosis often presents with which predominant chest X-ray pattern?",
+    "options": {
+      "A": "Apical cavitations",
+      "B": "Ghon complex",
+      "C": "Lower lobe infiltrates",
+      "D": "Calcified granulomas"
+    },
+    "correctAnswer": "C",
+    "topic": "hiv_pulm",
+    "deepDiveExplanation": "In early HIV infection (CD4 > 350 cells/µL), pulmonary TB often presents similarly to immunocompetent individuals, with upper lobe infiltrates and cavitation. However, in advanced HIV (CD4 < 200 cells/µL), the immune response is severely impaired, leading to atypical presentations. These include lower lobe infiltrates, hilar or mediastinal lymphadenopathy (often without cavitation), diffuse interstitial infiltrates, or even miliary patterns. Lack of cavitation is a key feature in advanced HIV due to reduced granuloma formation.",
+    "highYieldPearl": "Advanced HIV-TB often shows atypical CXR patterns like lower lobe infiltrates or lymphadenopathy, with less cavitation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Apical cavitations are classic for TB in immunocompetent individuals or early HIV, but less common in advanced HIV, making this a common distractor.",
+    "isOneLiner": true,
+    "id": "one_liner_hiv_pulm_lli0ls18"
+  },
+  {
+    "question": "The definitive diagnostic method for pulmonary Kaposi's Sarcoma in HIV, if lesions are accessible, is?",
+    "options": {
+      "A": "Sputum cytology",
+      "B": "Bronchial washings",
+      "C": "Bronchoalveolar lavage",
+      "D": "Endobronchial biopsy"
+    },
+    "correctAnswer": "D",
+    "topic": "hiv_pulm",
+    "deepDiveExplanation": "Pulmonary Kaposi's Sarcoma (PKS) is a common manifestation of disseminated Kaposi's Sarcoma in advanced HIV. While imaging (CT scan) can suggest the diagnosis, definitive confirmation requires histopathology. Endobronchial biopsy of visible lesions during bronchoscopy is the most direct and definitive method. However, due to the vascular nature of KS lesions, there is a significant risk of bleeding, and transbronchial biopsy is generally contraindicated. Bronchial washings and BAL may show spindle cells but are not definitive.",
+    "highYieldPearl": "Endobronchial biopsy confirms pulmonary KS, but caution is needed due to bleeding risk.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Bronchoalveolar lavage and bronchial washings can provide supportive evidence but are not definitive. Transbronchial biopsy is usually avoided due to bleeding risk, making endobronchial biopsy of visible lesions the preferred definitive method.",
+    "isOneLiner": true,
+    "id": "one_liner_hiv_pulm_391wpuq9"
+  },
+  {
+    "question": "Which non-infectious pulmonary complication is most commonly seen in pediatric HIV patients?",
+    "options": {
+      "A": "Non-specific interstitial pneumonia",
+      "B": "Cryptogenic organizing pneumonia",
+      "C": "Lymphoid interstitial pneumonia",
+      "D": "Pulmonary hypertension"
+    },
+    "correctAnswer": "C",
+    "topic": "hiv_pulm",
+    "deepDiveExplanation": "Lymphoid Interstitial Pneumonia (LIP) is a common pulmonary complication in HIV-infected children, often presenting with chronic cough, hypoxemia, and diffuse interstitial infiltrates on CXR. It is characterized by polyclonal lymphocytic infiltration of the alveolar septa and peribronchiolar regions. While other non-infectious complications can occur, LIP is particularly characteristic and more prevalent in pediatric HIV than in adults.",
+    "highYieldPearl": "LIP is a hallmark non-infectious pulmonary complication in pediatric HIV.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Other interstitial pneumonias can occur in HIV, but LIP has a strong association with pediatric HIV, making it the most distinctive choice.",
+    "isOneLiner": true,
+    "id": "one_liner_hiv_pulm_smnfsakf"
+  },
+  {
+    "question": "The recommended first-line treatment for Pneumocystis jirovecii pneumonia in HIV patients is?",
+    "options": {
+      "A": "Azithromycin",
+      "B": "Dapsone",
+      "C": "Trimethoprim-sulfamethoxazole",
+      "D": "Pentamidine"
+    },
+    "correctAnswer": "C",
+    "topic": "hiv_pulm",
+    "deepDiveExplanation": "Trimethoprim-sulfamethoxazole (TMP-SMX) is the drug of choice for treating Pneumocystis jirovecii pneumonia (PJP) due to its high efficacy and relatively low cost. The typical regimen involves high-dose oral or intravenous TMP-SMX for 21 days. For patients intolerant to TMP-SMX, alternative regimens include clindamycin plus primaquine, or intravenous pentamidine, or atovaquone. Dapsone is primarily used for prophylaxis or as an alternative for mild PJP.",
+    "highYieldPearl": "TMP-SMX is the undisputed first-line treatment for PJP in HIV.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Dapsone and Pentamidine are alternative agents or used for prophylaxis, but TMP-SMX remains the first-line treatment, making them plausible distractors.",
+    "isOneLiner": true,
+    "id": "one_liner_hiv_pulm_3m0klo4b"
+  }
+]

@@ -1,0 +1,1100 @@
+[
+  {
+    "id": "rag_pleural_procedures_2f385bb9",
+    "question": "A 68-year-old male with a 40-pack-year smoking history presents with new onset cough and dyspnea. Chest CT reveals a 6 cm right upper lobe spiculated mass, enlarged right hilar and subcarinal lymph nodes (largest 1.8 cm), and a moderate right pleural effusion. Thoracentesis yields an exudative fluid with malignant cells positive for adenocarcinoma. What is the most accurate overall stage based on these findings, and what would be the most appropriate next step in his staging workup?",
+    "options": {
+      "A": "Stage IV (M1a); Systemic PET-CT scan to identify further metastases.",
+      "B": "Stage IIIb (T3 N2 M0); Endobronchial ultrasound with transbronchial needle aspiration (EBUS-TBNA) for N staging.",
+      "C": "Stage IIb (T2b N1 M0); Video-assisted thoracoscopic surgery (VATS) for tissue diagnosis of the lung mass.",
+      "D": "Stage IV (M1b); Brain MRI and adrenal CT to rule out single extrathoracic metastasis."
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "According to the 8th edition of the TNM classification for Non-Small Cell Lung Cancer (NSCLC), the presence of a malignant pleural effusion (MPE) or pericardial effusion, or separate tumor nodules in a contralateral lung, automatically classifies the disease as M1a. This denotes distant metastasis and places the patient at Stage IV, regardless of the T (tumor) or N (node) status. Therefore, the most accurate overall stage is Stage IV (M1a). Once M1a disease is confirmed, the primary goal of further staging is to identify any additional metastatic sites (M1b or M1c) that might influence treatment decisions. A systemic PET-CT scan is the most comprehensive tool for this purpose, as it can detect distant metastases in various organs, including bone, liver, and adrenals. While a brain MRI is often performed in NSCLC staging due to the high incidence of brain metastases, a PET-CT provides a broader systemic evaluation.",
+    "highYieldPearl": "Rio's Take: Malignant pleural effusion in NSCLC instantly upstages the disease to M1a (Stage IV). The next step is always a comprehensive systemic workup (e.g., PET-CT) to look for other distant metastases and guide palliative/systemic treatment options.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. Malignant pleural effusion is M1a (Stage IV). Systemic PET-CT is appropriate for comprehensive staging in M1a disease.",
+      "B": "Incorrect. While EBUS-TBNA is crucial for N-staging, the presence of M1a disease (malignant pleural effusion) overrides the N-stage for overall staging, making it Stage IV. Focusing solely on N-staging with EBUS-TBNA as the next primary step for overall staging is inappropriate.",
+      "C": "Incorrect. The pleural fluid cytology has already confirmed adenocarcinoma, providing the tissue diagnosis. VATS for mass biopsy is redundant as a next step, and the staging (IIb) is incorrect due to M1a disease.",
+      "D": "Incorrect. Malignant pleural effusion is classified as M1a, not M1b (which denotes a single extrathoracic metastasis). While brain MRI and adrenal CT are components of systemic staging, a PET-CT offers a more comprehensive initial systemic evaluation to differentiate M1a from M1c and rule out M1b."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_1df42224",
+    "question": "A 58-year-old non-smoker presents with a persistent cough. A chest CT reveals a 2.5 cm spiculated nodule in the left lower lobe periphery and an enlarged left hilar lymph node (1.2 cm) and a subcarinal lymph node (1.5 cm). No pleural effusion or other distant lesions are noted. Initial sputum cytology is negative. What is the most appropriate next step for definitive diagnosis and staging?",
+    "options": {
+      "A": "Percutaneous CT-guided biopsy of the lung nodule followed by Endobronchial Ultrasound with transbronchial needle aspiration (EBUS-TBNA) for mediastinal lymph node sampling.",
+      "B": "Bronchoscopy with transbronchial biopsy of the nodule and Endobronchial Ultrasound with transbronchial needle aspiration (EBUS-TBNA) for mediastinal lymph node sampling.",
+      "C": "Positron Emission Tomography-Computed Tomography (PET-CT) followed by Video-Assisted Thoracoscopic Surgery (VATS) for definitive diagnosis and staging.",
+      "D": "Surgical resection of the lung nodule with intraoperative frozen section and nodal dissection."
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "The patient has a peripheral lung nodule and suspicious hilar (N1) and subcarinal (N2) lymph nodes. For a peripheral lung nodule of 2.5 cm, percutaneous CT-guided biopsy typically offers a higher diagnostic yield compared to conventional bronchoscopy without advanced navigational techniques (which are not specified). EBUS-TBNA is the gold standard for sampling mediastinal (N2, N3) and hilar (N1) lymph nodes due to its high accuracy and minimally invasive nature. Obtaining tissue from both the primary lesion and the suspicious lymph nodes is crucial to confirm malignancy and accurately stage the N-component, which directly impacts treatment decisions (e.g., resectability, neoadjuvant therapy). This combined approach ensures both diagnosis and comprehensive N-staging.",
+    "highYieldPearl": "Rio's Take: For peripheral lung nodules, CT-guided biopsy offers high yield. EBUS-TBNA is the preferred method for pathological confirmation of hilar and mediastinal lymphadenopathy (N1, N2, N3 disease) in lung cancer staging.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. This approach combines the most effective method for diagnosing a peripheral lung nodule (CT-guided biopsy) with the gold standard for mediastinal nodal staging (EBUS-TBNA), providing both definitive diagnosis and crucial N-staging information.",
+      "B": "Plausible, but less optimal for the nodule. While EBUS-TBNA for nodes is correct, conventional bronchoscopic transbronchial biopsy for a 2.5 cm peripheral nodule has a lower yield than CT-guided biopsy, making it less 'most appropriate' as a first step.",
+      "C": "Incorrect as a first step. PET-CT is a valuable staging tool that can guide biopsy, but it doesn't provide tissue diagnosis itself. VATS is a surgical procedure for diagnosis and staging, which is more invasive and typically reserved if less invasive methods fail or if the disease is deemed resectable after complete pre-operative staging. Tissue diagnosis should ideally precede such a procedure.",
+      "D": "Incorrect. Performing surgical resection without a definitive pre-operative diagnosis and complete N-staging is generally not recommended. N2 disease (subcarinal node) often requires neoadjuvant therapy before surgery, or might even indicate unresectability for some centers, making a pre-operative tissue diagnosis and nodal staging essential for treatment planning."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_9fa33fb8",
+    "question": "A 70-year-old male with a history of COPD presents with hemoptysis. A chest CT reveals a 3.5 cm speculated mass in the left upper lobe. A PET-CT scan is performed, showing intense FDG uptake (SUVmax 12) in the lung mass and a single 1.8 cm subcarinal lymph node (SUVmax 6). No other sites of uptake are noted. What is the most appropriate interpretation of these PET-CT findings for staging, and what would be the subsequent management approach?",
+    "options": {
+      "A": "The findings suggest an early-stage resectable lung cancer (T2a N1 M0); proceed with surgical lobectomy.",
+      "B": "The subcarinal lymph node uptake indicates N2 disease, requiring tissue confirmation before surgical planning; proceed with EBUS-TBNA.",
+      "C": "The high SUVmax values are highly suspicious for malignancy and distant metastasis; proceed with systemic chemotherapy.",
+      "D": "The findings are inconclusive, and a repeat PET-CT in 3 months is warranted to monitor changes."
+    },
+    "correctAnswer": "B",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "The PET-CT findings show intense FDG uptake in both the primary lung mass and a subcarinal lymph node. A subcarinal lymph node is classified as an N2 lymph node. While PET-CT has high sensitivity for detecting malignant lymph nodes, its specificity for N2 disease is not 100%, and false positives can occur (e.g., due to inflammation or infection). Therefore, for any mediastinal lymph node (N2/N3) identified as positive on PET-CT, tissue confirmation via EBUS-TBNA (Endobronchial Ultrasound with transbronchial needle aspiration) or mediastinoscopy is mandatory before determining definitive treatment. Confirmation of N2 disease significantly impacts the management strategy, often leading to recommendations for neoadjuvant chemotherapy or chemoradiation followed by surgery, or definitive chemoradiation, rather than upfront surgery.",
+    "highYieldPearl": "Rio's Take: PET-CT positive mediastinal (N2/N3) lymph nodes in NSCLC require tissue confirmation (e.g., EBUS-TBNA) prior to definitive treatment planning due to the potential for false positives.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. A subcarinal lymph node is N2, not N1. N2 disease is not considered early-stage and typically requires tissue confirmation and potentially neoadjuvant therapy before surgical consideration, or definitive chemoradiation, rather than immediate surgical lobectomy.",
+      "B": "Correct. PET-CT suggests N2 disease, but tissue confirmation is essential due to the possibility of false positives. EBUS-TBNA is the standard, minimally invasive method for this purpose, crucial for guiding subsequent management.",
+      "C": "Incorrect. The PET-CT shows uptake in the primary tumor and an N2 node, but 'no other sites of uptake are noted,' meaning there's no evidence of distant metastasis (M1). Starting systemic chemotherapy for suspected M1 without confirmation and ruling out M1 is premature and not indicated by the current findings.",
+      "D": "Incorrect. High SUVmax values in a lesion are highly suspicious for malignancy in the appropriate clinical context (hemoptysis, lung mass). These findings are not 'inconclusive' enough to warrant a 'watch and wait' approach with a repeat PET-CT. Urgent tissue diagnosis and staging are required."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_bfd5f467",
+    "question": "A 68-year-old male with a 40 pack-year smoking history presents with new onset cough and weight loss. Initial CT chest reveals a 3.5 cm spiculated mass in the right lower lobe, multiple right hilar and mediastinal lymph nodes, and a small, non-loculated right pleural effusion. A PET/CT scan is performed which shows intense FDG uptake in the primary tumor and mediastinal lymph nodes (SUVmax 10), but no distant metastases. The small pleural effusion does not show any significant FDG uptake. What is the most appropriate next step in the staging of this patient's lung cancer?",
+    "options": {
+      "A": "Diagnostic thoracentesis with pleural fluid cytology and immunohistochemistry",
+      "B": "Proceed directly to mediastinoscopy for definitive N-staging",
+      "C": "Initiate systemic chemotherapy based on PET/CT findings indicating advanced disease",
+      "D": "Repeat CT scan in 3 months to monitor the pleural effusion for changes"
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "The presence of a pleural effusion in a patient with suspected lung cancer raises the possibility of a malignant pleural effusion (MPE), which automatically classifies the disease as M1a (TNM 8th edition). While PET/CT is excellent for detecting metabolically active lesions, a pleural effusion that does not show FDG uptake cannot reliably be presumed benign, as malignant cells in the fluid may not always be metabolically active enough to be detected, or the effusion may be paracancerous. Therefore, the most appropriate next step to definitively determine the stage, particularly the M-stage, is to perform a diagnostic thoracentesis. Pleural fluid cytology is essential to confirm the presence or absence of malignant cells. If malignant cells are found, the patient has M1a disease, profoundly impacting treatment strategy.",
+    "highYieldPearl": "Rio's Take: Any pleural effusion in the setting of suspected lung cancer warrants tissue diagnosis (usually fluid cytology) for definitive staging, as a malignant pleural effusion (MPE) constitutes M1a disease, regardless of PET activity.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. A malignant pleural effusion (MPE) is classified as M1a disease, and its diagnosis is crucial for staging. Even without FDG uptake on PET/CT, the suspicion in the context of lung cancer necessitates diagnostic thoracentesis and cytology to rule out MPE.",
+      "B": "Mediastinoscopy is appropriate for definitive N-staging (confirming mediastinal lymph node involvement), but confirming the M-stage (via pleural effusion) takes precedence as M1a disease implies systemic therapy rather than local definitive treatment like surgery, potentially making mediastinoscopy redundant or less urgent in initial staging.",
+      "C": "Initiating systemic chemotherapy without definitive tissue diagnosis of M1a disease is premature. While PET/CT suggests metabolically active nodes, the M1a status from a malignant effusion must be confirmed pathologically to guide appropriate management, as treatment for M1a disease differs significantly from N-positive, M0 disease.",
+      "D": "Monitoring a potentially malignant pleural effusion delays crucial staging and treatment. In a patient with high suspicion for lung cancer, prompt diagnosis of an M1a effusion is paramount to avoid progression and ensure timely initiation of appropriate therapy."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_cde4d7d3",
+    "question": "A 58-year-old female presents with persistent cough and shortness of breath. Chest X-ray reveals a left hilar mass and a large left-sided pleural effusion. CT chest confirms a 4 cm left upper lobe mass, enlarged hilar lymph nodes, and a significant left pleural effusion with some irregular pleural thickening. A diagnostic thoracentesis yields 1.5 liters of exudative fluid, but pleural fluid cytology is negative for malignant cells on two separate samples. Given the high suspicion for malignancy, what is the most appropriate next diagnostic step to establish the etiology of the pleural effusion?",
+    "options": {
+      "A": "Repeat thoracentesis with advanced immunohistochemical stains",
+      "B": "Blind closed pleural biopsy",
+      "C": "Ultrasound-guided cutting-needle pleural biopsy",
+      "D": "Video-assisted thoracoscopic surgery (VATS) with pleural biopsy"
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "In cases of suspected malignant pleural effusion where initial pleural fluid cytology is negative, more invasive procedures are often required to obtain a definitive diagnosis. While repeat cytology (A) might marginally increase yield, it's generally not the 'most appropriate next step' after two negative samples in a high-suspicion case. Blind closed pleural biopsy (B) has a moderate yield for malignancy but is less effective than image-guided biopsies, especially if specific pleural thickening is noted on CT. Ultrasound-guided cutting-needle pleural biopsy (C) offers a significantly higher diagnostic yield compared to blind biopsies and is less invasive than VATS. It allows for real-time visualization of the pleura and targeted sampling of suspicious areas (like the irregular thickening mentioned), improving accuracy and safety. VATS (D) provides the highest diagnostic yield for pleural malignancy, allowing direct visualization and multiple targeted biopsies, but it is a more invasive surgical procedure. It is generally reserved for cases where less invasive image-guided biopsies have failed or when there is a strong need for definitive diagnosis and a high suspicion of malignancy that couldn't be confirmed otherwise. Therefore, an ultrasound-guided biopsy offers the best balance of diagnostic yield and invasiveness as the next step.",
+    "highYieldPearl": "Rio's Take: For suspected malignant pleural effusion, if cytology is negative, an image-guided pleural biopsy (ultrasound or CT-guided) is typically the next step before considering more invasive surgical options like VATS.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "While additional stains can be useful, repeating thoracentesis multiple times after two negative results in a high-suspicion case typically offers diminishing returns for definitive diagnosis compared to obtaining tissue.",
+      "B": "Blind closed pleural biopsy has a lower diagnostic yield for malignancy (around 50-60%) compared to image-guided biopsies. The presence of 'irregular pleural thickening' on CT makes an image-guided approach more targeted and effective.",
+      "C": "This is the most appropriate next step. Ultrasound guidance allows for real-time visualization of the pleura, enabling targeted biopsies of suspicious areas (like the irregular thickening) and significantly improving diagnostic yield and safety compared to blind techniques, while being less invasive than VATS.",
+      "D": "VATS offers the highest diagnostic yield for pleural pathology (up to 95-98%) and is often the gold standard when less invasive methods fail. However, it is a surgical procedure with associated risks and costs. In a step-wise approach, an image-guided percutaneous biopsy is generally preferred as the next step before resorting to VATS, unless there are specific contraindications or a very high pre-test probability for a diffuse process best visualized by VATS."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_4055c071",
+    "question": "A 62-year-old patient undergoes a right upper lobectomy for a primary lung malignancy. The final pathology report describes a 2.8 cm adenocarcinoma. Microscopic examination reveals invasion of the tumor cells through the elastic layer of the visceral pleura, extending to the visceral pleural surface (PL2). All resected lymph nodes are negative for malignancy (N0), and preoperative imaging showed no distant metastases (M0). According to the current 8th edition IASLC TNM staging system, what is the correct T-stage for this patient's tumor?",
+    "options": {
+      "A": "T1b",
+      "B": "T1c",
+      "C": "T2a",
+      "D": "T2b"
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "According to the 8th edition of the IASLC TNM staging system for lung cancer:\n-   T1 tumors are ≤ 3 cm in greatest dimension.\n    -   T1a: ≤ 1 cm\n    -   T1b: > 1 cm to ≤ 2 cm\n    -   T1c: > 2 cm to ≤ 3 cm\n-   T2 tumors are > 3 cm to ≤ 5 cm OR involve the main bronchus regardless of distance from the carina (without involving the carina) OR are associated with atelectasis/obstructive pneumonitis extending to the hilar region (without involving the entire lung) OR involve the visceral pleura (PL1 or PL2).\n\nThe patient's tumor size is 2.8 cm. Based on size alone, it would be T1c. However, the presence of visceral pleural invasion (VPI) graded as PL2 (invasion to the visceral pleural surface) automatically upgrades any tumor < 3 cm to a T2a stage. Therefore, a 2.8 cm tumor with PL2 VPI is classified as T2a.",
+    "highYieldPearl": "Rio's Take: Visceral pleural invasion (PL1 or PL2) automatically upgrades T1 tumors (≤ 3 cm) to T2a stage in the 8th edition IASLC TNM staging system.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option represents a tumor >1 cm to ≤2 cm without VPI. While close in size range, it doesn't account for the VPI.",
+      "B": "This option represents a tumor >2 cm to ≤3 cm without VPI. While the tumor size (2.8 cm) falls into this category, the crucial factor of visceral pleural invasion (PL2) means it's not simply T1c, as VPI upgrades the T-stage.",
+      "C": "This is the correct answer. A tumor of 2.8 cm (which would normally be T1c) is upgraded to T2a due to the presence of visceral pleural invasion extending to the visceral pleural surface (PL2), according to the 8th edition IASLC TNM staging guidelines.",
+      "D": "This option represents a tumor >4 cm to ≤5 cm, or a tumor with a specific characteristic (like involving the entire lung with atelectasis) that would categorize it as T2b. A 2.8 cm tumor with PL2 VPI is upgraded to T2a, not T2b."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_a6b5c726",
+    "question": "According to the provided data, which primary tumor site is most frequently responsible for malignant pleural effusion?",
+    "options": {
+      "A": "Lung",
+      "B": "Breast",
+      "C": "Lymphoma",
+      "D": "Gastrointestinal"
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "The provided Table 114.1 clearly lists Lung as the primary tumor site for 37.5% of malignant pleural effusions, making it the most frequent cause among the listed options. Breast cancer is the second most common cause at 16.8%, followed by Lymphoma at 11.5%, and Genitourinary at 9.4% and Gastrointestinal at 6.9%. Understanding the prevalence of different primary tumor sites is crucial in the initial workup of malignant pleural effusion, guiding further diagnostic steps towards the most likely underlying malignancy, which is often lung cancer.",
+    "highYieldPearl": "Rio's Take: Lung cancer is the most common cause of malignant pleural effusion, accounting for over a third of cases. This high prevalence makes it a primary suspect in patients presenting with MPE.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct answer, directly from Table 114.1. Lung accounts for the highest percentage (37.5%) of malignant pleural effusions.",
+      "B": "Plausible, as breast cancer is the second most common cause (16.8%), making it a strong distractor if the exact percentages or ranking are not recalled.",
+      "C": "Plausible, as lymphoma is the third most common cause (11.5%), particularly noted as possibly the most common in young adults, but not overall most frequent.",
+      "D": "Plausible, as gastrointestinal cancers can cause MPE (6.9%), but it is less frequent than lung, breast, or lymphoma."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_9d576cb2",
+    "question": "Standardized grading for visceral pleural invasion (PL0 to PL3) in lung cancer has been incorporated into the staging scheme of which international organization?",
+    "options": {
+      "A": "International Association for the Study of Lung Cancer (IASLC)",
+      "B": "American Joint Committee on Cancer (AJCC)",
+      "C": "European Society for Medical Oncology (ESMO)",
+      "D": "National Comprehensive Cancer Network (NCCN)"
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "The text explicitly states: 'Standardized grading for visceral pleural invasion (from PL0 to PL3) has been incorporated into the International Association for the Study of Lung Cancer tumor-node-metastasis staging scheme.' The IASLC is a leading global organization dedicated to the study and treatment of lung cancer, and plays a crucial role in developing and refining the TNM staging system, which is then adopted by other organizations.",
+    "highYieldPearl": "Rio's Take: The IASLC is foundational in lung cancer staging. Remember their role in incorporating visceral pleural invasion (PL0-PL3) into the TNM scheme, as this is a key component for accurate staging.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct answer. The text directly attributes the incorporation of PL0-PL3 grading to the IASLC tumor-node-metastasis staging scheme.",
+      "B": "Plausible distractor. The AJCC works closely with the IASLC to publish the TNM staging manual; however, the text specifically credits the 'International Association for the Study of Lung Cancer tumor-node-metastasis staging scheme' for this incorporation, implying IASLC's direct development or primary integration.",
+      "C": "Plausible distractor. ESMO provides clinical practice guidelines and recommendations for cancer management, but is not primarily responsible for developing the core TNM staging system itself in this context.",
+      "D": "Plausible distractor. NCCN provides comprehensive, evidence-based guidelines for cancer care, including staging, but relies on the TNM staging system developed by IASLC/AJCC rather than creating its own core staging definitions."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_fa3d9959",
+    "question": "A 65-year-old male presents with a new-onset, moderate-sized unilateral pleural effusion. Initial diagnostic thoracentesis confirms an exudative malignant effusion. Based on the provided data, which of the following primary tumor sites should be considered with the highest probability as the underlying cause?",
+    "options": {
+      "A": "Lung",
+      "B": "Breast",
+      "C": "Lymphoma",
+      "D": "Genitourinary"
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "The scenario describes a patient with a malignant pleural effusion. According to Table 114.1, lung cancer is responsible for 37.5% of malignant pleural effusions, making it the most probable primary tumor site. While the other options can also cause MPE, their frequencies are lower: Breast (16.8%), Lymphoma (11.5%), and Genitourinary (9.4%). Therefore, based on statistical probability provided in the reference, lung cancer should be considered with the highest likelihood.",
+    "highYieldPearl": "Rio's Take: When facing a new diagnosis of malignant pleural effusion, always prioritize lung cancer in your differential due to its high prevalence as the primary source, especially in an older patient with smoking history or unexplained effusion.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct answer. The data indicates lung cancer is the most common cause of malignant pleural effusion (37.5%), making it the highest probability among the given options.",
+      "B": "Plausible, as breast cancer is the second most common cause of MPE (16.8%). This would be a strong consideration, but statistically less likely than lung cancer.",
+      "C": "Plausible, as lymphoma is the third most common cause of MPE (11.5%) and can present with effusion, but it is less frequent than lung cancer.",
+      "D": "Plausible, as genitourinary cancers can cause MPE (9.4%), but they are less frequent than lung, breast, or lymphoma."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_c7fba3e5",
+    "question": "A 68-year-old male with a history of smoking presents with a new onset cough, weight loss, and dyspnea. Chest CT reveals a 4 cm left upper lobe spiculated mass and a moderate left pleural effusion. Pleural fluid analysis is exudative with lymphocytic predominance; cytology is negative for malignant cells on two separate samples. Subsequent PET/CT shows intense FDG uptake in the left upper lobe mass (SUVmax 12) and heterogeneous, moderate uptake (SUVmax 3.5) in the left parietal pleura. There are no other distant metastases. Which of the following statements regarding the staging and management of this patient is most accurate?",
+    "options": {
+      "A": "Given the negative pleural fluid cytology, the pleural effusion is unlikely to be malignant, and further invasive pleural diagnostics are not warranted for staging.",
+      "B": "The moderate uptake in the parietal pleura on PET/CT, despite negative cytology, strongly suggests malignant pleural disease, upstaging the patient to at least T4N0M1a.",
+      "C": "Integrated PET/CT is highly sensitive for visceral pleural invasion, and its findings should supersede pleural fluid cytology in determining M1a status.",
+      "D": "Direct visualization and biopsy via medical thoracoscopy or VATS is the next most appropriate step to confirm malignant pleural involvement and accurately determine the M1a status."
+    },
+    "correctAnswer": "D",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "The scenario presents a high suspicion of lung cancer with a co-existing pleural effusion. Negative cytology in pleural fluid, especially on two samples, does not definitively rule out malignant pleural effusion (MPE). The sensitivity of cytology for MPE can vary significantly (50-70%), and in some cases, multiple samples or tissue biopsies are required for diagnosis (References 154, 159). The PET/CT finding of heterogeneous, moderate uptake in the parietal pleura is suspicious for malignancy but not definitive, as inflammatory processes can also cause FDG uptake. For definitive staging of non-small cell lung cancer (NSCLC), the presence of MPE (malignant pleural effusion) classifies the disease as M1a (distant metastasis), significantly impacting prognosis and treatment strategy. To confirm M1a status, pathological confirmation of malignant cells in the pleural fluid or pleural tissue is crucial. Given the suspicious imaging and negative cytology, direct visualization and targeted biopsies via medical thoracoscopy (pleuroscopy) or Video-Assisted Thoracoscopic Surgery (VATS) offer the highest diagnostic yield for MPE (References 152, 153, 157, 158). This allows for direct inspection of the pleura and targeted biopsies of any suspicious lesions, providing definitive histological diagnosis.",
+    "highYieldPearl": "Rio's Take: In suspected lung cancer with pleural effusion and negative cytology, suspicious pleural findings on PET/CT warrant direct pleural biopsy (thoracoscopy/VATS) for definitive M1a staging, as PET/CT uptake alone is not sufficient for M1a and cytology has limitations.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is a common misconception. Negative pleural fluid cytology does not exclude MPE, especially with high clinical suspicion and suspicious imaging. Further invasive diagnostics are often necessary to confirm or rule out malignancy (References 154, 157, 158).",
+      "B": "While PET/CT uptake can suggest malignancy, 'moderate' and 'heterogeneous' uptake is not definitive for MPE and can be seen in inflammatory conditions. More importantly, MPE itself makes the disease M1a, regardless of the T-stage (T1, T2, etc., are primary tumor extent). T4 specifically refers to the local invasion of the primary tumor, not the MPE itself, making the combined 'T4N0M1a' inaccurate unless the primary tumor also had T4 features.",
+      "C": "PET/CT is valuable in NSCLC staging (Reference 149), but its sensitivity for direct visceral pleural invasion (which affects T-stage, PL0-PL3) is distinct from its ability to definitively diagnose MPE. PET/CT findings for pleural lesions, especially with ambiguous uptake and negative cytology, do not supersede histological confirmation for M1a classification. Pathological proof is generally required.",
+      "D": "This is the most accurate approach. When cytology is non-diagnostic despite high suspicion and suggestive imaging, medical thoracoscopy or VATS allows for direct visualization of the pleura, targeted biopsies of suspicious areas, and thus the highest diagnostic yield for MPE, which is essential for accurate M1a staging (References 152, 153)."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_37b5dc9a",
+    "question": "A 55-year-old non-smoker presents with progressive dyspnea and right-sided pleuritic chest pain. Chest X-ray shows a large right pleural effusion. Thoracentesis yields an exudative fluid with ADA 25 U/L, protein 4.5 g/dL, LDH 250 U/L, and lymphocytic predominance. Cytology is negative for malignancy. A chest CT is performed and reveals diffuse right-sided pleural thickening, small pleural nodules, and an ipsilateral hilar lymphadenopathy without a clear parenchymal mass. Considering the high probability of malignant pleural effusion (MPE), which of the following statements regarding further diagnostic steps is LEAST accurate?",
+    "options": {
+      "A": "An ultrasound-guided cutting-needle pleural biopsy is likely to provide a higher diagnostic yield than a repeat closed pleural biopsy in this scenario.",
+      "B": "PET/CT imaging would be valuable to assess the metabolic activity of the pleural thickening and identify potential primary malignancies.",
+      "C": "Video-assisted thoracoscopic surgery (VATS) with pleural biopsies offers the highest diagnostic yield for MPE in such an undiagnosed exudate.",
+      "D": "Given the imaging findings, a repeat pleural fluid cytology might be sufficient for diagnosis if performed by an expert cytopathologist."
+    },
+    "correctAnswer": "D",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "The patient presents with an exudative pleural effusion with lymphocytic predominance and suspicious CT findings (diffuse pleural thickening, nodules, hilar lymphadenopathy) that strongly suggest malignancy, despite initial negative cytology. The ADA level of 25 U/L makes tuberculosis less likely (ADA levels are typically much higher in TB pleurisy, though overlap exists). The key is to obtain a definitive tissue diagnosis.\n\nOption A is accurate: Imaging-guided biopsies (CT-guided or ultrasound-guided) have significantly higher yields than blind closed pleural biopsies for diagnosing malignant pleural disease, especially when specific lesions or diffuse thickening are visible (References 157, 158). This allows for targeted sampling of affected pleura.\n\nOption B is accurate: PET/CT is routinely used in the staging of NSCLC (Reference 149) and is highly valuable in situations of suspected malignancy with ambiguous findings. It can assess the metabolic activity of pleural thickening and nodules, help differentiate malignant from benign processes, and identify an occult primary tumor if not apparent on CT.\n\nOption C is accurate: VATS with pleural biopsies provides direct visualization of the pleura, enabling targeted biopsies of all suspicious areas. It consistently offers the highest diagnostic yield for MPE and other pleural pathologies when less invasive methods are inconclusive (References 152, 153).\n\nOption D is the LEAST accurate. While repeat cytology can occasionally yield a diagnosis, its incremental benefit after an initial negative cytology in a highly suspicious case with clear tissue targets (pleural thickening, nodules) is limited. Given the imaging findings, which are highly suggestive of pleural malignancy, tissue diagnosis is paramount. Relying solely on repeat cytology, even by an expert, is less likely to be 'sufficient' for definitive diagnosis compared to tissue-based methods (References 154, 157, 158). The diagnostic yield of pleural fluid cytology in MPE is often around 60%, even with multiple samples, leaving a significant percentage requiring biopsy.",
+    "highYieldPearl": "Rio's Take: In exudative effusions with high suspicion for malignancy (e.g., suspicious CT findings) but negative cytology, prioritize tissue-based diagnostics like imaging-guided biopsy or thoracoscopy for definitive diagnosis, as repeat cytology often has diminishing returns.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is accurate. Multiple studies (Refs 157, 158) demonstrate superior diagnostic yield of image-guided biopsies over blind closed biopsies for malignant pleural disease, as they allow targeting of specific lesions.",
+      "B": "This is accurate. PET/CT is a valuable tool in malignancy workup and staging (Ref 149). It helps characterize metabolic activity and can identify primary lesions or metastatic sites, especially when an origin is unclear.",
+      "C": "This is accurate. Thoracoscopy (VATS) provides direct visualization and targeted biopsy, yielding the highest diagnostic accuracy for undiagnosed pleural exudates, including MPE (Refs 152, 153).",
+      "D": "This is the least accurate. While cytology expertise is important, the yield of repeat pleural fluid cytology after an initial negative result is often low (typically ~10-15% incremental gain). In the presence of clear architectural changes on CT (pleural thickening, nodules), tissue biopsy offers a far superior diagnostic yield for definitive diagnosis of malignancy compared to relying on repeat cytology (Refs 154, 157)."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_17a6267c",
+    "question": "A 72-year-old male with a significant smoking history is diagnosed with non-small cell lung cancer (NSCLC) with a large right-sided malignant pleural effusion (MPE). Separately, a 45-year-old female, 15 years post-mastectomy for stage I breast cancer, presents with a new onset left-sided MPE and no other discernible metastases. A 28-year-old male presents with bilateral MPEs and mediastinal lymphadenopathy, and a diagnosis of Hodgkin lymphoma is confirmed on lymph node biopsy. Considering these three patients and the provided context on MPE etiology, which of the following statements is most accurate?",
+    "options": {
+      "A": "The MPE in the 72-year-old male is likely the result of direct visceral pleural invasion by the primary lung tumor, thus classifying it as T4NXM1a disease.",
+      "B": "The MPE in the 45-year-old female, occurring 15 years post-diagnosis, makes breast cancer an unlikely primary etiology, necessitating a search for a new primary.",
+      "C": "The bilateral nature of the MPE in the 28-year-old male with Hodgkin lymphoma suggests a higher likelihood of direct pleural involvement rather than hilar/mediastinal lymph node involvement.",
+      "D": "Lung cancer is the most common cause of MPE, but in young adults, lymphoma should be considered a leading differential, often presenting with other evidence of disease."
+    },
+    "correctAnswer": "D",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "This question requires careful synthesis of information regarding the etiology and characteristics of MPE from different primary tumors, as detailed in the provided text.\n\nLet's evaluate each option:\n*   **A**: Malignant pleural effusion (MPE) in NSCLC immediately classifies the disease as M1a (distant metastatic disease) according to TNM staging. While the primary tumor might involve the visceral pleura (PL0-PL3, affecting T-stage), MPE itself is an M1a criterion and is not necessarily a consequence of direct visceral pleural invasion. A T4 classification refers to specific local invasion features of the primary tumor (e.g., invasion of diaphragm, mediastinum, heart, great vessels, trachea, recurrent laryngeal nerve, carina, esophagus, vertebral body, separate tumor nodule in the same lobe as the primary tumor), not just MPE. Therefore, assuming MPE always implies a T4 primary is inaccurate. The statement incorrectly links MPE directly to T4 as its cause, rather than recognizing MPE as an independent M1a criterion.\n*   **B**: The text explicitly states regarding breast cancer as a cause of MPE: \"Effusion often develops within a few years of the initial diagnosis but can present much later, even after **20 years**.\" Therefore, an MPE presenting 15 years post-mastectomy for breast cancer is entirely consistent with recurrent breast cancer as the primary etiology. This statement is inaccurate.\n*   **C**: The text mentions regarding Hodgkin lymphoma and effusions: \"In one study of 110 patients presenting with Hodgkin lymphoma, effusions were present in 26 (24%); these were equally unilateral or bilateral. The presence of effus[ions]... may be caused by hilar or mediastinal lymph node involvement as well as pleural involvement.\" Bilateral effusions can result from extensive lymphatic obstruction due to mediastinal/hilar lymphadenopathy, not just direct pleural involvement. Therefore, stating bilateral MPE *suggests a higher likelihood of direct pleural involvement* over nodal involvement is not supported by the text and is likely inaccurate.\n*   **D**: This statement directly combines information from Table 114.1 and the subsequent text. Table 114.1 shows that Lung cancer is the most common cause of MPE (37.5%). The text states: \"Lymphoma is the third most common cause in most series but is possibly the most common cause in young adults.\" It also notes that in patients with non-Hodgkin lymphoma, most will have the effusion at the time of initial diagnosis \"in association with evidence of disease elsewhere.\" This option accurately synthesizes these facts.",
+    "highYieldPearl": "Rio's Take: While lung cancer is the overall leading cause of MPE, remember specific patterns: breast cancer MPE can occur decades later; lymphoma is a common cause in young adults, often with other disease evidence; and MPE in NSCLC is always M1a, irrespective of the primary tumor's T-stage.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is incorrect. MPE classifies NSCLC as M1a, a distant metastasis, regardless of the primary tumor's T-stage. T4 refers to specific extensive local invasion by the primary tumor, not MPE itself. A T1 tumor with MPE is still M1a.",
+      "B": "This is incorrect. The provided text clearly states that breast cancer-related MPE can occur up to 20 years after initial diagnosis, making 15 years a plausible interval.",
+      "C": "This is incorrect. The text states that effusions in Hodgkin lymphoma, whether unilateral or bilateral, can be caused by both direct pleural involvement *and* hilar/mediastinal lymph node involvement (e.g., lymphatic obstruction). Bilateral presentation does not inherently favor one mechanism over the other.",
+      "D": "This is accurate. It correctly identifies lung cancer as the most common overall cause of MPE (Table 114.1) and synthesizes the specific detail that lymphoma is a common cause in young adults and often presents with other signs of systemic disease, directly from the provided text."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_74d3940e",
+    "question": "A 65-year-old male presents with persistent cough, weight loss, and a large right-sided pleural effusion. Chest CT reveals a 4 cm spiculated mass in the right upper lobe and a large right pleural effusion. Pleural fluid analysis is exudative with low glucose, elevated LDH, and cytology is negative for malignant cells on two separate attempts. Given the high suspicion for lung cancer, what is the most appropriate next step to establish the diagnosis and stage?",
+    "options": {
+      "A": "Proceed directly to Video-Assisted Thoracoscopic Surgery (VATS) with pleural biopsies and lung mass biopsy.",
+      "B": "Repeat thoracentesis with cytology and request immunohistochemistry markers.",
+      "C": "Perform a CT-guided percutaneous biopsy of the lung mass.",
+      "D": "Obtain a PET/CT scan to assess for distant metastases."
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "In patients with suspected malignant pleural effusion (MPE) and negative pleural fluid cytology, advanced diagnostic techniques are required to establish a definitive diagnosis. Cytology, while often the first step, has variable sensitivity (around 60%). After two negative cytologies, the yield of further repeated cytology attempts diminishes significantly. Thoracoscopy (VATS) with pleural biopsies has a significantly higher diagnostic yield for MPE (often >90%) compared to closed pleural biopsy or repeated cytology, as supported by references like 152, 153, 157, and 158. It allows direct visualization of the pleura, targeted biopsies, and can often concurrently sample an accessible lung mass. Establishing whether the pleural effusion is malignant (M1a disease) is critical for staging and treatment planning, as MPE represents advanced disease regardless of the primary tumor's T or N status. Concurrent biopsy of the lung mass provides histology of the primary tumor. Thus, VATS offers the most comprehensive and highest yield diagnostic approach in this scenario.",
+    "highYieldPearl": "Rio's Take: For suspected malignant pleural effusion with initially negative cytology, advanced techniques like VATS with pleural biopsies offer the highest diagnostic yield and are crucial for accurate staging (M1a) that significantly impacts management.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This option targets both the pleural effusion and the lung mass with the highest yield techniques. Confirming MPE leads to M1a staging, which is paramount.",
+      "B": "Repeating cytology after two negative attempts has a low incremental yield. While immunohistochemistry can improve detection if cells are present, the primary issue might be insufficient cell yield from the fluid. This delays definitive diagnosis.",
+      "C": "Biopsy of the lung mass is essential for diagnosis of the primary tumor. However, if the pleural effusion is malignant, the disease is already M1a, irrespective of the T-stage of the primary tumor. This option fails to address the critical staging implication of the effusion.",
+      "D": "PET/CT is a staging tool. While important, obtaining it before establishing the malignancy of the effusion or the primary tumor type can lead to misinterpretation and delay definitive diagnosis and staging. The M1a status from a malignant effusion would already be a major staging determinant."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_bc7984c4",
+    "question": "A 70-year-old female presents with hemoptysis and dyspnea. CT chest reveals a 6 cm right lower lobe mass invading the ipsilateral diaphragm. There is also a 1 cm non-calcified nodule in the contralateral upper lobe, and a separate 0.5 cm nodule in the ipsilateral middle lobe, both with PET avidity. No pleural effusion or mediastinal lymphadenopathy is noted. Bronchoscopy with biopsy confirmed adenocarcinoma. Which of the following best describes the clinical T and M stage for this patient based on the IASLC 8th edition TNM classification?",
+    "options": {
+      "A": "T4 M1a",
+      "B": "T3 M1a",
+      "C": "T4 M1b",
+      "D": "T4 M1c"
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "According to the IASLC 8th edition TNM classification for lung cancer:\n\n1.  **T-stage (Tumor):**\n    *   The 6 cm right lower lobe mass would initially be T2b (for tumor size between 5 and 7 cm).\n    *   However, invasion of the ipsilateral diaphragm upstages the tumor to **T4** (invasion of the diaphragm is a T4 feature).\n    *   Additionally, the separate 0.5 cm nodule in the ipsilateral middle lobe (a different lobe from the primary right lower lobe mass) also constitutes a T4 feature (separate tumor nodule(s) in an ipsilateral non-primary lobe).\n    *   Therefore, the T-stage is **T4**.\n\n2.  **M-stage (Metastasis):**\n    *   The 1 cm non-calcified nodule in the contralateral upper lobe, with PET avidity and biopsy-proven adenocarcinoma from the primary, indicates a separate tumor nodule in the contralateral lung. This is classified as **M1a** (separate tumor nodule(s) in a contralateral lobe).\n    *   M1a also includes malignant pleural or pericardial effusions. M1b refers to a single extrathoracic metastasis, and M1c refers to multiple extrathoracic metastases in one or more organs.",
+    "highYieldPearl": "Rio's Take: Master the 8th edition TNM classification. Diaphragm invasion and separate ipsilateral lobe nodules are T4 features. Contralateral lung nodules are M1a. These distinctions are crucial for prognosis and treatment decisions.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is the correct staging. Diaphragm invasion and separate ipsilateral lobe nodule both qualify as T4. A contralateral lung nodule is classified as M1a.",
+      "B": "T3 for diaphragm invasion is incorrect. Diaphragm invasion is a T4 feature. The M1a component for contralateral lung nodule is correct, but the T-stage is misclassified.",
+      "C": "While the T4 is correct, M1b refers to a single extrathoracic metastasis. A contralateral lung nodule is an intrapulmonary metastasis, classified as M1a.",
+      "D": "While the T4 is correct, M1c refers to multiple extrathoracic metastases in one or more organs. A contralateral lung nodule is an intrapulmonary metastasis, classified as M1a."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_ca24a3cc",
+    "question": "A 35-year-old male presents with progressive dyspnea and fatigue. Chest X-ray shows a large left pleural effusion. Thoracentesis yields a turbid, milky fluid with a triglyceride level of 450 mg/dL and lymphocyte predominance. Cytology is negative for malignant cells. CT scan reveals mediastinal lymphadenopathy and no discrete lung mass. He has no history of trauma or recent surgery. Given the context, which of the following is the most appropriate next diagnostic step?",
+    "options": {
+      "A": "Repeat pleural fluid cytology with flow cytometry.",
+      "B": "Video-assisted thoracoscopic surgery (VATS) with pleural biopsies.",
+      "C": "CT-guided core biopsy of the mediastinal lymph nodes.",
+      "D": "PET/CT scan to identify other sites of disease."
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Diagnosis and Staging",
+    "deepDiveExplanation": "The clinical presentation—a young adult male with chylothorax (milky fluid, high triglycerides) and mediastinal lymphadenopathy but no lung mass—strongly points towards lymphoma. The provided context explicitly mentions that lymphoma is a common cause of malignant pleural effusions, possibly the most common in young adults, and that chylothorax is common with non-Hodgkin lymphoma. Furthermore, effusions in Hodgkin lymphoma can be caused by hilar or mediastinal lymph node involvement. In this scenario, the mediastinal lymph nodes are the most likely primary site of the disease process causing the chylothorax (due to lymphatic obstruction) and potentially the effusion. Therefore, directly biopsying the enlarged mediastinal lymph nodes via CT-guidance offers the most direct and highest yield approach to establish a definitive diagnosis of lymphoma and subtype it, which is crucial for treatment planning.",
+    "highYieldPearl": "Rio's Take: Chylothorax in a young adult with mediastinal adenopathy and no lung mass should strongly raise suspicion for lymphoma. Target the most likely primary disease site (e.g., mediastinal nodes) for biopsy, rather than solely the effusion, for definitive diagnosis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "While flow cytometry can be very helpful for diagnosing lymphoma if malignant cells are present, the primary issue may be the low yield of cells from the pleural fluid. Repeating cytology after an initial negative result has diminishing returns, and it might not capture the nodal disease directly.",
+      "B": "VATS with pleural biopsies would be an excellent option if the primary pathology was suspected to be pleural. While lymphoma can involve the pleura, the presence of prominent mediastinal lymphadenopathy suggests the nodes as the primary source, which is better targeted directly. The effusion might even be secondary to lymphatic obstruction from the nodes without direct pleural invasion.",
+      "C": "This option directly targets the most likely primary site of disease (mediastinal lymphadenopathy) that is causing the chylothorax. A core biopsy provides sufficient tissue for diagnosis and subtyping of lymphoma, which is crucial for management.",
+      "D": "PET/CT is a valuable tool for staging and assessing metabolic activity, which can help guide biopsy sites. However, it is a staging modality and does not provide a definitive tissue diagnosis. A biopsy is required to confirm lymphoma and its specific subtype."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_69e76360",
+    "question": "A 62-year-old female presents with progressive shortness of breath and cough. CT chest reveals a 5 cm right lower lobe mass with multiple ipsilateral pleural nodules and a moderate pleural effusion. Pleural fluid cytology confirms adenocarcinoma, positive for TTF-1 and Napsin A on immunohistochemistry. Molecular testing on a tissue biopsy identifies an activating EGFR exon 19 deletion. Her ECOG performance status is 1. Which of the following is the most appropriate initial systemic therapy for this patient?",
+    "options": {
+      "A": "Osimertinib",
+      "B": "Cisplatin and Pemetrexed",
+      "C": "Carboplatin and Paclitaxel",
+      "D": "Pembrolizumab monotherapy"
+    },
+    "correctAnswer": "A",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "The patient has advanced non-small cell lung cancer (NSCLC) of adenocarcinoma histology with a confirmed activating EGFR exon 19 deletion. For patients with EGFR-mutated advanced NSCLC, targeted therapy with an EGFR tyrosine kinase inhibitor (TKI) is the standard of care as first-line treatment due to superior efficacy compared to chemotherapy. Osimertinib, a third-generation EGFR TKI, is recommended as first-line therapy for patients with EGFR exon 19 deletion or L858R mutations due to its improved efficacy, favorable toxicity profile, and CNS penetration compared to earlier generation TKIs. It has demonstrated superiority over first-generation EGFR TKIs in terms of progression-free survival and overall survival in the FLAURA trial.",
+    "highYieldPearl": "Rio's Take: Always prioritize targeted therapy with appropriate TKIs (e.g., Osimertinib for EGFR, Alectinib/Brigatinib for ALK, Entrectinib/Lorlatinib for ROS1) as first-line treatment for advanced NSCLC patients with actionable driver mutations, especially in adenocarcinoma histology.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. Osimertinib is the preferred first-line treatment for advanced EGFR-mutated NSCLC due to its efficacy, especially for common sensitizing mutations like exon 19 deletion.",
+      "B": "Incorrect. While cisplatin and pemetrexed is a standard chemotherapy regimen for non-squamous NSCLC, targeted therapy with an EGFR TKI is superior as first-line treatment when an EGFR mutation is present. Pemetrexed is indicated for non-squamous histology, which is appropriate for adenocarcinoma, but it is not the optimal first-line choice in the presence of an actionable driver mutation.",
+      "C": "Incorrect. Carboplatin and paclitaxel is a platinum-doublet chemotherapy regimen for NSCLC, but it is not the preferred first-line treatment when an EGFR mutation is identified. Like other chemotherapy regimens, its efficacy is inferior to targeted therapy in this specific patient population.",
+      "D": "Incorrect. Pembrolizumab monotherapy is a checkpoint inhibitor (immunotherapy) indicated for NSCLC. However, for patients with driver mutations like EGFR, immunotherapy as monotherapy is generally not recommended as first-line therapy, especially when a highly effective targeted agent is available. EGFR-mutated NSCLC often has lower PD-L1 expression and lower response rates to immunotherapy compared to wild-type NSCLC, and targeted therapy is the primary approach."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_4cceba75",
+    "question": "Which of the following statements regarding the molecular landscape and targeted therapy in advanced non-small cell lung cancer (NSCLC) is NOT accurate?",
+    "options": {
+      "A": "EGFR L858R mutation and exon 19 deletions constitute the most frequent activating EGFR mutations in NSCLC, particularly in adenocarcinomas.",
+      "B": "ALK rearrangement testing by Fluorescence In Situ Hybridization (FISH) is the gold standard, but Immunohistochemistry (IHC) can serve as a highly sensitive and specific screening tool.",
+      "C": "BRAF V600E mutations, when present, typically respond to combined BRAF and MEK inhibitor therapy, irrespective of the patient's ECOG performance status.",
+      "D": "ROS1 rearrangements are less common than ALK rearrangements but share sensitivity to some ALK inhibitors and specific ROS1 TKIs."
+    },
+    "correctAnswer": "C",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "Statement C is inaccurate. While BRAF V600E mutations are indeed actionable with combined BRAF and MEK inhibitor therapy (e.g., Dabrafenib and Trametinib), the patient's ECOG performance status is a crucial factor in determining the appropriateness of *any* systemic therapy, including targeted therapies. A very poor performance status (e.g., ECOG 3-4) would often lead to consideration of best supportive care or less aggressive palliative measures, even in the presence of an actionable mutation, due to the patient's inability to tolerate treatment toxicities. Therefore, therapy choice is not 'irrespective' of performance status.",
+    "highYieldPearl": "Rio's Take: Patient's overall clinical status, including ECOG performance status, always guides treatment decisions, even with highly effective targeted therapies. An actionable mutation doesn't override the need for patient tolerability assessment.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Accurate. EGFR L858R and exon 19 deletions are the most common sensitizing EGFR mutations, accounting for approximately 85-90% of all EGFR mutations in NSCLC, predominantly in adenocarcinomas.",
+      "B": "Accurate. FISH has traditionally been the gold standard for ALK rearrangement detection. However, ALK IHC has emerged as a highly sensitive and specific method, often used as a screening tool, with positive results confirmed by FISH or next-generation sequencing (NGS).",
+      "C": "Incorrect. While BRAF V600E mutations are targetable with BRAF/MEK inhibitors, the patient's ECOG performance status is always a critical factor in determining suitability for any systemic therapy, including targeted agents. 'Irrespective of performance status' makes this statement inaccurate.",
+      "D": "Accurate. ROS1 rearrangements are less common (1-2%) than ALK rearrangements (3-7%) in NSCLC. However, they are also highly actionable, and patients respond well to specific ROS1 TKIs (e.g., Crizotinib, Entrectinib, Lorlatinib). Crizotinib is an ALK inhibitor that also inhibits ROS1."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_03adcaf2",
+    "question": "A 58-year-old male with a history of smoking presents with stage IV lung adenocarcinoma. Initial molecular testing reveals a KRAS G12C mutation, and PD-L1 TPS is 15%. After completing four cycles of carboplatin and pemetrexed with initial disease stabilization, subsequent imaging shows clear progression of disease. His ECOG performance status remains 1. Which of the following is the most appropriate next therapeutic option?",
+    "options": {
+      "A": "Switch to a second-generation EGFR TKI.",
+      "B": "Initiate combined Dabrafenib and Trametinib.",
+      "C": "Consider Sotorasib or Adagrasib.",
+      "D": "Administer Alectinib."
+    },
+    "correctAnswer": "C",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "The patient has advanced lung adenocarcinoma with a KRAS G12C mutation and has progressed on first-line platinum-based chemotherapy. KRAS G12C is a specific actionable mutation. Sotorasib and Adagrasib are recently approved targeted therapies specifically designed to inhibit KRAS G12C. For patients with KRAS G12C-mutated NSCLC who have progressed on prior systemic therapy, these agents are appropriate second-line (or later) options. The patient's good performance status (ECOG 1) supports initiating further targeted therapy.",
+    "highYieldPearl": "Rio's Take: KRAS G12C is a distinct actionable mutation in NSCLC, now with approved targeted inhibitors (Sotorasib, Adagrasib). Recognize that 'other mutations' beyond EGFR/ALK/ROS1 also have specific therapeutic strategies.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. EGFR TKIs are indicated for EGFR-mutated NSCLC. This patient has a KRAS G12C mutation, not an EGFR mutation. Therefore, an EGFR TKI would not be effective.",
+      "B": "Incorrect. Dabrafenib and Trametinib are targeted therapies for BRAF V600E-mutated NSCLC. This patient has a KRAS G12C mutation, so these agents are not appropriate.",
+      "C": "Correct. Sotorasib and Adagrasib are specific KRAS G12C inhibitors approved for use in patients with KRAS G12C-mutated NSCLC who have progressed on at least one prior systemic therapy.",
+      "D": "Incorrect. Alectinib is an ALK inhibitor used for ALK-rearranged NSCLC. This patient has a KRAS G12C mutation, not an ALK rearrangement, making Alectinib ineffective."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_d32d8a11",
+    "question": "A 62-year-old non-smoking female presents with dyspnea. Chest imaging reveals a right lung mass and a large right-sided pleural effusion. Thoracentesis shows exudative fluid, cytology positive for adenocarcinoma. Pleural biopsy confirms lung adenocarcinoma. Immunohistochemistry is positive for TTF-1 and Napsin A. Molecular testing for driver mutations is initiated.\n\nWhich of the following findings would most strongly predict a favorable response to an oral tyrosine kinase inhibitor (TKI) in this patient?",
+    "options": {
+      "A": "Presence of an activating EGFR mutation (e.g., exon 19 deletion or L858R point mutation).",
+      "B": "Presence of an ALK rearrangement.",
+      "C": "High PD-L1 expression (>50%).",
+      "D": "KRAS G12C mutation."
+    },
+    "correctAnswer": "A",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "Activating EGFR mutations, specifically exon 19 deletions and L858R point mutations, are the most common EGFR mutations found in non-small cell lung cancer (NSCLC), particularly in adenocarcinomas, non-smokers, and individuals of Asian descent. These specific mutations are highly predictive of a favorable and often dramatic response to first-line EGFR tyrosine kinase inhibitors (TKIs) such as gefitinib, erlotinib, afatinib, dacomitinib, and osimertinib. These targeted therapies lead to significantly improved progression-free survival and overall survival compared to standard platinum-based chemotherapy in mutation-positive patients. While other options represent targetable alterations, EGFR mutations are the most frequently encountered and have the most established and robust response to oral TKIs in this context.",
+    "highYieldPearl": "Rio's Take: Always prioritize EGFR, ALK, and ROS1 testing in non-squamous NSCLC, especially in non-smokers, as they guide first-line targeted therapy with TKIs, which offer superior outcomes to conventional chemotherapy in mutation-positive patients. Early and accurate identification of these mutations is critical for optimal patient management.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. Activating EGFR mutations are the strongest predictors for a favorable response to EGFR TKIs, which are a class of oral TKIs.",
+      "B": "ALK rearrangements also predict a favorable response to specific oral TKIs (ALK inhibitors like crizotinib, alectinib, brigatinib, lorlatinib). However, the question asks for the 'most strongly' predictive finding for 'an oral TKI'. EGFR mutations are arguably more commonly associated with the general term 'TKI' in NSCLC, and their response rate to specific EGFR TKIs is exceptionally high and well-documented. If ALK was present, an ALK TKI would be used, but EGFR remains a primary target for oral TKIs.",
+      "C": "High PD-L1 expression predicts a favorable response to immune checkpoint inhibitors (immunotherapy), not primarily to oral TKIs. While some patients might have both, the presence of an actionable driver mutation like EGFR or ALK typically mandates targeted therapy as first-line over immunotherapy.",
+      "D": "KRAS G12C mutation is targetable with specific oral TKIs (e.g., sotorasib, adagrasib). However, the prevalence of this specific KRAS subtype is lower than activating EGFR mutations, and historically, the magnitude and durability of response to these inhibitors, while significant, might not be as universally profound or long-standing as the response seen with first-generation EGFR TKIs in EGFR-mutated patients, or ALK TKIs in ALK-rearranged patients, especially in the context of initial first-line therapy prediction."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_9319ea68",
+    "question": "A 58-year-old male with stage IV non-squamous NSCLC (adenocarcinoma) was diagnosed with an EML4-ALK fusion. He received alectinib as first-line therapy and achieved an excellent partial response for 24 months. He now presents with worsening cough, dyspnea, and new liver metastases. A repeat biopsy of the liver metastasis is performed for molecular re-profiling.\n\nWhich of the following is the most likely mechanism of acquired resistance to alectinib in this patient?",
+    "options": {
+      "A": "Development of an on-target ALK G1202R mutation.",
+      "B": "Emergence of a BRAF V600E mutation.",
+      "C": "Amplification of the MET gene.",
+      "D": "Loss of the EML4-ALK fusion."
+    },
+    "correctAnswer": "A",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "Acquired resistance to ALK TKIs is a common phenomenon in ALK-positive NSCLC patients after an initial period of response. The most frequent mechanism of resistance to second-generation ALK inhibitors like alectinib involves the development of secondary, 'on-target' mutations within the ALK kinase domain. These mutations alter the TKI binding site, reducing the drug's affinity and efficacy. The G1202R mutation is one of the most common and challenging resistance mutations, often requiring a switch to a third-generation ALK inhibitor like lorlatinib, which can overcome many of these specific resistance mutations. Other ALK mutations (e.g., I1171N, V1180L) and bypass pathway activations (e.g., MET amplification) also occur but are less common than on-target ALK mutations.",
+    "highYieldPearl": "Rio's Take: When ALK-positive NSCLC progresses on an ALK TKI, re-biopsy and re-profiling are critical. The most common resistance mechanisms are secondary ALK kinase domain mutations. Identifying these mutations guides the selection of the next-generation ALK TKI, such as lorlatinib for G1202R.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. On-target secondary ALK kinase domain mutations, such as G1202R, are the most common acquired resistance mechanisms to second-generation ALK inhibitors like alectinib. These mutations directly interfere with drug binding.",
+      "B": "BRAF V600E is a distinct oncogenic driver mutation in a separate subset of NSCLC. While bypass pathway activation (where other signaling pathways become activated to drive proliferation) can occur as a resistance mechanism, the emergence of a new primary driver mutation like BRAF V600E is not the most common or direct mechanism of acquired resistance to ALK TKIs.",
+      "C": "MET amplification is a known bypass resistance mechanism to ALK TKIs. However, it occurs less frequently than on-target ALK mutations. The question asks for the 'most likely' mechanism.",
+      "D": "Loss of the primary EML4-ALK fusion is highly unlikely. The tumor cells typically retain their original driver mutation but acquire additional genetic or epigenetic changes that confer resistance. The driver mutation is usually essential for tumor survival and is not lost upon developing resistance."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_a3e6037f",
+    "question": "A 68-year-old male presents with advanced, newly diagnosed non-squamous NSCLC. A core biopsy from a mediastinal lymph node metastasis confirms adenocarcinoma. The oncologist is planning comprehensive molecular testing to guide first-line therapy.\n\nWhich of the following statements regarding molecular testing for driver mutations in this patient is INCORRECT?",
+    "options": {
+      "A": "Testing for EGFR, ALK, and ROS1 mutations is mandatory prior to initiating systemic therapy.",
+      "B": "Liquid biopsy using circulating tumor DNA (ctDNA) is a suitable alternative if tissue biopsy is insufficient or unobtainable.",
+      "C": "PD-L1 expression analysis should be performed alongside driver mutation testing, especially if no targetable mutation is found.",
+      "D": "Patients with an activating EGFR mutation should receive upfront immune checkpoint inhibitor monotherapy."
+    },
+    "correctAnswer": "D",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "The statement that patients with an activating EGFR mutation should receive upfront immune checkpoint inhibitor monotherapy is INCORRECT. For patients with NSCLC harboring activating EGFR mutations (or ALK/ROS1 rearrangements), targeted therapy with an appropriate tyrosine kinase inhibitor (TKI) is the standard first-line treatment. Immune checkpoint inhibitors (ICIs) are generally less effective as first-line therapy in EGFR-mutated NSCLC and can potentially lead to increased toxicity if followed by TKIs. First-line ICI monotherapy is typically reserved for patients with high PD-L1 expression who do *not* have targetable driver mutations.",
+    "highYieldPearl": "Rio's Take: In non-squamous NSCLC, a hierarchical approach to testing and treatment is crucial. First, identify actionable driver mutations (EGFR, ALK, ROS1, BRAF, METex14 skipping, RET fusion). If present, initiate targeted therapy. If no driver mutation is found, then assess PD-L1 expression to guide the use of immunotherapy or chemotherapy.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a correct statement. Guidelines universally recommend comprehensive molecular testing for actionable driver mutations (EGFR, ALK, ROS1, BRAF, METex14, RET) in all patients with advanced non-squamous NSCLC to identify candidates for targeted therapy.",
+      "B": "This is a correct statement. Liquid biopsy, which analyzes circulating tumor DNA (ctDNA) from blood samples, is a valid and increasingly utilized alternative for molecular profiling when tissue biopsy is insufficient, inaccessible, or unobtainable. It can also be used for monitoring and detecting resistance mechanisms.",
+      "C": "This is a correct statement. PD-L1 expression analysis is critical for guiding the use of immune checkpoint inhibitors. It is performed in parallel with driver mutation testing, and its results are particularly important for treatment decisions if no targetable driver mutation is identified.",
+      "D": "This is the INCORRECT statement and therefore the correct answer. Patients with an activating EGFR mutation should receive an EGFR TKI (e.g., osimertinib) as first-line therapy, not upfront immune checkpoint inhibitor (ICI) monotherapy. ICI monotherapy is primarily indicated for patients with high PD-L1 expression *without* targetable driver mutations."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_c84c8350",
+    "question": "Which of the following is NOT listed as a common driver mutation in non-small cell lung cancer (NSCLC) in the provided context?",
+    "options": {
+      "A": "EGFR",
+      "B": "ALK",
+      "C": "ROS1",
+      "D": "KRAS"
+    },
+    "correctAnswer": "D",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "The provided text explicitly lists 'Driver mutations: EGFR, ROS1, ALK, BRAF'. While KRAS is a well-known and common driver mutation in NSCLC, particularly in adenocarcinoma, it is not mentioned in the specific list provided in the context material. Therefore, based solely on the given text, KRAS is the mutation not listed.",
+    "highYieldPearl": "Rio's Take: Always read the question carefully, especially when it refers to 'in the provided context' or 'according to the text'. While KRAS is a true driver mutation in NSCLC, the question tests recall of the specific information given.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "EGFR is explicitly listed as a driver mutation in the provided context.",
+      "B": "ALK is explicitly listed as a driver mutation in the provided context.",
+      "C": "ROS1 is explicitly listed as a driver mutation in the provided context.",
+      "D": "KRAS is a known driver mutation in NSCLC but is not present in the specific list provided in the context, making it the correct answer for 'NOT listed'."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_d3aaebe6",
+    "question": "According to the provided text, which chemotherapy agent is specifically recommended for patients with nonsquamous non-small cell lung cancer (NSCLC) in the first-line setting due to improved survival?",
+    "options": {
+      "A": "Gemcitabine",
+      "B": "Paclitaxel",
+      "C": "Pemetrexed",
+      "D": "Irinotecan"
+    },
+    "correctAnswer": "C",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "The text states: 'Histology influences response to certain chemotherapeutic agents. A large phase III trial randomized patients to cisplatin plus pemetrexed or cisplatin plus gemcitabine. For the patients with adenocarcinoma, the survival was significantly better with the pemetrexed regimen... Chemotherapy for stage IV NSCLC should be guided by histology and pemetrexed should be limited to patients with nonsquamous NSCLC.' This directly indicates pemetrexed for nonsquamous histology.",
+    "highYieldPearl": "Rio's Take: Histology-driven treatment is crucial in NSCLC. Pemetrexed is a key agent for nonsquamous NSCLC, where driver mutations like EGFR, ALK, and ROS1 are more prevalent, making it relevant for subsequent targeted therapy considerations.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Gemcitabine is mentioned as having superior survival for squamous cell cancers, not nonsquamous.",
+      "B": "Paclitaxel is mentioned as a newer chemotherapy agent used in combinations but not specifically highlighted for nonsquamous histology over other agents in the context of differential efficacy based on histology.",
+      "C": "Pemetrexed is explicitly stated to be superior for patients with adenocarcinoma (nonsquamous histology) and should be limited to this group.",
+      "D": "Irinotecan is mentioned as a newer chemotherapy agent but not specifically tied to nonsquamous histology with improved survival in the context's comparative discussion."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_43d8e3d6",
+    "question": "When attempting to identify primary lung adenocarcinoma from a pleural fluid cytology specimen using immunohistochemistry (IHC), which combination of markers would be most characteristic according to the provided information?",
+    "options": {
+      "A": "CK 5/6 and Calretinin",
+      "B": "TTF1 and Napsin A",
+      "C": "Mammaglobin and ER/PR",
+      "D": "CDX2 and CK20"
+    },
+    "correctAnswer": "B",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "The context clearly lists the IHC markers for various primary cancers. For '1° lung Adenoca', the markers specified are 'TTF1, Napsin A'. Correct identification of adenocarcinoma is a crucial step before proceeding with driver mutation testing (EGFR, ALK, ROS1, BRAF) which are more common in this histological subtype.",
+    "highYieldPearl": "Rio's Take: IHC is essential for differentiating tumor types and primary origin from metastatic disease, especially in cytology. TTF1 and Napsin A are workhorse markers for lung adenocarcinoma.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "CK 5/6 and Calretinin are listed as IHC markers for Mesothelioma, not primary lung adenocarcinoma.",
+      "B": "TTF1 and Napsin A are explicitly listed as IHC markers for primary lung Adenocarcinoma.",
+      "C": "Mammaglobin and ER/PR are listed as IHC markers for Breast cancer, not primary lung adenocarcinoma.",
+      "D": "CDX2 and CK20 are listed as IHC markers for GI malignancy, not primary lung adenocarcinoma."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_bad1c7b5",
+    "question": "A 62-year-old male, a never-smoker, presents with progressive dyspnea and productive cough for 3 months. Chest X-ray and CT scan reveal a large left lung mass with associated malignant pleural effusion. Biopsy of the lung mass confirms adenocarcinoma. Cytology of the pleural fluid shows malignant cells consistent with adenocarcinoma. The patient has an ECOG performance status of 1. Which of the following is the most appropriate initial diagnostic step regarding molecular profiling to guide systemic therapy?",
+    "options": {
+      "A": "Perform next-generation sequencing (NGS) on the pleural fluid cell block.",
+      "B": "Initiate platinum-based chemotherapy and evaluate response before molecular testing.",
+      "C": "Test for PD-L1 expression only, as it guides immunotherapy decisions.",
+      "D": "Request a repeat tissue biopsy from the primary lung mass for EGFR mutation testing."
+    },
+    "correctAnswer": "A",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "For patients with newly diagnosed advanced non-small cell lung cancer (NSCLC), particularly adenocarcinoma histology and non-smokers, comprehensive molecular profiling for driver mutations (e.g., EGFR, ALK, ROS1, BRAF, MET, RET) is crucial to guide first-line systemic therapy. Pleural fluid cell blocks from malignant effusions are an excellent and often preferred source of material for molecular testing, as they are less invasive to obtain than repeat tissue biopsies from the primary tumor, and typically yield sufficient cellularity for NGS. NGS allows for simultaneous testing of multiple gene alterations, which is the current standard of care. Identifying a targetable mutation allows for the use of highly effective targeted therapies (TKIs) that offer superior outcomes compared to chemotherapy in mutation-positive patients.",
+    "highYieldPearl": "Rio's Take: Malignant pleural effusions are a valuable and often easily accessible source for molecular profiling (NGS) in advanced NSCLC, especially in adenocarcinoma, to identify actionable driver mutations.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. Pleural fluid cell blocks are an adequate and commonly used source for comprehensive molecular profiling (NGS) in advanced NSCLC with malignant effusion, offering a less invasive approach than repeat biopsy.",
+      "B": "Delaying molecular testing until after initiating chemotherapy is incorrect and goes against current guidelines for advanced NSCLC. Identifying driver mutations upfront allows for more effective targeted therapy, which is superior to chemotherapy for mutation-positive patients.",
+      "C": "While PD-L1 expression is important for guiding immunotherapy, it is not the initial or sole molecular test for advanced NSCLC. Driver mutations (EGFR, ALK, etc.) take precedence because their presence dictates the use of highly effective targeted therapies, regardless of PD-L1 status.",
+      "D": "While a repeat tissue biopsy from the primary lung mass is an option if pleural fluid is insufficient, it is more invasive than using the readily available pleural fluid cell block. Given that the pleural fluid cytology already confirmed malignant adenocarcinoma cells, it is highly likely to yield sufficient DNA for molecular testing."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_29a8b909",
+    "question": "A 68-year-old female, a never-smoker, was diagnosed with stage IV lung adenocarcinoma 18 months ago, presenting with an EGFR exon 19 deletion. She was initiated on gefitinib and showed an excellent response. Recently, she developed worsening cough, new headaches, and progressive dyspnea. Imaging reveals an increase in size of the primary tumor, new lung nodules, and multiple new brain metastases. Her ECOG performance status has declined to 2. What is the most appropriate next step in her management?",
+    "options": {
+      "A": "Switch to a platinum-based chemotherapy regimen.",
+      "B": "Continue gefitinib and add palliative radiation to brain metastases.",
+      "C": "Perform re-biopsy (tissue or liquid) for T790M mutation testing.",
+      "D": "Initiate an ALK inhibitor like alectinib."
+    },
+    "correctAnswer": "C",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "The patient's clinical and radiological progression after 18 months of gefitinib (a first-generation EGFR-TKI) strongly suggests acquired resistance. The most common mechanism of acquired resistance to first- and second-generation EGFR-TKIs is the emergence of the EGFR T790M mutation, accounting for approximately 50-60% of cases. Identifying the T790M mutation is critical because it indicates eligibility for third-generation EGFR-TKIs like osimertinib, which are highly effective against T790M-positive disease, including CNS metastases. Therefore, a re-biopsy (either tissue or liquid biopsy from plasma) to test for the T790M mutation is the most appropriate next diagnostic and guiding step.",
+    "highYieldPearl": "Rio's Take: In EGFR-mutated NSCLC progressing on first/second-gen TKIs, always test for T790M resistance mutation via re-biopsy (liquid or tissue) to guide therapy with a third-gen TKI (e.g., osimertinib).",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Chemotherapy is an option for patients who progress on EGFR-TKIs and test negative for the T790M mutation, or have other resistance mechanisms not targetable by osimertinib. However, it is not the first step before evaluating for T790M.",
+      "B": "Continuing gefitinib in the setting of confirmed disease progression is generally not recommended as it offers no benefit. While palliative radiation for brain metastases is appropriate, it should be combined with an effective systemic therapy for the overall disease progression, not as a standalone approach while continuing an ineffective TKI.",
+      "C": "This is the correct answer. Re-biopsy (either tissue or liquid) for T790M mutation testing is the standard of care for patients with EGFR-mutated NSCLC who progress on first- or second-generation EGFR-TKIs, to determine eligibility for third-generation TKIs.",
+      "D": "ALK inhibitors like alectinib are specifically for patients with ALK rearrangements. This patient has an EGFR mutation; therefore, an ALK inhibitor would be ineffective and inappropriate."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_pleural_procedures_4e74d4ce",
+    "question": "A 55-year-old male, a former light smoker (5 pack-years, quit 10 years ago), presents with hemoptysis and weight loss. Imaging reveals a left upper lobe mass and multiple liver metastases. Biopsy confirms lung adenocarcinoma. Molecular profiling identifies an EML4-ALK fusion. PD-L1 tumor proportion score (TPS) is 5%. His ECOG performance status is 1. Which of the following is the most appropriate first-line systemic treatment for this patient?",
+    "options": {
+      "A": "Carboplatin/pemetrexed with pembrolizumab.",
+      "B": "Crizotinib.",
+      "C": "Alectinib.",
+      "D": "Dabrafenib plus trametinib."
+    },
+    "correctAnswer": "C",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "This patient has advanced ALK-rearranged NSCLC. For such patients, ALK inhibitors are the recommended first-line systemic therapy, offering superior efficacy and improved survival compared to chemotherapy, regardless of PD-L1 status. Among the ALK inhibitors, second-generation agents like alectinib, brigatinib, and lorlatinib are preferred as first-line therapy over the first-generation ALK inhibitor crizotinib. Studies (e.g., ALEX trial for alectinib) have shown that second-generation ALK inhibitors provide significantly longer progression-free survival, better response rates, and superior central nervous system (CNS) penetration compared to crizotinib, making them the standard of care for first-line treatment.",
+    "highYieldPearl": "Rio's Take: For ALK-rearranged NSCLC, second-generation ALK inhibitors (e.g., alectinib, brigatinib, lorlatinib) are the preferred first-line therapy due to superior efficacy, including CNS activity, over first-generation crizotinib.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Combination chemoimmunotherapy (carboplatin/pemetrexed with pembrolizumab) is a standard first-line option for advanced non-squamous NSCLC *without* targetable driver mutations and with a PD-L1 TPS >1%. However, the presence of an ALK fusion means targeted therapy with an ALK inhibitor is the preferred and more effective first-line treatment, irrespective of PD-L1 status.",
+      "B": "Crizotinib is a first-generation ALK inhibitor and was historically a first-line treatment. However, second-generation ALK inhibitors like alectinib, brigatinib, and lorlatinib have demonstrated superior efficacy, particularly in terms of progression-free survival and CNS response, and are now preferred as first-line agents for ALK-rearranged NSCLC.",
+      "C": "This is the correct answer. Alectinib is a second-generation ALK inhibitor and is a recommended first-line treatment for ALK-rearranged advanced NSCLC due to its superior efficacy and CNS penetration compared to crizotinib.",
+      "D": "Dabrafenib plus trametinib is a combination targeted therapy specifically approved for patients with BRAF V600E mutations in NSCLC. This patient has an ALK fusion, so this regimen would be ineffective and inappropriate."
+    },
+    "sourceLocation": {
+      "bookName": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+      "chapter": "Pleural complications",
+      "section": null,
+      "pageNumber": 194
+    },
+    "bookId": "30.TUBERCULOSIS INTEGRATED SESSION 2 (1)",
+    "chunkId": "30.TUBERCULOSIS INTEGRATED SESSION 2_OCR_Complete (1)_chunk_056",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "Which is considered an absolute contraindication for urgent therapeutic thoracentesis?",
+    "options": {
+      "A": "INR of 2.5",
+      "B": "Platelet count of 40,000/µL",
+      "C": "Uncooperative patient",
+      "D": "Small, loculated effusion"
+    },
+    "correctAnswer": "C",
+    "topic": "pleural_procedures",
+    "deepDiveExplanation": "While coagulopathy (INR >1.5-2, platelets <50,000) and small/loculated effusions are relative contraindications requiring careful consideration, correction of coagulopathy, or image guidance, an uncooperative patient poses a significant risk for procedural complications like lung laceration or pneumothorax and is often considered an absolute contraindication, especially for urgent therapeutic procedures where patient cooperation is crucial for safety.",
+    "highYieldPearl": "Absolute contraindications for thoracentesis are rare but include an uncooperative patient and skin infection at the insertion site. Coagulopathy and small effusions are relative contraindications.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The trap lies in identifying the *absolute* contraindication among commonly cited relative contraindications. Coagulopathy is a frequent distractor, but often can be corrected or managed with imaging guidance. Patient cooperation is paramount for safe execution of the procedure.",
+    "isOneLiner": true,
+    "id": "one_liner_pleural_procedures_pxwfa2ww"
+  },
+  {
+    "question": "The most frequently encountered complication following thoracentesis is?",
+    "options": {
+      "A": "Pneumothorax",
+      "B": "Hemothorax",
+      "C": "Re-expansion pulmonary edema",
+      "D": "Infection"
+    },
+    "correctAnswer": "A",
+    "topic": "pleural_procedures",
+    "deepDiveExplanation": "Pneumothorax is the most common complication of thoracentesis, with rates varying depending on operator experience and use of ultrasound guidance (typically 2-10%). It usually occurs due to lung puncture. Other complications like hemothorax, re-expansion pulmonary edema, and infection are less common.",
+    "highYieldPearl": "Always consider pneumothorax post-thoracentesis; a chest X-ray is often performed to rule it out, especially if symptoms arise.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "All options are known complications of thoracentesis, but the question specifically asks for the *most frequently encountered*. Students might be tempted by re-expansion pulmonary edema due to its severity, but it's less common than pneumothorax.",
+    "isOneLiner": true,
+    "id": "one_liner_pleural_procedures_vru08cc1"
+  },
+  {
+    "question": "Optimal chest tube removal criteria for a resolving pneumothorax include air leak cessation and lung re-expansion, confirmed by?",
+    "options": {
+      "A": "Daily Chest X-ray",
+      "B": "CT Thorax",
+      "C": "Water seal trial for 24 hours",
+      "D": "Direct visualization during thoracoscopy"
+    },
+    "correctAnswer": "C",
+    "topic": "pleural_procedures",
+    "deepDiveExplanation": "For a pneumothorax, chest tube removal is typically considered when the air leak has ceased (often demonstrated by placing the chest tube to water seal for 12-24 hours without recurrence of bubbling) and the lung is fully re-expanded on chest X-ray. A water seal trial confirms the absence of a persistent air leak under physiological conditions before removal.",
+    "highYieldPearl": "A successful water seal trial is critical before chest tube removal for pneumothorax, confirming no ongoing air leak and allowing lung expansion.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While daily chest X-rays confirm lung re-expansion, they do not definitively confirm the absence of an air leak under normal physiological conditions. A water seal trial is specifically designed to assess for air leak cessation prior to removal.",
+    "isOneLiner": true,
+    "id": "one_liner_pleural_procedures_gnumuu8f"
+  },
+  {
+    "question": "What is the gold standard for immediate confirmation of a correctly placed pleural chest tube?",
+    "options": {
+      "A": "Auscultation of breath sounds",
+      "B": "Chest X-ray",
+      "C": "CT Thorax",
+      "D": "Ultrasound"
+    },
+    "correctAnswer": "B",
+    "topic": "pleural_procedures",
+    "deepDiveExplanation": "Immediately following chest tube insertion, a post-procedure chest X-ray is the standard and most widely accepted method to confirm proper placement within the pleural space, assess lung re-expansion, and rule out complications like pneumothorax or misplacement. While auscultation and ultrasound can provide clues, they are not definitive. CT Thorax offers more detail but is not the immediate, routine confirmation method.",
+    "highYieldPearl": "Always obtain a post-procedure chest X-ray after chest tube insertion to confirm placement and check for complications.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Students might consider CT Thorax as 'more accurate,' but the question asks for the *immediate* gold standard, which is a readily available and sufficient chest X-ray. Auscultation is unreliable for definitive placement confirmation.",
+    "isOneLiner": true,
+    "id": "one_liner_pleural_procedures_8teqaqif"
+  },
+  {
+    "question": "The initial management strategy for a persistent air leak after chest tube insertion often includes?",
+    "options": {
+      "A": "Immediate surgical consultation for pleurodesis",
+      "B": "Increasing the level of suction",
+      "C": "Switching to a Heimlich valve",
+      "D": "Administering broad-spectrum antibiotics"
+    },
+    "correctAnswer": "B",
+    "topic": "pleural_procedures",
+    "deepDiveExplanation": "A persistent air leak often indicates ongoing communication between the lung and the pleural space. The initial steps typically involve optimizing the chest tube system, which includes ensuring proper tube position, checking for leaks in the tubing system, and often increasing the level of suction (e.g., from -20 cm H2O to -30 cm H2O) to promote lung re-expansion and seal the leak. More invasive options like pleurodesis or surgical intervention are considered if conservative measures fail.",
+    "highYieldPearl": "Before considering advanced interventions for a persistent air leak, ensure chest tube patency, correct placement, and optimize suction settings.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The trap is to jump to more invasive or definitive treatments (pleurodesis, Heimlich valve) without considering the initial, less invasive optimization steps. Antibiotics are irrelevant unless infection is suspected.",
+    "isOneLiner": true,
+    "id": "one_liner_pleural_procedures_tl9afsmt"
+  },
+  {
+    "question": "Which is considered an absolute contraindication for urgent therapeutic thoracentesis?",
+    "options": {
+      "A": "INR of 2.5",
+      "B": "Platelet count of 40,000/µL",
+      "C": "Uncooperative patient",
+      "D": "Small, loculated effusion"
+    },
+    "correctAnswer": "C",
+    "topic": "pleural_procedures",
+    "deepDiveExplanation": "While coagulopathy (INR >1.5-2, platelets <50,000) and small/loculated effusions are relative contraindications requiring careful consideration, correction of coagulopathy, or image guidance, an uncooperative patient poses a significant risk for procedural complications like lung laceration or pneumothorax and is often considered an absolute contraindication, especially for urgent therapeutic procedures where patient cooperation is crucial for safety.",
+    "highYieldPearl": "Absolute contraindications for thoracentesis are rare but include an uncooperative patient and skin infection at the insertion site. Coagulopathy and small effusions are relative contraindications.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The trap lies in identifying the *absolute* contraindication among commonly cited relative contraindications. Coagulopathy is a frequent distractor, but often can be corrected or managed with imaging guidance. Patient cooperation is paramount for safe execution of the procedure.",
+    "isOneLiner": true,
+    "id": "one_liner_pleural_procedures_6jpvnq7l"
+  },
+  {
+    "question": "The most frequently encountered complication following thoracentesis is?",
+    "options": {
+      "A": "Pneumothorax",
+      "B": "Hemothorax",
+      "C": "Re-expansion pulmonary edema",
+      "D": "Infection"
+    },
+    "correctAnswer": "A",
+    "topic": "pleural_procedures",
+    "deepDiveExplanation": "Pneumothorax is the most common complication of thoracentesis, with rates varying depending on operator experience and use of ultrasound guidance (typically 2-10%). It usually occurs due to lung puncture. Other complications like hemothorax, re-expansion pulmonary edema, and infection are less common.",
+    "highYieldPearl": "Always consider pneumothorax post-thoracentesis; a chest X-ray is often performed to rule it out, especially if symptoms arise.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "All options are known complications of thoracentesis, but the question specifically asks for the *most frequently encountered*. Students might be tempted by re-expansion pulmonary edema due to its severity, but it's less common than pneumothorax.",
+    "isOneLiner": true,
+    "id": "one_liner_pleural_procedures_itqyotxm"
+  },
+  {
+    "question": "Optimal chest tube removal criteria for a resolving pneumothorax include air leak cessation and lung re-expansion, confirmed by?",
+    "options": {
+      "A": "Daily Chest X-ray",
+      "B": "CT Thorax",
+      "C": "Water seal trial for 24 hours",
+      "D": "Direct visualization during thoracoscopy"
+    },
+    "correctAnswer": "C",
+    "topic": "pleural_procedures",
+    "deepDiveExplanation": "For a pneumothorax, chest tube removal is typically considered when the air leak has ceased (often demonstrated by placing the chest tube to water seal for 12-24 hours without recurrence of bubbling) and the lung is fully re-expanded on chest X-ray. A water seal trial confirms the absence of a persistent air leak under physiological conditions before removal.",
+    "highYieldPearl": "A successful water seal trial is critical before chest tube removal for pneumothorax, confirming no ongoing air leak and allowing lung expansion.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While daily chest X-rays confirm lung re-expansion, they do not definitively confirm the absence of an air leak under normal physiological conditions. A water seal trial is specifically designed to assess for air leak cessation prior to removal.",
+    "isOneLiner": true,
+    "id": "one_liner_pleural_procedures_02qv5cjv"
+  },
+  {
+    "question": "What is the gold standard for immediate confirmation of a correctly placed pleural chest tube?",
+    "options": {
+      "A": "Auscultation of breath sounds",
+      "B": "Chest X-ray",
+      "C": "CT Thorax",
+      "D": "Ultrasound"
+    },
+    "correctAnswer": "B",
+    "topic": "pleural_procedures",
+    "deepDiveExplanation": "Immediately following chest tube insertion, a post-procedure chest X-ray is the standard and most widely accepted method to confirm proper placement within the pleural space, assess lung re-expansion, and rule out complications like pneumothorax or misplacement. While auscultation and ultrasound can provide clues, they are not definitive. CT Thorax offers more detail but is not the immediate, routine confirmation method.",
+    "highYieldPearl": "Always obtain a post-procedure chest X-ray after chest tube insertion to confirm placement and check for complications.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Students might consider CT Thorax as 'more accurate,' but the question asks for the *immediate* gold standard, which is a readily available and sufficient chest X-ray. Auscultation is unreliable for definitive placement confirmation.",
+    "isOneLiner": true,
+    "id": "one_liner_pleural_procedures_2xg31qs2"
+  },
+  {
+    "question": "The initial management strategy for a persistent air leak after chest tube insertion often includes?",
+    "options": {
+      "A": "Immediate surgical consultation for pleurodesis",
+      "B": "Increasing the level of suction",
+      "C": "Switching to a Heimlich valve",
+      "D": "Administering broad-spectrum antibiotics"
+    },
+    "correctAnswer": "B",
+    "topic": "pleural_procedures",
+    "deepDiveExplanation": "A persistent air leak often indicates ongoing communication between the lung and the pleural space. The initial steps typically involve optimizing the chest tube system, which includes ensuring proper tube position, checking for leaks in the tubing system, and often increasing the level of suction (e.g., from -20 cm H2O to -30 cm H2O) to promote lung re-expansion and seal the leak. More invasive options like pleurodesis or surgical intervention are considered if conservative measures fail.",
+    "highYieldPearl": "Before considering advanced interventions for a persistent air leak, ensure chest tube patency, correct placement, and optimize suction settings.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The trap is to jump to more invasive or definitive treatments (pleurodesis, Heimlich valve) without considering the initial, less invasive optimization steps. Antibiotics are irrelevant unless infection is suspected.",
+    "isOneLiner": true,
+    "id": "one_liner_pleural_procedures_dum5sf5z"
+  }
+]

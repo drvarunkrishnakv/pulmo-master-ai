@@ -1,0 +1,1923 @@
+[
+  {
+    "id": "rag_mv_asthma_copd_3b97b5b4",
+    "question": "A patient with severe cystic fibrosis requiring frequent high-dose inhaled antibiotics is admitted to the hospital. Historically, they have used a conventional jet nebulizer at home. The admitting physician wants to optimize their drug delivery and reduce treatment time while ensuring effective antibiotic administration.",
+    "options": {
+      "A": "Switching to a vibrating mesh nebulizer customized for high-volume antibiotic delivery.",
+      "B": "Providing a conventional jet nebulizer with an internal recycling baffle.",
+      "C": "Instructing the patient on using slow, deep inspirations with their existing jet nebulizer.",
+      "D": "Switching to a metered-dose inhaler (MDI) with a large volume spacer for antibiotic delivery."
+    },
+    "correctAnswer": "A",
+    "topic": "Aerosol and Drug Delivery Devices",
+    "deepDiveExplanation": "Vibrating mesh nebulizers are explicitly described as an alternative to jet nebulizers for delivering larger quantities of drugs, such as antibiotics. They achieve increased efficiency due to lower dead volume and result in shorter treatment times. The text specifically mentions customized eFlow devices (a type of vibrating mesh nebulizer) for delivering aerosolized antibiotics to cystic fibrosis patients more rapidly than conventional nebulizers, directly addressing the clinical scenario presented.",
+    "highYieldPearl": "Rio's Take: For high-volume drug delivery like inhaled antibiotics in CF, vibrating mesh nebulizers offer superior efficiency and shorter treatment times compared to conventional jet nebulizers.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. Vibrating mesh nebulizers are specifically highlighted for efficient delivery of large drug quantities like antibiotics, with reduced treatment times and improved efficiency, making them ideal for CF patients.",
+      "B": "Conventional jet nebulizers with internal recycling baffles are an enhancement that reduces particle size, but they do not fundamentally overcome the inherent inefficiency (<10% lung delivery) or long treatment times associated with conventional jet nebulizers for large drug volumes as effectively as vibrating mesh devices. It's an improvement, but not the MOST effective for the stated goals.",
+      "C": "While slow, deep inspirations can improve distal lung deposition by reducing oropharyngeal impaction, this is a patient technique modification. It does not address the fundamental inefficiencies (e.g., dead volume, continuous aerosol generation during expiration) or the long treatment times of a conventional jet nebulizer itself. The question asks for an intervention that MOST effectively improves delivery efficiency and reduces treatment time.",
+      "D": "MDIs with spacers are generally less efficient for delivering large volumes of medication like antibiotics required in CF. Figure 13.1 indicates that MDIs result in significant oropharyngeal deposition due to inertial impaction, making them less suitable for optimal lung delivery of high-dose antibiotics compared to nebulizers. Furthermore, the text mentions switching to MDIs with spacers during COVID-19 due to concern for healthcare worker exposure, not for superior drug delivery efficiency for high-volume medications."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_20e798d5",
+    "question": "A physician is prescribing a new bronchodilator delivered via the Respimat Soft Mist device to a patient who previously used a dry powder inhaler (DPI) for the same medication. The Respimat device's nominal dose for this bronchodilator is significantly lower (e.g., 5 µg) compared to the DPI (e.g., 18 µg) for achieving a similar clinical effect.",
+    "options": {
+      "A": "The Respimat device delivers a slower aerosol mist, leading to reduced systemic absorption and thus requiring a lower nominal dose.",
+      "B": "The Respimat device has a higher overall lung deposition efficiency compared to conventional DPIs, allowing for a lower nominal dose to achieve therapeutic effect.",
+      "C": "The Respimat device's micro-extrusion technology produces smaller particles, which are more readily absorbed systemically, thus reducing the required nominal dose.",
+      "D": "The DPI's high dead volume necessitates a higher nominal dose to compensate for significant drug loss within the device."
+    },
+    "correctAnswer": "B",
+    "topic": "Aerosol and Drug Delivery Devices",
+    "deepDiveExplanation": "The text explicitly states regarding the Respimat Soft Mist device: 'The efficiency is higher than with a conventional DPI. For example, the nominal dose of tiotropium is 18 µg by DPI but only 5 µg with the Respimat.' This direct comparison highlights that the Respimat's higher efficiency in delivering the drug to the lung means less drug is needed in the device's nominal dose to achieve the same therapeutic effect.",
+    "highYieldPearl": "Rio's Take: The Respimat Soft Mist device achieves high lung deposition efficiency, which allows for lower nominal drug doses to achieve equivalent therapeutic effects compared to DPIs, illustrating the impact of delivery system efficiency on dosing.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "While the Respimat delivers a slower aerosol mist, reducing upper airway impaction, the primary reason for a lower nominal dose to achieve the same therapeutic effect is *increased lung deposition*, not necessarily reduced systemic absorption in a way that implies less drug is needed for the local effect. Reduced upper airway deposition often reduces swallowing and subsequent GI absorption, but the core benefit for lung effect is more drug reaching the lung. The phrasing about 'reduced systemic absorption' is an oversimplification and potentially misleading in this context.",
+      "B": "This is the correct explanation. Higher lung deposition efficiency means a greater proportion of the inhaled drug reaches the target site in the lungs, thus requiring a smaller initial (nominal) dose to achieve the desired therapeutic concentration and effect.",
+      "C": "Micro-extrusion technology is characteristic of vibrating mesh nebulizers, not the Respimat Soft Mist device, which generates aerosol by forcing liquid through a nozzle. While particle size is optimized in Respimat, the primary reason for lower nominal dose is its overall higher lung deposition efficiency, rather than solely 'more readily absorbed systemically' due to particle size.",
+      "D": "The concept of 'dead volume' is primarily associated with jet nebulizers, not typically highlighted as a major inefficiency for DPIs in the provided text. While DPIs have their own inefficiencies, the direct reason for the dose difference mentioned is the Respimat's *higher efficiency*, not solely a high dead volume in the DPI."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_19caff0d",
+    "question": "A 68-year-old patient with severe COPD is being discharged from the hospital after an exacerbation. During hospitalization, they received regular bronchodilators via a conventional jet nebulizer. The pulmonologist decides to transition the patient to a home nebulizer device for long-term management. Considering the patient's history of poor adherence to lengthy treatments, the pulmonologist considers a more efficient device like a vibrating mesh nebulizer. Which of the following statements about this transition is MOST crucial for the pulmonologist to emphasize during discharge counseling?",
+    "options": {
+      "A": "The patient must ensure regular cleaning of the new nebulizer device to maintain its sophisticated micro-extrusion mechanism.",
+      "B": "The patient should be advised that the new device will likely reduce the frequency of their bronchodilator treatments due to its enhanced drug delivery.",
+      "C": "The patient must be cautioned about the potential for overdosage if they continue to use the same drug dosage as with their previous less-efficient device.",
+      "D": "The patient should be instructed on adjusting their breathing pattern, using 'slow' inspirations, to optimize distal lung delivery with the new device."
+    },
+    "correctAnswer": "C",
+    "topic": "Aerosol and Drug Delivery Devices",
+    "deepDiveExplanation": "The text explicitly warns about a critical safety aspect when switching to more efficient devices: 'The increased efficiency increases the risk of overdosage if a patient has previously been using a less-efficient device.' Conventional jet nebulizers are described as inefficient (delivering less than 10% of the drug to the lung), whereas vibrating mesh nebulizers have increased efficiency and lower dead volume. Therefore, maintaining the same dosage when transitioning from an inefficient jet nebulizer to a more efficient vibrating mesh nebulizer could lead to significantly higher drug delivery to the patient's lungs, increasing the risk of overdosage. This is a crucial practical safety consideration.",
+    "highYieldPearl": "Rio's Take: Always reassess drug dosage when transitioning patients from less efficient (e.g., conventional jet nebulizer) to more efficient (e.g., vibrating mesh nebulizer) aerosol delivery devices to prevent overdosage.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "While regular cleaning is essential for all nebulizer devices to maintain hygiene and function, and vibrating mesh systems vary in ease of cleaning, it is a general maintenance point rather than the *most crucial* safety warning directly related to the change in device *efficiency* and its potential impact on drug effect, especially in the context of overdosage risk. The term 'micro-extrusion mechanism' specifically applies to some vibrating mesh nebulizers but is a detail about cleaning, not the primary safety concern.",
+      "B": "Increased efficiency primarily leads to shorter treatment times and potentially lower nominal doses for the *same effect*, not necessarily a reduction in the *frequency* of treatments. The frequency is dictated by the drug's pharmacokinetic properties and the patient's clinical needs. Suggesting reduced frequency without specific clinical justification could be misleading and lead to under-treatment.",
+      "C": "This is the correct answer. The text directly highlights the risk of overdosage when switching from a less efficient device to a more efficient one, making this the most critical point for counseling.",
+      "D": "Instructing on proper breathing technique (slow inspiration) is beneficial for optimizing drug delivery for many devices, especially 'smart' nebulizers that provide feedback. However, not all vibrating mesh nebulizers have adaptive aerosol technology for feedback, and while important, this technique advice is secondary to the immediate safety concern of potential overdosage when changing devices with significantly different efficiencies."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_19a87037",
+    "question": "A 72-year-old patient with COPD exacerbation is admitted to the hospital. The medical team decides to initiate bronchodilator therapy via a conventional nebulizer. Which of the following statements is a characteristic feature of the conventional jet nebulizer device used in this scenario?",
+    "options": {
+      "A": "It typically delivers over 50% of the nominal drug dose to the lungs.",
+      "B": "It requires significant patient cooperation and coordinated breathing for optimal efficacy.",
+      "C": "It generates an aerosol throughout the respiratory cycle, contributing to drug loss.",
+      "D": "It utilizes a vibrating mesh to extrude liquid through tiny holes."
+    },
+    "correctAnswer": "C",
+    "topic": "Aerosol and Drug Delivery Devices",
+    "deepDiveExplanation": "Conventional jet nebulizers are widely used in hospitalized patients and those at the extremes of age due to their low cost and minimal requirement for patient cooperation. However, they are relatively inefficient, typically delivering less than 10% of the drug to the lung. A significant factor contributing to this inefficiency is that the device generates aerosol continuously throughout the respiratory cycle, leading to drug loss through the expiratory port. Other factors include dead volume in the chamber and deposition of large particles in the upper airway.",
+    "highYieldPearl": "Rio's Take: While convenient and inexpensive for hospitalized patients, the continuous aerosol generation of conventional jet nebulizers is a key reason for their low lung deposition efficiency (<10%), leading to significant drug loss.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option is incorrect. Conventional jet nebulizers are highly inefficient and deliver less than 10% of the drug to the lung, not over 50%.",
+      "B": "This option is incorrect. Conventional jet nebulizers require little patient cooperation, making them suitable for patients at the extremes of age or those with acute respiratory distress, contrary to devices requiring significant coordination.",
+      "C": "This option is correct. The text explicitly states that conventional nebulizers lose drug because 'the device generates aerosol throughout the respiratory cycle,' leading to loss through the expiratory port.",
+      "D": "This option is incorrect. The description of utilizing a vibrating mesh to extrude liquid through tiny holes refers to vibrating mesh nebulizers, not conventional jet nebulizers."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_71955229",
+    "question": "A pulmonologist is considering switching a patient with cystic fibrosis from a conventional jet nebulizer to a modern device for antibiotic delivery. Which of the following advantages is typically associated with vibrating mesh nebulizers compared to conventional jet nebulizers?",
+    "options": {
+      "A": "Higher dead volume in the nebulizer chamber.",
+      "B": "Greater reliance on bulky compressors for aerosol generation.",
+      "C": "Increased drug delivery efficiency and shorter treatment times.",
+      "D": "Limited utility for delivering larger quantities of drugs like antibiotics."
+    },
+    "correctAnswer": "C",
+    "topic": "Aerosol and Drug Delivery Devices",
+    "deepDiveExplanation": "Vibrating mesh nebulizers offer several advantages over conventional jet nebulizers. They operate by extruding liquid through tiny holes via a vibrating mesh or crystal, thus avoiding the need for bulky compressors. A key benefit is their lower dead volume in the nebulizer chamber, which directly translates to increased drug delivery efficiency and, consequently, shorter treatment times. This enhanced efficiency also increases the risk of overdosage if a patient previously used a less efficient device.",
+    "highYieldPearl": "Rio's Take: The hallmark advantages of vibrating mesh nebulizers are superior efficiency (lower dead volume) and reduced treatment times, making them excellent for high-dose medications like antibiotics in specific conditions.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option is incorrect. Vibrating mesh nebulizers typically have a lower dead volume in the nebulizer chamber compared to conventional jet nebulizers, contributing to their higher efficiency.",
+      "B": "This option is incorrect. Vibrating mesh nebulizers are an alternative to jet nebulizers that use vibrating mesh/crystal instead of bulky compressors for aerosol generation.",
+      "C": "This option is correct. The text explicitly states that vibrating mesh systems have a 'lower dead volume... resulting in increased efficiency and shorter treatment times.'",
+      "D": "This option is incorrect. Vibrating mesh nebulizers are specifically designed for 'delivery of larger quantities of drugs such as antibiotics or proteins,' indicating their high utility for such medications."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_62841aaa",
+    "question": "A clinician is reviewing different inhaler devices for a patient with COPD. When discussing the Respimat Soft Mist inhaler, which characteristic contributes to its improved drug deposition in the lung compared to traditional metered-dose inhalers (MDIs)?",
+    "options": {
+      "A": "It generates an aerosol mist with a much faster velocity than pMDIs.",
+      "B": "It requires a strong, rapid inspiratory flow from the patient for activation.",
+      "C": "Its slower mist velocity reduces upper airway impaction and improves lung entry.",
+      "D": "It stores the drug as a dry powder, enabling better respirability."
+    },
+    "correctAnswer": "C",
+    "topic": "Aerosol and Drug Delivery Devices",
+    "deepDiveExplanation": "The Respimat Soft Mist device is unique in its design, generating an aerosol mist with a much slower velocity compared to conventional pMDIs. This slower velocity is crucial as it significantly reduces the likelihood of inertial impaction in the upper airway (oropharyngeal deposition), allowing a greater proportion of the inhaled drug to reach the lower respiratory tract and improve lung deposition. This also makes it easier for patients to coordinate their inspiration with the drug delivery.",
+    "highYieldPearl": "Rio's Take: The 'soft mist' from Respimat isn't just a name; it signifies a deliberately slower aerosol velocity that minimizes upper airway deposition, a common problem with high-velocity MDI plumes, thereby enhancing drug delivery to the lungs.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option is incorrect. The text clearly states that the 'velocity of the resulting aerosol mist is much slower than that generated by a pMDI'.",
+      "B": "This option is incorrect. The Respimat device is described as being 'easier to coordinate with a patient's inspiration', suggesting it does not require a particularly strong or rapid inspiratory effort, unlike some DPIs.",
+      "C": "This option is correct. The text explicitly states that the slower mist velocity of Respimat is 'less likely to impact on the upper airway' and contributes to improved drug delivery.",
+      "D": "This option is incorrect. The Respimat device stores the drug in a 'liquid reservoir', not as a dry powder. Dry powder inhalers (DPIs) use dry powder formulations."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_a7221de1",
+    "question": "A 70-year-old patient with severe COPD requiring frequent bronchodilator therapy is admitted to the hospital. The physician chooses an aerosol delivery device that is inexpensive, requires minimal patient cooperation, and can deliver medications with a relatively large mass. Which of the following devices is most likely being used?",
+    "options": {
+      "A": "Jet nebulizer",
+      "B": "Vibrating mesh nebulizer",
+      "C": "Soft Mist Inhaler (Respimat)",
+      "D": "Metered-dose inhaler (MDI) with spacer"
+    },
+    "correctAnswer": "A",
+    "topic": "Aerosol and Drug Delivery Devices",
+    "deepDiveExplanation": "Jet nebulizers are described as the 'mainstay of bronchodilator delivery in hospitalized patients and patients at the extremes of age' because they are 'inexpensive and require little patient cooperation.' They are also 'useful for delivering medications with a relatively large mass, such as antibiotics.' These characteristics directly match the clinical scenario described.",
+    "highYieldPearl": "Rio's Take: Jet nebulizers are the workhorse for hospitalized and very young/old patients due to their low cost and ease of use, despite their inefficiency and longer treatment times.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct. This device perfectly matches all the described attributes: inexpensive, requires little patient cooperation, and can deliver medications with a relatively large mass.",
+      "B": "Incorrect. While vibrating mesh nebulizers are efficient for larger drug quantities, the text does not highlight them as explicitly 'inexpensive' or primarily chosen for 'little patient cooperation' over jet nebulizers in a general hospital setting. They are often more costly and are chosen for their efficiency and shorter treatment times.",
+      "C": "Incorrect. Soft Mist Inhalers are small handheld devices with high efficiency and easier coordination, but they are limited to high-potency drugs due to their small metered volume and are not typically used for 'large mass' medications like antibiotics.",
+      "D": "Incorrect. While MDIs with spacers are commonly used, especially during the COVID-19 pandemic to reduce aerosol spread, jet nebulizers are specifically called the 'mainstay' for hospitalized patients requiring minimal cooperation, particularly when considering 'inexpensive' and 'large mass' drug delivery."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_edda9c0b",
+    "question": "A cystic fibrosis patient, previously using a conventional jet nebulizer for inhaled antibiotics, is switched to a new vibrating mesh nebulizer system (eFlow). The physician counsels the patient about potential changes associated with the new device. Which of the following statements is a key characteristic of the vibrating mesh nebulizer compared to the conventional jet nebulizer, as described in the context?",
+    "options": {
+      "A": "Higher dead volume in the nebulizer chamber",
+      "B": "Significantly longer treatment times",
+      "C": "Increased risk of overdosage due to higher efficiency",
+      "D": "Requires bulky compressors for operation"
+    },
+    "correctAnswer": "C",
+    "topic": "Aerosol and Drug Delivery Devices",
+    "deepDiveExplanation": "The text states that vibrating mesh systems 'usually have a lower dead volume in the nebulizer chamber than the conventional jet nebulizers, resulting in increased efficiency and shorter treatment times.' It specifically warns that 'The increased efficiency increases the risk of overdosage if a patient has previously been using a less-efficient device.' This directly addresses the potential change and key characteristic for a patient switching from a less efficient jet nebulizer.",
+    "highYieldPearl": "Rio's Take: Vibrating mesh nebulizers are highly efficient and reduce dead volume and treatment time, but clinicians must be aware of the potential for overdosage when switching from less efficient devices like jet nebulizers.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. Vibrating mesh nebulizers have a lower dead volume compared to conventional jet nebulizers, which contributes to their higher efficiency.",
+      "B": "Incorrect. Vibrating mesh nebulizers result in shorter treatment times due to their increased efficiency and lower dead volume.",
+      "C": "Correct. The text explicitly mentions that the 'increased efficiency increases the risk of overdosage if a patient has previously been using a less-efficient device,' making this a critical counseling point.",
+      "D": "Incorrect. Vibrating mesh nebulizers are highlighted as an alternative that does not use 'bulky compressors,' distinguishing them from conventional jet nebulizers which require them."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_aebdff83",
+    "question": "A patient with COPD is being considered for a new bronchodilator delivered via a Soft Mist Inhaler (Respimat). The healthcare provider explains the benefits of this device. Which characteristic correctly describes the Soft Mist Inhaler compared to a conventional metered-dose inhaler (pMDI)?",
+    "options": {
+      "A": "Generates an aerosol mist with a much faster velocity, leading to more central lung deposition.",
+      "B": "Requires a larger nominal dose of drug to achieve clinical equivalence.",
+      "C": "Easier to coordinate with patient's inspiration due to slower mist velocity.",
+      "D": "Limited to low-potency drugs due to the large metered volume."
+    },
+    "correctAnswer": "C",
+    "topic": "Aerosol and Drug Delivery Devices",
+    "deepDiveExplanation": "The Respimat Soft Mist device generates an aerosol mist whose 'velocity is much slower than that generated by a pMDI and is thus both less likely to impact on the upper airway and easier to coordinate with a patient's inspiration.' This slower velocity is a key advantage, facilitating better patient technique and drug delivery.",
+    "highYieldPearl": "Rio's Take: The Respimat Soft Mist inhaler's slower aerosol velocity makes it easier for patients to coordinate inhalation, improving drug delivery and reducing upper airway deposition compared to pMDIs.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. The Respimat generates a mist with a *much slower* velocity than a pMDI, which actually reduces upper airway impaction, rather than increasing central lung deposition due to faster velocity.",
+      "B": "Incorrect. The Respimat device is more efficient, meaning it requires a *smaller* nominal dose of drug (e.g., 5 µg tiotropium via Respimat vs. 18 µg via DPI) to achieve clinical equivalence.",
+      "C": "Correct. The text explicitly states that the slower velocity of the Respimat's mist makes it 'easier to coordinate with a patient's inspiration,' which is a significant patient benefit.",
+      "D": "Incorrect. The Respimat's 'small metered volume limits this device to high-potency drugs,' not low-potency drugs."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_b69c70ed",
+    "question": "A 68-year-old patient hospitalized with a severe asthma exacerbation is receiving frequent nebulized salbutamol via a conventional small-volume jet nebulizer. The nursing staff notes that the treatment takes 15 minutes, and they are concerned about the efficiency of drug delivery. Which of the following advancements specifically targets an increase in the *pulmonary drug delivery* of a jet nebulizer system?",
+    "options": {
+      "A": "Addition of internal recycling baffles",
+      "B": "Incorporating an expiratory filter to the nebulizer circuit",
+      "C": "Implementing a breath-actuated nebulizer system",
+      "D": "Reducing the overall dead volume within the nebulizer chamber"
+    },
+    "correctAnswer": "C",
+    "topic": "Aerosol and Drug Delivery Devices",
+    "deepDiveExplanation": "The provided text explicitly states that 'Increased drug delivery by nebulizers is possible by the use of breath actuation, which coordinates nebulization with inspiration and essentially turns the nebulizer off during expiration, or by the use of breath enhancement, which uses the patient's inspiratory flow through the nebulizer to increase drug delivery.' This directly addresses the goal of increasing pulmonary drug delivery in a jet nebulizer system by optimizing the timing of aerosol generation with the patient's inspiratory effort.",
+    "highYieldPearl": "Breath actuation and breath enhancement are key advancements for jet nebulizers to improve drug delivery efficiency by coordinating aerosol generation with the inspiratory phase, thereby reducing drug wastage during expiration and maximizing the inhaled dose to the lungs.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Internal recycling baffles are mentioned as an enhancement 'to reduce emitted particle size.' While smaller particles generally improve distal lung deposition, the text specifically links 'breath actuation' more directly to 'increased drug delivery' by improving synchronization. Reducing particle size is a means to improve deposition, but breath actuation is an active mechanism for overall delivery enhancement by coordinating with the patient's breathing.",
+      "B": "Expiratory filters are described as being added 'to trap potentially hazardous aerosols and reduce collateral exposure.' This enhancement is primarily for infection control and healthcare worker safety, not for increasing the patient's pulmonary drug delivery. This option addresses a different concern.",
+      "C": "This is the correct answer. Breath actuation directly improves drug delivery by synchronizing aerosol generation with inspiration, minimizing drug loss during expiration and maximizing the inhaled dose delivered to the lungs. This is a specific advancement aimed at increasing pulmonary drug delivery in jet nebulizers.",
+      "D": "Conventional jet nebulizers are noted to have a 'dead volume' that contributes to inefficiency. While reducing dead volume would improve efficiency, the text states that vibrating mesh nebulizers 'usually have a lower dead volume' as an inherent characteristic, leading to 'increased efficiency.' Reducing dead volume isn't presented as a common 'advancement' implemented *on existing conventional jet nebulizers* in the same way breath actuation is described as a strategy for 'increased drug delivery by nebulizers.' It's more of a fundamental design challenge or a feature of different nebulizer types rather than a simple advancement applied to a standard jet nebulizer to boost its performance."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_0202f40d",
+    "question": "A 45-year-old patient with pulmonary hypertension requires inhaled prostacyclin (Ventavis), a drug with a relatively narrow therapeutic index. The physician is evaluating different delivery systems to ensure consistent and optimal dosing while minimizing systemic side effects. Based on the provided context, which of the following nebulizer features would be most advantageous for this patient?",
+    "options": {
+      "A": "High dead volume to ensure complete drug utilization",
+      "B": "Ability to generate aerosol continuously throughout the respiratory cycle",
+      "C": "Adaptive aerosol technology that monitors breathing patterns",
+      "D": "Dependence on a bulky electric compressor for operation"
+    },
+    "correctAnswer": "C",
+    "topic": "Aerosol and Drug Delivery Devices",
+    "deepDiveExplanation": "The text specifically mentions the 'I-neb' vibrating mesh device, which is adapted for administering inhaled prostacyclin (Ventavis) for pulmonary hypertension—a drug with a relatively narrow therapeutic index. It states, 'The I-neb device uses adaptive aerosol technology, monitors the breathing pattern of a patient, and provides feedback to the patient to facilitate a more consistent inhaled dose.' For a drug with a narrow therapeutic index, consistent and precise dosing is paramount to achieve therapeutic effects while minimizing the risk of adverse events, making this 'smart' technology highly advantageous.",
+    "highYieldPearl": "For drugs with a narrow therapeutic index, 'smart' nebulizers with adaptive aerosol technology that monitor and provide feedback on breathing patterns are crucial for ensuring consistent and precise inhaled dosing, optimizing therapeutic effect, and minimizing systemic toxicity.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "High dead volume leads to drug waste and inefficiency, as a significant portion of the medication remains in the nebulizer chamber. This contradicts the goal of optimal and consistent dosing, especially for a drug with a narrow therapeutic index. Vibrating mesh nebulizers are known for *lower* dead volume, which increases efficiency.",
+      "B": "Generating aerosol continuously throughout the respiratory cycle, characteristic of conventional jet nebulizers, leads to significant drug loss during expiration. This reduces efficiency and makes consistent dosing challenging, which is undesirable for a narrow therapeutic index drug. Advanced nebulizers like those with breath actuation/enhancement or 'smart' technology aim to avoid this continuous output.",
+      "C": "This is the correct answer. Adaptive aerosol technology that monitors breathing patterns and provides feedback helps patients achieve a 'slow' inspiration, which reduces oropharyngeal deposition and allows for more distal and consistent drug delivery. This feature, explicitly linked to the I-neb device and its use for Ventavis, is essential for precise dosing of drugs with narrow therapeutic windows.",
+      "D": "Dependence on a bulky electric compressor is a characteristic of conventional jet nebulizers, making them less portable and convenient. Vibrating mesh nebulizers, like the I-neb, are specifically designed to avoid the need for bulky compressors, which is one of their key advantages in terms of portability and quiet operation. This option describes a feature that is undesirable and not characteristic of advanced vibrating mesh devices."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_28124e9f",
+    "question": "A 58-year-old patient with newly diagnosed COPD is being initiated on a long-acting bronchodilator. The physician discusses various inhaler options, highlighting the advantages of a Respimat Soft Mist inhaler for drug delivery efficiency compared to other handheld devices. Which characteristic most accurately describes the Respimat's mechanism contributing to its high efficiency and ease of coordination?",
+    "options": {
+      "A": "It generates a high-velocity aerosolized spray requiring forceful inspiration.",
+      "B": "It utilizes a dry powder formulation, minimizing oropharyngeal deposition.",
+      "C": "It produces a slow-moving aerosol mist by converging two liquid jets.",
+      "D": "It relies on propellants to deliver a metered dose of medication."
+    },
+    "correctAnswer": "C",
+    "topic": "Aerosol and Drug Delivery Devices",
+    "deepDiveExplanation": "The text describes the Respimat Soft Mist device's unique mechanism: 'an aerosol is generated when a precisely calibrated volume of liquid is forced through a nozzle to produce two jets of liquid that converge at a defined angle. The velocity of the resulting aerosol mist is much slower than that generated by a pMDI and is thus both less likely to impact on the upper airway and easier to coordinate with a patient's inspiration.' This specific method of generating a slow-moving mist is key to its high efficiency and ease of use, as it reduces upper airway impaction and improves pulmonary delivery.",
+    "highYieldPearl": "The Respimat Soft Mist inhaler's unique mechanism of generating a slow-moving aerosol mist from converging liquid jets significantly improves lung deposition by reducing upper airway impaction and simplifying patient coordination, making it more efficient than conventional pMDIs or DPIs (often allowing for lower nominal doses).",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "The text explicitly states that 'The velocity of the resulting aerosol mist is much slower than that generated by a pMDI.' A high-velocity spray would actually increase inertial impaction in the upper airway, reducing lung deposition and making coordination more challenging, which is contrary to Respimat's advantages. This describes a pMDI, not Respimat.",
+      "B": "Respimat stores the drug in a 'liquid reservoir' and is described as 'significantly different in design from a conventional pMDI or DPI.' Dry Powder Inhalers (DPIs) utilize dry powder formulations, but this is not the mechanism of the Respimat. This option incorrectly identifies the drug formulation used by Respimat.",
+      "C": "This is the correct answer. The mechanism of forcing liquid through a nozzle to create two converging jets results in a slow-moving mist. This slow velocity minimizes impaction in the upper airway and makes it easier for patients to coordinate inhalation, thereby increasing pulmonary deposition and overall efficiency.",
+      "D": "Conventional Pressurized Metered Dose Inhalers (pMDIs) rely on propellants to deliver a metered dose of medication. The Respimat device is described as 'significantly different in design from a conventional pMDI or DPI' and functions via a mechanical force to extrude liquid, not propellants."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_a13768e3",
+    "question": "A 35-year-old patient with cystic fibrosis and chronic *Pseudomonas aeruginosa* infection is on long-term inhaled tobramycin. They currently use a conventional jet nebulizer but express frustration with long treatment times and report suboptimal control of their respiratory symptoms. To optimize drug delivery and treatment efficiency, which of the following characteristics of a new aerosol device would be most advantageous for this patient?",
+    "options": {
+      "A": "A device employing micro-extrusion technology with reduced dead volume.",
+      "B": "A device that generates aerosol throughout the respiratory cycle, suitable for large mass medications.",
+      "C": "A handheld device that produces a slow aerosol mist velocity, optimized for high-potency bronchodilators.",
+      "D": "A conventional system requiring a pressurized gas tank, with added internal recycling baffles to reduce emitted particle size."
+    },
+    "correctAnswer": "A",
+    "topic": "Aerosol and Drug Delivery Devices",
+    "deepDiveExplanation": "The patient's need for inhaled antibiotics, particularly for cystic fibrosis, and the desire for improved efficiency and shorter treatment times, point directly to the advantages of vibrating mesh nebulizers. These devices use micro-extrusion technology, have a lower dead volume, and are specifically mentioned as alternatives for delivering larger quantities of drugs like antibiotics (e.g., eFlow devices for CF patients) more rapidly and efficiently than conventional jet nebulizers. This addresses all aspects of the clinical scenario.",
+    "highYieldPearl": "Rio's Take: Vibrating mesh nebulizers offer significant advantages over conventional jet nebulizers, including higher efficiency, lower dead volume, and shorter treatment times, making them ideal for high-dose or frequent medication delivery, especially antibiotics in conditions like cystic fibrosis. Their micro-extrusion technology eliminates the need for bulky compressors.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option accurately describes a vibrating mesh nebulizer. The text explicitly states these devices 'provide an alternative to jet nebulizers for delivery of larger quantities of drugs such as antibiotics' and 'usually have a lower dead volume... resulting in increased efficiency and shorter treatment times.' This aligns perfectly with the patient's needs for antibiotics, improved efficiency, and reduced treatment time.",
+      "B": "This describes a characteristic of conventional jet nebulizers. While jet nebulizers are indeed 'useful for delivering medications with a relatively large mass, such as antibiotics,' the fact that they 'generate aerosol throughout the respiratory cycle' leads to inefficiency and drug loss through the expiratory port, as stated in the text. The patient is seeking to *overcome* these inefficiencies, making this an incorrect choice for optimizing delivery and efficiency.",
+      "C": "This describes a Soft Mist Aerosol device (e.g., Respimat). While these devices are efficient and handheld, the text notes that 'the small metered volume limits this device to high-potency drugs' and it is 'approved for delivery of short-acting and long-acting bronchodilators.' Inhaled tobramycin is an antibiotic, typically requiring larger quantities, and not categorized as a high-potency bronchodilator for which this device is optimized. This is a plausible trap because it sounds 'advanced' but is not suitable for the specific drug type.",
+      "D": "This option describes a conventional jet nebulizer with an enhancement. Although 'internal recycling baffles to reduce emitted particle size' are an improvement for jet nebulizers, the core device is still a 'conventional system' requiring a bulky 'pressurized gas tank.' While improved, it still carries the inherent inefficiencies (e.g., higher dead volume compared to mesh nebulizers, longer treatment times) that the patient aims to mitigate. A vibrating mesh system (Option A) offers a more substantial leap in efficiency and convenience."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_a05753f2",
+    "question": "A 60-year-old patient with severe COPD is being educated on the proper use of various inhaler devices. When discussing factors influencing drug deposition and device efficiency, the healthcare provider explains that improved distal lung delivery and reduced oropharyngeal impaction can be achieved through several mechanisms. Which of the following statements ACCURATELY describes a characteristic or mechanism that generally *improves* distal lung deposition and overall device efficiency?",
+    "options": {
+      "A": "High aerosol mist velocity, particularly in metered-dose inhalers without spacers.",
+      "B": "The use of conventional jet nebulizers generating aerosol throughout the respiratory cycle.",
+      "C": "Rapid inspiratory flow rates during inhalation from a dry powder inhaler.",
+      "D": "Slower inspiratory flow rates and coordination of inhalation with the release of soft mist aerosols."
+    },
+    "correctAnswer": "D",
+    "topic": "Aerosol and Drug Delivery Devices",
+    "deepDiveExplanation": "Improved distal lung deposition and reduced oropharyngeal impaction are key goals for efficient aerosol delivery. The text explicitly states that 'a “slow” inspiration reduces inertial impaction and thus decreases oropharyngeal deposition, allowing distal delivery.' It also highlights that the 'slower aerosol mist velocity' of Soft Mist Aerosols (e.g., Respimat) is 'less likely to impact on the upper airway and easier to coordinate with a patient's inspiration.' These combined factors directly lead to improved distal deposition and efficiency.",
+    "highYieldPearl": "Rio's Take: Slow inspiration and slow aerosol mist velocity reduce inertial impaction, minimizing oropharyngeal deposition and improving distal lung delivery. Device coordination with inspiration further enhances drug delivery efficiency.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "The text states that the 'velocity of the resulting aerosol mist [from Respimat] is much slower than that generated by a pMDI and is thus both less likely to impact on the upper airway.' This implies that a *high* aerosol mist velocity, characteristic of pMDIs, leads to *more* upper airway impaction and *less* distal delivery. Figure 13.1 also shows that 'With the MDI, most of the inhaled dose was deposited in the oropharynx due to inertial impaction.' This statement describes a factor that *decreases* distal deposition and efficiency.",
+      "B": "The text explicitly mentions that conventional jet nebulizers are 'inefficient' and 'deliver less than 10 % of the drug to the lung.' It further explains that drug is 'lost through the expiratory port because the device generates aerosol throughout the respiratory cycle.' Therefore, this characteristic contributes to *decreased* efficiency and is not a mechanism for improved delivery.",
+      "C": "While dry powder inhalers (DPIs) require a rapid and forceful inhalation to de-aggregate the powder, the text emphasizes that 'a “slow” inspiration reduces inertial impaction and thus decreases oropharyngeal deposition, allowing distal delivery of particles.' Rapid inspiratory flow rates, particularly without careful device design or patient feedback, can increase inertial impaction in the upper airway, counteracting the goal of improved distal delivery and reduced oropharyngeal impaction. The benefit of DPIs (more lung deposition than MDI, as per Figure 13.1) is despite, or managed by, the necessary rapid inspiratory flow, but the *rate itself* for reducing impaction is better when slower.",
+      "D": "This statement accurately combines two mechanisms that improve distal delivery and efficiency. The text supports 'slower inspiratory flow rates' by noting 'a “slow” inspiration reduces inertial impaction and thus decreases oropharyngeal deposition.' It also supports 'coordination of inhalation with the release of soft mist aerosols' by stating the 'slower aerosol mist velocity' of Respimat is 'easier to coordinate with a patient's inspiration' and 'less likely to impact on the upper airway.'"
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_d8cd30e7",
+    "question": "A 45-year-old male presents with increasing dyspnea on exertion, persistent cough, and fatigue for 6 months. Pulmonary function tests show a decline in FVC by 15% from baseline over the last year. High-resolution CT chest is consistent with pulmonary sarcoidosis. He denies any ocular, cardiac, or neurologic symptoms. What is the most appropriate initial pharmacotherapy for this patient?",
+    "options": {
+      "A": "Prednisone 20-40 mg daily, followed by a slow taper to a maintenance dose over 6-24 months.",
+      "B": "Observation with close follow-up and repeat pulmonary function tests in 3 months.",
+      "C": "Initiate Methotrexate 10-15 mg weekly orally as monotherapy.",
+      "D": "Prednisone 5 mg daily for symptomatic relief."
+    },
+    "correctAnswer": "A",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "The patient's presentation with increasing dyspnea, persistent cough, fatigue, and a significant decline in FVC indicates progressive and symptomatic pulmonary sarcoidosis. According to the provided context, 'Progressive, persistent, or symptomatic pulmonary disease' is a clear indication for treatment. Corticosteroids are the first-line therapy for sarcoidosis, with an initial prednisone dose of 20-40 mg/day for pulmonary involvement, followed by a slow taper to a maintenance dose, and continued for a minimum of 6 to 24 months to prevent relapse. The goal is to avoid dangerous complications and improve quality of life.",
+    "highYieldPearl": "Rio's Take: Symptomatic or progressive pulmonary sarcoidosis warrants immediate corticosteroid therapy, typically prednisone 20-40 mg/day, tapered slowly over 6-24 months. Asymptomatic disease is usually observed.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option correctly identifies the indication, first-line agent, appropriate initial dose range, and general duration for progressive and symptomatic pulmonary sarcoidosis as per the provided ERS guidelines.",
+      "B": "This is a trap. Observation is appropriate for asymptomatic sarcoidosis. This patient has clear symptoms (dyspnea, cough, fatigue) and objective evidence of progression (15% FVC decline), necessitating active treatment.",
+      "C": "This is a trap. Methotrexate is a second-line, steroid-sparing agent, typically added if corticosteroids are insufficient, cause significant side effects, or as a steroid-sparing measure, not as initial monotherapy for active disease.",
+      "D": "This is a trap. Prednisone 5 mg daily is a very low dose, usually considered a maintenance dose after initial control, or for very mild, non-progressive disease. It is insufficient for the initial management of active, progressive pulmonary sarcoidosis, for which 20-40 mg/day is recommended."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_3df71e24",
+    "question": "A 55-year-old female with progressive pulmonary sarcoidosis has been on prednisone 20 mg daily for 6 months. She reports some improvement in dyspnea but continues to experience significant fatigue and occasional cough. Her latest FVC is stable but has not shown further improvement. She also reports developing significant weight gain, facial puffiness, and has been diagnosed with new-onset hyperglycemia since starting steroids. What is the most appropriate next step in her management?",
+    "options": {
+      "A": "Increase prednisone to 40 mg daily.",
+      "B": "Add Methotrexate to her current regimen.",
+      "C": "Switch to Infliximab monotherapy.",
+      "D": "Taper prednisone to 5 mg daily and observe."
+    },
+    "correctAnswer": "B",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "The patient exhibits 'continued disease' (persistent fatigue, cough, stable FVC without further improvement) and 'side-effects from glucocorticoids' (weight gain, facial puffiness, new-onset hyperglycemia). According to the ERS practice questions in the provided text, when patients with symptomatic pulmonary sarcoidosis have continued disease or significant side effects from glucocorticoids, the next step is to 'Add methotrexate'. Methotrexate is a first-line steroid-sparing agent.",
+    "highYieldPearl": "Rio's Take: When sarcoidosis activity persists or steroid side effects become problematic on first-line corticosteroids, add a steroid-sparing agent like methotrexate before escalating steroid dose or moving to biologics.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a trap. Increasing the prednisone dose would likely exacerbate her steroid-related side effects (weight gain, hyperglycemia, facial puffiness) without guaranteeing better disease control. The strategy is to add a steroid-sparing agent when side effects are problematic or disease control is suboptimal.",
+      "B": "This option is correct. The presence of both continued disease activity (persistent symptoms, stable FVC without further improvement) and significant steroid side effects (weight gain, hyperglycemia) warrants the addition of a second-line, steroid-sparing agent like methotrexate, as per the ERS guidelines provided.",
+      "C": "This is a trap. Infliximab is a third-line agent (Anti-TNF mAb) and is typically reserved for cases that fail to respond to corticosteroids and conventional steroid-sparing agents like methotrexate, or in specific severe extrapulmonary sarcoidosis types. It is not the immediate next step in this scenario.",
+      "D": "This is a trap. Tapering prednisone to a very low dose while the patient still has 'continued disease' (fatigue, cough, no further FVC improvement) would risk a relapse. The text explicitly warns against 'x Early taper x Relapse'."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_bcc54070",
+    "question": "A 60-year-old female diagnosed with systemic sclerosis presents with progressive dyspnea and cough. High-resolution CT chest shows bilateral basal predominant reticulation, traction bronchiectasis, and ground-glass opacities, consistent with SSc-ILD. Pulmonary function tests show a restrictive pattern and significantly reduced DLCO. Which of the following is considered the most appropriate initial disease-modifying therapy for her interstitial lung disease?",
+    "options": {
+      "A": "Oral prednisone 0.5 mg/kg/day.",
+      "B": "Mycophenolate mofetil.",
+      "C": "Cyclophosphamide.",
+      "D": "Nintedanib monotherapy."
+    },
+    "correctAnswer": "B",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "The patient has systemic sclerosis-associated interstitial lung disease (SSc-ILD). The provided context states: 'In Scleroderma Lung Study II, treatment with mycophenolate mofetil for 24 months was associated with significant improvement in FVC percent predicted, the tolerability and safety profile of mycophenolate mofetil is superior.' This evidence makes mycophenolate mofetil the most appropriate initial disease-modifying therapy, particularly when there is an active inflammatory component implied by GGOs and progressive symptoms.",
+    "highYieldPearl": "Rio's Take: For SSc-ILD, mycophenolate mofetil is the preferred initial immunosuppressive therapy due to its proven efficacy in improving FVC and superior safety/tolerability profile compared to older agents.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a trap. While corticosteroids (like prednisone) were historically used in combination with cyclophosphamide, the provided text highlights mycophenolate mofetil as superior in terms of efficacy, tolerability, and safety. Therefore, high-dose prednisone monotherapy is not the most appropriate initial strategy.",
+      "B": "This option is correct. The text explicitly cites the Scleroderma Lung Study II, which demonstrated significant FVC improvement and a superior tolerability and safety profile for mycophenolate mofetil in SSc-ILD. This positions MMF as the preferred initial disease-modifying agent.",
+      "C": "This is a trap. Cyclophosphamide was previously an agent of choice with corticosteroids, but it has largely been replaced by mycophenolate mofetil due to MMF's superior safety and tolerability profile, as stated in the context.",
+      "D": "This is a trap. Nintedanib, while approved for SSc-ILD, primarily works by reducing the annual rate of decline in FVC. The context mentions it was 'originally approved for the treatment of idiopathic pulmonary fibrosis.' While it is a valuable treatment, especially for fibrotic SSc-ILD, mycophenolate mofetil is often considered the first-line immunosuppressive agent, particularly if an inflammatory component is present, and is highlighted for 'significant improvement' in FVC, rather than just slowing decline. The question asks for the 'most appropriate initial disease-modifying therapy,' and the context supports MMF as a primary choice for improving lung function with good tolerability."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_313a0029",
+    "question": "A 35-year-old male is newly diagnosed with biopsy-proven pulmonary sarcoidosis. Which of the following findings would NOT typically necessitate immediate initiation of systemic corticosteroid therapy?",
+    "options": {
+      "A": "Progressive dyspnea on exertion with a 15% decline in FVC over the past 6 months.",
+      "B": "Bilateral hilar lymphadenopathy (Stage I) with no respiratory symptoms or functional impairment.",
+      "C": "Persistent hypercalcemia (serum calcium 11.8 mg/dL) despite adequate hydration, with normal renal function.",
+      "D": "Chronic lupus pernio lesions on the face causing significant disfigurement and psychological distress."
+    },
+    "correctAnswer": "B",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "Systemic corticosteroids are indicated in sarcoidosis to prevent dangerous complications and improve quality of life, primarily when there is significant organ involvement, progressive disease, or severe symptoms. According to the provided text, asymptomatic pulmonary sarcoidosis, especially Stage I disease characterized by bilateral hilar lymphadenopathy without functional impairment or symptoms, does not typically warrant immediate immunosuppressive treatment. Indications for treatment include progressive, persistent, or symptomatic pulmonary disease (option A), persistent hypercalcemia (option C), and disfiguring cutaneous disease like lupus pernio (option D).",
+    "highYieldPearl": "Rio's Take: Asymptomatic sarcoidosis, particularly Stage I pulmonary involvement, is often observed rather than treated with systemic corticosteroids. Treatment is reserved for symptomatic, progressive, or organ-threatening disease.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This represents progressive, symptomatic pulmonary disease, a clear indication for systemic corticosteroids to improve/preserve FVC and QoL. Incorrect as it is an indication.",
+      "B": "This describes asymptomatic Stage I pulmonary sarcoidosis. The provided context explicitly states 'X Asymptomatic' under 'Indications for Treatment of Sarcoidosis' and 'Practice Questions X Asymptomatic X', indicating that such patients are typically observed. This is the correct answer as it does NOT necessitate immediate treatment.",
+      "C": "Persistent hypercalcemia is listed as an indication for treatment due to its potential for renal or other organ dysfunction. Incorrect as it is an indication.",
+      "D": "Disfiguring cutaneous disease, especially lupus pernio on the face, is a listed indication for treatment due to its impact on quality of life. Incorrect as it is an indication."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_21d83edf",
+    "question": "A 40-year-old female presents with symptomatic pulmonary sarcoidosis, confirmed by biopsy, exhibiting progressive cough, dyspnea, and a 10% decline in FVC over 3 months. She is initiated on oral prednisone 25 mg daily. After 6 months of this therapy, her symptoms persist, and FVC has not improved. According to ERS clinical practice guidelines for sarcoidosis, which of the following is the most appropriate next step in her management?",
+    "options": {
+      "A": "Increase prednisone dose to 40 mg daily and continue for an additional 6 months.",
+      "B": "Add methotrexate to the current prednisone regimen.",
+      "C": "Taper prednisone and initiate infliximab monotherapy.",
+      "D": "Discontinue prednisone and start mycophenolate mofetil as monotherapy."
+    },
+    "correctAnswer": "B",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "The patient has symptomatic pulmonary sarcoidosis with evidence of progression, warranting treatment. Initial treatment with prednisone 25 mg daily is within the recommended 20-40 mg/day range for pulmonary sarcoidosis. However, after 6 months, her disease persists despite steroids. According to the ERS guidelines provided, if patients with symptomatic pulmonary sarcoidosis at high risk of future mortality or disability have 'continued disease/side-effects from glucocorticoids,' the next step is to 'Add methotrexate' (Second line: Non biologics). This strategy aims to achieve better disease control and allow for steroid sparing.",
+    "highYieldPearl": "Rio's Take: For persistent or progressive sarcoidosis despite initial corticosteroid therapy, the ERS guidelines recommend adding a steroid-sparing agent like methotrexate as the second-line treatment, rather than simply increasing the steroid dose or immediately moving to biologics.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "While 25 mg is on the lower end of the 20-40 mg range, the guidelines prioritize adding a steroid-sparing agent (methotrexate) if disease persists after an initial course, especially considering the long-term side effects of higher-dose steroids. Increasing the dose might be a short-term consideration but is not the 'most appropriate next step' according to the ERS algorithm for persistent disease.",
+      "B": "This aligns directly with the ERS algorithm (Page 30), which states, 'continued disease/side-effects from glucocorticoids, → Add methotrexate.' This is the correct next step in the treatment escalation for persistent sarcoidosis.",
+      "C": "Infliximab is a third-line agent, typically considered if both corticosteroids and second-line non-biologic agents like methotrexate have failed. Initiating infliximab monotherapy after only prednisone failure is premature according to the guidelines.",
+      "D": "Mycophenolate mofetil is a second-line non-biologic agent, similar to methotrexate. However, abruptly discontinuing prednisone (especially after 6 months) can lead to relapse, and the algorithm specifically mentions methotrexate as the preferred add-on for persistent disease on steroids in this context. It's not typically used as monotherapy right after steroid failure, and the patient is still symptomatic."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_fb8a9c10",
+    "question": "A 58-year-old female with known systemic sclerosis (SSc) presents with progressive dyspnea and dry cough. High-resolution CT chest reveals extensive ground-glass opacities and early reticular changes consistent with interstitial lung disease (ILD). Her FVC is 60% predicted, and DLCO is 38% predicted. Which of the following statements regarding the current management strategy for SSc-ILD is most accurate?",
+    "options": {
+      "A": "High-dose oral corticosteroids alone are the preferred initial treatment due to their potent anti-inflammatory effects on active alveolitis.",
+      "B": "Mycophenolate mofetil is generally preferred over corticosteroids alone for its superior long-term FVC improvement and favorable tolerability profile.",
+      "C": "Nintedanib should be considered as a first-line agent primarily if there is documented evidence of rapid fibrotic progression on serial imaging.",
+      "D": "Cyclophosphamide remains the first-line immunosuppressive agent for aggressive SSc-ILD, often combined with low-dose corticosteroids."
+    },
+    "correctAnswer": "B",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "The context clearly states the evolving management of SSc-ILD. While immunosuppression was and remains the mainstay, 'corticosteroids and cyclophosphamide previously being the agents of choice.' The crucial update is from Scleroderma Lung Study II, which demonstrated that 'treatment with mycophenolate mofetil for 24 months was associated with significant improvement in FVC percent predicted, the tolerability and safety profile of mycophenolate mofetil is superior.' This establishes mycophenolate mofetil as a preferred first-line immunosuppressive agent over corticosteroids alone for SSc-ILD. Nintedanib has also been shown to reduce the annual rate of decline in FVC, and is approved for SSc-ILD, but not exclusively for 'rapid fibrotic progression' as a primary criterion for initiation. It is often used in conjunction with or after immunosuppressants. Cyclophosphamide is no longer considered first-line due to its toxicity profile and the advent of better-tolerated agents like MMF.",
+    "highYieldPearl": "Rio's Take: In SSc-ILD, the treatment paradigm has shifted from initial corticosteroids and cyclophosphamide to mycophenolate mofetil as the preferred first-line immunosuppressant, primarily due to its superior long-term FVC outcomes and better tolerability. Nintedanib is an important anti-fibrotic agent used to reduce FVC decline.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is incorrect. While corticosteroids have anti-inflammatory effects, the provided context indicates that they were 'previously' agents of choice, but mycophenolate mofetil is now preferred due to superior FVC improvement and tolerability. High-dose corticosteroids alone are not the preferred initial treatment.",
+      "B": "This statement is accurate and directly reflects the information provided in the context, specifically regarding the Scleroderma Lung Study II findings on mycophenolate mofetil's efficacy and safety profile compared to previous mainstays like corticosteroids.",
+      "C": "This is incorrect. Nintedanib was approved for SSc-ILD based on studies showing a reduced rate of FVC decline. Its use is not restricted to documented 'rapid fibrotic progression' on serial imaging, but rather for its general anti-fibrotic effect in the disease. It can be used alongside immunosuppressants.",
+      "D": "This is incorrect. Cyclophosphamide was 'previously' an agent of choice but has largely been replaced by agents like mycophenolate mofetil due to its significant toxicity profile and MMF's superior tolerability and comparable efficacy in SSc-ILD."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_192dc722",
+    "question": "A 45-year-old female presents with progressive dyspnea and cough. Imaging reveals interstitial lung disease. Further evaluation suggests either Systemic Sclerosis-associated ILD (SSc-ILD) or pulmonary sarcoidosis. Regarding the use of corticosteroids in these conditions, which of the following statements is most accurate?",
+    "options": {
+      "A": "Corticosteroids remain the primary first-line immunosuppressive agent for both SSc-ILD and symptomatic pulmonary sarcoidosis.",
+      "B": "For SSc-ILD, current evidence supports mycophenolate mofetil as a superior initial agent compared to corticosteroids, while corticosteroids are the first-line for symptomatic pulmonary sarcoidosis.",
+      "C": "Nintedanib, approved for idiopathic pulmonary fibrosis, has demonstrated benefit in reducing FVC decline in SSc-ILD, making it a preferred initial choice over corticosteroids for this condition.",
+      "D": "Intravenous pulse-dosed corticosteroids are typically reserved for severe cardiac or neurological manifestations in sarcoidosis but are a standard initial approach for rapidly progressive SSc-ILD."
+    },
+    "correctAnswer": "B",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "The provided text indicates that while corticosteroids and cyclophosphamide were previously agents of choice for SSc-ILD, the Scleroderma Lung Study II demonstrated that mycophenolate mofetil (MMF) was associated with significant improvement in FVC percent predicted and had a superior tolerability and safety profile. Therefore, MMF is now considered superior to corticosteroids as an initial agent for SSc-ILD. In contrast, for symptomatic pulmonary sarcoidosis, corticosteroids remain the first-line anti-inflammatory treatment to avoid dangerous complications and improve quality of life.",
+    "highYieldPearl": "Rio's Take: The role of corticosteroids has evolved. For SSc-ILD, MMF has largely replaced corticosteroids as the preferred initial immunosuppressant due to better efficacy and safety. However, for symptomatic pulmonary sarcoidosis, corticosteroids remain the cornerstone of initial therapy.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Incorrect. Corticosteroids are no longer the primary first-line for SSc-ILD; MMF is preferred. This option fails to recognize the recent shift in SSc-ILD management.",
+      "B": "Correct. This statement accurately reflects the current guidelines derived from the provided text. MMF is superior for SSc-ILD, and corticosteroids are first-line for symptomatic sarcoidosis.",
+      "C": "Incorrect. While nintedanib has shown benefit in reducing FVC decline in SSc-ILD, the text does not state it is a 'preferred initial choice over corticosteroids.' It's an important therapeutic option, but MMF is highlighted as superior to corticosteroids for initial immunosuppression based on Scleroderma Lung Study II.",
+      "D": "Incorrect. Intravenous pulse-dosed corticosteroids are indeed considered for severe cardiac or neurological sarcoidosis. However, they are not described as a 'standard initial approach' for rapidly progressive SSc-ILD. MMF is the favored initial immunosuppressant, and specific scenarios for high-dose steroids in SSc-ILD are not highlighted as a standard initial approach in the provided context."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_56a8023e",
+    "question": "A 38-year-old male is diagnosed with biopsy-proven pulmonary sarcoidosis. All of the following statements regarding the initiation and management of corticosteroid therapy in sarcoidosis are consistent with current guidelines and evidence, EXCEPT:",
+    "options": {
+      "A": "Asymptomatic pulmonary sarcoidosis, even with significant radiological findings, typically does not warrant immediate initiation of systemic corticosteroid therapy.",
+      "B": "For symptomatic pulmonary sarcoidosis requiring treatment, an initial prednisone dose of 20-40 mg/day (approximately 0.5 mg/kg) is recommended, followed by a slow taper over 6-24 months.",
+      "C": "If a patient with symptomatic pulmonary sarcoidosis continues to have active disease despite initial glucocorticoid therapy, the next step should be to add infliximab to the regimen.",
+      "D": "Persistent hypercalcemia or disfiguring cutaneous lupus pernio are recognized indications for initiating systemic corticosteroids in sarcoidosis."
+    },
+    "correctAnswer": "C",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "The sarcoidosis treatment algorithm outlined in the provided text specifies a step-wise approach. If a patient with symptomatic pulmonary sarcoidosis continues to have active disease or experiences side-effects from initial glucocorticoid therapy, the next step is to add a non-biologic immunosuppressant, with methotrexate specifically mentioned. Infliximab, an anti-TNF biologic, is considered a third-line agent, reserved for cases where disease persists despite initial glucocorticoids and a non-biologic agent like methotrexate.",
+    "highYieldPearl": "Rio's Take: The sarcoidosis treatment algorithm is sequential: Corticosteroids (first-line) -> Non-biologics (e.g., methotrexate, second-line) -> Anti-TNF biologics (e.g., infliximab, third-line). Don't jump straight to biologics if non-biologics haven't been tried after steroids.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This statement is correct. The text explicitly states 'X Asymptomatic' for indications, meaning asymptomatic sarcoidosis is generally not treated with systemic corticosteroids.",
+      "B": "This statement is correct. The text recommends an initial prednisone dose of 20-40 mg/day (0.5 mg/kg for pulmonary) and duration of 6-24 months with a slow taper.",
+      "C": "This statement is incorrect, making it the correct answer for an EXCEPT question. The treatment algorithm clearly shows methotrexate (a non-biologic) as the next step after glucocorticoids if disease continues, before considering infliximab (an anti-TNF biologic).",
+      "D": "This statement is correct. Both 'Persistent hypercalcemia' and 'Disfiguring cutaneous disease, especially lupus pernio on the face' are explicitly listed as indications for treatment of sarcoidosis."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_780028b2",
+    "question": "A 50-year-old male is newly diagnosed with sarcoidosis. Which of the following clinical scenarios would MOST strongly warrant immediate initiation of high-dose systemic corticosteroids (e.g., 40-80 mg/day prednisone or IV pulse therapy) as per guidelines?",
+    "options": {
+      "A": "Progressive pulmonary infiltrates with moderate dyspnea and an FVC decline of 10% over the last 6 months.",
+      "B": "Disfiguring lupus pernio on the face and painful, enlarging mediastinal lymphadenopathy.",
+      "C": "New-onset complete heart block requiring pacemaker insertion, attributed to cardiac sarcoidosis.",
+      "D": "Persistent symptomatic hypercalcemia with mild renal dysfunction (creatinine 1.8 mg/dL) and diffuse hepatic sarcoidosis."
+    },
+    "correctAnswer": "C",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "The text lists specific initial prednisone doses for various organ involvements: Pulmonary (20-40 mg/d), Cutaneous (20 mg/d), Hepatic (20 mg/d), Cardiac (40 mg/d), and Neurologic/Ocular (40-80 mg/d). Importantly, it also notes that 'Intravenous pulse-dosed corticosteroid are often considered for severe cases' and 'Extrapulmonary sarcoidosis may require higher doses of corticosteroids, especially for cardiac, neurologic, and severe ophthalmologic cases.' A new-onset complete heart block due to cardiac sarcoidosis represents severe, life-threatening 'threatened organ failure' and falls under the category of severe cardiac disease warranting higher doses, potentially including IV pulse therapy, making it the most critical scenario for immediate high-dose corticosteroids.",
+    "highYieldPearl": "Rio's Take: Always prioritize life-threatening or severe organ involvement (especially cardiac or neurological) in sarcoidosis for immediate high-dose corticosteroids, often including IV pulse therapy, even if the 'standard' oral dose for that organ is slightly lower. This aligns with the principle of 'TREAT SARCOIDOSIS TO AVOID DANGEROUS COMPLICATIONS (mortality)'.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Pulmonary sarcoidosis typically warrants 20-40 mg/day. While progressive and symptomatic, it does not typically require the highest doses (40-80 mg/day or pulse therapy) unless extremely rapidly progressive or life-threatening pulmonary vascular disease is present, which is not specified to that extent here.",
+      "B": "Disfiguring lupus pernio and painful lymphadenopathy are indications for treatment, but the recommended initial dose for cutaneous sarcoidosis is 20 mg/day, not the high-dose range specified.",
+      "C": "Correct. Complete heart block due to cardiac sarcoidosis is a severe, life-threatening condition (threatened organ failure) that falls under the 'severe cardiac disease' category. While 40 mg/day is listed for cardiac, the context explicitly states that severe cardiac cases, like neurologic/ophthalmologic, 'may require higher doses' and 'IV pulse-dosed corticosteroid are often considered for severe cases,' making this the strongest indication for high-dose immediate therapy.",
+      "D": "Persistent hypercalcemia, renal dysfunction, and hepatic sarcoidosis are indications for treatment. The dose for hepatic sarcoidosis is 20 mg/day. While these require treatment, they are not typically managed with the immediate high-dose (40-80 mg/day or pulse) corticosteroids reserved for acute, life-threatening organ involvement like severe cardiac or neurological disease."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_f5b93145",
+    "question": "A 45-year-old female presents with progressive dyspnea on exertion and a persistent cough for 6 months. Her spirometry shows a restrictive pattern with FVC 65% predicted and DLCO 55% predicted. CT chest reveals bilateral hilar lymphadenopathy and reticulonodular infiltrates. Bronchoscopy with biopsy confirms non-caseating granulomas consistent with sarcoidosis. She reports significant impact on her daily activities due to her breathing difficulties. Her body weight is 70 kg.\n\nWhich of the following is the most appropriate initial management for this patient?",
+    "options": {
+      "A": "Initiate oral prednisone 35 mg daily, followed by a slow taper over 6-24 months.",
+      "B": "Initiate oral prednisone 70 mg daily, followed by a rapid taper over 3 months.",
+      "C": "Observe closely with regular pulmonary function tests and imaging, as she has pulmonary involvement.",
+      "D": "Initiate oral methotrexate 15 mg weekly, reserving corticosteroids for severe flares."
+    },
+    "correctAnswer": "A",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "This patient presents with symptomatic and progressive pulmonary sarcoidosis, as evidenced by dyspnea, cough, restrictive physiology, and characteristic imaging/biopsy findings. According to the provided context, 'Progressive, persistent, or symptomatic pulmonary disease' is a clear indication for treatment. First-line therapy for symptomatic pulmonary sarcoidosis is oral corticosteroids. The initial prednisone dose for pulmonary involvement is 20-40 mg/day, or 0.5 mg/kg. For a 70 kg patient, 0.5 mg/kg equates to 35 mg daily, which falls within the recommended range. Treatment should be continued for a minimum of 6 to 24 months with a slow taper to a maintenance dose to prevent relapse.",
+    "highYieldPearl": "Rio's Take: Symptomatic or progressive pulmonary sarcoidosis warrants immediate corticosteroid treatment. The initial dose for pulmonary sarcoidosis is typically 0.5 mg/kg prednisone, and careful, slow tapering over an extended period (6-24 months) is crucial to prevent relapse.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option correctly identifies the indication, the appropriate initial dose (0.5 mg/kg for 70 kg = 35 mg), and the recommended duration/taper strategy for pulmonary sarcoidosis.",
+      "B": "A dose of 70 mg (1 mg/kg) is typically reserved for more severe extrapulmonary manifestations like cardiac or neurologic sarcoidosis, not initial pulmonary disease. Rapid tapering is explicitly discouraged due to high rates of relapse.",
+      "C": "Observation is appropriate only for asymptomatic sarcoidosis. This patient has significant symptoms affecting her quality of life and objective evidence of progressive lung disease, necessitating active treatment.",
+      "D": "Methotrexate is a second-line, steroid-sparing agent, typically added if the patient has continued disease or significant side effects from glucocorticoids. It is not the initial first-line therapy for symptomatic pulmonary sarcoidosis."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_0ae2d0f1",
+    "question": "A 52-year-old male with symptomatic pulmonary sarcoidosis has been on oral prednisone 10 mg daily for 18 months, following an initial dose of 30 mg daily. While his FVC has stabilized, he continues to experience persistent fatigue and proximal muscle weakness, which significantly impairs his quality of life. His most recent DEXA scan shows osteopenia.\n\nWhat is the most appropriate next step in managing this patient?",
+    "options": {
+      "A": "Increase the prednisone dose to 20 mg daily to achieve better symptom control.",
+      "B": "Initiate methotrexate and gradually taper prednisone to the lowest effective dose or discontinue it.",
+      "C": "Discontinue prednisone and switch to infliximab as monotherapy.",
+      "D": "Advise supportive care with physical therapy and calcium/vitamin D supplementation, as his pulmonary disease is stable."
+    },
+    "correctAnswer": "B",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "This patient's pulmonary sarcoidosis is stable on a maintenance dose of prednisone, but he is experiencing significant corticosteroid-related side effects (fatigue, proximal muscle weakness, osteopenia) which are impacting his quality of life. The provided ERS guidelines indicate that if a patient with symptomatic pulmonary sarcoidosis has 'continued disease/side-effects from glucocorticoids,' the next step is to 'Add methotrexate.' Methotrexate is a second-line, steroid-sparing agent used to reduce the prednisone dose and mitigate its adverse effects, while maintaining disease control.",
+    "highYieldPearl": "Rio's Take: When pulmonary sarcoidosis is stable on corticosteroids but the patient suffers from significant steroid-related side effects, adding a steroid-sparing agent like methotrexate is the preferred strategy to minimize long-term corticosteroid exposure and improve quality of life.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Increasing the prednisone dose would exacerbate the existing corticosteroid side effects, which are the primary concern in this scenario, especially since the pulmonary disease is stable.",
+      "B": "This option aligns perfectly with the ERS guidelines for managing patients experiencing corticosteroid side effects while on maintenance therapy for sarcoidosis. Methotrexate is the recommended second-line agent to allow for steroid tapering.",
+      "C": "Infliximab is a third-line agent for sarcoidosis, typically considered when second-line agents like methotrexate have failed or are contraindicated. Abruptly discontinuing prednisone and switching to infliximab as monotherapy is not the standard stepwise approach.",
+      "D": "While physical therapy and calcium/vitamin D supplementation are important supportive measures for patients on corticosteroids (especially with osteopenia), this option does not address the underlying issue of ongoing steroid side effects and the need for a steroid-sparing strategy when pulmonary disease is controlled."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_ac1c4a4e",
+    "question": "A 62-year-old female presents with progressive dyspnea and Raynaud's phenomenon. Her physical exam reveals sclerodactyly and telangiectasias. HRCT chest shows extensive bilateral ground-glass opacities and early fibrotic changes predominantly at the bases, consistent with Scleroderma-associated Interstitial Lung Disease (SSc-ILD). Pulmonary function tests reveal FVC 60% predicted and DLCO 40% predicted.\n\nRegarding the management of her SSc-ILD, which of the following statements is most accurate?",
+    "options": {
+      "A": "High-dose oral corticosteroids are the primary first-line treatment due to their potent anti-inflammatory effects.",
+      "B": "Mycophenolate mofetil is generally preferred over corticosteroids alone as initial immunosuppressive therapy.",
+      "C": "Nintedanib should be initiated as monotherapy, as it has been shown to reduce FVC decline in SSc-ILD.",
+      "D": "Cyclophosphamide is the current preferred immunosuppressive agent for induction therapy due to its established efficacy."
+    },
+    "correctAnswer": "B",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "The provided context explicitly states that while 'corticosteroids and cyclophosphamide previously being the agents of choice,' in Scleroderma Lung Study II, 'treatment with mycophenolate mofetil for 24 months was associated with significant improvement in FVC percent predicted, the tolerability and safety profile of mycophenolate mofetil is superior.' This establishes mycophenolate mofetil as the preferred initial immunosuppressive therapy for SSc-ILD, superseding corticosteroids and cyclophosphamide as primary first-line agents.",
+    "highYieldPearl": "Rio's Take: For Scleroderma-associated ILD, mycophenolate mofetil is the current preferred initial immunosuppressive agent due to its superior efficacy and safety profile compared to older treatments like corticosteroids or cyclophosphamide alone.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This statement is inaccurate. While corticosteroids have anti-inflammatory effects and were previously used, mycophenolate mofetil has shown superior tolerability and efficacy in SSc-ILD trials and is now generally preferred as first-line immunosuppression.",
+      "B": "This is the most accurate statement, reflecting the current evidence from Scleroderma Lung Study II where mycophenolate mofetil demonstrated significant FVC improvement and a better safety profile, making it the preferred initial immunosuppressive choice.",
+      "C": "Nintedanib is an anti-fibrotic agent that reduces FVC decline in SSc-ILD, but it is not an immunosuppressant and is often used in combination with immunosuppressive therapy or in specific fibrotic phenotypes. Initiating it as monotherapy, especially with significant ground-glass opacities (suggesting inflammation), is not the primary approach over immunosuppression.",
+      "D": "Cyclophosphamide was 'previously' an agent of choice but has been largely replaced by mycophenolate mofetil due to the latter's superior safety and tolerability profile, as highlighted in the provided text."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_938f4eb7",
+    "question": "A 35-year-old female is diagnosed with sarcoidosis following a biopsy of mediastinal lymph nodes. She presents with mild, non-bothersome dry cough and a chest X-ray showing bilateral hilar lymphadenopathy without significant parenchymal involvement. Her pulmonary function tests show normal FVC and DLCO. She is otherwise asymptomatic. Which of the following is the most appropriate initial management regarding systemic corticosteroids for this patient?",
+    "options": {
+      "A": "Initiate prednisone 20-40 mg/day immediately to prevent disease progression.",
+      "B": "Initiate topical corticosteroids only, given the mild cough.",
+      "C": "Observe the patient with regular follow-ups and monitor for symptom progression.",
+      "D": "Start methotrexate as a steroid-sparing agent due to potential long-term side effects."
+    },
+    "correctAnswer": "C",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "The provided text explicitly states that asymptomatic sarcoidosis is not an indication for treatment ('Handwritten note: X Asymptomatic'). The criteria for initiating treatment include 'Progressive, persistent, or symptomatic pulmonary disease,' 'Threatened organ failure,' or 'Disfiguring cutaneous disease,' among others. This patient's mild, non-bothersome cough, normal pulmonary function, and lack of progressive disease or organ involvement mean that she does not meet the indications for systemic corticosteroid therapy. Therefore, observation with regular follow-ups is the most appropriate initial approach.",
+    "highYieldPearl": "Rio's Take: Asymptomatic sarcoidosis, even with hilar lymphadenopathy, generally warrants observation, not immediate systemic corticosteroid therapy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Initiating systemic corticosteroids for an asymptomatic patient is incorrect and exposes them to unnecessary side effects. The guidelines clearly state to treat sarcoidosis to avoid dangerous complications and improve quality of life, not for asymptomatic disease.",
+      "B": "Topical corticosteroids are mentioned for specific conditions like cutaneous or sinonasal sarcoidosis, or for uveitis unresponsive to topical agents. They are not indicated for isolated mild pulmonary symptoms in this context.",
+      "D": "Methotrexate is a second-line agent for sarcoidosis, typically used when glucocorticoids are insufficient, to reduce steroid dosage, or for steroid intolerance. It is not an initial treatment for asymptomatic patients."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_9d310cde",
+    "question": "A 42-year-old male is diagnosed with pulmonary sarcoidosis presenting with significant shortness of breath, persistent cough, and a decline in FVC by 15% over the last 6 months. A CT chest shows extensive parenchymal involvement. After thorough evaluation, systemic corticosteroid therapy is indicated. According to the provided information, what is the most appropriate initial daily dose of prednisone for this patient?",
+    "options": {
+      "A": "5-10 mg/day",
+      "B": "20-40 mg/day",
+      "C": "40-80 mg/day",
+      "D": "1 mg/kg/day (e.g., 70 mg/day for a 70 kg patient)"
+    },
+    "correctAnswer": "B",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "The provided text under 'Initial Prednisone Dose (mg/d)' specifies that for 'Pulmonary' sarcoidosis, the recommended initial dose is '20–40 mg/d.' This corresponds to approximately '0.5 mg/kg' (as per the handwritten note). The patient's symptoms (significant shortness of breath, persistent cough, FVC decline) clearly indicate symptomatic and progressive pulmonary disease requiring treatment. Therefore, an initial prednisone dose within the 20-40 mg/day range is appropriate.",
+    "highYieldPearl": "Rio's Take: For symptomatic pulmonary sarcoidosis, the typical initial prednisone dose is 20-40 mg/day. Higher doses are reserved for severe extrapulmonary manifestations.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "5-10 mg/day is typically a maintenance dose after tapering from an initial higher dose, not an initial treatment for active, symptomatic pulmonary sarcoidosis.",
+      "C": "40-80 mg/day is the initial dose range typically indicated for more severe extrapulmonary manifestations, such as cardiac, neurologic, or severe ophthalmologic sarcoidosis, or 1 mg/kg for neurologic/ocular involvement, as specified in the dosing table.",
+      "D": "1 mg/kg/day is equivalent to the 40-80 mg/day range and is specifically mentioned for neurologic or ocular sarcoidosis. The handwritten note indicates '0.5 mg/kg' for pulmonary sarcoidosis, aligning with the 20-40 mg/day range."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_4ec71d69",
+    "question": "A 50-year-old patient with symptomatic pulmonary sarcoidosis has been on prednisone 20 mg/day for 6 months. While there was an initial improvement, her symptoms of shortness of breath persist, and her FVC has plateaued with no further improvement. She is also developing significant weight gain and mood changes attributable to the corticosteroids. What is the most appropriate next step in her management, according to the provided guidelines?",
+    "options": {
+      "A": "Increase the prednisone dose to 40 mg/day.",
+      "B": "Slowly taper off prednisone and monitor for relapse.",
+      "C": "Add methotrexate to the current treatment regimen.",
+      "D": "Initiate infliximab immediately due to continued disease activity."
+    },
+    "correctAnswer": "C",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "The provided text under 'Practice Questions' addresses this exact scenario: 'In patients with pulmonary sarcoidosis, should one add immunosuppressive treatment or remain on glucocorticoid treatment alone? ...Symptomatic pulmonary sarcoidosis at higher risk of future mortality or permanent disability from sarcoidosis, continued disease/side-effects from glucocorticoids, → Add methotrexate.' This patient has persistent symptoms and FVC plateau despite corticosteroids, and is experiencing steroid side effects. Adding methotrexate, a second-line, steroid-sparing agent, is the appropriate next step in the treatment algorithm.",
+    "highYieldPearl": "Rio's Take: For symptomatic pulmonary sarcoidosis with persistent disease activity or unacceptable steroid side effects, adding methotrexate is the next step before escalating to biologics.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Increasing the prednisone dose is unlikely to resolve the persistent symptoms and would worsen the existing steroid-related side effects, which the guidelines explicitly aim to avoid by adding a steroid-sparing agent.",
+      "B": "Tapering off prednisone while the patient still has symptomatic and active disease would likely lead to a relapse, which the guidelines warn against ('x Early taper x Relapse').",
+      "D": "Infliximab (an anti-TNF MAB) is a third-line agent for sarcoidosis. The treatment algorithm specifies it is indicated if there is 'Still having continued disease' even after adding methotrexate. Therefore, initiating infliximab at this stage is premature."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_2572d468",
+    "question": "A 45-year-old male presents with 6 months of progressive dyspnea, persistent dry cough, and significant fatigue impacting his daily activities. Pulmonary function tests show FVC 65% predicted and DLCO 40% predicted, both significantly declined from previous measurements 6 months prior. Chest CT reveals extensive bilateral reticulonodular opacities with traction bronchiectasis. Biopsy confirms non-caseating granulomas consistent with sarcoidosis. He denies visual symptoms or neurological deficits. His serum calcium is persistently elevated at 2.9 mmol/L (normal 2.1-2.6 mmol/L). Which of the following is the MOST appropriate initial management strategy?",
+    "options": {
+      "A": "Initiate oral prednisone 20 mg daily with a plan to taper over 3 months, monitoring FVC and calcium levels.",
+      "B": "Initiate oral prednisone 40 mg daily, considering a slow taper over 6-12 months, and re-evaluate for steroid-sparing agents if no response or significant side effects occur.",
+      "C": "Initiate intravenous methylprednisolone pulse therapy followed by oral prednisone 1 mg/kg/day, along with immediate addition of methotrexate.",
+      "D": "Start with a non-biologic steroid-sparing agent like methotrexate or mycophenolate mofetil due to concerns about long-term steroid toxicity."
+    },
+    "correctAnswer": "B",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "This patient presents with multiple indications for treatment of sarcoidosis: progressive, persistent, and symptomatic pulmonary disease (progressive dyspnea, declining FVC, extensive CT changes), persistent hypercalcemia, and severe fatigue impacting quality of life. According to the ERS guidelines summarized in the provided text, symptomatic pulmonary sarcoidosis at higher risk of future mortality or permanent disability from sarcoidosis should receive glucocorticoid treatment to improve and/or preserve FVC and Quality of Life. The initial prednisone dose for pulmonary involvement is 20-40 mg/d. For significant extrapulmonary involvement like persistent hypercalcemia (or hepatic dysfunction, which is often treated similarly), a dose around 20 mg/d is also indicated. Considering the progressive nature of his pulmonary disease and multi-system involvement, 40 mg daily is an appropriate starting dose. Treatment is usually continued for a minimum of 6 to 24 months, with a slow taper, making a 6-12 month tapering plan suitable. Steroid-sparing agents are typically added as second-line therapy if there is continued disease activity despite glucocorticoids or if significant steroid side effects occur, not as initial treatment in a patient with active, progressive sarcoidosis requiring immediate steroid initiation.",
+    "highYieldPearl": "Rio's Take: For symptomatic, progressive pulmonary sarcoidosis with additional high-risk extrapulmonary manifestations (like persistent hypercalcemia), initial treatment with oral prednisone 20-40 mg/day is typically indicated, followed by a slow taper over 6-24 months. Steroid-sparing agents are reserved for patients with inadequate response or intolerable side effects from initial steroid therapy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "While 20 mg daily is a possible starting dose for pulmonary sarcoidosis, a 3-month taper is explicitly cautioned against ('x Early taper x Relapse') as it increases the risk of recurrence. The duration is typically 6-24 months minimum.",
+      "B": "This option aligns with the recommended initial prednisone dose (20-40 mg/d) for progressive pulmonary sarcoidosis and persistent hypercalcemia. The slow taper over 6-12 months and re-evaluation for steroid-sparing agents are consistent with guideline principles for managing chronic sarcoidosis.",
+      "C": "Intravenous pulse-dosed corticosteroids (and higher oral doses like 1 mg/kg/day) are primarily reserved for severe, life-threatening extrapulmonary manifestations such as cardiac or neurologic sarcoidosis, or severe ocular disease unresponsive to topical therapy. This patient's presentation, while severe, does not warrant immediate IV pulse therapy. Immediate addition of methotrexate is not first-line therapy for initial treatment of symptomatic sarcoidosis.",
+      "D": "Non-biologic steroid-sparing agents like methotrexate or mycophenolate mofetil are considered second-line therapies for sarcoidosis, typically added when there is continued disease activity despite glucocorticoids, or to reduce steroid-related side effects. They are not generally used as initial monotherapy for symptomatic, progressive disease."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_512cc595",
+    "question": "A 58-year-old female with known systemic sclerosis (limited cutaneous form) presents for follow-up. Her recent HRCT chest shows new ground-glass opacities and early reticular changes in the lung bases, consistent with progressive interstitial lung disease (ILD), though she reports stable dyspnea. Her FVC is 75% predicted and DLCO is 45% predicted. Esophageal manometry confirms severe esophageal dysmotility. Which of the following statements regarding the role of corticosteroids in her management is most accurate?",
+    "options": {
+      "A": "High-dose oral corticosteroids are the preferred initial monotherapy for progressive SSc-ILD due to their broad immunosuppressive effects.",
+      "B": "Corticosteroids should be avoided entirely in SSc-ILD due to their potential to induce renal crisis and limited efficacy compared to newer agents.",
+      "C": "Corticosteroids, often in combination with mycophenolate mofetil, may be considered for severe, rapidly progressive SSc-ILD, but mycophenolate mofetil or nintedanib are generally favored as initial treatment for most progressive cases.",
+      "D": "Inhaled corticosteroids are effective in slowing the progression of SSc-ILD and should be added to her regimen given the HRCT findings."
+    },
+    "correctAnswer": "C",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "The provided text indicates that 'Immunosuppression has been the mainstay of treatment, with corticosteroids and cyclophosphamide previously being the agents of choice' for scleroderma lung disease. However, it highlights that 'In Scleroderma Lung Study II, treatment with mycophenolate mofetil for 24 months was associated with significant improvement in FVC percent predicted, the tolerability and safety profile of mycophenolate mofetil is superior.' Additionally, 'nintedanib... reduced the annual rate of decline in FVC.' This indicates a shift in preferred first-line therapy for progressive SSc-ILD away from corticosteroids as monotherapy. While corticosteroids are no longer the 'preferred initial monotherapy,' they are not entirely avoided. In acute, rapidly progressive, or severe inflammatory flares, a short course of corticosteroids (often combined with other immunosuppressants like mycophenolate mofetil or cyclophosphamide) might still be used, but for chronic management of progressive SSc-ILD, mycophenolate mofetil and nintedanib are now the favored initial agents due to better efficacy, safety, and tolerability profiles.",
+    "highYieldPearl": "Rio's Take: While corticosteroids were historically used for SSc-ILD, current guidelines favor mycophenolate mofetil or nintedanib as initial therapy for progressive disease due to superior efficacy and/or safety. Corticosteroids may still be considered for severe, rapidly progressive cases, often in combination, but not as preferred initial monotherapy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This statement is incorrect because corticosteroids are no longer the preferred initial monotherapy for progressive SSc-ILD. Mycophenolate mofetil and nintedanib are now generally favored.",
+      "B": "This statement is too absolute. While corticosteroids carry risks like renal crisis in SSc (especially high doses), they are not 'avoided entirely.' They may still have a role in acute, severe situations, particularly for their anti-inflammatory effects.",
+      "C": "This option accurately reflects the current nuanced role of corticosteroids in SSc-ILD. It acknowledges their potential use in severe, rapidly progressive disease (often combined with other agents) while correctly identifying mycophenolate mofetil and nintedanib as the generally favored initial treatments for most progressive cases.",
+      "D": "Inhaled corticosteroids are primarily used for airway inflammatory conditions like asthma or COPD. They are not indicated or effective for slowing the progression of interstitial lung disease in systemic sclerosis."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_e7ab26cb",
+    "question": "A 38-year-old female with pulmonary sarcoidosis has been on oral prednisone 20 mg daily for 9 months due to progressive dyspnea and declining FVC (improved from 60% to 70% predicted, but plateaued). She now develops significant steroid-induced osteoporosis despite calcium and vitamin D supplementation. Her current FVC is 70% predicted, but her dyspnea remains moderate, and HRCT shows persistent reticular changes. The MOST appropriate next step in her management, according to current guidelines, would be:",
+    "options": {
+      "A": "Increase prednisone to 40 mg daily and consider adding a bisphosphonate for osteoporosis management.",
+      "B": "Initiate infliximab as a steroid-sparing agent given the persistent disease activity and significant steroid side effects.",
+      "C": "Add methotrexate to her current prednisone regimen, aiming to slowly taper prednisone as disease control is achieved.",
+      "D": "Switch from oral prednisone to inhaled fluticasone to mitigate systemic side effects while maintaining anti-inflammatory action in the lungs."
+    },
+    "correctAnswer": "C",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "This patient has symptomatic pulmonary sarcoidosis with continued disease activity (persistent dyspnea, plateaued FVC, persistent CT changes) despite being on oral prednisone for 9 months, and has developed significant steroid-induced side effects (osteoporosis). According to the ERS guidelines summarized in the provided text, if a patient has 'continued disease/side-effects from glucocorticoids,' the next step is to 'Add methotrexate.' Methotrexate is a second-line, non-biologic steroid-sparing agent. The goal of adding such an agent is to achieve better disease control, allow for a reduction or discontinuation of corticosteroids, and mitigate their side effects.",
+    "highYieldPearl": "Rio's Take: For pulmonary sarcoidosis patients who experience continued disease activity despite glucocorticoid treatment, or develop significant steroid-related side effects, the first-line steroid-sparing agent to add is typically methotrexate. Biologics like infliximab are reserved for patients who do not respond to or tolerate conventional steroid-sparing agents.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Increasing the prednisone dose would worsen her steroid-induced osteoporosis and is counterproductive given the goal of steroid-sparing in a patient with significant steroid side effects. While bisphosphonates are relevant for osteoporosis, increasing the steroid dose is not the primary management strategy here.",
+      "B": "Infliximab is a third-line biologic agent, reserved for patients who do not respond to or tolerate conventional steroid-sparing agents like methotrexate. It is not the MOST appropriate immediate next step when methotrexate (a second-line agent) has not yet been tried.",
+      "C": "This is the most appropriate next step. The text explicitly states that for 'continued disease/side-effects from glucocorticoids,' the strategy is to 'Add methotrexate.' Methotrexate is a well-established steroid-sparing agent in sarcoidosis, allowing for prednisone taper while controlling disease activity.",
+      "D": "Inhaled corticosteroids like fluticasone are primarily used for inflammatory airway diseases. They are not effective for treating parenchymal lung disease like sarcoidosis-associated ILD and cannot replace systemic corticosteroids for systemic disease activity or to achieve steroid-sparing in this context."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_9b76307a",
+    "question": "A 45-year-old female presents with persistent cough and exertional dyspnea for 6 months. HRCT chest shows extensive perilymphatic nodules and mediastinal lymphadenopathy. Bronchoscopic biopsy confirms non-caseating granulomas. PFTs show FVC 65% predicted, DLCO 50% predicted. She experiences significant fatigue impacting her daily activities. Which of the following is the most appropriate initial treatment strategy?",
+    "options": {
+      "A": "Initiate oral prednisone 40 mg daily and plan for a slow taper over 6-24 months.",
+      "B": "Observe closely, as asymptomatic pulmonary sarcoidosis does not require immediate treatment.",
+      "C": "Begin methotrexate 10 mg weekly, as it is the first-line disease-modifying agent.",
+      "D": "Start oral prednisone 20 mg daily and taper rapidly over 3 months."
+    },
+    "correctAnswer": "A",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "The patient's presentation with persistent cough, exertional dyspnea, significant fatigue, and impaired PFTs (FVC 65%, DLCO 50%) clearly indicates symptomatic pulmonary sarcoidosis. According to ERS guidelines and the provided context, symptomatic pulmonary sarcoidosis, especially with progressive disease or symptoms impacting quality of life, warrants treatment to prevent dangerous complications and improve quality of life. Glucocorticoids are the first-line treatment for sarcoidosis requiring systemic therapy. The initial prednisone dose for pulmonary involvement is typically 20-40 mg/day (or 0.5 mg/kg). A dose of 40 mg daily is within this range. Treatment duration is usually a minimum of 6-24 months, with a slow taper to a maintenance dose to prevent relapse.",
+    "highYieldPearl": "Rio's Take: Symptomatic pulmonary sarcoidosis, especially with functional impairment or significant fatigue, mandates corticosteroid therapy. Remember the initial dose range (20-40 mg/day for pulmonary) and the importance of a slow, prolonged taper (6-24 months) to avoid relapse.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option correctly identifies the need for corticosteroids, an appropriate initial dose for symptomatic pulmonary sarcoidosis, and the correct duration/tapering strategy. It covers multiple key aspects of sarcoidosis management.",
+      "B": "This is a trap for those who only remember 'asymptomatic sarcoidosis does not need treatment' without fully assessing the vignette. The patient is clearly symptomatic (cough, dyspnea, fatigue) and has significant PFT impairment, thus requiring treatment.",
+      "C": "This is a trap for misidentifying first-line agents. Methotrexate is a second-line, steroid-sparing agent, not the initial first-line therapy for sarcoidosis. It's typically added if steroids fail, cause side effects, or to reduce steroid burden.",
+      "D": "While prednisone 20 mg/day is an acceptable starting dose for pulmonary sarcoidosis, the instruction to 'taper rapidly over 3 months' is a critical error. Rapid tapering leads to high rates of relapse and is explicitly advised against in the guidelines (x Early taper x Relapse)."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_dfb509fd",
+    "question": "A 58-year-old patient with limited cutaneous systemic sclerosis is diagnosed with progressive interstitial lung disease (ILD) based on worsening dyspnea, decline in FVC, and new GGOs with early fibrotic changes on HRCT chest. Which of the following statements regarding the management of her Scleroderma-associated ILD (SSc-ILD) is LEAST accurate?",
+    "options": {
+      "A": "Mycophenolate mofetil is considered a preferred first-line immunosuppressive agent for SSc-ILD.",
+      "B": "Nintedanib may be considered to reduce the rate of FVC decline in this patient.",
+      "C": "High-dose oral corticosteroids are the primary initial immunosuppressive agents for progressive SSc-ILD.",
+      "D": "Rituximab is an alternative immunosuppressive therapy that may be used, though more evidence is needed."
+    },
+    "correctAnswer": "C",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "The management of Scleroderma-associated ILD (SSc-ILD) has evolved. While corticosteroids and cyclophosphamide were 'previously' agents of choice, current evidence, particularly from Scleroderma Lung Study II, favors mycophenolate mofetil due to its significant improvement in FVC percent predicted and superior tolerability and safety profile. Nintedanib has also been shown to reduce the annual rate of FVC decline. Rituximab is mentioned as another option with emerging evidence. Therefore, stating that high-dose oral corticosteroids are the 'primary initial' immunosuppressive agents is inaccurate in current practice.",
+    "highYieldPearl": "Rio's Take: For SSc-ILD, remember the shift in paradigm: mycophenolate mofetil is now preferred over corticosteroids/cyclophosphamide as first-line immunosuppression, and nintedanib is a key anti-fibrotic. Corticosteroids are no longer the primary initial choice due to efficacy and side effect profiles.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a correct statement, as mycophenolate mofetil has shown significant benefit and a superior safety profile, making it a preferred first-line agent.",
+      "B": "This is a correct statement. Nintedanib is approved for SSc-ILD to slow FVC decline, based on recent trials.",
+      "C": "This is the LEAST accurate statement. High-dose oral corticosteroids were historically used but are no longer considered the primary initial immunosuppressive agents for progressive SSc-ILD. Mycophenolate mofetil has largely replaced them for initial management due to better efficacy and safety profile, especially regarding long-term steroid toxicity in a chronic disease.",
+      "D": "This is a correct statement. Rituximab is listed as an 'other drug' with 'more evidence needed', indicating its role as an alternative or emerging therapy, consistent with the provided text."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_8eefef33",
+    "question": "A 38-year-old male with newly diagnosed symptomatic pulmonary sarcoidosis (FVC 70% predicted, DLCO 60% predicted, persistent cough, moderate dyspnea) was initiated on oral prednisone 30 mg daily. After 6 months of treatment, his symptoms have moderately improved, but he complains of significant weight gain, mood swings, and new onset hyperglycemia, despite a slow taper of prednisone to 10 mg daily. Repeat PFTs show FVC 75% predicted, DLCO 65% predicted. What is the most appropriate next step in his management?",
+    "options": {
+      "A": "Add methotrexate or another steroid-sparing agent while continuing prednisone at the lowest effective dose.",
+      "B": "Continue prednisone 10 mg daily and closely monitor for further improvements, as sarcoidosis often has a prolonged course.",
+      "C": "Discontinue prednisone entirely to manage side effects and initiate methotrexate.",
+      "D": "Increase the prednisone dose back to 30 mg daily to achieve full symptomatic resolution."
+    },
+    "correctAnswer": "A",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "The patient has symptomatic pulmonary sarcoidosis with partial improvement on corticosteroids but significant steroid-related side effects (weight gain, mood swings, hyperglycemia) even at a maintenance dose of 10 mg daily. This scenario perfectly fits the indication for adding a steroid-sparing agent. According to the ERS guidelines, if a patient has symptomatic pulmonary sarcoidosis at high risk and experiences 'continued disease/side-effects from glucocorticoids,' the appropriate next step is to 'Add methotrexate.' The goal is to control the disease while minimizing the adverse effects of long-term corticosteroid therapy by allowing further reduction or discontinuation of prednisone.",
+    "highYieldPearl": "Rio's Take: When corticosteroids cause intolerable side effects or provide only partial disease control in sarcoidosis, the strategy is typically to ADD a steroid-sparing agent (like methotrexate, azathioprine, or mycophenolate) rather than discontinuing steroids abruptly or increasing the dose, to achieve better disease control with less steroid burden.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct approach. The patient has ongoing symptoms (moderate improvement, not full resolution) and significant steroid-related side effects. Adding a steroid-sparing agent like methotrexate allows for further reduction of the prednisone dose, minimizing side effects while maintaining or improving disease control. This aligns with the 'add methotrexate if continued disease/side-effects from glucocorticoids' principle.",
+      "B": "Continuing prednisone 10 mg daily while tolerating significant side effects is not optimal management. While sarcoidosis is chronic, the presence of ongoing symptoms and side effects necessitates intervention rather than just observation at this stage.",
+      "C": "Abruptly discontinuing prednisone in a patient with active symptomatic disease, even with partial improvement, carries a high risk of disease relapse and worsening, especially before a steroid-sparing agent has had time to become fully effective. Methotrexate is typically added *to* prednisone to allow for tapering, not as a direct replacement at this stage.",
+      "D": "Increasing the prednisone dose would exacerbate the already problematic steroid side effects (weight gain, mood swings, hyperglycemia) and is contraindicated given the patient's current clinical picture. The goal is to reduce, not increase, steroid exposure."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_4d3148a8",
+    "question": "A 35-year-old male presents with exertional dyspnea and a persistent dry cough for 3 months. Chest CT shows bilateral hilar lymphadenopathy and reticulonodular opacities in the lung fields. Bronchoscopy with biopsy confirms non-caseating granulomas consistent with sarcoidosis. He denies any visual changes, palpitations, skin lesions, or neurological symptoms. What is the most appropriate initial management strategy regarding systemic corticosteroids for this patient?",
+    "options": {
+      "A": "Initiate oral prednisone 20-40 mg/day.",
+      "B": "Monitor symptoms closely without initiating corticosteroids, as the disease is not threatening organ function.",
+      "C": "Prescribe inhaled corticosteroids for symptomatic relief.",
+      "D": "Start oral prednisone 5 mg/day to minimize side effects."
+    },
+    "correctAnswer": "A",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "The patient presents with symptomatic pulmonary sarcoidosis (exertional dyspnea, persistent dry cough, progressive pulmonary disease features on CT), which is a clear indication for initiating systemic corticosteroid treatment according to the provided guidelines. The recommended initial dose for pulmonary sarcoidosis is 20-40 mg/day of prednisone. Treating symptomatic pulmonary disease is crucial to avoid dangerous complications and improve quality of life.",
+    "highYieldPearl": "Rio's Take: Symptomatic pulmonary sarcoidosis, even without severe extrapulmonary involvement, warrants treatment with systemic corticosteroids (initial dose typically 20-40 mg/day prednisone) to prevent progression and improve patient quality of life.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct initial management for symptomatic pulmonary sarcoidosis as per guidelines.",
+      "B": "Incorrect. While severe extrapulmonary involvement carries higher urgency, symptomatic pulmonary disease itself (dyspnea, cough) is an indication for treatment. 'Asymptomatic' disease is explicitly noted as 'X' for treatment.",
+      "C": "Incorrect. Inhaled corticosteroids are not a substitute for systemic immunosuppression in the primary management of active pulmonary sarcoidosis.",
+      "D": "Incorrect. 5 mg/day is too low for an initial therapeutic dose in symptomatic pulmonary sarcoidosis. This dose is more akin to a maintenance dose after a slow taper."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_cfb7d680",
+    "question": "A 45-year-old female is diagnosed with biopsy-proven pulmonary sarcoidosis and presents with progressive dyspnea and persistent cough impacting her daily activities. There is no evidence of cardiac, neurological, or severe ocular involvement. According to the provided guidelines for initial management, what is the recommended starting daily oral prednisone dose for her pulmonary involvement?",
+    "options": {
+      "A": "5-10 mg/day",
+      "B": "20-40 mg/day",
+      "C": "40-80 mg/day",
+      "D": "100 mg/day"
+    },
+    "correctAnswer": "B",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "The patient has symptomatic pulmonary sarcoidosis requiring systemic corticosteroid treatment. The provided 'Initial Prednisone Dose' table explicitly lists 'Pulmonary' sarcoidosis requiring 20–40 mg/d (or 0.5 mg/kg) of prednisone. Higher doses are reserved for severe extrapulmonary manifestations like cardiac or neurological involvement.",
+    "highYieldPearl": "Rio's Take: Remember the initial prednisone dosing for sarcoidosis. Pulmonary involvement typically requires 20-40 mg/day, whereas severe extrapulmonary forms (cardiac, neurologic, severe ophthalmic) often require higher doses (e.g., 40-80 mg/day).",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This dose is typically too low for initial treatment of active, symptomatic pulmonary sarcoidosis and more aligned with a maintenance dose or for less severe conditions.",
+      "B": "This is the correct initial dose range for pulmonary sarcoidosis according to the provided guidelines.",
+      "C": "This dose range is typically reserved for severe extrapulmonary manifestations such as cardiac, neurological, or severe ophthalmic sarcoidosis, not isolated pulmonary involvement.",
+      "D": "This dose is excessively high for initial treatment of pulmonary sarcoidosis and would carry a significantly increased risk of adverse effects without a clear clinical indication."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_dd997854",
+    "question": "A 50-year-old patient with pulmonary sarcoidosis was started on oral prednisone 30 mg/day, which led to significant improvement in symptoms and FVC over 3 months. Her physician now plans to taper the prednisone dose. Which of the following statements is most consistent with current guidelines regarding the duration and tapering of corticosteroids in pulmonary sarcoidosis?",
+    "options": {
+      "A": "The prednisone should be rapidly tapered and discontinued within 3-6 months to avoid long-term side effects.",
+      "B": "The prednisone dose should be slowly tapered to a maintenance dose of 5-15 mg/day and continued for a minimum of 6-24 months.",
+      "C": "Corticosteroids should be switched to inhaled forms as soon as symptoms improve to prevent systemic adverse effects.",
+      "D": "If symptoms recur during taper, methotrexate should be added immediately as a first-line alternative to corticosteroids."
+    },
+    "correctAnswer": "B",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "The provided context emphasizes that 'Optimal dosing of corticosteroid therapy has not been established by clinical trials,' but typically involves '20 to 40 mg per day of prednisone followed by a slow taper to a maintenance dose of 5 to 15 mg per day of prednisone.' It also explicitly warns against 'x Early taper x Relapse' and states that 'Treatment is usually continued for a minimum of 6 to 24 months.' This supports a slow taper and prolonged duration.",
+    "highYieldPearl": "Rio's Take: For sarcoidosis, avoid premature or rapid corticosteroid tapering. A slow taper to a low maintenance dose (5-15 mg/day) over a minimum of 6-24 months is crucial to prevent relapse and manage chronic disease.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. The guidelines explicitly state 'x Early taper x Relapse' and recommend a minimum treatment duration of 6-24 months. Rapid tapering within 3-6 months increases the risk of relapse.",
+      "B": "This statement accurately reflects the guidelines for slow tapering to a maintenance dose and the recommended minimum duration of treatment (6-24 months).",
+      "C": "Incorrect. Inhaled corticosteroids are not a substitute for systemic corticosteroids in the management of pulmonary sarcoidosis requiring immunosuppression; they do not provide adequate systemic effect.",
+      "D": "Incorrect. Methotrexate is a second-line agent considered when there is 'continued disease/side-effects from glucocorticoids.' While it can be added for steroid-sparing or refractory disease, it is not a 'first-line alternative' and the initial response to symptoms recurring during taper often involves adjusting the systemic steroid dose before immediately adding a second-line agent."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_2dda1d16",
+    "question": "A 45-year-old male presents with progressively worsening dyspnea on exertion and a persistent dry cough for 3 months. Physical examination reveals bibasilar crackles. Chest X-ray shows bilateral hilar lymphadenopathy and diffuse reticulonodular infiltrates. Pulmonary function tests reveal an FVC of 65% predicted and DLCO of 50% predicted. Bronchoscopy with transbronchial biopsy confirms non-caseating granulomas. He denies any visual changes, skin lesions, or neurological symptoms. What is the most appropriate initial pharmacological treatment and duration for this patient?",
+    "options": {
+      "A": "Prednisone 20 mg/day, tapered to discontinuation over 3 months.",
+      "B": "Prednisone 40 mg/day, maintained for 6-24 months and then slowly tapered.",
+      "C": "Methotrexate 15 mg/week, with folic acid supplementation, as a steroid-sparing agent.",
+      "D": "Observation with serial pulmonary function tests every 3 months."
+    },
+    "correctAnswer": "B",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "The patient presents with symptomatic pulmonary sarcoidosis, confirmed by biopsy and significant functional impairment (dyspnea, cough, reduced FVC and DLCO). According to the provided context, 'Progressive, persistent, or symptomatic pulmonary disease' is a clear indication for treatment. Corticosteroids are the first-line treatment for sarcoidosis. The initial prednisone dose for pulmonary involvement is 20–40 mg/day. Treatment is usually continued for a minimum of 6 to 24 months, with a slow taper to a maintenance dose (5–15 mg/day). Early tapering (as in option A) is explicitly warned against due to high relapse rates. Methotrexate (option C) is a second-line agent, typically considered if there is continued disease or side effects from glucocorticoids, not as initial monotherapy for a steroid-naive patient. Observation (option D) is appropriate for asymptomatic sarcoidosis, which is not the case here.",
+    "highYieldPearl": "Rio's Take: Symptomatic pulmonary sarcoidosis with functional impairment requires initial corticosteroids (20-40 mg/day prednisone) for a sustained period (6-24 months) with a slow taper, not an early discontinuation. Methotrexate is a second-line option.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This option is a trap because while the initial dose of 20 mg/day is within the acceptable range (20-40 mg/day), the duration and tapering strategy ('tapered to discontinuation over 3 months') is too short and considered an 'early taper' which leads to relapse, as stated in the text.",
+      "B": "This is the correct answer. The dose of 40 mg/day falls within the recommended initial range for pulmonary sarcoidosis (20-40 mg/day). The duration of 'maintained for 6-24 months and then slowly tapered' aligns with the guideline for treatment duration ('minimum of 6 to 24 months') and tapering principles outlined in the text.",
+      "C": "Methotrexate is a second-line agent for sarcoidosis, used if there is continued disease activity or unacceptable side effects from glucocorticoids. It is not the initial treatment for a steroid-naive symptomatic patient.",
+      "D": "Observation is indicated for asymptomatic sarcoidosis. This patient clearly has symptomatic and functionally significant pulmonary disease, necessitating active treatment."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_8c3b6094",
+    "question": "A 58-year-old female with a 10-year history of systemic sclerosis (limited cutaneous form) presents with worsening exertional dyspnea and dry cough over the past year. High-resolution CT chest shows prominent ground-glass opacities, a reticular pattern, and early traction bronchiectasis predominantly at the lung bases. Pulmonary function tests show a restrictive pattern (FVC 60% predicted) and a disproportionately low DLCO (35% predicted). She has no acute worsening or signs of cardiac or renal crisis. What is the most appropriate initial pharmacological treatment for her interstitial lung disease?",
+    "options": {
+      "A": "Oral prednisone 1 mg/kg/day, tapered after 3-6 months based on clinical response.",
+      "B": "Mycophenolate mofetil 1-1.5 g twice daily.",
+      "C": "Intravenous cyclophosphamide monthly for 6-12 months.",
+      "D": "High-dose pulse methylprednisolone followed by oral prednisone."
+    },
+    "correctAnswer": "B",
+    "topic": "Corticosteroids in Pulmonary Disease",
+    "deepDiveExplanation": "The patient's presentation is consistent with systemic sclerosis-associated interstitial lung disease (SSc-ILD), characterized by the history of systemic sclerosis, specific HRCT findings, restrictive PFTs, and disproportionately low DLCO. According to the provided context, while 'corticosteroids and cyclophosphamide previously being the agents of choice,' the 'Scleroderma Lung Study II' showed that 'treatment with mycophenolate mofetil for 24 months was associated with significant improvement in FVC percent predicted,' and its 'tolerability and safety profile is superior.' Therefore, mycophenolate mofetil is considered the most appropriate initial pharmacological treatment among the options provided. Options A and D involve corticosteroids, which, while historically used, are not the current preferred first-line due to the superiority of mycophenolate mofetil in terms of efficacy and safety profile for chronic SSc-ILD. High-dose steroids (D) are typically reserved for acute exacerbations or very rapidly progressive disease. Cyclophosphamide (C) was also a previous agent of choice but has been superseded by mycophenolate mofetil.",
+    "highYieldPearl": "Rio's Take: For Scleroderma-associated ILD, mycophenolate mofetil is the preferred first-line immunosuppressant due to its superior efficacy, tolerability, and safety profile compared to corticosteroids and cyclophosphamide, which were historically used.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a trap because corticosteroids were previously considered a mainstay. However, the provided context clearly states that mycophenolate mofetil is now superior in terms of efficacy and safety for SSc-ILD, making corticosteroids a less preferred initial option. The dose of 1 mg/kg/day is also relatively high for initial chronic management without an acute exacerbation.",
+      "B": "This is the correct answer. The text explicitly states that mycophenolate mofetil showed 'significant improvement in FVC percent predicted' and has a 'superior' tolerability and safety profile, positioning it as the preferred initial immunosuppressive treatment for SSc-ILD.",
+      "C": "Intravenous cyclophosphamide, like corticosteroids, was previously an agent of choice for SSc-ILD but has largely been replaced by mycophenolate mofetil due to the latter's superior profile.",
+      "D": "High-dose pulse methylprednisolone followed by oral prednisone represents an aggressive corticosteroid regimen. While steroids might have a role in severe or acutely worsening SSc-ILD, this is not the standard initial treatment for chronic, gradually progressing disease as described in the vignette, especially given the superior alternatives like mycophenolate mofetil."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_2cd471e8",
+    "question": "Regarding Smoking-Related Interstitial Lung Diseases (SR-ILDs) like DIP and RBILD, all of the following statements are true EXCEPT:",
+    "options": {
+      "A": "Pigmented macrophages containing iron, glassy eosinophilic cytoplasm, and fine granular yellow-brown pigment are characteristic pathological findings.",
+      "B": "Smoking cessation is the most crucial intervention and is associated with a more favorable prognosis compared to Idiopathic Pulmonary Fibrosis (IPF).",
+      "C": "A mixed PFT pattern may be observed in RBILD due to its bronchiolocentric nature, in addition to a typical restrictive pattern with reduced DLCO.",
+      "D": "While corticosteroids are a common treatment, macrolides are consistently recommended as first-line steroid-sparing agents for progressive forms of DIP."
+    },
+    "correctAnswer": "D",
+    "topic": "Smoking Cessation",
+    "deepDiveExplanation": "Smoking cessation is the cornerstone of management for Smoking-Related Interstitial Lung Diseases (SR-ILDs) such as Desquamative Interstitial Pneumonia (DIP) and Respiratory Bronchiolitis-associated Interstitial Lung Disease (RBILD), leading to a favorable prognosis compared to Idiopathic Pulmonary Fibrosis (IPF). Histopathologically, these conditions are characterized by the accumulation of pigmented (smoker's) macrophages. Physiologically, a restrictive pattern with reduced DLCO is common, but a mixed pattern can be seen in RBILD due to its bronchiolocentric nature. Corticosteroids (e.g., 40-60 mg/day prednisone for 6 weeks, then tapered) are used as pharmacotherapy. Macrolides are mentioned as 'steroid-sparing therapies' for DIP, but the provided text does not support them being 'consistently recommended as first-line steroid-sparing agents'. Their role is less established or primary than smoking cessation and corticosteroids.",
+    "highYieldPearl": "Rio's Take: For smoking-related ILDs, think SCALP: Smoking Cessation is primary, Steroids are common, Macrolides/Aza are steroid-sparing (but not first-line), and Prognosis is favorable (compared to IPF).",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This option is a direct recall from the 'Pathology' section, describing the characteristic 'smokers macrophage'. It is a true statement.",
+      "B": "This accurately reflects the 'Clinical course' section which states 'Favourable prognosis compared to IPF' and 'Rx : Smoking cessation'. It is a true statement.",
+      "C": "The 'PFT' section explicitly mentions 'Mixed pattern may be seen due to bronchiolocentric nature', making this a true statement.",
+      "D": "This is the incorrect statement. While 'Macrolide , steroid sparing therapies (DIP)' is mentioned, it does not state they are 'consistently recommended as first-line steroid-sparing agents'. This exaggerates their established role compared to smoking cessation and corticosteroids."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_a204d4d3",
+    "question": "A 60-year-old retired coal miner presents with severe dyspnea and chronic cough. He has a 40-pack-year smoking history. HRCT shows centrilobular emphysema and multiple large, well-defined nodules up to 30mm, without a prominent background of smaller opacities. Which of the following statements is most accurate regarding his condition and its management?",
+    "options": {
+      "A": "His emphysema is primarily attributable to coal dust exposure, with his significant smoking history having only a minimal additive effect.",
+      "B": "The large, well-defined nodules are characteristic of Rapidly Progressive Pneumoconiosis, and often necessitate surgical biopsy for definitive diagnosis to rule out malignancy.",
+      "C": "Historically, coal mine dust exposure was not unequivocally believed to be associated with lung cancer, but recent evidence suggests a causal link, making smoking cessation an even more critical intervention.",
+      "D": "Whole-lung lavage is a routinely advocated treatment strategy for coal mine dust lung disease, as it consistently demonstrates a favorable impact on disease progression by removing dust and inflammatory mediators."
+    },
+    "correctAnswer": "C",
+    "topic": "Smoking Cessation",
+    "deepDiveExplanation": "The patient's presentation with centrilobular emphysema and large, well-defined nodules in a coal miner with rheumatoid arthritis suggests Caplan's syndrome (Rheumatoid Pneumoconiosis). Coal mine dust is an important cause of emphysema, but smoking has an 'additive' effect, not a minimal one. Historically, coal mine dust exposure was not believed to be associated with lung cancer, but recent evidence suggests a causal link, which elevates the importance of smoking cessation. Whole-lung lavage has been advocated but lacks sufficient evidence for routine treatment and a clear impact on progression. Management focuses on preventing progression, including smoking cessation, bronchodilators for COPD, and supportive care.",
+    "highYieldPearl": "Rio's Take: In CMLD, smoking cessation is vital due to its additive effect on COPD and recent evidence suggesting a link to lung cancer. Be cautious of treatments lacking strong evidence, like routine whole-lung lavage.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "The text states 'Smoking is additive to that of coal mine dust exposure' and 'Coal mine dust is also an important cause of emphysema'. Attributing emphysema *primarily* to coal dust while stating smoking has *minimal* additive effect is incorrect, as smoking's effect is significant and additive.",
+      "B": "The description of large, well-defined nodules is characteristic of Caplan's syndrome ('Rheumatoid Pneumoconiosis'), not specifically 'Rapidly Progressive Pneumoconiosis'. While surgical biopsy may be considered for diagnostic uncertainty or concern for neoplasm, it is not 'often necessitated' for these characteristic nodules in a known context.",
+      "C": "The text explicitly states 'Historically, coal mine dust exposure was not believed to be associated with lung cancer' but then 'Recent evidence => Causes lung Cancer'. This, combined with 'Smoking cessation' being a recommended treatment for CMLD, makes this statement accurate and integrates recent knowledge.",
+      "D": "The text states 'whole-lung lavage has been advocated... but there is insufficient evidence to support routine treatment' and 'a favorable impact on progression... has not been clearly demonstrated'. Thus, claiming it is 'routinely advocated' and 'consistently demonstrates a favorable impact' is incorrect."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_99d18d3b",
+    "question": "A long-term smoker with a history of COPD is diagnosed with newly developed Obstructive Sleep Apnea (OSA). Effective smoking cessation and OSA management are critical due to their interconnected roles in systemic pathophysiology. Based on the provided diagram detailing the relationship between COPD, OSA, and cardiovascular disease, which of the following statements best describes a downstream consequence mediated by shared pathways?",
+    "options": {
+      "A": "Both COPD and OSA independently contribute to increased TNF-α and IL-8 levels, leading directly to atherosclerotic plaque formation.",
+      "B": "Cigarette smoking and adipose tissue primarily drive local pulmonary inflammation, which then secondarily induces systemic hypoxia.",
+      "C": "Hypoxia and oxidative stress, driven by both conditions, are central in promoting endothelial dysfunction, a critical precursor to atherosclerotic plaques and cardiovascular disease.",
+      "D": "The primary mechanism linking COPD, OSA, and cardiovascular disease is the direct upregulation of CRP and IL-6 by cigarette smoking alone."
+    },
+    "correctAnswer": "C",
+    "topic": "Smoking Cessation",
+    "deepDiveExplanation": "The diagram illustrates a complex interplay. COPD and OSA are interconnected and both contribute to hypoxia, oxidative stress, and inflammatory mediators (TNF-α, IL-8, CRP, IL-6). Hypoxia itself further contributes to oxidative stress and inflammatory mediators. The diagram clearly shows that oxidative stress, TNF-α, IL-8, CRP, and IL-6 all converge to promote endothelial dysfunction, which then leads to atherosclerotic plaques and ultimately cardiovascular disease. Therefore, hypoxia and oxidative stress are central early mediators in this cascade. Smoking cessation addresses the root cause (cigarette smoking) which contributes to both COPD and OSA.",
+    "highYieldPearl": "Rio's Take: The systemic effects of smoking-related conditions like COPD and OSA are often mediated by shared pathways of hypoxia, oxidative stress, and inflammation, culminating in endothelial dysfunction and cardiovascular disease.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "The diagram shows that TNF-α and IL-8 contribute to Endothelial Dysfunction, which *then* leads to Atherosclerotic Plaques. It's not a 'direct' lead to plaque formation, making this statement inaccurate.",
+      "B": "The diagram shows cigarette smoking and adipose tissue contributing to COPD and OSA. COPD and OSA then lead to hypoxia. While local pulmonary inflammation is part of COPD, the diagram emphasizes the role of COPD/OSA in driving *hypoxia* and systemic inflammatory/oxidative stress pathways. The statement's phrasing ('primarily drive local pulmonary inflammation, which then secondarily induces systemic hypoxia') is an oversimplification and not the most direct or complete representation of the diagram's pathways.",
+      "C": "The diagram explicitly shows COPD and OSA leading to Hypoxia and Oxidative Stress. Hypoxia also exacerbates Oxidative Stress. Both Oxidative Stress and the inflammation resulting from these conditions (TNF-α, IL-8, CRP, IL-6) converge to cause Endothelial Dysfunction, which is directly linked to Atherosclerotic Plaques and Cardiovascular Disease. This accurately captures the central role of hypoxia and oxidative stress in the depicted cascade.",
+      "D": "The diagram shows CRP and IL-6 being upregulated by COPD, OSA, and Hypoxia, not 'directly' by cigarette smoking 'alone'. Cigarette smoking contributes to COPD and OSA, which then contribute to CRP/IL-6. Furthermore, stating this is the 'primary mechanism' oversimplifies the multi-factorial pathway involving hypoxia and oxidative stress, making this statement incorrect."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_755d2db0",
+    "question": "A 50-year-old male, 30 pack-year smoker, presents with progressive dyspnea and dry cough. HRCT chest shows predominant peripheral ground-glass opacities with some reticular markings. Bronchoscopy with transbronchial biopsy reveals diffuse accumulation of pigmented macrophages within alveolar spaces and peribronchiolar regions, consistent with Desquamative Interstitial Pneumonia (DIP). The patient successfully commits to smoking cessation. Which of the following statements regarding his subsequent management and prognosis is most accurate?",
+    "options": {
+      "A": "The disease typically has a prognosis comparable to Idiopathic Pulmonary Fibrosis (IPF) even with smoking cessation, necessitating early consideration of lung transplantation.",
+      "B": "Corticosteroid therapy is contraindicated if the patient achieves complete smoking cessation, as it offers no additional benefit.",
+      "C": "Complete radiological resolution of ground-glass opacities and normalization of PFTs are universally expected within 6 months of smoking cessation.",
+      "D": "Despite successful smoking cessation, a trial of systemic corticosteroids is often indicated, and additional therapies like macrolides or steroid-sparing agents may be considered for progressive forms."
+    },
+    "correctAnswer": "D",
+    "topic": "Smoking Cessation",
+    "deepDiveExplanation": "Desquamative Interstitial Pneumonia (DIP) is a smoking-related interstitial lung disease. Smoking cessation is the cornerstone of its management and significantly impacts prognosis. While DIP generally has a more favorable prognosis compared to Idiopathic Pulmonary Fibrosis (IPF), it can still be progressive. Corticosteroids are a standard part of DIP treatment, often initiated even after smoking cessation, especially if symptoms are significant or disease is progressive. The text mentions a steroid course (40-60 mg/day for 6 weeks, then tapered for 6-9 months). Furthermore, for patients with progressive DIP despite initial measures, or those who are steroid-sparing, therapies like macrolides or other immunosuppressants may be considered. Complete and universal resolution of radiological findings or PFT abnormalities is not guaranteed solely by cessation, and some patients require ongoing medical therapy.",
+    "highYieldPearl": "Rio's Take: While smoking cessation is the most critical intervention for DIP, it is not always curative on its own. Systemic corticosteroids are often prescribed, and for progressive cases, steroid-sparing agents or macrolides are viable options. DIP's prognosis is generally better than IPF.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Incorrect. The provided context explicitly states that DIP has a 'Favourable prognosis compared to IPF'. Early lung transplantation is not typically the initial step, given the better prognosis and response to other treatments.",
+      "B": "Incorrect. While smoking cessation is paramount, corticosteroids are a well-established treatment for DIP, especially in symptomatic or progressive cases. The text lists 'Steroid' as a key part of the treatment regimen alongside smoking cessation.",
+      "C": "Incorrect. 'Universally expected' is a strong, definitive statement that is rarely true in medicine. While improvement is common, complete resolution without corticosteroids or for all patients is not guaranteed, and some may have progressive disease despite cessation.",
+      "D": "Correct. This statement accurately reflects the comprehensive management approach for DIP. Smoking cessation is essential, but corticosteroids are frequently used, and if progression continues or in steroid-sparing situations, macrolides and other agents are considered, as outlined in the provided text."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_58a81cc6",
+    "question": "A 60-year-old retired coal miner, with a 40-pack-year smoking history, presents with progressive dyspnea and chronic cough. He is diagnosed with Coal Mine Dust Lung Disease (CMLD) with centrilobular emphysema and a mild obstructive ventilatory defect. He commits to complete smoking cessation. Which of the following statements most accurately describes the expected impact of this intervention on his lung health?",
+    "options": {
+      "A": "Successful smoking cessation primarily prevents the development of Progressive Massive Fibrosis (PMF) but offers no significant benefit in reducing the progression of his emphysema.",
+      "B": "The benefits of smoking cessation are largely outweighed by the irreversible damage already caused by long-term coal dust exposure, making symptomatic treatment with bronchodilators the only effective strategy.",
+      "C": "Smoking cessation is expected to significantly mitigate the accelerated decline in FEV1 and reduce the progression of emphysema, as smoking's effects are additive to coal dust exposure in COPD development.",
+      "D": "While reducing the risk of lung cancer, smoking cessation has minimal impact on the natural history of centrilobular emphysema, which is predominantly driven by occupational dust exposure."
+    },
+    "correctAnswer": "C",
+    "topic": "Smoking Cessation",
+    "deepDiveExplanation": "The provided text explicitly states that 'Smoking is additive to that of coal mine dust exposure' in the development of COPD and emphysema, and 'Emphysema severity scores are strongly associated with increased lung dust content.' This indicates a synergistic effect between smoking and coal dust in damaging the lungs. Therefore, successful smoking cessation in a patient with CMLD and COPD is crucial. It will significantly slow down the accelerated decline in lung function and reduce the progression of emphysema, which would otherwise be exacerbated by continued smoking. While coal dust contributes to emphysema, smoking significantly compounds this damage. Bronchodilators manage symptoms, but cessation addresses a primary driver of disease progression.",
+    "highYieldPearl": "Rio's Take: In occupational lung diseases like CMLD, smoking cessation is vital. Smoking has an additive and synergistic effect with occupational dusts in causing and accelerating lung damage, particularly COPD and emphysema. Cessation provides substantial benefits in slowing disease progression, even if some damage is irreversible.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Incorrect. While smoking cessation is generally beneficial, the primary intervention to prevent PMF (a severe form of CWP) is avoiding further dust exposure. More importantly, this option incorrectly states that cessation offers 'no significant benefit' to emphysema progression, which contradicts the 'additive' effect mentioned in the context.",
+      "B": "Incorrect. This understates the profound benefits of smoking cessation. Even in the presence of established disease and irreversible damage, cessation significantly slows disease progression, improves quality of life, and reduces mortality, especially for the COPD component.",
+      "C": "Correct. This statement aligns directly with the provided context, which highlights the 'additive' nature of smoking to coal mine dust exposure in causing COPD and emphysema. Cessation removes this additive factor, thereby mitigating accelerated lung function decline and emphysema progression.",
+      "D": "Incorrect. This contradicts the 'additive' effect described. Smoking has a significant, not minimal, impact on the natural history of emphysema, even when occupational exposure is a factor. While cessation does reduce lung cancer risk (a well-known effect of smoking), its impact on emphysema progression in this scenario is substantial, not minimal."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_mv_asthma_copd_7835eae2",
+    "question": "A 65-year-old male, a 50-pack-year smoker, has chronic obstructive pulmonary disease (COPD) and newly diagnosed moderate obstructive sleep apnea (OSA). He has a history of hypertension and is at high risk for cardiovascular disease. He successfully quits smoking as part of a comprehensive cessation program. Based on the understanding of the systemic effects of smoking, which of the following is the MOST significant systemic benefit anticipated from his smoking cessation?",
+    "options": {
+      "A": "Immediate and complete normalization of his systemic inflammatory markers (e.g., CRP, IL-6), eliminating the need for further cardiovascular risk stratification.",
+      "B": "Direct regression of existing atherosclerotic plaques, making antiplatelet and statin therapy unnecessary within 1-2 years.",
+      "C": "Substantial reduction in hypoxia-induced oxidative stress and systemic inflammation, thereby significantly lowering his long-term risk of adverse cardiovascular events.",
+      "D": "Primary resolution of his obstructive sleep apnea symptoms and normalization of AHI, negating the need for positive airway pressure therapy."
+    },
+    "correctAnswer": "C",
+    "topic": "Smoking Cessation",
+    "deepDiveExplanation": "The provided diagram illustrates a clear pathway: Cigarette smoking contributes to COPD and OSA, both of which lead to hypoxia, oxidative stress, and systemic inflammation (TNF-α, IL-8, CRP, IL-6). These factors, in turn, contribute to endothelial dysfunction, atherosclerotic plaque formation, and ultimately, cardiovascular disease. Smoking cessation interrupts this cascade at its origin. By removing the primary trigger, cessation significantly reduces the chronic hypoxia, oxidative stress, and systemic inflammation, which are key drivers of cardiovascular morbidity and mortality. This translates to a substantial long-term reduction in the risk of myocardial infarction, stroke, and other cardiovascular events, making it the most significant systemic benefit.",
+    "highYieldPearl": "Rio's Take: Smoking cessation is a powerful intervention for systemic health, especially cardiovascular risk. It acts by reducing chronic inflammation, oxidative stress, and improving endothelial function, thereby mitigating the progression of atherosclerosis and related cardiovascular events, a critical link highlighted in the provided diagram.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Incorrect. While inflammatory markers (CRP, IL-6) tend to improve after smoking cessation, 'immediate and complete normalization' is an overstatement. Cardiovascular risk stratification remains important, as other risk factors (hypertension, dyslipidemia) persist.",
+      "B": "Incorrect. Smoking cessation significantly reduces the progression of atherosclerosis and the risk of new events, but it rarely causes 'direct regression' of established plaques to the extent that antiplatelet and statin therapies become 'unnecessary' within a short timeframe. These medications address ongoing risk factors.",
+      "C": "Correct. This option directly aligns with the comprehensive pathophysiological cascade presented in the diagram. Smoking cessation effectively addresses the underlying hypoxia-induced oxidative stress and systemic inflammation (TNF-α, IL-8, CRP, IL-6) that link COPD/OSA to endothelial dysfunction, atherosclerosis, and cardiovascular disease.",
+      "D": "Incorrect. While smoking can exacerbate OSA, cessation alone is unlikely to lead to 'primary resolution' and normalization of AHI, especially in moderate OSA, without addressing other significant factors like obesity (as indicated by 'Adipose Tissue' contributing to OSA in the diagram). Positive airway pressure therapy might still be indicated."
+    },
+    "sourceLocation": {
+      "bookName": "102.Recent advances in ARDS (1)",
+      "chapter": "APRV: AIRWAY PRESSURE RELEASE VENTILATION",
+      "section": "IRV :- Inverse Ratio Ventilation",
+      "pageNumber": 24
+    },
+    "bookId": "102.Recent advances in ARDS (1)",
+    "chunkId": "102.Recent advances in ARDS_OCR_Complete (1)_chunk_010",
+    "generatedAt": 1767060988510,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "The most accurate method to measure auto-PEEP during passive mechanical ventilation is via:",
+    "options": {
+      "A": "Inspiratory hold maneuver",
+      "B": "End-expiratory hold maneuver",
+      "C": "Esophageal pressure measurement",
+      "D": "Flow-volume loop analysis"
+    },
+    "correctAnswer": "B",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "Auto-PEEP (intrinsic PEEP) is generated when expiration is incomplete, leading to gas trapping. An end-expiratory hold maneuver stops flow, allowing pressure to equilibrate throughout the circuit and lungs, revealing the total PEEP (extrinsic + auto-PEEP). If extrinsic PEEP is zero, the measured pressure is auto-PEEP.",
+    "highYieldPearl": "Auto-PEEP increases work of breathing, can trigger barotrauma, and makes patient-ventilator synchrony difficult. It's crucial to identify and manage it.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Inspiratory hold measures plateau pressure. Esophageal pressure measures pleural pressure. Flow-volume loops suggest auto-PEEP but don't quantify it directly.",
+    "isOneLiner": true,
+    "id": "one_liner_mv_asthma_copd_psheevcl"
+  },
+  {
+    "question": "The primary objective of permissive hypercapnia strategy in mechanically ventilated severe asthma is to:",
+    "options": {
+      "A": "Improve oxygenation",
+      "B": "Reduce airway pressures and barotrauma",
+      "C": "Decrease respiratory drive",
+      "D": "Enhance bronchodilation"
+    },
+    "correctAnswer": "B",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "Permissive hypercapnia involves tolerating elevated PaCO2 (e.g., up to 60-80 mmHg) and corresponding acidosis (pH > 7.15-7.20) to allow for lower tidal volumes and respiratory rates. This reduces peak/plateau airway pressures and intrinsic PEEP, protecting lungs from ventilator-induced lung injury (VILI) and barotrauma.",
+    "highYieldPearl": "The goal is lung protection, not necessarily normalizing blood gases. The priority is to minimize dynamic hyperinflation and barotrauma risk.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While some CO2 may have mild bronchodilator effects, it's not the primary goal. Decreasing respiratory drive is a consequence, not the primary objective. Improving oxygenation is not the goal, as permissive hypercapnia implies allowing higher PaCO2.",
+    "isOneLiner": true,
+    "id": "one_liner_mv_asthma_copd_6dlz0m4d"
+  },
+  {
+    "question": "To mitigate dynamic hyperinflation in mechanically ventilated AECOPD, the primary ventilator adjustment involves:",
+    "options": {
+      "A": "Increasing tidal volume",
+      "B": "Decreasing inspiratory time",
+      "C": "Increasing respiratory rate",
+      "D": "Prolonging expiratory time"
+    },
+    "correctAnswer": "D",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "Dynamic hyperinflation occurs when expiratory time is insufficient for complete exhalation, leading to progressive air trapping. Prolonging expiratory time (by reducing respiratory rate or reducing I:E ratio) allows more time for gas to exit the lungs, reducing trapped volume and auto-PEEP.",
+    "highYieldPearl": "Prioritize sufficient expiratory time over achieving normal minute ventilation in severe obstructive disease. An I:E ratio of 1:3 or 1:4 is often targeted.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Increasing tidal volume or respiratory rate would worsen hyperinflation. Decreasing inspiratory time can indirectly prolong expiratory time, but directly prolonging expiratory time is the most effective adjustment.",
+    "isOneLiner": true,
+    "id": "one_liner_mv_asthma_copd_347zy4cb"
+  },
+  {
+    "question": "The strongest indication for Non-Invasive Ventilation (NIV) in acute exacerbation of COPD is:",
+    "options": {
+      "A": "Mild hypoxemia without hypercapnia",
+      "B": "Hypercapnic respiratory failure with acidosis",
+      "C": "Prophylaxis post-extubation in stable patients",
+      "D": "Acute cardiogenic pulmonary edema"
+    },
+    "correctAnswer": "B",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "Numerous randomized controlled trials have shown that NIV significantly reduces the need for intubation, hospital mortality, and length of hospital stay in patients with hypercapnic respiratory failure due to AECOPD (pH < 7.35, PaCO2 > 45 mmHg). It improves gas exchange and reduces work of breathing.",
+    "highYieldPearl": "NIV is a first-line therapy for moderate to severe AECOPD with hypercapnic respiratory failure, especially when accompanied by respiratory acidosis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While NIV can be used post-extubation, it's not the *strongest* indication for AECOPD. Acute cardiogenic pulmonary edema is another strong indication for NIV, but the question specifies AECOPD.",
+    "isOneLiner": true,
+    "id": "one_liner_mv_asthma_copd_etk0z86k"
+  },
+  {
+    "question": "Heliox improves ventilation in severe acute asthma primarily by:",
+    "options": {
+      "A": "Reducing airway inflammation",
+      "B": "Increasing oxygen carrying capacity",
+      "C": "Decreasing gas density",
+      "D": "Potentiating bronchodilators"
+    },
+    "correctAnswer": "C",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "Heliox (a mixture of helium and oxygen) has a much lower density than air or oxygen. This reduced density leads to a decrease in airway resistance, particularly in turbulent flow, which is prominent in narrowed airways during severe asthma. This allows for more laminar flow, improved gas delivery, and reduced work of breathing.",
+    "highYieldPearl": "Heliox is typically used as a bridge therapy for severe, refractory asthma exacerbations, not a definitive treatment, to buy time for other therapies to work.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Heliox does not directly reduce inflammation or increase oxygen carrying capacity. While it can improve delivery of nebulized bronchodilators, its primary mechanism is distinct.",
+    "isOneLiner": true,
+    "id": "one_liner_mv_asthma_copd_ei3az48z"
+  },
+  {
+    "question": "In mechanically ventilated obstructive lung disease, driving pressure primarily reflects:",
+    "options": {
+      "A": "Airway resistance",
+      "B": "Static lung compliance",
+      "C": "Intrinsic PEEP",
+      "D": "Tidal volume"
+    },
+    "correctAnswer": "B",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "Driving pressure (Plateau Pressure - Total PEEP) is essentially the tidal volume divided by the static compliance of the respiratory system (Vt/Crs). It represents the pressure gradient required to inflate the lung from its end-expiratory volume to its end-inspiratory volume, reflecting lung stress.",
+    "highYieldPearl": "Limiting driving pressure (<15 cmH2O) is a key lung-protective ventilation strategy, as it is a strong predictor of mortality, especially in ARDS.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While airway resistance is high in obstructive disease, driving pressure does not directly measure it. Intrinsic PEEP contributes to total PEEP, but driving pressure itself reflects the pressure needed to deliver tidal volume against the elastic recoil.",
+    "isOneLiner": true,
+    "id": "one_liner_mv_asthma_copd_o3rx6ixu"
+  },
+  {
+    "question": "A crucial predictor for successful weaning from mechanical ventilation in COPD patients is:",
+    "options": {
+      "A": "High PaO2/FiO2 ratio",
+      "B": "Low Rapid Shallow Breathing Index (RSBI)",
+      "C": "Normal chest X-ray",
+      "D": "Absence of fever"
+    },
+    "correctAnswer": "B",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "RSBI (Respiratory Rate / Tidal Volume in Liters) reflects the efficiency of breathing. A low RSBI (<105 breaths/min/L) indicates that the patient can maintain adequate minute ventilation with a relatively low respiratory rate and good tidal volume, suggesting sufficient respiratory muscle strength and endurance for spontaneous breathing.",
+    "highYieldPearl": "RSBI is a cornerstone of weaning assessment, often used in conjunction with other criteria during a Spontaneous Breathing Trial (SBT).",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While good oxygenation (high PaO2/FiO2), clear CXR, and absence of fever are general indicators of readiness for weaning, RSBI is a highly specific and validated predictor of extubation success.",
+    "isOneLiner": true,
+    "id": "one_liner_mv_asthma_copd_xc6jysad"
+  },
+  {
+    "question": "Compared to conventional oxygen, High-Flow Nasal Cannula in mild AECOPD primarily offers:",
+    "options": {
+      "A": "Superior CO2 clearance",
+      "B": "Better bronchodilation",
+      "C": "Reduced work of breathing",
+      "D": "Lower risk of aspiration"
+    },
+    "correctAnswer": "C",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "HFNC delivers heated and humidified oxygen at high flow rates. This washes out nasopharyngeal dead space (reducing rebreathing of CO2), generates a small amount of positive end-expiratory pressure (PEEP), improves oxygenation, and significantly reduces the work of breathing by providing a stable, high-flow gas source that matches or exceeds inspiratory demand.",
+    "highYieldPearl": "HFNC is increasingly used in AECOPD as an alternative or bridge therapy, especially for patients who might not tolerate NIV or with milder respiratory failure.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While HFNC can provide some CO2 washout, its effect on overall CO2 clearance is less pronounced than NIV. It doesn't directly cause bronchodilation. Lower aspiration risk is a benefit of non-invasive support over intubation, but not a primary advantage of HFNC over conventional oxygen delivery.",
+    "isOneLiner": true,
+    "id": "one_liner_mv_asthma_copd_euos7fuv"
+  },
+  {
+    "question": "The most effective ventilator strategy to reduce dynamic hyperinflation in severe acute asthma is:",
+    "options": {
+      "A": "Increasing peak inspiratory flow",
+      "B": "Decreasing respiratory rate",
+      "C": "Increasing tidal volume",
+      "D": "Applying external PEEP"
+    },
+    "correctAnswer": "B",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "Dynamic hyperinflation is a hallmark of severe asthma, leading to increased intrathoracic pressure and increased work of breathing. The most direct way to combat this is to allow more time for exhalation. Decreasing the respiratory rate directly lengthens the expiratory time, facilitating more complete emptying of the lungs and reducing trapped gas volume and auto-PEEP.",
+    "highYieldPearl": "Prioritizing a long expiratory time (e.g., I:E ratio of 1:3 or 1:4) is critical in managing severe asthma on mechanical ventilation, often at the expense of normocapnia.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Increasing tidal volume or respiratory rate would worsen hyperinflation. Increasing peak inspiratory flow shortens inspiratory time, which *can* indirectly lengthen expiratory time, but directly decreasing respiratory rate has a more substantial impact on extending the expiratory phase.",
+    "isOneLiner": true,
+    "id": "one_liner_mv_asthma_copd_4esgfhlr"
+  },
+  {
+    "question": "In mechanically ventilated COPD patients with significant auto-PEEP, applying appropriate extrinsic PEEP can primarily:",
+    "options": {
+      "A": "Increase barotrauma risk",
+      "B": "Worsen air trapping",
+      "C": "Reduce patient work of breathing",
+      "D": "Decrease oxygenation"
+    },
+    "correctAnswer": "C",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "When auto-PEEP is present, the patient must generate significant negative inspiratory pressure to overcome this intrinsic pressure before a breath can be triggered. Applying extrinsic PEEP that is slightly less than the auto-PEEP (e.g., 80-90% of auto-PEEP) can 'balance' this threshold, reducing the inspiratory effort required by the patient and thereby decreasing the work of breathing without significantly worsening hyperinflation.",
+    "highYieldPearl": "Careful titration of extrinsic PEEP is crucial; too much can worsen hyperinflation, while an appropriate amount can improve patient comfort, ventilator synchrony, and reduce work of breathing.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "If the applied extrinsic PEEP is less than or equal to the auto-PEEP, it generally does not worsen air trapping or significantly increase barotrauma. It typically improves oxygenation, not decreases it.",
+    "isOneLiner": true,
+    "id": "one_liner_mv_asthma_copd_4ee0lrnn"
+  },
+  {
+    "question": "The most accurate method to measure auto-PEEP during passive mechanical ventilation is via:",
+    "options": {
+      "A": "Inspiratory hold maneuver",
+      "B": "End-expiratory hold maneuver",
+      "C": "Esophageal pressure measurement",
+      "D": "Flow-volume loop analysis"
+    },
+    "correctAnswer": "B",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "Auto-PEEP (intrinsic PEEP) is generated when expiration is incomplete, leading to gas trapping. An end-expiratory hold maneuver stops flow, allowing pressure to equilibrate throughout the circuit and lungs, revealing the total PEEP (extrinsic + auto-PEEP). If extrinsic PEEP is zero, the measured pressure is auto-PEEP.",
+    "highYieldPearl": "Auto-PEEP increases work of breathing, can trigger barotrauma, and makes patient-ventilator synchrony difficult. It's crucial to identify and manage it.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Inspiratory hold measures plateau pressure. Esophageal pressure measures pleural pressure. Flow-volume loops suggest auto-PEEP but don't quantify it directly.",
+    "isOneLiner": true,
+    "id": "one_liner_mv_asthma_copd_42wd0sw1"
+  },
+  {
+    "question": "The primary objective of permissive hypercapnia strategy in mechanically ventilated severe asthma is to:",
+    "options": {
+      "A": "Improve oxygenation",
+      "B": "Reduce airway pressures and barotrauma",
+      "C": "Decrease respiratory drive",
+      "D": "Enhance bronchodilation"
+    },
+    "correctAnswer": "B",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "Permissive hypercapnia involves tolerating elevated PaCO2 (e.g., up to 60-80 mmHg) and corresponding acidosis (pH > 7.15-7.20) to allow for lower tidal volumes and respiratory rates. This reduces peak/plateau airway pressures and intrinsic PEEP, protecting lungs from ventilator-induced lung injury (VILI) and barotrauma.",
+    "highYieldPearl": "The goal is lung protection, not necessarily normalizing blood gases. The priority is to minimize dynamic hyperinflation and barotrauma risk.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While some CO2 may have mild bronchodilator effects, it's not the primary goal. Decreasing respiratory drive is a consequence, not the primary objective. Improving oxygenation is not the goal, as permissive hypercapnia implies allowing higher PaCO2.",
+    "isOneLiner": true,
+    "id": "one_liner_mv_asthma_copd_a5sxkf8f"
+  },
+  {
+    "question": "To mitigate dynamic hyperinflation in mechanically ventilated AECOPD, the primary ventilator adjustment involves:",
+    "options": {
+      "A": "Increasing tidal volume",
+      "B": "Decreasing inspiratory time",
+      "C": "Increasing respiratory rate",
+      "D": "Prolonging expiratory time"
+    },
+    "correctAnswer": "D",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "Dynamic hyperinflation occurs when expiratory time is insufficient for complete exhalation, leading to progressive air trapping. Prolonging expiratory time (by reducing respiratory rate or reducing I:E ratio) allows more time for gas to exit the lungs, reducing trapped volume and auto-PEEP.",
+    "highYieldPearl": "Prioritize sufficient expiratory time over achieving normal minute ventilation in severe obstructive disease. An I:E ratio of 1:3 or 1:4 is often targeted.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Increasing tidal volume or respiratory rate would worsen hyperinflation. Decreasing inspiratory time can indirectly prolong expiratory time, but directly prolonging expiratory time is the most effective adjustment.",
+    "isOneLiner": true,
+    "id": "one_liner_mv_asthma_copd_snxrxqq7"
+  },
+  {
+    "question": "The strongest indication for Non-Invasive Ventilation (NIV) in acute exacerbation of COPD is:",
+    "options": {
+      "A": "Mild hypoxemia without hypercapnia",
+      "B": "Hypercapnic respiratory failure with acidosis",
+      "C": "Prophylaxis post-extubation in stable patients",
+      "D": "Acute cardiogenic pulmonary edema"
+    },
+    "correctAnswer": "B",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "Numerous randomized controlled trials have shown that NIV significantly reduces the need for intubation, hospital mortality, and length of hospital stay in patients with hypercapnic respiratory failure due to AECOPD (pH < 7.35, PaCO2 > 45 mmHg). It improves gas exchange and reduces work of breathing.",
+    "highYieldPearl": "NIV is a first-line therapy for moderate to severe AECOPD with hypercapnic respiratory failure, especially when accompanied by respiratory acidosis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While NIV can be used post-extubation, it's not the *strongest* indication for AECOPD. Acute cardiogenic pulmonary edema is another strong indication for NIV, but the question specifies AECOPD.",
+    "isOneLiner": true,
+    "id": "one_liner_mv_asthma_copd_xjxbqswx"
+  },
+  {
+    "question": "Heliox improves ventilation in severe acute asthma primarily by:",
+    "options": {
+      "A": "Reducing airway inflammation",
+      "B": "Increasing oxygen carrying capacity",
+      "C": "Decreasing gas density",
+      "D": "Potentiating bronchodilators"
+    },
+    "correctAnswer": "C",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "Heliox (a mixture of helium and oxygen) has a much lower density than air or oxygen. This reduced density leads to a decrease in airway resistance, particularly in turbulent flow, which is prominent in narrowed airways during severe asthma. This allows for more laminar flow, improved gas delivery, and reduced work of breathing.",
+    "highYieldPearl": "Heliox is typically used as a bridge therapy for severe, refractory asthma exacerbations, not a definitive treatment, to buy time for other therapies to work.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Heliox does not directly reduce inflammation or increase oxygen carrying capacity. While it can improve delivery of nebulized bronchodilators, its primary mechanism is distinct.",
+    "isOneLiner": true,
+    "id": "one_liner_mv_asthma_copd_8xtimu30"
+  },
+  {
+    "question": "In mechanically ventilated obstructive lung disease, driving pressure primarily reflects:",
+    "options": {
+      "A": "Airway resistance",
+      "B": "Static lung compliance",
+      "C": "Intrinsic PEEP",
+      "D": "Tidal volume"
+    },
+    "correctAnswer": "B",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "Driving pressure (Plateau Pressure - Total PEEP) is essentially the tidal volume divided by the static compliance of the respiratory system (Vt/Crs). It represents the pressure gradient required to inflate the lung from its end-expiratory volume to its end-inspiratory volume, reflecting lung stress.",
+    "highYieldPearl": "Limiting driving pressure (<15 cmH2O) is a key lung-protective ventilation strategy, as it is a strong predictor of mortality, especially in ARDS.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While airway resistance is high in obstructive disease, driving pressure does not directly measure it. Intrinsic PEEP contributes to total PEEP, but driving pressure itself reflects the pressure needed to deliver tidal volume against the elastic recoil.",
+    "isOneLiner": true,
+    "id": "one_liner_mv_asthma_copd_kbkieo3y"
+  },
+  {
+    "question": "A crucial predictor for successful weaning from mechanical ventilation in COPD patients is:",
+    "options": {
+      "A": "High PaO2/FiO2 ratio",
+      "B": "Low Rapid Shallow Breathing Index (RSBI)",
+      "C": "Normal chest X-ray",
+      "D": "Absence of fever"
+    },
+    "correctAnswer": "B",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "RSBI (Respiratory Rate / Tidal Volume in Liters) reflects the efficiency of breathing. A low RSBI (<105 breaths/min/L) indicates that the patient can maintain adequate minute ventilation with a relatively low respiratory rate and good tidal volume, suggesting sufficient respiratory muscle strength and endurance for spontaneous breathing.",
+    "highYieldPearl": "RSBI is a cornerstone of weaning assessment, often used in conjunction with other criteria during a Spontaneous Breathing Trial (SBT).",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While good oxygenation (high PaO2/FiO2), clear CXR, and absence of fever are general indicators of readiness for weaning, RSBI is a highly specific and validated predictor of extubation success.",
+    "isOneLiner": true,
+    "id": "one_liner_mv_asthma_copd_jamfs3do"
+  },
+  {
+    "question": "Compared to conventional oxygen, High-Flow Nasal Cannula in mild AECOPD primarily offers:",
+    "options": {
+      "A": "Superior CO2 clearance",
+      "B": "Better bronchodilation",
+      "C": "Reduced work of breathing",
+      "D": "Lower risk of aspiration"
+    },
+    "correctAnswer": "C",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "HFNC delivers heated and humidified oxygen at high flow rates. This washes out nasopharyngeal dead space (reducing rebreathing of CO2), generates a small amount of positive end-expiratory pressure (PEEP), improves oxygenation, and significantly reduces the work of breathing by providing a stable, high-flow gas source that matches or exceeds inspiratory demand.",
+    "highYieldPearl": "HFNC is increasingly used in AECOPD as an alternative or bridge therapy, especially for patients who might not tolerate NIV or with milder respiratory failure.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While HFNC can provide some CO2 washout, its effect on overall CO2 clearance is less pronounced than NIV. It doesn't directly cause bronchodilation. Lower aspiration risk is a benefit of non-invasive support over intubation, but not a primary advantage of HFNC over conventional oxygen delivery.",
+    "isOneLiner": true,
+    "id": "one_liner_mv_asthma_copd_h1sk2oig"
+  },
+  {
+    "question": "The most effective ventilator strategy to reduce dynamic hyperinflation in severe acute asthma is:",
+    "options": {
+      "A": "Increasing peak inspiratory flow",
+      "B": "Decreasing respiratory rate",
+      "C": "Increasing tidal volume",
+      "D": "Applying external PEEP"
+    },
+    "correctAnswer": "B",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "Dynamic hyperinflation is a hallmark of severe asthma, leading to increased intrathoracic pressure and increased work of breathing. The most direct way to combat this is to allow more time for exhalation. Decreasing the respiratory rate directly lengthens the expiratory time, facilitating more complete emptying of the lungs and reducing trapped gas volume and auto-PEEP.",
+    "highYieldPearl": "Prioritizing a long expiratory time (e.g., I:E ratio of 1:3 or 1:4) is critical in managing severe asthma on mechanical ventilation, often at the expense of normocapnia.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Increasing tidal volume or respiratory rate would worsen hyperinflation. Increasing peak inspiratory flow shortens inspiratory time, which *can* indirectly lengthen expiratory time, but directly decreasing respiratory rate has a more substantial impact on extending the expiratory phase.",
+    "isOneLiner": true,
+    "id": "one_liner_mv_asthma_copd_hb4ccazh"
+  },
+  {
+    "question": "In mechanically ventilated COPD patients with significant auto-PEEP, applying appropriate extrinsic PEEP can primarily:",
+    "options": {
+      "A": "Increase barotrauma risk",
+      "B": "Worsen air trapping",
+      "C": "Reduce patient work of breathing",
+      "D": "Decrease oxygenation"
+    },
+    "correctAnswer": "C",
+    "topic": "mv_asthma_copd",
+    "deepDiveExplanation": "When auto-PEEP is present, the patient must generate significant negative inspiratory pressure to overcome this intrinsic pressure before a breath can be triggered. Applying extrinsic PEEP that is slightly less than the auto-PEEP (e.g., 80-90% of auto-PEEP) can 'balance' this threshold, reducing the inspiratory effort required by the patient and thereby decreasing the work of breathing without significantly worsening hyperinflation.",
+    "highYieldPearl": "Careful titration of extrinsic PEEP is crucial; too much can worsen hyperinflation, while an appropriate amount can improve patient comfort, ventilator synchrony, and reduce work of breathing.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "If the applied extrinsic PEEP is less than or equal to the auto-PEEP, it generally does not worsen air trapping or significantly increase barotrauma. It typically improves oxygenation, not decreases it.",
+    "isOneLiner": true,
+    "id": "one_liner_mv_asthma_copd_5d6tm9w0"
+  }
+]

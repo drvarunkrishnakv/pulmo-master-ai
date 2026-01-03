@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Which gas is typically utilized to measure the diffusing capacity of the lung for carbon monoxide (DLCO)?",
+    "options": {
+      "A": "Oxygen",
+      "B": "Carbon Dioxide",
+      "C": "Carbon Monoxide",
+      "D": "Nitric Oxide"
+    },
+    "correctAnswer": "C",
+    "topic": "dlco",
+    "deepDiveExplanation": "The DLCO test measures the transfer of carbon monoxide (CO) from the alveoli to the red blood cells. CO is used because of its high affinity for hemoglobin (approximately 210-250 times that of oxygen), ensuring that its uptake is primarily limited by diffusion across the alveolar-capillary membrane and the amount of hemoglobin available, rather than perfusion.",
+    "highYieldPearl": "CO's high hemoglobin affinity makes it an ideal tracer gas for assessing the functional integrity of the alveolar-capillary membrane and pulmonary capillary blood volume.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Distractors include other respiratory gases. The core concept is understanding why CO specifically is chosen for this measurement.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|dlco|Diffusing Capacity (DLCO)|10_q14fqm3o"
+  },
+  {
+    "question": "A common physiological factor directly causing a reduced DLCO, even in healthy lungs, is?",
+    "options": {
+      "A": "Polycythemia",
+      "B": "Pulmonary Hemorrhage",
+      "C": "Anemia",
+      "D": "Supine Body Position"
+    },
+    "correctAnswer": "C",
+    "topic": "dlco",
+    "deepDiveExplanation": "Anemia reduces the total amount of hemoglobin available in the pulmonary capillaries to bind with carbon monoxide. Since hemoglobin is the primary recipient for CO, a lower hemoglobin concentration directly translates to a reduced measured DLCO. Correction formulas are often applied to adjust DLCO for varying hemoglobin levels.",
+    "highYieldPearl": "Always consider and correct for anemia when interpreting DLCO results to avoid misdiagnosing lung pathology.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Other options like polycythemia and pulmonary hemorrhage increase DLCO. Supine position typically increases DLCO due to better perfusion distribution. The trap is overlooking systemic factors affecting DLCO.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|dlco|Diffusing Capacity (DLCO)|10_7rorh3t1"
+  },
+  {
+    "question": "Which condition typically results in an isolated increase in DLCO?",
+    "options": {
+      "A": "Emphysema",
+      "B": "Pulmonary Fibrosis",
+      "C": "Left-to-right cardiac shunt",
+      "D": "Severe Anemia"
+    },
+    "correctAnswer": "C",
+    "topic": "dlco",
+    "deepDiveExplanation": "Left-to-right cardiac shunts increase pulmonary blood flow and, consequently, the pulmonary capillary blood volume. An increased capillary blood volume provides more surface area and hemoglobin for CO uptake, leading to an elevated DLCO. Other causes of increased DLCO include pulmonary hemorrhage, polycythemia, and exercise.",
+    "highYieldPearl": "Increased pulmonary capillary blood volume (e.g., L-R shunt, pulmonary hemorrhage) or increased hemoglobin (polycythemia) can elevate DLCO.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Emphysema and pulmonary fibrosis cause decreased DLCO. Severe anemia reduces DLCO. The trap is confusing conditions that reduce vs. increase DLCO.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|dlco|Diffusing Capacity (DLCO)|10_hiietqk9"
+  },
+  {
+    "question": "A reduced DLCO with a normal DLCO/VA ratio suggests which type of lung pathology?",
+    "options": {
+      "A": "Interstitial Lung Disease",
+      "B": "Pulmonary Emphysema",
+      "C": "Extrapulmonary restriction",
+      "D": "Pulmonary Hypertension"
+    },
+    "correctAnswer": "C",
+    "topic": "dlco",
+    "deepDiveExplanation": "The DLCO/VA ratio normalizes the diffusing capacity for alveolar volume (VA). If both DLCO and VA are reduced proportionally, the ratio remains normal. This pattern is characteristic of conditions that reduce overall lung volume without significantly impairing the alveolar-capillary membrane's efficiency, such as chest wall deformities, neuromuscular weakness, or obesity (extrapulmonary restrictive disorders).",
+    "highYieldPearl": "Normal DLCO/VA ratio with low DLCO suggests a 'small but normal' lung unit, typical of extrapulmonary restriction.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "Interstitial lung disease and emphysema typically show a reduced DLCO/VA ratio. Pulmonary hypertension often shows an isolated low DLCO with normal lung volumes. The trap is misinterpreting the significance of the ratio.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|dlco|Diffusing Capacity (DLCO)|10_4pmkty2o"
+  },
+  {
+    "question": "DLCO is typically decreased in emphysema but often normal or increased in asthma due to?",
+    "options": {
+      "A": "Airway inflammation",
+      "B": "Alveolar destruction",
+      "C": "Bronchial hyperresponsiveness",
+      "D": "Increased airway resistance"
+    },
+    "correctAnswer": "B",
+    "topic": "dlco",
+    "deepDiveExplanation": "Emphysema is characterized by the destruction of alveolar walls and associated pulmonary capillaries, leading to a significant reduction in the surface area available for gas exchange and a loss of pulmonary capillary blood volume. Asthma, primarily an airway disease, generally preserves the alveolar-capillary unit and gas exchange surface.",
+    "highYieldPearl": "DLCO is a key differentiator between emphysema (low DLCO) and other obstructive diseases like asthma or chronic bronchitis (often normal DLCO).",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The distractors relate to general features of obstructive lung disease but do not explain the DLCO difference. The core concept is the structural difference at the alveolar level.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|dlco|Diffusing Capacity (DLCO)|10_lkmrs1xn"
+  },
+  {
+    "question": "DLCO is inversely proportional to which of the following components according to the Roughton-Forster equation?",
+    "options": {
+      "A": "Alveolar volume",
+      "B": "Pulmonary capillary blood volume (Vc)",
+      "C": "Membrane resistance (1/DM)",
+      "D": "Hemoglobin concentration"
+    },
+    "correctAnswer": "C",
+    "topic": "dlco",
+    "deepDiveExplanation": "The Roughton-Forster equation states 1/DL = 1/DM + 1/(θVc), where DL is DLCO, DM is the membrane diffusion component, and θVc represents the pulmonary capillary blood volume component (θ is the rate of CO uptake by RBCs). An increase in membrane resistance (1/DM) directly increases the overall resistance (1/DL), thus decreasing DLCO.",
+    "highYieldPearl": "DLCO is determined by both the integrity of the alveolar-capillary membrane (DM) and the volume of blood in the pulmonary capillaries (Vc).",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "Alveolar volume, Vc, and hemoglobin concentration are directly or indirectly proportional to DLCO. The trap lies in understanding the inverse relationship with resistance terms in the equation.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|dlco|Diffusing Capacity (DLCO)|10_fxxdolkk"
+  },
+  {
+    "question": "Elevated carboxyhemoglobin (COHb) levels primarily affect DLCO by?",
+    "options": {
+      "A": "Increasing alveolar volume",
+      "B": "Reducing available hemoglobin for CO uptake",
+      "C": "Enhancing CO diffusion across the membrane",
+      "D": "Decreasing membrane thickness"
+    },
+    "correctAnswer": "B",
+    "topic": "dlco",
+    "deepDiveExplanation": "Carboxyhemoglobin (COHb) forms when carbon monoxide binds to hemoglobin. If a patient has elevated COHb levels (e.g., from smoking or environmental exposure), a portion of their hemoglobin is already occupied by CO. During the DLCO test, less hemoglobin is available to bind the inhaled tracer CO, leading to an artificially lower measured DLCO. Correction for COHb is essential.",
+    "highYieldPearl": "Both anemia and elevated COHb reduce the effective hemoglobin available for the DLCO test, requiring correction for accurate results.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The distractors suggest effects on lung volume or membrane, which are incorrect. The key is understanding COHb's competition for hemoglobin binding sites.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|dlco|Diffusing Capacity (DLCO)|10_m3sv4y7t"
+  },
+  {
+    "question": "A shortened breath-hold time during DLCO measurement will primarily lead to which error?",
+    "options": {
+      "A": "Falsely increased DLCO",
+      "B": "Falsely decreased DLCO",
+      "C": "No significant change",
+      "D": "Increased DLCO/VA ratio"
+    },
+    "correctAnswer": "B",
+    "topic": "dlco",
+    "deepDiveExplanation": "The DLCO measurement relies on a standardized breath-hold time (typically 8-10 seconds) to allow sufficient time for carbon monoxide to diffuse across the alveolar-capillary membrane and bind to hemoglobin. A shorter breath-hold limits the exposure time and thus the uptake of CO, resulting in an underestimation or falsely decreased DLCO value.",
+    "highYieldPearl": "Adherence to standardized technique, including breath-hold time, is crucial for reliable and reproducible DLCO results.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The trap is guessing the direction of error or assuming no change. Shorter time means less gas transfer, hence lower DLCO.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|dlco|Diffusing Capacity (DLCO)|10_0tj2chhw"
+  },
+  {
+    "question": "An isolated reduction in DLCO, in the absence of parenchymal lung disease, is a hallmark of?",
+    "options": {
+      "A": "Bronchiectasis",
+      "B": "Asthma",
+      "C": "Pulmonary Hypertension",
+      "D": "Obstructive sleep apnea"
+    },
+    "correctAnswer": "C",
+    "topic": "dlco",
+    "deepDiveExplanation": "Pulmonary hypertension (PH) involves remodeling and reduction of the pulmonary vascular bed, which directly decreases the pulmonary capillary blood volume (Vc) component of DLCO. This leads to a significant reduction in DLCO, often with normal lung volumes and spirometry, making it a sensitive indicator for PH.",
+    "highYieldPearl": "An isolated low DLCO (especially with normal spirometry and lung volumes) should prompt investigation for pulmonary vascular disease.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Bronchiectasis and asthma primarily affect airways and usually have normal or near-normal DLCO. OSA does not directly cause an isolated low DLCO unless associated with PH.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|dlco|Diffusing Capacity (DLCO)|10_kb72f0j0"
+  },
+  {
+    "question": "In interstitial lung diseases, which PFT parameter best correlates with disease severity and prognosis?",
+    "options": {
+      "A": "Forced Expiratory Volume in 1 second (FEV1)",
+      "B": "Forced Vital Capacity (FVC)",
+      "C": "Diffusing Capacity of the Lung for Carbon Monoxide (DLCO)",
+      "D": "FEV1/FVC ratio"
+    },
+    "correctAnswer": "C",
+    "topic": "dlco",
+    "deepDiveExplanation": "DLCO directly reflects the functional integrity of the alveolar-capillary membrane and the extent of loss of the pulmonary capillary bed, both of which are severely affected in interstitial lung diseases (ILDs). It often declines earlier and correlates better with the extent of fibrosis, disease progression, and mortality than spirometric values like FVC or FEV1.",
+    "highYieldPearl": "DLCO is a crucial prognostic marker in ILD, often declining before significant changes in lung volumes.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While FVC is also reduced in ILD, DLCO tends to be a more sensitive and specific marker for gas exchange impairment and overall disease burden in ILD. FEV1 and FEV1/FVC are primarily indicators of airflow limitation.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|dlco|Diffusing Capacity (DLCO)|10_kbt0wm91"
+  }
+]

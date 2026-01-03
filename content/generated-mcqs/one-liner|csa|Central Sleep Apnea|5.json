@@ -1,0 +1,92 @@
+[
+  {
+    "question": "The hallmark feature distinguishing central sleep apnea from obstructive sleep apnea on polysomnography is:",
+    "options": {
+      "A": "Absence of airflow",
+      "B": "Absence of respiratory effort",
+      "C": "Presence of snoring",
+      "D": "Oxygen desaturation"
+    },
+    "correctAnswer": "B",
+    "topic": "csa",
+    "deepDiveExplanation": "Central sleep apnea (CSA) is characterized by recurrent episodes of cessation of breathing during sleep due to a temporary lack of respiratory drive from the central nervous system, despite an open airway. This contrasts with obstructive sleep apnea (OSA), where respiratory effort is present but airflow is blocked by upper airway collapse. On polysomnography, the key differentiator is the absence of thoracoabdominal effort during an apneic event in CSA, while effort is preserved or increased in OSA.",
+    "highYieldPearl": "The presence or absence of respiratory effort is the definitive PSG criterion to differentiate central from obstructive apneic events.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Options A and D are common to both central and obstructive apneas. Option C (snoring) is a classic feature of OSA. The core distinction lies in the respiratory effort.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|csa|Central Sleep Apnea|5_zvye3yvq"
+  },
+  {
+    "question": "Which condition is most commonly associated with Cheyne-Stokes breathing pattern in central sleep apnea?",
+    "options": {
+      "A": "Chronic Obstructive Pulmonary Disease",
+      "B": "Uncontrolled Hypertension",
+      "C": "Congestive Heart Failure",
+      "D": "Hypothyroidism"
+    },
+    "correctAnswer": "C",
+    "topic": "csa",
+    "deepDiveExplanation": "Cheyne-Stokes breathing (CSB) is a specific form of central sleep apnea characterized by a crescendo-decrescendo pattern of tidal volume, interspersed with central apneas or hypopneas. It is most commonly observed in patients with advanced congestive heart failure (CHF) and, less frequently, in patients with stroke or renal failure. The pathophysiology involves circulatory delay, increased ventilatory response to CO2, and ventilatory instability.",
+    "highYieldPearl": "Cheyne-Stokes breathing in central sleep apnea is a strong indicator of underlying cardiac dysfunction, particularly systolic heart failure.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While other conditions can affect sleep or respiratory control, CHF is the classic and most frequent association for Cheyne-Stokes breathing CSA. COPD is typically linked to obstructive sleep apnea or chronic hypoventilation.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|csa|Central Sleep Apnea|5_ybr9es25"
+  },
+  {
+    "question": "The preferred positive airway pressure modality for Cheyne-Stokes breathing central sleep apnea is:",
+    "options": {
+      "A": "CPAP",
+      "B": "BiPAP S/T",
+      "C": "Adaptive Servo-Ventilation (ASV)",
+      "D": "Auto-CPAP"
+    },
+    "correctAnswer": "C",
+    "topic": "csa",
+    "deepDiveExplanation": "Adaptive Servo-Ventilation (ASV) is a specialized non-invasive positive pressure ventilation device designed to stabilize ventilatory drive in patients with central sleep apnea, particularly Cheyne-Stokes breathing. It delivers variable pressure support and a backup respiratory rate, adapting to the patient's own breathing pattern to prevent apneas and hypopneas. While CPAP and BiPAP can sometimes be used, ASV is specifically tailored for the ventilatory instability seen in CSB. However, ASV is contraindicated in patients with symptomatic chronic heart failure (LVEF ≤ 45%) and central sleep apnea, as the SERVE-HF trial showed increased mortality in this specific subgroup.",
+    "highYieldPearl": "ASV is highly effective for CSB-CSA but remember the contraindication in symptomatic chronic heart failure with reduced ejection fraction (HFrEF).",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "CPAP and BiPAP S/T are more commonly used for OSA or other hypoventilation syndromes. While CPAP can sometimes reduce central apneas, ASV provides a more sophisticated response to the fluctuating respiratory drive characteristic of CSB.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|csa|Central Sleep Apnea|5_dwnkpcib"
+  },
+  {
+    "question": "High altitude periodic breathing, a form of central sleep apnea, is primarily driven by:",
+    "options": {
+      "A": "Alveolar hypoventilation",
+      "B": "Hypoxia-induced hyperventilation",
+      "C": "Upper airway collapse",
+      "D": "Metabolic alkalosis"
+    },
+    "correctAnswer": "B",
+    "topic": "csa",
+    "deepDiveExplanation": "At high altitude, the reduced partial pressure of oxygen (hypoxia) stimulates peripheral chemoreceptors, leading to an increase in minute ventilation (hyperventilation). This hyperventilation causes a decrease in arterial PCO2 (hypocapnia). The resulting hypocapnia then suppresses the central respiratory drive, leading to central apneas. As oxygen levels drop during the apnea, hypoxia recurs, stimulating breathing again, thus creating a periodic breathing pattern.",
+    "highYieldPearl": "Acetazolamide can mitigate high altitude periodic breathing by inducing metabolic acidosis, which counteracts the hypocapnia and stabilizes respiratory drive.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Alveolar hypoventilation is the *result* of the apnea, not the primary driver. Upper airway collapse is characteristic of OSA. Metabolic alkalosis is a *consequence* of prolonged hyperventilation, but the initial driver of the cycle is the hypoxia-induced hyperventilation.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|csa|Central Sleep Apnea|5_666ewtth"
+  },
+  {
+    "question": "Which class of medications is a common cause of central sleep apnea due to direct respiratory drive suppression?",
+    "options": {
+      "A": "Beta-blockers",
+      "B": "Calcium channel blockers",
+      "C": "Opioids",
+      "D": "NSAIDs"
+    },
+    "correctAnswer": "C",
+    "topic": "csa",
+    "deepDiveExplanation": "Opioids are potent respiratory depressants that can directly suppress the central respiratory drive and alter the chemoreflexes, leading to central apneas and hypopneas, particularly during sleep. Chronic opioid use is an increasingly recognized cause of central sleep apnea, often presenting with a mixed pattern of central and ataxic breathing.",
+    "highYieldPearl": "Opioid-induced CSA is a significant concern, often requiring careful opioid management, and may respond to specific therapies like ASV if opioids cannot be discontinued.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Beta-blockers, calcium channel blockers, and NSAIDs do not typically cause central sleep apnea through direct respiratory drive suppression. Opioids are the classic drug class associated with this effect.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|csa|Central Sleep Apnea|5_97fm2m5b"
+  }
+]

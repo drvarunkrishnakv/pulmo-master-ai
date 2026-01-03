@@ -1,0 +1,1620 @@
+[
+  {
+    "id": "rag_lights_criteria_aa6e2b44",
+    "question": "A 48-year-old male presents to the clinic with complaints of loud snoring, witnessed apneas by his spouse, and persistent daytime fatigue despite adequate sleep duration. He has a BMI of 32 kg/m² and reports no other significant medical comorbidities. On physical examination, his blood pressure is 130/85 mmHg, and his neck circumference is 17 inches. He denies any history of chronic lung disease, congestive heart failure, or neurological conditions. What is the most appropriate initial diagnostic test for Obstructive Sleep Apnea in this patient?",
+    "options": {
+      "A": "Home Sleep Apnea Test (HSAT)",
+      "B": "In-lab Polysomnography (PSG)",
+      "C": "Overnight oximetry",
+      "D": "Epworth Sleepiness Scale (ESS) followed by a consultation with a sleep specialist"
+    },
+    "correctAnswer": "A",
+    "topic": "Obstructive Sleep Apnea - Diagnosis",
+    "deepDiveExplanation": "For uncomplicated adult patients with a high pre-test probability of moderate to severe Obstructive Sleep Apnea (OSA) and no significant comorbidities (such as severe lung disease, neuromuscular disease, or congestive heart failure) or suspicion of other sleep disorders, a Home Sleep Apnea Test (HSAT) is the recommended initial diagnostic test. HSATs are convenient, cost-effective, and provide sufficient data (e.g., AHI, oximetry) to diagnose OSA in this specific population. This patient presents with classic symptoms and risk factors (obesity, male gender, large neck circumference) for uncomplicated OSA.",
+    "highYieldPearl": "Rio's Take: For typical OSA presentations without major comorbidities, HSAT is usually the first-line diagnostic tool due to its accessibility and cost-effectiveness. Reserve in-lab PSG for complex cases or when HSAT is inconclusive.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct answer. HSAT is the appropriate initial diagnostic test for an uncomplicated patient with high suspicion of OSA, consistent with current guidelines.",
+      "B": "In-lab Polysomnography (PSG) is the gold standard for OSA diagnosis but is generally reserved for patients with comorbidities that might complicate HSAT interpretation (e.g., severe cardiopulmonary disease, neuromuscular disorders), those with suspicion of other primary sleep disorders (e.g., central sleep apnea, narcolepsy, parasomnias), or when HSAT results are negative despite high clinical suspicion. For this 'uncomplicated' patient, HSAT is preferred as the initial step.",
+      "C": "Overnight oximetry provides information on oxygen desaturations but cannot reliably differentiate between obstructive and central events, nor can it accurately quantify the Apnea-Hypopnea Index (AHI). It is insufficient for a definitive diagnosis of OSA.",
+      "D": "The Epworth Sleepiness Scale (ESS) is a subjective questionnaire used to quantify daytime sleepiness and is a valuable screening tool and symptom assessment. However, it is not a diagnostic test for OSA on its own. While a sleep specialist consultation is appropriate, the question asks for the 'most appropriate initial diagnostic test'. The ESS would precede a diagnostic test but isn't the test itself."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_1493f28f",
+    "question": "A 55-year-old female undergoes an in-lab Polysomnography (PSG) due to complaints of frequent awakenings, morning headaches, and snoring. The PSG report indicates an Apnea-Hypopnea Index (AHI) of 12 events/hour, with a minimum oxygen saturation of 88% during sleep. Based on these findings, how would her Obstructive Sleep Apnea (OSA) be classified?",
+    "options": {
+      "A": "Normal / Primary Snoring",
+      "B": "Mild OSA",
+      "C": "Moderate OSA",
+      "D": "Severe OSA"
+    },
+    "correctAnswer": "B",
+    "topic": "Obstructive Sleep Apnea - Diagnosis",
+    "deepDiveExplanation": "The severity of Obstructive Sleep Apnea (OSA) in adults is classified based on the Apnea-Hypopnea Index (AHI) derived from polysomnography or a home sleep apnea test. The standard definitions are: \n- Normal: AHI < 5 events/hour\n- Mild OSA: AHI 5-15 events/hour\n- Moderate OSA: AHI 15-30 events/hour\n- Severe OSA: AHI > 30 events/hour\nGiven an AHI of 12 events/hour, this patient's OSA is classified as mild.",
+    "highYieldPearl": "Rio's Take: Remember the AHI cutoffs: <5 normal, 5-15 mild, 15-30 moderate, >30 severe. It's a fundamental classification for OSA.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "An AHI < 5 events/hour is considered normal or primary snoring without OSA.",
+      "B": "This is the correct answer. An AHI between 5 and 15 events/hour defines mild OSA.",
+      "C": "An AHI between 15 and 30 events/hour defines moderate OSA.",
+      "D": "An AHI greater than 30 events/hour defines severe OSA."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_320b6b76",
+    "question": "A 62-year-old male presents with complaints of excessive daytime sleepiness, loud snoring, and witnessed apneas. His medical history is notable for severe chronic obstructive pulmonary disease (COPD) requiring nocturnal oxygen therapy, and a recent diagnosis of congestive heart failure with reduced ejection fraction. His BMI is 34 kg/m². What is the most appropriate initial diagnostic test for Obstructive Sleep Apnea in this patient?",
+    "options": {
+      "A": "Home Sleep Apnea Test (HSAT)",
+      "B": "In-lab Polysomnography (PSG)",
+      "C": "Portable oximetry with actigraphy",
+      "D": "Multiple Sleep Latency Test (MSLT)"
+    },
+    "correctAnswer": "B",
+    "topic": "Obstructive Sleep Apnea - Diagnosis",
+    "deepDiveExplanation": "For patients with significant medical comorbidities such as severe chronic lung disease (e.g., COPD), congestive heart failure, or neurological disorders, an in-lab Polysomnography (PSG) is generally preferred over a Home Sleep Apnea Test (HSAT). These comorbidities can independently cause nocturnal desaturations or present with symptoms that overlap with OSA, making HSAT interpretation challenging and potentially inaccurate. Additionally, complex patients may have co-existing central sleep apnea, hypoventilation, or other sleep disorders that require the comprehensive monitoring provided by PSG (e.g., EEG, EMG, detailed respiratory effort sensors) for accurate diagnosis and management planning.",
+    "highYieldPearl": "Rio's Take: Complex comorbidities like severe COPD or CHF mandate an in-lab PSG for OSA diagnosis to ensure accurate assessment and rule out confounding or co-existing sleep disorders, as HSAT may be insufficient.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "While HSAT is convenient for uncomplicated OSA, its accuracy can be compromised in patients with severe comorbidities like COPD and CHF, which can cause independent nocturnal desaturations or overlapping symptoms. These complex cases require more comprehensive evaluation.",
+      "B": "This is the correct answer. In-lab PSG is the preferred diagnostic test for OSA in patients with significant comorbidities, as it provides a more comprehensive assessment, allows for differentiation of central versus obstructive events, and can detect other sleep disorders that might be present.",
+      "C": "Portable oximetry provides only oxygen saturation data and cannot distinguish between obstructive and central events or quantify AHI accurately. Actigraphy measures sleep-wake cycles but is not a diagnostic tool for OSA. This combination is insufficient for diagnosing OSA, especially in a complex patient.",
+      "D": "The Multiple Sleep Latency Test (MSLT) is used to assess the degree of daytime sleepiness and diagnose conditions like narcolepsy or idiopathic hypersomnia, not primarily for the diagnosis of OSA. It is typically performed after a PSG to rule out underlying sleep apnea as a cause of sleepiness."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_a932fa04",
+    "question": "A 68-year-old male presents with a 5-year history of loud snoring, frequent witnessed apneas, and an Epworth Sleepiness Scale (ESS) score of 14. His BMI is 38 kg/m². He has a history of hypertension well-controlled on a single medication, and type 2 diabetes managed with diet. He denies any history of chronic lung disease, cardiac arrhythmias, stroke, or significant neurological conditions. He also denies prominent restless leg symptoms or parasomnias. Considering the *most cost-effective and appropriate* diagnostic pathway for this patient, what would be the *initial recommended* investigation?",
+    "options": {
+      "A": "Level 3 Home Sleep Apnea Testing (HSAT) using a multi-channel portable monitor.",
+      "B": "In-lab attended polysomnography (PSG) with full electrophysiological monitoring.",
+      "C": "Nocturnal oximetry alone, followed by HSAT if positive for desaturations.",
+      "D": "Referral for a sedated drug-induced sleep endoscopy (DISE)."
+    },
+    "correctAnswer": "A",
+    "topic": "Obstructive Sleep Apnea - Diagnosis",
+    "deepDiveExplanation": "This patient presents with a high pre-test probability for Obstructive Sleep Apnea (OSA) based on classic symptoms (loud snoring, witnessed apneas, daytime somnolence with ESS 14) and risk factors (obesity, hypertension). Crucially, he lacks significant comorbidities that would complicate the diagnosis or suggest a central sleep apnea component (e.g., severe heart failure, chronic lung disease, stroke, neuromuscular disorder, suspicion of other complex sleep disorders). For such 'uncomplicated' cases with a high pre-test probability of OSA, current guidelines from organizations like the American Academy of Sleep Medicine (AASM) recommend Home Sleep Apnea Testing (HSAT), specifically Level 3 portable monitors, as the initial diagnostic study. HSAT is cost-effective, convenient, and generally sufficient for diagnosing moderate to severe OSA in this population. It typically measures respiratory effort, airflow, oximetry, and heart rate, which are adequate for calculating an Apnea-Hypopnea Index (AHI) and assessing desaturations.",
+    "highYieldPearl": "Rio's Take: For patients with high pre-test probability of uncomplicated OSA, HSAT (Level 3) is the recommended first-line diagnostic test due to its efficiency and cost-effectiveness, reserving PSG for complex cases or when HSAT is inconclusive.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is the correct answer. HSAT is appropriate for patients with a high pre-test probability of uncomplicated OSA, offering a balance of diagnostic accuracy, convenience, and cost-effectiveness.",
+      "B": "In-lab PSG is the gold standard but is more resource-intensive and expensive. While appropriate for patients with significant comorbidities (e.g., severe cardiorespiratory disease, neurological disorders, suspicion of central sleep apnea or other complex sleep disorders), this patient's comorbidities are described as 'well-controlled' and do not suggest complexity necessitating PSG as an *initial* step. Choosing PSG here over HSAT for an uncomplicated case represents an overutilization of resources.",
+      "C": "Nocturnal oximetry alone is primarily a screening tool, not a definitive diagnostic test for OSA. It can miss OSA, especially mild cases without significant oxygen desaturation. It provides limited information regarding apneas, hypopneas, and respiratory effort. Combining it with HSAT later makes it a two-step, less efficient approach than proceeding directly to HSAT.",
+      "D": "Sedated Drug-Induced Sleep Endoscopy (DISE) is a procedure performed in an operating room to visualize the upper airway collapse during induced sleep. It is used to identify sites of obstruction, primarily for surgical planning in patients who have *already been diagnosed* with OSA and are refractory to or intolerant of CPAP therapy. It is not a diagnostic test for OSA itself."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_60867d38",
+    "question": "A 55-year-old male with a history of poorly controlled type 2 diabetes, morbid obesity (BMI 42 kg/m²), and recently diagnosed severe congestive heart failure (NYHA Class III, EF 25%) presents with severe daytime sleepiness (ESS 18) and frequent witnessed apneas. A Level 3 Home Sleep Apnea Test (HSAT) was performed, which reported an AHI of 35 events/hour (predominantly obstructive events), with a nadir SpO2 of 82% and 10% of total recording time below 90%. However, the recorded sleep time was only 4.5 hours, and the patient complained of restless sleep during the study. The HSAT did not include effort belts or continuous EEG.",
+    "options": {
+      "A": "Initiate CPAP therapy immediately based on the confirmed severe OSA.",
+      "B": "Schedule an in-lab attended polysomnography (PSG) to comprehensively evaluate sleep architecture and differentiate sleep apnea types.",
+      "C": "Prescribe an auto-titrating CPAP (APAP) device for unsupervised home titration.",
+      "D": "Repeat the Level 3 HSAT to obtain a longer recording duration and more stable sleep."
+    },
+    "correctAnswer": "B",
+    "topic": "Obstructive Sleep Apnea - Diagnosis",
+    "deepDiveExplanation": "This patient presents with several factors indicating a complex sleep disorder that warrants more comprehensive evaluation than HSAT can provide. The patient has severe congestive heart failure (CHF) with reduced ejection fraction (EF 25%), which is a significant risk factor for central sleep apnea (CSA) and complex sleep apnea (CompSAS). While the HSAT reported an AHI of 35 events/hour (severe sleep apnea) with predominantly obstructive events, Level 3 HSAT without EEG and often without reliable effort belts cannot definitively differentiate between obstructive, central, and mixed events, particularly when central events are a strong possibility. The short recorded sleep time (4.5 hours) and reported restless sleep further limit the accuracy and representativeness of the HSAT results. Given the high suspicion for a complex sleep apnea syndrome in the context of severe CHF, a full in-lab attended polysomnography (PSG) is essential. PSG, with its full electrophysiological monitoring (EEG, EOG, EMG), accurately stages sleep, identifies awakenings, and precisely differentiates various types of respiratory events (obstructive, central, mixed) by monitoring respiratory effort, airflow, and oximetry. This comprehensive evaluation is critical for guiding appropriate treatment, as management strategies for OSA, CSA, and CompSAS can differ significantly (e.g., CPAP for OSA, Adaptive Servo-Ventilation (ASV) for CSA in some CHF patients).",
+    "highYieldPearl": "Rio's Take: Severe comorbidities like advanced CHF warrant in-lab PSG even with a positive HSAT, to accurately differentiate between OSA, CSA, and complex sleep apnea, which dictates specific therapeutic approaches.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Initiating CPAP therapy immediately is tempting given the high AHI, but it is premature. In patients with severe CHF and potential CSA or CompSAS, CPAP might not be the optimal treatment, and in some cases (e.g., central sleep apnea with Cheyne-Stokes respiration), CPAP may not be appropriate and ASV might be indicated, or even contraindicated in certain types of heart failure. A definitive diagnosis of the sleep apnea type is crucial before initiating therapy.",
+      "B": "This is the correct answer. The patient's severe CHF increases the likelihood of central or complex sleep apnea, which Level 3 HSAT cannot reliably diagnose. The limitations of HSAT (short recording, restless sleep, lack of EEG/effort belts for definitive event type differentiation) necessitate an in-lab PSG for a comprehensive and accurate diagnosis that will guide appropriate, potentially complex, therapy.",
+      "C": "Prescribing an auto-titrating CPAP (APAP) for unsupervised home titration is a treatment step. While APAP can be used for uncomplicated OSA, it carries similar risks as empiric CPAP initiation in this complex patient. APAP may not adequately manage central events and can even exacerbate CSA in some instances. Titration in the lab ensures safety and efficacy, especially in a patient with severe cardiac comorbidity.",
+      "D": "Repeating the Level 3 HSAT would not address the fundamental limitation of differentiating sleep apnea types (obstructive vs. central vs. mixed) in a patient at high risk for CSA/CompSAS. Even with a longer recording time and more stable sleep, HSAT lacks the electrophysiological channels (EEG, EOG, EMG) required for accurate sleep staging and precise event characterization in this complex scenario. This would merely delay proper diagnosis."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_022485c8",
+    "question": "A 40-year-old female with a BMI of 28 kg/m² reports chronic, unrefreshing sleep for several years, leading to persistent daytime fatigue (ESS 10). She denies loud snoring or witnessed apneas, but her partner notes she frequently talks in her sleep and sometimes appears to 'act out' her dreams. She also experiences vivid nightmares and occasional sleep paralysis. A Level 3 Home Sleep Apnea Test (HSAT) was performed. The report showed an AHI of 8 events/hour (5 obstructive apneas, 3 hypopneas), with a desaturation index of 5 events/hour. The nadir SpO2 was 90%. The HSAT indicated most events occurred in non-supine positions, but precise sleep staging was unavailable.",
+    "options": {
+      "A": "Initiate CPAP therapy for mild obstructive sleep apnea and review symptoms.",
+      "B": "Recommend lifestyle modifications, including sleep hygiene education, and reassess in 3 months.",
+      "C": "Conduct an in-lab attended polysomnography (PSG) with full electrophysiological monitoring and potentially a split-night study.",
+      "D": "Order a Multiple Sleep Latency Test (MSLT) to objectively quantify daytime sleepiness."
+    },
+    "correctAnswer": "C",
+    "topic": "Obstructive Sleep Apnea - Diagnosis",
+    "deepDiveExplanation": "This patient presents with a constellation of symptoms (unrefreshing sleep, persistent fatigue, vivid nightmares, sleep paralysis, acting out dreams, talking in sleep) that are atypical for straightforward Obstructive Sleep Apnea (OSA), especially given her relatively normal BMI and lack of prominent snoring/witnessed apneas. While the HSAT reported a mild AHI of 8 events/hour, which technically meets criteria for mild OSA if symptomatic, her other symptoms are highly suggestive of primary central nervous system sleep disorders such as Narcolepsy (fatigue, sleep paralysis, vivid dreams/nightmares) or Idiopathic Hypersomnia, and/or a parasomnia like REM Sleep Behavior Disorder (RBD - 'acting out dreams'). Level 3 HSAT does not include electroencephalography (EEG), electrooculography (EOG), or electromyography (EMG), and therefore cannot accurately stage sleep, identify REM sleep, detect central events, or diagnose parasomnias. An in-lab attended polysomnography (PSG) is crucial here to comprehensively evaluate sleep architecture, confirm sleep stages (especially REM sleep, which is critical for RBD and narcolepsy), precisely characterize the mild OSA (e.g., if it's REM-predominant or positional-predominant, which can be missed or underestimated by HSAT), and rule out central apneas or other primary sleep disorders.",
+    "highYieldPearl": "Rio's Take: Atypical sleep-related symptoms like sleep paralysis, vivid nightmares, and dream enactment, even with a mildly positive HSAT for OSA, warrant full in-lab PSG to evaluate for narcolepsy, RBD, or other complex sleep disorders not captured by HSAT.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Initiating CPAP for mild OSA without further investigation might address a component of her sleep disturbance, but it risks missing or delaying the diagnosis of a potentially more impactful primary sleep disorder like narcolepsy or RBD, which requires different management. The AHI of 8 is borderline, and CPAP might not resolve all her specific, atypical symptoms.",
+      "B": "While sleep hygiene and lifestyle modifications are generally beneficial, they are unlikely to be sufficient as the *next diagnostic step* given the specific and complex nature of her symptoms (dream enactment, sleep paralysis, vivid nightmares). These symptoms strongly point towards a primary sleep disorder that requires specific diagnostic evaluation.",
+      "C": "This is the correct answer. A full in-lab PSG is essential to accurately stage sleep, identify REM-related events (critical for narcolepsy, RBD), rule out central events, and comprehensively characterize her sleep architecture. This detailed information is crucial to differentiate or co-diagnose narcolepsy, RBD, or other complex sleep disorders that HSAT cannot detect. A split-night study might be considered if severe OSA is confirmed in the first half, allowing immediate titration.",
+      "D": "A Multiple Sleep Latency Test (MSLT) is used to objectively quantify daytime sleepiness and is a key diagnostic test for narcolepsy and idiopathic hypersomnia. However, an MSLT should *always* be preceded by an in-lab PSG on the preceding night to rule out other causes of sleepiness (like untreated OSA) and ensure a baseline of adequate sleep without other confounding factors. Performing an MSLT without a prior PSG would be premature and potentially yield inaccurate results."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_cf18d257",
+    "question": "A 55-year-old male presents with his wife complaining of loud snoring, witnessed apneas, and restless sleep for the past two years. He reports excessive daytime sleepiness (Epworth Sleepiness Scale score 14), unrefreshing sleep, and difficulty concentrating at work. His BMI is 32 kg/m², and neck circumference is 18 inches. He has well-controlled hypertension and no history of other chronic lung diseases or neurological disorders. Regarding the diagnostic evaluation of Obstructive Sleep Apnea (OSA) in this patient, all of the following statements are true EXCEPT:",
+    "options": {
+      "A": "A diagnosis of Obstructive Sleep Apnea (OSA) in this patient would require an Apnea-Hypopnea Index (AHI) of at least 5 events per hour on a sleep study, coupled with his reported clinical symptoms.",
+      "B": "Given his high pre-test probability for moderate-to-severe OSA and absence of significant comorbidities, a Type 3 home sleep apnea test (HSAT) is an appropriate initial diagnostic strategy.",
+      "C": "If an initial home sleep apnea test yields negative or inconclusive results despite persistent strong clinical suspicion for OSA, an in-laboratory polysomnography (PSG) is generally recommended.",
+      "D": "An Epworth Sleepiness Scale (ESS) score of 14, while suggestive of significant daytime somnolence, is sufficient on its own to confirm a diagnosis of moderate Obstructive Sleep Apnea."
+    },
+    "correctAnswer": "D",
+    "topic": "Obstructive Sleep Apnea - Diagnosis",
+    "deepDiveExplanation": "Obstructive Sleep Apnea (OSA) is diagnosed based on a combination of clinical symptoms and objective evidence from a sleep study. The American Academy of Sleep Medicine (AASM) diagnostic criteria generally require an Apnea-Hypopnea Index (AHI) of ≥ 5 events per hour accompanied by characteristic symptoms (e.g., excessive daytime sleepiness, loud snoring, witnessed apneas, unrefreshing sleep), or an AHI ≥ 15 events per hour even in the absence of symptoms. \n\nFor patients with a high pre-test probability of moderate-to-severe OSA and without significant comorbidities that would complicate diagnosis or management (such as severe cardiopulmonary disease, neuromuscular disorders, congestive heart failure, or suspicion of other sleep disorders like central sleep apnea), a Type 3 home sleep apnea test (HSAT) is an appropriate and often preferred initial diagnostic tool. This patient's profile fits these criteria. \n\nIf an initial HSAT is negative or inconclusive despite persistent strong clinical suspicion, or if the patient has complex comorbidities or suspected non-OSA sleep disorders, an in-laboratory polysomnography (PSG) remains the gold standard and is recommended to ensure an accurate diagnosis. \n\nThe Epworth Sleepiness Scale (ESS) is a widely used self-administered questionnaire to assess subjective daytime sleepiness over the past week. A score above 10 typically indicates excessive daytime sleepiness. While valuable for screening, quantifying symptom severity, and monitoring treatment response, the ESS score alone cannot diagnose OSA or determine its objective severity (mild, moderate, or severe). It measures a symptom, not the underlying respiratory events.",
+    "highYieldPearl": "Rio's Take: Clinical suspicion for OSA is based on symptoms and risk factors, but a definitive diagnosis *always* requires an objective sleep study (PSG or HSAT). Screening tools like the ESS quantify subjective symptoms but are *never* diagnostic for OSA or its severity on their own.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This statement is true and reflects a core diagnostic criterion for OSA when symptoms are present. The trap would be if a candidate confuses the AHI threshold for symptomatic vs. asymptomatic diagnosis, but the option is correctly phrased for the given clinical scenario with symptoms.",
+      "B": "This statement is true. The patient's high pre-test probability (classic symptoms, high BMI, large neck circumference) and absence of significant complicating comorbidities make HSAT an appropriate initial choice. A candidate might mistakenly believe PSG is always required, or that hypertension, even if well-controlled, necessitates PSG.",
+      "C": "This statement is true, outlining the appropriate follow-up if an initial HSAT is unrevealing but clinical suspicion remains high. The trap might be assuming that one negative or inconclusive test is always sufficient to rule out OSA, overlooking the importance of clinical judgment and the tiered diagnostic approach.",
+      "D": "This is the incorrect statement and thus the correct answer. The trap here lies in overestimating the diagnostic power of screening questionnaires like the ESS. While an ESS score of 14 strongly indicates excessive daytime sleepiness, it is a subjective measure of a symptom and does not provide an objective diagnosis of OSA or its severity (e.g., moderate OSA, which is defined by AHI). Many conditions can cause high ESS scores, and even a normal ESS does not rule out OSA. The ESS is a screening and symptom assessment tool, not a diagnostic test."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_266a3781",
+    "question": "A 45-year-old male presents with excessive daytime sleepiness and snoring. Polysomnography confirms moderate Obstructive Sleep Apnea (AHI 25/hr). He has no known significant medical comorbidities like COPD or heart failure, no nasal obstruction, or history of alcohol abuse. He is deemed suitable for an in-home auto-titration setup. What is the most appropriate initial management approach for this patient's Obstructive Sleep Apnea?",
+    "options": {
+      "A": "Recommend auto-titrating CPAP with in-home titration.",
+      "B": "Immediately schedule an in-laboratory CPAP titration study.",
+      "C": "Prescribe a fixed-pressure CPAP device without prior titration.",
+      "D": "Advise for Uvulopalatopharyngoplasty (UPPP) as the primary treatment."
+    },
+    "correctAnswer": "A",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "For patients with uncomplicated Obstructive Sleep Apnea (OSA) diagnosed by polysomnography (PSG) or home sleep apnea testing (HSAT), continuous positive airway pressure (CPAP) is the recommended treatment. According to guidelines, if the patient is deemed suitable for in-home auto-titration and is uncomplicated, auto-titrating CPAP (AutoPAP) with in-home titration is the appropriate initial step. AutoPAP devices adjust pressure breath-by-breath within a set range, offering greater comfort and patient preference compared to fixed CPAP, while showing no significant difference in residual AHI or clinical outcomes. An in-laboratory titration study is typically reserved if in-home auto-titration is unsuccessful or if the patient has complex comorbidities.",
+    "highYieldPearl": "Rio's Take: For most uncomplicated OSA patients, auto-titrating CPAP (AutoPAP) with in-home titration is the convenient and preferred initial PAP strategy due to improved comfort and adherence, provided there are no contraindications for auto-titration.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct. This patient has uncomplicated OSA and is suitable for in-home auto-titration, making auto-titrating CPAP with in-home titration the appropriate initial step per guidelines.",
+      "B": "Incorrect. In-laboratory titration is indicated if in-home auto-titration fails, or if the patient has complicated OSA (e.g., COPD, heart failure) or is not suitable for in-home titration. This patient is uncomplicated and suitable.",
+      "C": "Incorrect. Fixed-pressure CPAP is typically set after titration (either auto or in-lab) to determine the optimal pressure. Prescribing without prior titration is not standard initial management.",
+      "D": "Incorrect. Surgery (like UPPP) is generally less effective than CPAP and reserved for mild OSA or CPAP intolerance, or patients who primarily snore. It is not the primary initial treatment for moderate OSA when CPAP is an option and well-tolerated."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_42fdc609",
+    "question": "A 60-year-old male with a history of severe COPD and recently diagnosed severe Obstructive Sleep Apnea (OSA) with an AHI of 35/hr, presents for CPAP initiation. His sleep study noted significant oxyhemoglobin desaturations during sleep. Considering his comorbidities, which of the following is the most appropriate method for determining his optimal positive airway pressure settings?",
+    "options": {
+      "A": "Auto-titrating CPAP with in-home titration.",
+      "B": "In-laboratory manual CPAP titration study.",
+      "C": "A trial of BiPAP without prior titration.",
+      "D": "Surgical intervention like Uvulopalatopharyngoplasty."
+    },
+    "correctAnswer": "B",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "The choice between in-laboratory manual CPAP titration and auto-titrating CPAP (AutoPAP) depends on the complexity of the patient's sleep-disordered breathing and comorbidities. In-laboratory titration is specifically recommended for patients with complex sleep-disordered breathing, complex sleep apnea, significant comorbidities like COPD or heart failure, and conditions causing hypoventilation (e.g., chest wall disorders, neuromuscular diseases). These conditions require careful monitoring and manual adjustment of pressure by a technician to ensure appropriate ventilation and address potential complex respiratory patterns during sleep, which cannot be adequately managed by automated devices.",
+    "highYieldPearl": "Rio's Take: Always opt for in-laboratory PAP titration in patients with underlying cardiorespiratory comorbidities like COPD, heart failure, or other complex sleep disorders, as these conditions necessitate precise pressure setting and close monitoring for safety and efficacy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. Auto-titration is generally preferred for uncomplicated OSA. It is specifically contraindicated or not recommended for patients with COPD or other complex sleep-disordered breathing due to the need for precise pressure control and monitoring.",
+      "B": "Correct. The provided context explicitly lists 'COPD' under the 'In-Lab titration' column, indicating that patients with COPD require an in-laboratory manual CPAP titration study to determine optimal pressure settings. This patient's severe COPD makes his OSA 'complicated'.",
+      "C": "Incorrect. A trial of BiPAP without prior titration is not the standard approach. While BiPAP might eventually be used for patients with hypoventilation due to COPD, initial pressure determination typically involves a titration study (often in-lab) to find optimal settings.",
+      "D": "Incorrect. Surgical intervention is not the primary treatment for severe OSA, especially in a patient with significant comorbidities like severe COPD where PAP therapy is the cornerstone of management. Surgery is generally less effective than PAP."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_44930777",
+    "question": "A 38-year-old non-obese male with mild obstructive sleep apnea (AHI 10/hr) primarily presenting with bothersome snoring and mild daytime sleepiness, finds CPAP difficult to tolerate despite attempts with different masks and pressure adjustments. Which of the following statements regarding surgical options for Obstructive Sleep Apnea in this patient is most accurate based on current guidelines?",
+    "options": {
+      "A": "Surgical options like Uvulopalatopharyngoplasty (UPPP) are generally more effective than CPAP in improving AHI.",
+      "B": "Surgery is typically reserved for patients with mild OSA or those intolerant to CPAP, often targeting snoring.",
+      "C": "Hypoglossal nerve stimulator implantation is the most commonly performed surgical procedure for OSA.",
+      "D": "Maxillomandibular advancement osteotomy is considered the initial surgical approach due to its minimal invasiveness."
+    },
+    "correctAnswer": "B",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "Surgical interventions for Obstructive Sleep Apnea (OSA) are generally considered less effective than positive airway pressure (PAP) therapy and are primarily indicated for patients who have mild OSA, present mainly with snoring, or are intolerant to PAP therapy despite optimized attempts. Uvulopalatopharyngoplasty (UPPP) is explicitly stated as the most common surgical procedure. It's important to note that surgical outcomes are typically less favorable in severe OSA and in obese patients. More advanced procedures like maxillomandibular advancement offer higher success rates but are more invasive and reserved for specific anatomical considerations, not as an initial approach.",
+    "highYieldPearl": "Rio's Take: Surgery for OSA is a second-line option, mainly for mild cases, primary snorers, or CPAP-intolerant patients. UPPP is common, but remember its efficacy is lower than CPAP, especially in severe or obese patients.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. The context explicitly states that 'Upper airway surgery for OSAHS is less effective than CPAP'.",
+      "B": "Correct. The context aligns perfectly: 'Upper airway surgery for OSAHS is less effective than CPAP and is mostly reserved for the treatment of patients who snore, have mild OSAHS, or cannot tolerate CPAP.'",
+      "C": "Incorrect. While Hypoglossal nerve stimulator implantation is a surgical option, Uvulopalatopharyngoplasty (UPPP) is explicitly stated as 'the most common surgery'.",
+      "D": "Incorrect. Maxillomandibular advancement osteotomy is a major surgical procedure, not typically considered initial or minimally invasive. It is usually reserved for specific anatomical issues rather than being an initial approach."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_b1f444c7",
+    "question": "A 45-year-old male with a BMI of 28 kg/m2 presents with habitual snoring and daytime sleepiness (ESS score 12). Home Sleep Apnea Test (HSAT) confirms moderate Obstructive Sleep Apnea (AHI 20 events/hour). He has no history of cardiovascular disease, COPD, or neuromuscular disorders. He expresses a desire for treatment that is convenient and adaptable.",
+    "options": {
+      "A": "Initiate in-home auto-titrating CPAP (AutoPAP) with subsequent follow-up.",
+      "B": "Schedule an in-laboratory manual CPAP titration study.",
+      "C": "Prescribe fixed-pressure CPAP based on an estimation of average pressure needs.",
+      "D": "Refer for surgical evaluation, given his moderate OSA and desire for convenience."
+    },
+    "correctAnswer": "A",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "The patient presents with uncomplicated moderate Obstructive Sleep Apnea (OSA) diagnosed by HSAT, without any comorbidities that would categorize his condition as 'complicated' (e.g., complex sleep apnea, COPD, heart failure, hypoventilation). For uncomplicated OSA, in-home auto-titrating CPAP (AutoPAP) is the recommended initial approach if the patient is suitable. The patient's desire for convenient and adaptable treatment aligns with the benefits of AutoPAP. If in-home auto-titration is successful (residual AHI <10, clinical improvement, favorable adherence), the pressure can be fixed or left in auto mode. If unsuccessful or unsuitable, an in-laboratory titration study would then be performed.",
+    "highYieldPearl": "Rio's Take: For uncomplicated OSA, in-home auto-titrating CPAP is the preferred initial titration method when suitable, offering convenience and adaptability.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct standard management protocol for uncomplicated OSA when suitability for in-home auto-titration is met, as described in the provided context's flowchart.",
+      "B": "In-laboratory titration is typically reserved for 'complicated' OSA or when in-home auto-titration fails or is deemed unsuitable from the outset. This patient's profile is 'uncomplicated'.",
+      "C": "Prescribing fixed-pressure CPAP without a prior titration study (in-lab or successful auto-titration) to determine the appropriate pressure is not standard practice and could lead to suboptimal treatment or intolerance.",
+      "D": "Surgical evaluation is considered for patients who cannot tolerate CPAP or have specific anatomical issues, typically after a trial of CPAP, and is not the first-line treatment for moderate OSA."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_18a3ed4a",
+    "question": "A 58-year-old female with severe OSA (AHI 45 events/hour) has been using fixed-pressure CPAP for 6 months. While her daytime sleepiness has improved (ESS score 4), she consistently reports mask discomfort due to high fixed pressure during initiation of sleep and often removes her mask during the night. Her compliance data shows inconsistent use.",
+    "options": {
+      "A": "AutoPAP is likely to improve patient comfort and adherence without compromising therapeutic efficacy.",
+      "B": "AutoPAP would be less effective in reducing her AHI compared to fixed-pressure CPAP.",
+      "C": "AutoPAP is primarily indicated for mild to moderate OSA and may be insufficient for severe OSA.",
+      "D": "AutoPAP offers significant improvement in neurocognitive function over fixed-pressure CPAP."
+    },
+    "correctAnswer": "A",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "The patient is experiencing mask discomfort and poor adherence with fixed-pressure CPAP due to high pressures. Auto-titrating CPAP (AutoPAP) dynamically adjusts pressure throughout the night, often leading to better patient comfort, tolerance, and adherence compared to fixed CPAP. Importantly, studies have shown no significant difference in residual AHI, daytime sleepiness (EDS), or neurocognitive function between AutoPAP and fixed CPAP. Therefore, switching to AutoPAP in this scenario is a reasonable strategy to improve adherence and comfort without sacrificing treatment efficacy.",
+    "highYieldPearl": "Rio's Take: Auto CPAP offers better comfort and patient preference than fixed CPAP, leading to improved adherence, with comparable efficacy in AHI reduction and neurocognitive outcomes.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This statement is accurate. AutoPAP's ability to adjust pressure can alleviate discomfort, thus improving adherence, and it achieves comparable AHI reduction to fixed CPAP.",
+      "B": "This is incorrect. The context explicitly states, 'No difference in residual AHI' between Auto CPAP and Fixed CPAP.",
+      "C": "This is incorrect. AutoPAP is not limited to mild-moderate OSA and can be effective for severe OSA patients as well, with efficacy comparable to fixed CPAP.",
+      "D": "This is incorrect. The context states, 'No difference in EDS, neurocognitive function' between Auto CPAP and Fixed CPAP."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_9ea01af0",
+    "question": "A 38-year-old male with a BMI of 32 kg/m2 has been diagnosed with severe Obstructive Sleep Apnea (AHI 55 events/hour). He attempted CPAP therapy but reports severe claustrophobia and mask discomfort, leading to complete intolerance despite multiple mask changes and desensitization efforts. A comprehensive ENT evaluation reveals significant palatal obstruction.",
+    "options": {
+      "A": "Uvulopalatopharyngoplasty (UPPP) is the most effective surgical treatment and should be recommended as the primary alternative to CPAP.",
+      "B": "Surgical options, including UPPP, are generally less effective than CPAP, especially in severe and obese patients, and should be carefully considered.",
+      "C": "Hypoglossal nerve stimulation is contraindicated in severe OSA with significant palatal obstruction.",
+      "D": "Tracheostomy is the next best step for severe CPAP-intolerant OSA to ensure airway patency."
+    },
+    "correctAnswer": "B",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "This patient has severe OSA, is obese, and is CPAP-intolerant, making surgical options a consideration. The provided text clearly states that 'Upper airway surgery for OSAHS is less effective than CPAP' and is 'mostly reserved for the treatment of patients who snore, have mild OSAHS, or cannot tolerate CPAP.' Furthermore, it specifically mentions that 'Upper airway surgery is less effective in severe OSAHS and in obese patients.' Therefore, while surgery may be an option due to CPAP intolerance, its efficacy, especially UPPP, should be carefully weighed against these limitations in a severe and obese patient.",
+    "highYieldPearl": "Rio's Take: Surgery for OSA is generally less effective than CPAP, particularly in severe and obese patients, and is typically reserved for those who cannot tolerate CPAP or have mild disease.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is incorrect. The context explicitly states UPPP and other upper airway surgeries are 'less effective than CPAP' and 'less effective in severe OSAHS and in obese patients.' Thus, it is not 'the most effective' nor a 'primary alternative' without careful consideration of its limitations.",
+      "B": "This statement accurately reflects the evidence regarding surgical efficacy in OSA, especially for severe and obese patients, and the role of surgery as an alternative for CPAP intolerance.",
+      "C": "This is incorrect. The provided text does not mention a contraindication for hypoglossal nerve stimulation (an option listed in the text) in cases of severe OSA with palatal obstruction. Such definitive contraindications typically require specific anatomical or physiological assessments beyond what's stated here.",
+      "D": "This is incorrect. Tracheostomy, while listed as a surgical option, is crossed out in the provided text, indicating it's not a common or preferred first-line surgical intervention for CPAP-intolerant OSA but rather a last resort for very severe or life-threatening cases."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_20b6d70b",
+    "question": "A 58-year-old male with a history of moderate obstructive sleep apnea (AHI 25/hr) and recently diagnosed with chronic obstructive pulmonary disease (COPD) presents for initiation of positive airway pressure (PAP) therapy. He reports excessive daytime sleepiness and loud snoring. Which of the following is the most appropriate initial method for determining his optimal PAP settings?",
+    "options": {
+      "A": "Auto-titrating CPAP (APAP) with in-home titration.",
+      "B": "Fixed-pressure CPAP based on an estimation of 90th percentile pressure.",
+      "C": "In-laboratory polysomnography with manual PAP titration.",
+      "D": "A trial of bilevel positive airway pressure (BiPAP) with fixed settings."
+    },
+    "correctAnswer": "C",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "The presence of comorbidities such as COPD makes the patient's obstructive sleep apnea 'complicated,' warranting an in-laboratory titration study. Page 159-160 explicitly lists 'COPD' under the conditions requiring 'In-Lab titration' due to the potential for complex sleep-disordered breathing, including hypoventilation or central events that are best evaluated and treated in a controlled laboratory setting. Auto-titrating CPAP is typically recommended for uncomplicated OSA, while a fixed-pressure estimation is not an initial titration method. BiPAP might be considered later, but the initial step to determine optimal settings in a complicated case is a manual, in-lab titration.",
+    "highYieldPearl": "Rio's Take: Comorbidities like COPD, heart failure, or complex sleep apnea necessitate an in-laboratory PAP titration to ensure accurate pressure setting and management of potential complex breathing patterns.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Auto-titrating CPAP with in-home titration is suitable for uncomplicated OSA. The presence of COPD makes the case complicated, requiring more comprehensive evaluation.",
+      "B": "Fixed-pressure CPAP based on estimation is not an initial titration method. Optimal pressures are determined through either auto-titration or in-laboratory titration.",
+      "C": "This is the correct approach. Conditions like COPD, heart failure, and complex sleep apnea are indications for an in-laboratory manual PAP titration, as outlined on page 160.",
+      "D": "While BiPAP might be considered for some complex cases or CPAP intolerance, the initial step to *determine optimal settings* for a patient with OSA and COPD is typically an in-laboratory manual titration to assess for underlying complex sleep-disordered breathing patterns before committing to a specific PAP mode."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_d41e231e",
+    "question": "A 45-year-old male with recently diagnosed uncomplicated moderate obstructive sleep apnea (OSA) is considering initiating positive airway pressure (PAP) therapy. He asks about the differences between auto-titrating CPAP (APAP) and fixed-pressure CPAP. Based on current evidence, which of the following statements regarding APAP compared to fixed-pressure CPAP is most accurate?",
+    "options": {
+      "A": "APAP consistently achieves a lower residual AHI (Apnea-Hypopnea Index).",
+      "B": "APAP is associated with significantly better neurocognitive function outcomes.",
+      "C": "APAP is generally better tolerated and preferred by patients due to less pressure discomfort.",
+      "D": "APAP has a lower incidence of common PAP side effects such as nasal congestion or dry mouth."
+    },
+    "correctAnswer": "C",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "According to the provided text (page 164), studies comparing Auto CPAP and fixed CPAP found 'Better patient comfort with Auto CPAP (less pressure-discomfort)' and that it is 'Better tolerated and preferred by patients'. There were 'No difference in residual AHI', 'No difference in EDS, neurocognitive function', and 'No difference in side effect profiles' between the two modes.",
+    "highYieldPearl": "Rio's Take: While APAP and fixed CPAP are comparable in efficacy for uncomplicated OSA, APAP often wins on patient comfort and preference, which is crucial for long-term adherence.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Page 164 states there is 'No difference in residual AHI' between APAP and fixed CPAP, making this option incorrect.",
+      "B": "Page 164 explicitly mentions 'No difference in EDS, neurocognitive function' between the two modes, making this option incorrect.",
+      "C": "This statement is directly supported by the text on page 164, which notes 'Better patient comfort with Auto CPAP (less pressure-discomfort)' and that it is 'Better tolerated and preferred by patients'.",
+      "D": "Page 164 states 'No difference in side effect profiles' between APAP and fixed CPAP, thus this option is incorrect."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_2665b063",
+    "question": "A 50-year-old non-obese male with mild obstructive sleep apnea (AHI 10/hr) has tried CPAP for 3 months but consistently reports intolerance due to claustrophobia and mask discomfort, despite multiple mask trials. He is exploring surgical options. Which of the following statements regarding uvulopalatopharyngoplasty (UPPP) as a treatment for his condition is most accurate?",
+    "options": {
+      "A": "UPPP is generally more effective than CPAP for improving AHI in mild OSA.",
+      "B": "UPPP is contraindicated in patients who are intolerant to CPAP.",
+      "C": "UPPP is considered a viable option for patients with mild OSA who cannot tolerate CPAP.",
+      "D": "UPPP is equally effective in severe OSA and obese patients as it is in mild, non-obese patients."
+    },
+    "correctAnswer": "C",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "The provided text on page 211 states that 'Upper airway surgery for OSAHS is less effective than CPAP and is mostly reserved for the treatment of patients who snore, have mild OSAHS, or cannot tolerate CPAP.' Given the patient's mild OSA and CPAP intolerance, UPPP (the most common surgery listed) is a viable consideration. The text also clarifies that surgery is 'less effective in severe OSAHS and in obese patients,' making options regarding its effectiveness in those groups incorrect.",
+    "highYieldPearl": "Rio's Take: Upper airway surgery for OSA, particularly UPPP, is a consideration for mild OSA, primary snorers, or patients unable to tolerate CPAP, but it's generally less effective than CPAP and has reduced efficacy in severe or obese patients.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Page 211 clearly states that 'Upper airway surgery for OSAHS is less effective than CPAP,' making this statement incorrect.",
+      "B": "CPAP intolerance is one of the key indications for considering surgical intervention in OSA, as stated on page 211 ('mostly reserved for the treatment of patients... who cannot tolerate CPAP'). Therefore, it is not contraindicated.",
+      "C": "This statement is accurate based on the text on page 211, which lists mild OSA and CPAP intolerance as conditions for which upper airway surgery, including UPPP, is 'mostly reserved'.",
+      "D": "Page 211 explicitly states that 'Upper airway surgery is less effective in severe OSAHS and in obese patients,' which directly contradicts the claim of equal effectiveness in these groups."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_085495bf",
+    "question": "A 45-year-old male is diagnosed with moderate obstructive sleep apnea (OSA) by polysomnography, with an AHI of 22 events/hour. He has no significant comorbidities such as heart failure, COPD, or complex sleep apnea. He expresses willingness to try CPAP therapy and has no known contraindications to in-home treatment or technical limitations that would prevent home setup. What is the most appropriate initial positive airway pressure (PAP) titration strategy for this patient?",
+    "options": {
+      "A": "In-home auto-titrating CPAP (AutoPAP)",
+      "B": "In-laboratory manual CPAP titration",
+      "C": "Bi-level positive airway pressure (BiPAP) titration",
+      "D": "Adaptive servo-ventilation (ASV) titration"
+    },
+    "correctAnswer": "A",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "For uncomplicated obstructive sleep apnea diagnosed by polysomnography (PSG) or home sleep apnea test (HSAT), if the patient is suitable for in-home auto-titration, Auto-titrating CPAP (AutoPAP) is recommended as the initial titration strategy. This approach allows the device to automatically adjust pressure within a prescribed range based on the patient's breathing patterns, often improving comfort and adherence. In-laboratory titration is generally reserved for complicated cases, when in-home titration fails, or if the patient is not suitable for home titration.",
+    "highYieldPearl": "Rio's Take: For uncomplicated OSA, AutoPAP for in-home titration is the preferred initial approach if suitable, offering flexibility and comfort without sacrificing efficacy compared to fixed CPAP for residual AHI.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct option. The provided text (Page 159) clearly outlines that for 'uncomplicated' OSA where the patient is 'suitable for in-home auto-titration', this is the recommended first step.",
+      "B": "This is a plausible option and often used, but it's the next step if auto-titration fails or if the patient is not suitable for home titration. For an uncomplicated patient suitable for home use, it's not the *initial* most appropriate strategy according to the algorithm.",
+      "C": "BiPAP is typically used for patients who fail CPAP, have central apneas, hypoventilation (e.g., due to COPD, NMD, chest wall disorders), or require higher pressures, none of which are indicated in this uncomplicated scenario.",
+      "D": "ASV is specifically designed for central sleep apnea or complex sleep apnea, not primarily for obstructive sleep apnea. Using it as an initial therapy for uncomplicated OSA is incorrect."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_a2a95dd5",
+    "question": "A 58-year-old patient with newly diagnosed moderate obstructive sleep apnea (OSA) is initiating positive airway pressure (PAP) therapy. They express concerns about the potential discomfort from a continuous fixed pressure and difficulty adjusting to the treatment. Considering these concerns, which of the following statements regarding AutoPAP therapy compared to fixed CPAP therapy is most accurate?",
+    "options": {
+      "A": "AutoPAP generally leads to better patient comfort and is often preferred by patients.",
+      "B": "Fixed CPAP is demonstrably more effective in achieving a lower residual AHI.",
+      "C": "AutoPAP is primarily indicated for patients with central sleep apnea.",
+      "D": "Fixed CPAP is associated with a significantly lower incidence of side effects."
+    },
+    "correctAnswer": "A",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "Multiple studies and guidelines indicate that while AutoPAP and fixed CPAP are equally effective in terms of residual AHI, neurocognitive function, and side effect profiles, AutoPAP is often associated with better patient comfort due to its ability to titrate pressure automatically. This flexibility can lead to better tolerance and patient preference, especially for those concerned about fixed high pressures.",
+    "highYieldPearl": "Rio's Take: When comparing AutoPAP and fixed CPAP, remember the key advantage of AutoPAP is improved patient comfort and preference, despite similar efficacy in AHI reduction and side effect profiles.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct option. The provided text (Page 164) explicitly states 'Better patient comfort with Auto CPAP (less pressure-discomfort)' and 'Better tolerated and preferred by patients is Auto CPAP'. This directly addresses the patient's concerns.",
+      "B": "This is incorrect. The text (Page 164) clearly states 'No difference in residual AHI' between AutoPAP and fixed CPAP.",
+      "C": "This is incorrect. AutoPAP is for obstructive sleep apnea, adjusting pressure to overcome upper airway obstruction. Adaptive Servo-Ventilation (ASV) is indicated for central sleep apnea, not AutoPAP.",
+      "D": "This is incorrect. The text (Page 164) states 'No difference in side effect profiles' between AutoPAP and fixed CPAP."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_a85c6492",
+    "question": "A 40-year-old male with moderate obstructive sleep apnea (AHI 20 events/hour) has been highly intolerant to CPAP therapy for 6 months, despite multiple mask trials, pressure relief strategies, and desensitization efforts in the lab. He is not morbidly obese (BMI 28 kg/m2). He has no other significant medical comorbidities. What is the most appropriate next step in the management of this patient's OSA?",
+    "options": {
+      "A": "Consider surgical options for upper airway modification, such as Uvulopalatopharyngoplasty (UPPP).",
+      "B": "Initiate adaptive servo-ventilation (ASV) therapy.",
+      "C": "Increase the fixed CPAP pressure to the maximum tolerable level.",
+      "D": "Discontinue all PAP therapy and recommend lifestyle modifications only."
+    },
+    "correctAnswer": "A",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "For patients with OSA who are intolerant to CPAP despite comprehensive efforts (mask trials, desensitization), surgical options become a viable alternative, particularly when the patient is not morbidly obese (as efficacy is reduced in severe obesity). The text (Page 211) states that 'Upper airway surgery for OSAHS is less effective than CPAP and is mostly reserved for the treatment of patients who snore, have mild OSAHS, or cannot tolerate CPAP.' Uvulopalatopharyngoplasty (UPPP) is specifically mentioned as the most common surgery for OSA.",
+    "highYieldPearl": "Rio's Take: Surgery for OSA is typically a second-line therapy, primarily considered for patients with mild OSA, snoring, or, crucially, those who cannot tolerate CPAP. Efficacy decreases in severe OSA and obese patients.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct option. The provided text (Page 211) clearly states that upper airway surgery for OSA is reserved for patients who 'cannot tolerate CPAP'. The patient's BMI being non-morbidly obese also supports this, as surgery is less effective in severe obesity.",
+      "B": "ASV is indicated for central sleep apnea or complex sleep apnea, not primarily for obstructive sleep apnea, especially when the issue is CPAP intolerance. It does not address the underlying obstructive mechanism.",
+      "C": "The vignette explicitly states the patient is 'highly intolerant' despite pressure relief strategies and desensitization. Simply increasing the pressure is highly unlikely to improve tolerance and may worsen it, leading to further non-adherence.",
+      "D": "Discontinuing all effective treatments for moderate OSA (AHI 20) is inappropriate. While lifestyle modifications are crucial, they are rarely sufficient as a sole treatment for moderate OSA, and untreated OSA carries significant health risks. Alternative treatments must be explored."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_64488815",
+    "question": "Which of the following statements accurately describes a key difference between Fixed Continuous Positive Airway Pressure (Fixed CPAP) and Automatic Positive Airway Pressure (AutoPAP) therapy for Obstructive Sleep Apnea (OSA)?",
+    "options": {
+      "A": "AutoPAP has been shown to result in a significantly lower residual Apnea-Hypopnea Index (AHI) compared to Fixed CPAP.",
+      "B": "Fixed CPAP is generally preferred by patients over AutoPAP due to its consistent pressure delivery.",
+      "C": "AutoPAP automatically adjusts pressures in response to respiratory events, while Fixed CPAP delivers a constant, predetermined pressure.",
+      "D": "Fixed CPAP typically offers greater patient comfort due to the absence of pressure fluctuations."
+    },
+    "correctAnswer": "C",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "Fixed CPAP delivers a single, constant pressure throughout the night. In contrast, AutoPAP devices are designed to automatically titrate pressures within a set range, adjusting them breath-by-breath based on the detection of respiratory events such as apneas, hypopneas, or flow limitation. According to the provided text, while AutoPAP offers automatic pressure adjustments and is often preferred by patients for comfort, there is no significant difference in residual AHI or neurocognitive function between AutoPAP and Fixed CPAP.",
+    "highYieldPearl": "Rio's Take: AutoPAP's primary advantage is its ability to adapt to varying pressure needs, potentially improving comfort and adherence, even if overall AHI reduction is comparable to a well-titrated fixed CPAP.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. The text explicitly states, 'No difference in residual AHI' between Auto CPAP and Fixed CPAP. This is a common misconception that automatic titration inherently leads to better AHI outcomes.",
+      "B": "Incorrect. The text indicates that Auto CPAP is 'Better tolerated and preferred by patients' due to 'less pressure-discomfort', contradicting the idea that Fixed CPAP is preferred.",
+      "C": "Correct. This statement directly defines the operational difference: AutoPAP automatically titrates pressures, while Fixed CPAP delivers fixed pressures throughout the respiratory cycle.",
+      "D": "Incorrect. The text states that 'Better patient comfort with Auto CPAP (less pressure-discomfort)' is observed, implying that Fixed CPAP, with its constant higher pressures, can sometimes be less comfortable."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_1d0cf072",
+    "question": "A 50-year-old male with recently diagnosed Obstructive Sleep Apnea (OSA) is being considered for Positive Airway Pressure (PAP) therapy. According to guidelines, which of the following patient characteristics would typically NOT necessitate an initial in-laboratory PAP titration study, allowing for consideration of home auto-titration?",
+    "options": {
+      "A": "Co-existing severe congestive heart failure.",
+      "B": "Presence of complex sleep apnea features.",
+      "C": "OSA primarily exacerbated by the supine sleeping position.",
+      "D": "Significant nocturnal hypoventilation due to a chest wall disorder."
+    },
+    "correctAnswer": "C",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "The decision between in-laboratory and home auto-titration depends on the complexity of the patient's sleep-disordered breathing and comorbidities. Conditions such as complex sleep apnea, severe congestive heart failure, COPD, or hypoventilation due to neuromuscular or chest wall disorders typically warrant an in-laboratory titration for more precise and monitored pressure settings. However, for uncomplicated OSA, especially when factors like supine-position dependence or REM-related OSA are prominent, home auto-titration can often be successful as an initial approach.",
+    "highYieldPearl": "Rio's Take: While in-lab titration offers comprehensive monitoring, home auto-titration is a viable and often preferred initial option for uncomplicated OSA, particularly in scenarios where specific positional or REM-related triggers are noted.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Trap. The text lists 'Heart failure' as a condition requiring in-lab titration. This makes an in-lab study necessary.",
+      "B": "Trap. 'Complex sleep apnea' is explicitly listed as requiring in-lab titration. This makes an in-lab study necessary.",
+      "C": "Correct. The text lists 'Supine OSA' under conditions where 'Auto titration' is suitable. For uncomplicated OSA, home auto-titration is a recommended initial step if the patient is suitable, thus not necessitating an initial in-laboratory study.",
+      "D": "Trap. 'Hypoventilation (Chest wall disorders, NMD's)' is explicitly listed as requiring in-lab titration. This makes an in-lab study necessary."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_cbc53270",
+    "question": "Regarding surgical treatment for Obstructive Sleep Apnea (OSA), which of the following statements is TRUE?",
+    "options": {
+      "A": "Surgical interventions, such as Uvulopalatopharyngoplasty (UPPP), are generally considered the primary treatment for severe OSA due to their high efficacy.",
+      "B": "Tracheostomy is a commonly performed primary surgical procedure for patients with moderate to severe OSA who desire a definitive cure.",
+      "C": "Upper airway surgery for OSA is typically reserved for patients with mild OSA, those who are primarily snorers, or individuals who cannot tolerate CPAP therapy.",
+      "D": "Maxillomandibular advancement osteotomy is generally more effective in obese patients with severe OSA compared to other upper airway surgical procedures."
+    },
+    "correctAnswer": "C",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "The provided text clearly states that upper airway surgery for OSAHS is 'less effective than CPAP' and is 'mostly reserved for the treatment of patients who snore, have mild OSAHS, or cannot tolerate CPAP.' Furthermore, it notes that 'Upper airway surgery is less effective in severe OSAHS and in obese patients.' Tracheostomy is indicated with an 'X', signifying it is not a common primary treatment.",
+    "highYieldPearl": "Rio's Take: Surgery for OSA is a secondary option, not a replacement for CPAP, especially in severe cases or obese patients. It's best suited for specific patient profiles or when CPAP fails.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Trap. The text explicitly states that 'Upper airway surgery for OSAHS is less effective than CPAP' and is not the primary treatment for severe OSA.",
+      "B": "Trap. Tracheostomy is marked with an 'X' in the list of surgeries, indicating it is not a commonly performed primary procedure but rather a last resort for severe, life-threatening obstruction.",
+      "C": "Correct. This statement is a direct quote from the text, summarizing the indications for surgical intervention in OSA.",
+      "D": "Trap. The text generally states that 'Upper airway surgery is less effective in severe OSAHS and in obese patients.' It does not suggest that Maxillomandibular advancement osteotomy (MMA) is *more* effective in obese patients compared to other surgeries; rather, the efficacy of all upper airway surgeries, including MMA, is diminished in obese individuals, though MMA is generally considered one of the more effective surgical options when indicated."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_3d2420df",
+    "question": "A 55-year-old male presents with newly diagnosed severe obstructive sleep apnea (OSA), confirmed by polysomnography with an AHI of 48. He has a BMI of 32, a history of well-controlled hypertension, and reports consuming alcohol on weekends. His PSG report indicates primarily obstructive events without significant central apneas, hypoventilation, or other complex sleep-disordered breathing. He is comfortable with technology and expresses a preference for home-based treatment if possible. Based on current guidelines, what is the most appropriate initial positive airway pressure (PAP) titration strategy for this patient?",
+    "options": {
+      "A": "In-laboratory CPAP titration due to the severity of his OSA.",
+      "B": "In-home auto-titrating CPAP (APAP) as he has uncomplicated OSA and factors favoring auto-titration.",
+      "C": "In-laboratory bilevel positive airway pressure (BPAP) titration due to severe OSA and alcohol consumption.",
+      "D": "In-home auto-titrating CPAP (APAP) followed by immediate conversion to fixed CPAP if auto-titration is successful."
+    },
+    "correctAnswer": "B",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "The provided context indicates that for 'uncomplicated' OSA, if the patient is suitable for in-home auto-titration, APAP is the recommended initial approach. This patient does not exhibit any 'complicated' factors such as complex sleep-disordered breathing, complex sleep apnea, COPD, heart failure, or hypoventilation, which would mandate an in-laboratory titration. Although his OSA is severe (AHI 48), severity alone does not categorize it as 'complicated' by these guidelines. Furthermore, 'use of alcohol' is specifically listed as a factor favoring auto-titration. Since the patient is comfortable with technology and expresses a preference for home-based treatment, he is suitable for in-home auto-titration. Therefore, in-home APAP is the most appropriate initial strategy.",
+    "highYieldPearl": "Rio's Take: For 'uncomplicated' OSA, even severe cases, initial in-home auto-titrating CPAP is often preferred if the patient is suitable and lacks complex comorbidities, aligning with patient comfort and adherence.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is a common misconception. While severe OSA might intuitively suggest a more controlled in-lab environment, the guidelines prioritize 'uncomplicated' vs. 'complicated' OSA. Severity alone does not automatically classify OSA as 'complicated' if other complex factors (e.g., central apneas, hypoventilation) are absent. For uncomplicated severe OSA, if suitable, auto-CPAP is initially recommended.",
+      "B": "Correct. This option aligns with the provided flow chart for uncomplicated OSA and includes factors like alcohol use that favor auto-titration. The patient's comfort with technology also supports suitability for home-based APAP.",
+      "C": "BPAP is generally considered for patients who are intolerant to CPAP or require higher pressures, have persistent hypoventilation, or specific complex sleep-disordered breathing not present in this 'uncomplicated' scenario. Alcohol consumption is listed as a factor favoring APAP, not BPAP, and does not automatically necessitate in-laboratory BPAP titration.",
+      "D": "While successful auto-titration might lead to setting a fixed pressure based on the 90th or 95th percentile, the guidelines also state 'or leave in auto mode.' Therefore, immediate conversion to fixed CPAP is not a mandatory or immediate follow-up step. The question asks for the 'initial' strategy, and the latter part of this option makes it less precisely correct as a singular initial strategy."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_74f33adc",
+    "question": "A 42-year-old male with a BMI of 29 presents with severe obstructive sleep apnea (AHI 58) and significant daytime somnolence. He has attempted CPAP therapy for 6 months but reports persistent mask discomfort, claustrophobia, and severe air leakage despite trying multiple mask types and professional fitting. He is highly motivated for an alternative treatment. Regarding surgical options for OSA in this patient, which statement is most accurate?",
+    "options": {
+      "A": "Uvulopalatopharyngoplasty (UPPP) is the most common and usually the preferred initial surgical approach for severe OSA with CPAP intolerance.",
+      "B": "Hypoglossal nerve stimulator implantation is generally preferred over UPPP in patients with severe OSA and CPAP intolerance due to its higher success rates.",
+      "C": "Maxillomandibular advancement (MMA) osteotomy should be considered given his severe OSA and CPAP intolerance, as UPPP is less effective in severe disease.",
+      "D": "Tracheostomy is indicated as a definitive treatment for severe OSA with documented CPAP intolerance and high motivation for surgical intervention."
+    },
+    "correctAnswer": "C",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "The patient has severe OSA and is CPAP intolerant, making surgical intervention a consideration. The provided text states that 'Upper airway surgery for OSAHS is less effective than CPAP and is mostly reserved for the treatment of patients who snore, have mild OSAHS, or cannot tolerate CPAP.' Critically, it also notes that 'Upper airway surgery is less effective in severe OSAHS and in obese patients.' While UPPP is the most common surgery, its effectiveness is explicitly stated to be reduced in severe OSA. Maxillomandibular advancement (MMA) osteotomy is known to be one of the most effective surgical options for severe OSA by increasing the pharyngeal airway space and is a strong consideration in patients with severe disease and CPAP intolerance, especially when less invasive surgeries like UPPP may be less effective.",
+    "highYieldPearl": "Rio's Take: For severe OSA, even with CPAP intolerance, UPPP may have limited efficacy. More aggressive surgeries like Maxillomandibular Advancement are often considered for their higher success rates in severe disease, aligning with the principle of matching treatment intensity to disease severity.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "While UPPP is the most common surgery, the text explicitly states it is 'less effective in severe OSAHS.' Therefore, suggesting it as the 'preferred initial surgical approach' for *severe* OSA, despite CPAP intolerance, is inaccurate as more effective options might exist for severe cases.",
+      "B": "The text lists hypoglossal nerve stimulator implantation as a surgical option but does not provide information to suggest it is 'generally preferred' over UPPP or state its comparative success rates. While it's a valid option, this statement asserts a preference unsupported by the provided context.",
+      "C": "Correct. This option accurately reflects the limitation of UPPP in severe OSA as stated in the text and proposes MMA, which is a known highly effective surgery for severe OSA, as a suitable consideration in this context.",
+      "D": "Tracheostomy is marked with an '✗' in the list of surgeries, indicating it is not a routine or preferred option for OSA. It is typically reserved for extremely rare cases of life-threatening OSA refractory to all other treatments, not as a standard definitive treatment for severe OSA with CPAP intolerance."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_ec402473",
+    "question": "A 48-year-old obese female (BMI 38) with difficult-to-control asthma is diagnosed with severe obstructive sleep apnea (AHI 60). She is initiated on CPAP therapy. Based on the understanding of comorbidities in obese patients with asthma and OSA, which of the following outcomes is LEAST likely to be directly improved by effective CPAP therapy in this patient?",
+    "options": {
+      "A": "Functional residual capacity (FRC).",
+      "B": "Daytime sleepiness.",
+      "C": "Asthma control.",
+      "D": "Residual AHI."
+    },
+    "correctAnswer": "A",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "Effective CPAP therapy primarily addresses the collapse of the upper airway during sleep, thereby reducing apneas and hypopneas. This directly leads to improvements in: (B) Daytime sleepiness, a cardinal symptom of OSA, and (D) Residual AHI, the primary objective measure of OSA severity. OSA is listed as a comorbidity that may contribute to asthma severity in obese patients (Table 61.2). Therefore, treating OSA with CPAP can indirectly but significantly improve (C) Asthma control by mitigating a contributing factor. However, (A) Functional residual capacity (FRC) is a lung volume that is often decreased in obese patients due to the mechanical effects of obesity (Table 61.1). While CPAP keeps the airway open, it does not directly reverse or normalize the underlying restrictive physiology on lung volumes caused by obesity. Improvements in FRC in obese patients are primarily achieved through weight loss interventions, not directly by CPAP itself. CPAP helps maintain airway patency but does not fundamentally alter the lung mechanics impacted by obesity.",
+    "highYieldPearl": "Rio's Take: CPAP is effective for OSA symptoms and can indirectly improve comorbidities like asthma. However, it does not directly reverse the altered lung mechanics (e.g., decreased FRC) caused by obesity; weight loss is the primary intervention for these physiological changes.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Correct. Decreased FRC in obese patients is a physiological consequence of obesity itself, not directly reversed by CPAP. While CPAP provides positive pressure, its primary effect is on airway patency, not on normalizing static lung volumes or mechanics influenced by obesity. Weight loss is the direct intervention for FRC improvement in obese individuals.",
+      "B": "Daytime sleepiness is a hallmark symptom of OSA and is directly and significantly improved by effective CPAP therapy.",
+      "C": "Obstructive sleep apnea is identified as a comorbidity that contributes to asthma severity in obese patients. Therefore, effective treatment of OSA with CPAP is expected to indirectly lead to improvements in asthma control.",
+      "D": "Residual AHI is the most direct measure of CPAP's efficacy in treating OSA. Effective CPAP therapy aims to reduce the AHI to an acceptable residual level, typically below 5 or 10 events per hour, leading to clinical improvement."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_08c105e8",
+    "question": "A 62-year-old male with recently diagnosed severe Obstructive Sleep Apnea (AHI 55 events/hr) also has a history of severe COPD (GOLD D, FEV1 35% predicted). He reports significant daytime sleepiness and witnessed apneas. His pulmonologist recommends initiation of positive airway pressure therapy. Considering his comorbidities, which of the following is the most appropriate initial method for CPAP pressure titration?",
+    "options": {
+      "A": "In-laboratory manual CPAP titration.",
+      "B": "In-home auto-titrating CPAP with close remote monitoring.",
+      "C": "Fixed pressure CPAP based on an empirical formula derived from polysomnography.",
+      "D": "Titration with bi-level positive airway pressure (BPAP-S) during an in-home study."
+    },
+    "correctAnswer": "A",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "The provided context (Page 159, 160) explicitly outlines the CPAP titration strategy. For patients with 'Complicated' OSA, an in-laboratory titration study is recommended. The table on Page 160 specifically lists 'COPD' under conditions that require 'In-Lab titration'. This is crucial because complex underlying respiratory conditions can significantly influence optimal pressure requirements and respiratory mechanics during sleep, necessitating supervised, manual titration to ensure safety and efficacy.",
+    "highYieldPearl": "Rio's Take: For patients with complicated sleep-disordered breathing, such as those with significant comorbidities like COPD, heart failure, or hypoventilation, an in-laboratory manual PAP titration is crucial for accurate and safe pressure determination. Auto-titration is generally reserved for uncomplicated OSA.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct choice as the text explicitly lists COPD as a condition requiring in-laboratory titration. This ensures comprehensive assessment and proper pressure setting for patients with complex medical backgrounds.",
+      "B": "This is a trap. While in-home auto-titration is convenient and suitable for uncomplicated OSA, the presence of severe COPD classifies this patient as having 'complicated' sleep-disordered breathing. Initial auto-titration in such cases is generally not recommended or considered unsafe without an initial in-lab assessment, as it may fail to adequately address the respiratory complexities.",
+      "C": "This is a trap. Fixed pressure based on an empirical formula is not a recognized or safe primary method for accurately titrating CPAP, especially in severe OSA or with significant comorbidities. Proper, individualized titration, either manual or auto, is required.",
+      "D": "This is a trap. While BiPAP might be considered in some complex cases (e.g., if CPAP is poorly tolerated or if there's significant hypoventilation not responding to CPAP), the initial titration for complicated OSA should always be performed in an in-laboratory setting, not in-home. The text directs 'complicated' cases directly to 'in-laboratory titration study'. In-home studies are typically for diagnosis (HSAT) or follow-up, not initial complex titration."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_cb2b9e21",
+    "question": "A 48-year-old male with recently diagnosed moderate Obstructive Sleep Apnea (AHI 22 events/hr) has completed an in-laboratory CPAP titration study, which determined an optimal fixed pressure of 10 cm H2O. He is concerned about the sensation of continuous pressure and potential difficulty exhaling, expressing a preference for a device that might adjust more dynamically. Based on evidence comparing different PAP modes, which statement regarding Automatic Positive Airway Pressure (Auto-CPAP) compared to Fixed Continuous Positive Airway Pressure (Fixed CPAP) is most accurate for this patient?",
+    "options": {
+      "A": "Auto-CPAP is generally better tolerated and preferred by patients, often due to less pressure discomfort, without a significant difference in residual Apnea-Hypopnea Index (AHI).",
+      "B": "Fixed CPAP consistently achieves a lower residual AHI and better neurocognitive outcomes compared to Auto-CPAP, making it the preferred mode for efficacy.",
+      "C": "Auto-CPAP is associated with a higher incidence of upper airway dryness and mask leaks due to its pressure variability.",
+      "D": "For patients with documented optimal fixed pressure, switching to Auto-CPAP offers no clinical benefit and may compromise treatment effectiveness."
+    },
+    "correctAnswer": "A",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "The provided text on Page 164 directly compares Auto CPAP and Fixed CPAP. It states: 'Better patient comfort with Auto CPAP (less pressure-discomfort)', 'Better tolerated and preferred by patients is Auto CPAP', and 'No difference in residual AHI'. It also notes 'No difference in EDS, neurocognitive function' and 'No difference in side effect profiles'. This evidence strongly supports Auto-CPAP as a valid alternative offering comfort benefits without compromising AHI control or other key outcomes.",
+    "highYieldPearl": "Rio's Take: While both Auto-CPAP and Fixed CPAP are effective in controlling AHI, Auto-CPAP often leads to improved patient comfort and adherence, which can be critical for long-term treatment success, especially in patients sensitive to fixed pressures.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct statement, directly supported by the provided text which highlights better patient comfort and preference for Auto CPAP with equivalent AHI reduction and other outcomes.",
+      "B": "This is a trap. The text explicitly states 'No difference in residual AHI' and 'No difference in EDS, neurocognitive function' between Auto-CPAP and Fixed CPAP, refuting the claim of superior efficacy for Fixed CPAP.",
+      "C": "This is a trap. The text states 'No difference in side effect profiles' between Auto-CPAP and Fixed CPAP, indicating that Auto-CPAP does not inherently cause more side effects like dryness or mask leaks.",
+      "D": "This is a trap. While an optimal fixed pressure may have been determined, switching to Auto-CPAP can offer significant clinical benefits in terms of patient comfort, tolerance, and adherence, which are crucial for long-term treatment success. The text supports Auto-CPAP as being 'better tolerated and preferred by patients', implying a clinical benefit even if AHI reduction is similar."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_983b6738",
+    "question": "A 55-year-old morbidly obese male (BMI 42 kg/m²) with severe Obstructive Sleep Apnea (AHI 60 events/hr) has failed multiple attempts at CPAP therapy due to extreme intolerance. He also has significant nasal obstruction and reports loud snoring. He is seeking alternative treatment options, particularly surgical intervention. Based on the effectiveness of various surgical approaches for OSA, which statement is most appropriate concerning this patient's surgical management?",
+    "options": {
+      "A": "Uvulopalatopharyngoplasty (UPPP) is the most common surgery for OSA and is highly effective in CPAP-intolerant patients, making it a suitable first-line surgical option for him.",
+      "B": "Maxillomandibular advancement osteotomy should be considered due to its high success rates in severe OSA, despite potentially higher surgical morbidity, as other options are less effective in obese patients.",
+      "C": "Tracheostomy offers a definitive cure for OSA and is generally recommended for patients with severe OSA who are intolerant to CPAP therapy.",
+      "D": "Nasal surgery to address his obstruction, potentially combined with a hypoglossal nerve stimulator, would likely offer a better chance of success compared to UPPP given his severe OSA and obesity."
+    },
+    "correctAnswer": "D",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "The provided text (Page 211) clearly states: 'Upper airway surgery for OSAHS is less effective than CPAP and is mostly reserved for the treatment of patients who snore, have mild OSAHS, or cannot tolerate CPAP.' Critically, it further specifies, 'Upper airway surgery is less effective in severe OSAHS and in obese patients.' This patient has *severe* OSA and is *morbidly obese*, directly contraindicating UPPP as a highly effective first-line option. The text lists 'Nasal surgery' and 'Hypoglossal nerve stimulator implantation' (Page 167) as other surgical options. Addressing nasal obstruction can improve breathing and potentially reduce AHI or facilitate other treatments. Hypoglossal nerve stimulation is a recognized treatment for moderate-to-severe OSA in CPAP-intolerant patients and would generally be considered more effective than UPPP in a severe, obese patient who has failed CPAP.",
+    "highYieldPearl": "Rio's Take: For severe OSA, especially in obese and CPAP-intolerant patients, traditional upper airway surgeries like UPPP have limited efficacy. More advanced options such as hypoglossal nerve stimulation, maxillomandibular advancement, or targeted procedures like nasal surgery to address specific anatomical obstructions, are more likely to offer benefit. Tracheostomy is a last resort, not a general recommendation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a trap. While UPPP is mentioned as the most common surgery, the text explicitly states that 'Upper airway surgery is less effective in severe OSAHS and in obese patients' (Page 211). This patient's severe OSA and morbid obesity make UPPP a poor choice for high effectiveness, making this statement inaccurate.",
+      "B": "This is a trap, or at best, not the best answer based on the provided text. While Maxillomandibular advancement osteotomy (MMA) is listed as a surgical option (Page 167) and is clinically known for high success rates in severe OSA, the provided text does not explicitly detail its comparative success rates or morbidity. Option D is more strongly inferable from the direct limitations stated for UPPP in this specific patient population.",
+      "C": "This is a trap. The text lists 'Tracheostomy' with an 'X' next to it (Page 167), which implies it is not a common or standard primary surgical option for OSA. While it offers a definitive cure, it is reserved for extremely severe, refractory cases as a last resort, not 'generally recommended' for CPAP intolerance.",
+      "D": "This is the most appropriate statement. It correctly identifies the limitations of UPPP for this patient's profile (severe OSA, obesity) based on the text. It then proposes two other listed surgical options (Nasal surgery and Hypoglossal nerve stimulator) that are generally considered more suitable and effective for such complex cases of CPAP intolerance and severe disease, making it a well-reasoned choice based on inference from the provided context."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_1c284c43",
+    "question": "Which of the following conditions is typically considered an indication for an in-laboratory PAP titration study rather than in-home auto-titration for Obstructive Sleep Apnea?",
+    "options": {
+      "A": "Supine Obstructive Sleep Apnea",
+      "B": "Obstructive Sleep Apnea with significant weight variation",
+      "C": "Complex sleep-disordered breathing",
+      "D": "Obstructive Sleep Apnea predominantly in REM sleep"
+    },
+    "correctAnswer": "C",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "The provided text differentiates between conditions suitable for in-laboratory PAP titration and those where auto-titration might be preferred or applicable. Complex sleep-disordered breathing is explicitly listed under the 'In-Lab titration' column, indicating its preference for a supervised, controlled environment for titration. Conditions like Supine OSA, REM OSA, and OSA with weight variation are listed under 'Auto titration', suggesting they can often be managed with auto-titrating CPAP in the home setting.",
+    "highYieldPearl": "Rio's Take: Complicated cases of sleep-disordered breathing, including complex sleep apnea, heart failure, COPD, and hypoventilation, generally necessitate an in-laboratory PAP titration for precise pressure determination and appropriate mode selection.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "While supine OSA is a specific presentation, the provided table places it under 'Auto titration', making this option incorrect for an 'in-laboratory' indication.",
+      "B": "Fluctuations in weight can alter PAP pressure requirements, which auto-CPAP can adapt to. The table lists 'Variation to weight' under 'Auto titration', thus this is not an in-laboratory indication.",
+      "C": "This is the correct answer. The table explicitly lists 'Complex sleep-disordered breathing' as an indication for 'In-Lab titration', reflecting the need for more sophisticated monitoring and adjustment.",
+      "D": "REM-predominant OSA can be challenging, but the table categorizes 'REM OSA' under 'Auto titration', indicating it may be managed effectively in that modality."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_f7592efc",
+    "question": "Regarding the comparison between AutoPAP and Fixed CPAP for the treatment of Obstructive Sleep Apnea, all of the following statements are true, EXCEPT:",
+    "options": {
+      "A": "AutoPAP is generally better tolerated and preferred by patients.",
+      "B": "There is no significant difference in residual AHI between the two modes.",
+      "C": "AutoPAP has been shown to result in better neurocognitive function outcomes compared to Fixed CPAP.",
+      "D": "Patient comfort is often improved with AutoPAP due to less pressure-discomfort."
+    },
+    "correctAnswer": "C",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "The JCSM review section explicitly states that there is 'No difference in EDS, neurocognitive function' when comparing Auto CPAP and Fixed CPAP. Therefore, the statement that AutoPAP results in better neurocognitive function outcomes is incorrect. The text confirms that AutoPAP offers 'better patient comfort' (less pressure-discomfort), is 'better tolerated and preferred by patients', and shows 'No difference in residual AHI' compared to Fixed CPAP.",
+    "highYieldPearl": "Rio's Take: While AutoPAP offers patient comfort advantages, its clinical efficacy in terms of AHI reduction, EDS, and neurocognitive function is comparable to Fixed CPAP. The choice often comes down to patient preference and specific clinical scenarios.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This statement is true according to the text ('Better tolerated and preferred by patients is Auto CPAP'), so it is not the exception.",
+      "B": "This statement is true according to the text ('No difference in residual AHI'), so it is not the exception.",
+      "C": "This statement is false. The text explicitly states 'No difference in EDS, neurocognitive function' between Auto CPAP and Fixed CPAP. This is the correct answer to the 'EXCEPT' question.",
+      "D": "This statement is true according to the text ('Better patient comfort with Auto CPAP (less pressure-discomfort)'), so it is not the exception."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_979b49bd",
+    "question": "Which of the following statements regarding surgical intervention for Obstructive Sleep Apnea (OSA) is TRUE?",
+    "options": {
+      "A": "Uvulopalatopharyngoplasty (UPPP) is generally more effective than CPAP for severe OSAHS.",
+      "B": "Surgical options are primarily reserved for patients who cannot tolerate CPAP or have mild OSAHS.",
+      "C": "Maxillomandibular advancement osteotomy is considered the most common surgical procedure for OSA.",
+      "D": "Tracheostomy is a primary surgical intervention commonly utilized in the initial management of most OSA patients."
+    },
+    "correctAnswer": "B",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "The text clearly states, 'Upper airway surgery for OSAHS is less effective than CPAP and is mostly reserved for the treatment of patients who snore, have mild OSAHS, or cannot tolerate CPAP.' This directly supports option B. Option A is incorrect because surgery is stated to be 'less effective than CPAP' and 'less effective in severe OSAHS'. Option C is incorrect as Uvulopalatopharyngoplasty (UPPP) is identified as 'the most common surgery'. Option D is incorrect because tracheostomy is marked with an 'X' in the list of surgeries, implying it is not a common or primary intervention in general OSA management.",
+    "highYieldPearl": "Rio's Take: While various surgical options exist for OSA, they are generally considered second-line to CPAP, reserved for mild cases or for patients unable to tolerate CPAP. UPPP remains the most common surgical approach for upper airway remodeling.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is a plausible distractor because UPPP is a common surgery, but the text explicitly states that surgery is 'less effective than CPAP' and 'less effective in severe OSAHS'.",
+      "B": "This statement is true, directly reflecting the indications and role of surgery as outlined in the provided text.",
+      "C": "Maxillomandibular advancement osteotomy is a listed surgical option, but the text identifies Uvulopalatopharyngoplasty (UPPP) as 'the most common surgery', making this statement false.",
+      "D": "Tracheostomy is a definitive airway procedure, making it seem plausible, but the 'X' next to it in the provided list signifies it is not a primary or commonly utilized initial intervention for most OSA patients, being reserved for very severe or refractory cases."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_b92a82d1",
+    "question": "A 55-year-old male with newly diagnosed, uncomplicated moderate obstructive sleep apnea (AHI 20 events/hour) without significant comorbidities is being considered for CPAP therapy. He is motivated for treatment and does not have any conditions requiring complex titration. Which of the following is the most appropriate initial approach for determining optimal CPAP pressure settings in this patient?",
+    "options": {
+      "A": "In-home auto-titrating CPAP (AutoPAP) trial.",
+      "B": "In-laboratory manual CPAP titration study.",
+      "C": "Bi-level positive airway pressure (BiPAP) titration.",
+      "D": "Adaptive servo-ventilation (ASV) titration."
+    },
+    "correctAnswer": "A",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "For patients with uncomplicated obstructive sleep apnea diagnosed by PSG or HSAT, an initial trial of auto-titrating CPAP (AutoPAP) with in-home titration is recommended if the patient is suitable. This approach allows for convenient pressure optimization in the patient's natural sleep environment. If the in-home AutoPAP trial is unsuccessful (e.g., residual AHI >10, no clinical improvement, or poor adherence), then an in-laboratory titration study would be indicated. In-laboratory titration is initially recommended for 'complicated' cases (e.g., complex sleep apnea, COPD, heart failure, hypoventilation). BiPAP and ASV are typically reserved for more complex sleep-disordered breathing patterns or intolerance to conventional CPAP.",
+    "highYieldPearl": "Rio's Take: For uncomplicated OSA, AutoPAP is often the preferred initial method for pressure determination due to convenience and patient preference. In-lab titration is reserved for complicated cases or failed AutoPAP trials.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct answer. The text explicitly states that for uncomplicated OSA, if the patient is suitable for in-home auto-titration, AutoPAP is the recommended initial step.",
+      "B": "This is a plausible option but not the *most appropriate initial* approach for *uncomplicated* OSA. In-laboratory titration is generally recommended for 'complicated' cases or if in-home auto-titration fails.",
+      "C": "BiPAP is a form of PAP therapy but is typically used for more complex conditions like hypoventilation or central sleep apnea components, or for patients intolerant to CPAP, not as a standard initial titration for uncomplicated OSA.",
+      "D": "ASV is used for specific types of sleep-disordered breathing, particularly central sleep apnea with Cheyne-Stokes breathing, and is not a first-line titration method for uncomplicated obstructive sleep apnea."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_631ea04c",
+    "question": "A 48-year-old female presents with severe obstructive sleep apnea (AHI 45 events/hour) and significant obesity (BMI 37 kg/m2). She has tried CPAP for 8 months but reports persistent mask discomfort and claustrophobia despite multiple mask trials and attempts at desensitization. She is now exploring surgical options for her OSA. Regarding surgical treatment for Obstructive Sleep Apnea in this patient, which of the following statements is most accurate?",
+    "options": {
+      "A": "Uvulopalatopharyngoplasty (UPPP) is highly effective and generally recommended as a primary treatment for severe OSA in obese patients.",
+      "B": "Maxillomandibular advancement osteotomy is typically considered a first-line surgical option in cases of severe OSA with CPAP intolerance.",
+      "C": "Surgical interventions are generally less effective than CPAP and are often reserved for patients who cannot tolerate CPAP or have mild OSA.",
+      "D": "Tracheostomy is a common initial surgical approach for severe OSA with CPAP intolerance due to its high success rate in resolving obstruction."
+    },
+    "correctAnswer": "C",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "Upper airway surgery for OSAHS is generally less effective than CPAP and is primarily reserved for patients who cannot tolerate CPAP, have mild OSAHS, or primarily suffer from snoring. Specifically, for severe OSAHS and in obese patients, upper airway surgery (including UPPP) is noted to be less effective. While various surgical procedures exist, none are typically considered first-line over CPAP, and tracheostomy is a last resort, not a common initial approach. The patient's inability to tolerate CPAP makes her a candidate for surgical consideration, but with the understanding of its limitations, especially given her severe OSA and obesity.",
+    "highYieldPearl": "Rio's Take: Surgery for OSA is usually a secondary option to CPAP, particularly for CPAP intolerance or mild cases. Its efficacy diminishes in severe OSA and obese patients.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. The text states UPPP and upper airway surgery are 'less effective in severe OSAHS and in obese patients,' making this statement inaccurate as a general recommendation for primary treatment in this patient's profile.",
+      "B": "Maxillomandibular advancement is a significant and often effective surgery, but the provided text does not support it being 'first-line' over other surgical considerations for CPAP intolerance or as a general principle of surgical treatment for severe OSA. The overarching principle is that surgery is less effective than CPAP.",
+      "C": "This is the correct statement. The text explicitly mentions that 'Upper airway surgery for OSAHS is less effective than CPAP and is mostly reserved for the treatment of patients who snore, have mild OSAHS, or cannot tolerate CPAP.'",
+      "D": "Incorrect. Tracheostomy is a highly invasive procedure reserved for extreme, life-threatening cases of OSA where other treatments have failed or are not feasible. It is not considered a common initial surgical approach."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_509af5e2",
+    "question": "A 60-year-old patient with recently diagnosed moderate OSA is discussing treatment options with her pulmonologist. She is particularly concerned about potential discomfort with positive airway pressure therapy and expresses a preference for the most comfortable option. When comparing Auto-titrating CPAP (AutoPAP) with Fixed CPAP, which of the following statements is most consistent with current evidence regarding patient experience?",
+    "options": {
+      "A": "AutoPAP generally leads to a lower residual Apnea-Hypopnea Index (AHI) compared to Fixed CPAP.",
+      "B": "AutoPAP is often associated with better patient comfort and preference due to automatically adjusted pressures.",
+      "C": "Fixed CPAP is preferred for patients with significant weight variations or nasal obstruction.",
+      "D": "Both AutoPAP and Fixed CPAP have significantly different side effect profiles, with AutoPAP having fewer side effects."
+    },
+    "correctAnswer": "B",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "When comparing AutoPAP and Fixed CPAP, studies have shown that there is no significant difference in the residual Apnea-Hypopnea Index (AHI), neurocognitive function, or side effect profiles. However, AutoPAP is often found to be better tolerated and preferred by patients due to its ability to automatically adjust pressures, leading to less pressure-discomfort, especially during sleep stages with varying needs or positional changes. Fixed CPAP is not preferred for patients with significant weight variations or nasal obstruction; rather, these conditions might lean towards the flexibility of AutoPAP or even an in-lab titration depending on complexity.",
+    "highYieldPearl": "Rio's Take: While both AutoPAP and Fixed CPAP are effective, AutoPAP wins on patient comfort and preference without compromising efficacy (similar AHI) or side effects.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. The text explicitly states, 'No difference in residual AHI' between AutoPAP and Fixed CPAP.",
+      "B": "This is the correct answer. The text highlights 'Better patient comfort with Auto CPAP (less pressure-discomfort)' and 'Better tolerated and preferred by patients is Auto CPAP'.",
+      "C": "Incorrect. The provided table indicates that 'Variation to weight' and 'Nasal obstruction' are factors where auto-titration (AutoPAP) might be more suitable or considered, not Fixed CPAP. Fixed CPAP does not offer the flexibility to adapt to these changes.",
+      "D": "Incorrect. The text states, 'No difference in side effect profiles' between AutoPAP and Fixed CPAP."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_423b2e94",
+    "question": "A 45-year-old male is diagnosed with uncomplicated obstructive sleep apnea (OSA) based on a home sleep apnea test (HSAT). He has no other significant comorbidities and reports moderate daytime sleepiness. He is deemed suitable for in-home auto-titration and expresses a preference for a flexible approach to therapy initiation.",
+    "options": {
+      "A": "Perform an in-laboratory manual CPAP titration study.",
+      "B": "Initiate auto-titrating CPAP (AutoPAP) with in-home titration.",
+      "C": "Prescribe fixed BiPAP without prior titration.",
+      "D": "Immediately consider surgical options like Uvulopalatopharyngoplasty (UPPP)."
+    },
+    "correctAnswer": "B",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "The provided algorithm for OSA management clearly states that for uncomplicated OSA diagnosed by PSG or HSAT, if the patient is suitable for in-home auto-titration, then auto-titrating CPAP (AutoPAP) with in-home titration is the recommended initial approach. An in-laboratory titration is reserved for cases where auto-titration is unsuccessful, the patient is not suitable for in-home titration, or in cases of complicated OSA.",
+    "highYieldPearl": "Rio's Take: For uncomplicated OSA, in-home auto-titrating CPAP (AutoPAP) is the preferred initial titration method if the patient is suitable, offering convenience and comparable efficacy to fixed CPAP in appropriate cases.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is a plausible option as in-lab titration is a standard method, but the vignette specifies 'uncomplicated' and 'suitable for in-home auto-titration,' making AutoPAP the *initial recommended* approach in this specific scenario as per the guidelines. In-lab titration would be indicated if auto-titration fails or the patient is not suitable.",
+      "B": "This aligns directly with the algorithm for uncomplicated OSA when the patient is suitable for in-home auto-titration, making it the correct initial step.",
+      "C": "BiPAP is a different mode of PAP therapy, typically considered if CPAP is not tolerated or for specific complex cases (e.g., hypoventilation). Prescribing it without any titration for uncomplicated OSA is not the initial standard practice.",
+      "D": "Surgical options are generally considered less effective than CPAP, reserved for mild OSA, specific anatomical issues, or for patients who cannot tolerate CPAP after trials. It is not an initial step for a newly diagnosed patient, especially before attempting PAP therapy."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_1c3d9817",
+    "question": "A 60-year-old male presents with newly diagnosed severe obstructive sleep apnea (OSA) based on polysomnography. He also has a significant past medical history of chronic obstructive pulmonary disease (COPD) with documented daytime hypercapnia and occasional nocturnal oxygen desaturations. His pulmonologist is planning to initiate Positive Airway Pressure (PAP) therapy.",
+    "options": {
+      "A": "In-home auto-titrating CPAP (AutoPAP).",
+      "B": "Fixed CPAP based on an empirical pressure estimate.",
+      "C": "Manual in-laboratory PAP titration study.",
+      "D": "Auto-titrating BiPAP (Auto-BiPAP) prescribed immediately without further study."
+    },
+    "correctAnswer": "C",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "The provided text's table comparing 'In-Lab titration' and 'Auto titration' explicitly lists 'COPD' as a condition where in-laboratory titration is preferred. The presence of COPD with daytime hypercapnia makes the patient's OSA 'complicated,' requiring the controlled and comprehensive assessment of an in-laboratory study to precisely determine optimal PAP settings, potentially including BiPAP, while monitoring respiratory parameters and oxygenation closely.",
+    "highYieldPearl": "Rio's Take: Patients with complex comorbidities like COPD, heart failure, or hypoventilation syndromes are best managed with an in-laboratory PAP titration to ensure optimal and safe pressure setting determination, as auto-titration may not adequately address these complexities.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "While convenient for uncomplicated cases, AutoPAP is generally not recommended for patients with complex comorbidities like COPD, especially with hypercapnia, as this falls under conditions where an in-lab titration is specified.",
+      "B": "Prescribing fixed CPAP based solely on an empirical estimate without any form of titration (in-lab or auto) is not standard practice for OSA, particularly in a severe case with significant comorbidities. This approach risks inadequate treatment or potential complications.",
+      "C": "The text explicitly lists 'COPD' under the indications for 'In-Lab titration,' making this the correct choice. An in-lab study allows for detailed physiological monitoring and precise titration of pressures, which is crucial for complex patients.",
+      "D": "While BiPAP might be indicated for this patient due to hypercapnia, prescribing it immediately in an auto-titrating mode without any prior study to determine optimal settings or the necessity of BiPAP over CPAP is not the most appropriate initial step for determining *optimal PAP settings*."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lights_criteria_ea596280",
+    "question": "A 55-year-old obese male (BMI 38 kg/m²) has severe obstructive sleep apnea (OSA) and struggles significantly with CPAP adherence due to severe claustrophobia and mask discomfort, despite multiple mask trials and desensitization efforts. He is exploring surgical options as an alternative.",
+    "options": {
+      "A": "Upper airway surgery is highly effective in severe OSA, especially when CPAP fails, and can be considered a primary alternative.",
+      "B": "Upper airway surgery, such as UPPP, is more effective than CPAP in obese patients and those with severe OSA.",
+      "C": "Upper airway surgery, such as UPPP, is generally less effective than CPAP and often has suboptimal outcomes in patients with severe OSA and obesity.",
+      "D": "Upper airway surgery should be the first-line treatment for CPAP intolerance, regardless of OSA severity or obesity."
+    },
+    "correctAnswer": "C",
+    "topic": "Obstructive Sleep Apnea - Treatment",
+    "deepDiveExplanation": "The provided text directly addresses the role of surgery for OSA: 'Upper airway surgery for OSAHS is less effective than CPAP and is mostly reserved for the treatment of patients who snore, have mild OSAHS, or cannot tolerate CPAP.' Furthermore, it specifically states, 'Upper airway surgery is less effective in severe OSAHS and in obese patients.' This confirms that for a patient with severe OSA and obesity, surgical interventions like UPPP are generally less effective compared to CPAP, and outcomes may be suboptimal in this demographic.",
+    "highYieldPearl": "Rio's Take: While surgery is an option for CPAP intolerance, its efficacy is generally lower than CPAP, particularly in patients with severe OSA and obesity. It's often reserved for milder cases or as a last resort in carefully selected patients.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This statement is incorrect. The text explicitly states that upper airway surgery is 'less effective than CPAP,' not highly effective as a primary alternative, especially in severe and obese patients.",
+      "B": "This is directly contradicted by the provided information, which states, 'Upper airway surgery is less effective in severe OSAHS and in obese patients.'",
+      "C": "This option accurately reflects the information in the text: 'Upper airway surgery for OSAHS is less effective than CPAP' and 'Upper airway surgery is less effective in severe OSAHS and in obese patients.'",
+      "D": "While surgery is considered for CPAP intolerance, it is not a 'first-line treatment' for all intolerant patients. The text highlights its limited efficacy in severe and obese patients, making it not universally appropriate as a first-line option regardless of patient characteristics."
+    },
+    "sourceLocation": {
+      "bookName": "2.PLEURAL EFFUSION (1)",
+      "chapter": "Pleural fluid analysis",
+      "section": null,
+      "pageNumber": 14
+    },
+    "bookId": "2.PLEURAL EFFUSION (1)",
+    "chunkId": "2.PLEURAL EFFUSION_OCR_Complete (1)_chunk_025",
+    "generatedAt": 1767060988501,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "Which parameter is NOT part of the standard Light's Criteria for classifying pleural effusions?",
+    "options": {
+      "A": "Pleural fluid protein/serum protein ratio",
+      "B": "Pleural fluid LDH/serum LDH ratio",
+      "C": "Pleural fluid glucose level",
+      "D": "Pleural fluid LDH concentration"
+    },
+    "correctAnswer": "C",
+    "topic": "lights_criteria",
+    "deepDiveExplanation": "Light's criteria include Pleural fluid protein/serum protein ratio > 0.5, Pleural fluid LDH/serum LDH ratio > 0.6, and Pleural fluid LDH > 2/3 upper limit of normal serum LDH. Pleural fluid glucose is important for complicated parapneumonic effusions but not for the initial transudate/exudate classification by Light's.",
+    "highYieldPearl": "Remember the three specific ratios/values that define an exudate. Glucose is for infection, not initial classification.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Students might confuse general pleural fluid analysis parameters with the specific components of Light's Criteria. Glucose is a common pleural fluid test but not a Light's criterion.",
+    "isOneLiner": true,
+    "id": "one_liner_lights_criteria_693lbpe0"
+  },
+  {
+    "question": "A pleural effusion is classified as an exudate if it meets how many of Light's Criteria?",
+    "options": {
+      "A": "Exactly one",
+      "B": "At least one",
+      "C": "At least two",
+      "D": "All three"
+    },
+    "correctAnswer": "B",
+    "topic": "lights_criteria",
+    "deepDiveExplanation": "According to Light's Criteria, an effusion is considered an exudate if it meets even a single one of the three criteria. If none are met, it is a transudate.",
+    "highYieldPearl": "An effusion is an exudate if it satisfies 'at least one' of Light's criteria.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Misunderstanding the 'or' condition within Light's criteria can lead to selecting 'All three' or 'At least two'.",
+    "isOneLiner": true,
+    "id": "one_liner_lights_criteria_f3hyw0po"
+  },
+  {
+    "question": "A pleural effusion is classified as a transudate if it meets how many of Light's Criteria?",
+    "options": {
+      "A": "None of",
+      "B": "Exactly one",
+      "C": "At least two",
+      "D": "All three"
+    },
+    "correctAnswer": "A",
+    "topic": "lights_criteria",
+    "deepDiveExplanation": "A pleural effusion is defined as a transudate if it fails to meet any of the three Light's Criteria. This implies low protein and LDH content, reflecting systemic rather than local pathology.",
+    "highYieldPearl": "Transudates meet 'none' of Light's criteria.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Could be confused with the exudate definition if not careful, leading to selection of options other than 'none'.",
+    "isOneLiner": true,
+    "id": "one_liner_lights_criteria_phnryjtl"
+  },
+  {
+    "question": "According to Light's Criteria, an exudate is suggested if the pleural fluid protein to serum protein ratio exceeds what value?",
+    "options": {
+      "A": "0.3",
+      "B": "0.4",
+      "C": "0.5",
+      "D": "0.6"
+    },
+    "correctAnswer": "C",
+    "topic": "lights_criteria",
+    "deepDiveExplanation": "One of Light's Criteria for an exudate is a pleural fluid protein to serum protein ratio > 0.5. This ratio reflects increased protein leakage into the pleural space due to inflammation or altered capillary permeability.",
+    "highYieldPearl": "The protein ratio cutoff for an exudate is 0.5.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Remembering specific cutoff values can be challenging. Other ratios (like LDH) have different cutoffs, which might lead to confusion.",
+    "isOneLiner": true,
+    "id": "one_liner_lights_criteria_4q4hvjby"
+  },
+  {
+    "question": "An exudate is indicated by a pleural fluid LDH level greater than what fraction of the upper limit of normal for serum LDH?",
+    "options": {
+      "A": "1/3",
+      "B": "1/2",
+      "C": "2/3",
+      "D": "3/4"
+    },
+    "correctAnswer": "C",
+    "topic": "lights_criteria",
+    "deepDiveExplanation": "One of Light's Criteria is a pleural fluid LDH level greater than 2/3 (or approximately 0.67) the upper limit of normal for serum LDH. This indicates increased cellular damage or inflammation in the pleural space.",
+    "highYieldPearl": "The LDH fraction cutoff is 2/3 or 0.67.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Recalling the exact fraction (2/3) versus other common fractions or decimal values can be tricky under exam pressure.",
+    "isOneLiner": true,
+    "id": "one_liner_lights_criteria_bke80f4g"
+  },
+  {
+    "question": "Impaired lymphatic drainage of the pleural space primarily contributes to which type of pleural effusion?",
+    "options": {
+      "A": "Transudative",
+      "B": "Exudative",
+      "C": "Chylous",
+      "D": "Hemorrhagic"
+    },
+    "correctAnswer": "B",
+    "topic": "lights_criteria",
+    "deepDiveExplanation": "Impaired lymphatic drainage, often due to malignancy or inflammation, leads to accumulation of protein-rich fluid in the pleural space, classifying the effusion as an exudate.",
+    "highYieldPearl": "Exudates are due to local factors like increased capillary permeability or decreased lymphatic drainage. Transudates are due to systemic factors.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While chylous effusions involve lymphatic issues, the primary classification based on protein/LDH is exudative. The question asks about the general 'type' of effusion, not specific causes of lymphatic impairment.",
+    "isOneLiner": true,
+    "id": "one_liner_lights_criteria_0zm5juhf"
+  },
+  {
+    "question": "Decreased plasma oncotic pressure is the main pathophysiological mechanism for which type of pleural effusion?",
+    "options": {
+      "A": "Exudative",
+      "B": "Transudative",
+      "C": "Parapneumonic",
+      "D": "Malignant"
+    },
+    "correctAnswer": "B",
+    "topic": "lights_criteria",
+    "deepDiveExplanation": "Decreased plasma oncotic pressure (e.g., in cirrhosis, nephrotic syndrome) or increased hydrostatic pressure (e.g., in heart failure) are the hallmarks of transudative effusions, where fluid leaks due to systemic imbalances rather than local pleural pathology.",
+    "highYieldPearl": "Transudates arise from systemic factors like altered hydrostatic or oncotic pressure.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Confusing systemic (transudate) vs. local (exudate) causes of pleural effusions.",
+    "isOneLiner": true,
+    "id": "one_liner_lights_criteria_7rcs7uqs"
+  },
+  {
+    "question": "Light's Criteria may inaccurately classify a transudate as an exudate in patients with what clinical scenario?",
+    "options": {
+      "A": "Nephrotic syndrome",
+      "B": "Cirrhosis with ascites",
+      "C": "Congestive heart failure on diuretics",
+      "D": "Hypothyroidism"
+    },
+    "correctAnswer": "C",
+    "topic": "lights_criteria",
+    "deepDiveExplanation": "Diuretic therapy in CHF patients can concentrate pleural fluid protein and LDH, causing a true transudate to meet one or more of Light's criteria, leading to misclassification as an exudate (a 'pseudoexudate').",
+    "highYieldPearl": "CHF on diuretics is the classic exception where Light's criteria can fail, leading to false exudate classification.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Students might think other transudative causes are more likely to be misclassified, but diuretic use is the specific confounder for Light's in CHF.",
+    "isOneLiner": true,
+    "id": "one_liner_lights_criteria_1eryv880"
+  },
+  {
+    "question": "Light's Criteria are highly sensitive for detecting exudates but have limited specificity, meaning they can misclassify what?",
+    "options": {
+      "A": "Exudates as transudates",
+      "B": "Transudates as exudates",
+      "C": "Chylous effusions as complicated",
+      "D": "Hemorrhagic effusions as transudates"
+    },
+    "correctAnswer": "B",
+    "topic": "lights_criteria",
+    "deepDiveExplanation": "The high sensitivity of Light's Criteria means few exudates are missed. However, the limited specificity implies that some true transudates (especially those concentrated by diuretic therapy) might be incorrectly identified as exudates.",
+    "highYieldPearl": "High sensitivity, low specificity means Light's criteria are good at finding exudates, but sometimes 'over-call' transudates as exudates.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Confusing sensitivity and specificity definitions or their implications in the context of Light's Criteria.",
+    "isOneLiner": true,
+    "id": "one_liner_lights_criteria_pdyr2ra5"
+  },
+  {
+    "question": "For pleural effusions misclassified by Light's Criteria due to diuretic use, which gradient helps reclassify them as transudates?",
+    "options": {
+      "A": "Pleural fluid glucose",
+      "B": "Serum-effusion albumin gradient",
+      "C": "Pleural fluid amylase",
+      "D": "Serum-effusion cholesterol gradient"
+    },
+    "correctAnswer": "B",
+    "topic": "lights_criteria",
+    "deepDiveExplanation": "A serum-effusion albumin gradient (> 1.2 g/dL) is often used to reclassify effusions as transudates, particularly in cases of CHF on diuretics where Light's Criteria may falsely identify them as exudates due to concentration.",
+    "highYieldPearl": "The serum-effusion albumin gradient is crucial for reclassifying diuretic-induced 'pseudoexudates' back to transudates.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Difficult",
+    "trapAnalysis": "Knowing the specific alternative criteria used for this particular limitation of Light's. Other options are for different types of effusions or not relevant for this specific reclassification.",
+    "isOneLiner": true,
+    "id": "one_liner_lights_criteria_dgr2jv1v"
+  },
+  {
+    "question": "Which parameter is NOT part of the standard Light's Criteria for classifying pleural effusions?",
+    "options": {
+      "A": "Pleural fluid protein/serum protein ratio",
+      "B": "Pleural fluid LDH/serum LDH ratio",
+      "C": "Pleural fluid glucose level",
+      "D": "Pleural fluid LDH concentration"
+    },
+    "correctAnswer": "C",
+    "topic": "lights_criteria",
+    "deepDiveExplanation": "Light's criteria include Pleural fluid protein/serum protein ratio > 0.5, Pleural fluid LDH/serum LDH ratio > 0.6, and Pleural fluid LDH > 2/3 upper limit of normal serum LDH. Pleural fluid glucose is important for complicated parapneumonic effusions but not for the initial transudate/exudate classification by Light's.",
+    "highYieldPearl": "Remember the three specific ratios/values that define an exudate. Glucose is for infection, not initial classification.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Students might confuse general pleural fluid analysis parameters with the specific components of Light's Criteria. Glucose is a common pleural fluid test but not a Light's criterion.",
+    "isOneLiner": true,
+    "id": "one_liner_lights_criteria_8dkslu86"
+  },
+  {
+    "question": "A pleural effusion is classified as an exudate if it meets how many of Light's Criteria?",
+    "options": {
+      "A": "Exactly one",
+      "B": "At least one",
+      "C": "At least two",
+      "D": "All three"
+    },
+    "correctAnswer": "B",
+    "topic": "lights_criteria",
+    "deepDiveExplanation": "According to Light's Criteria, an effusion is considered an exudate if it meets even a single one of the three criteria. If none are met, it is a transudate.",
+    "highYieldPearl": "An effusion is an exudate if it satisfies 'at least one' of Light's criteria.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Misunderstanding the 'or' condition within Light's criteria can lead to selecting 'All three' or 'At least two'.",
+    "isOneLiner": true,
+    "id": "one_liner_lights_criteria_c6qg33gc"
+  },
+  {
+    "question": "A pleural effusion is classified as a transudate if it meets how many of Light's Criteria?",
+    "options": {
+      "A": "None of",
+      "B": "Exactly one",
+      "C": "At least two",
+      "D": "All three"
+    },
+    "correctAnswer": "A",
+    "topic": "lights_criteria",
+    "deepDiveExplanation": "A pleural effusion is defined as a transudate if it fails to meet any of the three Light's Criteria. This implies low protein and LDH content, reflecting systemic rather than local pathology.",
+    "highYieldPearl": "Transudates meet 'none' of Light's criteria.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Could be confused with the exudate definition if not careful, leading to selection of options other than 'none'.",
+    "isOneLiner": true,
+    "id": "one_liner_lights_criteria_01gf0hwz"
+  },
+  {
+    "question": "According to Light's Criteria, an exudate is suggested if the pleural fluid protein to serum protein ratio exceeds what value?",
+    "options": {
+      "A": "0.3",
+      "B": "0.4",
+      "C": "0.5",
+      "D": "0.6"
+    },
+    "correctAnswer": "C",
+    "topic": "lights_criteria",
+    "deepDiveExplanation": "One of Light's Criteria for an exudate is a pleural fluid protein to serum protein ratio > 0.5. This ratio reflects increased protein leakage into the pleural space due to inflammation or altered capillary permeability.",
+    "highYieldPearl": "The protein ratio cutoff for an exudate is 0.5.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Remembering specific cutoff values can be challenging. Other ratios (like LDH) have different cutoffs, which might lead to confusion.",
+    "isOneLiner": true,
+    "id": "one_liner_lights_criteria_ponmddab"
+  },
+  {
+    "question": "An exudate is indicated by a pleural fluid LDH level greater than what fraction of the upper limit of normal for serum LDH?",
+    "options": {
+      "A": "1/3",
+      "B": "1/2",
+      "C": "2/3",
+      "D": "3/4"
+    },
+    "correctAnswer": "C",
+    "topic": "lights_criteria",
+    "deepDiveExplanation": "One of Light's Criteria is a pleural fluid LDH level greater than 2/3 (or approximately 0.67) the upper limit of normal for serum LDH. This indicates increased cellular damage or inflammation in the pleural space.",
+    "highYieldPearl": "The LDH fraction cutoff is 2/3 or 0.67.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Recalling the exact fraction (2/3) versus other common fractions or decimal values can be tricky under exam pressure.",
+    "isOneLiner": true,
+    "id": "one_liner_lights_criteria_wfti3ik6"
+  },
+  {
+    "question": "Impaired lymphatic drainage of the pleural space primarily contributes to which type of pleural effusion?",
+    "options": {
+      "A": "Transudative",
+      "B": "Exudative",
+      "C": "Chylous",
+      "D": "Hemorrhagic"
+    },
+    "correctAnswer": "B",
+    "topic": "lights_criteria",
+    "deepDiveExplanation": "Impaired lymphatic drainage, often due to malignancy or inflammation, leads to accumulation of protein-rich fluid in the pleural space, classifying the effusion as an exudate.",
+    "highYieldPearl": "Exudates are due to local factors like increased capillary permeability or decreased lymphatic drainage. Transudates are due to systemic factors.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While chylous effusions involve lymphatic issues, the primary classification based on protein/LDH is exudative. The question asks about the general 'type' of effusion, not specific causes of lymphatic impairment.",
+    "isOneLiner": true,
+    "id": "one_liner_lights_criteria_8eodwzkw"
+  },
+  {
+    "question": "Decreased plasma oncotic pressure is the main pathophysiological mechanism for which type of pleural effusion?",
+    "options": {
+      "A": "Exudative",
+      "B": "Transudative",
+      "C": "Parapneumonic",
+      "D": "Malignant"
+    },
+    "correctAnswer": "B",
+    "topic": "lights_criteria",
+    "deepDiveExplanation": "Decreased plasma oncotic pressure (e.g., in cirrhosis, nephrotic syndrome) or increased hydrostatic pressure (e.g., in heart failure) are the hallmarks of transudative effusions, where fluid leaks due to systemic imbalances rather than local pleural pathology.",
+    "highYieldPearl": "Transudates arise from systemic factors like altered hydrostatic or oncotic pressure.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Confusing systemic (transudate) vs. local (exudate) causes of pleural effusions.",
+    "isOneLiner": true,
+    "id": "one_liner_lights_criteria_edaup7xb"
+  },
+  {
+    "question": "Light's Criteria may inaccurately classify a transudate as an exudate in patients with what clinical scenario?",
+    "options": {
+      "A": "Nephrotic syndrome",
+      "B": "Cirrhosis with ascites",
+      "C": "Congestive heart failure on diuretics",
+      "D": "Hypothyroidism"
+    },
+    "correctAnswer": "C",
+    "topic": "lights_criteria",
+    "deepDiveExplanation": "Diuretic therapy in CHF patients can concentrate pleural fluid protein and LDH, causing a true transudate to meet one or more of Light's criteria, leading to misclassification as an exudate (a 'pseudoexudate').",
+    "highYieldPearl": "CHF on diuretics is the classic exception where Light's criteria can fail, leading to false exudate classification.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Students might think other transudative causes are more likely to be misclassified, but diuretic use is the specific confounder for Light's in CHF.",
+    "isOneLiner": true,
+    "id": "one_liner_lights_criteria_2up66bzh"
+  },
+  {
+    "question": "Light's Criteria are highly sensitive for detecting exudates but have limited specificity, meaning they can misclassify what?",
+    "options": {
+      "A": "Exudates as transudates",
+      "B": "Transudates as exudates",
+      "C": "Chylous effusions as complicated",
+      "D": "Hemorrhagic effusions as transudates"
+    },
+    "correctAnswer": "B",
+    "topic": "lights_criteria",
+    "deepDiveExplanation": "The high sensitivity of Light's Criteria means few exudates are missed. However, the limited specificity implies that some true transudates (especially those concentrated by diuretic therapy) might be incorrectly identified as exudates.",
+    "highYieldPearl": "High sensitivity, low specificity means Light's criteria are good at finding exudates, but sometimes 'over-call' transudates as exudates.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Confusing sensitivity and specificity definitions or their implications in the context of Light's Criteria.",
+    "isOneLiner": true,
+    "id": "one_liner_lights_criteria_r8caxm97"
+  },
+  {
+    "question": "For pleural effusions misclassified by Light's Criteria due to diuretic use, which gradient helps reclassify them as transudates?",
+    "options": {
+      "A": "Pleural fluid glucose",
+      "B": "Serum-effusion albumin gradient",
+      "C": "Pleural fluid amylase",
+      "D": "Serum-effusion cholesterol gradient"
+    },
+    "correctAnswer": "B",
+    "topic": "lights_criteria",
+    "deepDiveExplanation": "A serum-effusion albumin gradient (> 1.2 g/dL) is often used to reclassify effusions as transudates, particularly in cases of CHF on diuretics where Light's Criteria may falsely identify them as exudates due to concentration.",
+    "highYieldPearl": "The serum-effusion albumin gradient is crucial for reclassifying diuretic-induced 'pseudoexudates' back to transudates.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Difficult",
+    "trapAnalysis": "Knowing the specific alternative criteria used for this particular limitation of Light's. Other options are for different types of effusions or not relevant for this specific reclassification.",
+    "isOneLiner": true,
+    "id": "one_liner_lights_criteria_31mhzpvx"
+  }
+]

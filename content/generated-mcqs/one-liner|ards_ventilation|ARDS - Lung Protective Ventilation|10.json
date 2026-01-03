@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What is the recommended tidal volume range for lung-protective ventilation in ARDS?",
+    "options": {
+      "A": "10-12 ml/kg predicted body weight",
+      "B": "8-10 ml/kg predicted body weight",
+      "C": "4-8 ml/kg predicted body weight",
+      "D": "12-15 ml/kg predicted body weight"
+    },
+    "correctAnswer": "C",
+    "topic": "ards_ventilation",
+    "deepDiveExplanation": "The ARDSNet trial demonstrated a significant mortality benefit with a tidal volume target of 6 ml/kg predicted body weight (PBW), allowing a range of 4-8 ml/kg PBW to maintain plateau pressure below 30 cmH2O. This strategy minimizes volutrauma and barotrauma.",
+    "highYieldPearl": "Always use Predicted Body Weight (PBW) for tidal volume calculation in ARDS, not actual body weight.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Distractors include historical higher tidal volumes or not specifying 'predicted body weight', which is crucial for correct application.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|ards_ventilation|ARDS - Lung Protective Ventilation|10_uxs1sj1b"
+  },
+  {
+    "question": "The maximum recommended plateau pressure during ARDS lung-protective ventilation is?",
+    "options": {
+      "A": "25 cmH2O",
+      "B": "30 cmH2O",
+      "C": "35 cmH2O",
+      "D": "40 cmH2O"
+    },
+    "correctAnswer": "B",
+    "topic": "ards_ventilation",
+    "deepDiveExplanation": "A plateau pressure (Pplat) exceeding 30 cmH2O is strongly associated with increased ventilator-induced lung injury (VILI) due to overdistension of aerated lung regions. Pplat reflects the static pressure in the alveoli at the end of inspiration.",
+    "highYieldPearl": "Plateau pressure is measured during an inspiratory hold and reflects alveolar distending pressure.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Candidates might choose a slightly lower value (too conservative) or a higher value, which is dangerous in ARDS.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|ards_ventilation|ARDS - Lung Protective Ventilation|10_h2vxa20b"
+  },
+  {
+    "question": "Driving pressure in ARDS lung-protective ventilation is calculated as?",
+    "options": {
+      "A": "Peak inspiratory pressure - PEEP",
+      "B": "Plateau pressure - PEEP",
+      "C": "Mean airway pressure - PEEP",
+      "D": "Peak inspiratory pressure - Plateau pressure"
+    },
+    "correctAnswer": "B",
+    "topic": "ards_ventilation",
+    "deepDiveExplanation": "Driving pressure (ΔP) is the difference between plateau pressure and PEEP (Pplat - PEEP). It represents the tidal stretch or distending pressure applied to the functional lung. Studies have shown it to be a strong predictor of mortality, independent of tidal volume and PEEP.",
+    "highYieldPearl": "Aim to keep driving pressure below 15 cmH2O, ideally less than 13 cmH2O, as it correlates with mortality.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Confusing driving pressure with peak pressure, mean airway pressure, or transpulmonary pressure are common pitfalls. Driving pressure specifically reflects the cyclic change in lung volume.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|ards_ventilation|ARDS - Lung Protective Ventilation|10_usbvrzad"
+  },
+  {
+    "question": "Which arterial blood gas finding is often intentionally tolerated during lung-protective ventilation in ARDS?",
+    "options": {
+      "A": "Hypoxemia",
+      "B": "Respiratory alkalosis",
+      "C": "Hypercapnia",
+      "D": "Metabolic acidosis"
+    },
+    "correctAnswer": "C",
+    "topic": "ards_ventilation",
+    "deepDiveExplanation": "Permissive hypercapnia refers to the strategy of tolerating elevated PaCO2 (leading to respiratory acidosis) as a consequence of using lower tidal volumes to prevent VILI. The pH should generally be maintained above 7.20-7.25 by adjusting bicarbonate if necessary.",
+    "highYieldPearl": "Lower tidal volumes reduce CO2 clearance, necessitating permissive hypercapnia to protect the lungs.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Hypoxemia is managed, not intentionally tolerated. Respiratory alkalosis would be the opposite of permissive hypercapnia, and metabolic acidosis is a separate issue.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|ards_ventilation|ARDS - Lung Protective Ventilation|10_djuan7n6"
+  },
+  {
+    "question": "The primary goal of applying PEEP in ARDS lung-protective ventilation is to?",
+    "options": {
+      "A": "Reduce airway resistance",
+      "B": "Prevent end-expiratory alveolar collapse",
+      "C": "Increase cardiac output",
+      "D": "Decrease intracranial pressure"
+    },
+    "correctAnswer": "B",
+    "topic": "ards_ventilation",
+    "deepDiveExplanation": "Positive End-Expiratory Pressure (PEEP) in ARDS aims to prevent cyclic opening and closing of collapsed alveoli (atelectrauma), maintain functional residual capacity, improve oxygenation by recruiting collapsed lung units, and reduce intrapulmonary shunting.",
+    "highYieldPearl": "PEEP helps keep recruited alveoli open, improving V/Q matching and reducing atelectrauma.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While PEEP can affect cardiac output or intracranial pressure, these are secondary effects or potential complications, not its primary goal in ARDS ventilation.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|ards_ventilation|ARDS - Lung Protective Ventilation|10_ko2enl20"
+  },
+  {
+    "question": "Prone positioning in moderate-to-severe ARDS primarily improves oxygenation by?",
+    "options": {
+      "A": "Increasing cardiac output",
+      "B": "Redistributing ventilation and perfusion",
+      "C": "Decreasing pulmonary vascular resistance",
+      "D": "Reducing metabolic demand"
+    },
+    "correctAnswer": "B",
+    "topic": "ards_ventilation",
+    "deepDiveExplanation": "Prone positioning improves oxygenation by homogenizing the distribution of pleural pressure, which reduces compression atelectasis in dependent lung regions, shifts perfusion to better-ventilated areas, and decreases ventilator-induced lung injury by reducing stress and strain heterogeneity.",
+    "highYieldPearl": "Prone positioning moves the heart and abdominal contents away from the posterior lung, allowing better ventilation and perfusion in previously compressed areas.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Distractors relate to other physiological parameters that are not the primary mechanism of oxygenation improvement in prone positioning.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|ards_ventilation|ARDS - Lung Protective Ventilation|10_wersiq0k"
+  },
+  {
+    "question": "Early and continuous neuromuscular blockade is considered in moderate-to-severe ARDS to facilitate?",
+    "options": {
+      "A": "Early patient mobilization",
+      "B": "Spontaneous breathing efforts",
+      "C": "Adherence to lung-protective ventilation",
+      "D": "Enhanced nutritional support"
+    },
+    "correctAnswer": "C",
+    "topic": "ards_ventilation",
+    "deepDiveExplanation": "Neuromuscular blockers (NMBs) are used to eliminate patient-ventilator asynchrony, reduce oxygen consumption, and ensure strict adherence to lung-protective ventilation parameters (e.g., low tidal volume, optimal PEEP) by preventing spontaneous breathing efforts that can worsen VILI. The ACURASYS trial supported its use in severe ARDS.",
+    "highYieldPearl": "NMBs minimize patient effort and dyssynchrony, which can exacerbate VILI.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "NMBs would prevent spontaneous breathing and early mobilization. Nutritional support is unrelated to NMBs' primary role in ARDS.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|ards_ventilation|ARDS - Lung Protective Ventilation|10_hqzbtpwu"
+  },
+  {
+    "question": "The primary goal of lung-protective ventilation in ARDS is to reduce?",
+    "options": {
+      "A": "Pulmonary hypertension",
+      "B": "Ventilator-induced lung injury",
+      "C": "Systemic inflammation",
+      "D": "Secondary infections"
+    },
+    "correctAnswer": "B",
+    "topic": "ards_ventilation",
+    "deepDiveExplanation": "Lung-protective ventilation strategies are specifically designed to minimize the four components of VILI: barotrauma (excessive pressure), volutrauma (excessive volume), atelectrauma (cyclic opening/closing of alveoli), and biotrauma (release of inflammatory mediators). Reducing VILI leads to improved patient outcomes.",
+    "highYieldPearl": "VILI is the target of prevention, not a side effect. ARDSNet trial was foundational.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While lung-protective ventilation might indirectly impact systemic inflammation, and pulmonary hypertension can be a complication, the direct and primary goal is reduction of VILI.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|ards_ventilation|ARDS - Lung Protective Ventilation|10_gnsyjcad"
+  },
+  {
+    "question": "Recruitment maneuvers in ARDS are primarily performed to?",
+    "options": {
+      "A": "Decrease PEEP requirements",
+      "B": "Open collapsed alveolar units",
+      "C": "Reduce driving pressure",
+      "D": "Improve cardiac output"
+    },
+    "correctAnswer": "B",
+    "topic": "ards_ventilation",
+    "deepDiveExplanation": "Recruitment maneuvers involve transiently applying high airway pressures to open collapsed or consolidated lung units, aiming to increase the amount of recruitable lung and improve oxygenation. They are often followed by PEEP titration to maintain recruitment.",
+    "highYieldPearl": "Recruitment maneuvers are 'openers'; PEEP is a 'keeper' for opened alveoli.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Recruitment maneuvers might transiently increase driving pressure, and their effect on cardiac output is often negative due to increased intrathoracic pressure. They do not directly decrease PEEP requirements.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|ards_ventilation|ARDS - Lung Protective Ventilation|10_smrgg4q9"
+  },
+  {
+    "question": "Tidal volume calculation for ARDS lung-protective ventilation is based on?",
+    "options": {
+      "A": "Actual body weight",
+      "B": "Body surface area",
+      "C": "Predicted body weight",
+      "D": "End-tidal CO2"
+    },
+    "correctAnswer": "C",
+    "topic": "ards_ventilation",
+    "deepDiveExplanation": "Lung size is primarily determined by height and sex, not actual body weight. Therefore, predicted body weight (PBW), calculated using height and sex, is used to determine appropriate tidal volumes. This prevents overdistension in obese patients whose actual body weight is disproportionately higher than their lung capacity.",
+    "highYieldPearl": "PBW formula: 50 + 0.91 (height in cm - 152.4) for males; 45.5 + 0.91 (height in cm - 152.4) for females.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Using actual body weight is a common and dangerous mistake in ARDS ventilation, as it would lead to excessive tidal volumes in overweight or obese patients.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|ards_ventilation|ARDS - Lung Protective Ventilation|10_1n2fvt1c"
+  }
+]

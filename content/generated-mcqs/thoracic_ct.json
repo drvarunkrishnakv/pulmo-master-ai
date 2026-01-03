@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "rag_thoracic_ct_f7f94503",
+    "question": "A 65-year-old male presents with progressive dyspnea and cough for 3 weeks. He has a history of non-Hodgkin's lymphoma, currently in remission, and underwent a mediastinal lymph node biopsy 2 months prior. Chest X-ray shows a large right-sided pleural effusion. Thoracentesis yields milky white fluid. Analysis reveals:\npH 7.35, Protein 4.2 g/dL, LDH 250 U/L (serum LDH 100 U/L), Glucose 80 mg/dL.\nPleural fluid Triglycerides: 85 mg/dL.\nPleural fluid Cholesterol: 60 mg/dL.\nOn centrifugation, the supernatant remained opaque.\n\nWhich of the following is the most appropriate next step in confirming the diagnosis?",
+    "options": {
+      "A": "Pleural fluid ADA measurement.",
+      "B": "Pleural fluid chylomicron analysis.",
+      "C": "Pleural fluid bacterial culture and sensitivity.",
+      "D": "Magnetic resonance lymphangiography."
+    },
+    "correctAnswer": "B",
+    "topic": "Chylothorax",
+    "deepDiveExplanation": "The patient's presentation with milky white pleural fluid, history of lymphoma and recent mediastinal biopsy (risk for thoracic duct injury), and an exudative effusion points towards a chylothorax or pseudochylothorax. The pleural fluid triglyceride level of 85 mg/dL falls into the indeterminate range (50-110 mg/dL) where chylomicron analysis is required for definitive diagnosis. A triglyceride level >110 mg/dL would be diagnostic of chylothorax, while <50 mg/dL would rule it out. The low cholesterol level (60 mg/dL) helps differentiate it from pseudochylothorax, which typically has cholesterol >200 mg/dL. The opaque supernatant on centrifugation is characteristic of chylous or chyliform fluid, further supporting the need for specific lipid analysis.",
+    "highYieldPearl": "Rio's Take: For milky pleural fluid, always measure triglycerides and cholesterol. If triglycerides are 50-110 mg/dL, chylomicron analysis is crucial to confirm chylothorax. Triglycerides >110 mg/dL are diagnostic.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Pleural fluid ADA is primarily used to diagnose tuberculous pleurisy, empyema, or rheumatoid pleuritis. While these are causes of exudative effusions, the milky appearance and lipid profile point away from these as the primary diagnosis.",
+      "B": "This is the correct answer. According to standard guidelines, if pleural fluid triglycerides are between 50 and 110 mg/dL, chylomicron analysis is performed to confirm chylothorax.",
+      "C": "Bacterial culture and sensitivity are indicated for suspected empyema, which can also present with turbid fluid. However, the lipid profile and milky (not typically purulent) appearance make chylothorax more likely, and culture would not be the next step in *confirming* a chylothorax diagnosis.",
+      "D": "Magnetic resonance lymphangiography is used to identify the *site* of thoracic duct disruption, which is a subsequent step in management planning *after* the diagnosis of chylothorax has been confirmed. It does not confirm the diagnosis of chylothorax itself."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_cf9814f4",
+    "question": "A 45-year-old female with known Lymphangioleiomyomatosis (LAM) presents with increasing dyspnea and a large left-sided pleural effusion. Thoracentesis confirms chylothorax with pleural fluid triglycerides > 200 mg/dL. She has undergone chest tube drainage, received a low-fat diet with MCT supplementation, and a trial of octreotide for 7 days. Despite these measures, she continues to have high-output chyle drainage (over 1.5 liters/day) and her nutritional status is deteriorating. \n\nWhich of the following is the most appropriate next step in her management?",
+    "options": {
+      "A": "Pleurodesis using talc slurry.",
+      "B": "Thoracotomy with ligation of the thoracic duct.",
+      "C": "Initiation of total parenteral nutrition (TPN).",
+      "D": "Administration of oral corticosteroids."
+    },
+    "correctAnswer": "B",
+    "topic": "Chylothorax",
+    "deepDiveExplanation": "The patient has a confirmed chylothorax secondary to LAM, which is a known cause. She has failed conservative management (diet, MCT, octreotide) and continues to have persistent high-output chyle drainage, leading to nutritional deterioration. In such cases, a more definitive intervention is warranted. Surgical ligation of the thoracic duct (via thoracoscopy or thoracotomy) directly addresses the source of the leak and is considered the most appropriate next step when conservative measures fail for high-output chylothorax. Other interventional options include percutaneous embolization.",
+    "highYieldPearl": "Rio's Take: Failed conservative management (diet, octreotide) and persistent high-output chyle drainage in chylothorax warrants definitive surgical or interventional treatment like thoracic duct ligation or embolization.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Pleurodesis is a treatment option for chylothorax, aiming to obliterate the pleural space. However, in cases of persistent *high-output* chyle drainage after failure of multiple conservative measures, pleurodesis may be less effective as the sclerosant can be washed out, and a more definitive leak-stopping procedure is often preferred before or instead of pleurodesis alone.",
+      "B": "This is the correct answer. Surgical ligation of the thoracic duct is a definitive procedure to stop chyle leakage and is indicated for chylothorax with persistent high output despite maximal conservative medical management, especially when nutritional status is compromised.",
+      "C": "Initiation of TPN is part of dietary management for chylothorax, often used concurrently with fasting or a fat-free diet to manage nutritional deficits. While the patient's nutritional status is deteriorating, TPN addresses the *consequence* but not the *cause* of the persistent high output leak, and the prompt implies prior dietary management has been tried. It's an important supportive measure but not the 'next step' to stop the leak itself after failed prior conservative efforts.",
+      "D": "Corticosteroids are not a recognized treatment for chylothorax. They may be used in certain inflammatory conditions or for complications of underlying diseases, but not directly to manage chyle leakage."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_f025ae38",
+    "question": "A 30-year-old female presents with recurrent dyspnea and chylous pleural effusions. Investigations reveal cystic lung changes and a mutation in the TSC2 gene, confirming a diagnosis of Lymphangioleiomyomatosis (LAM). She is managed with sirolimus. Over time, she develops increasing fatigue, muscle wasting, and frequent infections, including recurrent bacterial pneumonia. Her latest blood work shows total protein 5.5 g/dL, albumin 2.8 g/dL, and lymphocyte count 0.8 x 10^9/L.\n\nWhich of the following complications is most directly attributed to her underlying chronic chylous pleural effusion?",
+    "options": {
+      "A": "Recurrent bacterial pneumonia.",
+      "B": "Hepatic encephalopathy.",
+      "C": "Peripheral neuropathy.",
+      "D": "Renal calculi."
+    },
+    "correctAnswer": "A",
+    "topic": "Chylothorax",
+    "deepDiveExplanation": "Chylothorax involves the accumulation of chyle in the pleural space, leading to significant loss of protein, fat, electrolytes, and lymphocytes. Chronic chyle loss can result in malnutrition (evidenced by hypoproteinemia and muscle wasting) and impaired immunologic status due to lymphopenia (evidenced by lymphocyte count of 0.8 x 10^9/L). These factors directly predispose the patient to recurrent infections, such as bacterial pneumonia. The other options are not direct complications of chylothorax.",
+    "highYieldPearl": "Rio's Take: Chronic chylothorax leads to malnutrition (protein/fat loss) and immunodeficiency (lymphopenia), significantly increasing the risk of recurrent infections.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. Chronic chyle leakage results in significant loss of proteins, fats, and lymphocytes (lymphopenia). This leads to malnutrition and impaired immune function, making the patient highly susceptible to recurrent bacterial infections like pneumonia.",
+      "B": "Hepatic encephalopathy is a complication of severe liver dysfunction, not directly linked to chylothorax.",
+      "C": "Peripheral neuropathy is a diverse condition with many causes, but it is not a direct consequence or typical complication of chylothorax.",
+      "D": "Renal calculi (kidney stones) are not directly attributed to the pathophysiology of chylothorax."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_51b65d46",
+    "question": "A 60-year-old male with a history of inadequately treated pulmonary tuberculosis 10 years ago presents with progressive dyspnea and cough. Thoracentesis reveals a milky white pleural fluid. Analysis shows pleural fluid triglycerides 35 mg/dL, cholesterol 250 mg/dL, and lactate dehydrogenase 500 U/L. Upon centrifugation, the fluid remains opaque, but turbidity clears significantly upon addition of ethyl ether. What is the most likely diagnosis?",
+    "options": {
+      "A": "Chylothorax",
+      "B": "Pseudochylothorax",
+      "C": "Empyema",
+      "D": "Malignant Pleural Effusion"
+    },
+    "correctAnswer": "B",
+    "topic": "Chylothorax",
+    "deepDiveExplanation": "The patient's clinical presentation, including a history of inadequately treated pulmonary tuberculosis (a known cause of pseudochylothorax) and the pleural fluid analysis, strongly points to pseudochylothorax. Key diagnostic criteria for pseudochylothorax include: \n1.  **Pleural fluid Cholesterol > 200 mg/dL:** The patient's cholesterol of 250 mg/dL meets this criterion. \n2.  **Pleural fluid Triglycerides < 50 mg/dL (typically <110 mg/dL):** The patient's triglycerides of 35 mg/dL are well below the chylothorax threshold, distinguishing it from chylothorax. \n3.  **Milky-white fluid that remains opaque on centrifugation:** This is true for both chylothorax and pseudochylothorax. \n4.  **Turbidity clearing with ethyl ether:** This specific test indicates high cholesterol content, a hallmark of pseudochylothorax, as cholesterol is soluble in ether. \nPseudochylothorax, also known as cholesterol pleurisy, typically develops in the setting of chronic, long-standing pleural effusions, often due to tuberculosis or rheumatoid arthritis, where the breakdown of red blood cells and other cellular elements leads to cholesterol accumulation.",
+    "highYieldPearl": "Rio's Take: Differentiating chylothorax from pseudochylothorax relies on specific lipid profiles and the ethyl ether test: Chylothorax has high triglycerides (>110 mg/dL or 50-110 with chylomicrons) and does NOT clear with ether. Pseudochylothorax has very high cholesterol (>200 mg/dL), low triglycerides (<50 mg/dL), and CLEARS with ether.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Chylothorax is incorrect because while the fluid is milky, the triglyceride level (35 mg/dL) is too low for chylothorax (typically >110 mg/dL, or 50-110 mg/dL requiring chylomicron analysis). The high cholesterol and clearing with ethyl ether further exclude chylothorax.",
+      "B": "Correct. The combination of chronic TB history, milky fluid, low triglycerides, very high cholesterol, and the characteristic response to ethyl ether (clearing turbidity) is diagnostic of pseudochylothorax.",
+      "C": "Empyema usually presents with purulent fluid, which may be milky or opaque, but the supernatant typically clears on centrifugation. Also, the lipid profile and ether test are not characteristic of empyema.",
+      "D": "Malignant pleural effusion can sometimes be milky due to chylothorax if the thoracic duct is involved, or due to high cellularity. However, the specific lipid profile of high cholesterol and low triglycerides, along with the ether test result, is not typical for malignant effusion and points more strongly to pseudochylothorax."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_279a904b",
+    "question": "A 45-year-old female underwent complex cardiac surgery for a congenital heart defect. On postoperative day 5, she developed increasing dyspnea and a left-sided pleural effusion, which was found to be milky white with pleural fluid triglycerides 350 mg/dL. Initial management included a low-fat diet with medium-chain triglyceride (MCT) supplementation and chest tube drainage. Despite this, her daily chest tube output remains consistently at 800-900 mL/day for the past 7 days, and she is showing signs of progressive weight loss and lymphopenia. What is the most appropriate next step in her management?",
+    "options": {
+      "A": "Continue current dietary management and chest tube drainage for another week.",
+      "B": "Initiate somatostatin analog (octreotide) therapy.",
+      "C": "Recommend immediate thoracotomy with thoracic duct ligation.",
+      "D": "Perform a pleuroperitoneal shunt."
+    },
+    "correctAnswer": "B",
+    "topic": "Chylothorax",
+    "deepDiveExplanation": "This patient has a persistent, high-output chylothorax refractory to initial conservative management (dietary modification and chest tube drainage). High output is generally considered >500 mL/day for 5-7 days or >1000 mL/day for 3-5 days. The progressive weight loss and lymphopenia indicate significant nutritional and immunological compromise due to ongoing chyle loss.\n\nAfter failure of dietary management and chest tube drainage, the next step often involves medical therapy with a somatostatin analog like octreotide. Octreotide works by reducing splanchnic blood flow and gastrointestinal lymphatic flow, thereby decreasing chyle production and flow through the thoracic duct. It is a less invasive option than surgical intervention and is typically attempted before proceeding to surgery or interventional procedures, especially when the patient is stable enough for a trial of medical therapy.",
+    "highYieldPearl": "Rio's Take: Management of persistent high-output chylothorax typically escalates from dietary/drainage to medical therapy (octreotide) before invasive procedures like thoracic duct embolization or surgical ligation. Octreotide reduces chyle flow, making it a crucial 'next step' for refractory cases.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Continuing the current management is inappropriate as it has clearly failed, evidenced by persistent high output and worsening clinical status (weight loss, lymphopenia).",
+      "B": "Correct. Octreotide is the most appropriate next step in the management algorithm for persistent chylothorax after the failure of conservative dietary and drainage measures. It offers a non-surgical option to reduce chyle flow before more invasive procedures.",
+      "C": "While thoracic duct ligation is the definitive surgical treatment for persistent chylothorax, recommending 'immediate thoracotomy' might be premature without first attempting medical therapy with octreotide, which is less invasive. Definitive surgical intervention is typically considered if octreotide fails or if the clinical situation deteriorates rapidly, or if the output is extremely high (e.g., >1.5-2L/day) justifying immediate surgery.",
+      "D": "A pleuroperitoneal shunt is an option for recurrent or refractory chylothorax, particularly in patients who are not surgical candidates or for whom definitive ligation has failed. However, it is generally considered after medical therapies and direct ligation attempts, or in palliative settings, rather than as the immediate next step after initial conservative failure in an otherwise fit patient."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_37a9099a",
+    "question": "A 30-year-old non-smoking female presents with chronic exertional dyspnea, recurrent spontaneous pneumothoraces, and a new onset bilateral pleural effusion. Thoracentesis reveals a milky white fluid with triglycerides 280 mg/dL. Her past medical history also includes several episodes of hemoptysis and progressive diffuse cystic changes on HRCT chest. What is the most likely underlying diagnosis causing her chylothorax?",
+    "options": {
+      "A": "Tuberous Sclerosis Complex (TSC)",
+      "B": "Yellow Nail Syndrome",
+      "C": "Lymphoma",
+      "D": "Bronchogenic Carcinoma"
+    },
+    "correctAnswer": "A",
+    "topic": "Chylothorax",
+    "deepDiveExplanation": "The constellation of symptoms in a young, non-smoking female—chronic exertional dyspnea, recurrent spontaneous pneumothoraces, diffuse cystic changes on HRCT, chylothorax (confirmed by milky fluid with high triglycerides), and hemoptysis—is highly characteristic of Lymphangioleiomyomatosis (LAM). LAM is a rare, progressive lung disease almost exclusively affecting women, characterized by the proliferation of smooth muscle-like cells that form cysts in the lungs. These cysts predispose to pneumothorax and can invade lymphatic vessels, leading to chylothorax. While LAM can be sporadic (S-LAM), it is often associated with Tuberous Sclerosis Complex (TSC) (TSC-LAM), a multisystem genetic disorder. Therefore, TSC is the most likely underlying diagnosis, as LAM is a major pulmonary manifestation of TSC.",
+    "highYieldPearl": "Rio's Take: In a young female with chylothorax, recurrent pneumothoraces, and diffuse cystic lung changes on HRCT, always think of Lymphangioleiomyomatosis (LAM). Remember that LAM can be sporadic or associated with Tuberous Sclerosis Complex (TSC).",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Correct. The clinical picture (young female, recurrent pneumothoraces, cystic lung changes, chylothorax) is classic for LAM, which is frequently associated with or is a manifestation of Tuberous Sclerosis Complex (TSC).",
+      "B": "Yellow Nail Syndrome is characterized by yellow nails, lymphedema, and pleural effusions (which can be chylous). However, recurrent spontaneous pneumothoraces and diffuse cystic changes on HRCT are not typical features of this syndrome.",
+      "C": "Lymphoma can cause chylothorax due to thoracic duct infiltration. However, it does not typically present with recurrent spontaneous pneumothoraces or diffuse cystic lung changes as a primary manifestation.",
+      "D": "Bronchogenic carcinoma is highly unlikely in a 30-year-old non-smoking female, especially with this specific pattern of lung disease (recurrent pneumothoraces, diffuse cystic changes). While lung cancer can cause pleural effusion and rarely chylothorax, it does not fit the overall clinical picture."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_a191c782",
+    "question": "A 45-year-old male, with a history of recently treated Non-Hodgkin Lymphoma, presents with progressive dyspnea, unintentional weight loss of 5 kg over 2 months, and generalized weakness. Physical examination reveals decreased breath sounds at the right lung base and dullness to percussion. A chest X-ray confirms a large right-sided pleural effusion. Thoracentesis yields a milky white fluid. Pleural fluid analysis shows:\n\n*   pH: 7.35\n*   Protein: 4.5 g/dL\n*   LDH: 300 U/L (Serum LDH 150 U/L)\n*   Glucose: 90 mg/dL\n*   Cell count: Total 1200 cells/µL, Lymphocytes 85%, Neutrophils 10%, Mesothelial cells 5%\n*   Triglycerides: 75 mg/dL\n*   Cholesterol: 40 mg/dL\n*   ADA: 25 U/L\n\nGiven this clinical picture, what is the most appropriate immediate next step in confirming the diagnosis?",
+    "options": {
+      "A": "Perform chylomicron analysis on the pleural fluid.",
+      "B": "Initiate a low-fat diet with medium-chain triglyceride (MCT) supplementation.",
+      "C": "Order a magnetic resonance lymphangiography (MRL).",
+      "D": "Measure pleural fluid cholesterol level and perform a lipid panel."
+    },
+    "correctAnswer": "A",
+    "topic": "Chylothorax",
+    "deepDiveExplanation": "The patient's clinical presentation (milky pleural fluid, progressive dyspnea, unintentional weight loss, and history of lymphoma) is highly suggestive of chylothorax. Pleural fluid analysis shows an exudative effusion with lymphocyte predominance and low ADA, further supporting this suspicion. The key diagnostic challenge lies in the pleural fluid triglyceride level of 75 mg/dL. As per guidelines, a pleural fluid triglyceride level > 110 mg/dL is diagnostic for chylothorax. However, if the triglyceride level is between 50 and 110 mg/dL (as in this case), chylomicron analysis of the pleural fluid is the definitive next step to confirm the diagnosis. The presence of chylomicrons definitively establishes chylothorax. The low pleural fluid cholesterol (40 mg/dL, not > 200 mg%) effectively rules out pseudochylothorax.",
+    "highYieldPearl": "Rio's Take: The diagnosis of chylothorax hinges on pleural fluid triglyceride levels. While >110 mg/dL is diagnostic, remember the intermediate zone of 50-110 mg/dL which mandates chylomicron analysis for definitive confirmation. Don't confuse diagnostic steps with localization or treatment.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is the correct answer. The pleural fluid triglyceride level (75 mg/dL) falls within the indeterminate range (50-110 mg/dL), for which chylomicron analysis is explicitly recommended for definitive diagnosis.",
+      "B": "This is a management step for chylothorax, not a diagnostic step. While chylothorax is strongly suspected, the question specifically asks for the 'immediate next step in confirming the diagnosis'. Initiating treatment before definitive confirmation is premature.",
+      "C": "Magnetic resonance lymphangiography (MRL) is used to identify the site of thoracic duct disruption, which is crucial for interventional or surgical management. However, it is performed *after* the diagnosis of chylothorax has been confirmed, not as the primary diagnostic step to confirm its presence.",
+      "D": "The pleural fluid cholesterol level is already provided (40 mg/dL), which is low and helps rule out pseudochylothorax (which typically has cholesterol > 200 mg%). While a full lipid panel might provide additional information, it is not the most specific or immediate next step for confirming chylothorax when triglycerides are in the borderline range. Chylomicron analysis is superior for this specific diagnostic dilemma."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_b0495290",
+    "question": "A 68-year-old male with severe COPD is admitted to the ICU with acute respiratory failure requiring mechanical ventilation. His condition is unstable, and the treating team considers implementing Electrical Impedance Tomography (EIT) to optimize PEEP titration. However, during the initial assessment, a small pneumothorax is noted on the chest X-ray.",
+    "options": {
+      "A": "Proceed with EIT placement, as it can help monitor the progression of the pneumothorax.",
+      "B": "Delay EIT placement until the pneumothorax is resolved, as it can interfere with signal quality.",
+      "C": "Use EIT with caution, as its utility is limited in patients with severe COPD.",
+      "D": "Place the EIT electrodes on the unaffected side of the chest to obtain a reliable signal."
+    },
+    "correctAnswer": "B",
+    "topic": "Pneumothorax",
+    "deepDiveExplanation": "The provided context explicitly lists 'pneumothorax' as a contraindication to EIT placement due to 'inadequate EIT signal' (Page 16). EIT works by measuring changes in electrical impedance across the thorax, which are then used to reconstruct regional ventilation and perfusion maps. The presence of air in the pleural space (pneumothorax) significantly alters the electrical properties of the chest wall and lung, leading to unreliable and uninterpretable EIT data. Therefore, EIT should be delayed until the pneumothorax is resolved or appropriately managed.",
+    "highYieldPearl": "Rio's Take: Always check for contraindications before implementing advanced monitoring tools. For EIT, pneumothorax directly impairs signal quality, rendering the monitoring ineffective and potentially misleading for regional ventilation assessment.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. EIT is primarily designed for regional ventilation distribution and PEEP optimization, not for monitoring pneumothorax progression. A pneumothorax would compromise its ability to perform its intended function accurately.",
+      "B": "Correct. This aligns directly with the explicit contraindication mentioned in the context, ensuring accurate and reliable EIT data when the underlying condition is resolved.",
+      "C": "Incorrect. While severe COPD presents complex ventilation patterns, the specific contraindication mentioned in the context is pneumothorax, not COPD itself. EIT's utility for PEEP titration in respiratory failure can be considered, but only in the absence of contraindications.",
+      "D": "Incorrect. EIT uses a belt around the entire thorax to capture a comprehensive image of lung ventilation. Placing electrodes only on one side or attempting to isolate an 'unaffected' side would not yield accurate or useful regional impedance data for holistic lung function assessment, as the overall thoracic impedance is altered."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_69145758",
+    "question": "A 45-year-old male presents to the emergency department with sudden onset dyspnea and sharp pleuritic chest pain on the right side. He is an active smoker with a history of recurrent spontaneous pneumothorax. On examination, he is tachypneic, hypoxic (SpO2 88% on room air), and has decreased breath sounds on the right. A chest X-ray confirms a moderate-sized right-sided pneumothorax.",
+    "options": {
+      "A": "Administer high-flow oxygen and observe for clinical improvement.",
+      "B": "Schedule for elective video-assisted thoracoscopic surgery (VATS) within 24 hours.",
+      "C": "Perform immediate needle decompression followed by chest tube insertion.",
+      "D": "Insert a small-bore chest drain (pigtail catheter) under local anesthesia."
+    },
+    "correctAnswer": "D",
+    "topic": "Pneumothorax",
+    "deepDiveExplanation": "The patient is symptomatic (dyspnea, hypoxia, decreased breath sounds) with a moderate-sized pneumothorax. The handwritten note on page 24 explicitly states: 'PneumoThorax irrespective of Size if Pt is symptomatic !! Intervene Immediately'. For a symptomatic, non-tension pneumothorax, a chest drain is indicated to evacuate the air and allow lung re-expansion. A small-bore chest drain (pigtail catheter) is a widely accepted, less invasive, and effective initial intervention for spontaneous pneumothorax, especially in stable but symptomatic patients.",
+    "highYieldPearl": "Rio's Take: Symptomatic pneumothorax, regardless of size, mandates immediate intervention. While large-bore chest tubes are an option, small-bore catheters are often preferred initially due to lower invasiveness and comparable efficacy for spontaneous pneumothorax.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. Observation with oxygen is reserved for small, asymptomatic pneumothoraces. This patient is clearly symptomatic (dyspnea, hypoxia) and requires active intervention.",
+      "B": "Incorrect. VATS is a surgical procedure for definitive management, often considered for recurrent pneumothorax or persistent air leak, but it is not the immediate intervention for acute, symptomatic pneumothorax.",
+      "C": "Incorrect. Needle decompression is the emergency intervention for *tension pneumothorax*, characterized by severe hemodynamic instability (hypotension, tachycardia), tracheal deviation, and absent breath sounds, requiring immediate relief of pressure. While this patient is symptomatic, the vignette does not describe the classic signs of tension pneumothorax (e.g., severe hypotension, tracheal deviation), making direct chest drain insertion a more appropriate first step for a symptomatic non-tension pneumothorax."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_d6dee00e",
+    "question": "A 72-year-old male with severe COPD is mechanically ventilated for an acute exacerbation. The current ventilator settings are: FiO2 0.4, TV 6 ml/kg predicted body weight, RR 18/min, PEEP 5 cmH2O, Inspiratory Flow 90 L/min, I:E ratio 1:3. Plateau pressure is measured at 28 cmH2O. Despite these settings, the patient develops a sudden drop in blood pressure, worsening hypoxemia, and asymmetric chest rise, raising suspicion for a pneumothorax.",
+    "options": {
+      "A": "An inappropriately high inspiratory time leading to dynamic hyperinflation.",
+      "B": "Significant intrinsic PEEP (auto-PEEP) increasing total intrathoracic pressure.",
+      "C": "The use of a low tidal volume (6 ml/kg) to achieve lung protection.",
+      "D": "A plateau pressure of 28 cmH2O, which is within acceptable limits."
+    },
+    "correctAnswer": "B",
+    "topic": "Pneumothorax, Mechanical Ventilation, COPD",
+    "deepDiveExplanation": "The context explicitly lists 'Barotrauma' as a major disadvantage of auto-PEEP (Page 9). In COPD, airways narrow and close prematurely during expiration, leading to air trapping and increased positive intra-alveolar pressure, known as auto-PEEP (Page 8). This intrinsic PEEP adds to the set PEEP, resulting in a higher total end-expiratory pressure. This persistently high pressure, especially in a lung prone to bullae (common in severe COPD), increases the risk of alveolar overdistension and rupture, leading to barotrauma and subsequent pneumothorax. The clinical scenario describes signs consistent with a barotrauma-related event.",
+    "highYieldPearl": "Rio's Take: In COPD patients on mechanical ventilation, always consider auto-PEEP as a significant risk factor for barotrauma and pneumothorax, even if set PEEP and plateau pressures appear within safe limits. Auto-PEEP represents hidden intrathoracic pressure.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect, but closely related. An inappropriately high inspiratory time (e.g., due to an inverse I:E ratio) *causes* dynamic hyperinflation and auto-PEEP. However, the vignette describes an I:E ratio of 1:3, which is generally appropriate for COPD. Option B, 'Significant intrinsic PEEP (auto-PEEP)', is a more direct statement of the *factor* (the consequence of the pathology/ventilation) contributing to barotrauma, regardless of whether the I:E ratio *set* by the clinician was high or if it arose from underlying pathology despite optimal settings.",
+      "B": "Correct. Auto-PEEP directly increases the total intrathoracic pressure, leading to barotrauma, which is a common cause of pneumothorax in ventilated COPD patients.",
+      "C": "Incorrect. A low tidal volume (6 ml/kg) is a lung-protective strategy designed to *reduce* the risk of barotrauma and volutrauma, not contribute to pneumothorax.",
+      "D": "Incorrect. While a plateau pressure of 28 cmH2O is within the recommended safe limit (<30 mmHg, Page 12), this measurement is taken at end-inspiration with an inspiratory hold. It does not fully account for the total end-expiratory pressure if significant auto-PEEP is present. Furthermore, even with acceptable plateau pressures, localized stress concentrators (like bullae in COPD) can rupture. However, significant auto-PEEP directly points to increased pressure throughout the respiratory cycle, making it a more comprehensive and direct risk factor for barotrauma."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_273b70c0",
+    "question": "A 68-year-old male with severe COPD on mechanical ventilation for an acute exacerbation suddenly develops acute respiratory distress, hypotension (BP 90/60 mmHg), tachycardia (HR 120 bpm), and a sudden increase in peak inspiratory pressure. Auscultation reveals absent breath sounds on the right side, and the trachea is deviated to the left. A portable chest X-ray confirms a right-sided pneumothorax.",
+    "options": {
+      "A": "Perform immediate needle decompression in the 2nd intercostal space midclavicular line.",
+      "B": "Insert a small-bore chest tube (e.g., 10-14 Fr) in the 4th-5th intercostal space mid-axillary line.",
+      "C": "Increase supplemental oxygen to 100% and prepare for emergent surgical consultation.",
+      "D": "Administer intravenous fluids to improve blood pressure and monitor."
+    },
+    "correctAnswer": "A",
+    "topic": "Pneumothorax",
+    "deepDiveExplanation": "The clinical presentation (acute respiratory distress, hypotension, tachycardia, absent breath sounds, tracheal deviation, and increased peak inspiratory pressure in a mechanically ventilated patient) is highly suggestive of a tension pneumothorax. In this life-threatening situation, immediate needle decompression is the most appropriate first step to rapidly relieve intrathoracic pressure and stabilize the patient. This intervention is critical to prevent circulatory collapse and should be followed by definitive chest tube insertion.",
+    "highYieldPearl": "Rio's Take: In a mechanically ventilated patient, any symptomatic pneumothorax (even small) requires immediate intervention. Signs of hemodynamic compromise or tracheal shift demand urgent needle decompression for suspected tension pneumothorax, as per the context's emphasis on \"Intervene Immediately\" for symptomatic pneumothorax.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. Needle decompression provides rapid relief of life-threatening tension pneumothorax, which is indicated by the patient's hemodynamic instability and tracheal deviation.",
+      "B": "Plausible, as chest tube insertion is the definitive treatment for pneumothorax. However, for a rapidly deteriorating patient with suspected tension pneumothorax, needle decompression is faster and more immediate for acute pressure relief, making it the most appropriate *first* step.",
+      "C": "Incorrect. While supportive, increasing oxygen and preparing for surgery do not address the immediate life-threatening mechanical compression caused by the tension pneumothorax.",
+      "D": "Incorrect. Hypotension in tension pneumothorax is due to mechanical obstruction of venous return and decreased cardiac output, not primarily hypovolemia. Administering fluids will not resolve the underlying issue and may delay definitive, life-saving treatment."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_a99a76bc",
+    "question": "A 55-year-old patient with severe ARDS is being considered for Electrical Impedance Tomography (EIT) guided PEEP titration. Which of the following conditions, if present, would be a contraindication for the accurate placement and functioning of EIT in this patient?",
+    "options": {
+      "A": "Severe Acute Respiratory Distress Syndrome (ARDS) requiring high PEEP.",
+      "B": "Unilateral pneumothorax.",
+      "C": "Dynamic hyperinflation in a mechanically ventilated COPD patient.",
+      "D": "The need to assess regional distribution of ventilation in the lungs."
+    },
+    "correctAnswer": "B",
+    "topic": "Pneumothorax",
+    "deepDiveExplanation": "According to the provided context (Page 16), pneumothorax is explicitly listed as a contraindication for EIT placement due to its potential to cause an \"inadequate EIT signal.\" EIT functions by measuring changes in electrical impedance across the thorax, which are then used to infer regional ventilation. The presence of air in the pleural space (pneumothorax) would significantly alter these electrical properties and distort the measurements, rendering the EIT data inaccurate or unusable.",
+    "highYieldPearl": "Rio's Take: While EIT is a valuable tool for optimizing ventilation in conditions like ARDS and COPD, its function is compromised by conditions that unnaturally alter thoracic impedance or interfere with electrode contact, such as pneumothorax, pacemaker presence, or significant thoracic bandages.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. EIT is commonly used and has shown benefits for ARDS patients, especially for optimizing PEEP titration and assessing regional ventilation.",
+      "B": "Correct. Pneumothorax is a direct contraindication for EIT due to its effect on signal quality and accuracy, as stated in the provided context.",
+      "C": "Incorrect. EIT can be a useful tool to assess regional ventilation, identify air trapping, and guide ventilator settings in COPD patients with dynamic hyperinflation.",
+      "D": "Incorrect. Assessing the regional distribution of ventilation in the lungs is a primary indication and the main purpose of using EIT, not a contraindication."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_b0585a77",
+    "question": "A 70-year-old male with severe COPD is intubated and mechanically ventilated for acute respiratory failure. Despite initial adjustments, he continues to exhibit significant dynamic hyperinflation and high intrinsic PEEP. The medical team is trying to optimize ventilator settings.",
+    "options": {
+      "A": "Maintaining a relatively low tidal volume (5-8 ml/kg IBW).",
+      "B": "Implementing a permissive hypercapnia strategy to maintain pH > 7.2.",
+      "C": "Persistent plateau pressures exceeding 30 cmH2O due to insufficient expiratory time.",
+      "D": "Adjusting the inspiratory flow rate to prolong inspiratory time and improve gas exchange."
+    },
+    "correctAnswer": "C",
+    "topic": "Pneumothorax",
+    "deepDiveExplanation": "The provided context (Page 9) lists \"Barotrauma\" as a disadvantage of AutoPEEP, which is a common issue in COPD patients with dynamic hyperinflation. Page 12 explicitly emphasizes that ventilation should be sufficient to maintain pH > 7.15-7.2, with a low tidal volume, \"in order to avoid plateau pressures > 30 mmHg.\" Persistent plateau pressures exceeding 30 cmH2O are a direct indicator of lung overdistension and significantly increase the risk of barotrauma, including pneumothorax. In COPD, insufficient expiratory time leads to air trapping and auto-PEEP, which directly contributes to higher plateau pressures and thus, barotrauma.",
+    "highYieldPearl": "Rio's Take: In mechanically ventilated COPD patients, managing auto-PEEP and avoiding high plateau pressures (typically > 30 cmH2O) are crucial to prevent barotrauma and subsequent pneumothorax. Strategies like ensuring adequate expiratory time (often by using high inspiratory flow and short inspiratory time) and permissive hypercapnia are key to mitigate these risks.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect. Low tidal volume ventilation (5-8 ml/kg IBW) is a lung-protective strategy commonly employed to *reduce* the risk of barotrauma, not increase it.",
+      "B": "Incorrect. Permissive hypercapnia (allowing higher PaCO2 within a safe pH range) is a strategy used with lung-protective ventilation to *reduce* peak and plateau pressures, thereby *decreasing* the risk of barotrauma.",
+      "C": "Correct. Persistent high plateau pressures (especially > 30 cmH2O) indicate lung overdistension and are a primary risk factor for barotrauma, including pneumothorax. Insufficient expiratory time directly leads to air trapping and increased auto-PEEP, contributing to these high pressures.",
+      "D": "Incorrect. In COPD, prolonging inspiratory time is generally detrimental. It further compromises the already limited expiratory time, exacerbating air trapping and auto-PEEP, which would *increase* the risk of high plateau pressures and barotrauma. The recommended strategy from the context is high inspiratory flow for *short* inspiratory time and low I:E ratio."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_57c02038",
+    "question": "A 55-year-old male presents to the emergency department with acute onset dyspnea and pleuritic chest pain after a coughing fit. On examination, decreased breath sounds are noted on the left side, and the patient appears anxious and tachypneic. A portable chest X-ray is pending. What is the immediate management approach for this patient?",
+    "options": {
+      "A": "Immediate intervention to decompress the pneumothorax, irrespective of its estimated size.",
+      "B": "Wait for the chest X-ray results to confirm the size of the pneumothorax before deciding on intervention.",
+      "C": "Administer high-flow oxygen and closely monitor the patient for 30 minutes, then reassess.",
+      "D": "Consult a thoracic surgeon for consideration of elective surgical repair in the next 24-48 hours."
+    },
+    "correctAnswer": "A",
+    "topic": "Pneumothorax",
+    "deepDiveExplanation": "The provided context explicitly states: 'PneumoThorax irrespective of Size if Pt is symptomatic !! Intervene Immediately'. This highlights the critical importance of immediate intervention for symptomatic pneumothorax, as clinical status (symptoms) overrides radiological size in determining the urgency of management. Symptomatic patients require prompt decompression to prevent progression to tension pneumothorax or respiratory arrest, which can be rapidly fatal.",
+    "highYieldPearl": "Rio's Take: Always prioritize a patient's clinical status over imaging findings in acute emergencies like symptomatic pneumothorax. If symptomatic, intervene immediately.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option is the correct answer and directly aligns with the provided high-yield information for symptomatic pneumothorax.",
+      "B": "This is a common trap. While size is important for non-symptomatic or stable patients, waiting for imaging in an acutely symptomatic patient delays potentially life-saving intervention and can lead to clinical deterioration.",
+      "C": "Oxygen administration is supportive but does not address the underlying lung collapse or potential tension development. 'Closely monitor' is insufficient for an acutely symptomatic patient requiring immediate intervention.",
+      "D": "Surgical repair (e.g., pleurodesis or thoracoscopy) is typically reserved for recurrent or complex cases, not for the immediate management of an acute, symptomatic pneumothorax that requires urgent decompression. This suggests an elective approach, which is inappropriate."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_c2137d5f",
+    "question": "An intensivist plans to utilize Electrical Impedance Tomography (EIT) for a mechanically ventilated patient to optimize PEEP settings. Before applying the EIT belt, a recent chest X-ray performed for routine reasons shows a small (1.5 cm) apical right pneumothorax that is currently asymptomatic and stable. What is the most appropriate next step regarding EIT application?",
+    "options": {
+      "A": "Proceed with EIT application, ensuring electrodes are placed away from the pneumothorax site.",
+      "B": "Postpone EIT application until the pneumothorax has completely resolved.",
+      "C": "Apply the EIT belt as planned, but expect slightly reduced signal quality from the affected lung zone.",
+      "D": "Increase the set PEEP on the ventilator to attempt re-expansion of the pneumothorax before EIT application."
+    },
+    "correctAnswer": "B",
+    "topic": "Pneumothorax",
+    "deepDiveExplanation": "The provided context explicitly lists 'inadequate EIT signal (e.g., thoracic bandages, pneumothorax)' as a contraindication to EIT placement (Page 16). Even if asymptomatic, the presence of air in the pleural space (pneumothorax) can significantly interfere with the impedance measurements, making the EIT data unreliable for regional ventilation assessment and PEEP optimization. Therefore, EIT should be postponed until the pneumothorax is resolved to ensure accurate and clinically useful data.",
+    "highYieldPearl": "Rio's Take: Pneumothorax, regardless of size, can significantly impair the reliability of Electrical Impedance Tomography (EIT) readings by causing an 'inadequate EIT signal', making it a contraindication for accurate assessment.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "While attempting to place electrodes away from the pneumothorax might seem logical, the overall presence of air in the pleural space will affect global or regional lung impedance and the distribution of current, compromising the utility and accuracy of EIT. It's listed as a clear contraindication.",
+      "B": "This option is the correct answer and directly aligns with the provided context stating pneumothorax as a contraindication due to inadequate signal.",
+      "C": "This option acknowledges potential signal reduction but ignores that the listed contraindication means the data would be too unreliable for clinical decision-making, thereby defeating the purpose of EIT in optimizing PEEP.",
+      "D": "Increasing PEEP in the presence of a pneumothorax is highly dangerous. It could worsen the pneumothorax by forcing more air into the pleural space, potentially converting a small stable pneumothorax into a tension pneumothorax. This is a contraindicated and harmful intervention."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_f9d3227b",
+    "question": "A 72-year-old patient with severe ARDS is on mechanical ventilation. Despite careful management, the patient develops a sudden onset of subcutaneous emphysema, decreased breath sounds, and increased peak inspiratory pressures, suggestive of a new pneumothorax. Which ventilator parameter, if consistently maintained at high levels, is most directly implicated in increasing the risk of barotrauma and subsequent pneumothorax?",
+    "options": {
+      "A": "Inspiratory-to-expiratory (I:E) ratio",
+      "B": "Respiratory rate",
+      "C": "Plateau pressure (Pplat)",
+      "D": "Fraction of inspired oxygen (FiO2)"
+    },
+    "correctAnswer": "C",
+    "topic": "Pneumothorax",
+    "deepDiveExplanation": "The provided context emphasizes the importance of avoiding high plateau pressures, stating: 'Ventilation should be sufficient to maintain pH > 7.15 - 7.2, with a low tidal volume in order to avoid plateau pressures > 30 mmHg' (Page 12). Additionally, 'Barotrauma' is listed as a disadvantage of auto-PEEP (Page 9), implying it is a complication to prevent. High plateau pressure directly reflects the static pressure within the alveoli at the end of inspiration. It is the primary determinant of overdistension-induced lung injury (volutrauma and barotrauma), which is a major risk factor for the development of pneumothorax in mechanically ventilated patients.",
+    "highYieldPearl": "Rio's Take: In mechanically ventilated patients, consistently high plateau pressures (typically >30 cmH2O) are the most significant modifiable risk factor for barotrauma, including pneumothorax, and must be meticulously avoided.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "An altered I:E ratio, especially inverse ratio ventilation, can increase mean airway pressure and potentially contribute to lung injury. However, it is the resulting alveolar distension, which is best reflected by plateau pressure, that directly causes barotrauma, not the I:E ratio itself in isolation.",
+      "B": "While a very high respiratory rate can increase dynamic hyperinflation and mean airway pressure (as seen in auto-PEEP), it's the resulting alveolar distension and pressure (reflected by Pplat) that directly causes barotrauma, rather than the rate alone.",
+      "C": "This option is the correct answer. Plateau pressure directly reflects the static pressure exerted on the alveoli at end-inspiration, making it the most direct indicator of lung distension and risk for barotrauma.",
+      "D": "FiO2 (Fraction of inspired oxygen) relates to oxygenation and the potential for oxygen toxicity, but it does not directly contribute to the mechanical stresses or barotrauma that cause pneumothorax."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_a6d2374b",
+    "question": "A 58-year-old male with severe ARDS is admitted to the ICU and is on mechanical ventilation. Electrical Impedance Tomography (EIT) is being utilized to guide PEEP titration and assess regional lung ventilation. During an EIT-guided maneuver, the patient acutely develops severe desaturation (SpO2 82%) and becomes hypotensive. Physical examination reveals absent breath sounds and hyper-resonance on the left side of the chest. A STAT portable chest X-ray confirms a large left-sided pneumothorax. In light of this development, what is the most appropriate immediate action regarding the use of Electrical Impedance Tomography (EIT) in this patient?",
+    "options": {
+      "A": "Discontinue EIT immediately as pneumothorax is a contraindication and can lead to an inadequate signal.",
+      "B": "Continue EIT to monitor the re-expansion of the lung after chest tube insertion.",
+      "C": "Reposition the EIT electrode belt to optimize the signal despite the pneumothorax.",
+      "D": "Adjust EIT settings to specifically visualize and quantify the pneumothorax size."
+    },
+    "correctAnswer": "A",
+    "topic": "Pneumothorax",
+    "deepDiveExplanation": "The development of a pneumothorax in a patient undergoing EIT guidance necessitates the immediate discontinuation of the EIT. As per the provided context (Page 16), pneumothorax is listed as a contraindication due to 'inadequate EIT signal'. Moreover, in an emergency situation like this, where a large pneumothorax is causing acute respiratory distress and hemodynamic instability, immediate life-saving interventions (e.g., chest tube insertion) take precedence. EIT is not designed to quantify pneumothorax size, nor can it provide reliable data in its presence.",
+    "highYieldPearl": "Rio's Take: Always prioritize patient safety and address life-threatening conditions. EIT is a valuable monitoring tool but has specific contraindications, including pneumothorax, where its signal becomes unreliable, and its continued use could distract from critical management.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Correct. This aligns directly with the provided context stating pneumothorax as a contraindication due to inadequate signal and the clinical priority.",
+      "B": "Trap. While EIT might show some regional changes post-intervention, its primary utility is compromised by the pneumothorax, and the context explicitly lists it as a contraindication, implying it should be stopped. The immediate priority is the management of the pneumothorax.",
+      "C": "Trap. Repositioning the EIT electrode belt will not resolve the fundamental issue of an inadequate signal caused by the air in the pleural space due to pneumothorax.",
+      "D": "Trap. EIT is used to assess regional ventilation, not specifically to quantify pneumothorax size. A chest X-ray or CT scan is the standard for pneumothorax diagnosis and size assessment."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_b2f02c1e",
+    "question": "A 72-year-old patient with a history of severe COPD (FEV1 30% predicted) is admitted to the ICU with acute hypercapnic respiratory failure (pH 7.26, PaCO2 70 mmHg) due to an exacerbation. Non-invasive ventilation (NIV) is initiated. During the morning rounds, the resident asks about the specific advantages of using NIV in this clinical scenario, beyond simply avoiding intubation. Which of the following is a specific advantage of Non-Invasive Ventilation (NIV) in managing acute COPD exacerbation, as highlighted in the provided literature?",
+    "options": {
+      "A": "It reliably eliminates auto-PEEP, thereby fully normalizing the work of breathing.",
+      "B": "It offers a significant reduction in the incidence of nosocomial infections, including ventilator-associated pneumonia and pneumothorax.",
+      "C": "It directly prevents dynamic hyperinflation by actively recruiting collapsed distal airways and alveoli.",
+      "D": "It provides superior oxygenation compared to invasive mechanical ventilation in the initial 24 hours."
+    },
+    "correctAnswer": "B",
+    "topic": "Pneumothorax",
+    "deepDiveExplanation": "The provided context explicitly states: 'COPD gamechanger ⇒ NIV * ↓ RISK of Pneumothorax ↓ VAP' (Page 12). This directly indicates that NIV reduces the risk of ventilator-associated pneumonia (VAP) and pneumothorax. While NIV does help with auto-PEEP and dynamic hyperinflation by reducing inspiratory work and allowing more expiratory time, it rarely 'reliably eliminates' auto-PEEP or 'fully normalizes' work of breathing (Option A). Its primary mechanism is to unload respiratory muscles and improve gas exchange, not necessarily to 'actively recruit collapsed distal airways and alveoli' in the context of COPD (Option C). There is no mention of superior oxygenation compared to IMV in the initial 24 hours in the provided context (Option D).",
+    "highYieldPearl": "Rio's Take: NIV in COPD exacerbation is not just about avoiding intubation. It significantly improves patient outcomes by reducing complications like VAP and pneumothorax, making it a 'gamechanger' in management.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Trap. While NIV helps reduce auto-PEEP and the work of breathing, claiming it 'reliably eliminates' auto-PEEP and 'fully normalizes' WOB is an overstatement and typically not achievable in all patients.",
+      "B": "Correct. This directly reflects the information provided in the context, highlighting NIV's role in reducing the risk of both VAP and pneumothorax.",
+      "C": "Trap. NIV helps manage dynamic hyperinflation by facilitating exhalation and reducing inspiratory work, but its primary mechanism in COPD is not 'actively recruiting collapsed distal airways and alveoli,' which are often obstructed and prone to collapse due to disease pathology.",
+      "D": "Trap. While oxygenation often improves with NIV, claiming 'superior oxygenation compared to invasive mechanical ventilation in the initial 24 hours' is a strong, unproven claim in the given context and generally not a primary, universally accepted advantage over IMV for oxygenation."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_5078473e",
+    "question": "A 30-year-old male with no significant past medical history presents to the emergency department with sudden onset sharp, pleuritic right-sided chest pain and shortness of breath. On examination, he is mildly tachypneic (RR 24/min) and reports increased discomfort with deep breaths. Auscultation reveals mildly diminished breath sounds over the right apex. A bedside chest X-ray confirms a right-sided simple pneumothorax with an estimated apical lung separation of 2 cm. Based on the patient's presentation and the provided guidelines, what is the most appropriate immediate management strategy?",
+    "options": {
+      "A": "Initiate supplemental oxygen and closely observe the patient with serial chest X-rays over the next 6-12 hours.",
+      "B": "Perform a diagnostic and therapeutic thoracentesis with a small-bore catheter immediately.",
+      "C": "Administer analgesia and arrange for a follow-up chest X-ray in 24 hours, advising rest.",
+      "D": "Proceed with immediate intervention (e.g., needle aspiration or small-bore chest tube), irrespective of the calculated size."
+    },
+    "correctAnswer": "D",
+    "topic": "Pneumothorax",
+    "deepDiveExplanation": "The patient is symptomatic (chest pain, shortness of breath, tachypnea, diminished breath sounds), even though the pneumothorax is described as 'small' (2 cm apical separation). The provided context explicitly states: 'Symptomatic PneumoThorax irrespective of Size if Pt is symptomatic!! Intervene Immediately' (Page 24). Therefore, immediate intervention, such as needle aspiration or a small-bore chest tube, is warranted. Observation (Options A and C) would be appropriate only for asymptomatic or minimally symptomatic patients with small pneumothoraces, which is not the case here. Thoracentesis (Option B) is primarily for fluid drainage, and while aspiration is used for pneumothorax, the term 'diagnostic and therapeutic thoracentesis' is less precise for this scenario.",
+    "highYieldPearl": "Rio's Take: The cardinal rule for pneumothorax management in an acute setting is that patient *symptoms* dictate the urgency of intervention, often overriding the radiological size criteria.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Trap. This approach is generally reserved for *asymptomatic* or minimally symptomatic patients with small pneumothoraces. This patient is clearly symptomatic (tachypneic, chest pain, shortness of breath), making observation unsafe per the guidelines.",
+      "B": "Trap. While aspiration is a valid intervention for pneumothorax, 'thoracentesis' typically refers to the drainage of pleural fluid. The term 'diagnostic and therapeutic' is also less appropriate as the pneumothorax is already confirmed.",
+      "C": "Trap. Similar to Option A, this strategy is for stable, asymptomatic, or very minimally symptomatic patients. This patient's symptoms (tachypnea, pain, SOB) warrant more immediate action.",
+      "D": "Correct. This option directly reflects the critical guideline provided in the context: 'Symptomatic PneumoThorax irrespective of Size if Pt is symptomatic!! Intervene Immediately.' The presence of symptoms (tachypnea, chest pain, shortness of breath) mandates intervention despite the seemingly 'small' size."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_7039af92",
+    "question": "A 60-year-old male on mechanical ventilation for ARDS is being considered for Electrical Impedance Tomography (EIT) guided PEEP titration. During the initial assessment, a chest X-ray reveals a small apical pneumothorax. Which of the following is a contraindication for proceeding with EIT in this patient?",
+    "options": {
+      "A": "Small apical pneumothorax",
+      "B": "Sedation and paralysis",
+      "C": "PEEP titration steps of 2 cm H2O increments",
+      "D": "Plateau pressure less than 35 cm H2O"
+    },
+    "correctAnswer": "A",
+    "topic": "Pneumothorax",
+    "deepDiveExplanation": "The provided context explicitly lists 'pneumothorax' as a contraindication for EIT placement due to the potential for an inadequate EIT signal. EIT relies on electrical conductivity through the thorax, and air in the pleural space (pneumothorax) can interfere with accurate impedance measurements, rendering the data unreliable for guiding ventilation strategies like PEEP titration.",
+    "highYieldPearl": "Rio's Take: Always check for contraindications before implementing advanced monitoring tools. Pneumothorax is a key contraindication for EIT.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct answer, directly stated as a contraindication in the EIT context.",
+      "B": "Sedation and paralysis are often required or beneficial for stable EIT measurements and PEEP titration, not a contraindication.",
+      "C": "This describes a part of the EIT-guided PEEP titration protocol (steps of PEEP changes), not a reason to avoid EIT.",
+      "D": "A plateau pressure less than 35 cm H2O is a target to maintain during PEEP titration, indicating a safe lung protective strategy, and is not a contraindication for EIT."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_136e03f0",
+    "question": "A 45-year-old male with severe COPD, on non-invasive ventilation (NIV) for an acute exacerbation, suddenly develops acute worsening of dyspnea, increased work of breathing, and unilateral decreased breath sounds on physical examination. A STAT chest X-ray confirms a 1 cm apical pneumothorax. What is the most appropriate immediate management step for this patient?",
+    "options": {
+      "A": "Observe closely with serial chest X-rays.",
+      "B": "Initiate broad-spectrum antibiotics for potential pneumonia.",
+      "C": "Perform immediate chest tube insertion.",
+      "D": "Increase NIV support to overcome auto-PEEP."
+    },
+    "correctAnswer": "C",
+    "topic": "Pneumothorax",
+    "deepDiveExplanation": "The provided context clearly states: 'PneumoThorax irrespective of Size if Pt is symptomatic !! Intervene Immediately'. This patient exhibits acute worsening of symptoms (dyspnea, increased WOB, decreased breath sounds) with a confirmed pneumothorax. In a symptomatic patient, particularly one on ventilatory support (NIV), immediate intervention is critical to prevent progression to tension pneumothorax or further respiratory decompensation. Chest tube insertion is the definitive treatment for a symptomatic pneumothorax.",
+    "highYieldPearl": "Rio's Take: Symptomatic pneumothorax always warrants immediate intervention, regardless of size, especially in ventilated patients.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Observation is typically reserved for asymptomatic, small pneumothoraces, especially in patients not on positive pressure ventilation. This patient is symptomatic.",
+      "B": "While COPD exacerbations can be triggered by infections, the acute clinical deterioration with unilateral findings and confirmed pneumothorax points to a mechanical issue, not primarily infection.",
+      "C": "This is the correct answer. Immediate intervention with chest tube insertion is indicated for a symptomatic pneumothorax to relieve symptoms and prevent complications.",
+      "D": "Increasing NIV pressure could worsen the pneumothorax by pushing more air into the pleural space, potentially converting a simple pneumothorax into a tension pneumothorax."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_7094e27d",
+    "question": "A 70-year-old patient, mechanically ventilated for acute respiratory distress syndrome (ARDS), suddenly develops severe hypotension, tachycardia, and marked increase in peak airway pressures. Physical examination reveals absent breath sounds on the right side, hyperresonance to percussion, and tracheal deviation to the left. What is the most appropriate immediate life-saving intervention?",
+    "options": {
+      "A": "Obtain an urgent chest X-ray.",
+      "B": "Increase the PEEP setting on the ventilator.",
+      "C": "Perform immediate needle decompression.",
+      "D": "Administer intravenous fluids and vasopressors."
+    },
+    "correctAnswer": "C",
+    "topic": "Pneumothorax",
+    "deepDiveExplanation": "The clinical presentation (severe hypotension, tachycardia, increased peak airway pressures, absent breath sounds, hyperresonance, and tracheal deviation in a mechanically ventilated patient) is pathognomonic for a tension pneumothorax. This is a medical emergency requiring immediate life-saving intervention without delay. Needle decompression rapidly relieves the positive pressure in the pleural space, restoring venous return and cardiac output. The context emphasizes 'Intervene Immediately' for symptomatic pneumothorax, which includes tension pneumothorax.",
+    "highYieldPearl": "Rio's Take: Tension pneumothorax is a clinical diagnosis. Don't wait for imaging. Decompress immediately to save a life.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "While a chest X-ray would confirm the diagnosis, delaying intervention for imaging in a patient with clinical signs of tension pneumothorax can be fatal. It's a clinical diagnosis for immediate action.",
+      "B": "Increasing PEEP would worsen the tension pneumothorax by further increasing intrathoracic pressure, leading to more hemodynamic compromise.",
+      "C": "This is the correct and immediate life-saving intervention for a tension pneumothorax, as it rapidly decompresses the pleural space.",
+      "D": "Intravenous fluids and vasopressors are supportive measures for hypotension but do not address the underlying mechanical cause of circulatory collapse in a tension pneumothorax. The primary intervention must be to relieve the tension."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_9fdc2989",
+    "question": "Regarding Electrical Impedance Tomography (EIT), which of the following conditions is specifically mentioned in the provided notes as a cause for an inadequate EIT signal, thereby limiting its diagnostic utility?",
+    "options": {
+      "A": "Pacemaker presence",
+      "B": "Spinal cord injury",
+      "C": "Pneumothorax",
+      "D": "Severe hypercapnia"
+    },
+    "correctAnswer": "C",
+    "topic": "Pneumothorax",
+    "deepDiveExplanation": "The provided text explicitly lists 'Pneumothorax' under 'Contraindications to EIT placement' as a cause for an 'Inadequate EIT signal (e.g., thoracic bandages, pneumothorax)'. This indicates that the presence of air in the pleural space, characteristic of a pneumothorax, directly interferes with the electrical impedance measurements, compromising the quality and interpretability of the EIT signal.",
+    "highYieldPearl": "Rio's Take: EIT is a valuable non-radiological bedside tool for assessing regional ventilation. However, conditions that significantly alter thoracic impedance, such as a pneumothorax or even extensive thoracic bandages, can degrade the signal quality and lead to unreliable results.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Pacemaker presence is listed as a general contraindication for EIT placement due to safety concerns, but not specifically as a cause for an 'inadequate EIT signal'.",
+      "B": "Spinal cord injury is also listed as a contraindication for EIT placement, similar to a pacemaker, implying general patient suitability rather than an impact on signal quality.",
+      "C": "This option is directly supported by the text which explicitly states 'pneumothorax' as a cause for an inadequate EIT signal.",
+      "D": "Severe hypercapnia is not mentioned in the context as a contraindication or a cause for an inadequate EIT signal. While hypercapnia reflects ventilation status, it doesn't directly impair the electrical signal acquisition."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_fcac8ab8",
+    "question": "A patient presents to the emergency department with acute onset dyspnea, pleuritic chest pain, and hypotension. A chest X-ray reveals a small spontaneous pneumothorax (less than 2 cm apical separation) without tracheal deviation. Based on the provided clinical notes, what is the most appropriate initial management approach?",
+    "options": {
+      "A": "Observe the patient closely with serial clinical assessments and repeat chest X-rays.",
+      "B": "Administer oxygen therapy and consider analgesia, deferring active intervention.",
+      "C": "Initiate immediate intervention for the pneumothorax.",
+      "D": "Plan for elective surgical pleurodesis within 24-48 hours."
+    },
+    "correctAnswer": "C",
+    "topic": "Pneumothorax",
+    "deepDiveExplanation": "The handwritten note on page 24 explicitly states: 'S PneumoThorax irrespective of Size if Pt is symptomatic !! Intervene Immediately'. In this clinical scenario, the patient is highly symptomatic (dyspnea, pleuritic chest pain) and hemodynamically unstable (hypotension). These factors dictate an immediate and active intervention for the pneumothorax, regardless of its small radiographic size.",
+    "highYieldPearl": "Rio's Take: The critical principle in pneumothorax management is to always prioritize the patient's symptoms and hemodynamic stability over the radiographic size of the pneumothorax. A symptomatic or unstable patient with any size pneumothorax warrants prompt intervention.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Observation with serial imaging is typically reserved for asymptomatic or minimally symptomatic small pneumothoraces. This approach is inappropriate for a symptomatic and unstable patient.",
+      "B": "Oxygen and analgesia are supportive measures, but deferring active intervention for a symptomatic and hemodynamically unstable patient with pneumothorax would be inadequate and potentially harmful.",
+      "C": "This option aligns perfectly with the clear directive from the notes: 'Symptomatic !! Intervene Immediately' regardless of size. The nature of immediate intervention could vary (e.g., needle decompression, chest tube) but the need for it is paramount.",
+      "D": "Elective surgical pleurodesis is a definitive long-term treatment for recurrent pneumothorax or as part of management for persistent or large pneumothoraces, but it is not the immediate initial step for an acute, symptomatic presentation requiring urgent stabilization."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_d60ece7a",
+    "question": "Dynamic hyperinflation and auto-PEEP are commonly observed in patients with obstructive airway diseases, such as COPD. According to the provided context, which of the following is a significant disadvantage of auto-PEEP that directly relates to the risk of lung injury, potentially including pneumothorax?",
+    "options": {
+      "A": "Increased work of breathing (WOB)",
+      "B": "Decreased venous return and cardiac output",
+      "C": "Barotrauma",
+      "D": "Respiratory alkalosis"
+    },
+    "correctAnswer": "C",
+    "topic": "Pneumothorax",
+    "deepDiveExplanation": "Page 9 of the notes explicitly lists 'Barotrauma' as one of the disadvantages of auto-PEEP. Pneumothorax is a well-recognized form of barotrauma, which is lung injury caused by excessive pressure. Therefore, auto-PEEP, by increasing intra-alveolar pressure, significantly predisposes patients to barotrauma, including the development of pneumothorax.",
+    "highYieldPearl": "Rio's Take: Elevated intrinsic PEEP (auto-PEEP) in conditions leading to dynamic hyperinflation, such as severe COPD or asthma exacerbations, increases intrathoracic pressure. This not only compromises hemodynamics and increases the work of breathing but critically elevates the risk of barotrauma, with pneumothorax being a major concern.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Increased work of breathing (WOB) is indeed a major disadvantage of auto-PEEP, as detailed on pages 8-9. However, it describes the increased effort for breathing, not directly the mechanism of lung tissue injury like pneumothorax.",
+      "B": "Decreased venous return and cardiac output are significant hemodynamic disadvantages of auto-PEEP due to increased intrathoracic pressure, as mentioned on page 9. While important, this is a systemic effect, not a direct lung injury mechanism.",
+      "C": "This option is directly supported by the notes. Barotrauma encompasses lung injuries like pneumothorax, pneumomediastinum, and subcutaneous emphysema, all of which are risks associated with high pressures, including those generated by auto-PEEP.",
+      "D": "Respiratory alkalosis is mentioned in the context of too sensitive a ventilator trigger (page 12), not directly as a disadvantage of auto-PEEP itself, nor is it linked to the risk of lung injury or pneumothorax in the provided text."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_e8fc1db2",
+    "question": "A 55-year-old male with severe ARDS is receiving mechanical ventilation and undergoing Electrical Impedance Tomography (EIT) for optimal PEEP titration. During a routine assessment, the bedside nurse notes sudden worsening of desaturation, increased peak airway pressures, and decreased breath sounds over the right hemithorax. The EIT display shows a complete loss of regional ventilation signal over the right lung fields. Which of the following is the MOST appropriate immediate action?",
+    "options": {
+      "A": "Continue EIT monitoring to assess the degree of lung collapse and guide emergent chest tube placement.",
+      "B": "Immediately halt EIT data acquisition and perform a bedside point-of-care ultrasound (POCUS) to confirm pneumothorax.",
+      "C": "Increase PEEP by 2 cmH2O and decrease tidal volume, anticipating further recruitment based on prior EIT findings in ARDS.",
+      "D": "Initiate an expiratory hold maneuver to measure intrinsic PEEP and identify dynamic hyperinflation, as EIT signal loss can indicate air trapping."
+    },
+    "correctAnswer": "B",
+    "topic": "Pneumothorax",
+    "deepDiveExplanation": "The patient presents with classic signs and symptoms of a pneumothorax (sudden desaturation, increased peak airway pressures, decreased breath sounds). The EIT context explicitly states that pneumothorax is a contraindication for EIT and causes an 'inadequate EIT signal'. A complete loss of regional ventilation signal on EIT further supports the diagnosis of pneumothorax, indicating that the EIT data is now unreliable and the device's utility is compromised. Therefore, the immediate priority is to cease using the compromised monitoring tool and rapidly confirm the life-threatening condition (pneumothorax) using a more appropriate bedside diagnostic modality like POCUS, which can quickly identify the absence of lung sliding or presence of a 'lung point'.",
+    "highYieldPearl": "Rio's Take: EIT, while valuable for regional ventilation assessment, is contraindicated in pneumothorax due to unreliable signal generation. In suspected pneumothorax, clinical signs and rapid bedside imaging (like POCUS) take precedence over continued EIT monitoring.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Continuing EIT is inappropriate as it is contraindicated in pneumothorax, and its signal becomes unreliable. Relying on potentially artifactual or absent EIT data for critical guidance in an emergency is dangerous.",
+      "B": "This is the correct approach. Halting EIT acknowledges its contraindication and unreliability in this setting. POCUS is a rapid, non-invasive bedside tool to confirm pneumothorax, enabling prompt intervention.",
+      "C": "Increasing PEEP in a patient with suspected pneumothorax is highly dangerous as it can exacerbate air leak and lead to or worsen a tension pneumothorax. EIT findings are likely artifactual due to the pneumothorax, not an indication for further recruitment maneuvers.",
+      "D": "An expiratory hold maneuver is primarily used to measure auto-PEEP and detect air trapping, often in conditions like COPD or asthma. While EIT signal changes can be seen with air trapping, a 'complete loss of regional ventilation signal' combined with the acute clinical signs strongly points to pneumothorax, not merely dynamic hyperinflation. Performing this maneuver delays definitive diagnosis and intervention for pneumothorax."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_f798bd99",
+    "question": "A 70-year-old male with severe COPD exacerbation is on invasive mechanical ventilation due to worsening Type II respiratory failure. Despite ventilatory adjustments aimed at reducing auto-PEEP, he develops a sudden unilateral decrease in breath sounds, hyperresonance to percussion, and hemodynamic instability. Chest X-ray confirms a large pneumothorax. All of the following factors contributed to an increased risk of pneumothorax in this patient, EXCEPT:",
+    "options": {
+      "A": "Persistent dynamic hyperinflation and auto-PEEP.",
+      "B": "Use of high inspiratory flow rates which contributed to elevated peak inspiratory pressures.",
+      "C": "Underlying emphysematous changes leading to fragile lung parenchyma.",
+      "D": "Mechanical ventilation with a strategy of permissive hypercapnia to actively avoid high plateau pressures."
+    },
+    "correctAnswer": "D",
+    "topic": "Pneumothorax",
+    "deepDiveExplanation": "The question asks for the factor that did NOT contribute to an increased risk of pneumothorax. Permissive hypercapnia, when implemented to avoid high plateau pressures (Pplat < 30 mmHg), is a protective ventilatory strategy aimed at reducing barotrauma. By prioritizing lung protection over strict normocapnia, this strategy actively decreases the risk of ventilator-induced lung injury, including pneumothorax. Therefore, it does not contribute to an increased risk; rather, it mitigates it.",
+    "highYieldPearl": "Rio's Take: Permissive hypercapnia, when strategically used to limit plateau pressures, is a lung-protective strategy that reduces the risk of barotrauma and pneumothorax, particularly in patients susceptible to dynamic hyperinflation and lung injury.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Persistent dynamic hyperinflation and auto-PEEP increase the transmural pressure across the alveoli, predisposing to barotrauma and pneumothorax. The context explicitly mentions auto-PEEP as a cause of 'Barotrauma'.",
+      "B": "While high inspiratory flow rates are advocated to shorten inspiratory time and allow for longer expiration (to reduce auto-PEEP), they can lead to higher peak inspiratory pressures. These transient high pressures, especially in fragile emphysematous lungs, can contribute to lung stress, shear injury, and rupture, thus increasing the risk of pneumothorax.",
+      "C": "Emphysematous changes inherently weaken the lung parenchyma, making it more prone to rupture under stress (e.g., from mechanical ventilation, high intra-thoracic pressures), significantly increasing the risk of spontaneous or ventilator-induced pneumothorax.",
+      "D": "This is the correct answer. The text states: 'Ventilation should be sufficient to maintain pH > 7.15 - 7.2, with a low tidal volume in order to avoid plateau pressures > 30 mmHg.' Permissive hypercapnia, in this context, is a strategy to allow mild hypercapnia to *avoid* high plateau pressures, thereby *reducing* the risk of barotrauma and pneumothorax, not increasing it."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_a841f661",
+    "question": "A 65-year-old male with severe COPD exacerbation is on Bi-level Positive Airway Pressure (BiPAP) ventilation. During monitoring, he acutely develops sudden worsening dyspnea, agitation, and a drop in SpO2 from 92% to 80%. On examination, there is absent breath sounds over the left lung field and tracheal deviation to the right. Which of the following statements regarding the immediate management in this scenario is CORRECT?",
+    "options": {
+      "A": "Perform immediate thoracostomy with a small-bore chest tube, followed by careful titration of BiPAP to maintain oxygenation.",
+      "B": "Immediately discontinue BiPAP and perform a bedside large-bore needle decompression, followed by preparation for definitive chest tube insertion.",
+      "C": "Switch to invasive mechanical ventilation with permissive hypercapnia and low tidal volumes, prior to any pleural intervention.",
+      "D": "Discontinue BiPAP and administer 100% oxygen via non-rebreather mask, while observing for symptom resolution over the next 15-20 minutes before intervening."
+    },
+    "correctAnswer": "B",
+    "topic": "Pneumothorax",
+    "deepDiveExplanation": "The patient's presentation (acute worsening dyspnea, agitation, severe desaturation, absent breath sounds, and tracheal deviation) is pathognomonic for a tension pneumothorax. This is a medical emergency requiring immediate life-saving intervention. The provided context emphasizes, 'Pneumothorax irrespective of Size if Pt is symptomatic!! Intervene Immediately.' Positive pressure ventilation (like BiPAP) can worsen a pneumothorax by forcing more air into the pleural space, leading to increased tension. Therefore, the immediate actions are to discontinue the positive pressure support (BiPAP) and perform a bedside large-bore needle decompression to relieve the tension. This must be followed by definitive chest tube insertion.",
+    "highYieldPearl": "Rio's Take: In a tension pneumothorax, especially in a patient on positive pressure ventilation, immediate cessation of positive pressure and needle decompression are life-saving. Any delay in intervention or continuation of positive pressure can be fatal.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "While thoracostomy with a chest tube is eventually needed, a small-bore chest tube might not be sufficient for rapid decompression of a tension pneumothorax. More critically, *continuing* or titrating BiPAP (positive pressure) after intervention would worsen the air leak and re-establish tension, which is contraindicated.",
+      "B": "This is the correct and most appropriate immediate management. Discontinuing BiPAP removes the ongoing positive pressure contributing to tension. Needle decompression rapidly relieves the life-threatening mediastinal shift and improves hemodynamics. Definitive chest tube insertion follows for ongoing drainage.",
+      "C": "Switching to invasive mechanical ventilation (which also applies positive pressure) *before* relieving the tension is contraindicated and would rapidly worsen the patient's condition. Pleural intervention (needle decompression/chest tube) must precede or occur simultaneously with any consideration of advanced ventilatory support.",
+      "D": "While discontinuing BiPAP and administering oxygen are correct initial steps, *waiting 15-20 minutes* for symptom resolution in a patient with suspected tension pneumothorax (tracheal deviation, severe dyspnea, agitation, profound desaturation) is a critical and potentially fatal delay. Immediate intervention is paramount for tension pneumothorax."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_c673faa1",
+    "question": "A 45-year-old male, 2 hours post-thoracentesis, suddenly develops acute dyspnea, pleuritic chest pain, and becomes tachycardic. Physical examination reveals decreased breath sounds and hyperresonance on percussion over the right hemithorax. A chest X-ray confirms a right-sided pneumothorax with approximately 30% lung collapse. What is the most appropriate initial management step?",
+    "options": {
+      "A": "Close observation with serial chest X-rays",
+      "B": "Supplemental oxygen via nasal cannula",
+      "C": "Immediate needle decompression",
+      "D": "Urgent chest tube insertion"
+    },
+    "correctAnswer": "D",
+    "topic": "Pneumothorax",
+    "deepDiveExplanation": "The patient's acute symptoms (dyspnea, chest pain, tachycardia) combined with clinical signs (decreased breath sounds, hyperresonance) and radiological confirmation of a moderate (30% collapse) pneumothorax indicate a symptomatic pneumothorax requiring immediate intervention. As per guidelines, a symptomatic pneumothorax, irrespective of size, warrants intervention. Chest tube insertion is the definitive and most appropriate initial management for a symptomatic pneumothorax of this size, as it provides continuous drainage and facilitates lung re-expansion.",
+    "highYieldPearl": "Rio's Take: Any symptomatic pneumothorax, regardless of size, warrants immediate intervention. For a non-tension pneumothorax causing significant symptoms or lung collapse, chest tube insertion is the definitive initial treatment.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Close observation is appropriate for very small, asymptomatic pneumothoraces, which does not apply here given the patient's symptoms and lung collapse.",
+      "B": "Supplemental oxygen is a supportive measure but does not address the underlying pathology of a collapsed lung due to air in the pleural space. It is not the definitive 'initial management step'.",
+      "C": "Immediate needle decompression is indicated for a *tension* pneumothorax, which is a medical emergency characterized by severe respiratory distress, hypotension, tracheal deviation, and absent breath sounds, requiring urgent pressure relief before a chest tube can be placed. While the patient is symptomatic, the vignette does not explicitly state signs of tension pneumothorax, and chest tube insertion remains the definitive management for a symptomatic non-tension pneumothorax. If tension was present, needle decompression would be a temporizing measure, but chest tube is still the ultimate goal."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_debe23bc",
+    "question": "A 68-year-old male admitted to the ICU with severe pneumonia and ARDS is being considered for Electrical Impedance Tomography (EIT) guided PEEP titration. He is sedated and paralyzed. Which of the following conditions, if present, would serve as an absolute contraindication for EIT placement?",
+    "options": {
+      "A": "Presence of an implanted cardiac pacemaker",
+      "B": "History of well-controlled diabetes mellitus",
+      "C": "Previous thoracotomy for lobectomy five years ago",
+      "D": "Receiving continuous renal replacement therapy (CRRT)"
+    },
+    "correctAnswer": "A",
+    "topic": "Pneumothorax",
+    "deepDiveExplanation": "The provided context explicitly lists 'Pacemaker' as a contraindication to EIT placement. EIT involves applying small electrical currents to the chest, and these currents can interfere with the function of implanted electronic devices like pacemakers or defibrillators, posing a safety risk to the patient. Other listed contraindications include spinal cord injury, inadequate EIT signal (e.g., due to pneumothorax or thoracic bandages), and hemodynamic instability.",
+    "highYieldPearl": "Rio's Take: Always check for implanted electronic devices (like pacemakers) before initiating EIT, as they are a significant contraindication due to potential electrical interference.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "B": "History of well-controlled diabetes mellitus does not pose a direct contraindication to EIT placement.",
+      "C": "Previous thoracotomy or other thoracic surgeries are generally not contraindications, although they might slightly alter thoracic anatomy. They are not mentioned in the contraindication list.",
+      "D": "Continuous renal replacement therapy (CRRT) is a common ICU treatment and does not contraindicate EIT placement."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_397157a8",
+    "question": "A patient undergoing Electrical Impedance Tomography (EIT) guided ventilation optimization in the ICU suddenly develops an acute deterioration in respiratory status. Concurrently, the EIT display shows a near-absence of regional impedance changes in the left lung field. This EIT finding, combined with the acute clinical worsening, most strongly suggests the development of which of the following conditions?",
+    "options": {
+      "A": "Left-sided lobar atelectasis",
+      "B": "Development of a left-sided pneumothorax",
+      "C": "Progression of right-sided pulmonary edema",
+      "D": "Acute exacerbation of chronic obstructive pulmonary disease"
+    },
+    "correctAnswer": "B",
+    "topic": "Pneumothorax",
+    "deepDiveExplanation": "The provided context states 'inadequate EIT signal (e.g., thoracic bandages, pneumothorax)' as a contraindication. A pneumothorax on the left side would introduce air into the pleural space. Air has very high electrical resistance and very low conductivity compared to lung tissue. This would lead to a severely diminished or near-absent EIT signal (regional impedance changes) in the affected hemithorax, as the EIT device struggles to measure conductivity changes through the air pocket. This finding, coupled with acute respiratory deterioration, is highly suggestive of a pneumothorax.",
+    "highYieldPearl": "Rio's Take: A sudden decrease or absence of EIT signal in a lung region should raise high suspicion for conditions like pneumothorax, which impede electrical conduction through the chest wall.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Lobar atelectasis, which involves collapse and increased density of lung tissue, would typically lead to an *increase* in regional impedance (denser tissue, less air) or altered, but not absent, changes, not a near-absence of signal.",
+      "C": "Progression of right-sided pulmonary edema would primarily affect the right lung, and while it would alter impedance characteristics (typically decreasing impedance due to increased fluid), it would not result in a near-absence of signal in the *left* lung, nor is it listed as a contraindication due to 'inadequate signal'.",
+      "D": "An acute exacerbation of COPD primarily involves increased airway resistance and air trapping, which would affect ventilation distribution patterns visible on EIT, but would not typically cause a near-absence of regional impedance changes in one specific lung field in this acute manner, nor is it a listed cause for 'inadequate EIT signal'."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_bb1638e5",
+    "question": "A 28-year-old male presents with fever, chest pain, and shortness of breath for 3 weeks. Chest X-ray shows a 'D' shaped opacity indicative of loculated pleural effusion. Pleural fluid aspiration reveals grossly purulent fluid, which is positive for TB bacilli on smear. He is diagnosed with tubercular empyema thoracis. What is the most appropriate initial management strategy for this patient?",
+    "options": {
+      "A": "Antitubercular therapy (ATT) alone.",
+      "B": "Antitubercular therapy (ATT) with intercostal drainage (ICD).",
+      "C": "Immediate surgical decortication.",
+      "D": "Systemic steroids with antitubercular therapy."
+    },
+    "correctAnswer": "B",
+    "topic": "Pleural Procedures (Thoracentesis, Chest Tube)",
+    "deepDiveExplanation": "Tubercular empyema thoracis requires both medical management to eradicate the infection and drainage of the purulent fluid to facilitate lung expansion and prevent complications. The provided text explicitly states the management for tubercular empyema thoracis as 'ATT + ICD'. Intercostal drainage (ICD) is crucial for producing early lung expansion and minimizing pleural thickening, which are important outcomes in managing empyema.",
+    "highYieldPearl": "Rio's Take: Tubercular empyema demands a dual approach: specific ATT for the infection and ICD for effective drainage, early lung re-expansion, and prevention of pleural fibrosis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option is incomplete. While ATT is essential for treating the tuberculosis, drainage of purulent fluid via ICD is equally critical for empyema and preventing complications like extensive pleural fibrosis.",
+      "B": "This is the correct and comprehensive initial management as per guidelines, addressing both the infection and the empyema drainage.",
+      "C": "Immediate surgical decortication is typically reserved for cases that fail to respond to initial ATT + ICD, or for chronic organized empyema with significant pleural thickening that prevents lung re-expansion. It is not the first-line initial management.",
+      "D": "Systemic steroids are not routinely indicated as part of the initial management for tubercular empyema thoracis. Their use is not mentioned in the provided text for this specific condition and could potentially worsen the infection."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_ee66a6bd",
+    "question": "A 35-year-old female, recently diagnosed with Lymphangioleiomyomatosis (LAM), presents to the emergency department with acute onset breathlessness and pleuritic chest pain. A Chest X-ray confirms a large, spontaneous pneumothorax on the right side. This is her first-ever episode of pneumothorax. What is the most appropriate recommendation for long-term management to prevent future recurrences in this patient?",
+    "options": {
+      "A": "Observation with regular follow-up chest X-rays.",
+      "B": "Thoracostomy tube insertion followed by chemical pleurodesis.",
+      "C": "Initiation of Sirolimus therapy alone.",
+      "D": "Surgical lung biopsy for confirmation of LAM diagnosis."
+    },
+    "correctAnswer": "B",
+    "topic": "Pleural Procedures (Thoracentesis, Chest Tube)",
+    "deepDiveExplanation": "Patients with Lymphangioleiomyomatosis (LAM) have a significantly high risk of developing recurrent spontaneous pneumothoraces. According to the provided guidelines, pleurodesis should be offered following the first episode of spontaneous pneumothorax to prevent recurrence. Thoracostomy tube insertion is the initial step to treat the acute pneumothorax by re-expanding the lung, followed by pleurodesis to prevent future episodes.",
+    "highYieldPearl": "Rio's Take: In LAM, the high risk of recurrent pneumothorax necessitates proactive intervention. Pleurodesis should be offered even after the *first* spontaneous pneumothorax.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Observation alone is insufficient for a patient with LAM after a first spontaneous pneumothorax due to the high risk of recurrence. The guidelines explicitly recommend pleurodesis.",
+      "B": "This is the correct approach. Thoracostomy tube addresses the acute pneumothorax, and pleurodesis provides long-term prevention of recurrence, as recommended by the guidelines for LAM patients after their first spontaneous pneumothorax.",
+      "C": "Sirolimus is a treatment for LAM to stabilize lung function and manage other LAM-related manifestations like chylous effusions, but it is not the primary intervention for preventing pneumothorax recurrence after an acute episode. Pleurodesis is specifically indicated for pneumothorax prevention.",
+      "D": "The patient is already 'diagnosed with Lymphangioleiomyomatosis' as per the vignette. Therefore, a surgical lung biopsy for diagnosis is not indicated at this stage; the focus should be on managing the acute pneumothorax and preventing recurrence."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_thoracic_ct_74b0f827",
+    "question": "A 68-year-old male with a history of congestive heart failure (CHF) and atrial fibrillation on warfarin presents with dyspnea. Chest X-ray and ultrasound confirm a large, left-sided pleural effusion measuring 15 mm on lateral decubitus. He is also febrile with pleuritic chest pain. His INR is 2.8. Which of the following statements regarding the performance of thoracentesis in this patient is most accurate?",
+    "options": {
+      "A": "Thoracentesis should be postponed until his CHF is optimized.",
+      "B": "Thoracentesis is contraindicated due to his elevated INR (on warfarin).",
+      "C": "Thoracentesis can be safely performed under ultrasound guidance without immediate reversal of anticoagulation.",
+      "D": "Thoracentesis is generally unsafe in patients on positive mechanical ventilation."
+    },
+    "correctAnswer": "C",
+    "topic": "Pleural Procedures (Thoracentesis, Chest Tube)",
+    "deepDiveExplanation": "The text states that a diagnostic thoracentesis should be performed if the pleural fluid is >10 mm on imaging. While postponement can be considered for obvious CHF, this patient has additional red flags (fever, pleuritic chest pain), which make CHF an unlikely sole explanation, mandating thoracentesis 'without delay'. Furthermore, the text indicates that thoracentesis can be safely performed in patients with coagulopathies and thrombocytopenia due to the small-bore needle, and it is 'even safer when performed with ultrasound guidance'. An INR of 2.8 is within the therapeutic range for atrial fibrillation and not an absolute contraindication, especially with ultrasound guidance.",
+    "highYieldPearl": "Rio's Take: Thoracentesis is generally safe, even with mild coagulopathy or in mechanically ventilated patients, particularly with ultrasound guidance. Fever or pleuritic pain trumps deferral for CHF.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "The text states that if the patient is febrile or has pleuritic chest pain, CHF is an unlikely sole explanation for the effusion, and thoracentesis should be performed 'without delay'. Thus, postponing for CHF optimization is incorrect in this scenario.",
+      "B": "The text explicitly mentions that thoracentesis can be safely performed in patients with coagulopathies and thrombocytopenia. An INR of 2.8, while reflecting anticoagulation, does not automatically contraindicate the procedure, especially given the small-bore needle and ultrasound guidance.",
+      "C": "This statement is accurate. The presence of fever and pleuritic pain negates the 'postpone for CHF' rule. Thoracentesis is considered safe even with coagulopathies, and ultrasound guidance enhances its safety. Reversal of anticoagulation is not always immediately necessary for therapeutic INR levels in the absence of other high-risk factors for bleeding.",
+      "D": "The text states that thoracentesis 'can be safely performed... in patients on positive mechanical ventilation.' This option presents an incorrect general statement about safety."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_11_OCR",
+      "chapter": null,
+      "section": "eFigure Gallery",
+      "pageNumber": 21
+    },
+    "bookId": "MurrayNadel_Section_11_OCR",
+    "chunkId": "MurrayNadel_Section_11_OCR_chunk_041",
+    "generatedAt": 1767060988522,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "Which HRCT pattern is considered diagnostic for Usual Interstitial Pneumonia (UIP) in the absence of other causes?",
+    "options": {
+      "A": "Predominant ground-glass opacity",
+      "B": "Subpleural and basal predominant reticular opacities with honeycombing",
+      "C": "Upper lobe predominant centrilobular nodules",
+      "D": "Diffuse crazy-paving pattern"
+    },
+    "correctAnswer": "B",
+    "topic": "thoracic_ct",
+    "deepDiveExplanation": "The ATS/ERS/JRS/ALAT guidelines define a 'UIP pattern' on HRCT by the presence of honeycombing (often subpleural and basal predominant) with or without peripheral traction bronchiectasis/bronchioloectasis, and reticular abnormality. Ground-glass opacity, if present, should be less extensive than reticular abnormality. Absence of features inconsistent with UIP is also crucial.",
+    "highYieldPearl": "Honeycombing is the most specific HRCT feature for UIP and is diagnostic in the appropriate clinical context.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Option A (ground-glass) is non-specific. Option C (centrilobular nodules) suggests hypersensitivity pneumonitis or bronchiolitis. Option D (crazy-paving) is characteristic of pulmonary alveolar proteinosis.",
+    "isOneLiner": true,
+    "id": "one_liner_thoracic_ct_zhcebil1"
+  },
+  {
+    "question": "The 'signet ring sign' on HRCT is characteristic of which pulmonary condition?",
+    "options": {
+      "A": "Pulmonary emphysema",
+      "B": "Bronchiectasis",
+      "C": "Sarcoidosis",
+      "D": "Idiopathic pulmonary fibrosis"
+    },
+    "correctAnswer": "B",
+    "topic": "thoracic_ct",
+    "deepDiveExplanation": "The 'signet ring sign' on HRCT refers to a dilated bronchus (the 'ring') adjacent to its accompanying pulmonary artery (the 'gemstone'), where the bronchus lumen is wider than the accompanying artery. This indicates bronchial dilatation, a hallmark of bronchiectasis.",
+    "highYieldPearl": "A bronchial lumen larger than its accompanying pulmonary artery is the primary CT criterion for bronchiectasis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Other options are diffuse lung diseases with different characteristic CT features. Emphysema involves parenchymal destruction, sarcoidosis involves perilymphatic nodules, and IPF involves honeycombing.",
+    "isOneLiner": true,
+    "id": "one_liner_thoracic_ct_ilruyi55"
+  },
+  {
+    "question": "On CT, a Hounsfield Unit (HU) value of -800 to -900 is typically indicative of what?",
+    "options": {
+      "A": "Soft tissue mass",
+      "B": "Active consolidation",
+      "C": "Emphysematous changes",
+      "D": "Calcified nodule"
+    },
+    "correctAnswer": "C",
+    "topic": "thoracic_ct",
+    "deepDiveExplanation": "Hounsfield Units (HU) quantify tissue density on CT. Air is -1000 HU, water is 0 HU, and bone is +1000 HU. Values between -800 and -900 HU represent significantly decreased tissue density, characteristic of air-filled spaces without normal lung parenchyma, such as in emphysema.",
+    "highYieldPearl": "HU values correlate directly with tissue density: lower (more negative) values indicate less dense tissue (e.g., air), higher (more positive) values indicate denser tissue (e.g., calcification, bone).",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Soft tissue masses are typically +20 to +70 HU. Active consolidation is around +30 to +70 HU. Calcified nodules are much higher, typically +100 to +1000 HU.",
+    "isOneLiner": true,
+    "id": "one_liner_thoracic_ct_87z0hej6"
+  },
+  {
+    "question": "Which CT feature is most suggestive of a benign pulmonary nodule?",
+    "options": {
+      "A": "Spiculated margins",
+      "B": "Doubling time less than 30 days",
+      "C": "Stable size over two years",
+      "D": "Solid enhancement exceeding 20 HU"
+    },
+    "correctAnswer": "C",
+    "topic": "thoracic_ct",
+    "deepDiveExplanation": "A pulmonary nodule stable in size (no change in diameter of 2mm or more) for at least two years is generally considered benign, especially if it's solid. Malignant nodules typically grow, with a doubling time of 20 to 400 days.",
+    "highYieldPearl": "Stability over 2 years is a strong indicator of benignity for solid pulmonary nodules. This timeframe is extended to 5 years for subsolid nodules.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Spiculated margins, rapid doubling time (less than 30 days is too fast for most primary lung cancers, often suggesting infection or metastasis; however, any growth is suspicious), and significant enhancement are features more commonly associated with malignancy.",
+    "isOneLiner": true,
+    "id": "one_liner_thoracic_ct_u4hqwyfn"
+  },
+  {
+    "question": "The 'tree-in-bud' pattern on HRCT most commonly indicates which pathological process?",
+    "options": {
+      "A": "Lymphangitic carcinomatosis",
+      "B": "Bronchiolar inflammation or infection",
+      "C": "Pulmonary edema",
+      "D": "Pulmonary alveolar proteinosis"
+    },
+    "correctAnswer": "B",
+    "topic": "thoracic_ct",
+    "deepDiveExplanation": "The 'tree-in-bud' pattern represents centrilobular branching linear opacities with associated small nodules, resembling a budding tree branch. It results from impaction of inflamed or infected material within small airways and their distal branches, commonly seen in mycobacterial infections, bacterial bronchiolitis, or aspiration.",
+    "highYieldPearl": "While infection is the most common cause, 'tree-in-bud' can also be seen in non-infectious conditions like cystic fibrosis, aspiration, or even occasionally in neoplastic conditions like bronchioalveolar carcinoma.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Lymphangitic carcinomatosis typically presents with smooth or nodular septal thickening. Pulmonary edema shows diffuse ground-glass or consolidation with septal lines. Alveolar proteinosis classically presents with crazy-paving pattern.",
+    "isOneLiner": true,
+    "id": "one_liner_thoracic_ct_ja9owub8"
+  },
+  {
+    "question": "Which CT sign is most specific for chronic pulmonary embolism?",
+    "options": {
+      "A": "Acute intraluminal filling defect",
+      "B": "Mosaic attenuation pattern",
+      "C": "Webs, bands, or intimal irregularities within the pulmonary arterial lumen",
+      "D": "Right ventricular enlargement"
+    },
+    "correctAnswer": "C",
+    "topic": "thoracic_ct",
+    "deepDiveExplanation": "Chronic pulmonary embolism (CPE) or chronic thromboembolic pulmonary hypertension (CTEPH) is characterized by organized thrombus that remodels the vessel wall. Webs, bands, intimal irregularities, and recanalized channels are specific signs of chronic thrombus on CT angiography.",
+    "highYieldPearl": "Acute PE presents as a central, low-attenuation filling defect forming acute angles with the vessel wall, whereas chronic PE shows signs of organization and remodelling.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Acute intraluminal filling defect is characteristic of acute PE. Mosaic attenuation can be seen in various conditions causing air trapping or perfusion abnormalities. Right ventricular enlargement is a sign of pulmonary hypertension, which can be acute or chronic.",
+    "isOneLiner": true,
+    "id": "one_liner_thoracic_ct_nneai5kf"
+  },
+  {
+    "question": "On HRCT, which pattern is highly suggestive of chronic hypersensitivity pneumonitis?",
+    "options": {
+      "A": "Predominant subpleural honeycombing with basal predominance",
+      "B": "Upper/mid-lung predominant centrilobular nodules with mosaic attenuation and air trapping",
+      "C": "Diffuse ground-glass opacities with crazy-paving pattern",
+      "D": "Lower lobe predominant consolidation with air bronchograms"
+    },
+    "correctAnswer": "B",
+    "topic": "thoracic_ct",
+    "deepDiveExplanation": "Chronic hypersensitivity pneumonitis classically presents on HRCT with a triad of findings: centrilobular nodules (often ill-defined), mosaic attenuation (due to air trapping and ground-glass), and air trapping (best seen on expiratory scans). These findings often have an upper or mid-lung predominance.",
+    "highYieldPearl": "The combination of centrilobular nodules, mosaic attenuation, and air trapping should strongly suggest chronic HP, especially with upper/mid-lung involvement.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "Option A describes UIP. Option C describes pulmonary alveolar proteinosis. Option D suggests organizing pneumonia or bacterial pneumonia.",
+    "isOneLiner": true,
+    "id": "one_liner_thoracic_ct_153kb2q9"
+  },
+  {
+    "question": "What is the primary role of thoracic CT in suspected acute aortic dissection?",
+    "options": {
+      "A": "Assess lung parenchyma for infiltrates",
+      "B": "Evaluate coronary artery stenosis",
+      "C": "Identify intimal flap, true and false lumens",
+      "D": "Quantify myocardial viability"
+    },
+    "correctAnswer": "C",
+    "topic": "thoracic_ct",
+    "deepDiveExplanation": "CT angiography (CTA) of the chest and abdomen is the gold standard for diagnosing acute aortic dissection. It accurately identifies the intimal flap separating the true and false lumens, characterizes the extent of dissection, and detects complications like branch vessel involvement or rupture.",
+    "highYieldPearl": "CTA is rapid, widely available, and highly accurate for aortic dissection, making it the preferred imaging modality in acute settings.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Assessing lung parenchyma is a general CT function but not the primary role for suspected dissection. Evaluating coronary stenosis is the role of coronary CTA. Quantifying myocardial viability is typically done with MRI or nuclear medicine scans.",
+    "isOneLiner": true,
+    "id": "one_liner_thoracic_ct_x6mzhv3v"
+  },
+  {
+    "question": "The 'crazy-paving pattern' on HRCT is most classically associated with which condition?",
+    "options": {
+      "A": "Sarcoidosis",
+      "B": "Pulmonary alveolar proteinosis",
+      "C": "Asbestosis",
+      "D": "Cryptogenic organizing pneumonia"
+    },
+    "correctAnswer": "B",
+    "topic": "thoracic_ct",
+    "deepDiveExplanation": "The 'crazy-paving pattern' is characterized by diffuse ground-glass opacities superimposed on thickened interlobular and intralobular septa. It is highly characteristic, though not pathognomonic, of pulmonary alveolar proteinosis (PAP) due to alveolar filling with lipoproteinaceous material and associated interstitial thickening.",
+    "highYieldPearl": "While classic for PAP, crazy-paving can also be seen in acute respiratory distress syndrome (ARDS), pneumonia, pulmonary edema, and even some malignancies.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Sarcoidosis typically shows perilymphatic nodules. Asbestosis causes subpleural fibrosis and pleural plaques. Cryptogenic organizing pneumonia (COP/BOOP) often presents with patchy peripheral consolidation.",
+    "isOneLiner": true,
+    "id": "one_liner_thoracic_ct_gm5hgbgg"
+  },
+  {
+    "question": "On CT, which type of emphysema predominantly affects the upper lung zones and is strongly associated with smoking?",
+    "options": {
+      "A": "Panlobular emphysema",
+      "B": "Centrilobular emphysema",
+      "C": "Paraseptal emphysema",
+      "D": "Bullous emphysema"
+    },
+    "correctAnswer": "B",
+    "topic": "thoracic_ct",
+    "deepDiveExplanation": "Centrilobular emphysema (CLE) involves destruction of the central part of the secondary pulmonary lobule, typically sparing the periphery. It is the most common form of emphysema and is strongly linked to smoking, showing a predilection for the upper lung zones.",
+    "highYieldPearl": "CLE is characterized by multiple small, low-attenuation areas without definable walls in the center of the secondary pulmonary lobule, often with associated bronchiolectasis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Panlobular emphysema (PLE) involves the entire secondary lobule, often with lower lung zone predominance, and is seen in alpha-1 antitrypsin deficiency. Paraseptal emphysema (PSE) primarily affects the periphery of the secondary lobule adjacent to the pleura or septa. Bullous emphysema is a severe form that can be associated with any type, characterized by large air spaces (bullae).",
+    "isOneLiner": true,
+    "id": "one_liner_thoracic_ct_nbq23b57"
+  },
+  {
+    "question": "Which HRCT pattern is considered diagnostic for Usual Interstitial Pneumonia (UIP) in the absence of other causes?",
+    "options": {
+      "A": "Predominant ground-glass opacity",
+      "B": "Subpleural and basal predominant reticular opacities with honeycombing",
+      "C": "Upper lobe predominant centrilobular nodules",
+      "D": "Diffuse crazy-paving pattern"
+    },
+    "correctAnswer": "B",
+    "topic": "thoracic_ct",
+    "deepDiveExplanation": "The ATS/ERS/JRS/ALAT guidelines define a 'UIP pattern' on HRCT by the presence of honeycombing (often subpleural and basal predominant) with or without peripheral traction bronchiectasis/bronchioloectasis, and reticular abnormality. Ground-glass opacity, if present, should be less extensive than reticular abnormality. Absence of features inconsistent with UIP is also crucial.",
+    "highYieldPearl": "Honeycombing is the most specific HRCT feature for UIP and is diagnostic in the appropriate clinical context.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Option A (ground-glass) is non-specific. Option C (centrilobular nodules) suggests hypersensitivity pneumonitis or bronchiolitis. Option D (crazy-paving) is characteristic of pulmonary alveolar proteinosis.",
+    "isOneLiner": true,
+    "id": "one_liner_thoracic_ct_w3sp0y42"
+  },
+  {
+    "question": "The 'signet ring sign' on HRCT is characteristic of which pulmonary condition?",
+    "options": {
+      "A": "Pulmonary emphysema",
+      "B": "Bronchiectasis",
+      "C": "Sarcoidosis",
+      "D": "Idiopathic pulmonary fibrosis"
+    },
+    "correctAnswer": "B",
+    "topic": "thoracic_ct",
+    "deepDiveExplanation": "The 'signet ring sign' on HRCT refers to a dilated bronchus (the 'ring') adjacent to its accompanying pulmonary artery (the 'gemstone'), where the bronchus lumen is wider than the accompanying artery. This indicates bronchial dilatation, a hallmark of bronchiectasis.",
+    "highYieldPearl": "A bronchial lumen larger than its accompanying pulmonary artery is the primary CT criterion for bronchiectasis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Other options are diffuse lung diseases with different characteristic CT features. Emphysema involves parenchymal destruction, sarcoidosis involves perilymphatic nodules, and IPF involves honeycombing.",
+    "isOneLiner": true,
+    "id": "one_liner_thoracic_ct_bwmu9kta"
+  },
+  {
+    "question": "On CT, a Hounsfield Unit (HU) value of -800 to -900 is typically indicative of what?",
+    "options": {
+      "A": "Soft tissue mass",
+      "B": "Active consolidation",
+      "C": "Emphysematous changes",
+      "D": "Calcified nodule"
+    },
+    "correctAnswer": "C",
+    "topic": "thoracic_ct",
+    "deepDiveExplanation": "Hounsfield Units (HU) quantify tissue density on CT. Air is -1000 HU, water is 0 HU, and bone is +1000 HU. Values between -800 and -900 HU represent significantly decreased tissue density, characteristic of air-filled spaces without normal lung parenchyma, such as in emphysema.",
+    "highYieldPearl": "HU values correlate directly with tissue density: lower (more negative) values indicate less dense tissue (e.g., air), higher (more positive) values indicate denser tissue (e.g., calcification, bone).",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Soft tissue masses are typically +20 to +70 HU. Active consolidation is around +30 to +70 HU. Calcified nodules are much higher, typically +100 to +1000 HU.",
+    "isOneLiner": true,
+    "id": "one_liner_thoracic_ct_kehe8oyf"
+  },
+  {
+    "question": "Which CT feature is most suggestive of a benign pulmonary nodule?",
+    "options": {
+      "A": "Spiculated margins",
+      "B": "Doubling time less than 30 days",
+      "C": "Stable size over two years",
+      "D": "Solid enhancement exceeding 20 HU"
+    },
+    "correctAnswer": "C",
+    "topic": "thoracic_ct",
+    "deepDiveExplanation": "A pulmonary nodule stable in size (no change in diameter of 2mm or more) for at least two years is generally considered benign, especially if it's solid. Malignant nodules typically grow, with a doubling time of 20 to 400 days.",
+    "highYieldPearl": "Stability over 2 years is a strong indicator of benignity for solid pulmonary nodules. This timeframe is extended to 5 years for subsolid nodules.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Spiculated margins, rapid doubling time (less than 30 days is too fast for most primary lung cancers, often suggesting infection or metastasis; however, any growth is suspicious), and significant enhancement are features more commonly associated with malignancy.",
+    "isOneLiner": true,
+    "id": "one_liner_thoracic_ct_muksgrwp"
+  },
+  {
+    "question": "The 'tree-in-bud' pattern on HRCT most commonly indicates which pathological process?",
+    "options": {
+      "A": "Lymphangitic carcinomatosis",
+      "B": "Bronchiolar inflammation or infection",
+      "C": "Pulmonary edema",
+      "D": "Pulmonary alveolar proteinosis"
+    },
+    "correctAnswer": "B",
+    "topic": "thoracic_ct",
+    "deepDiveExplanation": "The 'tree-in-bud' pattern represents centrilobular branching linear opacities with associated small nodules, resembling a budding tree branch. It results from impaction of inflamed or infected material within small airways and their distal branches, commonly seen in mycobacterial infections, bacterial bronchiolitis, or aspiration.",
+    "highYieldPearl": "While infection is the most common cause, 'tree-in-bud' can also be seen in non-infectious conditions like cystic fibrosis, aspiration, or even occasionally in neoplastic conditions like bronchioalveolar carcinoma.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Lymphangitic carcinomatosis typically presents with smooth or nodular septal thickening. Pulmonary edema shows diffuse ground-glass or consolidation with septal lines. Alveolar proteinosis classically presents with crazy-paving pattern.",
+    "isOneLiner": true,
+    "id": "one_liner_thoracic_ct_13sg04ky"
+  },
+  {
+    "question": "Which CT sign is most specific for chronic pulmonary embolism?",
+    "options": {
+      "A": "Acute intraluminal filling defect",
+      "B": "Mosaic attenuation pattern",
+      "C": "Webs, bands, or intimal irregularities within the pulmonary arterial lumen",
+      "D": "Right ventricular enlargement"
+    },
+    "correctAnswer": "C",
+    "topic": "thoracic_ct",
+    "deepDiveExplanation": "Chronic pulmonary embolism (CPE) or chronic thromboembolic pulmonary hypertension (CTEPH) is characterized by organized thrombus that remodels the vessel wall. Webs, bands, intimal irregularities, and recanalized channels are specific signs of chronic thrombus on CT angiography.",
+    "highYieldPearl": "Acute PE presents as a central, low-attenuation filling defect forming acute angles with the vessel wall, whereas chronic PE shows signs of organization and remodelling.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Acute intraluminal filling defect is characteristic of acute PE. Mosaic attenuation can be seen in various conditions causing air trapping or perfusion abnormalities. Right ventricular enlargement is a sign of pulmonary hypertension, which can be acute or chronic.",
+    "isOneLiner": true,
+    "id": "one_liner_thoracic_ct_r2j0dhx0"
+  },
+  {
+    "question": "On HRCT, which pattern is highly suggestive of chronic hypersensitivity pneumonitis?",
+    "options": {
+      "A": "Predominant subpleural honeycombing with basal predominance",
+      "B": "Upper/mid-lung predominant centrilobular nodules with mosaic attenuation and air trapping",
+      "C": "Diffuse ground-glass opacities with crazy-paving pattern",
+      "D": "Lower lobe predominant consolidation with air bronchograms"
+    },
+    "correctAnswer": "B",
+    "topic": "thoracic_ct",
+    "deepDiveExplanation": "Chronic hypersensitivity pneumonitis classically presents on HRCT with a triad of findings: centrilobular nodules (often ill-defined), mosaic attenuation (due to air trapping and ground-glass), and air trapping (best seen on expiratory scans). These findings often have an upper or mid-lung predominance.",
+    "highYieldPearl": "The combination of centrilobular nodules, mosaic attenuation, and air trapping should strongly suggest chronic HP, especially with upper/mid-lung involvement.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "Option A describes UIP. Option C describes pulmonary alveolar proteinosis. Option D suggests organizing pneumonia or bacterial pneumonia.",
+    "isOneLiner": true,
+    "id": "one_liner_thoracic_ct_joiwbwjx"
+  },
+  {
+    "question": "What is the primary role of thoracic CT in suspected acute aortic dissection?",
+    "options": {
+      "A": "Assess lung parenchyma for infiltrates",
+      "B": "Evaluate coronary artery stenosis",
+      "C": "Identify intimal flap, true and false lumens",
+      "D": "Quantify myocardial viability"
+    },
+    "correctAnswer": "C",
+    "topic": "thoracic_ct",
+    "deepDiveExplanation": "CT angiography (CTA) of the chest and abdomen is the gold standard for diagnosing acute aortic dissection. It accurately identifies the intimal flap separating the true and false lumens, characterizes the extent of dissection, and detects complications like branch vessel involvement or rupture.",
+    "highYieldPearl": "CTA is rapid, widely available, and highly accurate for aortic dissection, making it the preferred imaging modality in acute settings.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Assessing lung parenchyma is a general CT function but not the primary role for suspected dissection. Evaluating coronary stenosis is the role of coronary CTA. Quantifying myocardial viability is typically done with MRI or nuclear medicine scans.",
+    "isOneLiner": true,
+    "id": "one_liner_thoracic_ct_94fmhndb"
+  },
+  {
+    "question": "The 'crazy-paving pattern' on HRCT is most classically associated with which condition?",
+    "options": {
+      "A": "Sarcoidosis",
+      "B": "Pulmonary alveolar proteinosis",
+      "C": "Asbestosis",
+      "D": "Cryptogenic organizing pneumonia"
+    },
+    "correctAnswer": "B",
+    "topic": "thoracic_ct",
+    "deepDiveExplanation": "The 'crazy-paving pattern' is characterized by diffuse ground-glass opacities superimposed on thickened interlobular and intralobular septa. It is highly characteristic, though not pathognomonic, of pulmonary alveolar proteinosis (PAP) due to alveolar filling with lipoproteinaceous material and associated interstitial thickening.",
+    "highYieldPearl": "While classic for PAP, crazy-paving can also be seen in acute respiratory distress syndrome (ARDS), pneumonia, pulmonary edema, and even some malignancies.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Sarcoidosis typically shows perilymphatic nodules. Asbestosis causes subpleural fibrosis and pleural plaques. Cryptogenic organizing pneumonia (COP/BOOP) often presents with patchy peripheral consolidation.",
+    "isOneLiner": true,
+    "id": "one_liner_thoracic_ct_gzx1ebti"
+  },
+  {
+    "question": "On CT, which type of emphysema predominantly affects the upper lung zones and is strongly associated with smoking?",
+    "options": {
+      "A": "Panlobular emphysema",
+      "B": "Centrilobular emphysema",
+      "C": "Paraseptal emphysema",
+      "D": "Bullous emphysema"
+    },
+    "correctAnswer": "B",
+    "topic": "thoracic_ct",
+    "deepDiveExplanation": "Centrilobular emphysema (CLE) involves destruction of the central part of the secondary pulmonary lobule, typically sparing the periphery. It is the most common form of emphysema and is strongly linked to smoking, showing a predilection for the upper lung zones.",
+    "highYieldPearl": "CLE is characterized by multiple small, low-attenuation areas without definable walls in the center of the secondary pulmonary lobule, often with associated bronchiolectasis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Panlobular emphysema (PLE) involves the entire secondary lobule, often with lower lung zone predominance, and is seen in alpha-1 antitrypsin deficiency. Paraseptal emphysema (PSE) primarily affects the periphery of the secondary lobule adjacent to the pleura or septa. Bullous emphysema is a severe form that can be associated with any type, characterized by large air spaces (bullae).",
+    "isOneLiner": true,
+    "id": "one_liner_thoracic_ct_545pets9"
+  }
+]

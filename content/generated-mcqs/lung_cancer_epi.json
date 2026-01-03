@@ -1,0 +1,1756 @@
+[
+  {
+    "id": "rag_lung_cancer_epi_841b74e2",
+    "question": "A 62-year-old never-smoker female was diagnosed with stage IV lung adenocarcinoma with EGFR exon 19 deletion. She achieved an excellent partial response for 18 months on oral gefitinib. She now presents with new onset dyspnea and imaging reveals progression of lung lesions and new pleural effusions. A repeat biopsy of the progressing lesion confirms adenocarcinoma. Which of the following is the *most likely* next step in her management, assuming her performance status is good?",
+    "options": {
+      "A": "Switch to a third-generation EGFR TKI like osimertinib.",
+      "B": "Initiate platinum-based doublet chemotherapy.",
+      "C": "Add an anti-angiogenic agent like bevacizumab to gefitinib.",
+      "D": "Switch to another first-generation EGFR TKI like erlotinib."
+    },
+    "correctAnswer": "A",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "This patient presents with acquired resistance to a first-generation EGFR TKI (gefitinib) after an initial period of response, which is a common clinical scenario. The most frequent mechanism of acquired resistance to first- and second-generation EGFR TKIs is the development of the EGFR T790M resistance mutation, accounting for approximately 50-60% of cases. Re-biopsy of the progressing lesion is crucial to identify this resistance mechanism. If the T790M mutation is detected, third-generation EGFR TKIs, such as osimertinib, are the standard of care. Osimertinib is specifically designed to target both EGFR-activating mutations (like exon 19 deletion) and the T790M resistance mutation, demonstrating superior efficacy over chemotherapy in this setting.",
+    "highYieldPearl": "Rio's Take: Progression on a first-line EGFR TKI mandates re-biopsy to identify resistance mechanisms, primarily the T790M mutation, which dictates a switch to a third-generation TKI like osimertinib.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is the correct and most appropriate step if a T790M mutation is identified on repeat biopsy, as third-generation TKIs specifically overcome this common resistance mechanism.",
+      "B": "Platinum-based doublet chemotherapy is a valid option for progression in NSCLC. However, if an actionable resistance mechanism (like T790M) is identified, targeted therapy with a third-generation TKI generally offers better outcomes with a more favorable toxicity profile compared to chemotherapy, making it the preferred choice.",
+      "C": "Bevacizumab is an anti-angiogenic agent that can be used in combination with platinum-based chemotherapy for advanced non-squamous NSCLC. It is not typically used to overcome acquired resistance to EGFR TKIs as a standalone strategy or an add-on to a failing TKI regimen.",
+      "D": "Switching to another first-generation EGFR TKI (e.g., erlotinib or afatinib) after progression on gefitinib would be ineffective. First- and second-generation TKIs share similar mechanisms of action and are susceptible to the same common resistance pathways, particularly T790M, meaning a patient resistant to one will likely be resistant to others in the same class."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_3f3d56d5",
+    "question": "A 40-year-old male, never-smoker, presents with cough and weight loss. Imaging reveals a large left lung mass with mediastinal lymphadenopathy and multiple brain metastases. Biopsy of the lung mass confirms adenocarcinoma. Immunohistochemistry (IHC) shows strong diffuse cytoplasmic staining for ALK protein. Fluorescence in situ hybridization (FISH) for ALK rearrangement is positive. Which of the following statements regarding his management is *most accurate*?",
+    "options": {
+      "A": "He should receive platinum-based doublet chemotherapy followed by cranial radiotherapy.",
+      "B": "Ceritinib is the preferred first-line systemic treatment given the presence of brain metastases.",
+      "C": "Lorlatinib is often reserved for second-line therapy after progression on other ALK TKIs, especially with CNS involvement.",
+      "D": "Crizotinib, a first-generation ALK TKI, is contraindicated due to the presence of brain metastases."
+    },
+    "correctAnswer": "C",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "The patient's profile (young, never-smoker, adenocarcinoma, brain metastases) is highly suggestive of ALK-rearranged NSCLC, which is confirmed by IHC and FISH. For ALK-positive NSCLC, targeted therapy with ALK TKIs is the standard of care over chemotherapy. Among ALK TKIs, second-generation agents like alectinib and brigatinib have demonstrated superior efficacy, particularly in the CNS, and are often preferred as first-line treatments due to better intracranial response rates and overall survival compared to crizotinib. Ceritinib is also a second-generation ALK TKI with CNS activity, but 'preferred' first-line might be too strong a term compared to alectinib or brigatinib for patients with brain metastases. Lorlatinib is a third-generation ALK TKI known for its broad activity against various ALK resistance mutations (including G1202R) and excellent CNS penetration. Due to its potency and ability to overcome resistance, it is typically reserved for patients who have progressed on earlier-generation ALK TKIs, particularly those with CNS progression. Therefore, statement C accurately reflects the current role of lorlatinib in managing ALK-positive NSCLC.",
+    "highYieldPearl": "Rio's Take: For ALK+ NSCLC with CNS mets, highly CNS-penetrant second-gen TKIs (alectinib, brigatinib) are favored first-line. Lorlatinib (third-gen) is a critical agent for managing resistance and CNS progression post-other ALK TKIs.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Platinum-based doublet chemotherapy is no longer the first-line choice for patients with actionable driver mutations like ALK rearrangement. Targeted therapy offers significantly better outcomes.",
+      "B": "While ceritinib is a second-generation ALK TKI with CNS activity and can be used first-line, alectinib and brigatinib have shown superior CNS efficacy and are often considered *more* preferred first-line options for patients with brain metastases. Thus, stating ceritinib is *the* preferred first-line is debatable and not universally accurate.",
+      "C": "This statement is accurate. Lorlatinib is a potent third-generation ALK TKI that has demonstrated efficacy against a broad range of ALK resistance mutations and excellent CNS penetration. Its primary role is often in later lines of therapy, after progression on other ALK TKIs, especially in patients with CNS involvement or progression.",
+      "D": "Crizotinib is a first-generation ALK TKI and is not contraindicated in the presence of brain metastases. However, its CNS penetration is poorer compared to second- and third-generation ALK TKIs, making it a less ideal choice for patients with active brain metastases if other options are available, but it is not an absolute contraindication."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_d1a1d030",
+    "question": "A 58-year-old male, a former smoker with a 20 pack-year history, is diagnosed with stage IV lung adenocarcinoma. Genetic testing of his tumor reveals negative results for EGFR mutations, ALK rearrangements, and ROS1 rearrangements. However, a BRAF V600E mutation is identified. His performance status is ECOG 1. Which of the following is the *most appropriate initial systemic treatment*?",
+    "options": {
+      "A": "Nivolumab monotherapy.",
+      "B": "Dabrafenib and trametinib combination.",
+      "C": "Platinum-based doublet chemotherapy with pemetrexed.",
+      "D": "High-dose interleukin-2."
+    },
+    "correctAnswer": "B",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "The identification of a BRAF V600E mutation in NSCLC is a key finding that guides targeted therapy. While BRAF mutations are more commonly associated with melanoma, the V600E variant occurs in about 1-2% of NSCLC adenocarcinomas and is an actionable driver mutation. For patients with BRAF V600E-mutated metastatic NSCLC, the combination of a BRAF inhibitor (dabrafenib) and a MEK inhibitor (trametinib) is the approved and recommended first-line systemic treatment. This combination targets the MAPK signaling pathway, which is aberrantly activated by the BRAF V600E mutation, leading to significantly improved response rates and progression-free survival compared to chemotherapy.",
+    "highYieldPearl": "Rio's Take: Even after excluding common drivers (EGFR, ALK, ROS1), always consider other actionable mutations like BRAF V600E in NSCLC; the dabrafenib-trametinib combination is standard for these patients.",
+    "examStyle": "NEET-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Nivolumab (an immune checkpoint inhibitor) is an effective treatment for advanced NSCLC, particularly in patients with high PD-L1 expression. However, when an actionable driver mutation like BRAF V600E is present, targeted therapy (dabrafenib + trametinib) is generally preferred as the initial treatment due to higher response rates and longer progression-free survival, making immunotherapy a subsequent option.",
+      "B": "This is the correct answer. The combination of dabrafenib (BRAF inhibitor) and trametinib (MEK inhibitor) is the approved first-line targeted therapy for patients with BRAF V600E-mutated advanced NSCLC.",
+      "C": "Platinum-based doublet chemotherapy (with pemetrexed being appropriate for adenocarcinoma) is a standard treatment for advanced NSCLC, particularly when no driver mutations are found. However, for patients with an actionable driver mutation like BRAF V600E, targeted therapy offers superior outcomes and is the preferred initial treatment.",
+      "D": "High-dose interleukin-2 (IL-2) is an immunotherapy primarily indicated for metastatic renal cell carcinoma and metastatic melanoma. It is not an approved or recommended treatment for NSCLC, regardless of mutational status."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_bae439ba",
+    "question": "According to the provided context, which of the following is explicitly listed as a driver mutation?",
+    "options": {
+      "A": "EGFR",
+      "B": "KRAS",
+      "C": "TP53",
+      "D": "PIK3CA"
+    },
+    "correctAnswer": "A",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "The provided context on page 11 explicitly lists 'Driver mutations: EGFR, ROS1, ALK, BRAF'. Therefore, EGFR is directly mentioned as a driver mutation.",
+    "highYieldPearl": "Rio's Take: Always prioritize information directly provided in the text for 'easy' questions, even if you know more beyond the context.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct option, as EGFR is explicitly listed in the provided text as a driver mutation.",
+      "B": "KRAS is a known oncogene frequently mutated in lung cancer but is not listed in the provided context's specific enumeration of 'Driver mutations'.",
+      "C": "TP53 is a well-known tumor suppressor gene often mutated in various cancers, including lung cancer, but it is not mentioned in the given list of 'Driver mutations'.",
+      "D": "PIK3CA is an oncogene involved in cell growth and survival, and can be mutated in lung cancer, but it is not listed in the provided context as a 'Driver mutation'."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_6e02b0d4",
+    "question": "All of the following are specifically mentioned as 'Driver mutations' in the provided text, EXCEPT:",
+    "options": {
+      "A": "ROS1",
+      "B": "ALK",
+      "C": "BRAF",
+      "D": "MET"
+    },
+    "correctAnswer": "D",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "The provided context on page 11 lists 'Driver mutations: EGFR, ROS1, ALK, BRAF'. ROS1, ALK, and BRAF are all included in this list. MET is not mentioned in this specific enumeration within the text, although it is another known driver mutation in NSCLC.",
+    "highYieldPearl": "Rio's Take: 'EXCEPT' questions require careful attention to details in the given list. Distractors often include real-world examples not present in the specific context.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "ROS1 is explicitly listed as a driver mutation in the provided context, making this option incorrect for an EXCEPT question.",
+      "B": "ALK is explicitly listed as a driver mutation in the provided context, making this option incorrect for an EXCEPT question.",
+      "C": "BRAF is explicitly listed as a driver mutation in the provided context, making this option incorrect for an EXCEPT question.",
+      "D": "MET is a known driver mutation in non-small cell lung cancer but is NOT listed in the specific 'Driver mutations' section of the provided context, making it the correct answer for an EXCEPT question."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_9001bc7a",
+    "question": "Which of the following accurately represents the complete list of 'Driver mutations' as enumerated in the provided context?",
+    "options": {
+      "A": "EGFR, ROS1, ALK, BRAF",
+      "B": "EGFR, KRAS, ALK, TP53",
+      "C": "ROS1, BRAF, MET, PIK3CA",
+      "D": "ALK, EGFR, MYC, KRAS"
+    },
+    "correctAnswer": "A",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "The context on page 11 directly states 'Driver mutations: EGFR, ROS1, ALK, BRAF'. Option A is the only choice that perfectly matches this list without omissions or additions of unmentioned mutations.",
+    "highYieldPearl": "Rio's Take: For 'easy' questions asking for a complete list, direct recall from the source text is key. Be wary of options that mix listed items with others not found in the context.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This option precisely matches the list of driver mutations (EGFR, ROS1, ALK, BRAF) provided in the context, making it the correct answer.",
+      "B": "This option includes KRAS and TP53, which are not listed as 'Driver mutations' in the provided context, despite being relevant in lung cancer.",
+      "C": "This option includes MET and PIK3CA, which are not listed in the provided context's enumeration of 'Driver mutations'.",
+      "D": "This option includes MYC and KRAS, which are not listed in the provided context's enumeration of 'Driver mutations'."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_d658808c",
+    "question": "A 65-year-old female, a never-smoker, presents with persistent cough and progressive dyspnea. CT chest reveals a right upper lobe mass with hilar lymphadenopathy. A biopsy confirms adenocarcinoma of the lung. Further molecular testing identifies an EGFR exon 19 deletion. Considering this mutation, which of the following is the most appropriate first-line targeted therapy for this patient?",
+    "options": {
+      "A": "Erlotinib",
+      "B": "Crizotinib",
+      "C": "Pembrolizumab",
+      "D": "Pemetrexed plus Carboplatin"
+    },
+    "correctAnswer": "A",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "EGFR (Epidermal Growth Factor Receptor) mutations, particularly exon 19 deletions and L858R point mutations, are the most common driver mutations in non-small cell lung cancer (NSCLC) adenocarcinoma, especially in never-smokers and Asian females. These mutations render the tumor highly sensitive to EGFR tyrosine kinase inhibitors (TKIs) such as erlotinib, gefitinib, afatinib, osimertinib, and dacomitinib. These agents are standard first-line targeted therapy for EGFR-mutated advanced NSCLC.",
+    "highYieldPearl": "Rio's Take: EGFR mutations in NSCLC adenocarcinoma are typically treated with EGFR TKIs. Exon 19 deletions and L858R are the most common sensitizing mutations. Remember that osimertinib is a third-generation TKI effective against T790M resistance mutation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Correct. Erlotinib is a first-generation EGFR TKI, specifically indicated for patients with activating EGFR mutations.",
+      "B": "Incorrect. Crizotinib is an ALK and ROS1 inhibitor and is indicated for patients with ALK rearrangements or ROS1 fusions, not EGFR mutations.",
+      "C": "Incorrect. Pembrolizumab is an immune checkpoint inhibitor (PD-1 inhibitor) and is used in patients with high PD-L1 expression, or in combination with chemotherapy, but not as a first-line targeted therapy for EGFR-mutated NSCLC unless the patient progresses on TKIs.",
+      "D": "Incorrect. Pemetrexed plus Carboplatin is a platinum-based chemotherapy regimen, which is a general treatment for NSCLC. While pemetrexed is preferred for non-squamous histology, targeted therapy with EGFR TKIs is superior to chemotherapy as first-line treatment for patients with activating EGFR mutations."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_68467b8f",
+    "question": "A 48-year-old male, with no history of smoking, presents with worsening cough and hemoptysis. Imaging reveals a left lower lobe mass with diffuse metastatic disease. Biopsy confirms lung adenocarcinoma. Molecular testing identifies an EML4-ALK fusion rearrangement. Which of the following statements regarding the management of this patient is most accurate?",
+    "options": {
+      "A": "This patient would primarily benefit from a BRAF inhibitor.",
+      "B": "This mutation suggests a favorable response to ALK tyrosine kinase inhibitors.",
+      "C": "Conventional platinum-based chemotherapy is the only effective first-line option.",
+      "D": "Immunotherapy with PD-1 inhibitors should be initiated immediately."
+    },
+    "correctAnswer": "B",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "ALK (Anaplastic Lymphoma Kinase) rearrangements, such as EML4-ALK, are oncogenic driver mutations found in approximately 3-7% of NSCLC adenocarcinomas, typically in younger patients and never/light smokers. The presence of an ALK rearrangement makes the tumor highly sensitive to ALK tyrosine kinase inhibitors (e.g., crizotinib, alectinib, brigatinib, lorlatinib), which are considered standard first-line targeted therapy for ALK-positive advanced NSCLC, demonstrating superior efficacy over conventional chemotherapy.",
+    "highYieldPearl": "Rio's Take: ALK rearrangements are key targets in NSCLC. Look for younger, non-smoking adenocarcinoma patients. ALK inhibitors are the first-line treatment, offering significant improvement over chemotherapy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. BRAF inhibitors (e.g., dabrafenib, trametinib) are used for patients with BRAF V600E mutations, not ALK rearrangements.",
+      "B": "Correct. The presence of an EML4-ALK fusion rearrangement indicates that the patient's tumor is 'ALK-positive' and will likely have a robust response to ALK tyrosine kinase inhibitors.",
+      "C": "Incorrect. While platinum-based chemotherapy is a general treatment option for NSCLC, targeted therapy with ALK inhibitors is superior as first-line treatment for ALK-positive patients, offering better response rates and progression-free survival.",
+      "D": "Incorrect. While immunotherapy may have a role in NSCLC, ALK-positive tumors often have low PD-L1 expression and derive less benefit from single-agent PD-1 inhibitors compared to ALK TKIs as first-line therapy. Targeted therapy should be prioritized in the presence of an actionable driver mutation."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_976594f9",
+    "question": "A 55-year-old smoker is diagnosed with stage IV non-small cell lung cancer (NSCLC) of adenocarcinoma histology. Comprehensive genomic profiling is performed on the tumor tissue. The primary clinical significance of identifying driver mutations like EGFR, ALK, or ROS1 in this patient's case is to:",
+    "options": {
+      "A": "Predict the patient's overall prognosis without treatment.",
+      "B": "Determine the optimal surgical approach for the primary tumor.",
+      "C": "Guide the selection of specific targeted therapeutic agents.",
+      "D": "Assess the risk of developing resistance to standard chemotherapy."
+    },
+    "correctAnswer": "C",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "Driver mutations (e.g., EGFR, ALK, ROS1, BRAF, MET) are specific genetic alterations that promote cancer cell growth and survival. Identifying these mutations in advanced NSCLC is crucial because they allow for the selection of highly effective targeted therapies (e.g., EGFR TKIs, ALK inhibitors, ROS1 inhibitors). These targeted agents specifically inhibit the aberrant protein resulting from the mutation, leading to better response rates, progression-free survival, and often overall survival compared to traditional chemotherapy in patients with these actionable mutations.",
+    "highYieldPearl": "Rio's Take: The 'Why?' behind testing for driver mutations is simple: to match the right patient to the right targeted drug. It's the cornerstone of precision medicine in NSCLC.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. While certain mutations might correlate with prognosis, the primary and most direct clinical utility of identifying driver mutations is guiding therapy, not solely predicting prognosis, especially when effective treatments exist.",
+      "B": "Incorrect. Driver mutations are primarily relevant for systemic therapy in advanced disease, not for determining surgical resectability, which is based on tumor stage, location, and patient fitness.",
+      "C": "Correct. The identification of actionable driver mutations is paramount for selecting specific targeted therapies, which are often significantly more effective than conventional chemotherapy for patients harboring these mutations.",
+      "D": "Incorrect. While resistance to chemotherapy and targeted therapies can develop, the initial identification of driver mutations is not primarily for assessing chemotherapy resistance risk. Its main role is to *avoid* chemotherapy initially by choosing a targeted therapy."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_24d2de33",
+    "question": "A 65-year-old female non-smoker presents with stage IV lung adenocarcinoma. Biopsy confirms adenocarcinoma, and molecular testing is advised. Which of the following EGFR mutations is considered a common 'sensitizing mutation' and predicts a good response to first-generation EGFR tyrosine kinase inhibitors (TKIs)?",
+    "options": {
+      "A": "Exon 19 deletion",
+      "B": "T790M point mutation",
+      "C": "Exon 20 insertion",
+      "D": "KRAS G12C"
+    },
+    "correctAnswer": "A",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "EGFR (Epidermal Growth Factor Receptor) mutations are critical driver mutations in non-small cell lung cancer (NSCLC), particularly in adenocarcinomas and non-smokers. The most common sensitizing mutations, predicting a good response to first- and second-generation EGFR TKIs (like gefitinib, erlotinib, afatinib, dacomitinib), are deletions in exon 19 and the L858R point mutation in exon 21. These mutations lead to constitutive activation of the EGFR pathway, which is then inhibited by the TKIs. Identification of these mutations is essential for guiding targeted therapy in eligible patients.",
+    "highYieldPearl": "Rio's Take: Exon 19 deletions and L858R point mutations in exon 21 are the classic 'sensitizing' EGFR mutations, indicating a strong likelihood of response to EGFR TKIs.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct option. Exon 19 deletions are one of the most common and well-known sensitizing EGFR mutations.",
+      "B": "T790M is a common *resistance* mutation to first and second-generation EGFR TKIs, not a sensitizing one. It typically emerges after initial treatment with these drugs.",
+      "C": "Exon 20 insertion mutations in EGFR are generally *resistant* to first and second-generation EGFR TKIs and require specific inhibitors like amivantamab or mobocertinib.",
+      "D": "KRAS G12C is a different driver mutation, found in a distinct subset of NSCLC patients. It requires specific KRAS G12C inhibitors (e.g., sotorasib, adagrasib) and is not sensitive to EGFR TKIs."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_13878c72",
+    "question": "A 50-year-old male presents with newly diagnosed metastatic non-small cell lung cancer (NSCLC) of adenocarcinoma histology. Molecular testing reveals an ALK gene rearrangement. Which of the following therapeutic agents would be the most appropriate first-line treatment for this patient?",
+    "options": {
+      "A": "Erlotinib",
+      "B": "Crizotinib",
+      "C": "Pemetrexed + Cisplatin",
+      "D": "Pembrolizumab"
+    },
+    "correctAnswer": "B",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "ALK (Anaplastic Lymphoma Kinase) gene rearrangements are oncogenic drivers found in about 3-7% of NSCLC, predominantly in adenocarcinomas, younger patients, and non-smokers. The presence of an ALK rearrangement makes the tumor highly sensitive to ALK inhibitors. Crizotinib was the first-generation ALK inhibitor approved for this indication and significantly improved outcomes compared to chemotherapy. Newer generation ALK inhibitors (e.g., alectinib, brigatinib, lorlatinib) are now often preferred due to superior efficacy and CNS penetration.",
+    "highYieldPearl": "Rio's Take: ALK gene rearrangements indicate sensitivity to ALK inhibitors, which are the cornerstone of targeted therapy for these patients.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Erlotinib is an EGFR tyrosine kinase inhibitor, specifically used for NSCLC with EGFR sensitizing mutations, not ALK rearrangements.",
+      "B": "This is the correct option. Crizotinib is a first-generation ALK inhibitor and was historically a standard first-line treatment for ALK-rearranged NSCLC. While newer ALK inhibitors exist, Crizotinib is a correct answer for an ALK-positive patient.",
+      "C": "Pemetrexed + Cisplatin is a standard platinum-based chemotherapy regimen. While it's used in NSCLC, targeted therapy with an ALK inhibitor is superior and the preferred first-line treatment for patients with an ALK rearrangement.",
+      "D": "Pembrolizumab is a PD-1 inhibitor (immunotherapy). It's used in NSCLC based on PD-L1 expression, but it is generally not the primary first-line treatment when a targetable driver mutation like an ALK rearrangement is identified, as targeted therapy offers better efficacy in this specific subgroup."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_01f1d932",
+    "question": "A 70-year-old patient with newly diagnosed advanced lung adenocarcinoma is scheduled for molecular profiling of their tumor tissue. The physician orders tests for EGFR, ALK, and ROS1 gene alterations. The primary rationale behind performing these specific molecular tests in a patient with advanced lung adenocarcinoma is to:",
+    "options": {
+      "A": "Determine the patient's prognosis more accurately.",
+      "B": "Guide the selection of appropriate targeted therapy.",
+      "C": "Identify potential resistance mechanisms to chemotherapy.",
+      "D": "Classify the exact histological subtype of lung cancer."
+    },
+    "correctAnswer": "B",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "In advanced NSCLC, particularly adenocarcinoma, molecular profiling for driver mutations like EGFR, ALK, ROS1, BRAF, and others is standard practice. The primary purpose of identifying these oncogenic alterations is to select patients who will benefit from highly effective, mutation-specific targeted therapies (e.g., EGFR TKIs for EGFR mutations, ALK inhibitors for ALK rearrangements). This approach, known as precision medicine, significantly improves response rates, progression-free survival, and often overall survival compared to traditional chemotherapy.",
+    "highYieldPearl": "Rio's Take: Molecular testing for driver mutations (EGFR, ALK, ROS1) directly dictates the use of specific targeted therapies in advanced NSCLC.",
+    "examStyle": "NEET-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "While the presence of certain mutations can have prognostic implications, the *primary and most immediate* clinical utility of testing for these actionable mutations is to inform treatment decisions, not solely for prognostication.",
+      "B": "This is the correct option. The identification of 'driver' mutations like EGFR, ALK, and ROS1 directly enables the selection of corresponding targeted therapies, which are often more effective and less toxic than conventional chemotherapy.",
+      "C": "These tests primarily identify *sensitizing* driver mutations that predict response to targeted therapies. While resistance mutations can be identified (e.g., EGFR T790M), the initial broad screening is for primary treatment selection, not primarily for resistance to *chemotherapy* (though resistance to targeted therapy is a different consideration).",
+      "D": "The histological subtype (adenocarcinoma) is typically determined through pathological examination of the biopsy before molecular profiling is initiated. These molecular tests provide further characterization within that histological subtype, not the initial classification."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_b88bb319",
+    "question": "A 62-year-old non-smoker presents with progressive dyspnea and cough. Imaging reveals a large left lung mass with ipsilateral pleural effusion. Pleural fluid cytology is positive for adenocarcinoma. Performance status is ECOG 1. Biopsy of the lung mass confirms adenocarcinoma. Which of the following molecular tests is the *most crucial* initial step to guide first-line therapy for this patient?",
+    "options": {
+      "A": "EGFR, ALK, and ROS1 mutation testing on tumor tissue",
+      "B": "PD-L1 expression by immunohistochemistry (IHC)",
+      "C": "KRAS G12C mutation testing",
+      "D": "MET exon 14 skipping mutation testing"
+    },
+    "correctAnswer": "A",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "For patients with newly diagnosed advanced non-squamous non-small cell lung cancer (NSCLC), such as adenocarcinoma, testing for driver mutations (EGFR, ALK, ROS1) is paramount as these mutations define distinct molecular subgroups that are highly sensitive to specific targeted therapies (Tyrosine Kinase Inhibitors - TKIs). Identifying these mutations allows for selection of highly effective first-line targeted therapy, which significantly improves progression-free survival and overall survival compared to standard chemotherapy or immunotherapy in these specific subgroups. While PD-L1 expression is crucial for guiding immunotherapy decisions, and other mutations like KRAS and MET are also actionable, EGFR, ALK, and ROS1 are considered the most prevalent and therapeutically established primary drivers, making their testing the most crucial initial step in a broad screening panel.",
+    "highYieldPearl": "Rio's Take: For advanced non-squamous NSCLC, primary driver mutation testing (EGFR, ALK, ROS1) is the first and most critical step to identify candidates for highly effective first-line targeted therapy.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. Identifying EGFR, ALK, or ROS1 alterations allows for specific targeted therapy, which is generally more effective and less toxic than chemotherapy or immunotherapy for patients harboring these mutations.",
+      "B": "PD-L1 expression is important for guiding immunotherapy decisions, particularly if driver mutations are negative or in combination strategies. However, targeted therapy for driver mutations (if present) typically takes precedence over immunotherapy as first-line treatment for these specific molecular subsets. Therefore, while important, it's not the *most crucial* initial test for guiding *first-line targeted therapy* in this specific context.",
+      "C": "KRAS G12C is an actionable mutation with specific inhibitors (e.g., sotorasib, adagrasib). However, KRAS mutations are more common in smokers and generally considered after testing for EGFR, ALK, and ROS1 mutations, especially given the patient's non-smoking history, which makes EGFR/ALK/ROS1 more likely. It is typically part of a broader panel but not the single *most crucial* initial step compared to the established EGFR/ALK/ROS1 panel.",
+      "D": "MET exon 14 skipping mutations are also actionable mutations (e.g., with capmatinib, tepotinib). Like KRAS, it is part of a broader molecular panel but is less common than EGFR, ALK, and ROS1, and its testing would typically follow or be concurrent with the more prevalent driver mutations rather than being the *most crucial initial* test in isolation."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_99ff18f4",
+    "question": "A 58-year-old female non-smoker with advanced EGFR exon 19 deletion positive adenocarcinoma of the lung achieved a partial response after 10 months of treatment with osimertinib. She now presents with new onset headache and MRI brain shows multiple enhancing lesions consistent with brain metastases. Systemic imaging also suggests disease progression in the lung and mediastinum. Which of the following is the *most appropriate* next step in her management?",
+    "options": {
+      "A": "Switch to a first-generation EGFR TKI (e.g., erlotinib)",
+      "B": "Add platinum-based chemotherapy to osimertinib",
+      "C": "Re-biopsy the progressing lesion (or liquid biopsy) for resistance mutation analysis",
+      "D": "Initiate palliative whole brain radiation therapy (WBRT) and continue osimertinib"
+    },
+    "correctAnswer": "C",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "The patient is experiencing both CNS and systemic progression while on osimertinib, a third-generation EGFR TKI. Progression on osimertinib indicates the development of resistance. Common resistance mechanisms to third-generation EGFR TKIs include C797S mutation, MET amplification, HER2 amplification, SCLC transformation, and bypass pathways. Identifying the specific resistance mechanism through re-biopsy (either tissue or liquid biopsy) is critical to guide subsequent treatment decisions, as new targeted therapies are emerging for specific resistance mutations. For example, if a MET amplification is found, a MET inhibitor could be considered. Switching to a first-generation TKI is generally ineffective as osimertinib already covers T790M resistance, which is the primary reason for failure of first-generation TKIs. Adding chemotherapy or WBRT might be part of the subsequent management, but understanding the resistance mechanism first is key to identifying potential new targeted systemic therapies.",
+    "highYieldPearl": "Rio's Take: Upon progression on a third-generation EGFR TKI like osimertinib, re-biopsy (tissue or liquid) for resistance mutation analysis is paramount to guide personalized subsequent systemic therapy.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Switching to a first-generation EGFR TKI is inappropriate. Osimertinib is a third-generation TKI designed to overcome T790M resistance, which often develops after first-generation TKIs. Using a first-generation TKI after osimertinib failure is unlikely to be effective, especially if resistance mechanisms other than T790M (or C797S) are at play.",
+      "B": "While chemotherapy is a valid option for progression in NSCLC, especially if no actionable resistance mechanism is found, it should ideally be considered *after* attempting to identify a treatable resistance mutation. Combining chemotherapy with osimertinib might be explored in some specific scenarios but is not the *most appropriate* initial step before investigating resistance.",
+      "C": "This is the correct answer. Identifying the specific resistance mechanism (e.g., C797S, MET amplification, HER2 amplification, SCLC transformation, etc.) is crucial for guiding subsequent targeted therapies or clinical trial enrollment. This allows for a personalized approach to overcome drug resistance.",
+      "D": "WBRT addresses the brain metastases locally and is a reasonable consideration for palliation of CNS symptoms. However, it does not address the systemic progression or the underlying mechanism of resistance that led to progression. Continuing osimertinib alone in the face of widespread progression is unlikely to be effective. The *most appropriate* step involves investigating the cause of systemic failure to guide future systemic treatment."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_b34a0312",
+    "question": "A 45-year-old male never-smoker is diagnosed with stage IV non-squamous NSCLC with ALK rearrangement identified by FISH and next-generation sequencing. He is discussing first-line treatment options with his oncologist. Which of the following statements regarding ALK-rearranged NSCLC and its management is *TRUE*?",
+    "options": {
+      "A": "ALK rearrangements are typically associated with a history of heavy smoking.",
+      "B": "Crizotinib, a first-generation ALK TKI, is considered the gold standard first-line treatment due to its excellent CNS activity.",
+      "C": "Second-generation ALK TKIs like alectinib and brigatinib have demonstrated superior intracranial efficacy compared to first-generation crizotinib.",
+      "D": "Resistance to ALK TKIs is uncommon, therefore re-biopsy upon progression is rarely indicated."
+    },
+    "correctAnswer": "C",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "ALK rearrangements are characteristic of a specific subset of NSCLC, primarily occurring in younger patients, never-smokers or light smokers, and those with adenocarcinoma histology. These characteristics are contrary to what is often seen in smoking-related NSCLC. First-generation ALK TKI, crizotinib, has limited central nervous system (CNS) penetration, leading to frequent CNS progression. Second-generation ALK TKIs (e.g., alectinib, brigatinib, ceritinib) and third-generation (lorlatinib) have significantly improved CNS penetration and activity, making them superior to crizotinib as first-line agents, especially given the high propensity for brain metastases in ALK-rearranged NSCLC. Resistance to ALK TKIs is common and can involve diverse mechanisms, including on-target mutations (e.g., G1202R) or bypass pathways, necessitating re-biopsy (tissue or liquid) to guide subsequent therapy upon progression.",
+    "highYieldPearl": "Rio's Take: ALK-rearranged NSCLC has a high incidence of CNS metastases; therefore, second-generation ALK TKIs with superior CNS penetration are preferred first-line over crizotinib.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This statement is false. ALK rearrangements, similar to EGFR mutations, are more commonly found in never-smokers or light smokers, and in patients with adenocarcinoma histology, rather than heavy smokers.",
+      "B": "This statement is false. Crizotinib was the first ALK TKI, but it has poor CNS penetration. Second-generation ALK TKIs (e.g., alectinib, brigatinib) are now preferred as first-line treatments due to their superior efficacy, better tolerability, and significantly improved CNS activity, making crizotinib no longer the 'gold standard' for first-line treatment.",
+      "C": "This statement is true. Alectinib and brigatinib, being second-generation ALK TKIs, have demonstrated superior efficacy in both systemic disease control and, crucially, in preventing and treating brain metastases compared to crizotinib, largely due to their better CNS penetration. This is a key reason for their preference as first-line agents.",
+      "D": "This statement is false. Resistance to ALK TKIs is common and can arise from various mechanisms, including secondary ALK mutations (e.g., G1202R, L1196M) or activation of bypass signaling pathways. Therefore, re-biopsy (or liquid biopsy) to identify the resistance mechanism is often indicated upon progression to guide subsequent treatment decisions, similar to EGFR-mutated NSCLC."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_e1070df1",
+    "question": "A 62-year-old female presents with stage IV NSCLC, confirmed adenocarcinoma histology with malignant pleural effusion. Initial molecular testing reveals an ALK gene rearrangement. Her ECOG performance status is 1. Which of the following statements BEST reflects the prioritized first-line systemic therapy for this patient, considering current guidelines?",
+    "options": {
+      "A": "Monotherapy with an ALK tyrosine kinase inhibitor, such as Alectinib, would be the preferred initial treatment due to the identified driver mutation.",
+      "B": "Platinum-based chemotherapy with pemetrexed should be initiated, given its superior survival benefit in adenocarcinoma, with ALK inhibition reserved for second-line.",
+      "C": "A combination regimen of Carboplatin, Paclitaxel, and Bevacizumab is indicated due to non-squamous histology and documented improvement in survival.",
+      "D": "High-dose radiation therapy to the primary tumor and metastatic sites, followed by maintenance chemotherapy, is recommended to improve overall survival."
+    },
+    "correctAnswer": "A",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "For patients with advanced NSCLC harboring an actionable driver mutation such as ALK gene rearrangement, targeted therapy with an ALK tyrosine kinase inhibitor (TKI) is the standard of care and the prioritized first-line systemic treatment. ALK TKIs, such as Alectinib, Brigatinib, or Lorlatinib, have demonstrated superior efficacy and a more favorable toxicity profile compared to conventional platinum-based chemotherapy in this patient population. Histology (adenocarcinoma) guides chemotherapy choices in the absence of a driver mutation, but the presence of an ALK rearrangement strongly dictates the use of targeted therapy upfront. The provided text mentions 'Driver mutations: EGFR, ROS1, ALK, BRAF', indicating their importance in treatment strategy.",
+    "highYieldPearl": "Rio's Take: In advanced NSCLC with an identified actionable driver mutation (EGFR, ALK, ROS1, BRAF V600E, MET exon 14 skipping, RET fusion), targeted therapy is always the prioritized first-line systemic treatment over conventional chemotherapy, irrespective of histology. Molecular testing is paramount.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is the correct statement. ALK inhibitors are the standard first-line treatment for ALK-rearranged NSCLC, superseding chemotherapy.",
+      "B": "Trap option. While pemetrexed is preferred for adenocarcinoma (non-squamous) as mentioned in the context, it is used when no actionable driver mutation is identified. If an ALK rearrangement is present, targeted therapy is preferred as first-line, not reserved for second-line.",
+      "C": "Trap option. Bevacizumab plus chemotherapy is an option for non-squamous NSCLC (as mentioned in the context), but it is not the prioritized first-line treatment when a specific targetable driver mutation like ALK is present. Targeted therapy takes precedence.",
+      "D": "Trap option. High-dose radiation therapy is primarily used for local disease control, palliation of symptoms, or in specific oligometastatic settings, not as a primary systemic treatment for stage IV metastatic NSCLC with a driver mutation."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_6ea1496d",
+    "question": "Which of the following statements regarding molecular profiling and management of non-small cell lung cancer (NSCLC) is NOT correct?",
+    "options": {
+      "A": "EGFR activating mutations are more frequently identified in never-smokers and patients with adenocarcinoma histology.",
+      "B": "ALK rearrangements are typically associated with squamous cell carcinoma histology and are primarily managed with chemotherapy alone.",
+      "C": "Pemetrexed-based chemotherapy regimens demonstrate superior efficacy compared to gemcitabine in patients with non-squamous NSCLC without targetable mutations.",
+      "D": "The presence of a BRAF V600E mutation in NSCLC necessitates targeted therapy with BRAF/MEK inhibitors, regardless of tumor histology."
+    },
+    "correctAnswer": "B",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "ALK gene rearrangements are characteristic driver mutations predominantly found in NSCLC adenocarcinomas, particularly in younger patients and never-smokers, rather than squamous cell carcinomas. Furthermore, ALK-rearranged NSCLC is highly sensitive to ALK tyrosine kinase inhibitors (TKIs), making targeted therapy with these agents the cornerstone of first-line treatment, not chemotherapy alone. The provided text lists ALK as a 'Driver mutation' and discusses histology-guided chemotherapy (pemetrexed for non-squamous, gemcitabine for squamous), highlighting the distinction between histology-driven chemo and mutation-driven targeted therapy.",
+    "highYieldPearl": "Rio's Take: EGFR and ALK mutations are generally found in adenocarcinomas and are mutually exclusive with each other and with KRAS mutations. Targeted therapy is the first-line for these actionable mutations. Squamous cell carcinoma typically has a different molecular profile.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This statement is correct. EGFR mutations are well-known to be more prevalent in never-smokers and patients with adenocarcinoma histology.",
+      "B": "This statement is INCORRECT, making it the correct answer to the 'NOT correct' question. ALK rearrangements are primarily found in adenocarcinomas, not squamous cell carcinomas, and are managed with ALK inhibitors, not primarily with chemotherapy alone.",
+      "C": "This statement is correct. As explicitly mentioned in the provided text: 'For the patients with adenocarcinoma, the survival was significantly better with the pemetrexed regimen... Chemotherapy for stage IV NSCLC should be guided by histology and pemetrexed should be limited to patients with nonsquamous NSCLC.' Adenocarcinoma is a type of non-squamous NSCLC.",
+      "D": "This statement is correct. BRAF V600E is an actionable driver mutation in NSCLC (mentioned in the text as a 'Driver mutation'), and its presence dictates the use of BRAF/MEK targeted inhibitors as first-line therapy, similar to EGFR and ALK."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_a05ddd9b",
+    "question": "A 58-year-old female, diagnosed with stage IV lung adenocarcinoma and an EGFR exon 19 deletion, initiated treatment with Gefitinib (a first-generation EGFR TKI). She achieved a partial response for 18 months, after which imaging revealed progressive disease in the lungs and pleura. Repeat biopsy of the progressing lesion is performed. Which of the following is the most likely molecular finding in the repeat biopsy and the subsequent optimal therapeutic strategy?",
+    "options": {
+      "A": "Acquisition of a T790M mutation; consider a switch to Osimertinib.",
+      "B": "Development of an ALK fusion; initiate an ALK tyrosine kinase inhibitor.",
+      "C": "Transformation to small cell lung cancer; switch to platinum-etoposide chemotherapy.",
+      "D": "Amplification of MET gene; addition of a MET inhibitor to continued Gefitinib."
+    },
+    "correctAnswer": "A",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "Acquired resistance to first-generation EGFR TKIs (like Gefitinib or Erlotinib) is a common clinical challenge. The most frequent acquired resistance mechanism, accounting for approximately 50-60% of cases, is the development of a T790M mutation in EGFR exon 20. This mutation confers resistance to first/second-generation EGFR TKIs. The optimal therapeutic strategy for patients with T790M-positive acquired resistance is to switch to a third-generation EGFR TKI, such as Osimertinib, which specifically targets both common activating EGFR mutations and the T790M resistance mutation. While the text doesn't detail resistance mechanisms, it explicitly lists 'EGFR' as a 'Driver mutation', indicating the relevance of this topic for advanced exams.",
+    "highYieldPearl": "Rio's Take: Remember the 'Big 3' acquired resistance mechanisms to first-gen EGFR TKIs in order of frequency: EGFR T790M (50-60%), MET amplification (5-10%), and SCLC transformation (5-10%). Each has distinct management strategies.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "This is the correct option. T790M is the most common acquired resistance mutation to first-generation EGFR TKIs, and Osimertinib is the standard treatment for T790M-positive NSCLC.",
+      "B": "Trap option. ALK fusions are primary driver mutations and are generally mutually exclusive with EGFR mutations. While very rare cases of ALK-driven resistance to EGFR TKIs exist, it is not the *most likely* mechanism, nor is it acquired in the same manner as point mutations.",
+      "C": "Trap option. Transformation to small cell lung cancer (SCLC) is a known but less common (5-10%) resistance mechanism to EGFR TKIs. It's not the *most likely* finding compared to T790M.",
+      "D": "Trap option. MET amplification is another known resistance mechanism (5-10%) to EGFR TKIs. While MET inhibitors are used, it is less common than T790M, and typically the EGFR TKI would be continued or a combination strategy explored, but 'addition of a MET inhibitor to continued Gefitinib' is not always the sole optimal strategy for MET amplification."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_1d183534",
+    "question": "A 62-year-old male, a former light smoker (5 pack-years, quit 10 years ago), presents with a persistent cough and weight loss. Imaging reveals a large left upper lobe mass with mediastinal and ipsilateral supraclavicular lymph node involvement. Bronchoscopic biopsy confirms non-small cell lung carcinoma, specifically adenocarcinoma. Staging workup reveals multiple bone metastases. Which of the following molecular tests is most crucial to guide initial systemic therapy for this patient, assuming good performance status?",
+    "options": {
+      "A": "K-RAS mutation analysis",
+      "B": "TP53 mutation sequencing",
+      "C": "EGFR, ALK, ROS1, and PD-L1 testing",
+      "D": "MET amplification status"
+    },
+    "correctAnswer": "C",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "For a patient with newly diagnosed metastatic non-small cell lung carcinoma (NSCLC) of adenocarcinoma histology, comprehensive molecular profiling is crucial to identify actionable driver mutations that predict response to targeted therapies. EGFR, ALK, and ROS1 are well-established driver mutations for which highly effective tyrosine kinase inhibitors (TKIs) are available as first-line treatment. PD-L1 testing is essential to guide the use of immunotherapy, which is also a first-line option, either alone or in combination with chemotherapy, especially for patients who are negative for driver mutations or have high PD-L1 expression. K-RAS mutations are common but historically were not directly targetable for first-line therapy (though new inhibitors exist for KRAS G12C, it's not universally screened as a first-line *driver* for broad TKI consideration). TP53 mutations are common tumor suppressor mutations but are not actionable driver mutations guiding first-line targeted therapy. MET amplification can be targeted but is less common and typically part of a broader NGS panel rather than a primary, standalone 'most crucial' initial test compared to the established Big 3 drivers plus PD-L1.",
+    "highYieldPearl": "Rio's Take: Always consider comprehensive molecular testing (EGFR, ALK, ROS1, BRAF, MET, RET, HER2, NTRK and PD-L1) for newly diagnosed metastatic lung adenocarcinoma to guide first-line systemic therapy. This paradigm has revolutionized NSCLC treatment.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "K-RAS is a common mutation, but its direct targetability for first-line therapy is specific (KRAS G12C) and not as broadly applicable or as established for initial TKI selection as EGFR/ALK/ROS1. It's often included in comprehensive panels but isn't the 'most crucial' overarching test for driver mutations.",
+      "B": "TP53 is a tumor suppressor gene and its mutations are very common in NSCLC, but they are not targetable driver mutations that dictate the choice of first-line systemic therapy in the same way EGFR/ALK/ROS1 do.",
+      "C": "This option covers the most critical actionable driver mutations (EGFR, ALK, ROS1) and PD-L1, which is essential for immunotherapy decisions, making it the most appropriate and comprehensive initial molecular testing strategy.",
+      "D": "MET amplification is an actionable alteration, but it is less common than EGFR, ALK, or ROS1 alterations as a primary driver. While important to test as part of a comprehensive panel, focusing solely on MET amplification would miss other more prevalent and targetable drivers."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_b135b9a6",
+    "question": "A 58-year-old female, never-smoker, is diagnosed with Stage IV lung adenocarcinoma. Molecular testing reveals an activating EGFR exon 19 deletion. All of the following statements regarding the management and prognosis of this patient are generally true, EXCEPT:",
+    "options": {
+      "A": "She is likely to benefit from a first-generation EGFR tyrosine kinase inhibitor (TKI) like gefitinib or erlotinib as first-line therapy.",
+      "B": "Her objective response rate to standard platinum-based chemotherapy would typically be superior compared to patients without EGFR mutations.",
+      "C": "Progression-free survival with an EGFR TKI is generally longer than with standard chemotherapy in this setting.",
+      "D": "Resistance to first-generation EGFR TKIs often involves the acquisition of a T790M mutation, which may necessitate a third-generation EGFR TKI."
+    },
+    "correctAnswer": "B",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "Patients with activating EGFR mutations, especially exon 19 deletions or L858R point mutations, derive significant benefit from EGFR TKIs as first-line therapy, demonstrating superior progression-free survival (PFS) and objective response rates (ORR) compared to conventional platinum-doublet chemotherapy. While EGFR-mutant tumors may show some response to chemotherapy, their response is generally *not* superior to EGFR wild-type tumors, and importantly, it is significantly inferior to the response achieved with EGFR TKIs. In fact, EGFR-mutant tumors often show relative chemo-resistance compared to wild-type tumors, which is why targeted therapy is preferred. The T790M mutation is a well-known acquired resistance mechanism to first- and second-generation EGFR TKIs, leading to the use of third-generation TKIs like osimertinib.",
+    "highYieldPearl": "Rio's Take: EGFR-mutant NSCLC is exquisitely sensitive to EGFR TKIs, but often relatively resistant to conventional chemotherapy compared to EGFR wild-type NSCLC. This underpins the 'TKI-first' strategy.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This statement is true. First-generation EGFR TKIs (e.g., gefitinib, erlotinib) are effective for activating EGFR mutations, and osimertinib (a third-gen TKI) is now a preferred first-line agent given its superior efficacy and CNS penetration.",
+      "B": "This statement is false, and therefore the correct answer. EGFR-mutant NSCLC generally responds *worse* to conventional chemotherapy compared to EGFR wild-type NSCLC. The primary reason for testing EGFR mutations is to *avoid* chemotherapy and initiate targeted therapy.",
+      "C": "This statement is true. Numerous trials have demonstrated significantly longer progression-free survival with EGFR TKIs compared to platinum-based chemotherapy in EGFR-mutant NSCLC.",
+      "D": "This statement is true. The T790M mutation is the most common acquired resistance mechanism to first- and second-generation EGFR TKIs, which led to the development and approval of third-generation EGFR TKIs like osimertinib for this setting."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_b122a1e0",
+    "question": "Assertion (A): Molecular testing for EGFR, ALK, and ROS1 mutations should be performed in all patients with newly diagnosed metastatic non-small cell lung carcinoma (NSCLC), regardless of histology, to guide first-line systemic therapy.\nReason (R): The presence of these driver mutations dictates the primary systemic therapy with targeted agents, which significantly improves outcomes compared to conventional chemotherapy.",
+    "options": {
+      "A": "Both A and R are true, and R is the correct explanation of A.",
+      "B": "Both A and R are true, but R is NOT the correct explanation of A.",
+      "C": "A is true, but R is false.",
+      "D": "A is false, but R is true."
+    },
+    "correctAnswer": "D",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "The Assertion (A) is false. While molecular testing for EGFR, ALK, and ROS1 is standard of care for newly diagnosed metastatic NSCLC, it is *not* performed in all patients regardless of histology. Specifically, for squamous cell carcinoma, the incidence of these driver mutations is very low (<5%), and targeted therapies are typically not recommended unless there's an unusual clinical context (e.g., never-smoker with squamous histology, or mixed histology). For non-squamous NSCLC (adenocarcinoma being the most common type), this testing is mandatory. The Reason (R) is true. The identification of actionable driver mutations like EGFR, ALK, and ROS1 has revolutionized NSCLC treatment, leading to the use of highly effective targeted therapies (TKIs) that offer superior outcomes (PFS, ORR, and sometimes OS) compared to traditional platinum-based chemotherapy. Therefore, A is false, and R is true.",
+    "highYieldPearl": "Rio's Take: Histology matters! While comprehensive testing is critical for non-squamous NSCLC, the yield of targetable driver mutations is extremely low in pure squamous cell carcinoma, making routine testing less prioritized unless specific clinical features suggest otherwise.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Incorrect because Assertion A is false.",
+      "B": "Incorrect because Assertion A is false.",
+      "C": "Incorrect because Reason R is true.",
+      "D": "This is the correct option. Assertion A is false because testing for these mutations is primarily indicated for non-squamous NSCLC due to the very low prevalence in squamous cell carcinoma. Reason R is true, as targeted therapies based on these mutations significantly improve patient outcomes over conventional chemotherapy."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_9b12b189",
+    "question": "What is the primary clinical significance of identifying driver mutations such as EGFR, ALK, and ROS1 in advanced non-small cell lung cancer (NSCLC)?",
+    "options": {
+      "A": "They predict responsiveness to specific targeted therapies, guiding personalized treatment strategies.",
+      "B": "They serve as definitive biomarkers for distinguishing adenocarcinoma from squamous cell carcinoma.",
+      "C": "They primarily indicate a universally poor prognosis, irrespective of further treatment.",
+      "D": "They are key diagnostic markers for small cell lung cancer (SCLC) and determine the choice of chemotherapy."
+    },
+    "correctAnswer": "A",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "Driver mutations like EGFR, ALK, and ROS1 are critical in the management of NSCLC because they identify specific molecular targets that can be inhibited by corresponding targeted therapies (e.g., EGFR-TKIs for EGFR mutations, ALK inhibitors for ALK rearrangements). This personalized approach significantly improves patient outcomes compared to traditional chemotherapy, making the identification of these mutations a cornerstone of modern NSCLC treatment algorithms.",
+    "highYieldPearl": "Rio's Take: The core concept of driver mutations in NSCLC is 'targetability'. Identifying these mutations directly informs the use of highly effective precision medicines.",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct answer. The fundamental role of these driver mutations is to identify patients who will benefit from targeted therapies.",
+      "B": "Incorrect. Histological differentiation between adenocarcinoma and squamous cell carcinoma is primarily based on microscopic morphology and immunohistochemistry (e.g., TTF1, Napsin A for adenocarcinoma; p40, CK5/6 for squamous). Driver mutations are tested subsequent to histology to guide therapy.",
+      "C": "Incorrect. While some mutations might infer prognosis, the primary clinical significance of identifying these *druggable* driver mutations is the opportunity to use targeted therapies, which often lead to improved prognosis and extended survival compared to untargeted approaches.",
+      "D": "Incorrect. EGFR, ALK, and ROS1 mutations are characteristic driver mutations of Non-Small Cell Lung Cancer (NSCLC), particularly adenocarcinoma, and are generally not found in Small Cell Lung Cancer (SCLC)."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_cef5f607",
+    "question": "An unvaccinated 55-year-old male with a 20-pack-year smoking history presents with new-onset hemoptysis and a lung mass. Biopsy confirms NSCLC adenocarcinoma. Given his clinical profile, which driver mutation, although important, is generally *less* likely to be found compared to patients who are never-smokers and of East Asian ethnicity?",
+    "options": {
+      "A": "EGFR exon 19 deletion",
+      "B": "ALK rearrangement",
+      "C": "KRAS G12C mutation",
+      "D": "BRAF V600E mutation"
+    },
+    "correctAnswer": "A",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "EGFR activating mutations (most commonly exon 19 deletions and L858R point mutations) are classically associated with distinct clinical features: non-smokers, adenocarcinoma histology, and East Asian ethnicity. While these mutations can occur in smokers and other ethnicities, their prevalence is significantly higher in never-smokers and East Asian populations. In contrast, KRAS mutations are more frequently found in smokers and Caucasians. ALK and BRAF mutations are less strongly correlated with smoking status or ethnicity in the same distinct manner as EGFR.",
+    "highYieldPearl": "Rio's Take: Remember the classic epidemiological profile for EGFR mutations: never-smoker, adenocarcinoma, East Asian origin. This helps distinguish it from other common mutations like KRAS (smoker, Caucasian).",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "This is the correct answer. EGFR activating mutations (like exon 19 deletion) are famously more prevalent in never-smokers and East Asian patients. Therefore, a smoking male would be *less* likely to have this compared to the demographic mentioned.",
+      "B": "ALK rearrangements are also more common in younger patients and never/light smokers, but the association with never-smoker/East Asian is strongest for EGFR.",
+      "C": "KRAS mutations, particularly G12C, are the most common oncogenic driver mutations in NSCLC, and are strongly associated with a history of smoking and Caucasian ethnicity. This would be *more* likely in the presented patient.",
+      "D": "BRAF V600E mutations are less common overall than EGFR or KRAS and do not have such a distinct epidemiological profile strongly favoring non-smokers/East Asians compared to EGFR."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_bbe85b8a",
+    "question": "Which of the following is the most appropriate initial method for detecting activating EGFR mutations in a tumor biopsy from a patient with newly diagnosed non-small cell lung cancer (NSCLC) adenocarcinoma?",
+    "options": {
+      "A": "Immunohistochemistry (IHC) for EGFR protein expression",
+      "B": "Fluorescence In Situ Hybridization (FISH)",
+      "C": "Polymerase Chain Reaction (PCR) or Next-Generation Sequencing (NGS) of tumor DNA",
+      "D": "Measurement of serum circulating tumor DNA (ctDNA)"
+    },
+    "correctAnswer": "C",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "Activating EGFR mutations are specific DNA alterations (e.g., point mutations, deletions) within the EGFR gene. Therefore, direct analysis of the tumor's DNA is required to identify these changes. PCR-based assays are commonly used for detecting specific common mutations (e.g., exon 19 deletions, L858R). Next-Generation Sequencing (NGS) is an increasingly standard, comprehensive method that can detect a broad range of mutations in multiple genes simultaneously, including EGFR. While ctDNA is used in certain scenarios (e.g., when tissue is unavailable or for resistance testing), initial testing from a tumor biopsy primarily relies on direct tissue DNA analysis.",
+    "highYieldPearl": "Rio's Take: For *mutations* (like EGFR), think *DNA analysis* (PCR, NGS). For *rearrangements* (like ALK, ROS1), think *FISH* (or IHC as a screening for protein product of rearrangement).",
+    "examStyle": "INI-SS",
+    "difficulty": "easy",
+    "trapAnalysis": {
+      "A": "Incorrect. IHC detects the presence and amount of a protein, not specific DNA mutations. While ALK-IHC is a common screening tool for ALK *rearrangements* (which lead to ALK protein overexpression), IHC is not the primary method for detecting EGFR *gene mutations*.",
+      "B": "Incorrect. FISH is a cytogenetic technique primarily used to detect gene rearrangements (translocations), amplifications, or deletions in the DNA sequence, such as ALK or ROS1 rearrangements, but it is not typically used for the specific point mutations or small deletions that characterize activating EGFR mutations.",
+      "C": "This is the correct answer. Activating EGFR mutations are DNA-level alterations, and methods like PCR (for specific hot spots) or comprehensive NGS (for a wider range of mutations) directly analyze the tumor's DNA to identify these changes.",
+      "D": "Incorrect. While circulating tumor DNA (ctDNA) analysis from blood is a valuable tool, especially when tissue is insufficient or for monitoring, the *initial* method for mutation detection in a *tumor biopsy* typically involves direct analysis of the tumor tissue itself, which is considered the gold standard."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_8981906d",
+    "question": "A 62-year-old non-smoker presents with progressive cough and dyspnea. CT chest reveals a right upper lobe mass with mediastinal lymphadenopathy. Bronchoscopy with biopsy confirms adenocarcinoma of the lung, positive for TTF1 and Napsin A. Staging reveals Stage IV disease with widespread metastases including brain lesions. Her ECOG performance status is 1.\n\nBefore initiating systemic therapy, what is the most appropriate next diagnostic step for this patient?",
+    "options": {
+      "A": "Comprehensive genomic profiling for EGFR, ALK, ROS1, and BRAF mutations.",
+      "B": "Immunohistochemistry for PD-L1 expression.",
+      "C": "Palliative radiation therapy to brain metastases.",
+      "D": "Initiation of carboplatin and pemetrexed chemotherapy."
+    },
+    "correctAnswer": "A",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "For patients with newly diagnosed advanced non-squamous non-small cell lung cancer (NSCLC), such as adenocarcinoma, identifying actionable driver mutations is paramount before initiating systemic therapy. Targeted therapies, when applicable, have demonstrated superior efficacy and reduced toxicity compared to traditional chemotherapy. Comprehensive genomic profiling (often performed via NGS) allows for the simultaneous detection of common driver mutations like EGFR, ALK rearrangements, ROS1 rearrangements, and BRAF V600E mutations, which guide the selection of appropriate first-line tyrosine kinase inhibitors (TKIs). Given the adenocarcinoma histology and stage IV disease, this step is critical for optimal treatment planning.",
+    "highYieldPearl": "Rio's Take: Always perform comprehensive genomic profiling for actionable driver mutations (EGFR, ALK, ROS1, BRAF) in advanced non-squamous NSCLC before starting first-line systemic treatment. This takes precedence over PD-L1 testing or immediate chemotherapy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. Identifying driver mutations like EGFR, ALK, ROS1, and BRAF is crucial for advanced non-squamous NSCLC as it dictates the most effective first-line targeted therapy, which is superior to chemotherapy.",
+      "B": "PD-L1 expression testing is important for guiding immunotherapy decisions. However, for adenocarcinoma with potential driver mutations, targeted therapy is typically the first-line choice if a mutation is identified. PD-L1 status becomes more relevant if no driver mutation is found, or for subsequent lines of therapy.",
+      "C": "Palliative radiation to brain metastases might be necessary, but it addresses a specific symptom and does not provide systemic control for the widespread disease. The question asks for the 'next diagnostic step' for guiding systemic therapy, which is molecular profiling.",
+      "D": "Carboplatin and pemetrexed chemotherapy (as mentioned in the context for non-squamous NSCLC) is a standard chemotherapy regimen. However, for patients with actionable driver mutations, targeted therapy is generally more effective and preferred as first-line. Initiating chemotherapy without molecular profiling would miss the opportunity for personalized, more effective treatment."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_a4841047",
+    "question": "A 58-year-old female non-smoker is diagnosed with Stage IV lung adenocarcinoma with widespread metastases. Comprehensive genomic profiling reveals an **EGFR exon 19 deletion**. Her ECOG performance status is 1.\n\nWhat is the most appropriate first-line systemic therapy for this patient?",
+    "options": {
+      "A": "Osimertinib",
+      "B": "Crizotinib",
+      "C": "Carboplatin and pemetrexed",
+      "D": "Pembrolizumab (anti-PD-1 immunotherapy)"
+    },
+    "correctAnswer": "A",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "For advanced non-small cell lung cancer (NSCLC) with an activating EGFR mutation (like exon 19 deletion or L858R mutation), EGFR tyrosine kinase inhibitors (TKIs) are the standard first-line therapy. Osimertinib, a third-generation EGFR TKI, is highly effective against common EGFR sensitizing mutations and has demonstrated superior efficacy, including better CNS penetration and overall survival benefit, compared to first-generation EGFR TKIs (gefitinib, erlotinib) in the first-line setting. It is now the preferred first-line agent for patients with EGFR-mutated advanced NSCLC.",
+    "highYieldPearl": "Rio's Take: Osimertinib is the preferred first-line therapy for advanced EGFR-mutated NSCLC due to its superior efficacy, including CNS activity, compared to earlier generation TKIs.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the correct answer. Osimertinib is a third-generation EGFR TKI and is the preferred first-line therapy for advanced EGFR-mutated NSCLC, including exon 19 deletions, due to its superior efficacy and better CNS penetration.",
+      "B": "Crizotinib is a multi-targeted TKI primarily used for ALK and ROS1 rearrangements, not for EGFR mutations. It would be ineffective for an EGFR-mutated tumor.",
+      "C": "Carboplatin and pemetrexed is a standard platinum-doublet chemotherapy regimen for non-squamous NSCLC. While it is an option, targeted therapy with an EGFR TKI is significantly more effective and less toxic for patients with EGFR mutations.",
+      "D": "Pembrolizumab is an anti-PD-1 immunotherapy. While immunotherapy is a crucial treatment modality in NSCLC, for patients with actionable driver mutations like EGFR, targeted therapy (Osimertinib) is the superior first-line treatment. Immunotherapy is generally less effective in EGFR-mutated NSCLC, especially in the first-line setting, and often considered only after TKI failure or if driver mutations are absent."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_b5295822",
+    "question": "A 68-year-old male with Stage IV lung adenocarcinoma and an **EGFR exon 21 L858R mutation** initially responded well to erlotinib (a first-generation EGFR TKI) for 18 months. He now presents with worsening cough, new headaches, and CT scans show progression of lung lesions and new brain metastases. His ECOG performance status is 2.\n\nWhat is the most appropriate next step in the management of this patient?",
+    "options": {
+      "A": "Switch to a different first-generation EGFR TKI (e.g., gefitinib).",
+      "B": "Perform a re-biopsy of a progressing lesion for resistance mutation testing (e.g., T790M).",
+      "C": "Initiate platinum-based doublet chemotherapy (e.g., carboplatin and pemetrexed).",
+      "D": "Administer whole brain radiation therapy (WBRT) alone for new brain metastases."
+    },
+    "correctAnswer": "B",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "In patients with EGFR-mutated NSCLC who develop disease progression after initial response to a first- or second-generation EGFR TKI, acquired resistance is common. The most frequent resistance mechanism (approximately 50-60% of cases) is the acquisition of the EGFR T790M mutation. Identifying this mutation, typically through a re-biopsy of a progressing lesion (tissue or liquid biopsy, such as circulating tumor DNA from plasma), is crucial because patients positive for T790M can be effectively treated with a third-generation EGFR TKI, such as osimertinib, which specifically targets T790M and the original sensitizing mutations. This approach significantly extends progression-free survival compared to chemotherapy.",
+    "highYieldPearl": "Rio's Take: For EGFR-mutated NSCLC progressing on a first/second-gen TKI, always re-biopsy (tissue or liquid) for T790M resistance mutation before considering chemotherapy. A positive T790M leads to third-gen TKI (osimertinib).",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Switching to another first-generation EGFR TKI (e.g., gefitinib) is unlikely to be effective. Resistance to one first-generation TKI typically implies cross-resistance to others in the same class due to similar binding mechanisms and shared resistance pathways.",
+      "B": "This is the correct answer. Re-biopsy (either tissue or liquid biopsy for ctDNA) to identify the resistance mechanism, especially the T790M mutation, is critical. If T790M is found, treatment with a third-generation EGFR TKI like osimertinib is the standard of care.",
+      "C": "Initiating platinum-based doublet chemotherapy is an option for patients who progress on EGFR TKIs and do not have an actionable resistance mutation (like T790M) or for whom targeted therapy is no longer an option. However, it's generally preferred to test for T790M first, as a targeted therapy (osimertinib) is more effective if the mutation is present.",
+      "D": "Administering whole brain radiation therapy (WBRT) alone addresses the new brain metastases but does not address the systemic progression in the lung or other sites, nor does it attempt to find a new systemic targeted therapy. While WBRT might be part of the management for symptomatic brain metastases, it should ideally be combined with appropriate systemic therapy, and identifying the resistance mechanism for optimal systemic treatment takes precedence."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988503,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_08f23e68",
+    "question": "A 62-year-old male presents with persistent cough, weight loss, and dyspnea. CT chest reveals a large right upper lobe mass with mediastinal lymphadenopathy and multiple liver metastases. Biopsy confirms lung adenocarcinoma. Immunohistochemistry shows positive TTF-1 and Napsin A. What is the most appropriate next step in managing this patient's systemic therapy?",
+    "options": {
+      "A": "Initiate platinum-based doublet chemotherapy with pemetrexed.",
+      "B": "Perform comprehensive molecular testing for EGFR, ALK, ROS1, and other actionable mutations.",
+      "C": "Start radiation therapy to the right upper lobe mass and liver metastases.",
+      "D": "Administer immunotherapy with a PD-1 inhibitor."
+    },
+    "correctAnswer": "B",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "For patients with newly diagnosed advanced non-squamous non-small cell lung cancer (NSCLC), such as adenocarcinoma, it is crucial to perform comprehensive molecular testing for actionable driver mutations (e.g., EGFR, ALK, ROS1, BRAF V600E, MET exon 14 skipping, RET fusions) before initiating first-line systemic therapy. The presence of these mutations dictates the use of specific targeted therapies (Tyrosine Kinase Inhibitors - TKIs), which offer superior response rates, progression-free survival, and often overall survival compared to traditional chemotherapy or immunotherapy in these subsets of patients. Guidelines from major oncology organizations universally recommend this approach to personalize treatment and maximize patient outcomes.",
+    "highYieldPearl": "In advanced non-squamous NSCLC, comprehensive molecular testing for driver mutations is mandatory before starting first-line systemic treatment.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Initiating platinum-based doublet chemotherapy with pemetrexed is a standard first-line chemotherapy regimen for non-squamous NSCLC. However, it is not the *most appropriate initial step* before molecular testing results are available. If actionable mutations are found, targeted therapy would be preferred, making this option premature.",
+      "B": "This is the correct answer. Identifying driver mutations guides personalized targeted therapy, which offers superior outcomes for patients with these mutations.",
+      "C": "Radiation therapy in this context would primarily be palliative for symptom control or local control. It is not the initial systemic treatment for widely metastatic disease and would usually be considered as an adjunct or for specific symptomatic sites.",
+      "D": "Immunotherapy with a PD-1 inhibitor is a significant treatment modality in advanced NSCLC. However, for adenocarcinoma, the priority is to rule out driver mutations. If a driver mutation is present, targeted therapy is generally preferred over immunotherapy as first-line. PD-L1 testing would also guide immunotherapy use, but molecular mutation testing takes precedence in adenocarcinoma to identify potentially more effective targeted options."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988504,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_29bc4a28",
+    "question": "A 58-year-old non-smoking female diagnosed with stage IV lung adenocarcinoma carrying an EGFR exon 19 deletion mutation was successfully treated with osimertinib for 18 months, achieving an excellent response. She now presents with worsening cough, increasing dyspnea, and new nodules on a follow-up CT scan, indicating disease progression. What is the most appropriate next step in her management?",
+    "options": {
+      "A": "Switch to platinum-based doublet chemotherapy.",
+      "B": "Initiate a different first-generation EGFR TKI, such as gefitinib or erlotinib.",
+      "C": "Perform a re-biopsy of a progressive lesion or liquid biopsy for resistance mechanisms.",
+      "D": "Add a PD-1 inhibitor to osimertinib."
+    },
+    "correctAnswer": "C",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "When a patient with EGFR-mutated NSCLC experiences disease progression on targeted therapy, especially a third-generation EGFR TKI like osimertinib, it is crucial to investigate the mechanism of resistance. Acquired resistance can be due to various reasons, including the emergence of new on-target mutations (e.g., C797S after osimertinib), small cell transformation, MET amplification, HER2 amplification, or other bypass signaling pathways. Performing a re-biopsy of a progressive lesion (tissue biopsy) or a liquid biopsy (circulating tumor DNA - ctDNA from blood) is the recommended next step to identify these resistance mechanisms. The results of this testing will then guide subsequent treatment decisions, which could include chemotherapy, a different targeted therapy, or clinical trial participation.",
+    "highYieldPearl": "Upon progression on EGFR TKIs, re-biopsy (tissue or liquid) to identify resistance mechanisms is essential to guide subsequent therapy.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Chemotherapy is a valid option for patients who progress on targeted therapy and for whom no further actionable mutations or targeted therapies are identified. However, it's generally preferred to first explore if a specific resistance mechanism is present that might be targetable, making this a premature step.",
+      "B": "Gefitinib or erlotinib are first-generation EGFR TKIs. Switching from a third-generation TKI like osimertinib (which is designed to overcome T790M resistance, a common mechanism after first-gen TKIs) to an earlier generation TKI is unlikely to be effective and is generally not recommended as resistance to osimertinib often involves mechanisms distinct from those targeted by first-generation TKIs.",
+      "C": "This is the correct answer. Understanding the resistance mechanism is key to guiding subsequent effective treatment strategies.",
+      "D": "While immunotherapy is an important treatment for NSCLC, combining it with osimertinib after progression is not a standard approach. There isn't robust evidence to support this combination specifically at progression on osimertinib as a standard practice outside of clinical trials, and it does not address the underlying resistance mechanism."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988504,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_5b575d6c",
+    "question": "A 45-year-old male with no significant smoking history presents with new onset seizures. MRI brain shows multiple enhancing lesions consistent with metastases. A lung mass is identified on CT chest, and biopsy reveals lung adenocarcinoma. Molecular testing on the tumor tissue reveals an EML4-ALK fusion rearrangement. Which of the following is the most appropriate first-line systemic therapy for this patient?",
+    "options": {
+      "A": "Pembrolizumab",
+      "B": "Cisplatin and Pemetrexed",
+      "C": "Alectinib",
+      "D": "Erlotinib"
+    },
+    "correctAnswer": "C",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "The presence of an EML4-ALK fusion rearrangement in advanced non-small cell lung cancer (NSCLC) is a strong indicator for targeted therapy with an ALK inhibitor. Second-generation ALK TKIs like alectinib, brigatinib, and lorlatinib have demonstrated superior efficacy over first-generation crizotinib, particularly in patients with central nervous system (CNS) metastases due to their excellent brain penetration. Given the patient's new onset seizures and brain metastases, an ALK inhibitor with good CNS activity, such as alectinib, is the most appropriate first-line systemic therapy. These agents offer significantly better response rates and progression-free survival compared to chemotherapy or immunotherapy in ALK-positive NSCLC.",
+    "highYieldPearl": "EML4-ALK fusion in advanced NSCLC, especially with brain metastases, warrants first-line treatment with a potent ALK inhibitor like alectinib.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Pembrolizumab is a PD-1 inhibitor (immunotherapy). While a crucial treatment for NSCLC, it is generally less effective and not the first-line choice for patients with an ALK rearrangement, where ALK inhibitors show much higher efficacy and are the preferred treatment.",
+      "B": "Cisplatin and Pemetrexed is a standard platinum-based doublet chemotherapy regimen for non-squamous NSCLC. While it was the standard before targeted therapies, ALK inhibitors provide significantly better outcomes (response rates, progression-free survival) in ALK-positive patients and are the preferred first-line treatment.",
+      "C": "This is the correct answer. Alectinib is a potent second-generation ALK inhibitor with excellent efficacy, including against CNS metastases, making it the preferred first-line treatment for ALK-positive advanced NSCLC.",
+      "D": "Erlotinib is a first-generation EGFR TKI. It is effective for EGFR-mutated NSCLC but has no activity against ALK fusion rearrangements. Administering an EGFR TKI to an ALK-positive patient would be ineffective."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988504,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_e75227c7",
+    "question": "A 62-year-old never-smoker female presents with a 3-month history of progressive dyspnea and persistent cough. Chest CT reveals a large left lung mass with mediastinal lymphadenopathy and a moderate ipsilateral pleural effusion. Pleural fluid analysis is exudative with lymphocytic predominance, and cytology confirms adenocarcinoma. She has an ECOG performance status of 1. What is the most appropriate next step in the management of her advanced disease?",
+    "options": {
+      "A": "Initiate platinum-based chemotherapy with cisplatin and pemetrexed.",
+      "B": "Perform genetic testing for EGFR, ALK, ROS1, and BRAF mutations on tumor tissue.",
+      "C": "Start palliative radiation therapy to the lung mass and mediastinal lymph nodes.",
+      "D": "Recommend medical thoracoscopy for pleurodesis to manage the pleural effusion."
+    },
+    "correctAnswer": "B",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "For patients with advanced Non-Small Cell Lung Cancer (NSCLC) of adenocarcinoma histology, especially never-smokers, identifying driver mutations such as EGFR, ALK, ROS1, and BRAF is a critical first step before initiating systemic therapy. The presence of these mutations predicts a high likelihood of response to specific targeted therapies (Tyrosine Kinase Inhibitors - TKIs), which have demonstrated superior efficacy and generally better tolerability compared to traditional chemotherapy in mutation-positive patients. Guidelines strongly recommend comprehensive molecular testing for these actionable mutations at diagnosis of advanced NSCLC.",
+    "highYieldPearl": "Rio's Take: For advanced lung adenocarcinoma, particularly in never-smokers, molecular testing for driver mutations (EGFR, ALK, ROS1, BRAF) is paramount before starting any systemic treatment. Targeted therapy based on these mutations offers better outcomes than chemotherapy.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "While pemetrexed-based chemotherapy is a standard option for adenocarcinoma, initiating it before molecular testing misses the opportunity for targeted therapy, which is the preferred first-line treatment for patients with identified driver mutations.",
+      "B": "This is the correct answer. Identifying driver mutations is crucial for guiding personalized targeted therapy, which offers superior outcomes in advanced NSCLC with actionable mutations.",
+      "C": "Palliative radiation may be considered for symptom control, but it is not the initial systemic therapeutic step for advanced, potentially targetable disease. Systemic therapy takes precedence for overall disease control.",
+      "D": "Medical thoracoscopy for pleurodesis addresses the symptomatic pleural effusion. While important for symptom management, it is not the primary diagnostic or systemic therapeutic step for the underlying advanced malignancy that the question refers to ('management of her advanced disease')."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988504,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_85f94f75",
+    "question": "A 68-year-old male with stage IV NSCLC, confirmed to have an EGFR exon 19 deletion, initiated gefitinib therapy. After 10 days, he develops a diffuse, erythematous papulopustular rash predominantly on his face, scalp, and upper trunk, accompanied by pruritus. His ECOG performance status remains 0. What is the most appropriate initial management approach for this adverse event?",
+    "options": {
+      "A": "Discontinue gefitinib immediately and consider a different class of systemic therapy.",
+      "B": "Reduce the dose of gefitinib by 50% and monitor the rash.",
+      "C": "Prescribe topical corticosteroids, oral doxycycline, and continue gefitinib at the current dose.",
+      "D": "Refer for a dermatology consultation for a skin biopsy to rule out drug hypersensitivity reaction."
+    },
+    "correctAnswer": "C",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "The described rash is a classic, dose-independent, acneiform eruption associated with EGFR Tyrosine Kinase Inhibitors (TKIs). This rash often indicates effective drug activity and is generally manageable without discontinuing or dose-reducing the life-prolonging targeted therapy. Initial management typically involves topical corticosteroids for inflammation, oral antibiotics (like doxycycline or minocycline, primarily for their anti-inflammatory effects rather than antibacterial in this context), and emollients for symptomatic relief. Discontinuation or dose reduction is usually reserved for severe, persistent, or unmanageable reactions.",
+    "highYieldPearl": "Rio's Take: EGFR TKI-induced acneiform rash is a common, often dose-independent, and manageable side effect. Initial management includes topical steroids and oral anti-inflammatory antibiotics (e.g., doxycycline), allowing continuation of the TKI.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Discontinuing gefitinib immediately is an overly aggressive approach for a common and usually manageable side effect, depriving the patient of an effective targeted therapy.",
+      "B": "The EGFR TKI rash is generally not dose-dependent, so a 50% dose reduction may not significantly improve the rash while potentially compromising the drug's anti-tumor efficacy.",
+      "C": "This is the correct approach. Symptomatic management with topical corticosteroids, oral anti-inflammatory antibiotics (like doxycycline), and emollients is the standard initial strategy to allow continued effective targeted therapy.",
+      "D": "While a dermatology consultation might be warranted for severe, atypical, or unmanageable rashes, for a classic EGFR TKI-induced acneiform rash, a skin biopsy is not typically the *initial* management step. The clinical presentation is often sufficiently diagnostic."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988504,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_33f93939",
+    "question": "A 55-year-old male with metastatic ALK-rearranged adenocarcinoma of the lung achieved a partial response to alectinib for 15 months. He now presents with increasing shortness of breath, new headaches, and a recent CT scan showing progression of lung lesions and new brain metastases. A biopsy of a new lung lesion confirms adenocarcinoma. Which of the following is the most appropriate next step in managing his disease progression?",
+    "options": {
+      "A": "Switch to a platinum-based chemotherapy regimen with pemetrexed.",
+      "B": "Continue alectinib at the current dose and add stereotactic radiosurgery for brain metastases.",
+      "C": "Perform molecular re-biopsy of the progressive disease for ALK resistance mutations.",
+      "D": "Administer whole brain radiation therapy and consider palliative care."
+    },
+    "correctAnswer": "C",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "In patients with ALK-rearranged NSCLC who develop disease progression after an initial response to an ALK TKI (like alectinib), it is crucial to investigate for mechanisms of acquired resistance. The most common mechanism is the development of secondary ALK resistance mutations (e.g., G1202R, I1171T) or other bypass mechanisms. Performing a molecular re-biopsy (either tissue or liquid biopsy) to identify these resistance mutations allows for selection of a subsequent-generation ALK TKI (e.g., lorlatinib) that may overcome the identified resistance, thereby providing further targeted therapy options and potentially prolonging life.",
+    "highYieldPearl": "Rio's Take: For ALK-rearranged NSCLC progressing on a first-line ALK TKI, always re-biopsy (tissue or liquid) to identify resistance mutations. This can guide selection of a next-generation ALK TKI, extending targeted therapy benefits.",
+    "examStyle": "INI-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "While chemotherapy is an option for ALK-positive NSCLC progressing on a TKI, it is generally reserved for cases where no further actionable mutations or effective targeted options are available. Investigating for resistance mutations first can lead to a more effective targeted second-line therapy.",
+      "B": "Continuing the same ALK TKI (alectinib) in the face of systemic progression is generally ineffective, as resistance has likely developed. Stereotactic radiosurgery addresses the brain metastases locally but does not manage the systemic progression caused by drug resistance.",
+      "C": "This is the correct approach. Identifying specific ALK resistance mutations (or other emergent drivers) via re-biopsy is critical for selecting the most appropriate subsequent targeted therapy, often a next-generation ALK TKI designed to overcome specific resistance mechanisms.",
+      "D": "Whole brain radiation therapy and palliative care are important considerations for managing symptoms, particularly from brain metastases. However, resorting directly to these measures without investigating for targetable resistance mechanisms would prematurely exhaust potentially life-prolonging treatment options with targeted therapies."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988504,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_5c001295",
+    "question": "A 68-year-old male with advanced EGFR exon 19 deletion non-squamous NSCLC responded well to first-line Osimertinib for 2 years. He now presents with symptomatic progression, including new bone metastases. A liquid biopsy detects the EGFR C797S mutation along with the original Exon 19 deletion. Considering this specific molecular finding and the current treatment landscape, which of the following is the most appropriate next step in his management?",
+    "options": {
+      "A": "Switch to a first-generation EGFR TKI (e.g., Gefitinib) given its different binding site.",
+      "B": "Initiate platinum-based chemotherapy with Pemetrexed.",
+      "C": "Combine Osimertinib with a first-generation EGFR TKI (e.g., Afatinib) to overcome resistance.",
+      "D": "Evaluate for clinical trials investigating novel agents or fourth-generation EGFR TKIs specifically targeting C797S mutations."
+    },
+    "correctAnswer": "D",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "The patient developed acquired resistance to Osimertinib, a third-generation EGFR TKI, with the emergence of a C797S mutation. When the C797S mutation appears after Osimertinib treatment, it is almost exclusively found in 'cis' configuration (on the same allele as the original activating mutation, e.g., Exon 19 deletion). This 'cis' configuration renders the tumor resistant to all currently approved first, second, and third-generation EGFR TKIs, as they cannot effectively bind to the mutated receptor. There are no approved targeted therapies for this specific scenario. Therefore, participating in clinical trials for novel agents, including investigational fourth-generation EGFR TKIs designed to overcome C797S resistance (e.g., BLU-9451, BBT-176, D-0316), is considered the most appropriate next step. Chemotherapy remains an option for patients who do not qualify for or are unable to access clinical trials, but given the specific molecular finding, exploring targeted novel therapies is preferred if available.",
+    "highYieldPearl": "Rio's Take: C797S mutation post-Osimertinib typically occurs in *cis* configuration, leading to resistance to all current generations of EGFR TKIs. This is a critical scenario driving the development of 4th-generation TKIs and other novel strategies. Distinguish this from C797S in *trans* (often seen post-1st/2nd gen TKI, T790M, where combinations were explored).",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Incorrect. C797S in *cis* with the activating mutation confers resistance to all generations of EGFR TKIs, including first-generation agents like Gefitinib. Switching to a first-generation TKI would be ineffective.",
+      "B": "Plausible, as chemotherapy is a standard approach for progression after targeted therapy failure. However, the question asks for the *most appropriate* next step *considering this specific molecular finding*. If a targeted approach for C797S is available (via trials), it would be preferred over standard chemotherapy for personalized medicine.",
+      "C": "Incorrect. The combination of a first-generation TKI with a third-generation TKI (like Osimertinib) was primarily explored for C797S mutations in *trans* configuration (where C797S and T790M are on different alleles), which is a rare resistance mechanism occurring after first/second-generation TKIs. When C797S develops after Osimertinib, it is almost exclusively in *cis*, making this combination ineffective.",
+      "D": "Correct. This option correctly identifies the current state-of-the-art management for post-Osimertinib C797S resistance, which currently lacks approved targeted therapies and relies on experimental agents in clinical trials."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988504,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_5f1afe13",
+    "question": "Which of the following statements regarding the management and characteristics of ALK-rearranged Non-Small Cell Lung Cancer (NSCLC) is LEAST accurate?",
+    "options": {
+      "A": "First-generation ALK inhibitors, such as Crizotinib, typically have limited intracranial penetration, necessitating close brain imaging surveillance.",
+      "B": "ALK rearrangements are predominantly found in adenocarcinoma histology, often in younger patients with a minimal or never-smoking history.",
+      "C": "Second-generation ALK inhibitors (e.g., Alectinib, Ceritinib, Brigatinib) are often preferred over Crizotinib as first-line therapy due to superior efficacy and CNS penetration.",
+      "D": "Progression on a first-generation ALK inhibitor mandates switching directly to platinum-based chemotherapy due to rapid development of pan-ALK inhibitor resistance."
+    },
+    "correctAnswer": "D",
+    "topic": "EGFR, ALK, and Other Mutations",
+    "deepDiveExplanation": "The statement that progression on a first-generation ALK inhibitor mandates switching directly to platinum-based chemotherapy is LEAST accurate. When a patient progresses on a first-generation ALK inhibitor like Crizotinib, the standard of care is to switch to a second-generation (e.g., Alectinib, Ceritinib, Brigatinib) or third-generation (Lorlatinib) ALK inhibitor. These newer generation TKIs are often effective in overcoming resistance mechanisms, including various secondary ALK mutations (like G1202R, L1196M) that develop during treatment with first-generation agents. Chemotherapy is typically considered after progression on multiple lines of targeted ALK therapy or if no further actionable mutations or targeted options are available.",
+    "highYieldPearl": "Rio's Take: The sequential use of ALK TKIs (1st gen -> 2nd gen -> 3rd gen) is a cornerstone of ALK+ NSCLC management. Resistance to one TKI does not automatically mean resistance to all, especially with the development of increasingly potent and broader-spectrum inhibitors.",
+    "examStyle": "INI-SS",
+    "difficulty": "difficult",
+    "trapAnalysis": {
+      "A": "Accurate. Crizotinib, a first-generation ALK TKI, has relatively poor blood-brain barrier penetration, making brain metastases a common site of progression and necessitating vigilant surveillance. Newer generation ALK TKIs have improved CNS activity.",
+      "B": "Accurate. This describes the classic epidemiological and histological profile associated with ALK-rearranged NSCLC.",
+      "C": "Accurate. Current guidelines recommend second-generation ALK inhibitors (and in some cases, third-generation Lorlatinib) as first-line therapy over Crizotinib due to demonstrated superior progression-free survival, overall survival, and better control of CNS metastases.",
+      "D": "Least accurate. This is a trap. Progression on a first-generation ALK inhibitor typically prompts a switch to a second or third-generation ALK inhibitor, which can often overcome specific resistance mutations that develop. It does not mandate immediate chemotherapy, as other targeted options are usually available and effective."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988504,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_44b305d0",
+    "question": "A 68-year-old male with recently diagnosed advanced non-small cell lung cancer (NSCLC) presents with dyspnea due to a large right-sided malignant pleural effusion (MPE). He has a poor performance status and a predicted limited life expectancy. Systemic therapy is planned to start next week. After initial therapeutic thoracentesis provides temporary relief, the effusion rapidly recurs within 48 hours. Which of the following is the most appropriate next step for definitive management of his MPE?",
+    "options": {
+      "A": "Insertion of an indwelling pleural catheter (IPC).",
+      "B": "Video-assisted thoracoscopic surgery (VATS) with talc pleurodesis.",
+      "C": "Repeated therapeutic thoracentesis every 3-4 days as needed.",
+      "D": "Surgical decortication to promote lung expansion and subsequent pleurodesis."
+    },
+    "correctAnswer": "A",
+    "topic": "Lung Cancer - Surgical Management",
+    "deepDiveExplanation": "The patient has advanced cancer with a limited life expectancy and rapidly recurring MPE. The primary goal in such patients is symptom relief using the least invasive options that minimize hospital stay. The provided text highlights that IPCs offer effective symptom relief, reduce hospitalization time (often a same-day procedure), and are particularly attractive for patients with advanced cancer due to their outpatient management capability. While talc pleurodesis is a definitive treatment, it typically involves a hospital stay and a more invasive procedure (often VATS), making it less suitable for a patient with poor performance status and limited life expectancy who would benefit most from minimizing hospital time.",
+    "highYieldPearl": "Rio's Take: For MPE in patients with advanced cancer and limited life expectancy, prioritizing symptom relief with minimal invasiveness and reduced hospital stay is crucial. Indwelling pleural catheters (IPCs) are often the preferred 'definitive' management option in this scenario due to their outpatient nature and ability to significantly reduce hospitalization days compared to pleurodesis.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is the most appropriate choice. IPCs offer effective symptom control, are minimally invasive, facilitate outpatient management, and significantly reduce hospital stay, which is ideal for patients with advanced cancer and limited life expectancy. The text explicitly supports this approach.",
+      "B": "Talc pleurodesis via VATS is a definitive treatment for MPE, but it is more invasive, requires a surgical procedure, and typically entails a longer initial hospital stay compared to IPC insertion. While effective, it might not be the 'most appropriate' for a patient with poor performance status and limited life expectancy where minimizing hospital time is a priority.",
+      "C": "The text states that 'Most MPEs recur rapidly and, to avoid frequent drainages, \"definitive\" treatment is preferred.' Given the rapid recurrence within 48 hours, repeated thoracentesis is not a long-term definitive solution and would lead to frequent hospital visits, which is contrary to the goal for this patient.",
+      "D": "Surgical decortication for malignant pleural involvement is generally not recommended. The text explicitly states that 'Limited quality data exist...to support decortication for malignancy, which is known to carry risks of injuring the lung and creating (often prolonged) air leak.' This option is associated with significant risks and is not a standard approach for MPE management in this context."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988504,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_5d64e6a8",
+    "question": "A 55-year-old female with metastatic breast cancer presents with dyspnea due to a large left-sided malignant pleural effusion. After initial drainage, a chest X-ray shows incomplete lung expansion, with a significant residual pleural space. Pleural manometry performed during thoracentesis showed very low pleural pressures throughout the drainage. Which of the following statements regarding the management of this patient's MPE is most accurate?",
+    "options": {
+      "A": "Given the incomplete lung expansion, talc pleurodesis is the preferred next step to prevent recurrence.",
+      "B": "The pleural manometry findings confirm non-expandable lung and support proceeding with surgical decortication.",
+      "C": "An indwelling pleural catheter (IPC) is a more appropriate option than pleurodesis in this scenario.",
+      "D": "Repeated therapeutic thoracentesis is recommended as the lung may expand with time."
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Surgical Management",
+    "deepDiveExplanation": "The chest X-ray revealing incomplete lung expansion despite drainage indicates a 'non-expandable' or 'trapped' lung. Pleurodesis, whether chemical or mechanical, relies on the lung expanding fully to appose the parietal pleura and achieve symphysis. Therefore, pleurodesis is not feasible in the presence of a non-expandable lung. Indwelling pleural catheters (IPCs), however, are effective for MPEs regardless of lung expandability, making them the more appropriate definitive management in this situation. The text specifically mentions that 'Pleurodesis is only feasible if the underlying lung expands sufficiently and comes in contact with the parietal pleura.' It also dismisses the utility of pleural manometry for predicting non-expandable lung, stating 'At present, there is no justification to perform manometry routinely during pleural procedures.'",
+    "highYieldPearl": "Rio's Take: Always assess for lung expansion after initial drainage in MPE. If the lung is 'trapped' or non-expandable, pleurodesis is unlikely to succeed. In such cases, an Indwelling Pleural Catheter (IPC) is the definitive treatment of choice, as its efficacy is independent of lung expansion.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is incorrect. The text explicitly states that 'Pleurodesis is only feasible if the underlying lung expands sufficiently...' and 'Non-expandable (trapped) lung...prohibiting full expansion.' Therefore, talc pleurodesis would likely fail or be ineffective in this scenario.",
+      "B": "This option contains two inaccuracies. Firstly, the text states that 'recent studies have failed to confirm a clinical role of pleural manometry' and that it 'did not accurately predict non-expandable lung'. Secondly, surgical decortication for malignancy is not routinely recommended due to 'Limited quality data exist...to support decortication for malignancy, which is known to carry risks of injuring the lung and creating (often prolonged) air leak'.",
+      "C": "This is the most accurate statement. For patients with a non-expandable lung, IPCs are the preferred definitive management option because they provide symptom relief irrespective of whether the lung can expand and appose the chest wall, unlike pleurodesis.",
+      "D": "While repeated thoracentesis can be used for occasional patients with slow fluid re-accumulation or very short life expectancy, it is not considered a 'definitive' treatment for MPEs, especially when a non-expandable lung often leads to persistent fluid accumulation and symptoms. The text suggests 'definitive' treatment for most MPEs to avoid frequent drainages."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988504,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_9701c708",
+    "question": "A 72-year-old patient with metastatic lung cancer requires definitive management for recurrent malignant pleural effusion. The physician is considering either talc slurry pleurodesis or insertion of an indwelling pleural catheter (IPC). Based on recent randomized controlled trials comparing these two approaches, which of the following statements is most accurate?",
+    "options": {
+      "A": "Talc slurry pleurodesis is generally associated with a shorter initial hospital stay compared to IPC insertion.",
+      "B": "Patients managed with IPCs have a higher likelihood of requiring subsequent pleural drainage procedures.",
+      "C": "IPCs are as effective as talc slurry pleurodesis in providing symptom relief, with the added benefit of reduced hospitalization.",
+      "D": "IPCs are associated with a lower incidence of adverse events over time compared to talc slurry pleurodesis."
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Surgical Management",
+    "deepDiveExplanation": "The provided text, referencing the Australasian Malignant Pleural Effusion-1 and Therapeutic Intervention for Malignant Effusion-2 trials, directly addresses the comparison between IPCs and talc slurry pleurodesis. It states that 'IPCs provide symptom relief as effectively as talc slurry pleurodesis' and that IPCs lead to 'a reduction in hospitalization time,' with patients spending significantly fewer days in the initial hospital stay because IPC insertion is generally a same-day procedure.",
+    "highYieldPearl": "Rio's Take: While both IPCs and pleurodesis offer comparable symptom relief for MPE, IPCs stand out for significantly reducing initial hospital stay and the need for subsequent drainage procedures, despite a higher rate of overall adverse events (like infection/loculation) which are generally manageable with low morbidity.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This statement is incorrect. The text explicitly states that IPC insertion generally leads to 'significantly fewer days in the initial hospital stay' compared to talc slurry pleurodesis, often being a 'same-day procedure.'",
+      "B": "This statement is incorrect. The studies mentioned in the text found that 'the IPC group significantly reduced the need for further pleural drainage procedures' compared to the talc group (6% vs. 22%).",
+      "C": "This statement is accurate and directly supported by the text. 'Several randomized trials have found that IPCs provide symptom relief as effectively as talc slurry pleurodesis' and an 'added benefit of this outpatient approach is a reduction in hospitalization time'.",
+      "D": "This statement is incorrect. The text clearly states that 'the IPC group experienced more adverse events over time,' including IPC-related pleural infections (4–12%) and symptomatic loculations (approximately 10%). While the morbidity from these infections is low, the incidence is higher than with talc pleurodesis."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988504,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_61915801",
+    "question": "A 68-year-old male with stage IV non-small cell lung cancer presents with progressively worsening dyspnea due to a recurrent, symptomatic right-sided malignant pleural effusion. Thoracentesis provides temporary relief, but fluid re-accumulates rapidly. A chest CT scan confirms extensive pleural metastases. After therapeutic thoracentesis, a post-drainage chest X-ray shows persistent collapse of the right lower lobe, indicating a non-expandable lung. Given his limited life expectancy and desire for outpatient management, which of the following is the most appropriate definitive management option for his MPE?",
+    "options": {
+      "A": "Talc slurry pleurodesis",
+      "B": "Surgical decortication",
+      "C": "Repeated therapeutic thoracentesis",
+      "D": "Indwelling Pleural Catheter (IPC) insertion"
+    },
+    "correctAnswer": "D",
+    "topic": "Lung Cancer - Surgical Management",
+    "deepDiveExplanation": "The patient presents with a symptomatic malignant pleural effusion (MPE) and a non-expandable (trapped) lung, along with a desire for outpatient management and limited life expectancy. Talc slurry pleurodesis (Option A) is a definitive treatment, but it requires sufficient lung expansion for successful obliteration of the pleural cavity. Since the patient has a non-expandable lung, pleurodesis is unlikely to be effective. Surgical decortication (Option B) aims to 'free' a trapped lung, but the provided text indicates that there is limited quality data to support decortication for malignancy, and it carries significant risks such as lung injury and prolonged air leaks, making it not the most appropriate first-line definitive management. Repeated therapeutic thoracentesis (Option C) provides temporary relief, but it is not considered a 'definitive' management for rapidly recurring effusions and does not align with minimizing repeated invasive procedures. Indwelling Pleural Catheter (IPC) insertion (Option D) is an excellent choice for this patient. IPCs are effective for symptom relief, do not require the lung to be fully expandable, facilitate outpatient management, and reduce hospital days, aligning well with the patient's preferences and clinical scenario.",
+    "highYieldPearl": "Rio's Take: For malignant pleural effusion with a non-expandable (trapped) lung, an Indwelling Pleural Catheter (IPC) is generally the preferred definitive management option, as pleurodesis requires lung expansion and surgical decortication for malignancy carries high risks with limited evidence.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a common definitive treatment for MPE, but the critical information 'non-expandable lung' contraindicates its use as it requires lung expansion for success.",
+      "B": "Decortication is performed for trapped lung, which might seem logical. However, the context is malignant effusion, and the text explicitly states 'Limited quality data exist, however, to support decortication for malignancy, which is known to carry risks of injuring the lung and creating (often prolonged) air leak', making it an inappropriate 'most appropriate definitive management' choice.",
+      "C": "Repeated thoracentesis provides temporary relief and is mentioned as an option for slow re-accumulation or short life expectancy, but the vignette mentions 'fluid re-accumulates rapidly' and asks for a 'definitive management option', making this a less suitable long-term solution.",
+      "D": "Correct. IPCs are effective in MPE, allow outpatient management, and crucially, are not dependent on lung re-expansion for success, making them ideal for patients with trapped lung."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988504,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_9917996d",
+    "question": "A 72-year-old female with metastatic lung adenocarcinoma develops a large, symptomatic malignant pleural effusion. She has a good performance status and desires a definitive management strategy that minimizes her time spent in the hospital and reduces the need for future invasive procedures. Considering the evidence from recent randomized controlled trials comparing definitive MPE management options, which statement accurately reflects the advantages of Indwelling Pleural Catheters (IPCs) over talc slurry pleurodesis?",
+    "options": {
+      "A": "IPCs have a lower incidence of adverse events, including pleural infections and loculations.",
+      "B": "IPCs are more effective in providing symptom relief and improving quality of life.",
+      "C": "IPCs lead to significantly fewer days in the hospital and reduce the need for further pleural drainage procedures.",
+      "D": "IPCs are primarily recommended for patients with short life expectancy or non-expandable lung, while talc pleurodesis is for those with longer prognosis."
+    },
+    "correctAnswer": "C",
+    "topic": "Lung Cancer - Surgical Management",
+    "deepDiveExplanation": "This question directly tests the comparative outcomes of IPCs versus talc slurry pleurodesis based on the provided text. Option A is incorrect because the text explicitly states that 'the IPC group experienced more adverse events over time' (e.g., pleural infections 4–12% and symptomatic loculations approximately 10%). Option B is incorrect because randomized trials have found that IPCs provide symptom relief 'as effectively' as talc slurry pleurodesis and 'improve patients' quality of life,' not 'more effective.' Option D incorrectly generalizes the indications; while IPCs are suitable for non-expandable lung, the distinction between IPC and talc based on 'short' vs. 'longer' prognosis is not a primary differentiating factor in the general recommendation, as both are definitive treatments. Option C is correct. The Australasian Malignant Pleural Effusion-1 and Therapeutic Intervention for Malignant Effusion-2 trials consistently demonstrated that IPCs lead to 'significantly fewer days in the initial hospital stay' and an overall 'reduction in hospitalization time' compared to talc pleurodesis (e.g., 3.6 fewer days in remaining life). Furthermore, both studies found that IPC use 'significantly reduced the need for further pleural drainage procedures' compared to the talc group.",
+    "highYieldPearl": "Rio's Take: While IPCs may have a higher rate of certain adverse events like infection, their significant advantages in reducing hospital stay and the need for future pleural procedures often make them a preferred choice for MPE, especially when outpatient management is desired.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "This is a common misconception, as an outpatient procedure might intuitively seem to have fewer complications. However, the text clearly states IPCs had 'more adverse events over time' including infections and loculations.",
+      "B": "Both IPC and talc pleurodesis are effective. The text states IPCs provide symptom relief 'as effectively' as talc, not 'more effective'.",
+      "C": "Correct. This statement directly reflects the findings of multiple randomized trials cited in the text regarding reduced hospital stay and fewer subsequent procedures for IPCs compared to talc pleurodesis.",
+      "D": "While IPCs are indeed suitable for non-expandable lung, the statement attempts to draw a general distinction for life expectancy that isn't the primary differentiator for choosing between IPC and talc based on the provided text. Both are definitive options."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988504,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "id": "rag_lung_cancer_epi_7abbaadd",
+    "question": "A 55-year-old patient with newly diagnosed non-small cell lung cancer presents with a symptomatic malignant pleural effusion. Biopsy of the pleural fluid confirms adenocarcinoma. Given the potential for response to targeted systemic therapy, initial management involves therapeutic thoracentesis. However, the effusion recurs within a week. The patient's physician is considering definitive management options. Based on current guidelines and evidence, which of the following statements regarding the management of recurrent MPE is TRUE?",
+    "options": {
+      "A": "Pleural manometry during thoracentesis is recommended to predict non-expandable lung and guide definitive treatment choice.",
+      "B": "Radiation therapy targeting the pleura is an effective definitive option for controlling recurrent MPE.",
+      "C": "Surgical decortication is the preferred treatment for trapped lung in patients with malignant pleural effusion.",
+      "D": "Pleurodesis requires sufficient lung expansion for successful obliteration of the pleural cavity."
+    },
+    "correctAnswer": "D",
+    "topic": "Lung Cancer - Surgical Management",
+    "deepDiveExplanation": "This question assesses the understanding of various MPE management principles. Option A is false; the text explicitly states, 'At present, there is no justification to perform manometry routinely during pleural procedures' as studies have failed to confirm its clinical role in predicting non-expandable lung or preventing symptoms. Option B is false; the text clearly states, 'Radiation therapy is not useful for MPE management because tumor involvement of the underlying pleura is generally extensive. Irradiation of the entire parietal, pleural, and diaphragmatic pleura is not practical.' Option C is false; while surgical decortication addresses trapped lung, the text highlights, 'Limited quality data exist, however, to support decortication for malignancy, which is known to carry risks of injuring the lung and creating (often prolonged) air leak.' Therefore, it is not the 'preferred' treatment for malignant trapped lung. Option D is true; the text specifies, 'Pleurodesis is only feasible if the underlying lung expands sufficiently and comes in contact with the parietal pleura.' This is a critical prerequisite for the success of pleurodesis.",
+    "highYieldPearl": "Rio's Take: Fundamental to pleurodesis success is full lung expansion. Be cautious of 'novel' techniques like pleural manometry for MPE as their utility may not be established, and remember radiation's limitations for extensive pleural disease.",
+    "examStyle": "NEET-SS",
+    "difficulty": "moderate",
+    "trapAnalysis": {
+      "A": "Plausible as manometry sounds like a diagnostic tool. However, the text explicitly refutes its clinical role in predicting non-expandable lung or guiding treatment in MPE.",
+      "B": "Plausible as radiation is a cancer treatment. However, for diffuse pleural involvement in MPE, the text states it is 'not useful' due to impracticality of irradiating the entire pleura.",
+      "C": "Plausible as decortication is a surgical procedure for 'trapped lung'. However, the text qualifies its use in *malignancy* due to limited data and significant risks, making it not the 'preferred' option.",
+      "D": "Correct. This is a fundamental principle of pleurodesis, clearly stated in the text. Without lung expansion, the pleura cannot adhere, and the procedure will fail."
+    },
+    "sourceLocation": {
+      "bookName": "MurrayNadel_Section_12_OCR",
+      "chapter": "**PNEUMOCONIOSES**",
+      "section": "References (continued)",
+      "pageNumber": 41
+    },
+    "bookId": "MurrayNadel_Section_12_OCR",
+    "chunkId": "MurrayNadel_Section_12_OCR_chunk_119",
+    "generatedAt": 1767060988504,
+    "timesAttempted": 0,
+    "correctAttempts": 0,
+    "isBundled": true
+  },
+  {
+    "question": "Globally, lung cancer is the leading cause of cancer-related mortality in which gender?",
+    "options": {
+      "A": "Males only",
+      "B": "Females only",
+      "C": "Both males and females",
+      "D": "Neither"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_epi",
+    "deepDiveExplanation": "Lung cancer accounts for the highest number of cancer-related deaths worldwide, surpassing breast, colorectal, and prostate cancers combined. This epidemiological fact holds true for both men and women globally.",
+    "highYieldPearl": "Lung cancer is the #1 cancer killer worldwide for both genders, highlighting its immense public health burden.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While historically more prevalent in men, the incidence and mortality in women have risen significantly, making 'Both males and females' the correct answer. Options A and B are historical or partial truths.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_epi_r399g412"
+  },
+  {
+    "question": "The most common histological subtype of lung cancer globally is?",
+    "options": {
+      "A": "Squamous cell carcinoma",
+      "B": "Adenocarcinoma",
+      "C": "Small cell lung cancer",
+      "D": "Large cell neuroendocrine carcinoma"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_cancer_epi",
+    "deepDiveExplanation": "Adenocarcinoma has surpassed squamous cell carcinoma as the most common subtype of non-small cell lung cancer (NSCLC) and overall lung cancer, accounting for approximately 40% of cases. Its incidence has increased, particularly in women and non-smokers, and it is often found peripherally.",
+    "highYieldPearl": "Adenocarcinoma is the most common lung cancer type, especially in non-smokers and women, often presenting peripherally.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Historically, squamous cell carcinoma was more common, especially in heavy smokers. However, epidemiological shifts in smoking patterns and diagnostic advancements have made adenocarcinoma the predominant type. SCLC is distinct and accounts for about 15% of cases.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_epi_dgagm74c"
+  },
+  {
+    "question": "The single most significant modifiable risk factor for lung cancer is?",
+    "options": {
+      "A": "Asbestos exposure",
+      "B": "Radon exposure",
+      "C": "Active cigarette smoking",
+      "D": "Air pollution"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_epi",
+    "deepDiveExplanation": "Active cigarette smoking is unequivocally the strongest risk factor for lung cancer, accounting for approximately 85-90% of all cases. The risk is dose-dependent, increasing with the number of cigarettes smoked and duration of smoking. Cessation significantly reduces risk over time.",
+    "highYieldPearl": "Cigarette smoking is the paramount modifiable risk factor, responsible for the vast majority of lung cancer cases.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While asbestos, radon, and air pollution are significant risk factors, none approach the attributable risk of active cigarette smoking. The term 'single most significant' points directly to smoking.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_epi_uc8n0jj4"
+  },
+  {
+    "question": "What is considered the second leading cause of lung cancer in non-smokers?",
+    "options": {
+      "A": "Asbestos",
+      "B": "Radon exposure",
+      "C": "Secondhand smoke",
+      "D": "Air pollution"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_cancer_epi",
+    "deepDiveExplanation": "Radon, a naturally occurring radioactive gas, is the leading cause of lung cancer in non-smokers and the second leading cause overall after cigarette smoking. It decays into radioactive particles that can damage lung tissue when inhaled.",
+    "highYieldPearl": "Radon is the #1 lung cancer risk for non-smokers and #2 overall, highlighting indoor environmental exposure importance.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Secondhand smoke is also a significant risk factor for non-smokers, but radon generally accounts for more cases. Asbestos is a strong occupational risk, and air pollution is a broader environmental risk, but radon takes precedence as the 'second leading cause'.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_epi_u93qujzh"
+  },
+  {
+    "question": "Which occupational exposure is strongly associated with both lung cancer and mesothelioma?",
+    "options": {
+      "A": "Silica",
+      "B": "Cadmium",
+      "C": "Asbestos",
+      "D": "Arsenic"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_epi",
+    "deepDiveExplanation": "Asbestos exposure is a well-established occupational carcinogen, strongly linked to both lung cancer (primarily adenocarcinoma and squamous cell carcinoma) and malignant mesothelioma, a rare cancer of the pleura or peritoneum. The risk for lung cancer is significantly potentiated by cigarette smoking.",
+    "highYieldPearl": "Asbestos is the unique occupational hazard causing both lung cancer (synergistic with smoking) and mesothelioma.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While silica (silicosis, lung cancer), cadmium, and arsenic are also occupational lung carcinogens, only asbestos is specifically linked to both lung cancer and mesothelioma, making it the distinct answer.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_epi_r2zxbyyw"
+  },
+  {
+    "question": "Which risk factor demonstrates a synergistic effect with cigarette smoking for lung cancer development?",
+    "options": {
+      "A": "Air pollution",
+      "B": "Radon exposure",
+      "C": "Human papillomavirus",
+      "D": "Genetic predisposition"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_cancer_epi",
+    "deepDiveExplanation": "The risk of lung cancer from radon exposure is significantly multiplied (synergistic effect) in individuals who also smoke cigarettes. For example, a smoker exposed to radon has a much higher risk than the sum of risks from smoking alone and radon alone.",
+    "highYieldPearl": "Radon exposure plus smoking creates a powerful synergistic risk, not merely additive, for lung cancer.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "While all options might increase risk in some context, the synergistic interaction (where the combined effect is greater than the sum of individual effects) is a classic finding for radon and smoking. Asbestos also has a synergistic effect with smoking, but it was not an option here.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_epi_8okh4g1n"
+  },
+  {
+    "question": "Which histological subtype of lung cancer is most strongly and almost exclusively linked to cigarette smoking?",
+    "options": {
+      "A": "Adenocarcinoma",
+      "B": "Squamous cell carcinoma",
+      "C": "Small cell lung cancer",
+      "D": "Large cell carcinoma"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_epi",
+    "deepDiveExplanation": "Small cell lung cancer (SCLC) has the strongest association with cigarette smoking, with over 95% of SCLC cases occurring in current or former smokers. It is rare in never-smokers. Squamous cell carcinoma also has a very strong link but is not as exclusively tied to smoking as SCLC.",
+    "highYieldPearl": "SCLC is virtually synonymous with heavy smoking; finding it in a never-smoker is exceedingly rare.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "While squamous cell carcinoma is also strongly associated with smoking, SCLC's link is nearly exclusive. Adenocarcinoma is the most common type in non-smokers, making A incorrect for this question.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_epi_3jmd4j1t"
+  },
+  {
+    "question": "Beta-carotene supplementation has shown increased lung cancer risk in which population?",
+    "options": {
+      "A": "Non-smokers",
+      "B": "Former smokers",
+      "C": "Active smokers",
+      "D": "Individuals with COPD"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_epi",
+    "deepDiveExplanation": "Several large randomized controlled trials (e.g., CARET, ATBC) demonstrated that high-dose beta-carotene supplementation actually increased the risk of lung cancer (and cardiovascular mortality) in active heavy smokers and asbestos-exposed individuals, contrary to initial hopes of a protective effect.",
+    "highYieldPearl": "Beta-carotene supplements are contraindicated in active smokers due to increased lung cancer risk.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "This is a classic 'paradoxical finding' in epidemiology. While antioxidants are generally perceived as beneficial, this study found harm in a specific high-risk group. This makes 'Active smokers' the critical distinguishing factor.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_epi_mcwsi8rw"
+  },
+  {
+    "question": "Which chronic pulmonary condition is a recognized risk factor for lung adenocarcinoma?",
+    "options": {
+      "A": "Asthma",
+      "B": "Chronic bronchitis",
+      "C": "Idiopathic pulmonary fibrosis",
+      "D": "Bronchiectasis"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_epi",
+    "deepDiveExplanation": "Idiopathic pulmonary fibrosis (IPF) is a significant independent risk factor for lung cancer, particularly adenocarcinoma. The chronic inflammation, oxidative stress, and repetitive injury-repair cycles in the fibrotic lung are thought to contribute to malignant transformation. The lifetime risk of lung cancer in IPF patients is estimated to be 5-10 times higher than the general population.",
+    "highYieldPearl": "IPF is a strong independent risk factor for lung cancer, often adenocarcinoma, due to chronic inflammation and scarring.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "While other chronic lung diseases might have some association, IPF carries a particularly high and well-established risk for lung cancer, especially adenocarcinoma, often referred to as 'scar carcinoma'.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_epi_iczil4rt"
+  },
+  {
+    "question": "Passive smoking is associated with an increased risk primarily for which lung cancer subtype?",
+    "options": {
+      "A": "Squamous cell carcinoma",
+      "B": "Small cell lung cancer",
+      "C": "Adenocarcinoma",
+      "D": "Large cell carcinoma"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_epi",
+    "deepDiveExplanation": "Passive smoking (exposure to secondhand smoke) is an established cause of lung cancer, with an estimated 20-30% increased risk for non-smokers exposed to it. Epidemiological studies suggest that adenocarcinoma is the most commonly observed histological subtype in lung cancers linked to passive smoking, mirroring the pattern seen in never-smokers who develop lung cancer.",
+    "highYieldPearl": "Passive smoking increases lung cancer risk, predominantly adenocarcinoma, reflecting the type seen in non-smokers.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "While passive smoking increases the risk of lung cancer generally, its association is strongest with adenocarcinoma, similar to the pattern seen in active non-smokers. Squamous and small cell carcinomas are much more strongly linked to active smoking.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_epi_81wbkwvr"
+  },
+  {
+    "question": "Globally, lung cancer is the leading cause of cancer-related mortality in which gender?",
+    "options": {
+      "A": "Males only",
+      "B": "Females only",
+      "C": "Both males and females",
+      "D": "Neither"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_epi",
+    "deepDiveExplanation": "Lung cancer accounts for the highest number of cancer-related deaths worldwide, surpassing breast, colorectal, and prostate cancers combined. This epidemiological fact holds true for both men and women globally.",
+    "highYieldPearl": "Lung cancer is the #1 cancer killer worldwide for both genders, highlighting its immense public health burden.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While historically more prevalent in men, the incidence and mortality in women have risen significantly, making 'Both males and females' the correct answer. Options A and B are historical or partial truths.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_epi_knnsyh5o"
+  },
+  {
+    "question": "The most common histological subtype of lung cancer globally is?",
+    "options": {
+      "A": "Squamous cell carcinoma",
+      "B": "Adenocarcinoma",
+      "C": "Small cell lung cancer",
+      "D": "Large cell neuroendocrine carcinoma"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_cancer_epi",
+    "deepDiveExplanation": "Adenocarcinoma has surpassed squamous cell carcinoma as the most common subtype of non-small cell lung cancer (NSCLC) and overall lung cancer, accounting for approximately 40% of cases. Its incidence has increased, particularly in women and non-smokers, and it is often found peripherally.",
+    "highYieldPearl": "Adenocarcinoma is the most common lung cancer type, especially in non-smokers and women, often presenting peripherally.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Historically, squamous cell carcinoma was more common, especially in heavy smokers. However, epidemiological shifts in smoking patterns and diagnostic advancements have made adenocarcinoma the predominant type. SCLC is distinct and accounts for about 15% of cases.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_epi_u2t5nhd4"
+  },
+  {
+    "question": "The single most significant modifiable risk factor for lung cancer is?",
+    "options": {
+      "A": "Asbestos exposure",
+      "B": "Radon exposure",
+      "C": "Active cigarette smoking",
+      "D": "Air pollution"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_epi",
+    "deepDiveExplanation": "Active cigarette smoking is unequivocally the strongest risk factor for lung cancer, accounting for approximately 85-90% of all cases. The risk is dose-dependent, increasing with the number of cigarettes smoked and duration of smoking. Cessation significantly reduces risk over time.",
+    "highYieldPearl": "Cigarette smoking is the paramount modifiable risk factor, responsible for the vast majority of lung cancer cases.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While asbestos, radon, and air pollution are significant risk factors, none approach the attributable risk of active cigarette smoking. The term 'single most significant' points directly to smoking.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_epi_mgy2tv78"
+  },
+  {
+    "question": "What is considered the second leading cause of lung cancer in non-smokers?",
+    "options": {
+      "A": "Asbestos",
+      "B": "Radon exposure",
+      "C": "Secondhand smoke",
+      "D": "Air pollution"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_cancer_epi",
+    "deepDiveExplanation": "Radon, a naturally occurring radioactive gas, is the leading cause of lung cancer in non-smokers and the second leading cause overall after cigarette smoking. It decays into radioactive particles that can damage lung tissue when inhaled.",
+    "highYieldPearl": "Radon is the #1 lung cancer risk for non-smokers and #2 overall, highlighting indoor environmental exposure importance.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "Secondhand smoke is also a significant risk factor for non-smokers, but radon generally accounts for more cases. Asbestos is a strong occupational risk, and air pollution is a broader environmental risk, but radon takes precedence as the 'second leading cause'.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_epi_yeovs1hx"
+  },
+  {
+    "question": "Which occupational exposure is strongly associated with both lung cancer and mesothelioma?",
+    "options": {
+      "A": "Silica",
+      "B": "Cadmium",
+      "C": "Asbestos",
+      "D": "Arsenic"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_epi",
+    "deepDiveExplanation": "Asbestos exposure is a well-established occupational carcinogen, strongly linked to both lung cancer (primarily adenocarcinoma and squamous cell carcinoma) and malignant mesothelioma, a rare cancer of the pleura or peritoneum. The risk for lung cancer is significantly potentiated by cigarette smoking.",
+    "highYieldPearl": "Asbestos is the unique occupational hazard causing both lung cancer (synergistic with smoking) and mesothelioma.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While silica (silicosis, lung cancer), cadmium, and arsenic are also occupational lung carcinogens, only asbestos is specifically linked to both lung cancer and mesothelioma, making it the distinct answer.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_epi_v08idl87"
+  },
+  {
+    "question": "Which risk factor demonstrates a synergistic effect with cigarette smoking for lung cancer development?",
+    "options": {
+      "A": "Air pollution",
+      "B": "Radon exposure",
+      "C": "Human papillomavirus",
+      "D": "Genetic predisposition"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_cancer_epi",
+    "deepDiveExplanation": "The risk of lung cancer from radon exposure is significantly multiplied (synergistic effect) in individuals who also smoke cigarettes. For example, a smoker exposed to radon has a much higher risk than the sum of risks from smoking alone and radon alone.",
+    "highYieldPearl": "Radon exposure plus smoking creates a powerful synergistic risk, not merely additive, for lung cancer.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "While all options might increase risk in some context, the synergistic interaction (where the combined effect is greater than the sum of individual effects) is a classic finding for radon and smoking. Asbestos also has a synergistic effect with smoking, but it was not an option here.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_epi_jl7fjqcm"
+  },
+  {
+    "question": "Which histological subtype of lung cancer is most strongly and almost exclusively linked to cigarette smoking?",
+    "options": {
+      "A": "Adenocarcinoma",
+      "B": "Squamous cell carcinoma",
+      "C": "Small cell lung cancer",
+      "D": "Large cell carcinoma"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_epi",
+    "deepDiveExplanation": "Small cell lung cancer (SCLC) has the strongest association with cigarette smoking, with over 95% of SCLC cases occurring in current or former smokers. It is rare in never-smokers. Squamous cell carcinoma also has a very strong link but is not as exclusively tied to smoking as SCLC.",
+    "highYieldPearl": "SCLC is virtually synonymous with heavy smoking; finding it in a never-smoker is exceedingly rare.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "While squamous cell carcinoma is also strongly associated with smoking, SCLC's link is nearly exclusive. Adenocarcinoma is the most common type in non-smokers, making A incorrect for this question.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_epi_laoj1305"
+  },
+  {
+    "question": "Beta-carotene supplementation has shown increased lung cancer risk in which population?",
+    "options": {
+      "A": "Non-smokers",
+      "B": "Former smokers",
+      "C": "Active smokers",
+      "D": "Individuals with COPD"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_epi",
+    "deepDiveExplanation": "Several large randomized controlled trials (e.g., CARET, ATBC) demonstrated that high-dose beta-carotene supplementation actually increased the risk of lung cancer (and cardiovascular mortality) in active heavy smokers and asbestos-exposed individuals, contrary to initial hopes of a protective effect.",
+    "highYieldPearl": "Beta-carotene supplements are contraindicated in active smokers due to increased lung cancer risk.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Hard",
+    "trapAnalysis": "This is a classic 'paradoxical finding' in epidemiology. While antioxidants are generally perceived as beneficial, this study found harm in a specific high-risk group. This makes 'Active smokers' the critical distinguishing factor.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_epi_08x0noo1"
+  },
+  {
+    "question": "Which chronic pulmonary condition is a recognized risk factor for lung adenocarcinoma?",
+    "options": {
+      "A": "Asthma",
+      "B": "Chronic bronchitis",
+      "C": "Idiopathic pulmonary fibrosis",
+      "D": "Bronchiectasis"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_epi",
+    "deepDiveExplanation": "Idiopathic pulmonary fibrosis (IPF) is a significant independent risk factor for lung cancer, particularly adenocarcinoma. The chronic inflammation, oxidative stress, and repetitive injury-repair cycles in the fibrotic lung are thought to contribute to malignant transformation. The lifetime risk of lung cancer in IPF patients is estimated to be 5-10 times higher than the general population.",
+    "highYieldPearl": "IPF is a strong independent risk factor for lung cancer, often adenocarcinoma, due to chronic inflammation and scarring.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "While other chronic lung diseases might have some association, IPF carries a particularly high and well-established risk for lung cancer, especially adenocarcinoma, often referred to as 'scar carcinoma'.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_epi_2nkvm5fm"
+  },
+  {
+    "question": "Passive smoking is associated with an increased risk primarily for which lung cancer subtype?",
+    "options": {
+      "A": "Squamous cell carcinoma",
+      "B": "Small cell lung cancer",
+      "C": "Adenocarcinoma",
+      "D": "Large cell carcinoma"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_cancer_epi",
+    "deepDiveExplanation": "Passive smoking (exposure to secondhand smoke) is an established cause of lung cancer, with an estimated 20-30% increased risk for non-smokers exposed to it. Epidemiological studies suggest that adenocarcinoma is the most commonly observed histological subtype in lung cancers linked to passive smoking, mirroring the pattern seen in never-smokers who develop lung cancer.",
+    "highYieldPearl": "Passive smoking increases lung cancer risk, predominantly adenocarcinoma, reflecting the type seen in non-smokers.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Moderate",
+    "trapAnalysis": "While passive smoking increases the risk of lung cancer generally, its association is strongest with adenocarcinoma, similar to the pattern seen in active non-smokers. Squamous and small cell carcinomas are much more strongly linked to active smoking.",
+    "isOneLiner": true,
+    "id": "one_liner_lung_cancer_epi_djxjihr7"
+  }
+]

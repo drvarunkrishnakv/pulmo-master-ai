@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Which lung volume cannot be directly measured by standard spirometry?",
+    "options": {
+      "A": "Tidal Volume",
+      "B": "Inspiratory Reserve Volume",
+      "C": "Expiratory Reserve Volume",
+      "D": "Residual Volume"
+    },
+    "correctAnswer": "D",
+    "topic": "lung_volumes",
+    "deepDiveExplanation": "Residual Volume (RV) is the volume of air remaining in the lungs after a maximal exhalation. Since it cannot be exhaled, it cannot be measured by simple spirometry. Consequently, capacities that include RV (Functional Residual Capacity and Total Lung Capacity) also cannot be directly measured by spirometry.",
+    "highYieldPearl": "RV, FRC, and TLC require indirect methods such as helium dilution, nitrogen washout, or body plethysmography for measurement.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "Students might confuse volumes directly measured with capacities that include RV, like FRC or TLC, which are also not directly measured but are derived from RV.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_volumes|Lung Volumes and Flow-Volume Loops|10_p6ypq69f"
+  },
+  {
+    "question": "The gold standard for measuring Functional Residual Capacity (FRC) in patients with severe airflow obstruction is?",
+    "options": {
+      "A": "Helium dilution",
+      "B": "Nitrogen washout",
+      "C": "Body plethysmography",
+      "D": "Chest X-ray"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_volumes",
+    "deepDiveExplanation": "Body plethysmography measures FRC by applying Boyle's law (P1V1=P2V2). It measures all gas in the chest, including trapped air and gas in non-communicating airways, making it more accurate in severe obstruction compared to gas dilution methods which only measure communicating volumes.",
+    "highYieldPearl": "Gas dilution methods (Helium dilution, Nitrogen washout) underestimate FRC in obstructive diseases due to trapped gas in poorly communicating lung units.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Helium dilution is a common method, but it's not the *gold standard* for patients with severe obstruction because it underestimates FRC in such cases.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_volumes|Lung Volumes and Flow-Volume Loops|10_58jae1kf"
+  },
+  {
+    "question": "A fixed large airway obstruction typically presents with what characteristic flow-volume loop morphology?",
+    "options": {
+      "A": "Scalloped expiratory limb",
+      "B": "Flattening of both inspiratory and expiratory limbs",
+      "C": "Flattening of inspiratory limb only",
+      "D": "Peak flow shifted left"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_volumes",
+    "deepDiveExplanation": "In fixed large airway obstruction, the obstruction is constant regardless of transpulmonary pressure changes during inspiration or expiration. This results in proportional reduction and flattening of both the inspiratory and expiratory limbs of the flow-volume loop.",
+    "highYieldPearl": "Fixed obstruction examples include tracheal stenosis, goiter, or a foreign body. Variable extrathoracic obstruction causes inspiratory flattening, while variable intrathoracic obstruction causes expiratory flattening.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Distinguishing fixed from variable obstructions based on which limb is flattened (inspiratory, expiratory, or both) is key for interpreting flow-volume loops.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_volumes|Lung Volumes and Flow-Volume Loops|10_raxbmwe4"
+  },
+  {
+    "question": "Which lung volume is typically increased in obstructive lung diseases like emphysema?",
+    "options": {
+      "A": "Inspiratory Capacity",
+      "B": "Vital Capacity",
+      "C": "Residual Volume",
+      "D": "Expiratory Reserve Volume"
+    },
+    "correctAnswer": "C",
+    "topic": "lung_volumes",
+    "deepDiveExplanation": "In obstructive diseases, air trapping occurs due to premature airway closure and loss of elastic recoil. This leads to an increased residual volume (RV), which is the air remaining after maximal exhalation, and often an increased total lung capacity (TLC).",
+    "highYieldPearl": "Increased RV is a hallmark of air trapping and hyperinflation in obstructive lung diseases, reflecting the inability to fully empty the lungs.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While TLC can also be increased, RV is a more direct indicator of air trapping and is always increased in significant obstructive disease. Vital Capacity (VC) is often decreased.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_volumes|Lung Volumes and Flow-Volume Loops|10_otjtzwci"
+  },
+  {
+    "question": "A restrictive lung disease typically presents with what characteristic flow-volume loop morphology?",
+    "options": {
+      "A": "Reduced peak flow with concave expiratory limb",
+      "B": "Tall and narrow loop",
+      "C": "Flattening of inspiratory limb",
+      "D": "Flattening of expiratory limb"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_volumes",
+    "deepDiveExplanation": "In restrictive diseases, lung volumes are reduced proportionally. The flow-volume loop maintains its characteristic shape but is scaled down, appearing 'tall and narrow' due to reduced Total Lung Capacity (TLC) and Vital Capacity (VC), but often with preserved or even increased flow rates relative to lung volume.",
+    "highYieldPearl": "Reduced TLC is the defining characteristic of restrictive lung disease, leading to a smaller, but often proportionally shaped, flow-volume loop.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "The shape itself isn't distorted like in obstructive patterns; it's just smaller overall, indicating reduced lung volumes.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_volumes|Lung Volumes and Flow-Volume Loops|10_8g8fdabf"
+  },
+  {
+    "question": "A FEV1/FVC ratio less than 70% (or below LLN) indicates what physiological abnormality?",
+    "options": {
+      "A": "Restrictive ventilatory defect",
+      "B": "Obstructive ventilatory defect",
+      "C": "Reduced lung compliance",
+      "D": "Increased lung elasticity"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_volumes",
+    "deepDiveExplanation": "The FEV1/FVC ratio is the primary spirometric indicator of airflow obstruction. A value below the lower limit of normal (LLN) or a fixed ratio of <0.7 (as per GOLD criteria) is diagnostic of an obstructive ventilatory defect.",
+    "highYieldPearl": "FEV1/FVC is the most crucial ratio for differentiating obstructive from restrictive patterns in spirometry.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While reduced FVC can occur in both obstructive and restrictive diseases, it's the *ratio* of FEV1 to FVC that specifically points to obstruction.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_volumes|Lung Volumes and Flow-Volume Loops|10_30taryf6"
+  },
+  {
+    "question": "Which statement is true regarding the nitrogen washout method for FRC measurement?",
+    "options": {
+      "A": "It measures trapped gas accurately",
+      "B": "It requires a closed-circuit system",
+      "C": "It relies on Boyle's Law",
+      "D": "It underestimates FRC in severe obstruction"
+    },
+    "correctAnswer": "D",
+    "topic": "lung_volumes",
+    "deepDiveExplanation": "The nitrogen washout method involves breathing 100% oxygen to wash out nitrogen from the lungs. It measures only the gas in communicating airways. In severe obstruction, trapped gas in non-communicating areas is not measured, leading to an underestimation of FRC.",
+    "highYieldPearl": "Gas dilution methods (Helium dilution, Nitrogen washout) are less accurate than body plethysmography in severe obstructive lung disease due to the presence of trapped air.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "The key is understanding the limitation of gas dilution methods; they only measure communicating lung volumes, missing trapped air.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_volumes|Lung Volumes and Flow-Volume Loops|10_8199mmjq"
+  },
+  {
+    "question": "The effort-independent portion of the expiratory flow-volume loop is primarily determined by?",
+    "options": {
+      "A": "Muscular effort",
+      "B": "Airway resistance and elastic recoil",
+      "C": "Inspiratory muscle strength",
+      "D": "Upper airway patency"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_volumes",
+    "deepDiveExplanation": "During forced expiration, after the initial peak flow, the flow becomes effort-independent. This segment is determined by the dynamic compression of airways (due to intrathoracic pressure) and the elastic recoil of the lung, which drives the airflow against airway resistance.",
+    "highYieldPearl": "The shape of the effort-independent portion (e.g., FEF25-75%) is crucial for detecting small airway disease, as it reflects the intrinsic properties of the lung and airways.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "While initial peak flow is effort-dependent, the later part of expiration is not, due to dynamic airway compression limiting flow even with maximal effort.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_volumes|Lung Volumes and Flow-Volume Loops|10_qyrgi8s7"
+  },
+  {
+    "question": "Increased airway resistance primarily manifests on a flow-volume loop as?",
+    "options": {
+      "A": "Decreased inspiratory flow",
+      "B": "Decreased expiratory flow and a concave pattern",
+      "C": "Increased lung volumes proportionally",
+      "D": "Flattening of the inspiratory limb"
+    },
+    "correctAnswer": "B",
+    "topic": "lung_volumes",
+    "deepDiveExplanation": "Increased airway resistance, as seen in obstructive diseases, leads to difficulty in exhaling air. This results in reduced expiratory flow rates, a characteristic 'scalloped' or concave appearance of the expiratory limb, and often an increased residual volume/total lung capacity.",
+    "highYieldPearl": "Concavity of the expiratory limb is a classic spirometric sign of obstructive lung disease, reflecting dynamic airway collapse and increased resistance.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "While inspiratory flow might be affected in some obstructive conditions, the primary and most pronounced effect of increased airway resistance is on expiration.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_volumes|Lung Volumes and Flow-Volume Loops|10_wf3o27gq"
+  },
+  {
+    "question": "Which spirometric parameter is considered the most sensitive indicator of small airway disease?",
+    "options": {
+      "A": "FEV1",
+      "B": "FVC",
+      "C": "PEF",
+      "D": "FEF25-75%"
+    },
+    "correctAnswer": "D",
+    "topic": "lung_volumes",
+    "deepDiveExplanation": "FEF25-75% (Forced Expiratory Flow between 25% and 75% of FVC) measures flow rates during the middle portion of forced expiration, which is largely effort-independent and reflects the patency of the small airways. It is often abnormal even when FEV1 is still relatively preserved.",
+    "highYieldPearl": "FEF25-75% is often the first parameter to show abnormality in early obstructive diseases affecting the small airways, before larger airway involvement significantly reduces FEV1.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "FEV1 and PEF are more reflective of large airway function and overall airflow, though they are also reduced in more advanced small airway disease.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|lung_volumes|Lung Volumes and Flow-Volume Loops|10_obucfo6l"
+  }
+]

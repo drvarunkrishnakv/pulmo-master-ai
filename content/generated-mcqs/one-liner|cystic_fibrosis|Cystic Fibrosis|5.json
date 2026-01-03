@@ -1,0 +1,92 @@
+[
+  {
+    "question": "The primary genetic defect in Cystic Fibrosis involves which gene?",
+    "options": {
+      "A": "SCN5A",
+      "B": "CFTR",
+      "C": "ENaC",
+      "D": "Alpha-1 antitrypsin"
+    },
+    "correctAnswer": "B",
+    "topic": "cystic_fibrosis",
+    "deepDiveExplanation": "Cystic Fibrosis (CF) is an autosomal recessive disorder caused by mutations in the Cystic Fibrosis Transmembrane conductance Regulator (CFTR) gene, located on chromosome 7. This gene encodes a protein that functions as a chloride channel, primarily in epithelial cells, and its dysfunction leads to the characteristic thick, sticky secretions.",
+    "highYieldPearl": "CFTR gene mutation is the root cause of Cystic Fibrosis, leading to defective chloride transport.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "SCN5A and ENaC are related to ion channels but are not the primary genetic defect in CF. Alpha-1 antitrypsin deficiency causes a distinct lung and liver disease.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|cystic_fibrosis|Cystic Fibrosis|5_kx9attdi"
+  },
+  {
+    "question": "Class II CFTR mutations, like F508del, primarily result in which cellular defect?",
+    "options": {
+      "A": "Reduced protein synthesis",
+      "B": "Defective processing and trafficking",
+      "C": "Impaired channel gating",
+      "D": "Accelerated protein degradation"
+    },
+    "correctAnswer": "B",
+    "topic": "cystic_fibrosis",
+    "deepDiveExplanation": "CFTR mutations are classified into six main classes based on their functional consequences. Class II mutations (e.g., F508del, the most common mutation) lead to misfolding of the CFTR protein, causing it to be retained in the endoplasmic reticulum and subsequently degraded. This prevents the protein from reaching the cell surface.",
+    "highYieldPearl": "F508del (Class II) means the CFTR protein never makes it to the cell membrane due to misfolding and premature degradation.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Reduced synthesis (Class I), impaired gating (Class III), and reduced conductance (Class IV) are other classes of CFTR mutations, but Class II specifically relates to processing and trafficking defects.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|cystic_fibrosis|Cystic Fibrosis|5_e84i7iov"
+  },
+  {
+    "question": "Which test is considered the gold standard for diagnosing Cystic Fibrosis?",
+    "options": {
+      "A": "Immunoreactive trypsinogen (IRT) screening",
+      "B": "Genetic testing for CFTR mutations",
+      "C": "Quantitative pilocarpine iontophoresis sweat chloride test",
+      "D": "Nasal potential difference (NPD) measurement"
+    },
+    "correctAnswer": "C",
+    "topic": "cystic_fibrosis",
+    "deepDiveExplanation": "The quantitative pilocarpine iontophoresis sweat chloride test is the gold standard for CF diagnosis. A chloride concentration ≥ 60 mmol/L (in adults and children) is diagnostic of CF, while values between 30-59 mmol/L are intermediate and require further testing. This test directly measures the functional defect in chloride transport.",
+    "highYieldPearl": "Sweat chloride test is the definitive diagnostic test for CF, reflecting abnormal chloride transport.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Easy",
+    "trapAnalysis": "IRT is a newborn screen, not a definitive diagnostic test. Genetic testing confirms the mutation but is not the sole diagnostic gold standard as some mutations have varying clinical significance or are not always detected. NPD is a specialized research or confirmatory test, not typically first-line for diagnosis.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|cystic_fibrosis|Cystic Fibrosis|5_nr5fv994"
+  },
+  {
+    "question": "In adults with Cystic Fibrosis, which pathogen is most commonly associated with chronic lung infection?",
+    "options": {
+      "A": "Staphylococcus aureus",
+      "B": "Haemophilus influenzae",
+      "C": "Pseudomonas aeruginosa",
+      "D": "Aspergillus fumigatus"
+    },
+    "correctAnswer": "C",
+    "topic": "cystic_fibrosis",
+    "deepDiveExplanation": "While *Staphylococcus aureus* and *Haemophilus influenzae* are common in early childhood CF, *Pseudomonas aeruginosa* becomes the predominant pathogen in older children and adults. It establishes chronic infection, forms biofilms, and contributes significantly to progressive lung damage and decline in lung function.",
+    "highYieldPearl": "*Pseudomonas aeruginosa* is the leading cause of chronic lung infection and morbidity in adult CF patients.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "*S. aureus* and *H. influenzae* are common in younger CF patients. *Aspergillus fumigatus* can cause allergic bronchopulmonary aspergillosis (ABPA) in CF, but *Pseudomonas* is the most common chronic bacterial pathogen overall in adults.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|cystic_fibrosis|Cystic Fibrosis|5_74j9l196"
+  },
+  {
+    "question": "Ivacaftor, a CFTR modulator, primarily functions as which type of agent?",
+    "options": {
+      "A": "Corrector",
+      "B": "Potentiator",
+      "C": "Amplifier",
+      "D": "Stabilizer"
+    },
+    "correctAnswer": "B",
+    "topic": "cystic_fibrosis",
+    "deepDiveExplanation": "CFTR modulators are drugs that target specific CFTR protein defects. Ivacaftor is a potentiator, meaning it binds to the CFTR protein at the cell surface and increases the opening probability (gating) of the chloride channel, thereby enhancing chloride transport. It is particularly effective for Class III (gating) mutations.",
+    "highYieldPearl": "Ivacaftor 'potentiates' existing CFTR channels, improving their function, especially in gating mutations.",
+    "examStyle": "NEET-SS",
+    "difficulty": "Medium",
+    "trapAnalysis": "Correctors (e.g., Lumacaftor, Tezacaftor, Elexacaftor) help misfolded Class II CFTR proteins reach the cell surface. Amplifiers and Stabilizers are not standard classifications for CFTR modulators.",
+    "isOneLiner": true,
+    "id": "one_liner_one-liner|cystic_fibrosis|Cystic Fibrosis|5_zt74c3ae"
+  }
+]
